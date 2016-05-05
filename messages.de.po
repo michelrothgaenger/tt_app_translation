@@ -3,18 +3,19 @@ msgstr ""
 "Project-Id-Version: messages.de.xliff conversion\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-04 12:50+0100\n"
-"PO-Revision-Date: 2016-05-04 12:50+0100\n"
-"Last-Translator: \n"
-"Language-Team: German\n"
+"PO-Revision-Date: 2016-05-05 18:30+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: German <http://transporttalent.com:8000/projects/transport-"
+"talent/messages/de/>\n"
 "Language: de\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Loco https://localise.biz\n"
 "X-Loco-Source-Locale: de\n"
-"X-Loco-Api-Version: 1.0.14"
+"X-Loco-Api-Version: 1.0.14\n"
 
 #: file.ext
 msgid "form.password"
@@ -7346,3 +7347,11 @@ msgstr "Ähnliche Jobs durchsuchen"
 #: file.ext
 msgid "app.searchRelatedJobs"
 msgstr "Ähnliche Jobs durchsuchen"
+
+#: file.ext
+msgid "Brussels"
+msgstr "Brussels"
+
+#: file.ext
+msgid "Schaarbeek"
+msgstr "Schaarbeek"

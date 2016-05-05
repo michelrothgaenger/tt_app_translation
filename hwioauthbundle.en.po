@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HWIOAuthBundle.en.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:59+0100\n"
+"PO-Revision-Date: 2016-05-04 12:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "Connecting"
+msgstr "Connecting"
+
+#: file.ext
+msgid "Successfully connected the account '%name%'!"
+msgstr "Successfully connected the account '%name%'!"
+
+#: file.ext
+msgid "Register with the account '%name%'"
+msgstr "Register with the account '%name%'"
+
+#: file.ext
+msgid "Successfully registered and connected the account '%username%'!"
+msgstr "Successfully registered and connected the account '%username%'!"
+
+#: file.ext
+msgid "Cancel"
+msgstr "Cancel"
+
+#: file.ext
+msgid "Connect account"
+msgstr "Connect account"
+
+#: file.ext
+msgid ""
+"Are you sure that you want to connect your %service% account '%name%' to "
+"your current account?"
+msgstr ""
+"Are you sure that you want to connect your %service% account '%name%' to "
+"your current account?"
+
+#: file.ext
+msgid "Register account"
+msgstr "Register account"
+
+# There were errors exporting to PO file
+msgctxt "Loco"
+msgid "PO render errors"
+msgstr "connect.registration.cancel is a duplicate"

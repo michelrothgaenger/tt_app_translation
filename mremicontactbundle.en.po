@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MremiContactBundle.en.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:52+0100\n"
+"PO-Revision-Date: 2016-05-04 12:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "Contact"
+msgstr "Contact"
+
+#: file.ext
+msgid "Contact form"
+msgstr "Contact form"
+
+#: file.ext
+msgid "Title"
+msgstr "Title"
+
+#: file.ext
+msgid "Mr."
+msgstr "Mr."
+
+#: file.ext
+msgid "Mrs."
+msgstr "Mrs."
+
+#: file.ext
+msgid "First name"
+msgstr "First name"
+
+#: file.ext
+msgid "Last name"
+msgstr "Last name"
+
+#: file.ext
+msgid "mremi_contact.form.email"
+msgstr "mremi_contact.form.email"
+
+#: file.ext
+msgid "mremi_contact.form.subject"
+msgstr "mremi_contact.form.subject"
+
+#: file.ext
+msgid "mremi_contact.form.message"
+msgstr "mremi_contact.form.message"
+
+#: file.ext
+msgid "Security code"
+msgstr "Security code"
+
+#: file.ext
+msgid "mremi_contact.form_submit"
+msgstr "mremi_contact.form_submit"
+
+#: file.ext
+msgid ""
+"Hello,\n"
+"A user has filled the contact form:\n"
+"Name: %name%\n"
+"Email: %email%\n"
+"Message: %message%\n"
+"Regards"
+msgstr ""
+"Hello,\n"
+"A user has filled the contact form:\n"
+"Name: %name%\n"
+"Email: %email%\n"
+"Message: %message%\n"
+"Regards"
+
+#: file.ext
+msgid ""
+"Hello, <br/> <br/> A user has filled the contact form: <br/> <br/> <strong>"
+"<em>Name:</em></strong> %name% <br/> <br/> <strong><em>Email:</em></strong> "
+"%email% <br/> <br/> <strong><em>Message:</em></strong> <br/> %message% <br/> "
+"<br/> Regards"
+msgstr ""
+"Hello, <br/> <br/> A user has filled the contact form: <br/> <br/> <strong>"
+"<em>Name:</em></strong> %name% <br/> <br/> <strong><em>Email:</em></strong> "
+"%email% <br/> <br/> <strong><em>Message:</em></strong> <br/> %message% <br/> "
+"<br/> Regards"
+
+#: file.ext
+msgid "Confirmation"
+msgstr "Confirmation"
+
+#: file.ext
+msgid "Thank you %title% %fullName%"
+msgstr "Thank you %title% %fullName%"
+
+#: file.ext
+msgid ""
+"Your request has been submitted successfully and will be considered quickly."
+msgstr ""
+"Your request has been submitted successfully and will be considered quickly."
+
+#: file.ext
+msgid "mremi_contact.form.name"
+msgstr "mremi_contact.form.name"

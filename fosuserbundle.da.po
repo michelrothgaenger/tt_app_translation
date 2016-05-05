@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FOSUserBundle.da.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:45+0100\n"
+"PO-Revision-Date: 2016-05-04 12:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: da\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "group.edit.submit"
+msgstr "Opdater gruppe"
+
+#: file.ext
+msgid "group.show.name"
+msgstr "Gruppenavn"
+
+#: file.ext
+msgid "group.new.submit"
+msgstr "Opret gruppe"
+
+#: file.ext
+msgid "group.flash.updated"
+msgstr "Gruppen er blevet opdateret"
+
+#: file.ext
+msgid "group.flash.created"
+msgstr "Gruppen er blevet oprettet"
+
+#: file.ext
+msgid "group.flash.deleted"
+msgstr "Gruppen er blevet slettet"
+
+#: file.ext
+msgid "security.login.username"
+msgstr "Brugernavn"
+
+#: file.ext
+msgid "security.login.password"
+msgstr "Password"
+
+#: file.ext
+msgid "security.login.remember_me"
+msgstr "Husk mig"
+
+#: file.ext
+msgid "security.login.submit"
+msgstr "Log ind"
+
+#: file.ext
+msgid "profile.show.username"
+msgstr "Brugernavn"
+
+#: file.ext
+msgid "profile.show.email"
+msgstr "Email"
+
+#: file.ext
+msgid "profile.edit.submit"
+msgstr "Opdater"
+
+#: file.ext
+msgid "profile.flash.updated"
+msgstr "Profilen er blevet opdateret"
+
+#: file.ext
+msgid "change_password.submit"
+msgstr "Ændre password"
+
+#: file.ext
+msgid "change_password.flash.success"
+msgstr "Password er blevet ændret"
+
+#: file.ext
+msgid "registration.check_email"
+msgstr ""
+"En e-mail er blevet sendt til %emai%. Den indeholder et aktiveringslink du "
+"skal klikke på for at aktivere din konto"
+
+#: file.ext
+msgid "registration.confirmed"
+msgstr "Tillykke %username%, din konto er nu aktiveret."
+
+#: file.ext
+msgid "registration.back"
+msgstr "Tilbage til den oprindelige side"
+
+#: file.ext
+msgid "registration.submit"
+msgstr "Registrer"
+
+#: file.ext
+msgid "registration.flash.user_created"
+msgstr "Brugeren er nu oprettet"
+
+#: file.ext
+msgid "registration.email.subject"
+msgstr "Velkommen %username%!"
+
+#: file.ext
+msgid "registration.email.message"
+msgstr ""
+"Hej %username%!<br><br>For at afslutte aktiveringen af din kont, venligst "
+"klik på <a href=\"%confirmationUrl%\">%confirmationUrl%</a><br><br>Hilsen, "
+"TransportTalent."
+
+#: file.ext
+msgid "resetting.password_already_requested"
+msgstr ""
+"Password for denne bruger er allerede blevet anmodet inden for de sidste 24 "
+"timer."
+
+#: file.ext
+msgid "resetting.request.username"
+msgstr "Brugernavn eller email adresse"
+
+#: file.ext
+msgid "resetting.request.submit"
+msgstr "Reset password"
+
+#: file.ext
+msgid "resetting.reset.submit"
+msgstr "Skift password"
+
+#: file.ext
+msgid "resetting.flash.success"
+msgstr "Password er blevet ændret"
+
+#: file.ext
+msgid "resetting.email.subject"
+msgstr "Nulstil password"
+
+#: file.ext
+msgid "resetting.email.message"
+msgstr ""
+"Hej %username%!<br><br>For at nulstille din adgangskode - besøg "
+"%confirmationUrl%<br><br>Hilsen, Teamet"
+
+#: file.ext
+msgid "resetting.request.invalid_username"
+msgstr "Det brugernavn eller email-adresse \"%username%\" findes ikke."
+
+#: file.ext
+msgid "resetting.check_email"
+msgstr ""
+"En email er blevet sendt til %email%. Den indeholder et link, du skal klikke "
+"på for at nulstille dit password."
+
+#: file.ext
+msgid "layout.logout"
+msgstr "Log ud"
+
+#: file.ext
+msgid "layout.login"
+msgstr "Log ind"
+
+#: file.ext
+msgid "layout.register"
+msgstr "Registrer"
+
+#: file.ext
+msgid "layout.logged_in_as"
+msgstr "Logged ind som %username%"
+
+#: file.ext
+msgid "form.group_name"
+msgstr "Gruppenavn"
+
+#: file.ext
+msgid "form.username"
+msgstr "Brugernavn"
+
+#: file.ext
+msgid "form.email"
+msgstr "Din emai"
+
+#: file.ext
+msgid "form.current_password"
+msgstr "Nuværende kodeord"
+
+#: file.ext
+msgid "form.password"
+msgstr "Password"
+
+#: file.ext
+msgid "form.password_confirmation"
+msgstr "Gentag password"
+
+#: file.ext
+msgid "form.new_password"
+msgstr "Nyt password"
+
+#: file.ext
+msgid "form.new_password_confirmation"
+msgstr "Gentag nyt password"
+
+#: file.ext
+msgid "form.firstName"
+msgstr "Fornavn"
+
+#: file.ext
+msgid "form.lastName"
+msgstr "Efternavn"

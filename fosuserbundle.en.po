@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FOSUserBundle.en.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:59+0100\n"
+"PO-Revision-Date: 2016-05-04 12:59+0100\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "Update group"
+msgstr "Update group"
+
+#: file.ext
+msgid "Group name"
+msgstr "Group name"
+
+#: file.ext
+msgid "Create group"
+msgstr "Create group"
+
+#: file.ext
+msgid "The group has been updated"
+msgstr "The group has been updated"
+
+#: file.ext
+msgid "The group has been created"
+msgstr "The group has been created"
+
+#: file.ext
+msgid "The group has been deleted"
+msgstr "The group has been deleted"
+
+#: file.ext
+msgid "Username"
+msgstr "Username"
+
+#: file.ext
+msgid "Password"
+msgstr "Password"
+
+#: file.ext
+msgid "Remember me"
+msgstr "Remember me"
+
+#: file.ext
+msgid "Sign in"
+msgstr "Sign in"
+
+#: file.ext
+msgid "Email"
+msgstr "Email"
+
+#: file.ext
+msgid "Update"
+msgstr "Update"
+
+#: file.ext
+msgid "The profile has been updated"
+msgstr "The profile has been updated"
+
+#: file.ext
+msgid "Change password"
+msgstr "Change password"
+
+#: file.ext
+msgid "The password has been changed"
+msgstr "The password has been changed"
+
+#: file.ext
+msgid ""
+"An email has been sent to %email%. It contains an activation link you must "
+"click to activate your account."
+msgstr ""
+"An email has been sent to %email%. It contains an activation link you must "
+"click to activate your account."
+
+#: file.ext
+msgid "Congrats %username%, your account is now activated."
+msgstr "Congrats %username%, your account is now activated."
+
+#: file.ext
+msgid "Back to the originating page."
+msgstr "Back to the originating page."
+
+#: file.ext
+msgid "Register"
+msgstr "Register"
+
+#: file.ext
+msgid "The user has been created successfully"
+msgstr "The user has been created successfully"
+
+#: file.ext
+msgid "Welcome %username%!"
+msgstr "Welcome %username%!"
+
+#: file.ext
+msgid ""
+"Hi %firstname%,<br> <br> To finish activating your account - please visit <a "
+"href=\"%confirmationUrl%\">%confirmationUrl%</a><br> <br> Regards, <br> <br> "
+"Ulrich Nissen<br> Managing Director<br>"
+msgstr ""
+"Hi %firstname%,<br> <br> To finish activating your account - please visit <a "
+"href=\"%confirmationUrl%\">%confirmationUrl%</a><br> <br> Regards, <br> <br> "
+"Ulrich Nissen<br> Managing Director<br>"
+
+#: file.ext
+msgid ""
+"The password for this user has already been requested within the last 24 "
+"hours."
+msgstr ""
+"The password for this user has already been requested within the last 24 "
+"hours."
+
+#: file.ext
+msgid ""
+"An email has been sent to %email%. It contains a link you must click to "
+"reset your password."
+msgstr ""
+"An email has been sent to %email%. It contains a link you must click to "
+"reset your password."
+
+#: file.ext
+msgid "The username or email address \"%username%\" does not exist."
+msgstr "The username or email address \"%username%\" does not exist."
+
+#: file.ext
+msgid "Username or email address"
+msgstr "Username or email address"
+
+#: file.ext
+msgid "Reset password"
+msgstr "Reset password"
+
+#: file.ext
+msgid "The password has been reset successfully"
+msgstr "The password has been reset successfully"
+
+#: file.ext
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: file.ext
+msgid ""
+"Hello %username%!<br><br>To reset your password - please visit "
+"%confirmationUrl%<br><br>Regards,the Team."
+msgstr ""
+"Hello %username%!<br><br>To reset your password - please visit "
+"%confirmationUrl%<br><br>Regards,the Team."
+
+#: file.ext
+msgid "Sign Out"
+msgstr "Sign Out"
+
+#: file.ext
+msgid "Logged in as %username%"
+msgstr "Logged in as %username%"
+
+#: file.ext
+msgid "Your email"
+msgstr "Your email"
+
+#: file.ext
+msgid "Current password"
+msgstr "Current password"
+
+#: file.ext
+msgid "Confirm password"
+msgstr "Confirm password"
+
+#: file.ext
+msgid "New password"
+msgstr "New password"
+
+#: file.ext
+msgid "Repeat new password"
+msgstr "Repeat new password"
+
+#: file.ext
+msgid "First name"
+msgstr "First name"
+
+#: file.ext
+msgid "Last name"
+msgstr "Last name"
+
+# There were errors exporting to PO file
+msgctxt "Loco"
+msgid "PO render errors"
+msgstr ""
+"profile.show.username is a duplicate\n"
+"resetting.reset.submit is a duplicate\n"
+"layout.login is a duplicate\n"
+"layout.register is a duplicate\n"
+"form.group_name is a duplicate\n"
+"form.username is a duplicate\n"
+"form.password is a duplicate"

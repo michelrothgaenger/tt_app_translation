@@ -1,0 +1,573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: validators.de.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:56+0100\n"
+"PO-Revision-Date: 2016-05-04 12:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: de\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "This value should be false."
+msgstr "Dieser Wert sollte false sein."
+
+#: file.ext
+msgid "This value should be true."
+msgstr "Dieser Wert sollte true sein."
+
+#: file.ext
+msgid "This value should be of type {{ type }}."
+msgstr "Dieser Wert sollte vom Typ {{ type }} sein."
+
+#: file.ext
+msgid "This value should be blank."
+msgstr "Dieser Wert sollte leer sein."
+
+#: file.ext
+msgid "The value you selected is not a valid choice."
+msgstr "Sie haben einen ungültigen Wert ausgewählt."
+
+#: file.ext
+msgid ""
+"You must select at least {{ limit }} choice.|You must select at least {{ "
+"limit }} choices."
+msgstr ""
+"Sie müssen mindestens {{ limit }} Möglichkeit wählen.|Sie müssen mindestens "
+"{{ limit }} Möglichkeiten wählen."
+
+#: file.ext
+msgid ""
+"You must select at most {{ limit }} choice.|You must select at most {{ limit "
+"}} choices."
+msgstr ""
+"Sie dürfen höchstens {{ limit }} Möglichkeit wählen.|Sie dürfen höchstens {{ "
+"limit }} Möglichkeiten wählen."
+
+#: file.ext
+msgid "One or more of the given values is invalid."
+msgstr "Einer oder mehrere der angegebenen Werte sind ungültig."
+
+#: file.ext
+msgid "This field was not expected."
+msgstr "Dieses Feld wurde nicht erwartet."
+
+#: file.ext
+msgid "This field is missing."
+msgstr "Dieses Feld fehlt."
+
+#: file.ext
+msgid "This value is not a valid date."
+msgstr "Dieser Wert entspricht keiner gültigen Datumsangabe."
+
+#: file.ext
+msgid "This value is not a valid datetime."
+msgstr "Dieser Wert entspricht keiner gültigen Datums- und Zeitangabe."
+
+#: file.ext
+msgid "This value is not a valid email address."
+msgstr "Dieser Wert ist keine gültige E-Mail-Adresse."
+
+#: file.ext
+msgid "The file could not be found."
+msgstr "Die Datei wurde nicht gefunden."
+
+#: file.ext
+msgid "The file is not readable."
+msgstr "Die Datei ist nicht lesbar."
+
+#: file.ext
+msgid ""
+"The file is too large ({{ size }} {{ suffix }}). Allowed maximum size is {{ "
+"limit }} {{ suffix }}."
+msgstr ""
+"Die Datei ist zu groß ({{ size }} {{ suffix }}). Die maximal zulässige Größe "
+"beträgt {{ limit }} {{ suffix }}."
+
+#: file.ext
+msgid ""
+"The mime type of the file is invalid ({{ type }}). Allowed mime types are {{ "
+"types }}."
+msgstr ""
+"Der Dateityp ist ungültig ({{ type }}). Erlaubte Dateitypen sind {{ types }}."
+
+#: file.ext
+msgid "This value should be {{ limit }} or less."
+msgstr "Dieser Wert sollte kleiner oder gleich {{ limit }} sein."
+
+#: file.ext
+msgid ""
+"This value is too long. It should have {{ limit }} character or less.|This "
+"value is too long. It should have {{ limit }} characters or less."
+msgstr ""
+"Diese Zeichenkette ist zu lang. Sie sollte höchstens {{ limit }} Zeichen "
+"haben.|Diese Zeichenkette ist zu lang. Sie sollte höchstens {{ limit }} "
+"Zeichen haben."
+
+#: file.ext
+msgid "This value should be {{ limit }} or more."
+msgstr "Dieser Wert sollte größer oder gleich {{ limit }} sein."
+
+#: file.ext
+msgid ""
+"This value is too short. It should have {{ limit }} character or more.|This "
+"value is too short. It should have {{ limit }} characters or more."
+msgstr ""
+"Diese Zeichenkette ist zu kurz. Sie sollte mindestens {{ limit }} Zeichen "
+"haben.|Diese Zeichenkette ist zu kurz. Sie sollte mindestens {{ limit }} "
+"Zeichen haben."
+
+#: file.ext
+msgid "This value should not be blank."
+msgstr "Dieser Wert sollte nicht leer sein."
+
+#: file.ext
+msgid "This value should not be null."
+msgstr "Dieser Wert sollte nicht null sein."
+
+#: file.ext
+msgid "This value should be null."
+msgstr "Dieser Wert sollte null sein."
+
+#: file.ext
+msgid "This value is not valid."
+msgstr "Dieser Wert ist nicht gültig."
+
+#: file.ext
+msgid "This value is not a valid time."
+msgstr "Dieser Wert entspricht keiner gültigen Zeitangabe."
+
+#: file.ext
+msgid "This value is not a valid URL."
+msgstr "Dieser Wert ist keine gültige URL."
+
+#: file.ext
+msgid "The two values should be equal."
+msgstr "Die beiden Werte sollten identisch sein."
+
+#: file.ext
+msgid ""
+"The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}."
+msgstr ""
+"Die Datei ist zu groß. Die maximal zulässige Größe beträgt {{ limit }} {{ "
+"suffix }}."
+
+#: file.ext
+msgid "The file is too large."
+msgstr "Die Datei ist zu groß."
+
+#: file.ext
+msgid "The file could not be uploaded."
+msgstr "Die Datei konnte nicht hochgeladen werden."
+
+#: file.ext
+msgid "This value should be a valid number."
+msgstr "Dieser Wert sollte eine gültige Zahl sein."
+
+#: file.ext
+msgid "This file is not a valid image."
+msgstr "Diese Datei ist kein gültiges Bild."
+
+#: file.ext
+msgid "This is not a valid IP address."
+msgstr "Dies ist keine gültige IP-Adresse."
+
+#: file.ext
+msgid "This value is not a valid language."
+msgstr "Dieser Wert entspricht keiner gültigen Sprache."
+
+#: file.ext
+msgid "This value is not a valid locale."
+msgstr "Dieser Wert entspricht keinem gültigen Gebietsschema."
+
+#: file.ext
+msgid "This value is not a valid country."
+msgstr "Dieser Wert entspricht keinem gültigen Land."
+
+#: file.ext
+msgid "This value is already used."
+msgstr "Dieser Wert wird bereits verwendet."
+
+#: file.ext
+msgid "The size of the image could not be detected."
+msgstr "Die Größe des Bildes konnte nicht ermittelt werden."
+
+#: file.ext
+msgid ""
+"The image width is too big ({{ width }}px). Allowed maximum width is {{ "
+"max_width }}px."
+msgstr ""
+"Die Bildbreite ist zu groß ({{ width }}px). Die maximal zulässige Breite "
+"beträgt {{ max_width }}px."
+
+#: file.ext
+msgid ""
+"The image width is too small ({{ width }}px). Minimum width expected is {{ "
+"min_width }}px."
+msgstr ""
+"Die Bildbreite ist zu gering ({{ width }}px). Die erwartete Mindestbreite "
+"beträgt {{ min_width }}px."
+
+#: file.ext
+msgid ""
+"The image height is too big ({{ height }}px). Allowed maximum height is {{ "
+"max_height }}px."
+msgstr ""
+"Die Bildhöhe ist zu groß ({{ height }}px). Die maximal zulässige Höhe "
+"beträgt {{ max_height }}px."
+
+#: file.ext
+msgid ""
+"The image height is too small ({{ height }}px). Minimum height expected is "
+"{{ min_height }}px."
+msgstr ""
+"Die Bildhöhe ist zu gering ({{ height }}px). Die erwartete Mindesthöhe "
+"beträgt {{ min_height }}px."
+
+#: file.ext
+msgid "This value should be the user's current password."
+msgstr "Dieser Wert sollte dem aktuellen Benutzerpasswort entsprechen."
+
+#: file.ext
+msgid ""
+"This value should have exactly {{ limit }} character.|This value should have "
+"exactly {{ limit }} characters."
+msgstr ""
+"Dieser Wert sollte genau {{ limit }} Zeichen lang sein.|Dieser Wert sollte "
+"genau {{ limit }} Zeichen lang sein."
+
+#: file.ext
+msgid "The file was only partially uploaded."
+msgstr "Die Datei wurde nur teilweise hochgeladen."
+
+#: file.ext
+msgid "No file was uploaded."
+msgstr "Es wurde keine Datei hochgeladen."
+
+#: file.ext
+msgid "No temporary folder was configured in php.ini."
+msgstr "Es wurde kein temporärer Ordner in der php.ini konfiguriert."
+
+#: file.ext
+msgid "Cannot write temporary file to disk."
+msgstr "Kann die temporäre Datei nicht speichern."
+
+#: file.ext
+msgid "A PHP extension caused the upload to fail."
+msgstr "Eine PHP-Erweiterung verhinderte den Upload."
+
+#: file.ext
+msgid ""
+"This collection should contain {{ limit }} element or more.|This collection "
+"should contain {{ limit }} elements or more."
+msgstr ""
+"Diese Sammlung sollte {{ limit }} oder mehr Elemente beinhalten.|Diese "
+"Sammlung sollte {{ limit }} oder mehr Elemente beinhalten."
+
+#: file.ext
+msgid ""
+"This collection should contain {{ limit }} element or less.|This collection "
+"should contain {{ limit }} elements or less."
+msgstr ""
+"Diese Sammlung sollte {{ limit }} oder weniger Elemente beinhalten.|Diese "
+"Sammlung sollte {{ limit }} oder weniger Elemente beinhalten."
+
+#: file.ext
+msgid ""
+"This collection should contain exactly {{ limit }} element.|This collection "
+"should contain exactly {{ limit }} elements."
+msgstr ""
+"Diese Sammlung sollte genau {{ limit }} Element beinhalten.|Diese Sammlung "
+"sollte genau {{ limit }} Elemente beinhalten."
+
+#: file.ext
+msgid "Invalid card number."
+msgstr "Ungültige Kartennummer."
+
+#: file.ext
+msgid "Unsupported card type or invalid card number."
+msgstr "Nicht unterstützer Kartentyp oder ungültige Kartennummer."
+
+#: file.ext
+msgid "This is not a valid International Bank Account Number (IBAN)."
+msgstr "Dieser Wert ist keine gültige internationale Bankkontonummer (IBAN)."
+
+#: file.ext
+msgid "This value is not a valid ISBN-10."
+msgstr "Dieser Wert entspricht keiner gültigen ISBN-10."
+
+#: file.ext
+msgid "This value is not a valid ISBN-13."
+msgstr "Dieser Wert entspricht keiner gültigen ISBN-13."
+
+#: file.ext
+msgid "This value is neither a valid ISBN-10 nor a valid ISBN-13."
+msgstr "Dieser Wert ist weder eine gültige ISBN-10 noch eine gültige ISBN-13."
+
+#: file.ext
+msgid "This value is not a valid ISSN."
+msgstr "Dieser Wert ist keine gültige ISSN."
+
+#: file.ext
+msgid "This value is not a valid currency."
+msgstr "Dieser Wert ist keine gültige Währung."
+
+#: file.ext
+msgid "This value should be equal to {{ compared_value }}."
+msgstr "Dieser Wert sollte gleich {{ compared_value }} sein."
+
+#: file.ext
+msgid "This value should be greater than {{ compared_value }}."
+msgstr "Dieser Wert sollte größer als {{ compared_value }} sein."
+
+#: file.ext
+msgid "This value should be greater than or equal to {{ compared_value }}."
+msgstr "Dieser Wert sollte größer oder gleich {{ compared_value }} sein."
+
+#: file.ext
+msgid ""
+"This value should be identical to {{ compared_value_type }} {{ "
+"compared_value }}."
+msgstr ""
+"Dieser Wert sollte identisch sein mit {{ compared_value_type }} {{ "
+"compared_value }}."
+
+#: file.ext
+msgid "This value should be less than {{ compared_value }}."
+msgstr "Dieser Wert sollte kleiner als {{ compared_value }} sein."
+
+#: file.ext
+msgid "This value should be less than or equal to {{ compared_value }}."
+msgstr "Dieser Wert sollte kleiner oder gleich {{ compared_value }} sein."
+
+#: file.ext
+msgid "This value should not be equal to {{ compared_value }}."
+msgstr "Dieser Wert sollte nicht {{ compared_value }} sein."
+
+#: file.ext
+msgid ""
+"This value should not be identical to {{ compared_value_type }} {{ "
+"compared_value }}."
+msgstr ""
+"Dieser Wert sollte nicht identisch sein mit {{ compared_value_type }} {{ "
+"compared_value }}."
+
+#: file.ext
+msgid ""
+"The image ratio is too big ({{ ratio }}). Allowed maximum ratio is {{ "
+"max_ratio }}."
+msgstr ""
+"Das Seitenverhältnis des Bildes ist zu groß ({{ ratio }}). Der erlaubte "
+"Maximalwert ist {{ max_ratio }}."
+
+#: file.ext
+msgid ""
+"The image ratio is too small ({{ ratio }}). Minimum ratio expected is {{ "
+"min_ratio }}."
+msgstr ""
+"Das Seitenverhältnis des Bildes ist zu klein ({{ ratio }}). Der erwartete "
+"Minimalwert ist {{ min_ratio }}."
+
+#: file.ext
+msgid ""
+"The image is square ({{ width }}x{{ height }}px). Square images are not "
+"allowed."
+msgstr ""
+"Das Bild ist quadratisch ({{ width }}x{{ height }}px). Quadratische Bilder "
+"sind nicht erlaubt."
+
+#: file.ext
+msgid ""
+"The image is landscape oriented ({{ width }}x{{ height }}px). Landscape "
+"oriented images are not allowed."
+msgstr ""
+"Das Bild ist im Querformat ({{ width }}x{{ height }}px). Bilder im "
+"Querformat sind nicht erlaubt."
+
+#: file.ext
+msgid ""
+"The image is portrait oriented ({{ width }}x{{ height }}px). Portrait "
+"oriented images are not allowed."
+msgstr ""
+"Das Bild ist im Hochformat ({{ width }}x{{ height }}px). Bilder im "
+"Hochformat sind nicht erlaubt."
+
+#: file.ext
+msgid "An empty file is not allowed."
+msgstr "Eine leere Datei ist nicht erlaubt."
+
+#: file.ext
+msgid "The host could not be resolved."
+msgstr "Der Hostname konnte nicht aufgelöst werden."
+
+#: file.ext
+msgid "This value does not match the expected {{ charset }} charset."
+msgstr "Dieser Wert entspricht nicht dem erwarteten Zeichensatz {{ charset }}."
+
+#: file.ext
+msgid "This form should not contain extra fields."
+msgstr "Dieses Formular sollte keine zusätzlichen Felder enthalten."
+
+#: file.ext
+msgid "The uploaded file was too large. Please try to upload a smaller file."
+msgstr ""
+"Die hochgeladene Datei ist zu groß. Versuchen Sie bitte eine kleinere Datei "
+"hochzuladen."
+
+#: file.ext
+msgid "The CSRF token is invalid. Please try to resubmit the form."
+msgstr ""
+"Der CSRF-Token ist ungültig. Versuchen Sie bitte das Formular erneut zu "
+"senden."
+
+#: file.ext
+msgid "fos_user.username.already_used"
+msgstr "fos_user.username.already_used"
+
+#: file.ext
+msgid "fos_user.username.blank"
+msgstr "fos_user.username.blank"
+
+#: file.ext
+msgid "fos_user.username.short"
+msgstr "fos_user.username.short"
+
+#: file.ext
+msgid "fos_user.username.long"
+msgstr "fos_user.username.long"
+
+#: file.ext
+msgid "fos_user.email.already_used"
+msgstr "Diese E-Mail-Adresse wurde bereits registriert"
+
+#: file.ext
+msgid "fos_user.email.blank"
+msgstr "E-Mail-Adresse nicht eingegeben"
+
+#: file.ext
+msgid "fos_user.email.short"
+msgstr "E-Mail-Adresse zu kurz"
+
+#: file.ext
+msgid "fos_user.email.long"
+msgstr "E-Mail-Adresse zu lang"
+
+#: file.ext
+msgid "fos_user.email.invalid"
+msgstr "E-Mail-Adresse ungültig"
+
+#: file.ext
+msgid "fos_user.password.blank"
+msgstr "fos_user.password.blank"
+
+#: file.ext
+msgid "fos_user.password.short"
+msgstr "fos_user.password.short"
+
+#: file.ext
+msgid "fos_user.password.mismatch"
+msgstr "fos_user.password.mismatch"
+
+#: file.ext
+msgid "fos_user.new_password.blank"
+msgstr "Bitte geben Sie ein neues Passwort an"
+
+#: file.ext
+msgid "fos_user.new_password.short"
+msgstr "[-Inf,Inf]Das neue Passwort ist zu kurz"
+
+#: file.ext
+msgid "fos_user.current_password.invalid"
+msgstr "Das angegebene Passwort ist ungültig"
+
+#: file.ext
+msgid "fos_user.group.blank"
+msgstr "Bitte geben Sie einen Namen an"
+
+#: file.ext
+msgid "fos_user.group.short"
+msgstr "[-Inf,Inf]Dieser Name ist zu kurz"
+
+#: file.ext
+msgid "fos_user.group.long"
+msgstr "[-Inf,Inf]Dieser Name ist zu lang"
+
+#: file.ext
+msgid "mremi_contact.created_at.invalid"
+msgstr "mremi_contact.created_at.invalid"
+
+#: file.ext
+msgid "mremi_contact.email.blank"
+msgstr "mremi_contact.email.blank"
+
+#: file.ext
+msgid "mremi_contact.email.invalid"
+msgstr "mremi_contact.email.invalid"
+
+#: file.ext
+msgid "mremi_contact.email.long"
+msgstr "mremi_contact.email.long"
+
+#: file.ext
+msgid "mremi_contact.email.short"
+msgstr "mremi_contact.email.short"
+
+#: file.ext
+msgid "mremi_contact.first_name.blank"
+msgstr "mremi_contact.first_name.blank"
+
+#: file.ext
+msgid "mremi_contact.first_name.long"
+msgstr "mremi_contact.first_name.long"
+
+#: file.ext
+msgid "mremi_contact.first_name.short"
+msgstr "mremi_contact.first_name.short"
+
+#: file.ext
+msgid "mremi_contact.last_name.blank"
+msgstr "mremi_contact.last_name.blank"
+
+#: file.ext
+msgid "mremi_contact.last_name.long"
+msgstr "mremi_contact.last_name.long"
+
+#: file.ext
+msgid "mremi_contact.last_name.short"
+msgstr "mremi_contact.last_name.short"
+
+#: file.ext
+msgid "mremi_contact.message.blank"
+msgstr "mremi_contact.message.blank"
+
+#: file.ext
+msgid "mremi_contact.message.long"
+msgstr "mremi_contact.message.long"
+
+#: file.ext
+msgid "mremi_contact.message.short"
+msgstr "mremi_contact.message.short"
+
+#: file.ext
+msgid "mremi_contact.subject.blank"
+msgstr "mremi_contact.subject.blank"
+
+#: file.ext
+msgid "mremi_contact.subject.long"
+msgstr "mremi_contact.subject.long"
+
+#: file.ext
+msgid "mremi_contact.subject.short"
+msgstr "mremi_contact.subject.short"
+
+#: file.ext
+msgid "mremi_contact.title.blank"
+msgstr "mremi_contact.title.blank"

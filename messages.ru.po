@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: messages.ru.xliff conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-04 12:51+0100\n"
+"PO-Revision-Date: 2016-05-04 12:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: ru\n"
+"X-Loco-Api-Version: 1.0.14"
+
+#: file.ext
+msgid "Europe"
+msgstr "Европа"
+
+#: file.ext
+msgid "North America"
+msgstr "Северная Америка"
+
+#: file.ext
+msgid "Latin America"
+msgstr "Латинская Америка"
+
+#: file.ext
+msgid "Africa"
+msgstr "Африка"
+
+#: file.ext
+msgid "Middle East"
+msgstr "Ближний Восток"
+
+#: file.ext
+msgid "Asia Pacific"
+msgstr "Азиатско-тихоокеанский регион"
+
+#: file.ext
+msgid "app.e.g.Company"
+msgstr "напр. Компания"
+
+#: file.ext
+msgid "app.plan1Price"
+msgstr "EUR 12,995"
+
+#: file.ext
+msgid "Vietnam"
+msgstr "Вьетнам"

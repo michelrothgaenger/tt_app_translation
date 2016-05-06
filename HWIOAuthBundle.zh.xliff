@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="zh">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[header.connecting]]></source>
+        <target><![CDATA[Connecting]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[header.success]]></source>
+        <target><![CDATA[Successfully connected the account '%name%'!]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[header.register]]></source>
+        <target><![CDATA[Register with the account '%name%']]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[header.registration_success]]></source>
+        <target><![CDATA[Successfully registered and connected the account '%username%'!]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[connect.confirm.cancel]]></source>
+        <target><![CDATA[Cancel]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[connect.confirm.submit]]></source>
+        <target><![CDATA[Connect account]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[connect.confirm.text]]></source>
+        <target><![CDATA[Are you sure that you want to connect your %service% account '%name%' to your current account?]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[connect.registration.cancel]]></source>
+        <target><![CDATA[Cancel]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[connect.registration.submit]]></source>
+        <target><![CDATA[Register account]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

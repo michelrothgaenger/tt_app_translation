@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="vi">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[A PHP extension stopped the file upload]]></source>
+        <target><![CDATA[A PHP extension stopped the file upload]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[Add image]]></source>
+        <target><![CDATA[Add image]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[Crop & Use !]]></source>
+        <target><![CDATA[Crop & Use !]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[Crop and Use]]></source>
+        <target><![CDATA[Crop and Use]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[Drop your file here]]></source>
+        <target><![CDATA[Drop your file here]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[Edit]]></source>
+        <target><![CDATA[Edit]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[Failed to resize image]]></source>
+        <target><![CDATA[Failed to resize image]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[Failed to write file to disk]]></source>
+        <target><![CDATA[Failed to write file to disk]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[File is too big]]></source>
+        <target><![CDATA[File is too big]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[File is too small]]></source>
+        <target><![CDATA[File is too small]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[File upload aborted]]></source>
+        <target><![CDATA[File upload aborted]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[Filetype not allowed]]></source>
+        <target><![CDATA[Filetype not allowed]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[Image exceeds maximum height]]></source>
+        <target><![CDATA[Image exceeds maximum height]]></target>
+      </trans-unit>
+      <trans-unit id="14" approved="yes">
+        <source><![CDATA[Image exceeds maximum width]]></source>
+        <target><![CDATA[Image exceeds maximum width]]></target>
+      </trans-unit>
+      <trans-unit id="15" approved="yes">
+        <source><![CDATA[Image requires a minimum height (%min%)]]></source>
+        <target><![CDATA[Image requires a minimum height (%min%)]]></target>
+      </trans-unit>
+      <trans-unit id="16" approved="yes">
+        <source><![CDATA[Image requires a minimum width (%min%)]]></source>
+        <target><![CDATA[Image requires a minimum width (%min%)]]></target>
+      </trans-unit>
+      <trans-unit id="17" approved="yes">
+        <source><![CDATA[Insert Image]]></source>
+        <target><![CDATA[Insert Image]]></target>
+      </trans-unit>
+      <trans-unit id="18" approved="yes">
+        <source><![CDATA[Maximum number of files exceeded]]></source>
+        <target><![CDATA[Maximum number of files exceeded]]></target>
+      </trans-unit>
+      <trans-unit id="19" approved="yes">
+        <source><![CDATA[Missing a temporary folder]]></source>
+        <target><![CDATA[Missing a temporary folder]]></target>
+      </trans-unit>
+      <trans-unit id="20" approved="yes">
+        <source><![CDATA[No file was uploaded]]></source>
+        <target><![CDATA[No file was uploaded]]></target>
+      </trans-unit>
+      <trans-unit id="21" approved="yes">
+        <source><![CDATA[Please adjust selection to your image]]></source>
+        <target><![CDATA[Please adjust selection to your image]]></target>
+      </trans-unit>
+      <trans-unit id="22" approved="yes">
+        <source><![CDATA[Please select or upload an image]]></source>
+        <target><![CDATA[Please select or upload an image]]></target>
+      </trans-unit>
+      <trans-unit id="23" approved="yes">
+        <source><![CDATA[Select Existing]]></source>
+        <target><![CDATA[Select existing file]]></target>
+      </trans-unit>
+      <trans-unit id="24" approved="yes">
+        <source><![CDATA[Select a file...]]></source>
+        <target><![CDATA[Select a file...]]></target>
+      </trans-unit>
+      <trans-unit id="25" approved="yes">
+        <source><![CDATA[The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form]]></source>
+        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      </trans-unit>
+      <trans-unit id="26" approved="yes">
+        <source><![CDATA[The uploaded file exceeds the post_max_size directive in php.ini]]></source>
+        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      </trans-unit>
+      <trans-unit id="27" approved="yes">
+        <source><![CDATA[The uploaded file exceeds the upload_max_filesize directive in php.ini]]></source>
+        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      </trans-unit>
+      <trans-unit id="28" approved="yes">
+        <source><![CDATA[The uploaded file was only partially uploaded]]></source>
+        <target><![CDATA[The uploaded file was only partially uploaded]]></target>
+      </trans-unit>
+      <trans-unit id="29" approved="yes">
+        <source><![CDATA[Upload Image]]></source>
+        <target><![CDATA[Upload Image]]></target>
+      </trans-unit>
+      <trans-unit id="30" approved="yes">
+        <source><![CDATA[or]]></source>
+        <target><![CDATA[or]]></target>
+      </trans-unit>
+      <trans-unit id="31" approved="yes">
+        <source><![CDATA[Close]]></source>
+        <target><![CDATA[Close]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

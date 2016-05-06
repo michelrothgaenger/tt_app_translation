@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[header.connecting]]></source>
+        <target><![CDATA[Forbinder]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[header.success]]></source>
+        <target><![CDATA[Du er nu tilsluttet kontoen '% navn %'!.]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[header.register]]></source>
+        <target><![CDATA[Registrer med kontoen" %navn%']]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[connect.confirm.cancel]]></source>
+        <target><![CDATA[Annuler]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[connect.registration.submit]]></source>
+        <target><![CDATA[Registrer konto]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[connect.confirm.text]]></source>
+        <target><![CDATA[Er du sikker på at du vil forbinde din %service% konto '%name%' til din nuværende konto?]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[connect.registration.cancel]]></source>
+        <target><![CDATA[Fortryd]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[connect.confirm.submit]]></source>
+        <target><![CDATA[Forbind konto]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[header.registration_success]]></source>
+        <target><![CDATA[Du har nu registreret og forbundet kontoen '%username%'!]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

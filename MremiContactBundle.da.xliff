@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[mremi_contact.form_page_title]]></source>
+        <target><![CDATA[Kontakt]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[mremi_contact.form_title]]></source>
+        <target><![CDATA[Kontaktformular]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[mremi_contact.form.title]]></source>
+        <target><![CDATA[Titel]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mr]]></source>
+        <target><![CDATA[Hr.]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mrs]]></source>
+        <target><![CDATA[Fru]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[mremi_contact.form.first_name]]></source>
+        <target><![CDATA[Fornavn]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[mremi_contact.form.last_name]]></source>
+        <target><![CDATA[Efternavn]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[mremi_contact.form.captcha]]></source>
+        <target><![CDATA[Sikkerhedskode]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_page_title]]></source>
+        <target><![CDATA[Bekræftelse]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

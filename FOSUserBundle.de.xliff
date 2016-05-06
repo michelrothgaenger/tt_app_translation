@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[group.edit.submit]]></source>
+        <target><![CDATA[Gruppe aktualisieren]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[group.show.name]]></source>
+        <target><![CDATA[Gruppenname]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[group.new.submit]]></source>
+        <target><![CDATA[Gruppe erstellen]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[group.flash.updated]]></source>
+        <target><![CDATA[Die Gruppe wurde aktualisiert]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[group.flash.created]]></source>
+        <target><![CDATA[Die Gruppe wurde erstellt]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[group.flash.deleted]]></source>
+        <target><![CDATA[Die Gruppe wurde gelöscht]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[security.login.username]]></source>
+        <target><![CDATA[Benutzername]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[security.login.password]]></source>
+        <target><![CDATA[Passwort]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[security.login.remember_me]]></source>
+        <target><![CDATA[An mich erinnern]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[security.login.submit]]></source>
+        <target><![CDATA[Anmelden]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[profile.show.username]]></source>
+        <target><![CDATA[Benutzername]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[profile.show.email]]></source>
+        <target><![CDATA[E-Mail]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[profile.edit.submit]]></source>
+        <target><![CDATA[Benutzer aktualisieren]]></target>
+      </trans-unit>
+      <trans-unit id="14" approved="yes">
+        <source><![CDATA[profile.flash.updated]]></source>
+        <target><![CDATA[Das Benutzerprofil wurde aktualisiert]]></target>
+      </trans-unit>
+      <trans-unit id="15" approved="yes">
+        <source><![CDATA[change_password.submit]]></source>
+        <target><![CDATA[Passwort ändern]]></target>
+      </trans-unit>
+      <trans-unit id="16" approved="yes">
+        <source><![CDATA[change_password.flash.success]]></source>
+        <target><![CDATA[Das Passwort wurde geändert]]></target>
+      </trans-unit>
+      <trans-unit id="17" approved="yes">
+        <source><![CDATA[registration.check_email]]></source>
+        <target><![CDATA[Eine E-Mail wurde an %email% gesendet. Um die Anmeldung abzuschließen muss der Bestätigungslink in der E-Mail angeklickt werden.]]></target>
+      </trans-unit>
+      <trans-unit id="18" approved="yes">
+        <source><![CDATA[registration.confirmed]]></source>
+        <target><![CDATA[Herzlichen Glückwunsch, das Benutzerkonto wurde erfolgreich bestätigt.]]></target>
+      </trans-unit>
+      <trans-unit id="19" approved="yes">
+        <source><![CDATA[registration.back]]></source>
+        <target><![CDATA[Zurück zur ursprünglichen Seite.]]></target>
+      </trans-unit>
+      <trans-unit id="20" approved="yes">
+        <source><![CDATA[registration.submit]]></source>
+        <target><![CDATA[Registrieren]]></target>
+      </trans-unit>
+      <trans-unit id="21" approved="yes">
+        <source><![CDATA[registration.flash.user_created]]></source>
+        <target><![CDATA[Der Benutzer wurde erfolgreich erstellt]]></target>
+      </trans-unit>
+      <trans-unit id="22" approved="yes">
+        <source><![CDATA[registration.email.subject]]></source>
+        <target><![CDATA[Willkommen %username%!]]></target>
+      </trans-unit>
+      <trans-unit id="23" approved="yes">
+        <source><![CDATA[registration.email.message]]></source>
+        <target><![CDATA[Hallo %firstname%,<br> <br> vielen Dank, dass du dich bei uns angemeldet hast. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicke hier, um deine Anmeldung zu bestätigen</a>. Nach dem Abschluss deiner Anmeldung erhältst du eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Solltest du Fragen haben, so wende dich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir freuen uns, dass du dabei bist und wünschen dir schon jetzt viel Erfolg bei deiner beruflichen Entwicklung.<br> <br> Mit freundlichen Grüßen,<br> <br> Michel Rothgaenger<br> Geschäftsführer DACH<br>]]></target>
+      </trans-unit>
+      <trans-unit id="24" approved="yes">
+        <source><![CDATA[resetting.password_already_requested]]></source>
+        <target><![CDATA[Für diesen Benutzer wurde in den vergangenen 24 Stunden bereits ein neues Passwort beantragt.]]></target>
+      </trans-unit>
+      <trans-unit id="25" approved="yes">
+        <source><![CDATA[resetting.check_email]]></source>
+        <target><![CDATA[Eine E-Mail wurde an %email% gesendet. Sie enthält einen Link, um das Passwort zurückzusetzen.]]></target>
+      </trans-unit>
+      <trans-unit id="26" approved="yes">
+        <source><![CDATA[resetting.request.invalid_username]]></source>
+        <target><![CDATA[Der Benutzername oder die E-Mail-Adresse "%username%" existiert nicht.]]></target>
+      </trans-unit>
+      <trans-unit id="27" approved="yes">
+        <source><![CDATA[resetting.request.username]]></source>
+        <target><![CDATA[Benutzername oder E-Mail-Adresse]]></target>
+      </trans-unit>
+      <trans-unit id="28" approved="yes">
+        <source><![CDATA[resetting.request.submit]]></source>
+        <target><![CDATA[Zurücksetzen]]></target>
+      </trans-unit>
+      <trans-unit id="29" approved="yes">
+        <source><![CDATA[resetting.reset.submit]]></source>
+        <target><![CDATA[Passwort ändern]]></target>
+      </trans-unit>
+      <trans-unit id="30" approved="yes">
+        <source><![CDATA[resetting.flash.success]]></source>
+        <target><![CDATA[Das Passwort wurde erfolgreich zurückgesetzt]]></target>
+      </trans-unit>
+      <trans-unit id="31" approved="yes">
+        <source><![CDATA[resetting.email.subject]]></source>
+        <target><![CDATA[Passwort zurücksetzen]]></target>
+      </trans-unit>
+      <trans-unit id="32" approved="yes">
+        <source><![CDATA[resetting.email.message]]></source>
+        <target><![CDATA[Hallo %username%,<br> <br> jemand hat ein neues Passwort für das Konto bei Transport Talent angefordert. <br> <br> <div style="text-align: center;"><a href="%confirmationUrl%"><span style="font-weight: bold;">Hier klicken, um ein neues Passwort zu erstellen.</span> </a><br> </div> <br> Bei Fragen stehen wir gern jederzeit unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> zur Verfügung.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger<br> Regionalleiter DACH<br>]]></target>
+      </trans-unit>
+      <trans-unit id="33" approved="yes">
+        <source><![CDATA[layout.logout]]></source>
+        <target><![CDATA[Abmelden]]></target>
+      </trans-unit>
+      <trans-unit id="34" approved="yes">
+        <source><![CDATA[layout.login]]></source>
+        <target><![CDATA[Anmelden]]></target>
+      </trans-unit>
+      <trans-unit id="35" approved="yes">
+        <source><![CDATA[layout.register]]></source>
+        <target><![CDATA[Registrieren]]></target>
+      </trans-unit>
+      <trans-unit id="36" approved="yes">
+        <source><![CDATA[layout.logged_in_as]]></source>
+        <target><![CDATA[Angemeldet als %username%]]></target>
+      </trans-unit>
+      <trans-unit id="37" approved="yes">
+        <source><![CDATA[form.group_name]]></source>
+        <target><![CDATA[Gruppenname]]></target>
+      </trans-unit>
+      <trans-unit id="38" approved="yes">
+        <source><![CDATA[form.username]]></source>
+        <target><![CDATA[Benutzername]]></target>
+      </trans-unit>
+      <trans-unit id="39" approved="yes">
+        <source><![CDATA[form.email]]></source>
+        <target><![CDATA[E-Mail-Adresse]]></target>
+      </trans-unit>
+      <trans-unit id="40" approved="yes">
+        <source><![CDATA[form.current_password]]></source>
+        <target><![CDATA[Derzeitiges Passwort]]></target>
+      </trans-unit>
+      <trans-unit id="41" approved="yes">
+        <source><![CDATA[form.password]]></source>
+        <target><![CDATA[Passwort]]></target>
+      </trans-unit>
+      <trans-unit id="42" approved="yes">
+        <source><![CDATA[form.password_confirmation]]></source>
+        <target><![CDATA[Passwort bestätigen]]></target>
+      </trans-unit>
+      <trans-unit id="43" approved="yes">
+        <source><![CDATA[form.new_password]]></source>
+        <target><![CDATA[Neues Passwort]]></target>
+      </trans-unit>
+      <trans-unit id="44" approved="yes">
+        <source><![CDATA[form.new_password_confirmation]]></source>
+        <target><![CDATA[Neues Passwort bestätigen]]></target>
+      </trans-unit>
+      <trans-unit id="45" approved="yes">
+        <source><![CDATA[form.firstName]]></source>
+        <target><![CDATA[Vorname]]></target>
+      </trans-unit>
+      <trans-unit id="46" approved="yes">
+        <source><![CDATA[form.lastName]]></source>
+        <target><![CDATA[Nachname]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[translations.invalidate_cache]]></source>
+        <target><![CDATA[Cache leeren]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[translations.domain]]></source>
+        <target><![CDATA[Domain]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[translations.key]]></source>
+        <target><![CDATA[Key]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[translations.grid_caption]]></source>
+        <target><![CDATA[Übersetzungen]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[translations.cache_removed]]></source>
+        <target><![CDATA[Caches erfolgreich geleert]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[translations.new_translation]]></source>
+        <target><![CDATA[Neue Übersetzung]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[translations.add_translation]]></source>
+        <target><![CDATA[Übersetzung hinzufügen]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[translations.save]]></source>
+        <target><![CDATA[Speichern]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[translations.save_add]]></source>
+        <target><![CDATA[Save and Add]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[translations.page_title]]></source>
+        <target><![CDATA[Übersetzungen]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[translations.show_hide_columns]]></source>
+        <target><![CDATA[Spalten anzeigen/verstecken]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[translations.toggle_all_columns]]></source>
+        <target><![CDATA[Show/Hide all columns]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[translations.save_row]]></source>
+        <target><![CDATA[Zeile speichern]]></target>
+      </trans-unit>
+      <trans-unit id="14" approved="yes">
+        <source><![CDATA[translations.succesfully_updated]]></source>
+        <target><![CDATA[Übersetzungen für #%id% wurde erfolgreich aktualisiert.]]></target>
+      </trans-unit>
+      <trans-unit id="15" approved="yes">
+        <source><![CDATA[translations.succesfully_added]]></source>
+        <target><![CDATA[Translation has been successfully added.]]></target>
+      </trans-unit>
+      <trans-unit id="16" approved="yes">
+        <source><![CDATA[translations.update_failed]]></source>
+        <target><![CDATA[Fehler beim aktualisieren der Übersetzungen für schlüssel #%id%.]]></target>
+      </trans-unit>
+      <trans-unit id="17" approved="yes">
+        <source><![CDATA[translations.back_to_list]]></source>
+        <target><![CDATA[Zurück]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

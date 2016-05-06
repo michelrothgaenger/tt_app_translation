@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mr]]></source>
+        <target><![CDATA[Herr]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mrs]]></source>
+        <target><![CDATA[Frau]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[mremi_contact.form.first_name]]></source>
+        <target><![CDATA[Vorname]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[mremi_contact.form.last_name]]></source>
+        <target><![CDATA[Nachname]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[mremi_contact.form.captcha]]></source>
+        <target><![CDATA[Sicherheitscode]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_page_title]]></source>
+        <target><![CDATA[Bestätigung]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[mremi_contact.form_page_title]]></source>
+        <target><![CDATA[Kontakt]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[mremi_contact.form_title]]></source>
+        <target><![CDATA[Kontaktformular]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[mremi_contact.form.title]]></source>
+        <target><![CDATA[Titel]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[mremi_contact.email_message_txt]]></source>
+        <target><![CDATA[Hallo, ein Nutzer hat das Kontaktformular ausgefüllt: Name: %name% E-Mail: %email% Nachricht: %message% Mit freundlichen Grüßen]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_title]]></source>
+        <target><![CDATA[Danke, %title% %fullName%]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_message]]></source>
+        <target><![CDATA[Ihre Anfrage wurde erfolgreich übertragen und wird schnellstmöglich beantwortet.]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[mremi_contact.email_message_html]]></source>
+        <target><![CDATA[Hallo, <br/> <br/> ein Nutzer hat das Kontaktformular ausgefüllt: <br/> <br/> <strong><em>Name:</em></strong> %name% <br/> <br/> <strong><em>E-Mail:</em></strong> %email% <br/> <br/> <strong><em>Nachricht:</em></strong> <br/> %message% <br/> <br/> Mit freundlichen Grüßen]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

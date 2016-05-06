@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[Invalid credentials.]]></source>
+        <target><![CDATA[Ugyldige legitimationsoplysninger.]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[Cookie has already been used by someone else.]]></source>
+        <target><![CDATA[Cookie er allerede blevet brugt af en anden.]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[No token could be found.]]></source>
+        <target><![CDATA[Token blev ikke fundet.]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[Username could not be found.]]></source>
+        <target><![CDATA[Brugernavn blev ikke fundet.]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[Account has expired.]]></source>
+        <target><![CDATA[Konto er udløbet.]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[Account is disabled.]]></source>
+        <target><![CDATA[Konto er deaktiveret.]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[Account is locked.]]></source>
+        <target><![CDATA[Konto er låst.]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[Credentials have expired.]]></source>
+        <target><![CDATA[Legitimationsoplysninger er udløbet.]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

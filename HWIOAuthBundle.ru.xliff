@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[header.connecting]]></source>
+        <target><![CDATA[Выход на связь]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[header.success]]></source>
+        <target><![CDATA[Выход на связь с пользователем '%name%' прошел успешно!]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[header.register]]></source>
+        <target><![CDATA[Зарегистрироваться под именем  '%name%']]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[header.registration_success]]></source>
+        <target><![CDATA[Регистрация и выход на связь пользователя '%username%' успешно завершены!]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[connect.confirm.cancel]]></source>
+        <target><![CDATA[Отмена]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[connect.confirm.submit]]></source>
+        <target><![CDATA[Выйти на связь с пользователем]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[connect.confirm.text]]></source>
+        <target><![CDATA[Вы действительно хотите связать рабочий кабинет пользователя %service% '%name%'  с Вашим действующим рабочим кабинетом?]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[connect.registration.cancel]]></source>
+        <target><![CDATA[Отмена]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[connect.registration.submit]]></source>
+        <target><![CDATA[Зарегистрировать рабочий кабинет]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

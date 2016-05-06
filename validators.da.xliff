@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[This value should be false.]]></source>
+        <target><![CDATA[Denne værdi skal være falsk.]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[This value should be true.]]></source>
+        <target><![CDATA[Denne værdi skal være sandt.]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[This value should be of type {{ type }}.]]></source>
+        <target><![CDATA[Denne værdi skal være af typen {{ TYPE} }.]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[This value should be blank.]]></source>
+        <target><![CDATA[Denne værdi skal være tom.]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[The value you selected is not a valid choice.]]></source>
+        <target><![CDATA[Den valgte værdi er ikke et gyldig valg.]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.]]></source>
+        <target><![CDATA[Du skal vælge mindst {{ grænse }} valg | . Du skal vælge mindst {{ limit }} valg.]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.]]></source>
+        <target><![CDATA[Du må maksimalt vælge {{grænse}} valg |. Du må maksimalt vælge {{ limit }} valg.]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[One or more of the given values is invalid.]]></source>
+        <target><![CDATA[En eller flere af de givne værdier er ugyldig.]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[This field was not expected.]]></source>
+        <target><![CDATA[Dette felt var ikke forventet.]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[This field is missing.]]></source>
+        <target><![CDATA[Dette felt mangler.]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[This value is not a valid date.]]></source>
+        <target><![CDATA[Denne værdi er ikke en gyldig dato.]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[This value is not a valid datetime.]]></source>
+        <target><![CDATA[Denne værdi er ikke en gyldig datetime.]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[This value is not a valid email address.]]></source>
+        <target><![CDATA[Denne værdi er ikke en gyldig email-adresse.]]></target>
+      </trans-unit>
+      <trans-unit id="14" approved="yes">
+        <source><![CDATA[The file could not be found.]]></source>
+        <target><![CDATA[Filen blev ikke fundet.]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

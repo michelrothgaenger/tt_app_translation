@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[This value should be false.]]></source>
+        <target><![CDATA[Неверные данные]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[This value should be true.]]></source>
+        <target><![CDATA[Верные данные]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[This value should be of type {{ type }}.]]></source>
+        <target><![CDATA[Данные должны содержать информацию типа  {{ type }}.]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[This value should be blank.]]></source>
+        <target><![CDATA[Эта графа данных не содержит]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[The value you selected is not a valid choice.]]></source>
+        <target><![CDATA[Данные, выбранные Вами, недействительны]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.]]></source>
+        <target><![CDATA[Вам нужно выбрать минимум  {{ limit }} | Вам нужно выбрать минимум  {{ limit }}]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.]]></source>
+        <target><![CDATA[Вы можете выбрать максимум  {{ limit }} | Вы можете выбрать максимум  {{ limit }}]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[One or more of the given values is invalid.]]></source>
+        <target><![CDATA[Одна или несколько заданных величин недействительны]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[This field was not expected.]]></source>
+        <target><![CDATA[Это поле не предусмотрено]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[This field is missing.]]></source>
+        <target><![CDATA[Этого поля не хватает]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[This value is not a valid date.]]></source>
+        <target><![CDATA[Эта величина недействительна]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[This value is not a valid datetime.]]></source>
+        <target><![CDATA[У этой величины неправильно указано время]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[This value is not a valid email address.]]></source>
+        <target><![CDATA[У этой величины неправильно указан адрес]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[mremi_contact.form_page_title]]></source>
+        <target><![CDATA[Контакт]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[mremi_contact.form_title]]></source>
+        <target><![CDATA[Контактный формуляр]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[mremi_contact.form.title]]></source>
+        <target><![CDATA[Звание/титул]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mr]]></source>
+        <target><![CDATA[г-н]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[mremi_contact.form.title_mrs]]></source>
+        <target><![CDATA[г-жа]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[mremi_contact.form.first_name]]></source>
+        <target><![CDATA[Имя]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[mremi_contact.form.last_name]]></source>
+        <target><![CDATA[Фамилия]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[mremi_contact.form.captcha]]></source>
+        <target><![CDATA[Код безопасности]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_page_title]]></source>
+        <target><![CDATA[Подтверждение]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_title]]></source>
+        <target><![CDATA[Спасибо Вам,  %title% %fullName%]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[mremi_contact.confirm_message]]></source>
+        <target><![CDATA[Спасибо за Ваш запрос. Он будет обработан в самое ближайшее время]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

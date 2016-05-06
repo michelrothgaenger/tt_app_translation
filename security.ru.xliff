@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[An authentication exception occurred.]]></source>
+        <target><![CDATA[Разрешение не может быть выдано по техническим причинам]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[Authentication credentials could not be found.]]></source>
+        <target><![CDATA[Данные, необходимые для выдачи разрешения, не найдены.]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[Authentication request could not be processed due to a system problem.]]></source>
+        <target><![CDATA[Запрос на выдачу разрешения не был обработан из-за ошибки в системе]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[Invalid credentials.]]></source>
+        <target><![CDATA[Неправильные данные]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[Username could not be found.]]></source>
+        <target><![CDATA[Имя пользователя не найдено]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[Account has expired.]]></source>
+        <target><![CDATA[Срок пользования личным кабинетом истек]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[Credentials have expired.]]></source>
+        <target><![CDATA[Срок годности данных истек]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[Account is disabled.]]></source>
+        <target><![CDATA[Личный кабинет недействителен]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[Account is locked.]]></source>
+        <target><![CDATA[Личный кабинет недоступен]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

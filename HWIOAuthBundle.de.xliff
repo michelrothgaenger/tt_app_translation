@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[header.connecting]]></source>
+        <target><![CDATA[Verbinden]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[header.success]]></source>
+        <target><![CDATA['%name%' erfolgreich mit Benutzeraccount verbunden!]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[header.register]]></source>
+        <target><![CDATA[Neuen Benutzeraccount mit dem Namen '%name%' erstellen]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[header.registration_success]]></source>
+        <target><![CDATA[Benutzeraccount '%username%' erfolgreich angelegt und verknüpft!]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[connect.confirm.cancel]]></source>
+        <target><![CDATA[Abbrechen]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[connect.confirm.submit]]></source>
+        <target><![CDATA[Benutzeraccount verbinden]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[connect.confirm.text]]></source>
+        <target><![CDATA[Sicher, dass Sie Ihren %service% Account '%name%' mit Ihrem aktuellen Benutzeraccount verknüpfen möchten?]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[connect.registration.cancel]]></source>
+        <target><![CDATA[Abbrechen]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[connect.registration.submit]]></source>
+        <target><![CDATA[Benutzeraccount registrieren]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

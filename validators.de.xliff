@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+    <body>
+      <trans-unit id="1" approved="yes">
+        <source><![CDATA[This value should be false.]]></source>
+        <target><![CDATA[Dieser Wert sollte false sein.]]></target>
+      </trans-unit>
+      <trans-unit id="2" approved="yes">
+        <source><![CDATA[This value should be true.]]></source>
+        <target><![CDATA[Dieser Wert sollte true sein.]]></target>
+      </trans-unit>
+      <trans-unit id="3" approved="yes">
+        <source><![CDATA[This value should be of type {{ type }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte vom Typ {{ type }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="4" approved="yes">
+        <source><![CDATA[This value should be blank.]]></source>
+        <target><![CDATA[Dieser Wert sollte leer sein.]]></target>
+      </trans-unit>
+      <trans-unit id="5" approved="yes">
+        <source><![CDATA[The value you selected is not a valid choice.]]></source>
+        <target><![CDATA[Sie haben einen ungültigen Wert ausgewählt.]]></target>
+      </trans-unit>
+      <trans-unit id="6" approved="yes">
+        <source><![CDATA[You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.]]></source>
+        <target><![CDATA[Sie müssen mindestens {{ limit }} Möglichkeit wählen.|Sie müssen mindestens {{ limit }} Möglichkeiten wählen.]]></target>
+      </trans-unit>
+      <trans-unit id="7" approved="yes">
+        <source><![CDATA[You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.]]></source>
+        <target><![CDATA[Sie dürfen höchstens {{ limit }} Möglichkeit wählen.|Sie dürfen höchstens {{ limit }} Möglichkeiten wählen.]]></target>
+      </trans-unit>
+      <trans-unit id="8" approved="yes">
+        <source><![CDATA[One or more of the given values is invalid.]]></source>
+        <target><![CDATA[Einer oder mehrere der angegebenen Werte sind ungültig.]]></target>
+      </trans-unit>
+      <trans-unit id="9" approved="yes">
+        <source><![CDATA[This field was not expected.]]></source>
+        <target><![CDATA[Dieses Feld wurde nicht erwartet.]]></target>
+      </trans-unit>
+      <trans-unit id="10" approved="yes">
+        <source><![CDATA[This field is missing.]]></source>
+        <target><![CDATA[Dieses Feld fehlt.]]></target>
+      </trans-unit>
+      <trans-unit id="11" approved="yes">
+        <source><![CDATA[This value is not a valid date.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen Datumsangabe.]]></target>
+      </trans-unit>
+      <trans-unit id="12" approved="yes">
+        <source><![CDATA[This value is not a valid datetime.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen Datums- und Zeitangabe.]]></target>
+      </trans-unit>
+      <trans-unit id="13" approved="yes">
+        <source><![CDATA[This value is not a valid email address.]]></source>
+        <target><![CDATA[Dieser Wert ist keine gültige E-Mail-Adresse.]]></target>
+      </trans-unit>
+      <trans-unit id="14" approved="yes">
+        <source><![CDATA[The file could not be found.]]></source>
+        <target><![CDATA[Die Datei wurde nicht gefunden.]]></target>
+      </trans-unit>
+      <trans-unit id="15" approved="yes">
+        <source><![CDATA[The file is not readable.]]></source>
+        <target><![CDATA[Die Datei ist nicht lesbar.]]></target>
+      </trans-unit>
+      <trans-unit id="16" approved="yes">
+        <source><![CDATA[The file is too large ({{ size }} {{ suffix }}). Allowed maximum size is {{ limit }} {{ suffix }}.]]></source>
+        <target><![CDATA[Die Datei ist zu groß ({{ size }} {{ suffix }}). Die maximal zulässige Größe beträgt {{ limit }} {{ suffix }}.]]></target>
+      </trans-unit>
+      <trans-unit id="17" approved="yes">
+        <source><![CDATA[The mime type of the file is invalid ({{ type }}). Allowed mime types are {{ types }}.]]></source>
+        <target><![CDATA[Der Dateityp ist ungültig ({{ type }}). Erlaubte Dateitypen sind {{ types }}.]]></target>
+      </trans-unit>
+      <trans-unit id="18" approved="yes">
+        <source><![CDATA[This value should be {{ limit }} or less.]]></source>
+        <target><![CDATA[Dieser Wert sollte kleiner oder gleich {{ limit }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="19" approved="yes">
+        <source><![CDATA[This value is too long. It should have {{ limit }} character or less.|This value is too long. It should have {{ limit }} characters or less.]]></source>
+        <target><![CDATA[Diese Zeichenkette ist zu lang. Sie sollte höchstens {{ limit }} Zeichen haben.|Diese Zeichenkette ist zu lang. Sie sollte höchstens {{ limit }} Zeichen haben.]]></target>
+      </trans-unit>
+      <trans-unit id="20" approved="yes">
+        <source><![CDATA[This value should be {{ limit }} or more.]]></source>
+        <target><![CDATA[Dieser Wert sollte größer oder gleich {{ limit }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="21" approved="yes">
+        <source><![CDATA[This value is too short. It should have {{ limit }} character or more.|This value is too short. It should have {{ limit }} characters or more.]]></source>
+        <target><![CDATA[Diese Zeichenkette ist zu kurz. Sie sollte mindestens {{ limit }} Zeichen haben.|Diese Zeichenkette ist zu kurz. Sie sollte mindestens {{ limit }} Zeichen haben.]]></target>
+      </trans-unit>
+      <trans-unit id="22" approved="yes">
+        <source><![CDATA[This value should not be blank.]]></source>
+        <target><![CDATA[Dieser Wert sollte nicht leer sein.]]></target>
+      </trans-unit>
+      <trans-unit id="23" approved="yes">
+        <source><![CDATA[This value should not be null.]]></source>
+        <target><![CDATA[Dieser Wert sollte nicht null sein.]]></target>
+      </trans-unit>
+      <trans-unit id="24" approved="yes">
+        <source><![CDATA[This value should be null.]]></source>
+        <target><![CDATA[Dieser Wert sollte null sein.]]></target>
+      </trans-unit>
+      <trans-unit id="25" approved="yes">
+        <source><![CDATA[This value is not valid.]]></source>
+        <target><![CDATA[Dieser Wert ist nicht gültig.]]></target>
+      </trans-unit>
+      <trans-unit id="26" approved="yes">
+        <source><![CDATA[This value is not a valid time.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen Zeitangabe.]]></target>
+      </trans-unit>
+      <trans-unit id="27" approved="yes">
+        <source><![CDATA[This value is not a valid URL.]]></source>
+        <target><![CDATA[Dieser Wert ist keine gültige URL.]]></target>
+      </trans-unit>
+      <trans-unit id="28" approved="yes">
+        <source><![CDATA[The two values should be equal.]]></source>
+        <target><![CDATA[Die beiden Werte sollten identisch sein.]]></target>
+      </trans-unit>
+      <trans-unit id="29" approved="yes">
+        <source><![CDATA[The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.]]></source>
+        <target><![CDATA[Die Datei ist zu groß. Die maximal zulässige Größe beträgt {{ limit }} {{ suffix }}.]]></target>
+      </trans-unit>
+      <trans-unit id="30" approved="yes">
+        <source><![CDATA[The file is too large.]]></source>
+        <target><![CDATA[Die Datei ist zu groß.]]></target>
+      </trans-unit>
+      <trans-unit id="31" approved="yes">
+        <source><![CDATA[The file could not be uploaded.]]></source>
+        <target><![CDATA[Die Datei konnte nicht hochgeladen werden.]]></target>
+      </trans-unit>
+      <trans-unit id="32" approved="yes">
+        <source><![CDATA[This value should be a valid number.]]></source>
+        <target><![CDATA[Dieser Wert sollte eine gültige Zahl sein.]]></target>
+      </trans-unit>
+      <trans-unit id="33" approved="yes">
+        <source><![CDATA[This file is not a valid image.]]></source>
+        <target><![CDATA[Diese Datei ist kein gültiges Bild.]]></target>
+      </trans-unit>
+      <trans-unit id="34" approved="yes">
+        <source><![CDATA[This is not a valid IP address.]]></source>
+        <target><![CDATA[Dies ist keine gültige IP-Adresse.]]></target>
+      </trans-unit>
+      <trans-unit id="35" approved="yes">
+        <source><![CDATA[This value is not a valid language.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen Sprache.]]></target>
+      </trans-unit>
+      <trans-unit id="36" approved="yes">
+        <source><![CDATA[This value is not a valid locale.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keinem gültigen Gebietsschema.]]></target>
+      </trans-unit>
+      <trans-unit id="37" approved="yes">
+        <source><![CDATA[This value is not a valid country.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keinem gültigen Land.]]></target>
+      </trans-unit>
+      <trans-unit id="38" approved="yes">
+        <source><![CDATA[This value is already used.]]></source>
+        <target><![CDATA[Dieser Wert wird bereits verwendet.]]></target>
+      </trans-unit>
+      <trans-unit id="39" approved="yes">
+        <source><![CDATA[The size of the image could not be detected.]]></source>
+        <target><![CDATA[Die Größe des Bildes konnte nicht ermittelt werden.]]></target>
+      </trans-unit>
+      <trans-unit id="40" approved="yes">
+        <source><![CDATA[The image width is too big ({{ width }}px). Allowed maximum width is {{ max_width }}px.]]></source>
+        <target><![CDATA[Die Bildbreite ist zu groß ({{ width }}px). Die maximal zulässige Breite beträgt {{ max_width }}px.]]></target>
+      </trans-unit>
+      <trans-unit id="41" approved="yes">
+        <source><![CDATA[The image width is too small ({{ width }}px). Minimum width expected is {{ min_width }}px.]]></source>
+        <target><![CDATA[Die Bildbreite ist zu gering ({{ width }}px). Die erwartete Mindestbreite beträgt {{ min_width }}px.]]></target>
+      </trans-unit>
+      <trans-unit id="42" approved="yes">
+        <source><![CDATA[The image height is too big ({{ height }}px). Allowed maximum height is {{ max_height }}px.]]></source>
+        <target><![CDATA[Die Bildhöhe ist zu groß ({{ height }}px). Die maximal zulässige Höhe beträgt {{ max_height }}px.]]></target>
+      </trans-unit>
+      <trans-unit id="43" approved="yes">
+        <source><![CDATA[The image height is too small ({{ height }}px). Minimum height expected is {{ min_height }}px.]]></source>
+        <target><![CDATA[Die Bildhöhe ist zu gering ({{ height }}px). Die erwartete Mindesthöhe beträgt {{ min_height }}px.]]></target>
+      </trans-unit>
+      <trans-unit id="44" approved="yes">
+        <source><![CDATA[This value should be the user's current password.]]></source>
+        <target><![CDATA[Dieser Wert sollte dem aktuellen Benutzerpasswort entsprechen.]]></target>
+      </trans-unit>
+      <trans-unit id="45" approved="yes">
+        <source><![CDATA[This value should have exactly {{ limit }} character.|This value should have exactly {{ limit }} characters.]]></source>
+        <target><![CDATA[Dieser Wert sollte genau {{ limit }} Zeichen lang sein.|Dieser Wert sollte genau {{ limit }} Zeichen lang sein.]]></target>
+      </trans-unit>
+      <trans-unit id="46" approved="yes">
+        <source><![CDATA[The file was only partially uploaded.]]></source>
+        <target><![CDATA[Die Datei wurde nur teilweise hochgeladen.]]></target>
+      </trans-unit>
+      <trans-unit id="47" approved="yes">
+        <source><![CDATA[No file was uploaded.]]></source>
+        <target><![CDATA[Es wurde keine Datei hochgeladen.]]></target>
+      </trans-unit>
+      <trans-unit id="48" approved="yes">
+        <source><![CDATA[No temporary folder was configured in php.ini.]]></source>
+        <target><![CDATA[Es wurde kein temporärer Ordner in der php.ini konfiguriert.]]></target>
+      </trans-unit>
+      <trans-unit id="49" approved="yes">
+        <source><![CDATA[Cannot write temporary file to disk.]]></source>
+        <target><![CDATA[Kann die temporäre Datei nicht speichern.]]></target>
+      </trans-unit>
+      <trans-unit id="50" approved="yes">
+        <source><![CDATA[A PHP extension caused the upload to fail.]]></source>
+        <target><![CDATA[Eine PHP-Erweiterung verhinderte den Upload.]]></target>
+      </trans-unit>
+      <trans-unit id="51" approved="yes">
+        <source><![CDATA[This collection should contain {{ limit }} element or more.|This collection should contain {{ limit }} elements or more.]]></source>
+        <target><![CDATA[Diese Sammlung sollte {{ limit }} oder mehr Elemente beinhalten.|Diese Sammlung sollte {{ limit }} oder mehr Elemente beinhalten.]]></target>
+      </trans-unit>
+      <trans-unit id="52" approved="yes">
+        <source><![CDATA[This collection should contain {{ limit }} element or less.|This collection should contain {{ limit }} elements or less.]]></source>
+        <target><![CDATA[Diese Sammlung sollte {{ limit }} oder weniger Elemente beinhalten.|Diese Sammlung sollte {{ limit }} oder weniger Elemente beinhalten.]]></target>
+      </trans-unit>
+      <trans-unit id="53" approved="yes">
+        <source><![CDATA[This collection should contain exactly {{ limit }} element.|This collection should contain exactly {{ limit }} elements.]]></source>
+        <target><![CDATA[Diese Sammlung sollte genau {{ limit }} Element beinhalten.|Diese Sammlung sollte genau {{ limit }} Elemente beinhalten.]]></target>
+      </trans-unit>
+      <trans-unit id="54" approved="yes">
+        <source><![CDATA[Invalid card number.]]></source>
+        <target><![CDATA[Ungültige Kartennummer.]]></target>
+      </trans-unit>
+      <trans-unit id="55" approved="yes">
+        <source><![CDATA[Unsupported card type or invalid card number.]]></source>
+        <target><![CDATA[Nicht unterstützer Kartentyp oder ungültige Kartennummer.]]></target>
+      </trans-unit>
+      <trans-unit id="56" approved="yes">
+        <source><![CDATA[This is not a valid International Bank Account Number (IBAN).]]></source>
+        <target><![CDATA[Dieser Wert ist keine gültige internationale Bankkontonummer (IBAN).]]></target>
+      </trans-unit>
+      <trans-unit id="57" approved="yes">
+        <source><![CDATA[This value is not a valid ISBN-10.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen ISBN-10.]]></target>
+      </trans-unit>
+      <trans-unit id="58" approved="yes">
+        <source><![CDATA[This value is not a valid ISBN-13.]]></source>
+        <target><![CDATA[Dieser Wert entspricht keiner gültigen ISBN-13.]]></target>
+      </trans-unit>
+      <trans-unit id="59" approved="yes">
+        <source><![CDATA[This value is neither a valid ISBN-10 nor a valid ISBN-13.]]></source>
+        <target><![CDATA[Dieser Wert ist weder eine gültige ISBN-10 noch eine gültige ISBN-13.]]></target>
+      </trans-unit>
+      <trans-unit id="60" approved="yes">
+        <source><![CDATA[This value is not a valid ISSN.]]></source>
+        <target><![CDATA[Dieser Wert ist keine gültige ISSN.]]></target>
+      </trans-unit>
+      <trans-unit id="61" approved="yes">
+        <source><![CDATA[This value is not a valid currency.]]></source>
+        <target><![CDATA[Dieser Wert ist keine gültige Währung.]]></target>
+      </trans-unit>
+      <trans-unit id="62" approved="yes">
+        <source><![CDATA[This value should be equal to {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte gleich {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="63" approved="yes">
+        <source><![CDATA[This value should be greater than {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte größer als {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="64" approved="yes">
+        <source><![CDATA[This value should be greater than or equal to {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte größer oder gleich {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="65" approved="yes">
+        <source><![CDATA[This value should be identical to {{ compared_value_type }} {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte identisch sein mit {{ compared_value_type }} {{ compared_value }}.]]></target>
+      </trans-unit>
+      <trans-unit id="66" approved="yes">
+        <source><![CDATA[This value should be less than {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte kleiner als {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="67" approved="yes">
+        <source><![CDATA[This value should be less than or equal to {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte kleiner oder gleich {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="68" approved="yes">
+        <source><![CDATA[This value should not be equal to {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte nicht {{ compared_value }} sein.]]></target>
+      </trans-unit>
+      <trans-unit id="69" approved="yes">
+        <source><![CDATA[This value should not be identical to {{ compared_value_type }} {{ compared_value }}.]]></source>
+        <target><![CDATA[Dieser Wert sollte nicht identisch sein mit {{ compared_value_type }} {{ compared_value }}.]]></target>
+      </trans-unit>
+      <trans-unit id="70" approved="yes">
+        <source><![CDATA[The image ratio is too big ({{ ratio }}). Allowed maximum ratio is {{ max_ratio }}.]]></source>
+        <target><![CDATA[Das Seitenverhältnis des Bildes ist zu groß ({{ ratio }}). Der erlaubte Maximalwert ist {{ max_ratio }}.]]></target>
+      </trans-unit>
+      <trans-unit id="71" approved="yes">
+        <source><![CDATA[The image ratio is too small ({{ ratio }}). Minimum ratio expected is {{ min_ratio }}.]]></source>
+        <target><![CDATA[Das Seitenverhältnis des Bildes ist zu klein ({{ ratio }}). Der erwartete Minimalwert ist {{ min_ratio }}.]]></target>
+      </trans-unit>
+      <trans-unit id="72" approved="yes">
+        <source><![CDATA[The image is square ({{ width }}x{{ height }}px). Square images are not allowed.]]></source>
+        <target><![CDATA[Das Bild ist quadratisch ({{ width }}x{{ height }}px). Quadratische Bilder sind nicht erlaubt.]]></target>
+      </trans-unit>
+      <trans-unit id="73" approved="yes">
+        <source><![CDATA[The image is landscape oriented ({{ width }}x{{ height }}px). Landscape oriented images are not allowed.]]></source>
+        <target><![CDATA[Das Bild ist im Querformat ({{ width }}x{{ height }}px). Bilder im Querformat sind nicht erlaubt.]]></target>
+      </trans-unit>
+      <trans-unit id="74" approved="yes">
+        <source><![CDATA[The image is portrait oriented ({{ width }}x{{ height }}px). Portrait oriented images are not allowed.]]></source>
+        <target><![CDATA[Das Bild ist im Hochformat ({{ width }}x{{ height }}px). Bilder im Hochformat sind nicht erlaubt.]]></target>
+      </trans-unit>
+      <trans-unit id="75" approved="yes">
+        <source><![CDATA[An empty file is not allowed.]]></source>
+        <target><![CDATA[Eine leere Datei ist nicht erlaubt.]]></target>
+      </trans-unit>
+      <trans-unit id="76" approved="yes">
+        <source><![CDATA[The host could not be resolved.]]></source>
+        <target><![CDATA[Der Hostname konnte nicht aufgelöst werden.]]></target>
+      </trans-unit>
+      <trans-unit id="77" approved="yes">
+        <source><![CDATA[This value does not match the expected {{ charset }} charset.]]></source>
+        <target><![CDATA[Dieser Wert entspricht nicht dem erwarteten Zeichensatz {{ charset }}.]]></target>
+      </trans-unit>
+      <trans-unit id="78" approved="yes">
+        <source><![CDATA[This form should not contain extra fields.]]></source>
+        <target><![CDATA[Dieses Formular sollte keine zusätzlichen Felder enthalten.]]></target>
+      </trans-unit>
+      <trans-unit id="79" approved="yes">
+        <source><![CDATA[The uploaded file was too large. Please try to upload a smaller file.]]></source>
+        <target><![CDATA[Die hochgeladene Datei ist zu groß. Versuchen Sie bitte eine kleinere Datei hochzuladen.]]></target>
+      </trans-unit>
+      <trans-unit id="80" approved="yes">
+        <source><![CDATA[The CSRF token is invalid. Please try to resubmit the form.]]></source>
+        <target><![CDATA[Der CSRF-Token ist ungültig. Versuchen Sie bitte das Formular erneut zu senden.]]></target>
+      </trans-unit>
+      <trans-unit id="81" approved="yes">
+        <source><![CDATA[fos_user.username.already_used]]></source>
+        <target><![CDATA[fos_user.username.already_used]]></target>
+      </trans-unit>
+      <trans-unit id="82" approved="yes">
+        <source><![CDATA[fos_user.username.blank]]></source>
+        <target><![CDATA[fos_user.username.blank]]></target>
+      </trans-unit>
+      <trans-unit id="83" approved="yes">
+        <source><![CDATA[fos_user.username.short]]></source>
+        <target><![CDATA[fos_user.username.short]]></target>
+      </trans-unit>
+      <trans-unit id="84" approved="yes">
+        <source><![CDATA[fos_user.username.long]]></source>
+        <target><![CDATA[fos_user.username.long]]></target>
+      </trans-unit>
+      <trans-unit id="85" approved="yes">
+        <source><![CDATA[fos_user.email.already_used]]></source>
+        <target><![CDATA[Diese E-Mail-Adresse wurde bereits registriert]]></target>
+      </trans-unit>
+      <trans-unit id="86" approved="yes">
+        <source><![CDATA[fos_user.email.blank]]></source>
+        <target><![CDATA[E-Mail-Adresse nicht eingegeben]]></target>
+      </trans-unit>
+      <trans-unit id="87" approved="yes">
+        <source><![CDATA[fos_user.email.short]]></source>
+        <target><![CDATA[E-Mail-Adresse zu kurz]]></target>
+      </trans-unit>
+      <trans-unit id="88" approved="yes">
+        <source><![CDATA[fos_user.email.long]]></source>
+        <target><![CDATA[E-Mail-Adresse zu lang]]></target>
+      </trans-unit>
+      <trans-unit id="89" approved="yes">
+        <source><![CDATA[fos_user.email.invalid]]></source>
+        <target><![CDATA[E-Mail-Adresse ungültig]]></target>
+      </trans-unit>
+      <trans-unit id="90" approved="yes">
+        <source><![CDATA[fos_user.password.blank]]></source>
+        <target><![CDATA[fos_user.password.blank]]></target>
+      </trans-unit>
+      <trans-unit id="91" approved="yes">
+        <source><![CDATA[fos_user.password.short]]></source>
+        <target><![CDATA[fos_user.password.short]]></target>
+      </trans-unit>
+      <trans-unit id="92" approved="yes">
+        <source><![CDATA[fos_user.password.mismatch]]></source>
+        <target><![CDATA[fos_user.password.mismatch]]></target>
+      </trans-unit>
+      <trans-unit id="93" approved="yes">
+        <source><![CDATA[fos_user.new_password.blank]]></source>
+        <target><![CDATA[Bitte geben Sie ein neues Passwort an]]></target>
+      </trans-unit>
+      <trans-unit id="94" approved="yes">
+        <source><![CDATA[fos_user.new_password.short]]></source>
+        <target><![CDATA[[-Inf,Inf]Das neue Passwort ist zu kurz]]></target>
+      </trans-unit>
+      <trans-unit id="95" approved="yes">
+        <source><![CDATA[fos_user.current_password.invalid]]></source>
+        <target><![CDATA[Das angegebene Passwort ist ungültig]]></target>
+      </trans-unit>
+      <trans-unit id="96" approved="yes">
+        <source><![CDATA[fos_user.group.blank]]></source>
+        <target><![CDATA[Bitte geben Sie einen Namen an]]></target>
+      </trans-unit>
+      <trans-unit id="97" approved="yes">
+        <source><![CDATA[fos_user.group.short]]></source>
+        <target><![CDATA[[-Inf,Inf]Dieser Name ist zu kurz]]></target>
+      </trans-unit>
+      <trans-unit id="98" approved="yes">
+        <source><![CDATA[fos_user.group.long]]></source>
+        <target><![CDATA[[-Inf,Inf]Dieser Name ist zu lang]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
     <body>
       <trans-unit id="1" approved="yes">
         <source><![CDATA[Abkhazian]]></source>
-        <target><![CDATA[абхазская]]></target>
+        <target>Абхазский</target>
       </trans-unit>
       <trans-unit id="2" approved="yes">
         <source><![CDATA[Afar]]></source>
-        <target><![CDATA[издалека]]></target>
+        <target>Афарский</target>
       </trans-unit>
       <trans-unit id="3" approved="yes">
         <source><![CDATA[Afrikaans]]></source>
-        <target><![CDATA[африкаанс]]></target>
+        <target>Африкаанс</target>
       </trans-unit>
       <trans-unit id="4" approved="yes">
         <source><![CDATA[Akan]]></source>

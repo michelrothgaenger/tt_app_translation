@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="en">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="it">
     <body>
       <trans-unit id="1" approved="yes">
         <source><![CDATA[Geneva]]></source>
@@ -3736,7 +3736,7 @@
       </trans-unit>
       <trans-unit id="934" approved="yes">
         <source><![CDATA[app.theFastestWayToFindNewJobIn]]></source>
-        <target>Find top jobs in</target>
+        <target><![CDATA[Find top jobs in]]></target>
       </trans-unit>
       <trans-unit id="935" approved="yes">
         <source><![CDATA[app.logistics]]></source>
@@ -6943,21 +6943,6 @@ open up many opportunities for you to develop your career on an international sc
       <trans-unit id="1721" approved="yes">
         <source><![CDATA[app.companies]]></source>
         <target><![CDATA[Companies]]></target>
-      </trans-unit>
-      <trans-unit id="1722" approved="yes">
-        <source><![CDATA[app.sealandDescription]]></source>
-        <target><![CDATA[<div class="headline headline-font">About Sealand</div>
-        <p>Back in the 50s the Americas had a shipping line they could proudly call their own. The original SeaLand was created by trucking entrepreneur, Malcolm McLean who gave the region its first dedicated carrier service while simultaneously giving the world its first taste of container shipping.</p>
-        <p>People loved SeaLand. It was a line built around their needs and it put them on the leading edge of innovation. SeaLand changed hands several times, but to the people of the Americas, it never stopped being their line. Even after Maersk acquired SeaLand and renamed it in 1999, people in the Americas still referred to it as SeaLand.</p>
-        <p>So after seeing how people felt and realizing what SeaLand meant to the success of the region, we decided to give it back. Reintroducing the SeaLand brand as a dedicated leading-edge regional carrier seemed like a natural to our management team. And since the relaunch, the support we’ve received has been overwhelming.</p>
-        <p>All of us are committed to seeing that the next chapter of SeaLand’s history is about the shipping Line that helped carry the Americas to the forefront of world trade and business success.</p>
-        <br>
-        <div class="headline headline-font">Working at Sealand</div>
-        <p>No matter where you turn or who you talk to at SeaLand, you’ll find the same can-do, Vamos Juntos spirit that defines us as an organization. Depending on who you ask at SeaLand, our tagline means “We go with you” or “Let’s go together.”</p>
-        <p>Either way, we’re seriously in it with the customer. It’s an assurance that translates into peace of mind for our customers and their cargo will arrive safely. And it can give our customers an incredible confidence when they are venturing into new opportunities for their business.</p>
-        <p>Vamos Juntos! means that SeaLanders go above and beyond what’s expected. That’s the advantage of working with a shipping line that values relationships and really gets to know our customers and their business.</p>
-        <p>Our tagline is a mantra that manifests itself in patient assistance, proactive service, ready solutions to the challenges our customers face — and of course, an incomparable can-do spirit.</p>
-        ]]></target>
       </trans-unit>
     </body>
   </file>

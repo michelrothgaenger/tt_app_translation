@@ -6586,6 +6586,10 @@
         <source><![CDATA[Shipping]]></source>
         <target>Schifffahrt</target>
       </trans-unit>
-      </body>
+      <trans-unit id="1747" approved="yes">
+      <source><![CDATA[app.profileGroupBasicDesc]]></source>
+      <target>Vervollständige dein Profil, damit wir dich bestmöglich unterstützen können.</target>
+    </trans-unit>
+    </body>
   </file>
 </xliff>

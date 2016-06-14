@@ -61,6 +61,10 @@ Regards
         <source><![CDATA[mremi_contact.confirm_message]]></source>
         <target><![CDATA[Your request has been submitted successfully and will be considered quickly.]]></target>
       </trans-unit>
+      <trans-unit id="14" approved="yes">
+          <source><![CDATA[mremi_contact.form.name]]></source>
+          <target><![CDATA[Name]]></target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

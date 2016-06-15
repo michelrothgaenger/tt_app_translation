@@ -6646,6 +6646,18 @@
       <source><![CDATA[app.profileGroupImportDesc]]></source>
       <target>Spare Zeit und importiere vorhandene Daten aus deinem Xing- oder LinkedIn-Profil.</target>
     </trans-unit>
+    <trans-unit id="1753" approved="yes">
+      <source><![CDATA[app.profileGroupSummaryDesc]]></source>
+      <target>Erzähle uns von deinem beruflichen Schwerpunkt. Welche Branchenkenntnisse bringst du mit? Worin bist du Spezialist?</target>
+    </trans-unit>
+    <trans-unit id="1759" approved="yes">
+      <source><![CDATA[app.profileGroupSkillsDesc]]></source>
+      <target>Teamplayer, Motivator oder Querdenker – was zeichnet dich aus? Nenne uns deine Fähigkeiten.</target>
+    </trans-unit>
+    <trans-unit id="1763" approved="yes">
+      <source><![CDATA[app.profileGroupCertificatesDesc]]></source>
+      <target>Hast du zusätzliche Qualifikationen für die du ein Zertifikat bekommen hast? Das können z. B. Sprachkenntnisse, berufliche Weiterbildungen, Softwarekenntnisse oder Ähnliches sein.</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

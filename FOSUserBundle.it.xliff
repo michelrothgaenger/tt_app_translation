@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="1" approved="yes">
         <source><![CDATA[group.edit.submit]]></source>
-        <target><![CDATA[Update group]]></target>
+        <target>Update group</target>
       </trans-unit>
       <trans-unit id="2" approved="yes">
         <source><![CDATA[group.show.name]]></source>

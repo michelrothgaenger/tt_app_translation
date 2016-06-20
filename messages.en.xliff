@@ -140,7 +140,7 @@
       </trans-unit>
       <trans-unit id="963" approved="yes">
         <source><![CDATA[app.position]]></source>
-        <target><![CDATA[Job title]]></target>
+        <target>level</target>
       </trans-unit>
       <trans-unit id="964" approved="yes">
         <source><![CDATA[app.company]]></source>
@@ -3457,7 +3457,7 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1760" approved="yes">
       <source><![CDATA[app.profileGroupEducationsTitle]]></source>
-      <target><![CDATA[Educations]]></target>
+      <target>Education</target>
     </trans-unit>
     <trans-unit id="1762" approved="yes">
       <source><![CDATA[app.profileGroupCertificatesTitle]]></source>
@@ -3557,11 +3557,11 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1788" approved="yes">
       <source><![CDATA[app.profileInputTotalExperienceYearsLabel]]></source>
-      <target><![CDATA[Total years of experience you have?]]></target>
+      <target>How many years of professional experience do you have in the logistics or transport industry?</target>
     </trans-unit>
     <trans-unit id="1789" approved="yes">
       <source><![CDATA[app.profileInputTotalExperienceSpecialityLabel]]></source>
-      <target><![CDATA[What is your specialty?]]></target>
+      <target>What is your professional focus?</target>
     </trans-unit>
     <trans-unit id="1790" approved="yes">
       <source><![CDATA[app.profileSectionCvTitle]]></source>
@@ -3573,7 +3573,8 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1795" approved="yes">
       <source><![CDATA[app.profileInputProfessionalExperienceTeamsizeLabel]]></source>
-      <target><![CDATA[Teamsize]]></target>
+      <target>Subordinates
+</target>
     </trans-unit>
     <trans-unit id="1797" approved="yes">
       <source><![CDATA[app.profileInputProfessionalExperienceBusinessAreaLabel]]></source>
@@ -3605,7 +3606,7 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1806" approved="yes">
       <source><![CDATA[app.profileInputPreferredJobCategoriesJobCategoryLabel]]></source>
-      <target><![CDATA[Choose the job category]]></target>
+      <target>Choose a job category</target>
     </trans-unit>
     <trans-unit id="1807" approved="yes">
       <source><![CDATA[app.profileSectionPreferredCountriesTitle]]></source>
@@ -3629,7 +3630,7 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1812" approved="yes">
       <source><![CDATA[app.profileInputSkillsSkillLabel]]></source>
-      <target><![CDATA[Choose your skill]]></target>
+      <target>What are your skills?</target>
     </trans-unit>
     <trans-unit id="1813" approved="yes">
       <source><![CDATA[app.profileSectionEducationsItemsTitle]]></source>
@@ -3637,7 +3638,7 @@ open up many opportunities for you to develop your career on an international sc
     </trans-unit>
     <trans-unit id="1814" approved="yes">
       <source><![CDATA[app.profileInputEducationsSkillLabel]]></source>
-      <target>Choose your degree</target>
+      <target>What is your qualification/degree?</target>
     </trans-unit>
     <trans-unit id="1815" approved="yes">
       <source><![CDATA[app.profileInputEducationsGraduationYearLabel]]></source>

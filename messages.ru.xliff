@@ -2,30 +2,6 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[Europe]]></source>
-        <target><![CDATA[Европа]]></target>
-      </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[North America]]></source>
-        <target><![CDATA[Северная Америка]]></target>
-      </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[Latin America]]></source>
-        <target><![CDATA[Латинская Америка]]></target>
-      </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[Africa]]></source>
-        <target><![CDATA[Африка]]></target>
-      </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[Middle East]]></source>
-        <target><![CDATA[Ближний Восток]]></target>
-      </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[Asia Pacific]]></source>
-        <target><![CDATA[Азиатско-тихоокеанский регион]]></target>
-      </trans-unit>
       <trans-unit id="7" approved="yes">
         <source><![CDATA[app.e.g.Company]]></source>
         <target><![CDATA[напр. Компания]]></target>
@@ -33,14 +9,6 @@
       <trans-unit id="8" approved="yes">
         <source><![CDATA[app.plan1Price]]></source>
         <target><![CDATA[EUR 12,995]]></target>
-      </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[Vietnam]]></source>
-        <target><![CDATA[Вьетнам]]></target>
-      </trans-unit>
-    <trans-unit id="10" approved="yes">
-        <source><![CDATA[Geneva]]></source>
-        <target>Женева</target>
       </trans-unit>
       </body>
   </file>

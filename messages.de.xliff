@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="916" approved="yes">
         <source><![CDATA[app.findJobs]]></source>
-        <target><![CDATA[Jobsuche]]></target>
+        <target>Jobs suchen</target>
       </trans-unit>
       <trans-unit id="917" approved="yes">
         <source><![CDATA[app.postJob]]></source>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="918" approved="yes">
         <source><![CDATA[app.theFastestWayToFindNewJobIn]]></source>
-        <target><![CDATA[Finde die besten Stellen in]]></target>
+        <target>Die besten Stellen in</target>
       </trans-unit>
       <trans-unit id="919" approved="yes">
         <source><![CDATA[app.logistics]]></source>
@@ -2956,7 +2956,7 @@
     </trans-unit>
     <trans-unit id="1830" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem3Desc]]></source>
-      <target>Wir arbeiten mit einem offenen und klaren Preissystem. So wissen Sie immer genau, was auf Sie zukommt.</target>
+      <target>Dank unserer festen Preise wissen Sie immer genau, was auf Sie zukommt. Wir arbeiten mit skalierbaren Preisen, die Unternehmen aller Größen gerecht werden.</target>
     </trans-unit>
     <trans-unit id="1831" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem4Headline]]></source>
@@ -3001,6 +3001,46 @@
     <trans-unit id="1839" approved="yes">
       <source><![CDATA[app.aboutUsDescriptionHeadline]]></source>
       <target>Unser Anliegen ist es, Fachkräfte aus Logistik und Spedition eine Plattform zu bieten, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+    </trans-unit>
+    <trans-unit id="1838" approved="yes">
+      <source><![CDATA[app.deleteCV]]></source>
+      <target>Lebenslauf löschen</target>
+    </trans-unit>
+    <trans-unit id="1837" approved="yes">
+      <source><![CDATA[app.profileInputCertificateUploadBtnText]]></source>
+      <target>Datei hinzufügen</target>
+    </trans-unit>
+    <trans-unit id="1819" approved="yes">
+      <source><![CDATA[app.profileSectionCertificatesItemsTitle]]></source>
+      <target>Gespeicherte Zertifikate</target>
+    </trans-unit>
+    <trans-unit id="1815" approved="yes">
+      <source><![CDATA[app.profileInputEducationsGraduationYearLabel]]></source>
+      <target>Abschlussjahr</target>
+    </trans-unit>
+    <trans-unit id="1817" approved="yes">
+      <source><![CDATA[app.profileInputEducationsCountryLabel]]></source>
+      <target>Land</target>
+    </trans-unit>
+    <trans-unit id="1821" approved="yes">
+      <source><![CDATA[app.profileInputLanguagesLanguageLabel]]></source>
+      <target>Sprache</target>
+    </trans-unit>
+    <trans-unit id="1820" approved="yes">
+      <source><![CDATA[app.profileSectionLanguagesItemsTitle]]></source>
+      <target>Gespeicherte Sprachen</target>
+    </trans-unit>
+    <trans-unit id="1816" approved="yes">
+      <source><![CDATA[app.profileInputEducationsEducationLevelLabel]]></source>
+      <target>Abschluss</target>
+    </trans-unit>
+    <trans-unit id="1818" approved="yes">
+      <source><![CDATA[app.profileInputCertificatesCertificateTitleLabel]]></source>
+      <target>Bezeichnung</target>
+    </trans-unit>
+    <trans-unit id="1822" approved="yes">
+      <source><![CDATA[app.profileInputLanguagesLevelLabel]]></source>
+      <target>Kenntnisse</target>
     </trans-unit>
     </body>
   </file>

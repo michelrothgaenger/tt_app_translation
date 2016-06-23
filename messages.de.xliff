@@ -2080,7 +2080,7 @@
       </trans-unit>
       <trans-unit id="1434" approved="yes">
         <source><![CDATA[app.position]]></source>
-        <target><![CDATA[Position]]></target>
+        <target>Tätigkeitsbereich</target>
       </trans-unit>
       <trans-unit id="1435" approved="yes">
         <source><![CDATA[app.package]]></source>
@@ -2960,7 +2960,7 @@
     </trans-unit>
     <trans-unit id="1831" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem4Headline]]></source>
-      <target>Ausschließlicher Fokus auf Logistik und Transport</target>
+      <target>Fokus auf Logistik und Transport</target>
     </trans-unit>
     <trans-unit id="1832" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem4Desc]]></source>
@@ -2968,7 +2968,7 @@
     </trans-unit>
     <trans-unit id="1833" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem5Headline]]></source>
-      <target>Partnerschaft</target>
+      <target>Partnerschaftliche Mentalität</target>
     </trans-unit>
     <trans-unit id="1834" approved="yes">
       <source><![CDATA[app.introductionHowWeAreDifferentItem5Desc]]></source>
@@ -2992,7 +2992,7 @@
     </trans-unit>
     <trans-unit id="1759" approved="yes">
       <source><![CDATA[app.profileGroupSkillsDesc]]></source>
-      <target>Teamplayer, Motivator oder Querdenker – was zeichnet Sie aus? Nennen Sie uns Ihre Fähigkeiten.</target>
+      <target>Teamplayer, Motivator oder Querdenker – was zeichnet Sie aus?</target>
     </trans-unit>
     <trans-unit id="1763" approved="yes">
       <source><![CDATA[app.profileGroupCertificatesDesc]]></source>
@@ -3041,6 +3041,118 @@
     <trans-unit id="1822" approved="yes">
       <source><![CDATA[app.profileInputLanguagesLevelLabel]]></source>
       <target>Kenntnisse</target>
+    </trans-unit>
+    <trans-unit id="1814" approved="yes">
+      <source><![CDATA[app.profileInputEducationsSkillLabel]]></source>
+      <target>Studienfach</target>
+    </trans-unit>
+    <trans-unit id="1813" approved="yes">
+      <source><![CDATA[app.profileSectionEducationsItemsTitle]]></source>
+      <target>Gespeicherte Ausbildungen</target>
+    </trans-unit>
+    <trans-unit id="1758" approved="yes">
+      <source><![CDATA[app.profileGroupSkillsTitle]]></source>
+      <target>Kompetenzen</target>
+    </trans-unit>
+    <trans-unit id="1760" approved="yes">
+      <source><![CDATA[app.profileGroupEducationsTitle]]></source>
+      <target>Ausbildung</target>
+    </trans-unit>
+    <trans-unit id="1762" approved="yes">
+      <source><![CDATA[app.profileGroupCertificatesTitle]]></source>
+      <target>Qualifikationen</target>
+    </trans-unit>
+    <trans-unit id="1764" approved="yes">
+      <source><![CDATA[app.profileGroupLanguagesTitle]]></source>
+      <target>Sprachen</target>
+    </trans-unit>
+    <trans-unit id="1766" approved="yes">
+      <source><![CDATA[app.profileInputPhotoEditBtnText]]></source>
+      <target>Foto bearbeiten</target>
+    </trans-unit>
+    <trans-unit id="1768" approved="yes">
+      <source><![CDATA[app.profileInputCvUploadBtnText]]></source>
+      <target>Datei hinzufügen</target>
+    </trans-unit>
+    <trans-unit id="1767" approved="yes">
+      <source><![CDATA[app.profileInputPhotoDesc]]></source>
+      <target>Bildgröße min. 150 x 150 Pixel&lt;br&gt;Dateigröße max. 1 MB</target>
+    </trans-unit>
+    <trans-unit id="1769" approved="yes">
+      <source><![CDATA[app.profileInputCvRequirements]]></source>
+      <target>Datei muss im PDF-Format vorliegen und darf eine Größe von 15 MB nicht überschreiten.</target>
+    </trans-unit>
+    <trans-unit id="1770" approved="yes">
+      <source><![CDATA[app.profileInputBasicFirstNameLabel]]></source>
+      <target>Vorname</target>
+    </trans-unit>
+    <trans-unit id="1771" approved="yes">
+      <source><![CDATA[app.profileInputBasicLastNameLabel]]></source>
+      <target>Nachname</target>
+    </trans-unit>
+    <trans-unit id="1772" approved="yes">
+      <source><![CDATA[app.profileInputBasicEmailLabel]]></source>
+      <target>E-Mail</target>
+    </trans-unit>
+    <trans-unit id="1773" approved="yes">
+      <source><![CDATA[app.profileInputBasicPhoneLabel]]></source>
+      <target>Telefon</target>
+    </trans-unit>
+    <trans-unit id="1774" approved="yes">
+      <source><![CDATA[app.profileSectionGeneralTitle]]></source>
+      <target>Allgemein</target>
+    </trans-unit>
+    <trans-unit id="1775" approved="yes">
+      <source><![CDATA[app.profileInputGeneralTitleLabel]]></source>
+      <target>Titel</target>
+    </trans-unit>
+    <trans-unit id="1776" approved="yes">
+      <source><![CDATA[app.profileInputGeneralSalutationLabel]]></source>
+      <target>Anrede</target>
+    </trans-unit>
+    <trans-unit id="1777" approved="yes">
+      <source><![CDATA[app.profileInputGeneralBirthdayLabel]]></source>
+      <target>Geburtstdatum</target>
+    </trans-unit>
+    <trans-unit id="1778" approved="yes">
+      <source><![CDATA[app.profileInputGeneralCountryLabel]]></source>
+      <target>Land</target>
+    </trans-unit>
+    <trans-unit id="1779" approved="yes">
+      <source><![CDATA[app.profileInputGeneralCityLabel]]></source>
+      <target>Stadt</target>
+    </trans-unit>
+    <trans-unit id="1780" approved="yes">
+      <source><![CDATA[app.profileSectionPhotoTitle]]></source>
+      <target>Foto</target>
+    </trans-unit>
+    <trans-unit id="1782" approved="yes">
+      <source><![CDATA[app.profileSectionSocialMediaTitle]]></source>
+      <target>Social Media</target>
+    </trans-unit>
+    <trans-unit id="1784" approved="yes">
+      <source><![CDATA[app.profileSectionSocialMediaItemsTitle]]></source>
+      <target>Gespeicherte Profile</target>
+    </trans-unit>
+    <trans-unit id="1785" approved="yes">
+      <source><![CDATA[app.profileInputSocialMediaProfileTitleLabel]]></source>
+      <target>Geben Sie eine Bezeichnung für das Profil</target>
+    </trans-unit>
+    <trans-unit id="1786" approved="yes">
+      <source><![CDATA[app.profileInputSocialMediaAddressLabel]]></source>
+      <target>und eine Adresse ein.</target>
+    </trans-unit>
+    <trans-unit id="1787" approved="yes">
+      <source><![CDATA[app.profileSectionTotalExperienceTitle]]></source>
+      <target>Erfahrung</target>
+    </trans-unit>
+    <trans-unit id="1788" approved="yes">
+      <source><![CDATA[app.profileInputTotalExperienceYearsLabel]]></source>
+      <target>Wie viele Jahre Berufserfahrung in der Transport- oder Logistikbranche haben Sie?</target>
+    </trans-unit>
+    <trans-unit id="1789" approved="yes">
+      <source><![CDATA[app.profileInputTotalExperienceSpecialityLabel]]></source>
+      <target>Worauf liegt Ihr beruflicher Fokus?</target>
     </trans-unit>
     </body>
   </file>

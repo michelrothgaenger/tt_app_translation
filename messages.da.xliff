@@ -166,7 +166,7 @@
         <source><![CDATA[registration.emailemp.message]]></source>
         <target><![CDATA[Hej %username%!<br><br>For at afslutte aktiveringen af din kont, venligst klik på <a href="%confirmationUrl%">%confirmationUrl%</a><br><br>Hilsen, TransportTalent.]]></target>
       </trans-unit>
-    <trans-unit id="916" approved="yes">
+    <trans-unit id="955" approved="yes">
         <source><![CDATA[Logistics]]></source>
         <target></target>
       </trans-unit>

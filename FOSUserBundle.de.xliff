@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
     <body>
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="23" approved="yes">
         <source><![CDATA[registration.email.message]]></source>
-        <target><![CDATA[Hallo %firstname%,<br> <br> vielen Dank, dass du dich bei uns angemeldet hast. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicke hier, um deine Anmeldung zu bestätigen</a>. Nach dem Abschluss deiner Anmeldung erhältst du eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Solltest du Fragen haben, so wende dich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir freuen uns, dass du dabei bist und wünschen dir schon jetzt viel Erfolg bei deiner beruflichen Entwicklung.<br> <br> Mit freundlichen Grüßen,<br> <br> Michel Rothgaenger<br> Geschäftsführer DACH<br>]]></target>
+        <target>Hallo %firstname%,&lt;br&gt; &lt;br&gt; vielen Dank, dass Sie sich bei uns angemeldet haben. &lt;a style="font-weight: bold;" href="%confirmationUrl%"&gt;Bitte klicken Sie hier, um Ihre Anmeldung zu bestätigen&lt;/a&gt;. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. &lt;br&gt; &lt;br&gt; Sollten Sie Fragen haben, so wenden Sie sich gern unter &lt;a href="mailto:support@transporttalent.com"&gt;support@transporttalent.com&lt;/a&gt; jederzeit an uns.&lt;br&gt; &lt;br&gt; Wir freuen uns, dass Sie dabei sind und wünschen Ihnen schon jetzt viel Erfolg bei Ihrer beruflichen Entwicklung.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen,&lt;br&gt; &lt;br&gt; Michel Rothgaenger&lt;br&gt; Geschäftsführer DACH&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="24" approved="yes">
         <source><![CDATA[resetting.password_already_requested]]></source>

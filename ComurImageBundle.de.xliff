@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="1" approved="yes">
         <source><![CDATA[Drop your file here]]></source>
-        <target><![CDATA[Ziehe deine Datei hierher]]></target>
+        <target>Ziehen Sie Ihre Datei hierher</target>
       </trans-unit>
       <trans-unit id="2" approved="yes">
         <source><![CDATA[Crop & Use !]]></source>
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="28" approved="yes">
         <source><![CDATA[Please adjust selection to your image]]></source>
-        <target><![CDATA[Bitte passe die Auswahl deinem Bild an]]></target>
+        <target>Bitte passen Sie die Auswahl Ihrem Bild an</target>
       </trans-unit>
       <trans-unit id="29" approved="yes">
         <source><![CDATA[The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form]]></source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
     <body>
@@ -166,6 +166,10 @@
         <source><![CDATA[registration.emailemp.message]]></source>
         <target><![CDATA[Hej %username%!<br><br>For at afslutte aktiveringen af din kont, venligst klik på <a href="%confirmationUrl%">%confirmationUrl%</a><br><br>Hilsen, TransportTalent.]]></target>
       </trans-unit>
-    </body>
+    <trans-unit id="916" approved="yes">
+        <source><![CDATA[Logistics]]></source>
+        <target></target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

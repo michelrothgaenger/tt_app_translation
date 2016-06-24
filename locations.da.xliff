@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
     <body>
@@ -3658,6 +3658,10 @@
         <source><![CDATA[Vietnam]]></source>
         <target><![CDATA[Vietnam]]></target>
       </trans-unit>
-    </body>
+    <trans-unit id="856" approved="yes">
+        <source><![CDATA[Lao People's Democratic Republic]]></source>
+        <target>TEST</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

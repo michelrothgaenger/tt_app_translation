@@ -312,15 +312,19 @@
       </trans-unit>
       <trans-unit id="992" approved="yes">
         <source><![CDATA[app.theMissionOfTransportTalentisToEnable]]></source>
-        <target><![CDATA[Transport Talent ist ein Karrierenetzwerk für Talente aus der Logistik- und Transportbranche. Wir arbeiten mit Kandidaten, die passiv nach einer neuen Stelle suchen. Durch den Zugang zu unserem sorgfältig und passgenau ausgewählten Kandidatenpool können unsere Kunden freie Positionen in ihrem Unternehmen schneller und effizienter besetzen.]]></target>
+        <target>Transport Talent wurde mit dem Ziel gegründet, das Recruiting in der Transport- und Logistikbranche zu verbessern. Kandidaten können sich auf Stellen bewerben, Unternehmen folgen und erhalten Zugang zu interessanten Inhalten rund um das Thema Karriere.
+
+Unternehmen profitieren vom größten Netzwerk für Transport- und Logistikfachkräfte und können so ihren Einstellungsprozess optimieren.
+
+Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beide blicken auf langjährige Erfahrung im Management und Personalbereich weltweit führender Logistikunternehmen zurück.</target>
       </trans-unit>
       <trans-unit id="993" approved="yes">
         <source><![CDATA[app.weAreDedicatedToCreatingPlatform]]></source>
-        <target><![CDATA[Unser Service beruht auf einer intelligenten Matching-Datenbank, welche die Stellenanforderungen der Unternehmen mit den Profilen der Kandidaten abgleicht. Die Kombination einer sehr großen, sorgfältig gepflegten Datenbank mit einem zielgenauen Matching-Prozess und der langjährigen Erfahrung der Gründer im Bereich Transport und Logistik macht den Einstellungsprozess für beide Seiten deutlich effizienter. Der kostenlose Service für Kandidaten bietet außerdem umfassende Unterstützung in Form von Coaching und Expertentipps zu Karrierefragen.]]></target>
+        <target state="translated"/>
       </trans-unit>
       <trans-unit id="994" approved="yes">
         <source><![CDATA[app.whetherYouAreJustStartingOutOrAiming]]></source>
-        <target><![CDATA[Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beide blicken auf langjährige Erfahrung im Management und Personalbereich weltweit führender Logistikunternehmen zurück.]]></target>
+        <target/>
       </trans-unit>
       <trans-unit id="995" approved="yes">
         <source><![CDATA[app.theTeam]]></source>
@@ -420,11 +424,11 @@
       </trans-unit>
       <trans-unit id="1019" approved="yes">
         <source><![CDATA[app.completeTheFollowingSteps]]></source>
-        <target><![CDATA[Erstellen Sie ein kostenloses Firmenprofil auf unserer Seite, um sich den Bewerbern bestmöglich präsentieren zu können.]]></target>
+        <target>Erstellen Sie ein kostenloses Firmenprofil auf TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="1020" approved="yes">
         <source><![CDATA[app.keyWords]]></source>
-        <target><![CDATA[Begriff]]></target>
+        <target>Stichwörter</target>
       </trans-unit>
       <trans-unit id="1021" approved="yes">
         <source><![CDATA[app.egLocationAirFreight]]></source>
@@ -440,7 +444,7 @@
       </trans-unit>
       <trans-unit id="1024" approved="yes">
         <source><![CDATA[app.allLevels]]></source>
-        <target><![CDATA[Alle Level]]></target>
+        <target>Alle Karrierestufen</target>
       </trans-unit>
       <trans-unit id="1025" approved="yes">
         <source><![CDATA[app.noJobsFound]]></source>
@@ -676,7 +680,7 @@
       </trans-unit>
       <trans-unit id="1083" approved="yes">
         <source><![CDATA[app.contactPageAddress]]></source>
-        <target><![CDATA[<div><b>Deutschland:</b></div><div>Transport Talent</div><div>Bernstorffstraße 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Dänemark:</b></div><div>Transport Talent ApS</div><div>Kronprinsessegade 46E</div><div>DK-1306 Kopenhagen</div>]]></target>
+        <target>&lt;div&gt;&lt;b&gt;Deutschland:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorffstraße 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dänemark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Islands Brygge 77D&lt;/div&gt;&lt;div&gt;DK-2300 Kopenhagen&lt;/div&gt;</target>
       </trans-unit>
       <trans-unit id="1084" approved="yes">
         <source><![CDATA[app.directions]]></source>
@@ -2244,19 +2248,19 @@
       </trans-unit>
       <trans-unit id="1475" approved="yes">
         <source><![CDATA[app.introductionForWhoItemHrManagersDesc]]></source>
-        <target><![CDATA[die eine Stelle besetzen wollen und sich dabei durch einen Branchenspezialisten unterstützen lassen möchten.]]></target>
+        <target>die eine wichtige Position besetzen möchten und einen branchenerfahrenen Recruiter mit der Suche beauftragen wollen.</target>
       </trans-unit>
       <trans-unit id="1476" approved="yes">
         <source><![CDATA[app.introductionForWhoItemHiringManagersDesc]]></source>
-        <target><![CDATA[die ihr Employer Branding verbessern und ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.]]></target>
+        <target>die ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.</target>
       </trans-unit>
       <trans-unit id="1477" approved="yes">
         <source><![CDATA[app.introductionForWhoItemHiringManagersHeadline]]></source>
         <target><![CDATA[Personalverantwortliche]]></target>
       </trans-unit>
-      <trans-unit id="1478" approved="yes">
+      <trans-unit id="1478" approved="no">
         <source><![CDATA[app.introductionForWhoItemRecruitersDesc]]></source>
-        <target><![CDATA[die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.]]></target>
+        <target state="needs-translation"><![CDATA[die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.]]></target>
       </trans-unit>
       <trans-unit id="1479" approved="yes">
         <source><![CDATA[app.introductionForWhoHeadline]]></source>
@@ -2394,9 +2398,9 @@
         <source><![CDATA[app.introductionHowItWorksSourcingDesc]]></source>
         <target><![CDATA[Mit Transport Talent besetzen Sie auch kurzfristig Positionen. Wir unterstützen Sie dabei, sich gegen andere Unternehmen abzuheben und eine höhere Rückmeldequote zu erreichen. Ihre Stellenanzeige wird über unsere Social-Media-Kanäle veröffentlicht, in unseren Newsletter eingebunden und auch in persönlichen Nachrichten direkt an geeignete Kandidaten geschickt.]]></target>
       </trans-unit>
-      <trans-unit id="1513" approved="yes">
+      <trans-unit id="1513" approved="no">
         <source><![CDATA[app.introductionWhoWeAreDesc]]></source>
-        <target><![CDATA[Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.]]></target>
+        <target state="needs-translation"><![CDATA[Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.]]></target>
       </trans-unit>
       <trans-unit id="1514" approved="yes">
         <source><![CDATA[app.forCandidates]]></source>
@@ -2984,7 +2988,7 @@
     </trans-unit>
     <trans-unit id="1749" approved="yes">
       <source><![CDATA[app.profileGroupImportDesc]]></source>
-      <target>Sparen Sie Zeit und importieren vorhandene Daten aus Ihrem Xing- oder LinkedIn-Profil.</target>
+      <target>Übernehmen Sie vorhandene Daten aus Ihrem Xing- oder LinkedIn-Profil.</target>
     </trans-unit>
     <trans-unit id="1753" approved="yes">
       <source><![CDATA[app.profileGroupSummaryDesc]]></source>
@@ -3144,7 +3148,7 @@
     </trans-unit>
     <trans-unit id="1787" approved="yes">
       <source><![CDATA[app.profileSectionTotalExperienceTitle]]></source>
-      <target>Erfahrung</target>
+      <target>Berufserfahrung</target>
     </trans-unit>
     <trans-unit id="1788" approved="yes">
       <source><![CDATA[app.profileInputTotalExperienceYearsLabel]]></source>
@@ -3158,6 +3162,250 @@
       <source><![CDATA[app.profileInputSkillsSkillLabel]]></source>
       <target>Nennen Sie uns Ihre Kompetenzen.</target>
     </trans-unit>
-    </body>
+    <trans-unit id="1811" approved="yes">
+      <source><![CDATA[app.profileSectionSkillsItemsTitle]]></source>
+      <target>Gespeicherte Kompetenzen</target>
+    </trans-unit>
+    <trans-unit id="1810" approved="yes">
+      <source><![CDATA[app.profileInputPreferredCountriesCityLabel]]></source>
+      <target>Bevorzugte Stadt</target>
+    </trans-unit>
+    <trans-unit id="1809" approved="yes">
+      <source><![CDATA[app.profileInputPreferredCountriesCountryLabel]]></source>
+      <target>Wählen Sie bevorzugte Regionen und Länder.</target>
+    </trans-unit>
+    <trans-unit id="1808" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredCountriesItemsTitle]]></source>
+      <target>Gespeicherte Regionen und Länder</target>
+    </trans-unit>
+    <trans-unit id="1807" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredCountriesTitle]]></source>
+      <target>Bevorzugte Arbeitsorte</target>
+    </trans-unit>
+    <trans-unit id="1806" approved="yes">
+      <source><![CDATA[app.profileInputPreferredJobCategoriesJobCategoryLabel]]></source>
+      <target>Wählen Sie einen Bereich</target>
+    </trans-unit>
+    <trans-unit id="1805" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredJobCategoriesItemsTitle]]></source>
+      <target>Gespeicherte Tätigkeitsbereiche</target>
+    </trans-unit>
+    <trans-unit id="1804" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredJobCategoriesTitle]]></source>
+      <target>Bevorzugte Tätigkeitsfelder</target>
+    </trans-unit>
+    <trans-unit id="1803" approved="yes">
+      <source><![CDATA[app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel]]></source>
+      <target>Wählen Sie Ihre gewünschte Beschäftigungsart</target>
+    </trans-unit>
+    <trans-unit id="1802" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredEmploymentTypesItemsTitle]]></source>
+      <target>Gespeicherte Beschäftigungsarten</target>
+    </trans-unit>
+    <trans-unit id="1801" approved="yes">
+      <source><![CDATA[app.profileSectionPreferredEmploymentTypesTitle]]></source>
+      <target>Gewünschte Beschäftigungsarten</target>
+    </trans-unit>
+    <trans-unit id="1798" approved="yes">
+      <source><![CDATA[app.profileInputProfessionalExperienceSubareaLabel]]></source>
+      <target>Unterbereich</target>
+    </trans-unit>
+    <trans-unit id="1797" approved="yes">
+      <source><![CDATA[app.profileInputProfessionalExperienceBusinessAreaLabel]]></source>
+      <target>Geschäftsbereich</target>
+    </trans-unit>
+    <trans-unit id="1790" approved="yes">
+      <source><![CDATA[app.profileSectionCvTitle]]></source>
+      <target>Lebenslauf</target>
+    </trans-unit>
+    <trans-unit id="1791" approved="yes">
+      <source><![CDATA[app.profileSectionProfessionalExperienceItemsTitle]]></source>
+      <target>Gespeicherte Erfahrungen</target>
+    </trans-unit>
+    <trans-unit id="1795" approved="yes">
+      <source><![CDATA[app.profileInputProfessionalExperienceTeamsizeLabel]]></source>
+      <target>Bei Personalverantwortung bitte Teamgröße nennen</target>
+    </trans-unit>
+    <trans-unit id="1736" approved="yes">
+      <source><![CDATA[app.profileProfileHasNotBeenApproved]]></source>
+      <target>Vielen Dank für Ihre Angaben. Ihr Profil wird geprüft.</target>
+    </trans-unit>
+    <trans-unit id="1737" approved="yes">
+      <source><![CDATA[app.contact]]></source>
+      <target>Kontakt</target>
+    </trans-unit>
+    <trans-unit id="1738" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemStatus]]></source>
+      <target><![CDATA[Status]]></target>
+    </trans-unit>
+    <trans-unit id="1739" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemBasic]]></source>
+      <target>Grundlegende Angaben</target>
+    </trans-unit>
+    <trans-unit id="1735" approved="yes">
+      <source><![CDATA[app.profileYourProfileStatusIs]]></source>
+      <target>Dein Profil ist zu</target>
+    </trans-unit>
+    <trans-unit id="1740" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemPersonal]]></source>
+      <target>Persönliches Profil</target>
+    </trans-unit>
+    <trans-unit id="1741" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemExperience]]></source>
+      <target>Berufserfahrung</target>
+    </trans-unit>
+    <trans-unit id="1744" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemLanguages]]></source>
+      <target>Sprachen</target>
+    </trans-unit>
+    <trans-unit id="1745" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemSummary]]></source>
+      <target>Lebenslauf hochladen</target>
+    </trans-unit>
+    <trans-unit id="1748" approved="yes">
+      <source><![CDATA[app.profileGroupImportTitle]]></source>
+      <target>Importieren Sie Ihre Daten</target>
+    </trans-unit>
+    <trans-unit id="1750" approved="yes">
+      <source><![CDATA[app.profileGroupPersonalTitle]]></source>
+      <target>Persönliches Profil</target>
+    </trans-unit>
+    <trans-unit id="1752" approved="yes">
+      <source><![CDATA[app.profileGroupSummaryTitle]]></source>
+      <target>Résumé</target>
+    </trans-unit>
+    <trans-unit id="1754" approved="yes">
+      <source><![CDATA[app.profileGroupExperienceTitle]]></source>
+      <target>Vervollständigen Sie Ihr Profil mit genaueren Angaben zu Ihrer Berufserfahrung.</target>
+    </trans-unit>
+    <trans-unit id="1756" approved="yes">
+      <source><![CDATA[app.profileGroupPreferencesTitle]]></source>
+      <target>In welchem Bereich möchten Sie gerne arbeiten?</target>
+    </trans-unit>
+    <trans-unit id="1746" approved="yes">
+      <source><![CDATA[app.profileGroupBasicTitle]]></source>
+      <target>Allgemein</target>
+    </trans-unit>
+    <trans-unit id="1743" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemCertificates]]></source>
+      <target>Zertifikate</target>
+    </trans-unit>
+    <trans-unit id="1742" approved="yes">
+      <source><![CDATA[app.profileNavigationListItemPreferences]]></source>
+      <target>Jobpräferenzen</target>
+    </trans-unit>
+    <trans-unit id="1734" approved="yes">
+      <source><![CDATA[app.profileYourMentorName]]></source>
+      <target><![CDATA[Svenja]]></target>
+    </trans-unit>
+    <trans-unit id="1731" approved="yes">
+      <source><![CDATA[app.complete]]></source>
+      <target>vollständig</target>
+    </trans-unit>
+    <trans-unit id="1732" approved="yes">
+      <source><![CDATA[app.profileYourMentorDesc]]></source>
+      <target>Ihr persönlicher Ansprechpartner bei TT</target>
+    </trans-unit>
+    <trans-unit id="1733" approved="yes">
+      <source><![CDATA[app.profileProfileHasBeenApproved]]></source>
+      <target>Ihr Profil wurde geprüft und bestätigt</target>
+    </trans-unit>
+    <trans-unit id="1012" approved="yes">
+        <source><![CDATA[app.contentManagerSeniorEditor]]></source>
+        <target><![CDATA[Content Manager & Senior Editor]]></target>
+      </trans-unit>
+      <trans-unit id="1015" approved="yes">
+        <source><![CDATA[app.accountExecutive]]></source>
+        <target>Kundenbetreuer/-in</target>
+      </trans-unit>
+      <trans-unit id="1106" approved="yes">
+        <source><![CDATA[app.basicLevel]]></source>
+        <target>Basisangebot</target>
+      </trans-unit>
+      <trans-unit id="1219" approved="yes">
+        <source><![CDATA[app.url]]></source>
+        <target>URL</target>
+      </trans-unit>
+      <trans-unit id="1220" approved="yes">
+        <source><![CDATA[app.jobPositionPlaceholder]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1230" approved="yes">
+        <source><![CDATA[app.careersAtTransportTalent]]></source>
+        <target>Karrieremöglichkeiten bei Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="1563" approved="yes">
+        <source><![CDATA[app.passiveSourcing]]></source>
+        <target>Passive Akquise</target>
+      </trans-unit>
+      <trans-unit id="1591" approved="yes">
+        <source><![CDATA[app.pricingPlan1Line6]]></source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="1626" approved="yes">
+        <source><![CDATA[app.serviceBookedTitle]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1627" approved="yes">
+        <source><![CDATA[app.serviceBookedDescription]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1644" approved="yes">
+        <source><![CDATA[app.jobsFound]]></source>
+        <target>Stellen gefunden</target>
+      </trans-unit>
+      <trans-unit id="1666" approved="yes">
+        <source><![CDATA[app.metaForSocialsSiteName]]></source>
+        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+      </trans-unit>
+      <trans-unit id="1667" approved="yes">
+        <source><![CDATA[app.metaForSocialsSiteTitle]]></source>
+        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+      </trans-unit>
+      <trans-unit id="1668" approved="yes">
+        <source><![CDATA[app.metaForSocialsSiteDescription]]></source>
+        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+      </trans-unit>
+      <trans-unit id="1669" approved="yes">
+        <source><![CDATA[app.jobsFilterCompanyPlaceholder]]></source>
+        <target>z.B. DHL</target>
+      </trans-unit>
+      <trans-unit id="1670" approved="yes">
+        <source><![CDATA[app.metaDescriptionEditJobPage]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1671" approved="yes">
+        <source><![CDATA[app.metaKeywordsEditJobPage]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1672" approved="yes">
+        <source><![CDATA[app.metaDescriptionProfilePage]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1673" approved="yes">
+        <source><![CDATA[app.metaKeywordsProfilePage]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1674" approved="yes">
+        <source><![CDATA[app.metaKeywordsBase]]></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="1721" approved="yes">
+        <source><![CDATA[app.companies]]></source>
+        <target>Unternehmen</target>
+      </trans-unit>
+      <trans-unit id="1714" approved="yes">
+        <source><![CDATA[app.in]]></source>
+        <target><![CDATA[in]]></target>
+      </trans-unit>
+      <trans-unit id="1715" approved="yes">
+        <source><![CDATA[app.for]]></source>
+        <target>für</target>
+      </trans-unit>
+      <trans-unit id="1716" approved="yes">
+        <source><![CDATA[Vietnam]]></source>
+        <target><![CDATA[Vietnam]]></target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

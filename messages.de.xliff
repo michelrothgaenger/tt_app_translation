@@ -3154,6 +3154,10 @@
       <source><![CDATA[app.profileInputTotalExperienceSpecialityLabel]]></source>
       <target>Worauf liegt Ihr beruflicher Fokus?</target>
     </trans-unit>
+    <trans-unit id="1812" approved="yes">
+      <source><![CDATA[app.profileInputSkillsSkillLabel]]></source>
+      <target>Nennen Sie uns Ihre Kompetenzen.</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

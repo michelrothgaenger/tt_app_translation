@@ -1,451 +1,454 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[app.skill.Personalberatung]]></source>
-        <target><![CDATA[Personalberatung]]></target>
+      <trans-unit id="adde109e840cf2728c43c17ff7debd01" resname="app.skill.Personalberatung">
+        <source>app.skill.Personalberatung</source>
+        <target>Personalberatung</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[app.skill. Junge Talente im Logistikbereich]]></source>
-        <target><![CDATA[ Junge Talente im Logistikbereich]]></target>
+      <trans-unit id="8b5a5740101524c507226c60013f7917" resname="app.skill. Junge Talente im Logistikbereich">
+        <source>app.skill. Junge Talente im Logistikbereich</source>
+        <target> Junge Talente im Logistikbereich</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[app.skill. Berufsbildung]]></source>
-        <target><![CDATA[ Berufsbildung]]></target>
+      <trans-unit id="1e18489f30fe5eb03aa4d7aa674e4ec0" resname="app.skill. Berufsbildung">
+        <source>app.skill. Berufsbildung</source>
+        <target> Berufsbildung</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[app.skill. Erfahrung]]></source>
-        <target><![CDATA[ Erfahrung]]></target>
+      <trans-unit id="b372364ab29d4202dae428fa8e06bd26" resname="app.skill. Erfahrung">
+        <source>app.skill. Erfahrung</source>
+        <target> Erfahrung</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[app.skill. Ausbildung]]></source>
-        <target><![CDATA[ Ausbildung]]></target>
+      <trans-unit id="d4eb15d6bfa15609585c6c1184cd8d61" resname="app.skill. Ausbildung">
+        <source>app.skill. Ausbildung</source>
+        <target> Ausbildung</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[app.skill. Personalmanagement]]></source>
-        <target><![CDATA[ Personalmanagement]]></target>
+      <trans-unit id="a16a9546ca966d8a3b6e3eecce351780" resname="app.skill. Personalmanagement">
+        <source>app.skill. Personalmanagement</source>
+        <target> Personalmanagement</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[app.skill.management]]></source>
-        <target><![CDATA[Management]]></target>
+      <trans-unit id="422fd734071bfa8a34c904a26044c661" resname="app.skill.management">
+        <source>app.skill.management</source>
+        <target>Management</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[app.skill.sales]]></source>
-        <target><![CDATA[Vertrieb]]></target>
+      <trans-unit id="c54f311294754fd48f2ed78f18665d2c" resname="app.skill.sales">
+        <source>app.skill.sales</source>
+        <target>Vertrieb</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[app.skill.Unternehmenskommunikation]]></source>
-        <target><![CDATA[Unternehmenskommunikation]]></target>
+      <trans-unit id="812e0de4bdbd99b6ea0b85fefbf8ba98" resname="app.skill.Unternehmenskommunikation">
+        <source>app.skill.Unternehmenskommunikation</source>
+        <target>Unternehmenskommunikation</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[app.skill.hä?]]></source>
-        <target><![CDATA[hä?]]></target>
+      <trans-unit id="ef0b51b9e599f775a68dc13b87f43531" resname="app.skill.hä?">
+        <source>app.skill.hä?</source>
+        <target>hä?</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[app.skill.IT]]></source>
-        <target><![CDATA[IT]]></target>
+      <trans-unit id="6d1e7f38e1dfe00ba6ad582985cf0bba" resname="app.skill.IT">
+        <source>app.skill.IT</source>
+        <target>IT</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[app.skill.Beratung]]></source>
-        <target><![CDATA[Beratung]]></target>
+      <trans-unit id="95aa02d9593fd8cb999689e5346b87f8" resname="app.skill.Beratung">
+        <source>app.skill.Beratung</source>
+        <target>Beratung</target>
       </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[app.skill. Analyse]]></source>
-        <target><![CDATA[ Analyse]]></target>
+      <trans-unit id="fe050563d4e5a7dfeec0461e80bdcc4e" resname="app.skill. Analyse">
+        <source>app.skill. Analyse</source>
+        <target> Analyse</target>
       </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[app.skill. Strategie]]></source>
-        <target><![CDATA[ Strategie]]></target>
+      <trans-unit id="656966d5b78749ebaa35869def3b52ed" resname="app.skill. Strategie">
+        <source>app.skill. Strategie</source>
+        <target> Strategie</target>
       </trans-unit>
-      <trans-unit id="15" approved="yes">
-        <source><![CDATA[app.skill. Konzeption]]></source>
-        <target><![CDATA[ Konzeption]]></target>
+      <trans-unit id="bd66fd39ef6d612671ca7f9812a67e64" resname="app.skill. Konzeption">
+        <source>app.skill. Konzeption</source>
+        <target> Konzeption</target>
       </trans-unit>
-      <trans-unit id="16" approved="yes">
-        <source><![CDATA[app.skill. Design & Usabilty Centered Layout]]></source>
+      <trans-unit id="80074fd298c0d27d6c1af750f424b1ba" resname="app.skill. Design &amp; Usabilty Centered Layout">
+        <source>app.skill. Design &amp; Usabilty Centered Layout</source>
         <target><![CDATA[ Design & Usabilty Centered Layout]]></target>
       </trans-unit>
-      <trans-unit id="17" approved="yes">
-        <source><![CDATA[app.skill. Programmierung]]></source>
-        <target><![CDATA[ Programmierung]]></target>
+      <trans-unit id="6ec4c40bb89558b96b821aee2bb1eba8" resname="app.skill. Programmierung">
+        <source>app.skill. Programmierung</source>
+        <target> Programmierung</target>
       </trans-unit>
-      <trans-unit id="18" approved="yes">
-        <source><![CDATA[app.skill. Online Strategieberatung]]></source>
-        <target><![CDATA[ Online Strategieberatung]]></target>
+      <trans-unit id="2a75f54ed31bdd6198d5aad33f4f8da1" resname="app.skill. Online Strategieberatung">
+        <source>app.skill. Online Strategieberatung</source>
+        <target> Online Strategieberatung</target>
       </trans-unit>
-      <trans-unit id="19" approved="yes">
-        <source><![CDATA[app.skill. Prototyping]]></source>
-        <target><![CDATA[ Prototyping]]></target>
+      <trans-unit id="f2a0e91ca83e6e81da5a0b88663d5b2c" resname="app.skill. Prototyping">
+        <source>app.skill. Prototyping</source>
+        <target> Prototyping</target>
       </trans-unit>
-      <trans-unit id="20" approved="yes">
-        <source><![CDATA[app.skill. Pflege]]></source>
-        <target><![CDATA[ Pflege]]></target>
+      <trans-unit id="f4aa61abe851e7e126b2a7960adc96a1" resname="app.skill. Pflege">
+        <source>app.skill. Pflege</source>
+        <target> Pflege</target>
       </trans-unit>
-      <trans-unit id="21" approved="yes">
-        <source><![CDATA[app.skill. Usabilty Tests]]></source>
-        <target><![CDATA[ Usabilty Tests]]></target>
+      <trans-unit id="7418adf91ff1b45372ef940d222d6c1d" resname="app.skill. Usabilty Tests">
+        <source>app.skill. Usabilty Tests</source>
+        <target> Usabilty Tests</target>
       </trans-unit>
-      <trans-unit id="22" approved="yes">
-        <source><![CDATA[app.skill. Workflow]]></source>
-        <target><![CDATA[ Workflow]]></target>
+      <trans-unit id="2895c2a7f180f77a24042a9ae9d8abb1" resname="app.skill. Workflow">
+        <source>app.skill. Workflow</source>
+        <target> Workflow</target>
       </trans-unit>
-      <trans-unit id="23" approved="yes">
-        <source><![CDATA[app.skill. Prozessoptimierung]]></source>
-        <target><![CDATA[ Prozessoptimierung]]></target>
+      <trans-unit id="563b11f6cd0189e730693f49e402d842" resname="app.skill. Prozessoptimierung">
+        <source>app.skill. Prozessoptimierung</source>
+        <target> Prozessoptimierung</target>
       </trans-unit>
-      <trans-unit id="24" approved="yes">
-        <source><![CDATA[app.skill. Kommunikationsberatung]]></source>
-        <target><![CDATA[ Kommunikationsberatung]]></target>
+      <trans-unit id="a4c70c1785427f4cfacd8684e92e6c21" resname="app.skill. Kommunikationsberatung">
+        <source>app.skill. Kommunikationsberatung</source>
+        <target> Kommunikationsberatung</target>
       </trans-unit>
-      <trans-unit id="25" approved="yes">
-        <source><![CDATA[app.skill. Digital Planning]]></source>
-        <target><![CDATA[ Digital Planning]]></target>
+      <trans-unit id="2df316380e3d5d96a268ad65cf921e36" resname="app.skill. Digital Planning">
+        <source>app.skill. Digital Planning</source>
+        <target> Digital Planning</target>
       </trans-unit>
-      <trans-unit id="26" approved="yes">
-        <source><![CDATA[app.skill. Kampagnen Konzeption]]></source>
-        <target><![CDATA[ Kampagnen Konzeption]]></target>
+      <trans-unit id="1d0c09890925646dda145fb7cf6f2602" resname="app.skill. Kampagnen Konzeption">
+        <source>app.skill. Kampagnen Konzeption</source>
+        <target> Kampagnen Konzeption</target>
       </trans-unit>
-      <trans-unit id="27" approved="yes">
-        <source><![CDATA[app.skill. Kreativ Beratung]]></source>
-        <target><![CDATA[ Kreativ Beratung]]></target>
+      <trans-unit id="f3cc5cd4c1a94d67cef322d7e92341df" resname="app.skill. Kreativ Beratung">
+        <source>app.skill. Kreativ Beratung</source>
+        <target> Kreativ Beratung</target>
       </trans-unit>
-      <trans-unit id="28" approved="yes">
-        <source><![CDATA[app.skill. Social Media Strategie]]></source>
-        <target><![CDATA[ Social Media Strategie]]></target>
+      <trans-unit id="0adb60866a33fcf20206cb6996aabfc5" resname="app.skill. Social Media Strategie">
+        <source>app.skill. Social Media Strategie</source>
+        <target> Social Media Strategie</target>
       </trans-unit>
-      <trans-unit id="29" approved="yes">
-        <source><![CDATA[app.skill. Online Management]]></source>
-        <target><![CDATA[ Online Management]]></target>
+      <trans-unit id="a3eb7370df423e6ed529d4e8ea3b630e" resname="app.skill. Online Management">
+        <source>app.skill. Online Management</source>
+        <target> Online Management</target>
       </trans-unit>
-      <trans-unit id="30" approved="yes">
-        <source><![CDATA[app.skill. Apps]]></source>
-        <target><![CDATA[ Apps]]></target>
+      <trans-unit id="b8d227ea65a5f453c6863d32d0d49548" resname="app.skill. Apps">
+        <source>app.skill. Apps</source>
+        <target> Apps</target>
       </trans-unit>
-      <trans-unit id="31" approved="yes">
-        <source><![CDATA[app.skill. Software / CRM]]></source>
-        <target><![CDATA[ Software / CRM]]></target>
+      <trans-unit id="2c571b1076cf8fad33eb7cfaf0cf1dc7" resname="app.skill. Software / CRM">
+        <source>app.skill. Software / CRM</source>
+        <target> Software / CRM</target>
       </trans-unit>
-      <trans-unit id="32" approved="yes">
-        <source><![CDATA[app.skill. Communities]]></source>
-        <target><![CDATA[ Communities]]></target>
+      <trans-unit id="163f845a36632720566fb63b82e6f4e3" resname="app.skill. Communities">
+        <source>app.skill. Communities</source>
+        <target> Communities</target>
       </trans-unit>
-      <trans-unit id="33" approved="yes">
-        <source><![CDATA[app.skill. Social]]></source>
-        <target><![CDATA[ Social]]></target>
+      <trans-unit id="6cf804a7d86dab82a81cb7585b06e558" resname="app.skill. Social">
+        <source>app.skill. Social</source>
+        <target> Social</target>
       </trans-unit>
-      <trans-unit id="34" approved="yes">
-        <source><![CDATA[app.skill. Media / SEO]]></source>
-        <target><![CDATA[ Media / SEO]]></target>
+      <trans-unit id="285f0d1a53ea1fb443a9afc5e76dd9c9" resname="app.skill. Media / SEO">
+        <source>app.skill. Media / SEO</source>
+        <target> Media / SEO</target>
       </trans-unit>
-      <trans-unit id="35" approved="yes">
-        <source><![CDATA[app.skill. SEM]]></source>
-        <target><![CDATA[ SEM]]></target>
+      <trans-unit id="7054f8db7ac324c3c79a70979d65253b" resname="app.skill. SEM">
+        <source>app.skill. SEM</source>
+        <target> SEM</target>
       </trans-unit>
-      <trans-unit id="36" approved="yes">
-        <source><![CDATA[app.skill. SES / Content]]></source>
-        <target><![CDATA[ SES / Content]]></target>
+      <trans-unit id="bb8cbcbda2d283c4e22abeaf19d9098e" resname="app.skill. SES / Content">
+        <source>app.skill. SES / Content</source>
+        <target> SES / Content</target>
       </trans-unit>
-      <trans-unit id="37" approved="yes">
-        <source><![CDATA[app.skill. Management]]></source>
-        <target><![CDATA[ Management]]></target>
+      <trans-unit id="e4a751336a7bf768e17ac8e6ba52cacc" resname="app.skill. Management">
+        <source>app.skill. Management</source>
+        <target> Management</target>
       </trans-unit>
-      <trans-unit id="38" approved="yes">
-        <source><![CDATA[app.skill. System]]></source>
-        <target><![CDATA[ System]]></target>
+      <trans-unit id="bbbb69b8e9ce96229e519b09122085f5" resname="app.skill. System">
+        <source>app.skill. System</source>
+        <target> System</target>
       </trans-unit>
-      <trans-unit id="39" approved="yes">
-        <source><![CDATA[app.skill. CMS]]></source>
-        <target><![CDATA[ CMS]]></target>
+      <trans-unit id="a8ed07002829090c8e41d51d74f11edf" resname="app.skill. CMS">
+        <source>app.skill. CMS</source>
+        <target> CMS</target>
       </trans-unit>
-      <trans-unit id="40" approved="yes">
-        <source><![CDATA[app.skill. Redaktionssystem]]></source>
-        <target><![CDATA[ Redaktionssystem]]></target>
+      <trans-unit id="c2b764352509fc770eee290dfce7cb18" resname="app.skill. Redaktionssystem">
+        <source>app.skill. Redaktionssystem</source>
+        <target> Redaktionssystem</target>
       </trans-unit>
-      <trans-unit id="41" approved="yes">
-        <source><![CDATA[app.skill. Streaming]]></source>
-        <target><![CDATA[ Streaming]]></target>
+      <trans-unit id="3011520f9445cfe6c2b4545c22fec07d" resname="app.skill. Streaming">
+        <source>app.skill. Streaming</source>
+        <target> Streaming</target>
       </trans-unit>
-      <trans-unit id="42" approved="yes">
-        <source><![CDATA[app.skill. Server]]></source>
-        <target><![CDATA[ Server]]></target>
+      <trans-unit id="cc0c895b80021231bad782bf3150207d" resname="app.skill. Server">
+        <source>app.skill. Server</source>
+        <target> Server</target>
       </trans-unit>
-      <trans-unit id="43" approved="yes">
-        <source><![CDATA[app.skill. Hosting]]></source>
-        <target><![CDATA[ Hosting]]></target>
+      <trans-unit id="a617e40e094c1e35f6c9987fd0fb82f9" resname="app.skill. Hosting">
+        <source>app.skill. Hosting</source>
+        <target> Hosting</target>
       </trans-unit>
-      <trans-unit id="44" approved="yes">
-        <source><![CDATA[app.skill. Cloud]]></source>
-        <target><![CDATA[ Cloud]]></target>
+      <trans-unit id="9ab2e2697633d0f3e5c338b0cbf34b8a" resname="app.skill. Cloud">
+        <source>app.skill. Cloud</source>
+        <target> Cloud</target>
       </trans-unit>
-      <trans-unit id="45" approved="yes">
-        <source><![CDATA[app.skill. Computing]]></source>
-        <target><![CDATA[ Computing]]></target>
+      <trans-unit id="3870d8a27dd83aff126420f2b87dbd88" resname="app.skill. Computing">
+        <source>app.skill. Computing</source>
+        <target> Computing</target>
       </trans-unit>
-      <trans-unit id="46" approved="yes">
-        <source><![CDATA[app.skill. B2B]]></source>
-        <target><![CDATA[ B2B]]></target>
+      <trans-unit id="66de53b1027bdd0f730c4dcfa17b3b03" resname="app.skill. B2B">
+        <source>app.skill. B2B</source>
+        <target> B2B</target>
       </trans-unit>
-      <trans-unit id="47" approved="yes">
-        <source><![CDATA[app.skill. Strategy]]></source>
-        <target><![CDATA[ Strategy]]></target>
+      <trans-unit id="f3991b49458dd75dadd065c67b0cc974" resname="app.skill. Strategy">
+        <source>app.skill. Strategy</source>
+        <target> Strategy</target>
       </trans-unit>
-      <trans-unit id="48" approved="yes">
-        <source><![CDATA[app.skill. Analysis]]></source>
-        <target><![CDATA[ Analysis]]></target>
+      <trans-unit id="14b3eedbc37b865aa3718abe2acfe3f2" resname="app.skill. Analysis">
+        <source>app.skill. Analysis</source>
+        <target> Analysis</target>
       </trans-unit>
-      <trans-unit id="49" approved="yes">
-        <source><![CDATA[app.skill. Programming]]></source>
-        <target><![CDATA[ Programming]]></target>
+      <trans-unit id="3435eead5260bd3dbac5a7f84149c180" resname="app.skill. Programming">
+        <source>app.skill. Programming</source>
+        <target> Programming</target>
       </trans-unit>
-      <trans-unit id="50" approved="yes">
-        <source><![CDATA[app.skill. Maintainance]]></source>
-        <target><![CDATA[ Maintainance]]></target>
+      <trans-unit id="f654040e20be49f13109ab6c8edd2231" resname="app.skill. Maintainance">
+        <source>app.skill. Maintainance</source>
+        <target> Maintainance</target>
       </trans-unit>
-      <trans-unit id="51" approved="yes">
-        <source><![CDATA[app.skill. optimisation (all online & offline)]]></source>
+      <trans-unit id="f2f251b4dff3ae1e3ae9dcce25c34e6b" resname="app.skill. optimisation (all online &amp; offline)">
+        <source>app.skill. optimisation (all online &amp; offline)</source>
         <target><![CDATA[ optimisation (all online & offline)]]></target>
       </trans-unit>
-      <trans-unit id="52" approved="yes">
-        <source><![CDATA[app.skill. Campaigns]]></source>
-        <target><![CDATA[ Campaigns]]></target>
+      <trans-unit id="34298a908d9974ffde8d13a7007eef0f" resname="app.skill. Campaigns">
+        <source>app.skill. Campaigns</source>
+        <target> Campaigns</target>
       </trans-unit>
-      <trans-unit id="53" approved="yes">
-        <source><![CDATA[app.skill. creativ consulting]]></source>
-        <target><![CDATA[ creativ consulting]]></target>
+      <trans-unit id="08e3f05a2fd19f2cf3859e489088cbe8" resname="app.skill. creativ consulting">
+        <source>app.skill. creativ consulting</source>
+        <target> creativ consulting</target>
       </trans-unit>
-      <trans-unit id="54" approved="yes">
-        <source><![CDATA[app.skill. Social Media]]></source>
-        <target><![CDATA[ Social Media]]></target>
+      <trans-unit id="8647ee83a446042c26c57bd9e8a5ad15" resname="app.skill. Social Media">
+        <source>app.skill. Social Media</source>
+        <target> Social Media</target>
       </trans-unit>
-      <trans-unit id="55" approved="yes">
-        <source><![CDATA[app.skill. Interim Management]]></source>
-        <target><![CDATA[ Interim Management]]></target>
+      <trans-unit id="37e67eac1cb5d2b9b99acae261323d85" resname="app.skill. Interim Management">
+        <source>app.skill. Interim Management</source>
+        <target> Interim Management</target>
       </trans-unit>
-      <trans-unit id="56" approved="yes">
-        <source><![CDATA[app.skill. Interimsmanagement]]></source>
-        <target><![CDATA[ Interimsmanagement]]></target>
+      <trans-unit id="3f955513794d4454ccb889c5872a22b5" resname="app.skill. Interimsmanagement">
+        <source>app.skill. Interimsmanagement</source>
+        <target> Interimsmanagement</target>
       </trans-unit>
-      <trans-unit id="57" approved="yes">
-        <source><![CDATA[app.skill.Organisationsberatung]]></source>
-        <target><![CDATA[Organisationsberatung]]></target>
+      <trans-unit id="97059191db683b5c7ee568aa7dd13db0" resname="app.skill.Organisationsberatung">
+        <source>app.skill.Organisationsberatung</source>
+        <target>Organisationsberatung</target>
       </trans-unit>
-      <trans-unit id="58" approved="yes">
-        <source><![CDATA[app.skill. Führungskräfteentwicklung]]></source>
-        <target><![CDATA[ Führungskräfteentwicklung]]></target>
+      <trans-unit id="9eb82e0c14287900f43e273498a6b12b" resname="app.skill. Führungskräfteentwicklung">
+        <source>app.skill. Führungskräfteentwicklung</source>
+        <target> Führungskräfteentwicklung</target>
       </trans-unit>
-      <trans-unit id="59" approved="yes">
-        <source><![CDATA[app.skill. Personalvermittlung]]></source>
-        <target><![CDATA[ Personalvermittlung]]></target>
+      <trans-unit id="7c560c73fb9a498cbbd4c297247dcae4" resname="app.skill. Personalvermittlung">
+        <source>app.skill. Personalvermittlung</source>
+        <target> Personalvermittlung</target>
       </trans-unit>
-      <trans-unit id="60" approved="yes">
-        <source><![CDATA[app.skill. IT-Consulting]]></source>
-        <target><![CDATA[ IT-Consulting]]></target>
+      <trans-unit id="fc691b1258b02596283cd97e3974cdb2" resname="app.skill. IT-Consulting">
+        <source>app.skill. IT-Consulting</source>
+        <target> IT-Consulting</target>
       </trans-unit>
-      <trans-unit id="61" approved="yes">
-        <source><![CDATA[app.skill. Beratung/Consulting]]></source>
-        <target><![CDATA[ Beratung/Consulting]]></target>
+      <trans-unit id="466ca99352f5e502d626c8009590a756" resname="app.skill. Beratung/Consulting">
+        <source>app.skill. Beratung/Consulting</source>
+        <target> Beratung/Consulting</target>
       </trans-unit>
-      <trans-unit id="62" approved="yes">
-        <source><![CDATA[app.skill. Supply Chain Management]]></source>
-        <target><![CDATA[ Supply Chain Management]]></target>
+      <trans-unit id="d57dc193967b2e1b123d883e16a30465" resname="app.skill. Supply Chain Management">
+        <source>app.skill. Supply Chain Management</source>
+        <target> Supply Chain Management</target>
       </trans-unit>
-      <trans-unit id="63" approved="yes">
-        <source><![CDATA[app.skill. Strategieberatung]]></source>
-        <target><![CDATA[ Strategieberatung]]></target>
+      <trans-unit id="c68e01c564fc1a5f66349a42978a9c73" resname="app.skill. Strategieberatung">
+        <source>app.skill. Strategieberatung</source>
+        <target> Strategieberatung</target>
       </trans-unit>
-      <trans-unit id="64" approved="yes">
-        <source><![CDATA[app.skill. Personalentwicklung]]></source>
-        <target><![CDATA[ Personalentwicklung]]></target>
+      <trans-unit id="82f979d1b2597a382b0c7c114152b51e" resname="app.skill. Personalentwicklung">
+        <source>app.skill. Personalentwicklung</source>
+        <target> Personalentwicklung</target>
       </trans-unit>
-      <trans-unit id="65" approved="yes">
-        <source><![CDATA[app.skill.Sämtliche Verkehrsträger Im- sowie Export]]></source>
-        <target><![CDATA[Sämtliche Verkehrsträger Im- sowie Export]]></target>
+      <trans-unit id="d094763314343629506d104910329478" resname="app.skill.Sämtliche Verkehrsträger Im- sowie Export">
+        <source>app.skill.Sämtliche Verkehrsträger Im- sowie Export</source>
+        <target>Sämtliche Verkehrsträger Im- sowie Export</target>
       </trans-unit>
-      <trans-unit id="66" approved="yes">
-        <source><![CDATA[app.skill.KEP Dienstleistung]]></source>
-        <target><![CDATA[KEP Dienstleistung]]></target>
+      <trans-unit id="4f5f8497abf3124cc3346f4fab730a28" resname="app.skill.KEP Dienstleistung">
+        <source>app.skill.KEP Dienstleistung</source>
+        <target>KEP Dienstleistung</target>
       </trans-unit>
-      <trans-unit id="67" approved="yes">
-        <source><![CDATA[app.skill.Lagerhaltung]]></source>
-        <target><![CDATA[Lagerhaltung]]></target>
+      <trans-unit id="dd813f668891b4bf11eb460594bb9d61" resname="app.skill.Lagerhaltung">
+        <source>app.skill.Lagerhaltung</source>
+        <target>Lagerhaltung</target>
       </trans-unit>
-      <trans-unit id="68" approved="yes">
-        <source><![CDATA[app.skill.KEP Dienstleistungen]]></source>
-        <target><![CDATA[KEP Dienstleistungen]]></target>
+      <trans-unit id="a185db2a57d86cb034833619e927589c" resname="app.skill.KEP Dienstleistungen">
+        <source>app.skill.KEP Dienstleistungen</source>
+        <target>KEP Dienstleistungen</target>
       </trans-unit>
-      <trans-unit id="69" approved="yes">
-        <source><![CDATA[app.skill. Projektmanagement]]></source>
-        <target><![CDATA[ Projektmanagement]]></target>
+      <trans-unit id="bd1df47714ffe469b411fbac9218c8d5" resname="app.skill. Projektmanagement">
+        <source>app.skill. Projektmanagement</source>
+        <target> Projektmanagement</target>
       </trans-unit>
-      <trans-unit id="70" approved="yes">
-        <source><![CDATA[app.skill. Fähigkeit mich schnell in neue Themen einzuarbeiten]]></source>
-        <target><![CDATA[ Fähigkeit mich schnell in neue Themen einzuarbeiten]]></target>
+      <trans-unit id="2042c305ce48fae119b5959a7f294a62" resname="app.skill. Fähigkeit mich schnell in neue Themen einzuarbeiten">
+        <source>app.skill. Fähigkeit mich schnell in neue Themen einzuarbeiten</source>
+        <target> Fähigkeit mich schnell in neue Themen einzuarbeiten</target>
       </trans-unit>
-      <trans-unit id="71" approved="yes">
-        <source><![CDATA[app.skill. Logistik]]></source>
-        <target><![CDATA[ Logistik]]></target>
+      <trans-unit id="4642d00abfd9521e858c5e72f543bf31" resname="app.skill. Logistik">
+        <source>app.skill. Logistik</source>
+        <target> Logistik</target>
       </trans-unit>
-      <trans-unit id="72" approved="yes">
-        <source><![CDATA[app.skill. Auslandserfahrung (Tansania)]]></source>
-        <target><![CDATA[ Auslandserfahrung (Tansania)]]></target>
+      <trans-unit id="deefe9426adc23492fb44b95e298fdad" resname="app.skill. Auslandserfahrung (Tansania)">
+        <source>app.skill. Auslandserfahrung (Tansania)</source>
+        <target> Auslandserfahrung (Tansania)</target>
       </trans-unit>
-      <trans-unit id="73" approved="yes">
-        <source><![CDATA[app.skill. Seefracht Import und Export]]></source>
-        <target><![CDATA[ Seefracht Import und Export]]></target>
+      <trans-unit id="a9f2466412f120194bf4624b4969cd31" resname="app.skill. Seefracht Import und Export">
+        <source>app.skill. Seefracht Import und Export</source>
+        <target> Seefracht Import und Export</target>
       </trans-unit>
-      <trans-unit id="74" approved="yes">
-        <source><![CDATA[app.skill. Projektlogistik]]></source>
-        <target><![CDATA[ Projektlogistik]]></target>
+      <trans-unit id="1eb2cc6575e43401eea0edaccf16b6a5" resname="app.skill. Projektlogistik">
+        <source>app.skill. Projektlogistik</source>
+        <target> Projektlogistik</target>
       </trans-unit>
-      <trans-unit id="75" approved="yes">
-        <source><![CDATA[app.skill. LCL]]></source>
-        <target><![CDATA[ LCL]]></target>
+      <trans-unit id="240a6f28280f985bc00ef6addd61a569" resname="app.skill. LCL">
+        <source>app.skill. LCL</source>
+        <target> LCL</target>
       </trans-unit>
-      <trans-unit id="76" approved="yes">
-        <source><![CDATA[app.skill. Personalverantwortung]]></source>
-        <target><![CDATA[ Personalverantwortung]]></target>
+      <trans-unit id="43c9940819cf4fefb3ea6ae7b2c13980" resname="app.skill. Personalverantwortung">
+        <source>app.skill. Personalverantwortung</source>
+        <target> Personalverantwortung</target>
       </trans-unit>
-      <trans-unit id="77" approved="yes">
-        <source><![CDATA[app.skill.Gefahrgut, Zoll, ATLAS, Mitarbeiterführung]]></source>
-        <target><![CDATA[Gefahrgut, Zoll, ATLAS, Mitarbeiterführung]]></target>
+      <trans-unit id="e6a4f01acac9129b9aa8dc1057152e21" resname="app.skill.Gefahrgut, Zoll, ATLAS, Mitarbeiterführung">
+        <source>app.skill.Gefahrgut, Zoll, ATLAS, Mitarbeiterführung</source>
+        <target>Gefahrgut, Zoll, ATLAS, Mitarbeiterführung</target>
       </trans-unit>
-      <trans-unit id="78" approved="yes">
-        <source><![CDATA[app.skill.Diplom Kaufmann (BWL)]]></source>
-        <target><![CDATA[Diplom Kaufmann (BWL)]]></target>
+      <trans-unit id="b143d93b437905a0d4a1b3b2c23bb6b0" resname="app.skill.Diplom Kaufmann (BWL)">
+        <source>app.skill.Diplom Kaufmann (BWL)</source>
+        <target>Diplom Kaufmann (BWL)</target>
       </trans-unit>
-      <trans-unit id="79" approved="yes">
-        <source><![CDATA[app.skill.Master of Science Global Logistics]]></source>
-        <target><![CDATA[Master of Science Global Logistics]]></target>
+      <trans-unit id="b221b868bbb7d2b54d6530f92462f737" resname="app.skill.Master of Science Global Logistics">
+        <source>app.skill.Master of Science Global Logistics</source>
+        <target>Master of Science Global Logistics</target>
       </trans-unit>
-      <trans-unit id="80" approved="yes">
-        <source><![CDATA[app.skill.Sales/ Vertrieb]]></source>
-        <target><![CDATA[Sales/ Vertrieb]]></target>
+      <trans-unit id="92b22d5ac6e60bd92a33fe237dbe2a9a" resname="app.skill.Sales/ Vertrieb">
+        <source>app.skill.Sales/ Vertrieb</source>
+        <target>Sales/ Vertrieb</target>
       </trans-unit>
-      <trans-unit id="81" approved="yes">
-        <source><![CDATA[app.skill.Startup]]></source>
-        <target><![CDATA[Startup]]></target>
+      <trans-unit id="33e1b6b40eead5c498e62ee4cc95d2ba" resname="app.skill.Startup">
+        <source>app.skill.Startup</source>
+        <target>Startup</target>
       </trans-unit>
-      <trans-unit id="82" approved="yes">
-        <source><![CDATA[app.skill.Seehafenspedition]]></source>
-        <target><![CDATA[Seehafenspedition]]></target>
+      <trans-unit id="952dac4b7a09df86eac6d3917b1d2018" resname="app.skill.Seehafenspedition">
+        <source>app.skill.Seehafenspedition</source>
+        <target>Seehafenspedition</target>
       </trans-unit>
-      <trans-unit id="83" approved="yes">
-        <source><![CDATA[app.skill.Seefracht]]></source>
-        <target><![CDATA[Seefracht]]></target>
+      <trans-unit id="b0ee0815d53fbbd1e67feda9c7d0ad86" resname="app.skill.Seefracht">
+        <source>app.skill.Seefracht</source>
+        <target>Seefracht</target>
       </trans-unit>
-      <trans-unit id="84" approved="yes">
-        <source><![CDATA[app.skill. Tendering Management]]></source>
-        <target><![CDATA[ Tendering Management]]></target>
+      <trans-unit id="915bffc25e92c37250ddbe219f129ee8" resname="app.skill. Tendering Management">
+        <source>app.skill. Tendering Management</source>
+        <target> Tendering Management</target>
       </trans-unit>
-      <trans-unit id="85" approved="yes">
-        <source><![CDATA[app.skill. Transportlogistik]]></source>
-        <target><![CDATA[ Transportlogistik]]></target>
+      <trans-unit id="2ce01b7131c28f527aab95aee88199ea" resname="app.skill. Transportlogistik">
+        <source>app.skill. Transportlogistik</source>
+        <target> Transportlogistik</target>
       </trans-unit>
-      <trans-unit id="86" approved="yes">
-        <source><![CDATA[app.skill. Einkauf]]></source>
-        <target><![CDATA[ Einkauf]]></target>
+      <trans-unit id="21cb7728a8ef289724850d7978cff780" resname="app.skill. Einkauf">
+        <source>app.skill. Einkauf</source>
+        <target> Einkauf</target>
       </trans-unit>
-      <trans-unit id="87" approved="yes">
-        <source><![CDATA[app.skill. Personalführung]]></source>
-        <target><![CDATA[ Personalführung]]></target>
+      <trans-unit id="ca1c21db547beedd2ed21bc1d3e75063" resname="app.skill. Personalführung">
+        <source>app.skill. Personalführung</source>
+        <target> Personalführung</target>
       </trans-unit>
-    <trans-unit id="88" approved="yes">
-        <source><![CDATA[app.skill.Result oriented]]></source>
+      <trans-unit id="fbcb1d15ec7eba7cd4de4192922b509b" resname="app.skill.Result oriented">
+        <source>app.skill.Result oriented</source>
         <target>Ergebnisorientiert</target>
       </trans-unit>
-      <trans-unit id="89" approved="yes">
-        <source><![CDATA[app.skill.Team player]]></source>
+      <trans-unit id="7d6590cb21003f76587d4cfabd855626" resname="app.skill.Team player">
+        <source>app.skill.Team player</source>
         <target>Teamfähig</target>
       </trans-unit>
-      <trans-unit id="90" approved="yes">
-        <source><![CDATA[app.skill.Motivator and Mentor]]></source>
+      <trans-unit id="40add948d008b8eb042755da55fb4b89" resname="app.skill.Motivator and Mentor">
+        <source>app.skill.Motivator and Mentor</source>
         <target>Motivator und Mentor</target>
       </trans-unit>
-      <trans-unit id="91" approved="yes">
-        <source><![CDATA[app.skill. E-Commerce]]></source>
-        <target><![CDATA[ E-Commerce]]></target>
+      <trans-unit id="4326b9ae32f664dc031e802db2b9dd41" resname="app.skill. E-Commerce">
+        <source>app.skill. E-Commerce</source>
+        <target> E-Commerce</target>
       </trans-unit>
-      <trans-unit id="92" approved="yes">
-        <source><![CDATA[app.skill.Critical Thinking]]></source>
+      <trans-unit id="790a63ed0b814e548a6dbeda227434dd" resname="app.skill.Critical Thinking">
+        <source>app.skill.Critical Thinking</source>
         <target>Kritisches Denken</target>
       </trans-unit>
-      <trans-unit id="93" approved="yes">
-        <source><![CDATA[app.skill. conceptual thinking]]></source>
+      <trans-unit id="eb5da98718fd12008f7fb58ab2a32168" resname="app.skill. conceptual thinking">
+        <source>app.skill. conceptual thinking</source>
         <target>Konzeptionelles Denken</target>
       </trans-unit>
-      <trans-unit id="94" approved="yes">
-        <source><![CDATA[app.skill. Teamwork]]></source>
+      <trans-unit id="606c5584717c6e2c1be1522a7a8ffc4a" resname="app.skill. Teamwork">
+        <source>app.skill. Teamwork</source>
         <target>Teamarbeit</target>
       </trans-unit>
-      <trans-unit id="95" approved="yes">
-        <source><![CDATA[app.skill. international experience]]></source>
+      <trans-unit id="90974427ee08df01408c02a540ca2326" resname="app.skill. international experience">
+        <source>app.skill. international experience</source>
         <target>Internationale Erfahrung</target>
       </trans-unit>
-      <trans-unit id="96" approved="yes">
-        <source><![CDATA[app.skill. Innovation]]></source>
-        <target><![CDATA[ Innovation]]></target>
+      <trans-unit id="dbe716a07bb0e81b63e44135479cf6fd" resname="app.skill. Innovation">
+        <source>app.skill. Innovation</source>
+        <target> Innovation</target>
       </trans-unit>
-      <trans-unit id="97" approved="yes">
-        <source><![CDATA[app.skill. change management]]></source>
+      <trans-unit id="cc0775dc5676146cb5b723697bd799a2" resname="app.skill. change management">
+        <source>app.skill. change management</source>
         <target>Change-Management</target>
       </trans-unit>
-      <trans-unit id="98" approved="yes">
-        <source><![CDATA[app.skill.BI]]></source>
-        <target><![CDATA[BI]]></target>
+      <trans-unit id="39a5caf7a1aa7584b15cc6e0d2c3f694" resname="app.skill.BI">
+        <source>app.skill.BI</source>
+        <target>BI</target>
       </trans-unit>
-      <trans-unit id="99" approved="yes">
-        <source><![CDATA[app.skill.Solution design  & implementation]]></source>
+      <trans-unit id="4d662091acf430c98595da606f079385" resname="app.skill.Solution design  &amp; implementation">
+        <source>app.skill.Solution design  &amp; implementation</source>
         <target>Lösungsdesign und -implementierung</target>
       </trans-unit>
-      <trans-unit id="100" approved="yes">
-        <source><![CDATA[app.skill. Business Intelligence]]></source>
+      <trans-unit id="58d34c8bf415ee59521303555fd2233c" resname="app.skill. Business Intelligence">
+        <source>app.skill. Business Intelligence</source>
         <target>Business-Intelligence</target>
       </trans-unit>
-      <trans-unit id="101" approved="yes">
-        <source><![CDATA[app.skill.Communication]]></source>
+      <trans-unit id="9a5cfc3e283d5fdb629dd284effe3df2" resname="app.skill.Communication">
+        <source>app.skill.Communication</source>
         <target>Kommunikation</target>
       </trans-unit>
-      <trans-unit id="102" approved="yes">
-        <source><![CDATA[app.skill.app.skill.PHP]]></source>
-        <target><![CDATA[PHP]]></target>
+      <trans-unit id="4194f22fa984144b80fd3bab22d6f0fc" resname="app.skill.app.skill.PHP">
+        <source>app.skill.app.skill.PHP</source>
+        <target>PHP</target>
       </trans-unit>
-      <trans-unit id="103" approved="yes">
-        <source><![CDATA[app.skill.app.skill.LINUX]]></source>
-        <target><![CDATA[LINUX]]></target>
+      <trans-unit id="54cd603de31fcc910bd64c806f7406fa" resname="app.skill.app.skill.LINUX">
+        <source>app.skill.app.skill.LINUX</source>
+        <target>LINUX</target>
       </trans-unit>
-      <trans-unit id="104" approved="yes">
-        <source><![CDATA[app.skill.app.skill.IT-Management]]></source>
-        <target><![CDATA[IT-Management]]></target>
+      <trans-unit id="990b06508ae72463d51f1b3f7f5f7790" resname="app.skill.app.skill.IT-Management">
+        <source>app.skill.app.skill.IT-Management</source>
+        <target>IT-Management</target>
       </trans-unit>
-      <trans-unit id="105" approved="yes">
-        <source><![CDATA[app.skill.app.skill.IT Strategy]]></source>
+      <trans-unit id="a84a7c87053a8264e800c4cb1a9508b0" resname="app.skill.app.skill.IT Strategy">
+        <source>app.skill.app.skill.IT Strategy</source>
         <target>IT-Strategie</target>
       </trans-unit>
-      <trans-unit id="106" approved="yes">
-        <source><![CDATA[app.skill.app.skill.MySQL]]></source>
-        <target><![CDATA[MySQL]]></target>
+      <trans-unit id="d2cded39d98eb4e79fa724c3d49c1d6b" resname="app.skill.app.skill.MySQL">
+        <source>app.skill.app.skill.MySQL</source>
+        <target>MySQL</target>
       </trans-unit>
-      <trans-unit id="107" approved="yes">
-        <source><![CDATA[app.skill.app.skill.Symfony Frameworks]]></source>
-        <target><![CDATA[Symfony Frameworks]]></target>
+      <trans-unit id="2eba977328e41bc35c4dc511cc3c4d6a" resname="app.skill.app.skill.Symfony Frameworks">
+        <source>app.skill.app.skill.Symfony Frameworks</source>
+        <target>Symfony Frameworks</target>
       </trans-unit>
-      <trans-unit id="108" approved="yes">
-        <source><![CDATA[app.skill.Project Management]]></source>
+      <trans-unit id="e25c3c9977d8f0724c98e25a6dde05ac" resname="app.skill.Project Management">
+        <source>app.skill.Project Management</source>
         <target>Projektmanagement</target>
       </trans-unit>
-      <trans-unit id="109" approved="yes">
-        <source><![CDATA[app.skill. Customer Support]]></source>
+      <trans-unit id="e6793f8becc1276ebd26ff9cb4f192be" resname="app.skill. Customer Support">
+        <source>app.skill. Customer Support</source>
         <target>Kundenservice</target>
       </trans-unit>
-      <trans-unit id="110" approved="yes">
-        <source><![CDATA[app.skill. Business Processes]]></source>
+      <trans-unit id="8bc31d2825458675e5fac2f3d85cf630" resname="app.skill. Business Processes">
+        <source>app.skill. Business Processes</source>
         <target>Geschäftsprozesse</target>
       </trans-unit>
-      <trans-unit id="111" approved="yes">
-        <source><![CDATA[app.skill. Product Training]]></source>
+      <trans-unit id="62f1e9dd835040ab860538fd6f7f26a3" resname="app.skill. Product Training">
+        <source>app.skill. Product Training</source>
         <target>Produkttraining</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

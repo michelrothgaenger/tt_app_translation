@@ -1,175 +1,178 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+  <file source-language="en" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="914" approved="yes">
-        <source><![CDATA[app.monthSalary]]></source>
-        <target><![CDATA[Månedsløn]]></target>
+      <trans-unit id="8d8a985df4cea96e4b2265c1056f4be9" resname="app.monthSalary">
+        <source>app.monthSalary</source>
+        <target>Månedsløn</target>
       </trans-unit>
-      <trans-unit id="915" approved="yes">
-        <source><![CDATA[app.30DayJobPostingOn]]></source>
-        <target><![CDATA[30-dages Job Posting på]]></target>
+      <trans-unit id="a2325ecfe737617cd451411b8f88ec84" resname="app.30DayJobPostingOn">
+        <source>app.30DayJobPostingOn</source>
+        <target>30-dages Job Posting på</target>
       </trans-unit>
-      <trans-unit id="916" approved="yes">
-        <source><![CDATA[app.includesYourCompanyLogo]]></source>
-        <target><![CDATA[Inkludere din virksomheds logo]]></target>
+      <trans-unit id="e49630bb20b513165d8096ca35f5a98d" resname="app.includesYourCompanyLogo">
+        <source>app.includesYourCompanyLogo</source>
+        <target>Inkludere din virksomheds logo</target>
       </trans-unit>
-      <trans-unit id="917" approved="yes">
-        <source><![CDATA[app.mentionedInOurENewsletters]]></source>
-        <target><![CDATA[Nævnt i vores Nyhedsbrev]]></target>
+      <trans-unit id="dfe67a97c0a1cf9c2c3e1e5ff65d2ccf" resname="app.mentionedInOurENewsletters">
+        <source>app.mentionedInOurENewsletters</source>
+        <target>Nævnt i vores Nyhedsbrev</target>
       </trans-unit>
-      <trans-unit id="918" approved="yes">
-        <source><![CDATA[app.extendedPostingOfUpTo60Days]]></source>
-        <target><![CDATA[Forlænget Posting i op til 60 dage]]></target>
+      <trans-unit id="3874096ccfa1b1ea717f9cfaa55fc717" resname="app.extendedPostingOfUpTo60Days">
+        <source>app.extendedPostingOfUpTo60Days</source>
+        <target>Forlænget Posting i op til 60 dage</target>
       </trans-unit>
-      <trans-unit id="919" approved="yes">
-        <source><![CDATA[app.freeClientSupport]]></source>
-        <target><![CDATA[Gratis kundesupport]]></target>
+      <trans-unit id="d493b6e5564c1d7145bfcef009f033d1" resname="app.freeClientSupport">
+        <source>app.freeClientSupport</source>
+        <target>Gratis kundesupport</target>
       </trans-unit>
-      <trans-unit id="920" approved="yes">
-        <source><![CDATA[app.postingOnOurSocialMediaChannels]]></source>
-        <target><![CDATA[Posting på sociale medier]]></target>
+      <trans-unit id="99f73659f04ef189ee168a9a2836b365" resname="app.postingOnOurSocialMediaChannels">
+        <source>app.postingOnOurSocialMediaChannels</source>
+        <target>Posting på sociale medier</target>
       </trans-unit>
-      <trans-unit id="921" approved="yes">
-        <source><![CDATA[app.featuredJobListingOnFrontPage]]></source>
-        <target><![CDATA[Fremhævet Job Listing på forsiden]]></target>
+      <trans-unit id="16d76fd63b52a8946c1c8ccc92c61afe" resname="app.featuredJobListingOnFrontPage">
+        <source>app.featuredJobListingOnFrontPage</source>
+        <target>Fremhævet Job Listing på forsiden</target>
       </trans-unit>
-      <trans-unit id="922" approved="yes">
-        <source><![CDATA[app.personalEmailToBestMatchingCandidates]]></source>
-        <target><![CDATA[Personlig email til de bedste matchende kandidater]]></target>
+      <trans-unit id="6a31320727379d5f25d2c00e54e25e3b" resname="app.personalEmailToBestMatchingCandidates">
+        <source>app.personalEmailToBestMatchingCandidates</source>
+        <target>Personlig email til de bedste matchende kandidater</target>
       </trans-unit>
-      <trans-unit id="923" approved="yes">
-        <source><![CDATA[app.activeCandidateSearch]]></source>
-        <target><![CDATA[Aktiv Search på kandidater]]></target>
+      <trans-unit id="10aa6ec95b72ccaf317bd5e1050e0639" resname="app.activeCandidateSearch">
+        <source>app.activeCandidateSearch</source>
+        <target>Aktiv Search på kandidater</target>
       </trans-unit>
-      <trans-unit id="924" approved="yes">
-        <source><![CDATA[app.handlingOfAllApplications]]></source>
-        <target><![CDATA[Behandling af alle ansøgninger]]></target>
+      <trans-unit id="0b549e9cddccdd8e14a44b35b863184c" resname="app.handlingOfAllApplications">
+        <source>app.handlingOfAllApplications</source>
+        <target>Behandling af alle ansøgninger</target>
       </trans-unit>
-      <trans-unit id="925" approved="yes">
-        <source><![CDATA[app.shortListingOf3BestSuitableCandidates]]></source>
-        <target><![CDATA[Shortlisting af de 3 bedste kandidater]]></target>
+      <trans-unit id="721e6ae5d1a0eda9876d687e5c09f9f1" resname="app.shortListingOf3BestSuitableCandidates">
+        <source>app.shortListingOf3BestSuitableCandidates</source>
+        <target>Shortlisting af de 3 bedste kandidater</target>
       </trans-unit>
-      <trans-unit id="926" approved="yes">
-        <source><![CDATA[app.register]]></source>
-        <target><![CDATA[Registrer]]></target>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+        <source>app.register</source>
+        <target>Registrer</target>
       </trans-unit>
-      <trans-unit id="927" approved="yes">
-        <source><![CDATA[app.allCountries]]></source>
-        <target><![CDATA[Alle lande]]></target>
+      <trans-unit id="37182ed3c37c4adbdfbbfabe074381e2" resname="app.allCountries">
+        <source>app.allCountries</source>
+        <target>Alle lande</target>
       </trans-unit>
-      <trans-unit id="928" approved="yes">
-        <source><![CDATA[app.allIndustries]]></source>
-        <target><![CDATA[Alle industrier]]></target>
+      <trans-unit id="c566b121d3f8c1dfd7232c61c845d9aa" resname="app.allIndustries">
+        <source>app.allIndustries</source>
+        <target>Alle industrier</target>
       </trans-unit>
-      <trans-unit id="929" approved="yes">
-        <source><![CDATA[app.termsPageAddress]]></source>
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
+        <source>app.termsPageAddress</source>
         <target><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
       </trans-unit>
-      <trans-unit id="930" approved="yes">
-        <source><![CDATA[app.signInWithFB]]></source>
-        <target><![CDATA[Log ind med Facebook]]></target>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+        <source>app.signInWithFB</source>
+        <target>Log ind med Facebook</target>
       </trans-unit>
-      <trans-unit id="931" approved="yes">
-        <source><![CDATA[app.signInWithGoogle]]></source>
-        <target><![CDATA[Log ind with Google]]></target>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+        <source>app.signInWithGoogle</source>
+        <target>Log ind with Google</target>
       </trans-unit>
-      <trans-unit id="932" approved="yes">
-        <source><![CDATA[app.signInWithLinkedIn]]></source>
-        <target><![CDATA[Log ind med LinkedIn]]></target>
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+        <source>app.signInWithLinkedIn</source>
+        <target>Log ind med LinkedIn</target>
       </trans-unit>
-      <trans-unit id="933" approved="yes">
-        <source><![CDATA[app.signInWithXing]]></source>
-        <target><![CDATA[Log ind med Xing]]></target>
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+        <source>app.signInWithXing</source>
+        <target>Log ind med Xing</target>
       </trans-unit>
-      <trans-unit id="934" approved="yes">
-        <source><![CDATA[app.forgotPassword]]></source>
-        <target><![CDATA[Glemt din adgangskode?]]></target>
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+        <source>app.forgotPassword</source>
+        <target>Glemt din adgangskode?</target>
       </trans-unit>
-      <trans-unit id="935" approved="yes">
-        <source><![CDATA[app.welcome]]></source>
-        <target><![CDATA[Velkommen]]></target>
+      <trans-unit id="f6edea5520888be0da5dbb270fa2a1e9" resname="app.welcome">
+        <source>app.welcome</source>
+        <target>Velkommen</target>
       </trans-unit>
-      <trans-unit id="936" approved="yes">
-        <source><![CDATA[app.recruitmentConsultant]]></source>
-        <target><![CDATA[Rekrutteringskonsulent]]></target>
+      <trans-unit id="9309d81cfb037d0576410bc01a6a66c7" resname="app.recruitmentConsultant">
+        <source>app.recruitmentConsultant</source>
+        <target>Rekrutteringskonsulent</target>
       </trans-unit>
-      <trans-unit id="937" approved="yes">
-        <source><![CDATA[app.chooseYourPlan]]></source>
-        <target><![CDATA[Vælg din prisplan]]></target>
+      <trans-unit id="9fbd348dc612ace1cd659972fa40c081" resname="app.chooseYourPlan">
+        <source>app.chooseYourPlan</source>
+        <target>Vælg din prisplan</target>
       </trans-unit>
-      <trans-unit id="938" approved="yes">
-        <source><![CDATA[app.basic]]></source>
-        <target><![CDATA[Basic]]></target>
+      <trans-unit id="a85baccf76b71c2e0d0cfa0203a213d0" resname="app.basic">
+        <source>app.basic</source>
+        <target>Basic</target>
       </trans-unit>
-      <trans-unit id="939" approved="yes">
-        <source><![CDATA[app.standOut]]></source>
-        <target><![CDATA[Active Sourcing]]></target>
+      <trans-unit id="b02e3c11705336efb88fe2fe2b79f240" resname="app.standOut">
+        <source>app.standOut</source>
+        <target>Active Sourcing</target>
       </trans-unit>
-      <trans-unit id="940" approved="yes">
-        <source><![CDATA[app.premium]]></source>
-        <target><![CDATA[Premium]]></target>
+      <trans-unit id="4e977f74c85a93dbb82e516cce6dc91b" resname="app.premium">
+        <source>app.premium</source>
+        <target>Premium</target>
       </trans-unit>
-      <trans-unit id="941" approved="yes">
-        <source><![CDATA[app.uploadLogo]]></source>
-        <target><![CDATA[Virksomhedslogo]]></target>
+      <trans-unit id="e0caaffad2e6f3966d9d87dfd992ddf5" resname="app.uploadLogo">
+        <source>app.uploadLogo</source>
+        <target>Virksomhedslogo</target>
       </trans-unit>
-      <trans-unit id="942" approved="yes">
-        <source><![CDATA[app.companyProfile]]></source>
-        <target><![CDATA[Virksomhedsprofil]]></target>
+      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+        <source>app.companyProfile</source>
+        <target>Virksomhedsprofil</target>
       </trans-unit>
-      <trans-unit id="943" approved="yes">
-        <source><![CDATA[app.employers]]></source>
-        <target><![CDATA[Arbejdsgivere]]></target>
+      <trans-unit id="c88b66803d793bed84786ca57d3e4ab7" resname="app.employers">
+        <source>app.employers</source>
+        <target>Arbejdsgivere</target>
       </trans-unit>
-      <trans-unit id="944" approved="yes">
-        <source><![CDATA[app.searchEmployers]]></source>
-        <target><![CDATA[Søg arbejdsgivere]]></target>
+      <trans-unit id="fb1e8cd3a1127a080892d051fc169925" resname="app.searchEmployers">
+        <source>app.searchEmployers</source>
+        <target>Søg arbejdsgivere</target>
       </trans-unit>
-      <trans-unit id="945" approved="yes">
-        <source><![CDATA[app.headquater]]></source>
-        <target><![CDATA[Hovedkvarter]]></target>
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+        <source>app.headquater</source>
+        <target>Hovedkvarter</target>
       </trans-unit>
-      <trans-unit id="946" approved="yes">
-        <source><![CDATA[app.employees_lowercase]]></source>
-        <target><![CDATA[Ansatte]]></target>
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+        <source>app.employees_lowercase</source>
+        <target>Ansatte</target>
       </trans-unit>
-      <trans-unit id="947" approved="yes">
-        <source><![CDATA[app.browseCompanies]]></source>
-        <target><![CDATA[Led efter virksomehder]]></target>
+      <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies">
+        <source>app.browseCompanies</source>
+        <target>Led efter virksomehder</target>
       </trans-unit>
-      <trans-unit id="948" approved="yes">
-        <source><![CDATA[app.keyword]]></source>
-        <target><![CDATA[Kodeord]]></target>
+      <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword">
+        <source>app.keyword</source>
+        <target>Kodeord</target>
       </trans-unit>
-      <trans-unit id="949" approved="yes">
-        <source><![CDATA[app.noCompaniesFound]]></source>
-        <target><![CDATA[Ingen virksomheder fundet]]></target>
+      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
+        <source>app.noCompaniesFound</source>
+        <target>Ingen virksomheder fundet</target>
       </trans-unit>
-      <trans-unit id="950" approved="yes">
-        <source><![CDATA[form.firstName]]></source>
-        <target><![CDATA[Fornavn]]></target>
+      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+        <source>form.firstName</source>
+        <target>Fornavn</target>
       </trans-unit>
-      <trans-unit id="951" approved="yes">
-        <source><![CDATA[form.lastName]]></source>
-        <target><![CDATA[Efternavn]]></target>
+      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+        <source>form.lastName</source>
+        <target>Efternavn</target>
       </trans-unit>
-      <trans-unit id="952" approved="yes">
-        <source><![CDATA[app.pricingPlan2Line2]]></source>
-        <target><![CDATA[7 Tage Hervorhebung der Stellenanzeige]]></target>
+      <trans-unit id="15d419c6f235498a00d400870849c701" resname="app.pricingPlan2Line2">
+        <source>app.pricingPlan2Line2</source>
+        <target>7 Tage Hervorhebung der Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="953" approved="yes">
-        <source><![CDATA[app.plan1Price]]></source>
-        <target><![CDATA[EUR 12,995]]></target>
+      <trans-unit id="f62f9848a5cb22982fe4103447e09260" resname="app.plan1Price">
+        <source>app.plan1Price</source>
+        <target>EUR 12,995</target>
       </trans-unit>
-      <trans-unit id="954" approved="yes">
-        <source><![CDATA[registration.emailemp.message]]></source>
+      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message">
+        <source>registration.emailemp.message</source>
         <target><![CDATA[Hej %username%!<br><br>For at afslutte aktiveringen af din kont, venligst klik på <a href="%confirmationUrl%">%confirmationUrl%</a><br><br>Hilsen, TransportTalent.]]></target>
       </trans-unit>
-    <trans-unit id="955" approved="yes">
-        <source><![CDATA[Logistics]]></source>
+      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics">
+        <source>Logistics</source>
         <target></target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

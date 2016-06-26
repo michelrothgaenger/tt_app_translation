@@ -1,190 +1,193 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="de">
+  <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[group.edit.submit]]></source>
-        <target><![CDATA[Gruppe aktualisieren]]></target>
+      <trans-unit id="b20e666bcd94c576d7af6860c5f575c9" resname="group.edit.submit">
+        <source>group.edit.submit</source>
+        <target>Gruppe aktualisieren</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[group.show.name]]></source>
-        <target><![CDATA[Gruppenname]]></target>
+      <trans-unit id="43ccaeb12b8fc43fc43bbe431ebc4d5b" resname="group.show.name">
+        <source>group.show.name</source>
+        <target>Gruppenname</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[group.new.submit]]></source>
-        <target><![CDATA[Gruppe erstellen]]></target>
+      <trans-unit id="f0f751815fac86046152c9df1e19340b" resname="group.new.submit">
+        <source>group.new.submit</source>
+        <target>Gruppe erstellen</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[group.flash.updated]]></source>
-        <target><![CDATA[Die Gruppe wurde aktualisiert]]></target>
+      <trans-unit id="3105b749fe115f7be13506d39fa3687c" resname="group.flash.updated">
+        <source>group.flash.updated</source>
+        <target>Die Gruppe wurde aktualisiert</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[group.flash.created]]></source>
-        <target><![CDATA[Die Gruppe wurde erstellt]]></target>
+      <trans-unit id="815366fd85703c9baf30a6ee56850000" resname="group.flash.created">
+        <source>group.flash.created</source>
+        <target>Die Gruppe wurde erstellt</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[group.flash.deleted]]></source>
-        <target><![CDATA[Die Gruppe wurde gelöscht]]></target>
+      <trans-unit id="c0435a0d97306986b3b186e82d95bec7" resname="group.flash.deleted">
+        <source>group.flash.deleted</source>
+        <target>Die Gruppe wurde gelöscht</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[security.login.username]]></source>
-        <target><![CDATA[Benutzername]]></target>
+      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username">
+        <source>security.login.username</source>
+        <target>Benutzername</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[security.login.password]]></source>
-        <target><![CDATA[Passwort]]></target>
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
+        <source>security.login.password</source>
+        <target>Passwort</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[security.login.remember_me]]></source>
-        <target><![CDATA[An mich erinnern]]></target>
+      <trans-unit id="7f118f11a96ed11aa0b91cbc414aff9e" resname="security.login.remember_me">
+        <source>security.login.remember_me</source>
+        <target>An mich erinnern</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[security.login.submit]]></source>
-        <target><![CDATA[Anmelden]]></target>
+      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
+        <source>security.login.submit</source>
+        <target>Anmelden</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[profile.show.username]]></source>
-        <target><![CDATA[Benutzername]]></target>
+      <trans-unit id="d6f3e86ba7bd13321ce875c6cd892746" resname="profile.show.username">
+        <source>profile.show.username</source>
+        <target>Benutzername</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[profile.show.email]]></source>
-        <target><![CDATA[E-Mail]]></target>
+      <trans-unit id="90b02f0053ee65575333a2d14675cac8" resname="profile.show.email">
+        <source>profile.show.email</source>
+        <target>E-Mail</target>
       </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[profile.edit.submit]]></source>
-        <target><![CDATA[Benutzer aktualisieren]]></target>
+      <trans-unit id="62dd5b80e69908635237bb1cac15470b" resname="profile.edit.submit">
+        <source>profile.edit.submit</source>
+        <target>Benutzer aktualisieren</target>
       </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[profile.flash.updated]]></source>
-        <target><![CDATA[Das Benutzerprofil wurde aktualisiert]]></target>
+      <trans-unit id="2584c165ac095f1dbc6f33d19c826beb" resname="profile.flash.updated">
+        <source>profile.flash.updated</source>
+        <target>Das Benutzerprofil wurde aktualisiert</target>
       </trans-unit>
-      <trans-unit id="15" approved="yes">
-        <source><![CDATA[change_password.submit]]></source>
-        <target><![CDATA[Passwort ändern]]></target>
+      <trans-unit id="f7441d6fc3ca6f9e711033e201c9c272" resname="change_password.submit">
+        <source>change_password.submit</source>
+        <target>Passwort ändern</target>
       </trans-unit>
-      <trans-unit id="16" approved="yes">
-        <source><![CDATA[change_password.flash.success]]></source>
-        <target><![CDATA[Das Passwort wurde geändert]]></target>
+      <trans-unit id="00e22c80f9a7803c6d81dd0ac12587cd" resname="change_password.flash.success">
+        <source>change_password.flash.success</source>
+        <target>Das Passwort wurde geändert</target>
       </trans-unit>
-      <trans-unit id="17" approved="yes">
-        <source><![CDATA[registration.check_email]]></source>
-        <target><![CDATA[Eine E-Mail wurde an %email% gesendet. Um die Anmeldung abzuschließen muss der Bestätigungslink in der E-Mail angeklickt werden.]]></target>
+      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
+        <source>registration.check_email</source>
+        <target>Eine E-Mail wurde an %email% gesendet. Um die Anmeldung abzuschließen muss der Bestätigungslink in der E-Mail angeklickt werden.</target>
       </trans-unit>
-      <trans-unit id="18" approved="yes">
-        <source><![CDATA[registration.confirmed]]></source>
-        <target><![CDATA[Herzlichen Glückwunsch, das Benutzerkonto wurde erfolgreich bestätigt.]]></target>
+      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
+        <source>registration.confirmed</source>
+        <target>Herzlichen Glückwunsch, das Benutzerkonto wurde erfolgreich bestätigt.</target>
       </trans-unit>
-      <trans-unit id="19" approved="yes">
-        <source><![CDATA[registration.back]]></source>
-        <target><![CDATA[Zurück zur ursprünglichen Seite.]]></target>
+      <trans-unit id="fb66cf456ffdbe3e3d15d7ec70a48ba3" resname="registration.back">
+        <source>registration.back</source>
+        <target>Zurück zur ursprünglichen Seite.</target>
       </trans-unit>
-      <trans-unit id="20" approved="yes">
-        <source><![CDATA[registration.submit]]></source>
-        <target><![CDATA[Registrieren]]></target>
+      <trans-unit id="f71197a4e184b581df9cb4fc27955b79" resname="registration.submit">
+        <source>registration.submit</source>
+        <target>Registrieren</target>
       </trans-unit>
-      <trans-unit id="21" approved="yes">
-        <source><![CDATA[registration.flash.user_created]]></source>
-        <target><![CDATA[Der Benutzer wurde erfolgreich erstellt]]></target>
+      <trans-unit id="a64c430f42e93e9e77b7188837e25701" resname="registration.flash.user_created">
+        <source>registration.flash.user_created</source>
+        <target>Der Benutzer wurde erfolgreich erstellt</target>
       </trans-unit>
-      <trans-unit id="22" approved="yes">
-        <source><![CDATA[registration.email.subject]]></source>
-        <target><![CDATA[Willkommen %username%!]]></target>
+      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject">
+        <source>registration.email.subject</source>
+        <target>Willkommen %username%!</target>
       </trans-unit>
-      <trans-unit id="23" approved="yes">
-        <source><![CDATA[registration.email.message]]></source>
-        <target>Hallo %firstname%,&lt;br&gt; &lt;br&gt; vielen Dank, dass Sie sich bei uns angemeldet haben. &lt;a style="font-weight: bold;" href="%confirmationUrl%"&gt;Bitte klicken Sie hier, um Ihre Anmeldung zu bestätigen&lt;/a&gt;. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. &lt;br&gt; &lt;br&gt; Sollten Sie Fragen haben, so wenden Sie sich gern unter &lt;a href="mailto:support@transporttalent.com"&gt;support@transporttalent.com&lt;/a&gt; jederzeit an uns.&lt;br&gt; &lt;br&gt; Wir freuen uns, dass Sie dabei sind und wünschen Ihnen schon jetzt viel Erfolg bei Ihrer beruflichen Entwicklung.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen,&lt;br&gt; &lt;br&gt; Michel Rothgaenger&lt;br&gt; Geschäftsführer DACH&lt;br&gt;</target>
+      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message">
+        <source>registration.email.message</source>
+        <target><![CDATA[Hallo %firstname%,<br> <br> vielen Dank, dass Sie sich bei uns angemeldet haben. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicken Sie hier, um Ihre Anmeldung zu bestätigen</a>. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Sollten Sie Fragen haben, so wenden Sie sich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir freuen uns, dass Sie dabei sind und wünschen Ihnen schon jetzt viel Erfolg bei Ihrer beruflichen Entwicklung.<br> <br> Mit freundlichen Grüßen,<br> <br> Michel Rothgaenger<br> Geschäftsführer DACH<br>]]></target>
       </trans-unit>
-      <trans-unit id="24" approved="yes">
-        <source><![CDATA[resetting.password_already_requested]]></source>
-        <target><![CDATA[Für diesen Benutzer wurde in den vergangenen 24 Stunden bereits ein neues Passwort beantragt.]]></target>
+      <trans-unit id="08eaada74a380d039e08e2edbd4cbee4" resname="resetting.password_already_requested">
+        <source>resetting.password_already_requested</source>
+        <target>Für diesen Benutzer wurde in den vergangenen 24 Stunden bereits ein neues Passwort beantragt.</target>
       </trans-unit>
-      <trans-unit id="25" approved="yes">
-        <source><![CDATA[resetting.check_email]]></source>
-        <target><![CDATA[Eine E-Mail wurde an %email% gesendet. Sie enthält einen Link, um das Passwort zurückzusetzen.]]></target>
+      <trans-unit id="7781d3db711029b94329c0e79e4c2e88" resname="resetting.check_email">
+        <source>resetting.check_email</source>
+        <target>Eine E-Mail wurde an %email% gesendet. Sie enthält einen Link, um das Passwort zurückzusetzen.</target>
       </trans-unit>
-      <trans-unit id="26" approved="yes">
-        <source><![CDATA[resetting.request.invalid_username]]></source>
-        <target><![CDATA[Der Benutzername oder die E-Mail-Adresse "%username%" existiert nicht.]]></target>
+      <trans-unit id="d4b3f2f6064d2d5ea3a55e8cff298191" resname="resetting.request.invalid_username">
+        <source>resetting.request.invalid_username</source>
+        <target>Der Benutzername oder die E-Mail-Adresse "%username%" existiert nicht.</target>
       </trans-unit>
-      <trans-unit id="27" approved="yes">
-        <source><![CDATA[resetting.request.username]]></source>
-        <target><![CDATA[Benutzername oder E-Mail-Adresse]]></target>
+      <trans-unit id="21e53e555f5b4785ecc485d7646e0b15" resname="resetting.request.username">
+        <source>resetting.request.username</source>
+        <target>Benutzername oder E-Mail-Adresse</target>
       </trans-unit>
-      <trans-unit id="28" approved="yes">
-        <source><![CDATA[resetting.request.submit]]></source>
-        <target><![CDATA[Zurücksetzen]]></target>
+      <trans-unit id="ed196ca52af9245d737b4320c30a00c5" resname="resetting.request.submit">
+        <source>resetting.request.submit</source>
+        <target>Zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="29" approved="yes">
-        <source><![CDATA[resetting.reset.submit]]></source>
-        <target><![CDATA[Passwort ändern]]></target>
+      <trans-unit id="3f39dd085ae5b618d806836a094b5e66" resname="resetting.reset.submit">
+        <source>resetting.reset.submit</source>
+        <target>Passwort ändern</target>
       </trans-unit>
-      <trans-unit id="30" approved="yes">
-        <source><![CDATA[resetting.flash.success]]></source>
-        <target><![CDATA[Das Passwort wurde erfolgreich zurückgesetzt]]></target>
+      <trans-unit id="464068cdc0d8696f8a1b398795f5b439" resname="resetting.flash.success">
+        <source>resetting.flash.success</source>
+        <target>Das Passwort wurde erfolgreich zurückgesetzt</target>
       </trans-unit>
-      <trans-unit id="31" approved="yes">
-        <source><![CDATA[resetting.email.subject]]></source>
-        <target><![CDATA[Passwort zurücksetzen]]></target>
+      <trans-unit id="24ef36794ef0bffa786074f748d57525" resname="resetting.email.subject">
+        <source>resetting.email.subject</source>
+        <target>Passwort zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="32" approved="yes">
-        <source><![CDATA[resetting.email.message]]></source>
+      <trans-unit id="f96be8411b3b48e5a82ee13dd33afeb4" resname="resetting.email.message">
+        <source>resetting.email.message</source>
         <target><![CDATA[Hallo %username%,<br> <br> jemand hat ein neues Passwort für das Konto bei Transport Talent angefordert. <br> <br> <div style="text-align: center;"><a href="%confirmationUrl%"><span style="font-weight: bold;">Hier klicken, um ein neues Passwort zu erstellen.</span> </a><br> </div> <br> Bei Fragen stehen wir gern jederzeit unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> zur Verfügung.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger<br> Regionalleiter DACH<br>]]></target>
       </trans-unit>
-      <trans-unit id="33" approved="yes">
-        <source><![CDATA[layout.logout]]></source>
-        <target><![CDATA[Abmelden]]></target>
+      <trans-unit id="8cb8613420d290c215803d3d560b33b6" resname="layout.logout">
+        <source>layout.logout</source>
+        <target>Abmelden</target>
       </trans-unit>
-      <trans-unit id="34" approved="yes">
-        <source><![CDATA[layout.login]]></source>
-        <target><![CDATA[Anmelden]]></target>
+      <trans-unit id="af6ea03982f84cbc9acb9e0784f674fc" resname="layout.login">
+        <source>layout.login</source>
+        <target>Anmelden</target>
       </trans-unit>
-      <trans-unit id="35" approved="yes">
-        <source><![CDATA[layout.register]]></source>
-        <target><![CDATA[Registrieren]]></target>
+      <trans-unit id="c5f381db6e7b9180a6280cbc3530f925" resname="layout.register">
+        <source>layout.register</source>
+        <target>Registrieren</target>
       </trans-unit>
-      <trans-unit id="36" approved="yes">
-        <source><![CDATA[layout.logged_in_as]]></source>
-        <target><![CDATA[Angemeldet als %username%]]></target>
+      <trans-unit id="e07858f7111314133c6d9630eba3b27f" resname="layout.logged_in_as">
+        <source>layout.logged_in_as</source>
+        <target>Angemeldet als %username%</target>
       </trans-unit>
-      <trans-unit id="37" approved="yes">
-        <source><![CDATA[form.group_name]]></source>
-        <target><![CDATA[Gruppenname]]></target>
+      <trans-unit id="3d32bf72fdab607aa220f2d5dcced9b8" resname="form.group_name">
+        <source>form.group_name</source>
+        <target>Gruppenname</target>
       </trans-unit>
-      <trans-unit id="38" approved="yes">
-        <source><![CDATA[form.username]]></source>
-        <target><![CDATA[Benutzername]]></target>
+      <trans-unit id="9dbb4e93be23acd47c214cd7e1030121" resname="form.username">
+        <source>form.username</source>
+        <target>Benutzername</target>
       </trans-unit>
-      <trans-unit id="39" approved="yes">
-        <source><![CDATA[form.email]]></source>
-        <target><![CDATA[E-Mail-Adresse]]></target>
+      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
+        <source>form.email</source>
+        <target>E-Mail-Adresse</target>
       </trans-unit>
-      <trans-unit id="40" approved="yes">
-        <source><![CDATA[form.current_password]]></source>
-        <target><![CDATA[Derzeitiges Passwort]]></target>
+      <trans-unit id="f6f737b1db5cf079d0ff35fc261539ef" resname="form.current_password">
+        <source>form.current_password</source>
+        <target>Derzeitiges Passwort</target>
       </trans-unit>
-      <trans-unit id="41" approved="yes">
-        <source><![CDATA[form.password]]></source>
-        <target><![CDATA[Passwort]]></target>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password">
+        <source>form.password</source>
+        <target>Passwort</target>
       </trans-unit>
-      <trans-unit id="42" approved="yes">
-        <source><![CDATA[form.password_confirmation]]></source>
-        <target><![CDATA[Passwort bestätigen]]></target>
+      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation">
+        <source>form.password_confirmation</source>
+        <target>Passwort bestätigen</target>
       </trans-unit>
-      <trans-unit id="43" approved="yes">
-        <source><![CDATA[form.new_password]]></source>
-        <target><![CDATA[Neues Passwort]]></target>
+      <trans-unit id="2242b37196fff5023552376fbb3c62ff" resname="form.new_password">
+        <source>form.new_password</source>
+        <target>Neues Passwort</target>
       </trans-unit>
-      <trans-unit id="44" approved="yes">
-        <source><![CDATA[form.new_password_confirmation]]></source>
-        <target><![CDATA[Neues Passwort bestätigen]]></target>
+      <trans-unit id="f0f733a6b67cc3a9a32c9c633ecf1775" resname="form.new_password_confirmation">
+        <source>form.new_password_confirmation</source>
+        <target>Neues Passwort bestätigen</target>
       </trans-unit>
-      <trans-unit id="45" approved="yes">
-        <source><![CDATA[form.firstName]]></source>
-        <target><![CDATA[Vorname]]></target>
+      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+        <source>form.firstName</source>
+        <target>Vorname</target>
       </trans-unit>
-      <trans-unit id="46" approved="yes">
-        <source><![CDATA[form.lastName]]></source>
-        <target><![CDATA[Nachname]]></target>
+      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+        <source>form.lastName</source>
+        <target>Nachname</target>
       </trans-unit>
     </body>
   </file>

@@ -1,15 +1,18 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+  <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[app.e.g.Company]]></source>
-        <target><![CDATA[напр. Компания]]></target>
+      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company">
+        <source>app.e.g.Company</source>
+        <target>напр. Компания</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[app.plan1Price]]></source>
-        <target><![CDATA[EUR 12,995]]></target>
+      <trans-unit id="f62f9848a5cb22982fe4103447e09260" resname="app.plan1Price">
+        <source>app.plan1Price</source>
+        <target>EUR 12,995</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

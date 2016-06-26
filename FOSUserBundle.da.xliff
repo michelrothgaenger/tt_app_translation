@@ -1,190 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+  <file source-language="en" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[group.edit.submit]]></source>
-        <target><![CDATA[Opdater gruppe]]></target>
+      <trans-unit id="b20e666bcd94c576d7af6860c5f575c9" resname="group.edit.submit">
+        <source>group.edit.submit</source>
+        <target>Opdater gruppe</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[group.show.name]]></source>
-        <target><![CDATA[Gruppenavn]]></target>
+      <trans-unit id="43ccaeb12b8fc43fc43bbe431ebc4d5b" resname="group.show.name">
+        <source>group.show.name</source>
+        <target>Gruppenavn</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[group.new.submit]]></source>
-        <target><![CDATA[Opret gruppe]]></target>
+      <trans-unit id="f0f751815fac86046152c9df1e19340b" resname="group.new.submit">
+        <source>group.new.submit</source>
+        <target>Opret gruppe</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[group.flash.updated]]></source>
-        <target><![CDATA[Gruppen er blevet opdateret]]></target>
+      <trans-unit id="3105b749fe115f7be13506d39fa3687c" resname="group.flash.updated">
+        <source>group.flash.updated</source>
+        <target>Gruppen er blevet opdateret</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[group.flash.created]]></source>
-        <target><![CDATA[Gruppen er blevet oprettet]]></target>
+      <trans-unit id="815366fd85703c9baf30a6ee56850000" resname="group.flash.created">
+        <source>group.flash.created</source>
+        <target>Gruppen er blevet oprettet</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[group.flash.deleted]]></source>
-        <target><![CDATA[Gruppen er blevet slettet]]></target>
+      <trans-unit id="c0435a0d97306986b3b186e82d95bec7" resname="group.flash.deleted">
+        <source>group.flash.deleted</source>
+        <target>Gruppen er blevet slettet</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[security.login.username]]></source>
-        <target><![CDATA[Brugernavn]]></target>
+      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username">
+        <source>security.login.username</source>
+        <target>Brugernavn</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[security.login.password]]></source>
-        <target><![CDATA[Password]]></target>
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
+        <source>security.login.password</source>
+        <target>Password</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[security.login.remember_me]]></source>
-        <target><![CDATA[Husk mig]]></target>
+      <trans-unit id="7f118f11a96ed11aa0b91cbc414aff9e" resname="security.login.remember_me">
+        <source>security.login.remember_me</source>
+        <target>Husk mig</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[security.login.submit]]></source>
-        <target><![CDATA[Log ind]]></target>
+      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
+        <source>security.login.submit</source>
+        <target>Log ind</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[profile.show.username]]></source>
-        <target><![CDATA[Brugernavn]]></target>
+      <trans-unit id="d6f3e86ba7bd13321ce875c6cd892746" resname="profile.show.username">
+        <source>profile.show.username</source>
+        <target>Brugernavn</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[profile.show.email]]></source>
-        <target><![CDATA[Email]]></target>
+      <trans-unit id="90b02f0053ee65575333a2d14675cac8" resname="profile.show.email">
+        <source>profile.show.email</source>
+        <target>Email</target>
       </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[profile.edit.submit]]></source>
-        <target><![CDATA[Opdater]]></target>
+      <trans-unit id="62dd5b80e69908635237bb1cac15470b" resname="profile.edit.submit">
+        <source>profile.edit.submit</source>
+        <target>Opdater</target>
       </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[profile.flash.updated]]></source>
-        <target><![CDATA[Profilen er blevet opdateret]]></target>
+      <trans-unit id="2584c165ac095f1dbc6f33d19c826beb" resname="profile.flash.updated">
+        <source>profile.flash.updated</source>
+        <target>Profilen er blevet opdateret</target>
       </trans-unit>
-      <trans-unit id="15" approved="yes">
-        <source><![CDATA[change_password.submit]]></source>
-        <target><![CDATA[Ændre password]]></target>
+      <trans-unit id="f7441d6fc3ca6f9e711033e201c9c272" resname="change_password.submit">
+        <source>change_password.submit</source>
+        <target>Ændre password</target>
       </trans-unit>
-      <trans-unit id="16" approved="yes">
-        <source><![CDATA[change_password.flash.success]]></source>
-        <target><![CDATA[Password er blevet ændret]]></target>
+      <trans-unit id="00e22c80f9a7803c6d81dd0ac12587cd" resname="change_password.flash.success">
+        <source>change_password.flash.success</source>
+        <target>Password er blevet ændret</target>
       </trans-unit>
-      <trans-unit id="17" approved="yes">
-        <source><![CDATA[registration.check_email]]></source>
-        <target><![CDATA[En e-mail er blevet sendt til %emai%. Den indeholder et aktiveringslink du skal klikke på for at aktivere din konto]]></target>
+      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
+        <source>registration.check_email</source>
+        <target>En e-mail er blevet sendt til %emai%. Den indeholder et aktiveringslink du skal klikke på for at aktivere din konto</target>
       </trans-unit>
-      <trans-unit id="18" approved="yes">
-        <source><![CDATA[registration.confirmed]]></source>
-        <target><![CDATA[Tillykke %username%, din konto er nu aktiveret.]]></target>
+      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
+        <source>registration.confirmed</source>
+        <target>Tillykke %username%, din konto er nu aktiveret.</target>
       </trans-unit>
-      <trans-unit id="19" approved="yes">
-        <source><![CDATA[registration.back]]></source>
-        <target><![CDATA[Tilbage til den oprindelige side]]></target>
+      <trans-unit id="f71197a4e184b581df9cb4fc27955b79" resname="registration.submit">
+        <source>registration.submit</source>
+        <target>Registrer</target>
       </trans-unit>
-      <trans-unit id="20" approved="yes">
-        <source><![CDATA[registration.submit]]></source>
-        <target><![CDATA[Registrer]]></target>
+      <trans-unit id="a64c430f42e93e9e77b7188837e25701" resname="registration.flash.user_created">
+        <source>registration.flash.user_created</source>
+        <target>Brugeren er nu oprettet</target>
       </trans-unit>
-      <trans-unit id="21" approved="yes">
-        <source><![CDATA[registration.flash.user_created]]></source>
-        <target><![CDATA[Brugeren er nu oprettet]]></target>
+      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject">
+        <source>registration.email.subject</source>
+        <target>Velkommen %username%!</target>
       </trans-unit>
-      <trans-unit id="22" approved="yes">
-        <source><![CDATA[registration.email.subject]]></source>
-        <target><![CDATA[Velkommen %username%!]]></target>
-      </trans-unit>
-      <trans-unit id="23" approved="yes">
-        <source><![CDATA[registration.email.message]]></source>
+      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message">
+        <source>registration.email.message</source>
         <target><![CDATA[Hej %username%!<br><br>For at afslutte aktiveringen af din kont, venligst klik på <a href="%confirmationUrl%">%confirmationUrl%</a><br><br>Hilsen, TransportTalent.]]></target>
       </trans-unit>
-      <trans-unit id="24" approved="yes">
-        <source><![CDATA[resetting.password_already_requested]]></source>
-        <target><![CDATA[Password for denne bruger er allerede blevet anmodet inden for de sidste 24 timer.]]></target>
+      <trans-unit id="08eaada74a380d039e08e2edbd4cbee4" resname="resetting.password_already_requested">
+        <source>resetting.password_already_requested</source>
+        <target>Password for denne bruger er allerede blevet anmodet inden for de sidste 24 timer.</target>
       </trans-unit>
-      <trans-unit id="25" approved="yes">
-        <source><![CDATA[resetting.request.username]]></source>
-        <target><![CDATA[Brugernavn eller email adresse]]></target>
+      <trans-unit id="7781d3db711029b94329c0e79e4c2e88" resname="resetting.check_email">
+        <source>resetting.check_email</source>
+        <target>En email er blevet sendt til %email%. Den indeholder et link, du skal klikke på for at nulstille dit password.</target>
       </trans-unit>
-      <trans-unit id="26" approved="yes">
-        <source><![CDATA[resetting.request.submit]]></source>
-        <target><![CDATA[Reset password]]></target>
+      <trans-unit id="d4b3f2f6064d2d5ea3a55e8cff298191" resname="resetting.request.invalid_username">
+        <source>resetting.request.invalid_username</source>
+        <target>Det brugernavn eller email-adresse "%username%" findes ikke.</target>
       </trans-unit>
-      <trans-unit id="27" approved="yes">
-        <source><![CDATA[resetting.reset.submit]]></source>
-        <target><![CDATA[Skift password]]></target>
+      <trans-unit id="21e53e555f5b4785ecc485d7646e0b15" resname="resetting.request.username">
+        <source>resetting.request.username</source>
+        <target>Brugernavn eller email adresse</target>
       </trans-unit>
-      <trans-unit id="28" approved="yes">
-        <source><![CDATA[resetting.flash.success]]></source>
-        <target><![CDATA[Password er blevet ændret]]></target>
+      <trans-unit id="ed196ca52af9245d737b4320c30a00c5" resname="resetting.request.submit">
+        <source>resetting.request.submit</source>
+        <target>Reset password</target>
       </trans-unit>
-      <trans-unit id="29" approved="yes">
-        <source><![CDATA[resetting.email.subject]]></source>
-        <target><![CDATA[Nulstil password]]></target>
+      <trans-unit id="3f39dd085ae5b618d806836a094b5e66" resname="resetting.reset.submit">
+        <source>resetting.reset.submit</source>
+        <target>Skift password</target>
       </trans-unit>
-      <trans-unit id="30" approved="yes">
-        <source><![CDATA[resetting.email.message]]></source>
+      <trans-unit id="464068cdc0d8696f8a1b398795f5b439" resname="resetting.flash.success">
+        <source>resetting.flash.success</source>
+        <target>Password er blevet ændret</target>
+      </trans-unit>
+      <trans-unit id="24ef36794ef0bffa786074f748d57525" resname="resetting.email.subject">
+        <source>resetting.email.subject</source>
+        <target>Nulstil password</target>
+      </trans-unit>
+      <trans-unit id="f96be8411b3b48e5a82ee13dd33afeb4" resname="resetting.email.message">
+        <source>resetting.email.message</source>
         <target><![CDATA[Hej %username%!<br><br>For at nulstille din adgangskode - besøg %confirmationUrl%<br><br>Hilsen, Teamet]]></target>
       </trans-unit>
-      <trans-unit id="31" approved="yes">
-        <source><![CDATA[resetting.request.invalid_username]]></source>
-        <target><![CDATA[Det brugernavn eller email-adresse "%username%" findes ikke.]]></target>
+      <trans-unit id="8cb8613420d290c215803d3d560b33b6" resname="layout.logout">
+        <source>layout.logout</source>
+        <target>Log ud</target>
       </trans-unit>
-      <trans-unit id="32" approved="yes">
-        <source><![CDATA[resetting.check_email]]></source>
-        <target><![CDATA[En email er blevet sendt til %email%. Den indeholder et link, du skal klikke på for at nulstille dit password.]]></target>
+      <trans-unit id="af6ea03982f84cbc9acb9e0784f674fc" resname="layout.login">
+        <source>layout.login</source>
+        <target>Log ind</target>
       </trans-unit>
-      <trans-unit id="33" approved="yes">
-        <source><![CDATA[layout.logout]]></source>
-        <target><![CDATA[Log ud]]></target>
+      <trans-unit id="c5f381db6e7b9180a6280cbc3530f925" resname="layout.register">
+        <source>layout.register</source>
+        <target>Registrer</target>
       </trans-unit>
-      <trans-unit id="34" approved="yes">
-        <source><![CDATA[layout.login]]></source>
-        <target><![CDATA[Log ind]]></target>
+      <trans-unit id="e07858f7111314133c6d9630eba3b27f" resname="layout.logged_in_as">
+        <source>layout.logged_in_as</source>
+        <target>Logged ind som %username%</target>
       </trans-unit>
-      <trans-unit id="35" approved="yes">
-        <source><![CDATA[layout.register]]></source>
-        <target><![CDATA[Registrer]]></target>
+      <trans-unit id="3d32bf72fdab607aa220f2d5dcced9b8" resname="form.group_name">
+        <source>form.group_name</source>
+        <target>Gruppenavn</target>
       </trans-unit>
-      <trans-unit id="36" approved="yes">
-        <source><![CDATA[layout.logged_in_as]]></source>
-        <target><![CDATA[Logged ind som %username%]]></target>
+      <trans-unit id="9dbb4e93be23acd47c214cd7e1030121" resname="form.username">
+        <source>form.username</source>
+        <target>Brugernavn</target>
       </trans-unit>
-      <trans-unit id="37" approved="yes">
-        <source><![CDATA[form.group_name]]></source>
-        <target><![CDATA[Gruppenavn]]></target>
+      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
+        <source>form.email</source>
+        <target>Din emai</target>
       </trans-unit>
-      <trans-unit id="38" approved="yes">
-        <source><![CDATA[form.username]]></source>
-        <target><![CDATA[Brugernavn]]></target>
+      <trans-unit id="f6f737b1db5cf079d0ff35fc261539ef" resname="form.current_password">
+        <source>form.current_password</source>
+        <target>Nuværende kodeord</target>
       </trans-unit>
-      <trans-unit id="39" approved="yes">
-        <source><![CDATA[form.email]]></source>
-        <target><![CDATA[Din emai]]></target>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password">
+        <source>form.password</source>
+        <target>Password</target>
       </trans-unit>
-      <trans-unit id="40" approved="yes">
-        <source><![CDATA[form.current_password]]></source>
-        <target><![CDATA[Nuværende kodeord]]></target>
+      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation">
+        <source>form.password_confirmation</source>
+        <target>Gentag password</target>
       </trans-unit>
-      <trans-unit id="41" approved="yes">
-        <source><![CDATA[form.password]]></source>
-        <target><![CDATA[Password]]></target>
+      <trans-unit id="2242b37196fff5023552376fbb3c62ff" resname="form.new_password">
+        <source>form.new_password</source>
+        <target>Nyt password</target>
       </trans-unit>
-      <trans-unit id="42" approved="yes">
-        <source><![CDATA[form.password_confirmation]]></source>
-        <target><![CDATA[Gentag password]]></target>
+      <trans-unit id="f0f733a6b67cc3a9a32c9c633ecf1775" resname="form.new_password_confirmation">
+        <source>form.new_password_confirmation</source>
+        <target>Gentag nyt password</target>
       </trans-unit>
-      <trans-unit id="43" approved="yes">
-        <source><![CDATA[form.new_password]]></source>
-        <target><![CDATA[Nyt password]]></target>
+      <trans-unit id="fb66cf456ffdbe3e3d15d7ec70a48ba3" resname="registration.back">
+        <source>registration.back</source>
+        <target>Tilbage til den oprindelige side</target>
       </trans-unit>
-      <trans-unit id="44" approved="yes">
-        <source><![CDATA[form.new_password_confirmation]]></source>
-        <target><![CDATA[Gentag nyt password]]></target>
+      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+        <source>form.firstName</source>
+        <target>Fornavn</target>
       </trans-unit>
-      <trans-unit id="45" approved="yes">
-        <source><![CDATA[form.firstName]]></source>
-        <target><![CDATA[Fornavn]]></target>
-      </trans-unit>
-      <trans-unit id="46" approved="yes">
-        <source><![CDATA[form.lastName]]></source>
-        <target><![CDATA[Efternavn]]></target>
+      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+        <source>form.lastName</source>
+        <target>Efternavn</target>
       </trans-unit>
     </body>
   </file>

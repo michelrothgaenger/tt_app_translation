@@ -1,62 +1,329 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+  <file source-language="en" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[This value should be false.]]></source>
-        <target><![CDATA[Denne værdi skal være falsk.]]></target>
+      <trans-unit id="b1bddab3be0e5c8fb46a8e41a2aa523b" resname="This value should be false.">
+        <source>This value should be false.</source>
+        <target>Denne værdi skal være falsk.</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[This value should be true.]]></source>
-        <target><![CDATA[Denne værdi skal være sandt.]]></target>
+      <trans-unit id="f4dda790beeb7a4b8d427b26bbac48bd" resname="This value should be true.">
+        <source>This value should be true.</source>
+        <target>Denne værdi skal være sandt.</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[This value should be of type {{ type }}.]]></source>
-        <target><![CDATA[Denne værdi skal være af typen {{ TYPE} }.]]></target>
+      <trans-unit id="e967c17c768868b869c16307e659be69" resname="This value should be of type {{ type }}.">
+        <source>This value should be of type {{ type }}.</source>
+        <target>Denne værdi skal være af typen {{ TYPE} }.</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[This value should be blank.]]></source>
-        <target><![CDATA[Denne værdi skal være tom.]]></target>
+      <trans-unit id="39d0d9feaf95ea6bd1ccc25c85d76cb2" resname="This value should be blank.">
+        <source>This value should be blank.</source>
+        <target>Denne værdi skal være tom.</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[The value you selected is not a valid choice.]]></source>
-        <target><![CDATA[Den valgte værdi er ikke et gyldig valg.]]></target>
+      <trans-unit id="fdf30160520b3bb0dbf01f7657f4336a" resname="The value you selected is not a valid choice.">
+        <source>The value you selected is not a valid choice.</source>
+        <target>Den valgte værdi er ikke et gyldig valg.</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.]]></source>
-        <target><![CDATA[Du skal vælge mindst {{ grænse }} valg | . Du skal vælge mindst {{ limit }} valg.]]></target>
+      <trans-unit id="65e3b31c477b3fd6587d9c8a70d999f2" resname="You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.">
+        <source>You must select at least {{ limit }} choice.|You must select at least {{ limit }} choices.</source>
+        <target>Du skal vælge mindst {{ grænse }} valg | . Du skal vælge mindst {{ limit }} valg.</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.]]></source>
-        <target><![CDATA[Du må maksimalt vælge {{grænse}} valg |. Du må maksimalt vælge {{ limit }} valg.]]></target>
+      <trans-unit id="65458fa2fdcc5596e5ee03a1a0824486" resname="You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.">
+        <source>You must select at most {{ limit }} choice.|You must select at most {{ limit }} choices.</source>
+        <target>Du må maksimalt vælge {{grænse}} valg |. Du må maksimalt vælge {{ limit }} valg.</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[One or more of the given values is invalid.]]></source>
-        <target><![CDATA[En eller flere af de givne værdier er ugyldig.]]></target>
+      <trans-unit id="42086619a57b7461564edf0de98327f1" resname="One or more of the given values is invalid.">
+        <source>One or more of the given values is invalid.</source>
+        <target>En eller flere af de givne værdier er ugyldig.</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[This field was not expected.]]></source>
-        <target><![CDATA[Dette felt var ikke forventet.]]></target>
+      <trans-unit id="350ebfae306bffac2325bd1115ac9217" resname="This field was not expected.">
+        <source>This field was not expected.</source>
+        <target>Dette felt var ikke forventet.</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[This field is missing.]]></source>
-        <target><![CDATA[Dette felt mangler.]]></target>
+      <trans-unit id="94d9f9ae3ac3a0a7f67ad045dba5df4e" resname="This field is missing.">
+        <source>This field is missing.</source>
+        <target>Dette felt mangler.</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[This value is not a valid date.]]></source>
-        <target><![CDATA[Denne værdi er ikke en gyldig dato.]]></target>
+      <trans-unit id="006f4617ff101fdfaf60b1be31f78b79" resname="This value is not a valid date.">
+        <source>This value is not a valid date.</source>
+        <target>Denne værdi er ikke en gyldig dato.</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[This value is not a valid datetime.]]></source>
-        <target><![CDATA[Denne værdi er ikke en gyldig datetime.]]></target>
+      <trans-unit id="014e63a307537f218667b6699e9e5685" resname="This value is not a valid datetime.">
+        <source>This value is not a valid datetime.</source>
+        <target>Denne værdi er ikke en gyldig datetime.</target>
       </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[This value is not a valid email address.]]></source>
-        <target><![CDATA[Denne værdi er ikke en gyldig email-adresse.]]></target>
+      <trans-unit id="b3948ccd693a7481093e9cbc272bfbfd" resname="This value is not a valid email address.">
+        <source>This value is not a valid email address.</source>
+        <target>Denne værdi er ikke en gyldig email-adresse.</target>
       </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[The file could not be found.]]></source>
-        <target><![CDATA[Filen blev ikke fundet.]]></target>
+      <trans-unit id="19e0f27cb89e7dce1c19c10c38a8ec4a" resname="The file could not be found.">
+        <source>The file could not be found.</source>
+        <target>Filen blev ikke fundet.</target>
+      </trans-unit>
+      <trans-unit id="844367449082fa76dfffc4f1ae31c69a" resname="The file is not readable.">
+        <source>The file is not readable.</source>
+        <target>Filen kan ikke læses.</target>
+      </trans-unit>
+      <trans-unit id="9cd23bcac97287e91588076c31ad411a" resname="The file is too large ({{ size }} {{ suffix }}). Allowed maximum size is {{ limit }} {{ suffix }}.">
+        <source>The file is too large ({{ size }} {{ suffix }}). Allowed maximum size is {{ limit }} {{ suffix }}.</source>
+        <target>Filen er for stor ({{ size }} {{ suffix }}). Tilladte maksimale størrelse {{ limit }} {{ suffix }}.</target>
+      </trans-unit>
+      <trans-unit id="17521231655b0e37a466a63be30a318d" resname="The mime type of the file is invalid ({{ type }}). Allowed mime types are {{ types }}.">
+        <source>The mime type of the file is invalid ({{ type }}). Allowed mime types are {{ types }}.</source>
+        <target>Mimetypen af filen er ugyldig ({{ type }}). Tilladte mimetyper er {{ types }}.</target>
+      </trans-unit>
+      <trans-unit id="6e99d912d266a8d532b5837c8f4254c5" resname="This value should be {{ limit }} or less.">
+        <source>This value should be {{ limit }} or less.</source>
+        <target>Værdien skal være {{ limit }} eller mindre.</target>
+      </trans-unit>
+      <trans-unit id="91915fd9548130384a0b3fd610e0c1e1" resname="This value is too long. It should have {{ limit }} character or less.|This value is too long. It should have {{ limit }} characters or less.">
+        <source>This value is too long. It should have {{ limit }} character or less.|This value is too long. It should have {{ limit }} characters or less.</source>
+        <target>Værdien er for lang. Den skal have {{ limit }} bogstaver eller mindre.</target>
+      </trans-unit>
+      <trans-unit id="bcca3894f467d486b2e158f65b14589e" resname="This value should be {{ limit }} or more.">
+        <source>This value should be {{ limit }} or more.</source>
+        <target>Værdien skal være {{ limit }} eller mere.</target>
+      </trans-unit>
+      <trans-unit id="05f4ee4bea591fb614de3d61b5188ff9" resname="This value is too short. It should have {{ limit }} character or more.|This value is too short. It should have {{ limit }} characters or more.">
+        <source>This value is too short. It should have {{ limit }} character or more.|This value is too short. It should have {{ limit }} characters or more.</source>
+        <target>Værdien er for kort. Den skal have {{ limit }} tegn eller flere.</target>
+      </trans-unit>
+      <trans-unit id="e6106accb4b6d3e85777d3014de06e41" resname="This value should not be blank.">
+        <source>This value should not be blank.</source>
+        <target>Værdien må ikke være blank.</target>
+      </trans-unit>
+      <trans-unit id="8ee0c37d81d452121dd44d5710685c0a" resname="This value should not be null.">
+        <source>This value should not be null.</source>
+        <target>Værdien må ikke være tom (null).</target>
+      </trans-unit>
+      <trans-unit id="64ba9cf6ab5c1865d8c780b41edc6d0e" resname="This value should be null.">
+        <source>This value should be null.</source>
+        <target>Værdien skal være tom (null).</target>
+      </trans-unit>
+      <trans-unit id="21879d22ef0ec2ae10cfe3be53993372" resname="This value is not valid.">
+        <source>This value is not valid.</source>
+        <target>Værdien er ikke gyldig.</target>
+      </trans-unit>
+      <trans-unit id="d3759b7df11db9d7c2cfac87b87bc0ed" resname="This value is not a valid time.">
+        <source>This value is not a valid time.</source>
+        <target>Værdien er ikke en gyldig tid.</target>
+      </trans-unit>
+      <trans-unit id="f286e0b2ae9b12c818433c068a9c4a8c" resname="This value is not a valid URL.">
+        <source>This value is not a valid URL.</source>
+        <target>Værdien er ikke en gyldig URL.</target>
+      </trans-unit>
+      <trans-unit id="033c4d9c651e21abc8be336c400c40a5" resname="The two values should be equal.">
+        <source>The two values should be equal.</source>
+        <target>De to værdier skal være ens.</target>
+      </trans-unit>
+      <trans-unit id="e33ee2dea81018bc53d73167cdafa854" resname="The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.">
+        <source>The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.</source>
+        <target>Filen er for stor. Den maksimale størrelse er {{ limit }} {{ suffix }}.</target>
+      </trans-unit>
+      <trans-unit id="40f9f62de5a8ccf912bc1cd19d515dd2" resname="The file is too large.">
+        <source>The file is too large.</source>
+        <target>Filen er for stor.</target>
+      </trans-unit>
+      <trans-unit id="994d3e6aeb13ac3d7d0180ff59763e8e" resname="The file could not be uploaded.">
+        <source>The file could not be uploaded.</source>
+        <target>Filen kunne ikke blive uploadet.</target>
+      </trans-unit>
+      <trans-unit id="b64523324ec5a2bf17b5574068edd7a4" resname="This value should be a valid number.">
+        <source>This value should be a valid number.</source>
+        <target>Værdien skal være et gyldigt tal.</target>
+      </trans-unit>
+      <trans-unit id="b0aad9365f73c97f737944e509e86d9d" resname="This file is not a valid image.">
+        <source>This file is not a valid image.</source>
+        <target>Filen er ikke gyldigt billede.</target>
+      </trans-unit>
+      <trans-unit id="94327d7b43fdbd960957371b6dfbe20f" resname="This is not a valid IP address.">
+        <source>This is not a valid IP address.</source>
+        <target>Dette er ikke en gyldig IP adresse.</target>
+      </trans-unit>
+      <trans-unit id="49d23e0ce34bba0e4d7910c9e2f18fe8" resname="This value is not a valid language.">
+        <source>This value is not a valid language.</source>
+        <target>Værdien er ikke et gyldigt sprog.</target>
+      </trans-unit>
+      <trans-unit id="fbc0634cac41699b6d42a84c6e03a5a9" resname="This value is not a valid locale.">
+        <source>This value is not a valid locale.</source>
+        <target>Værdien er ikke en gyldig lokalitet.</target>
+      </trans-unit>
+      <trans-unit id="57b52920e931582ba436470e4f49478d" resname="This value is not a valid country.">
+        <source>This value is not a valid country.</source>
+        <target>Værdien er ikke et gyldigt land.</target>
+      </trans-unit>
+      <trans-unit id="889954f14a3839c141bd8d5102094fbb" resname="This value is already used.">
+        <source>This value is already used.</source>
+        <target>Værdien er allerede i brug.</target>
+      </trans-unit>
+      <trans-unit id="e3fec7c28c52e6676069411a5ab21c53" resname="The size of the image could not be detected.">
+        <source>The size of the image could not be detected.</source>
+        <target>Størrelsen på billedet kunne ikke detekteres.</target>
+      </trans-unit>
+      <trans-unit id="38ed4dcd50fac88c254c3c544266051e" resname="The image width is too big ({{ width }}px). Allowed maximum width is {{ max_width }}px.">
+        <source>The image width is too big ({{ width }}px). Allowed maximum width is {{ max_width }}px.</source>
+        <target>Billedbredden er for stor ({{ width }}px). Tilladt maksimumsbredde er {{ max_width }}px.</target>
+      </trans-unit>
+      <trans-unit id="b73609c9bef2bfb44e1e14224c1c23f9" resname="The image width is too small ({{ width }}px). Minimum width expected is {{ min_width }}px.">
+        <source>The image width is too small ({{ width }}px). Minimum width expected is {{ min_width }}px.</source>
+        <target>Billedebredden er for lille ({{ width }}px). Forventet minimumshøjde er {{ min_width }}px.</target>
+      </trans-unit>
+      <trans-unit id="0389c0d9725ce748e35801aca9a128f7" resname="The image height is too big ({{ height }}px). Allowed maximum height is {{ max_height }}px.">
+        <source>The image height is too big ({{ height }}px). Allowed maximum height is {{ max_height }}px.</source>
+        <target>Billedhøjden er for stor ({{ height }}px). Tilladt maksimumshøjde er {{ max_height }}px.</target>
+      </trans-unit>
+      <trans-unit id="58f0c0c82132a01bd6ee3af228a4cd70" resname="The image height is too small ({{ height }}px). Minimum height expected is {{ min_height }}px.">
+        <source>The image height is too small ({{ height }}px). Minimum height expected is {{ min_height }}px.</source>
+        <target>Billedhøjden er for lille ({{ height }}px). Forventet minimumshøjde er {{ min_height }}px.</target>
+      </trans-unit>
+      <trans-unit id="e3348c52b671aa9cb2b611971cf40031" resname="This value should be the user's current password.">
+        <source>This value should be the user's current password.</source>
+        <target>Værdien skal være brugerens nuværende password.</target>
+      </trans-unit>
+      <trans-unit id="98333abb8a863ef0f079e27c6fd389d6" resname="This value should have exactly {{ limit }} character.|This value should have exactly {{ limit }} characters.">
+        <source>This value should have exactly {{ limit }} character.|This value should have exactly {{ limit }} characters.</source>
+        <target>Værdien skal have præcis {{ limit }} tegn.</target>
+      </trans-unit>
+      <trans-unit id="3357baa9b7aecc3a02e243fe11fbe5bf" resname="The file was only partially uploaded.">
+        <source>The file was only partially uploaded.</source>
+        <target>Filen var kun delvis uploadet.</target>
+      </trans-unit>
+      <trans-unit id="8c9067e52e4440d8a20e74fdc745b0c6" resname="No file was uploaded.">
+        <source>No file was uploaded.</source>
+        <target>Ingen fil blev uploadet.</target>
+      </trans-unit>
+      <trans-unit id="57506b8ac3df8983084cc5577245f77f" resname="No temporary folder was configured in php.ini.">
+        <source>No temporary folder was configured in php.ini.</source>
+        <target>Ingen midlertidig mappe er konfigureret i php.ini.</target>
+      </trans-unit>
+      <trans-unit id="eedc8167ca2a6a6e3e364cebed9191d0" resname="Cannot write temporary file to disk.">
+        <source>Cannot write temporary file to disk.</source>
+        <target>Kan ikke skrive midlertidig fil til disk.</target>
+      </trans-unit>
+      <trans-unit id="f0cd0d805a3ff26a09e392e71443900a" resname="A PHP extension caused the upload to fail.">
+        <source>A PHP extension caused the upload to fail.</source>
+        <target>En PHP udvidelse forårsagede fejl i upload.</target>
+      </trans-unit>
+      <trans-unit id="7277673686148b5cf6fffd830b54c218" resname="This collection should contain {{ limit }} element or more.|This collection should contain {{ limit }} elements or more.">
+        <source>This collection should contain {{ limit }} element or more.|This collection should contain {{ limit }} elements or more.</source>
+        <target>Denne samling skal indeholde {{ limit }} element eller flere.|Denne samling skal indeholde {{ limit }} elementer eller flere.</target>
+      </trans-unit>
+      <trans-unit id="981d282b08294ceb0ffb3afb3949632c" resname="This collection should contain {{ limit }} element or less.|This collection should contain {{ limit }} elements or less.">
+        <source>This collection should contain {{ limit }} element or less.|This collection should contain {{ limit }} elements or less.</source>
+        <target>Denne samling skal indeholde {{ limit }} element eller mindre.|Denne samling skal indeholde {{ limit }} elementer eller mindre.</target>
+      </trans-unit>
+      <trans-unit id="762c2cacc6446b8d9131ca5c9e0582dc" resname="This collection should contain exactly {{ limit }} element.|This collection should contain exactly {{ limit }} elements.">
+        <source>This collection should contain exactly {{ limit }} element.|This collection should contain exactly {{ limit }} elements.</source>
+        <target>Denne samling skal indeholde præcis {{ limit }} element.|Denne samling skal indeholde præcis {{ limit }} elementer.</target>
+      </trans-unit>
+      <trans-unit id="3f634e3f664cd4ea84071df181f16193" resname="Invalid card number.">
+        <source>Invalid card number.</source>
+        <target>Ugyldigt kortnummer.</target>
+      </trans-unit>
+      <trans-unit id="1e2872b8763891c554fb85c468c2dc98" resname="Unsupported card type or invalid card number.">
+        <source>Unsupported card type or invalid card number.</source>
+        <target>Ikke-understøttet korttype eller ugyldigt kortnummer.</target>
+      </trans-unit>
+      <trans-unit id="145613f1b0411894de6a7c9625d92cfc" resname="This is not a valid International Bank Account Number (IBAN).">
+        <source>This is not a valid International Bank Account Number (IBAN).</source>
+        <target>Det er ikke en gyldig International Bank Account Number (IBAN).</target>
+      </trans-unit>
+      <trans-unit id="aa9e66ad3d5e2a974817197a7f8cc884" resname="This value is not a valid ISBN-10.">
+        <source>This value is not a valid ISBN-10.</source>
+        <target>Værdien er ikke en gyldig ISBN-10.</target>
+      </trans-unit>
+      <trans-unit id="91b8a3e31fffe26a1c9de64a1f6b119f" resname="This value is not a valid ISBN-13.">
+        <source>This value is not a valid ISBN-13.</source>
+        <target>Værdien er ikke en gyldig ISBN-13.</target>
+      </trans-unit>
+      <trans-unit id="c213727297d5206410a6d935ffc6d1b8" resname="This value is neither a valid ISBN-10 nor a valid ISBN-13.">
+        <source>This value is neither a valid ISBN-10 nor a valid ISBN-13.</source>
+        <target>Værdien er hverken en gyldig ISBN-10 eller en gyldig ISBN-13.</target>
+      </trans-unit>
+      <trans-unit id="f7d45d20e203d1712c12c9237974ada1" resname="This value is not a valid ISSN.">
+        <source>This value is not a valid ISSN.</source>
+        <target>Værdien er ikke en gyldig ISSN.</target>
+      </trans-unit>
+      <trans-unit id="b82018b386a575a7db75708d3c13967a" resname="This form should not contain extra fields.">
+        <source>This form should not contain extra fields.</source>
+        <target>Feltgruppen må ikke indeholde ekstra felter.</target>
+      </trans-unit>
+      <trans-unit id="566f616be6908f1b48ae28cb9ecb1971" resname="The uploaded file was too large. Please try to upload a smaller file.">
+        <source>The uploaded file was too large. Please try to upload a smaller file.</source>
+        <target>Den oploadede fil var for stor. Opload venligst en mindre fil.</target>
+      </trans-unit>
+      <trans-unit id="cb09ae3ed5a3d336d48581f072f1ec52" resname="The CSRF token is invalid. Please try to resubmit the form.">
+        <source>The CSRF token is invalid. Please try to resubmit the form.</source>
+        <target>CSRF nøglen er ugyldig.</target>
+      </trans-unit>
+      <trans-unit id="717412185b61194420c7def0b42418f1" resname="fos_user.username.already_used">
+        <source>fos_user.username.already_used</source>
+        <target>Brugernavnet er allerede i brug</target>
+      </trans-unit>
+      <trans-unit id="e6b436802106350f126526dff34d889c" resname="fos_user.username.blank">
+        <source>fos_user.username.blank</source>
+        <target>Indtast venligst et brugernavn</target>
+      </trans-unit>
+      <trans-unit id="a96e6b81d15a20e05150a905e30d70c4" resname="fos_user.username.short">
+        <source>fos_user.username.short</source>
+        <target>[-Inf,Inf]Brugernavnet er for kort</target>
+      </trans-unit>
+      <trans-unit id="8eb91da705aa09b820f19e5a4e06d1fe" resname="fos_user.username.long">
+        <source>fos_user.username.long</source>
+        <target>[-Inf,Inf]Brugernavnet er for langt</target>
+      </trans-unit>
+      <trans-unit id="a55be57cc201693bfdc2c9021f8fd48d" resname="fos_user.email.already_used">
+        <source>fos_user.email.already_used</source>
+        <target>E-mailadressen er allerede i brug</target>
+      </trans-unit>
+      <trans-unit id="6ff439fdb45d5bd0d58e8d210df8be77" resname="fos_user.email.blank">
+        <source>fos_user.email.blank</source>
+        <target>Indtast venligst en e-mailadresse</target>
+      </trans-unit>
+      <trans-unit id="f21278704589f38c6334b87af1479cf9" resname="fos_user.email.short">
+        <source>fos_user.email.short</source>
+        <target>[-Inf,Inf]E-mailadressen er for kort</target>
+      </trans-unit>
+      <trans-unit id="966201b57a32472001eeb20f251cce59" resname="fos_user.email.long">
+        <source>fos_user.email.long</source>
+        <target>[-Inf,Inf]E-mailadressen er for lang</target>
+      </trans-unit>
+      <trans-unit id="fc6c24981b4c0a57ce247c8687a585ea" resname="fos_user.email.invalid">
+        <source>fos_user.email.invalid</source>
+        <target>E-mailadressen er ikke gyldig</target>
+      </trans-unit>
+      <trans-unit id="dcd6d14d0786e48363cedfda2f1ae893" resname="fos_user.password.blank">
+        <source>fos_user.password.blank</source>
+        <target>Indtast venligst en adgangskode</target>
+      </trans-unit>
+      <trans-unit id="208830cde0e30a97e31cae31d1815c35" resname="fos_user.password.short">
+        <source>fos_user.password.short</source>
+        <target>[-Inf,Inf]Adgangskoden er for kort</target>
+      </trans-unit>
+      <trans-unit id="f0ece6087844064be20e41cd21c83003" resname="fos_user.new_password.blank">
+        <source>fos_user.new_password.blank</source>
+        <target>Indtast venligst en ny adgangskode</target>
+      </trans-unit>
+      <trans-unit id="d1ffe65daab12410d2dd22cca9723647" resname="fos_user.new_password.short">
+        <source>fos_user.new_password.short</source>
+        <target>[-Inf,Inf]Den nye adgangskode er for kort</target>
+      </trans-unit>
+      <trans-unit id="1a522a38b8255b11eac79b60a5b7ddf9" resname="fos_user.current_password.invalid">
+        <source>fos_user.current_password.invalid</source>
+        <target>Den indtastede adgangskode er forkert</target>
+      </trans-unit>
+      <trans-unit id="444a31e89e0320314cdd1b4d9f693447" resname="fos_user.group.blank">
+        <source>fos_user.group.blank</source>
+        <target>Indtast venligst et navn</target>
+      </trans-unit>
+      <trans-unit id="ae2e51c83ca7620416400ccc476363ad" resname="fos_user.group.short">
+        <source>fos_user.group.short</source>
+        <target>[-Inf,Inf]Navnet er for kort</target>
+      </trans-unit>
+      <trans-unit id="cb4f03d698d34db020dcdfb4422024d0" resname="fos_user.group.long">
+        <source>fos_user.group.long</source>
+        <target>[-Inf,Inf]Navnet er for langt</target>
       </trans-unit>
     </body>
   </file>

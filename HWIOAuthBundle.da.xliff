@@ -1,42 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="da">
+  <file source-language="en" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[header.connecting]]></source>
-        <target><![CDATA[Forbinder]]></target>
+      <trans-unit id="7671f96a71c023b06041d9c412d3e06a" resname="header.connecting">
+        <source>header.connecting</source>
+        <target>Forbinder</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[header.success]]></source>
-        <target><![CDATA[Du er nu tilsluttet kontoen '% navn %'!.]]></target>
+      <trans-unit id="7afd19e1c55aaed41757eab6c4c5641c" resname="header.success">
+        <source>header.success</source>
+        <target>Du er nu tilsluttet kontoen '% navn %'!.</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[header.register]]></source>
-        <target><![CDATA[Registrer med kontoen" %navn%']]></target>
+      <trans-unit id="8105cf10af232721ecb0ed06a57afb90" resname="header.register">
+        <source>header.register</source>
+        <target>Registrer med kontoen" %navn%'</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[connect.confirm.cancel]]></source>
-        <target><![CDATA[Annuler]]></target>
+      <trans-unit id="9f0bca62454f785ece5eff0170ce50cd" resname="connect.confirm.cancel">
+        <source>connect.confirm.cancel</source>
+        <target>Annuler</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[connect.registration.submit]]></source>
-        <target><![CDATA[Registrer konto]]></target>
+      <trans-unit id="8e923840df7d6444d6c82d0e1398a7e3" resname="connect.registration.submit">
+        <source>connect.registration.submit</source>
+        <target>Registrer konto</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[connect.confirm.text]]></source>
-        <target><![CDATA[Er du sikker på at du vil forbinde din %service% konto '%name%' til din nuværende konto?]]></target>
+      <trans-unit id="71649f61354743ad377352a129bff293" resname="connect.confirm.text">
+        <source>connect.confirm.text</source>
+        <target>Er du sikker på at du vil forbinde din %service% konto '%name%' til din nuværende konto?</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[connect.registration.cancel]]></source>
-        <target><![CDATA[Fortryd]]></target>
+      <trans-unit id="ab7b4a4e7df830b97bfbc69fcdce8ab0" resname="connect.registration.cancel">
+        <source>connect.registration.cancel</source>
+        <target>Fortryd</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[connect.confirm.submit]]></source>
-        <target><![CDATA[Forbind konto]]></target>
+      <trans-unit id="f0326464021bdf71152fc8435222ae36" resname="connect.confirm.submit">
+        <source>connect.confirm.submit</source>
+        <target>Forbind konto</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[header.registration_success]]></source>
-        <target><![CDATA[Du har nu registreret og forbundet kontoen '%username%'!]]></target>
+      <trans-unit id="f88e6ab53a3fcf0da27f88e8e48eed92" resname="header.registration_success">
+        <source>header.registration_success</source>
+        <target>Du har nu registreret og forbundet kontoen '%username%'!</target>
       </trans-unit>
     </body>
   </file>

@@ -1,130 +1,133 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="zh">
+  <file source-language="en" target-language="zh" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[A PHP extension stopped the file upload]]></source>
-        <target><![CDATA[A PHP extension stopped the file upload]]></target>
+      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload">
+        <source>A PHP extension stopped the file upload</source>
+        <target>A PHP extension stopped the file upload</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[Add image]]></source>
-        <target><![CDATA[Add image]]></target>
+      <trans-unit id="82822fc45c633a738a005ed9e0d2640b" resname="Add image">
+        <source>Add image</source>
+        <target>Add image</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[Crop & Use !]]></source>
+      <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !">
+        <source>Crop &amp; Use !</source>
         <target><![CDATA[Crop & Use !]]></target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[Crop and Use]]></source>
-        <target><![CDATA[Crop and Use]]></target>
+      <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use">
+        <source>Crop and Use</source>
+        <target>Crop and Use</target>
       </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[Drop your file here]]></source>
-        <target><![CDATA[Drop your file here]]></target>
+      <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here">
+        <source>Drop your file here</source>
+        <target>Drop your file here</target>
       </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[Edit]]></source>
-        <target><![CDATA[Edit]]></target>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35" resname="Edit">
+        <source>Edit</source>
+        <target>Edit</target>
       </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[Failed to resize image]]></source>
-        <target><![CDATA[Failed to resize image]]></target>
+      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image">
+        <source>Failed to resize image</source>
+        <target>Failed to resize image</target>
       </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[Failed to write file to disk]]></source>
-        <target><![CDATA[Failed to write file to disk]]></target>
+      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk">
+        <source>Failed to write file to disk</source>
+        <target>Failed to write file to disk</target>
       </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[File is too big]]></source>
-        <target><![CDATA[File is too big]]></target>
+      <trans-unit id="893885e44a5f16e816de6ee752688a88" resname="File is too big">
+        <source>File is too big</source>
+        <target>File is too big</target>
       </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[File is too small]]></source>
-        <target><![CDATA[File is too small]]></target>
+      <trans-unit id="7694642c2923adc52fad9d9df064dba2" resname="File is too small">
+        <source>File is too small</source>
+        <target>File is too small</target>
       </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[File upload aborted]]></source>
-        <target><![CDATA[File upload aborted]]></target>
+      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted">
+        <source>File upload aborted</source>
+        <target>File upload aborted</target>
       </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[Filetype not allowed]]></source>
-        <target><![CDATA[Filetype not allowed]]></target>
+      <trans-unit id="85fb1cf47b9543043438ba7ed901b626" resname="Filetype not allowed">
+        <source>Filetype not allowed</source>
+        <target>Filetype not allowed</target>
       </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[Image exceeds maximum height]]></source>
-        <target><![CDATA[Image exceeds maximum height]]></target>
+      <trans-unit id="99ba00fe99cde16ff7c70743546365ed" resname="Image exceeds maximum height">
+        <source>Image exceeds maximum height</source>
+        <target>Image exceeds maximum height</target>
       </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[Image exceeds maximum width]]></source>
-        <target><![CDATA[Image exceeds maximum width]]></target>
+      <trans-unit id="6dc13bc79a9736e9f927d747c4c45650" resname="Image exceeds maximum width">
+        <source>Image exceeds maximum width</source>
+        <target>Image exceeds maximum width</target>
       </trans-unit>
-      <trans-unit id="15" approved="yes">
-        <source><![CDATA[Image requires a minimum height (%min%)]]></source>
-        <target><![CDATA[Image requires a minimum height (%min%)]]></target>
+      <trans-unit id="f720415de33c5861318b8539c2d7968d" resname="Image requires a minimum height (%min%)">
+        <source>Image requires a minimum height (%min%)</source>
+        <target>Image requires a minimum height (%min%)</target>
       </trans-unit>
-      <trans-unit id="16" approved="yes">
-        <source><![CDATA[Image requires a minimum width (%min%)]]></source>
-        <target><![CDATA[Image requires a minimum width (%min%)]]></target>
+      <trans-unit id="24f04a559e89cf47678a96c202456683" resname="Image requires a minimum width (%min%)">
+        <source>Image requires a minimum width (%min%)</source>
+        <target>Image requires a minimum width (%min%)</target>
       </trans-unit>
-      <trans-unit id="17" approved="yes">
-        <source><![CDATA[Insert Image]]></source>
-        <target><![CDATA[Insert Image]]></target>
+      <trans-unit id="7038eac66e387c3b3a0834d786a88757" resname="Insert Image">
+        <source>Insert Image</source>
+        <target>Insert Image</target>
       </trans-unit>
-      <trans-unit id="18" approved="yes">
-        <source><![CDATA[Maximum number of files exceeded]]></source>
-        <target><![CDATA[Maximum number of files exceeded]]></target>
+      <trans-unit id="1c45e697240f870e5c402498ba4db883" resname="Maximum number of files exceeded">
+        <source>Maximum number of files exceeded</source>
+        <target>Maximum number of files exceeded</target>
       </trans-unit>
-      <trans-unit id="19" approved="yes">
-        <source><![CDATA[Missing a temporary folder]]></source>
-        <target><![CDATA[Missing a temporary folder]]></target>
+      <trans-unit id="2384d693d9af53b4727c092af7570a19" resname="Missing a temporary folder">
+        <source>Missing a temporary folder</source>
+        <target>Missing a temporary folder</target>
       </trans-unit>
-      <trans-unit id="20" approved="yes">
-        <source><![CDATA[No file was uploaded]]></source>
-        <target><![CDATA[No file was uploaded]]></target>
+      <trans-unit id="298883b17e36ee3a18d73e835c0b44fc" resname="No file was uploaded">
+        <source>No file was uploaded</source>
+        <target>No file was uploaded</target>
       </trans-unit>
-      <trans-unit id="21" approved="yes">
-        <source><![CDATA[Please adjust selection to your image]]></source>
-        <target><![CDATA[Please adjust selection to your image]]></target>
+      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image">
+        <source>Please adjust selection to your image</source>
+        <target>Please adjust selection to your image</target>
       </trans-unit>
-      <trans-unit id="22" approved="yes">
-        <source><![CDATA[Please select or upload an image]]></source>
-        <target><![CDATA[Please select or upload an image]]></target>
+      <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image">
+        <source>Please select or upload an image</source>
+        <target>Please select or upload an image</target>
       </trans-unit>
-      <trans-unit id="23" approved="yes">
-        <source><![CDATA[Select Existing]]></source>
-        <target><![CDATA[Select existing file]]></target>
+      <trans-unit id="f7ddc23a4ca54d272040e1cc708e4c69" resname="Select Existing">
+        <source>Select Existing</source>
+        <target>Select existing file</target>
       </trans-unit>
-      <trans-unit id="24" approved="yes">
-        <source><![CDATA[Select a file...]]></source>
-        <target><![CDATA[Select a file...]]></target>
+      <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file...">
+        <source>Select a file...</source>
+        <target>Select a file...</target>
       </trans-unit>
-      <trans-unit id="25" approved="yes">
-        <source><![CDATA[The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form]]></source>
-        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form">
+        <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
+        <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="26" approved="yes">
-        <source><![CDATA[The uploaded file exceeds the post_max_size directive in php.ini]]></source>
-        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini">
+        <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
+        <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="27" approved="yes">
-        <source><![CDATA[The uploaded file exceeds the upload_max_filesize directive in php.ini]]></source>
-        <target><![CDATA[The uploaded file exceeds the maximum size.]]></target>
+      <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini">
+        <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
+        <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="28" approved="yes">
-        <source><![CDATA[The uploaded file was only partially uploaded]]></source>
-        <target><![CDATA[The uploaded file was only partially uploaded]]></target>
+      <trans-unit id="f8fe8cba1625eaf8e5c253b041d57dbd" resname="The uploaded file was only partially uploaded">
+        <source>The uploaded file was only partially uploaded</source>
+        <target>The uploaded file was only partially uploaded</target>
       </trans-unit>
-      <trans-unit id="29" approved="yes">
-        <source><![CDATA[Upload Image]]></source>
-        <target><![CDATA[Upload Image]]></target>
+      <trans-unit id="1f98842c354dc496970446bce14f4c50" resname="Upload Image">
+        <source>Upload Image</source>
+        <target>Upload Image</target>
       </trans-unit>
-      <trans-unit id="30" approved="yes">
-        <source><![CDATA[or]]></source>
-        <target><![CDATA[or]]></target>
+      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or">
+        <source>or</source>
+        <target>or</target>
       </trans-unit>
-      <trans-unit id="31" approved="yes">
-        <source><![CDATA[Close]]></source>
-        <target><![CDATA[Close]]></target>
+      <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close">
+        <source>Close</source>
+        <target>Close</target>
       </trans-unit>
     </body>
   </file>

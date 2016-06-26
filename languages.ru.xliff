@@ -1,738 +1,741 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ru">
+  <file source-language="en" target-language="ru" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
     <body>
-      <trans-unit id="1" approved="yes">
-        <source><![CDATA[Abkhazian]]></source>
+      <trans-unit id="64db1254fb5a143536cea757f5ef920c" resname="Abkhazian">
+        <source>Abkhazian</source>
         <target>Абхазский</target>
       </trans-unit>
-      <trans-unit id="2" approved="yes">
-        <source><![CDATA[Afar]]></source>
+      <trans-unit id="eaf45172e57fd92a51dfc88f9808c540" resname="Afar">
+        <source>Afar</source>
         <target>Афарский</target>
       </trans-unit>
-      <trans-unit id="3" approved="yes">
-        <source><![CDATA[Afrikaans]]></source>
+      <trans-unit id="170d296d4201ee1af7a8867e9b0ca3a7" resname="Afrikaans">
+        <source>Afrikaans</source>
         <target>Африкаанс</target>
       </trans-unit>
-      <trans-unit id="4" approved="yes">
-        <source><![CDATA[Akan]]></source>
-        <target><![CDATA[Акан]]></target>
-      </trans-unit>
-      <trans-unit id="5" approved="yes">
-        <source><![CDATA[Albanian]]></source>
-        <target><![CDATA[албанский]]></target>
-      </trans-unit>
-      <trans-unit id="6" approved="yes">
-        <source><![CDATA[Amharic]]></source>
-        <target><![CDATA[амхарский]]></target>
-      </trans-unit>
-      <trans-unit id="7" approved="yes">
-        <source><![CDATA[Arabic]]></source>
-        <target><![CDATA[арабский]]></target>
-      </trans-unit>
-      <trans-unit id="8" approved="yes">
-        <source><![CDATA[Aragonese]]></source>
-        <target><![CDATA[арагонский]]></target>
-      </trans-unit>
-      <trans-unit id="9" approved="yes">
-        <source><![CDATA[Armenian]]></source>
-        <target><![CDATA[армянский]]></target>
-      </trans-unit>
-      <trans-unit id="10" approved="yes">
-        <source><![CDATA[Assamese]]></source>
-        <target><![CDATA[Ассамский]]></target>
-      </trans-unit>
-      <trans-unit id="11" approved="yes">
-        <source><![CDATA[Avaric]]></source>
-        <target><![CDATA[аварский]]></target>
-      </trans-unit>
-      <trans-unit id="12" approved="yes">
-        <source><![CDATA[Avestan]]></source>
-        <target><![CDATA[Авестийский]]></target>
-      </trans-unit>
-      <trans-unit id="13" approved="yes">
-        <source><![CDATA[Aymara]]></source>
-        <target><![CDATA[аймара]]></target>
-      </trans-unit>
-      <trans-unit id="14" approved="yes">
-        <source><![CDATA[Azerbaijani]]></source>
-        <target><![CDATA[азербайджанец]]></target>
-      </trans-unit>
-      <trans-unit id="15" approved="yes">
-        <source><![CDATA[Bambara]]></source>
-        <target><![CDATA[Бамбара]]></target>
-      </trans-unit>
-      <trans-unit id="16" approved="yes">
-        <source><![CDATA[Bashkir]]></source>
-        <target><![CDATA[башкирский]]></target>
-      </trans-unit>
-      <trans-unit id="17" approved="yes">
-        <source><![CDATA[Basque]]></source>
-        <target><![CDATA[баскский]]></target>
-      </trans-unit>
-      <trans-unit id="18" approved="yes">
-        <source><![CDATA[Belarusian]]></source>
-        <target><![CDATA[Белорусский]]></target>
-      </trans-unit>
-      <trans-unit id="19" approved="yes">
-        <source><![CDATA[Bengali]]></source>
-        <target><![CDATA[бенгальский]]></target>
-      </trans-unit>
-      <trans-unit id="20" approved="yes">
-        <source><![CDATA[Bihari languages]]></source>
-        <target><![CDATA[бихари языки]]></target>
-      </trans-unit>
-      <trans-unit id="21" approved="yes">
-        <source><![CDATA[Bislama]]></source>
-        <target><![CDATA[Бислама]]></target>
-      </trans-unit>
-      <trans-unit id="22" approved="yes">
-        <source><![CDATA[Bokmål, Norwegian]]></source>
-        <target><![CDATA[Букмол, норвежский]]></target>
-      </trans-unit>
-      <trans-unit id="23" approved="yes">
-        <source><![CDATA[Bosnian]]></source>
-        <target><![CDATA[боснийский]]></target>
-      </trans-unit>
-      <trans-unit id="24" approved="yes">
-        <source><![CDATA[Breton]]></source>
-        <target><![CDATA[бретонский]]></target>
-      </trans-unit>
-      <trans-unit id="25" approved="yes">
-        <source><![CDATA[Bulgarian]]></source>
-        <target><![CDATA[болгарский]]></target>
-      </trans-unit>
-      <trans-unit id="26" approved="yes">
-        <source><![CDATA[Burmese]]></source>
-        <target><![CDATA[бирманский]]></target>
-      </trans-unit>
-      <trans-unit id="27" approved="yes">
-        <source><![CDATA[Catalan]]></source>
-        <target><![CDATA[каталонский]]></target>
-      </trans-unit>
-      <trans-unit id="28" approved="yes">
-        <source><![CDATA[Central Khmer]]></source>
-        <target><![CDATA[Центральный кхмерской]]></target>
-      </trans-unit>
-      <trans-unit id="29" approved="yes">
-        <source><![CDATA[Chamorro]]></source>
-        <target><![CDATA[Чаморро]]></target>
-      </trans-unit>
-      <trans-unit id="30" approved="yes">
-        <source><![CDATA[Chechen]]></source>
-        <target><![CDATA[чеченец]]></target>
-      </trans-unit>
-      <trans-unit id="31" approved="yes">
-        <source><![CDATA[Chewa]]></source>
-        <target><![CDATA[Chewa]]></target>
-      </trans-unit>
-      <trans-unit id="32" approved="yes">
-        <source><![CDATA[Chinese]]></source>
-        <target><![CDATA[Китайский]]></target>
-      </trans-unit>
-      <trans-unit id="33" approved="yes">
-        <source><![CDATA[Chuvash]]></source>
-        <target><![CDATA[чувашский]]></target>
-      </trans-unit>
-      <trans-unit id="34" approved="yes">
-        <source><![CDATA[Cornish]]></source>
-        <target><![CDATA[корнуоллский]]></target>
-      </trans-unit>
-      <trans-unit id="35" approved="yes">
-        <source><![CDATA[Corsican]]></source>
-        <target><![CDATA[корсиканец]]></target>
-      </trans-unit>
-      <trans-unit id="36" approved="yes">
-        <source><![CDATA[Cree]]></source>
-        <target><![CDATA[кри]]></target>
-      </trans-unit>
-      <trans-unit id="37" approved="yes">
-        <source><![CDATA[Croatian]]></source>
-        <target><![CDATA[хорватский]]></target>
-      </trans-unit>
-      <trans-unit id="38" approved="yes">
-        <source><![CDATA[Czech]]></source>
-        <target><![CDATA[Чешский]]></target>
-      </trans-unit>
-      <trans-unit id="39" approved="yes">
-        <source><![CDATA[Danish]]></source>
-        <target><![CDATA[датский]]></target>
-      </trans-unit>
-      <trans-unit id="40" approved="yes">
-        <source><![CDATA[Dhivehi]]></source>
-        <target><![CDATA[дивехи]]></target>
-      </trans-unit>
-      <trans-unit id="41" approved="yes">
-        <source><![CDATA[Dutch]]></source>
-        <target><![CDATA[Голландский]]></target>
-      </trans-unit>
-      <trans-unit id="42" approved="yes">
-        <source><![CDATA[Dzongkha]]></source>
-        <target><![CDATA[Dzongkha]]></target>
-      </trans-unit>
-      <trans-unit id="43" approved="yes">
-        <source><![CDATA[English]]></source>
-        <target><![CDATA[английский]]></target>
-      </trans-unit>
-      <trans-unit id="44" approved="yes">
-        <source><![CDATA[Esperanto]]></source>
-        <target><![CDATA[эсперанто]]></target>
-      </trans-unit>
-      <trans-unit id="45" approved="yes">
-        <source><![CDATA[Estonian]]></source>
-        <target><![CDATA[эстонский]]></target>
-      </trans-unit>
-      <trans-unit id="46" approved="yes">
-        <source><![CDATA[Ewe]]></source>
-        <target><![CDATA[овца]]></target>
-      </trans-unit>
-      <trans-unit id="47" approved="yes">
-        <source><![CDATA[Faroese]]></source>
-        <target><![CDATA[Фарерская]]></target>
-      </trans-unit>
-      <trans-unit id="48" approved="yes">
-        <source><![CDATA[Fijian]]></source>
-        <target><![CDATA[Фиджийский]]></target>
-      </trans-unit>
-      <trans-unit id="49" approved="yes">
-        <source><![CDATA[Finnish]]></source>
-        <target><![CDATA[финский]]></target>
-      </trans-unit>
-      <trans-unit id="50" approved="yes">
-        <source><![CDATA[French]]></source>
-        <target><![CDATA[Французский]]></target>
-      </trans-unit>
-      <trans-unit id="51" approved="yes">
-        <source><![CDATA[Fulah]]></source>
-        <target><![CDATA[фулах]]></target>
-      </trans-unit>
-      <trans-unit id="52" approved="yes">
-        <source><![CDATA[Gaelic]]></source>
-        <target><![CDATA[гаэльский]]></target>
-      </trans-unit>
-      <trans-unit id="53" approved="yes">
-        <source><![CDATA[Galician]]></source>
-        <target><![CDATA[Галицкая]]></target>
-      </trans-unit>
-      <trans-unit id="54" approved="yes">
-        <source><![CDATA[Ganda]]></source>
-        <target><![CDATA[Ganda]]></target>
-      </trans-unit>
-      <trans-unit id="55" approved="yes">
-        <source><![CDATA[Georgian]]></source>
-        <target><![CDATA[грузинский]]></target>
-      </trans-unit>
-      <trans-unit id="56" approved="yes">
-        <source><![CDATA[German]]></source>
-        <target><![CDATA[Немецкий]]></target>
-      </trans-unit>
-      <trans-unit id="57" approved="yes">
-        <source><![CDATA[Greek, Modern (1453-)]]></source>
-        <target><![CDATA[Греческая, Современная (1453-)]]></target>
-      </trans-unit>
-      <trans-unit id="58" approved="yes">
-        <source><![CDATA[Greenlandic]]></source>
-        <target><![CDATA[гренландский]]></target>
-      </trans-unit>
-      <trans-unit id="59" approved="yes">
-        <source><![CDATA[Guarani]]></source>
-        <target><![CDATA[Гуарани]]></target>
-      </trans-unit>
-      <trans-unit id="60" approved="yes">
-        <source><![CDATA[Gujarati]]></source>
-        <target><![CDATA[гуджарати]]></target>
-      </trans-unit>
-      <trans-unit id="61" approved="yes">
-        <source><![CDATA[Haitian]]></source>
-        <target><![CDATA[гаитянский]]></target>
-      </trans-unit>
-      <trans-unit id="62" approved="yes">
-        <source><![CDATA[Hausa]]></source>
-        <target><![CDATA[хауса]]></target>
-      </trans-unit>
-      <trans-unit id="63" approved="yes">
-        <source><![CDATA[Hebrew]]></source>
-        <target><![CDATA[иврит]]></target>
-      </trans-unit>
-      <trans-unit id="64" approved="yes">
-        <source><![CDATA[Herero]]></source>
-        <target><![CDATA[гереро]]></target>
-      </trans-unit>
-      <trans-unit id="65" approved="yes">
-        <source><![CDATA[Hindi]]></source>
-        <target><![CDATA[хинди]]></target>
-      </trans-unit>
-      <trans-unit id="66" approved="yes">
-        <source><![CDATA[Hiri Motu]]></source>
-        <target><![CDATA[Хири Моту]]></target>
-      </trans-unit>
-      <trans-unit id="67" approved="yes">
-        <source><![CDATA[Hungarian]]></source>
-        <target><![CDATA[Венгерский]]></target>
-      </trans-unit>
-      <trans-unit id="68" approved="yes">
-        <source><![CDATA[Icelandic]]></source>
-        <target><![CDATA[исландский]]></target>
-      </trans-unit>
-      <trans-unit id="69" approved="yes">
-        <source><![CDATA[Ido]]></source>
-        <target><![CDATA[Я делаю]]></target>
-      </trans-unit>
-      <trans-unit id="70" approved="yes">
-        <source><![CDATA[Igbo]]></source>
-        <target><![CDATA[игбо]]></target>
-      </trans-unit>
-      <trans-unit id="71" approved="yes">
-        <source><![CDATA[Indonesian]]></source>
-        <target><![CDATA[индонезийский]]></target>
-      </trans-unit>
-      <trans-unit id="72" approved="yes">
-        <source><![CDATA[Interlingua (International Auxiliary Language Association)]]></source>
-        <target><![CDATA[Интерлингва (Международная ассоциация вспомогательного языка)]]></target>
-      </trans-unit>
-      <trans-unit id="73" approved="yes">
-        <source><![CDATA[Inuktitut]]></source>
-        <target><![CDATA[Инуктитут]]></target>
-      </trans-unit>
-      <trans-unit id="74" approved="yes">
-        <source><![CDATA[Inupiaq]]></source>
-        <target><![CDATA[Инупиак]]></target>
-      </trans-unit>
-      <trans-unit id="75" approved="yes">
-        <source><![CDATA[Irish]]></source>
-        <target><![CDATA[ирландский]]></target>
-      </trans-unit>
-      <trans-unit id="76" approved="yes">
-        <source><![CDATA[Italian]]></source>
-        <target><![CDATA[итальянский]]></target>
-      </trans-unit>
-      <trans-unit id="77" approved="yes">
-        <source><![CDATA[Japanese]]></source>
-        <target><![CDATA[Японский]]></target>
-      </trans-unit>
-      <trans-unit id="78" approved="yes">
-        <source><![CDATA[Javanese]]></source>
-        <target><![CDATA[яванский]]></target>
-      </trans-unit>
-      <trans-unit id="79" approved="yes">
-        <source><![CDATA[Kannada]]></source>
-        <target><![CDATA[каннады]]></target>
-      </trans-unit>
-      <trans-unit id="80" approved="yes">
-        <source><![CDATA[Kanuri]]></source>
-        <target><![CDATA[канури]]></target>
-      </trans-unit>
-      <trans-unit id="81" approved="yes">
-        <source><![CDATA[Kashmiri]]></source>
-        <target><![CDATA[Кашмири]]></target>
-      </trans-unit>
-      <trans-unit id="82" approved="yes">
-        <source><![CDATA[Kazakh]]></source>
-        <target><![CDATA[казахский]]></target>
-      </trans-unit>
-      <trans-unit id="83" approved="yes">
-        <source><![CDATA[Kikuyu]]></source>
-        <target><![CDATA[кикуйю]]></target>
-      </trans-unit>
-      <trans-unit id="84" approved="yes">
-        <source><![CDATA[Kinyarwanda]]></source>
-        <target><![CDATA[киньяруанда]]></target>
-      </trans-unit>
-      <trans-unit id="85" approved="yes">
-        <source><![CDATA[Komi]]></source>
-        <target><![CDATA[Коми]]></target>
-      </trans-unit>
-      <trans-unit id="86" approved="yes">
-        <source><![CDATA[Kongo]]></source>
-        <target><![CDATA[Kongo]]></target>
-      </trans-unit>
-      <trans-unit id="87" approved="yes">
-        <source><![CDATA[Korean]]></source>
-        <target><![CDATA[Корейский]]></target>
-      </trans-unit>
-      <trans-unit id="88" approved="yes">
-        <source><![CDATA[Kurdish]]></source>
-        <target><![CDATA[курдский]]></target>
-      </trans-unit>
-      <trans-unit id="89" approved="yes">
-        <source><![CDATA[Kwanyama]]></source>
-        <target><![CDATA[Kwanyama]]></target>
-      </trans-unit>
-      <trans-unit id="90" approved="yes">
-        <source><![CDATA[Kyrgyz]]></source>
-        <target><![CDATA[киргизский]]></target>
-      </trans-unit>
-      <trans-unit id="91" approved="yes">
-        <source><![CDATA[Lao]]></source>
-        <target><![CDATA[Лао]]></target>
-      </trans-unit>
-      <trans-unit id="92" approved="yes">
-        <source><![CDATA[Latin]]></source>
-        <target><![CDATA[латинский]]></target>
-      </trans-unit>
-      <trans-unit id="93" approved="yes">
-        <source><![CDATA[Latvian]]></source>
-        <target><![CDATA[Латышский]]></target>
-      </trans-unit>
-      <trans-unit id="94" approved="yes">
-        <source><![CDATA[Limburgish]]></source>
-        <target><![CDATA[Лимбургский]]></target>
-      </trans-unit>
-      <trans-unit id="95" approved="yes">
-        <source><![CDATA[Lingala]]></source>
-        <target><![CDATA[Лингала]]></target>
-      </trans-unit>
-      <trans-unit id="96" approved="yes">
-        <source><![CDATA[Lithuanian]]></source>
-        <target><![CDATA[Литовский]]></target>
-      </trans-unit>
-      <trans-unit id="97" approved="yes">
-        <source><![CDATA[Luba-Katanga]]></source>
-        <target><![CDATA[Любе-Катанга]]></target>
-      </trans-unit>
-      <trans-unit id="98" approved="yes">
-        <source><![CDATA[Luxembourgish]]></source>
-        <target><![CDATA[люксембургский]]></target>
-      </trans-unit>
-      <trans-unit id="99" approved="yes">
-        <source><![CDATA[Macedonian]]></source>
-        <target><![CDATA[македонский]]></target>
-      </trans-unit>
-      <trans-unit id="100" approved="yes">
-        <source><![CDATA[Malagasy]]></source>
-        <target><![CDATA[малагасиец]]></target>
-      </trans-unit>
-      <trans-unit id="101" approved="yes">
-        <source><![CDATA[Malay]]></source>
-        <target><![CDATA[малайский]]></target>
-      </trans-unit>
-      <trans-unit id="102" approved="yes">
-        <source><![CDATA[Malayalam]]></source>
-        <target><![CDATA[Малайялам]]></target>
-      </trans-unit>
-      <trans-unit id="103" approved="yes">
-        <source><![CDATA[Maltese]]></source>
-        <target><![CDATA[мальтийский]]></target>
-      </trans-unit>
-      <trans-unit id="104" approved="yes">
-        <source><![CDATA[Manx]]></source>
-        <target><![CDATA[с острова Мэн]]></target>
-      </trans-unit>
-      <trans-unit id="105" approved="yes">
-        <source><![CDATA[Maori]]></source>
-        <target><![CDATA[маори]]></target>
-      </trans-unit>
-      <trans-unit id="106" approved="yes">
-        <source><![CDATA[Marathi]]></source>
-        <target><![CDATA[Marathi]]></target>
-      </trans-unit>
-      <trans-unit id="107" approved="yes">
-        <source><![CDATA[Marshallese]]></source>
-        <target><![CDATA[маршалльский]]></target>
-      </trans-unit>
-      <trans-unit id="108" approved="yes">
-        <source><![CDATA[Mongolian]]></source>
-        <target><![CDATA[монгольский]]></target>
-      </trans-unit>
-      <trans-unit id="109" approved="yes">
-        <source><![CDATA[Nauru]]></source>
-        <target><![CDATA[Науру]]></target>
-      </trans-unit>
-      <trans-unit id="110" approved="yes">
-        <source><![CDATA[Navajo]]></source>
-        <target><![CDATA[навахо]]></target>
-      </trans-unit>
-      <trans-unit id="111" approved="yes">
-        <source><![CDATA[Ndebele, North]]></source>
-        <target><![CDATA[Ндебеле, Северная]]></target>
-      </trans-unit>
-      <trans-unit id="112" approved="yes">
-        <source><![CDATA[Ndebele, South]]></source>
-        <target><![CDATA[Ндебеле, Южная]]></target>
-      </trans-unit>
-      <trans-unit id="113" approved="yes">
-        <source><![CDATA[Ndonga]]></source>
-        <target><![CDATA[Ndonga]]></target>
-      </trans-unit>
-      <trans-unit id="114" approved="yes">
-        <source><![CDATA[Nepali]]></source>
-        <target><![CDATA[непальский]]></target>
-      </trans-unit>
-      <trans-unit id="115" approved="yes">
-        <source><![CDATA[Northern Sami]]></source>
-        <target><![CDATA[Северный Сами]]></target>
-      </trans-unit>
-      <trans-unit id="116" approved="yes">
-        <source><![CDATA[Norwegian]]></source>
-        <target><![CDATA[Норвежский]]></target>
-      </trans-unit>
-      <trans-unit id="117" approved="yes">
-        <source><![CDATA[Nuosu]]></source>
-        <target><![CDATA[Nuosu]]></target>
-      </trans-unit>
-      <trans-unit id="118" approved="yes">
-        <source><![CDATA[Nynorsk, Norwegian]]></source>
-        <target><![CDATA[Нюнорск, Норвежский]]></target>
-      </trans-unit>
-      <trans-unit id="119" approved="yes">
-        <source><![CDATA[Occidental]]></source>
-        <target><![CDATA[западный]]></target>
-      </trans-unit>
-      <trans-unit id="120" approved="yes">
-        <source><![CDATA[Occitan (post 1500)]]></source>
-        <target><![CDATA[Окситанском (пост 1500)]]></target>
-      </trans-unit>
-      <trans-unit id="121" approved="yes">
-        <source><![CDATA[Ojibwa]]></source>
-        <target><![CDATA[оджибва]]></target>
-      </trans-unit>
-      <trans-unit id="122" approved="yes">
-        <source><![CDATA[Oriya]]></source>
-        <target><![CDATA[Ория]]></target>
-      </trans-unit>
-      <trans-unit id="123" approved="yes">
-        <source><![CDATA[Oromo]]></source>
-        <target><![CDATA[Оромо]]></target>
-      </trans-unit>
-      <trans-unit id="124" approved="yes">
-        <source><![CDATA[Ossetian]]></source>
-        <target><![CDATA[осетинский]]></target>
-      </trans-unit>
-      <trans-unit id="125" approved="yes">
-        <source><![CDATA[Pali]]></source>
-        <target><![CDATA[пали]]></target>
-      </trans-unit>
-      <trans-unit id="126" approved="yes">
-        <source><![CDATA[Pashto]]></source>
-        <target><![CDATA[пушту]]></target>
-      </trans-unit>
-      <trans-unit id="127" approved="yes">
-        <source><![CDATA[Persian]]></source>
-        <target><![CDATA[персидский]]></target>
-      </trans-unit>
-      <trans-unit id="128" approved="yes">
-        <source><![CDATA[Polish]]></source>
-        <target><![CDATA[полировать]]></target>
-      </trans-unit>
-      <trans-unit id="129" approved="yes">
-        <source><![CDATA[Portuguese]]></source>
-        <target><![CDATA[португальский]]></target>
-      </trans-unit>
-      <trans-unit id="130" approved="yes">
-        <source><![CDATA[Punjabi]]></source>
-        <target><![CDATA[панджаби]]></target>
-      </trans-unit>
-      <trans-unit id="131" approved="yes">
-        <source><![CDATA[Quechua]]></source>
-        <target><![CDATA[кечуа]]></target>
-      </trans-unit>
-      <trans-unit id="132" approved="yes">
-        <source><![CDATA[Romanian]]></source>
-        <target><![CDATA[румынский]]></target>
-      </trans-unit>
-      <trans-unit id="133" approved="yes">
-        <source><![CDATA[Romansh]]></source>
-        <target><![CDATA[ретороманский диалект]]></target>
-      </trans-unit>
-      <trans-unit id="134" approved="yes">
-        <source><![CDATA[Rundi]]></source>
-        <target><![CDATA[Рунди]]></target>
-      </trans-unit>
-      <trans-unit id="135" approved="yes">
-        <source><![CDATA[Russian]]></source>
-        <target><![CDATA[русский]]></target>
-      </trans-unit>
-      <trans-unit id="136" approved="yes">
-        <source><![CDATA[Samoan]]></source>
-        <target><![CDATA[Самоанский]]></target>
-      </trans-unit>
-      <trans-unit id="137" approved="yes">
-        <source><![CDATA[Sango]]></source>
-        <target><![CDATA[Санго]]></target>
-      </trans-unit>
-      <trans-unit id="138" approved="yes">
-        <source><![CDATA[Sanskrit]]></source>
-        <target><![CDATA[санскрит]]></target>
-      </trans-unit>
-      <trans-unit id="139" approved="yes">
-        <source><![CDATA[Sardinian]]></source>
-        <target><![CDATA[сардинец]]></target>
-      </trans-unit>
-      <trans-unit id="140" approved="yes">
-        <source><![CDATA[Serbian]]></source>
-        <target><![CDATA[сербский]]></target>
-      </trans-unit>
-      <trans-unit id="141" approved="yes">
-        <source><![CDATA[Shona]]></source>
-        <target><![CDATA[Shona]]></target>
-      </trans-unit>
-      <trans-unit id="142" approved="yes">
-        <source><![CDATA[Sindhi]]></source>
-        <target><![CDATA[Sindhi]]></target>
-      </trans-unit>
-      <trans-unit id="143" approved="yes">
-        <source><![CDATA[Sinhalese]]></source>
-        <target><![CDATA[сингалец]]></target>
-      </trans-unit>
-      <trans-unit id="144" approved="yes">
-        <source><![CDATA[Slovak]]></source>
-        <target><![CDATA[словацкий]]></target>
-      </trans-unit>
-      <trans-unit id="145" approved="yes">
-        <source><![CDATA[Slovenian]]></source>
-        <target><![CDATA[словенский]]></target>
-      </trans-unit>
-      <trans-unit id="146" approved="yes">
-        <source><![CDATA[Somali]]></source>
-        <target><![CDATA[сомалийский]]></target>
-      </trans-unit>
-      <trans-unit id="147" approved="yes">
-        <source><![CDATA[Sotho, Southern]]></source>
-        <target><![CDATA[Сото, Южный]]></target>
-      </trans-unit>
-      <trans-unit id="148" approved="yes">
-        <source><![CDATA[Spanish]]></source>
-        <target><![CDATA[испанский]]></target>
-      </trans-unit>
-      <trans-unit id="149" approved="yes">
-        <source><![CDATA[Sundanese]]></source>
-        <target><![CDATA[Суданский]]></target>
-      </trans-unit>
-      <trans-unit id="150" approved="yes">
-        <source><![CDATA[Swahili]]></source>
-        <target><![CDATA[суахили]]></target>
-      </trans-unit>
-      <trans-unit id="151" approved="yes">
-        <source><![CDATA[Swati]]></source>
-        <target><![CDATA[Свати]]></target>
-      </trans-unit>
-      <trans-unit id="152" approved="yes">
-        <source><![CDATA[Swedish]]></source>
-        <target><![CDATA[шведский]]></target>
-      </trans-unit>
-      <trans-unit id="153" approved="yes">
-        <source><![CDATA[Tagalog]]></source>
-        <target><![CDATA[тагальского]]></target>
-      </trans-unit>
-      <trans-unit id="154" approved="yes">
-        <source><![CDATA[Tahitian]]></source>
-        <target><![CDATA[Таитянская]]></target>
-      </trans-unit>
-      <trans-unit id="155" approved="yes">
-        <source><![CDATA[Tajik]]></source>
-        <target><![CDATA[таджикский]]></target>
-      </trans-unit>
-      <trans-unit id="156" approved="yes">
-        <source><![CDATA[Tamil]]></source>
-        <target><![CDATA[тамильский]]></target>
-      </trans-unit>
-      <trans-unit id="157" approved="yes">
-        <source><![CDATA[Tatar]]></source>
-        <target><![CDATA[татарин]]></target>
-      </trans-unit>
-      <trans-unit id="158" approved="yes">
-        <source><![CDATA[Telugu]]></source>
-        <target><![CDATA[телугу]]></target>
-      </trans-unit>
-      <trans-unit id="159" approved="yes">
-        <source><![CDATA[Thai]]></source>
-        <target><![CDATA[тайский]]></target>
-      </trans-unit>
-      <trans-unit id="160" approved="yes">
-        <source><![CDATA[Tibetan]]></source>
-        <target><![CDATA[тибетский]]></target>
-      </trans-unit>
-      <trans-unit id="161" approved="yes">
-        <source><![CDATA[Tigrinya]]></source>
-        <target><![CDATA[тигринья]]></target>
-      </trans-unit>
-      <trans-unit id="162" approved="yes">
-        <source><![CDATA[Tonga (Tonga Islands)]]></source>
-        <target><![CDATA[Тонга (Острова Тонга)]]></target>
-      </trans-unit>
-      <trans-unit id="163" approved="yes">
-        <source><![CDATA[Tsonga]]></source>
-        <target><![CDATA[Тсонга]]></target>
-      </trans-unit>
-      <trans-unit id="164" approved="yes">
-        <source><![CDATA[Tswana]]></source>
-        <target><![CDATA[Тсвана]]></target>
-      </trans-unit>
-      <trans-unit id="165" approved="yes">
-        <source><![CDATA[Turkish]]></source>
-        <target><![CDATA[турецкий]]></target>
-      </trans-unit>
-      <trans-unit id="166" approved="yes">
-        <source><![CDATA[Turkmen]]></source>
-        <target><![CDATA[туркменский]]></target>
-      </trans-unit>
-      <trans-unit id="167" approved="yes">
-        <source><![CDATA[Twi]]></source>
-        <target><![CDATA[Twi]]></target>
-      </trans-unit>
-      <trans-unit id="168" approved="yes">
-        <source><![CDATA[Ukrainian]]></source>
-        <target><![CDATA[Украинский]]></target>
-      </trans-unit>
-      <trans-unit id="169" approved="yes">
-        <source><![CDATA[Urdu]]></source>
-        <target><![CDATA[Урду]]></target>
-      </trans-unit>
-      <trans-unit id="170" approved="yes">
-        <source><![CDATA[Uyghur]]></source>
-        <target><![CDATA[Уйгурский]]></target>
-      </trans-unit>
-      <trans-unit id="171" approved="yes">
-        <source><![CDATA[Uzbek]]></source>
-        <target><![CDATA[узбек]]></target>
-      </trans-unit>
-      <trans-unit id="172" approved="yes">
-        <source><![CDATA[Venda]]></source>
-        <target><![CDATA[Венда]]></target>
-      </trans-unit>
-      <trans-unit id="173" approved="yes">
-        <source><![CDATA[Vietnamese]]></source>
-        <target><![CDATA[вьетнамский]]></target>
-      </trans-unit>
-      <trans-unit id="174" approved="yes">
-        <source><![CDATA[Volapük]]></source>
-        <target><![CDATA[Volapük]]></target>
-      </trans-unit>
-      <trans-unit id="175" approved="yes">
-        <source><![CDATA[Walloon]]></source>
-        <target><![CDATA[валлонский]]></target>
-      </trans-unit>
-      <trans-unit id="176" approved="yes">
-        <source><![CDATA[Welsh]]></source>
-        <target><![CDATA[валлийский]]></target>
-      </trans-unit>
-      <trans-unit id="177" approved="yes">
-        <source><![CDATA[Western Frisian]]></source>
-        <target><![CDATA[фризский]]></target>
-      </trans-unit>
-      <trans-unit id="178" approved="yes">
-        <source><![CDATA[Wolof]]></source>
-        <target><![CDATA[Волоф]]></target>
-      </trans-unit>
-      <trans-unit id="179" approved="yes">
-        <source><![CDATA[Xhosa]]></source>
-        <target><![CDATA[Коса]]></target>
-      </trans-unit>
-      <trans-unit id="180" approved="yes">
-        <source><![CDATA[Yiddish]]></source>
-        <target><![CDATA[идиш]]></target>
-      </trans-unit>
-      <trans-unit id="181" approved="yes">
-        <source><![CDATA[Yoruba]]></source>
-        <target><![CDATA[йоруба]]></target>
-      </trans-unit>
-      <trans-unit id="182" approved="yes">
-        <source><![CDATA[Zhuang]]></source>
-        <target><![CDATA[Чжуан]]></target>
-      </trans-unit>
-      <trans-unit id="183" approved="yes">
-        <source><![CDATA[Zulu]]></source>
-        <target><![CDATA[зулусский]]></target>
+      <trans-unit id="dd43cea2c41a54cc65368193e2343bf9" resname="Akan">
+        <source>Akan</source>
+        <target>Акан</target>
+      </trans-unit>
+      <trans-unit id="a716b6a3e8cf5994165d64d712db61d8" resname="Albanian">
+        <source>Albanian</source>
+        <target>албанский</target>
+      </trans-unit>
+      <trans-unit id="2822b8f5aac2191afe534140a6629eea" resname="Amharic">
+        <source>Amharic</source>
+        <target>амхарский</target>
+      </trans-unit>
+      <trans-unit id="272ccb8592bafde0baf1dedce0fd3ac2" resname="Arabic">
+        <source>Arabic</source>
+        <target>арабский</target>
+      </trans-unit>
+      <trans-unit id="9d73d9e6ed72ae2f0571565df39f734b" resname="Aragonese">
+        <source>Aragonese</source>
+        <target>арагонский</target>
+      </trans-unit>
+      <trans-unit id="b397edd35777a9f6036119e6ced96ff6" resname="Armenian">
+        <source>Armenian</source>
+        <target>армянский</target>
+      </trans-unit>
+      <trans-unit id="7e832a2236372b3ac5e030c551d90bab" resname="Assamese">
+        <source>Assamese</source>
+        <target>Ассамский</target>
+      </trans-unit>
+      <trans-unit id="77505e62bcfa97766a1881c8cdde2d2c" resname="Avaric">
+        <source>Avaric</source>
+        <target>аварский</target>
+      </trans-unit>
+      <trans-unit id="4599c0da808fe367966b8dd8c092f987" resname="Avestan">
+        <source>Avestan</source>
+        <target>Авестийский</target>
+      </trans-unit>
+      <trans-unit id="fd46bbc3c5ec0bc8f6b071e8581ac381" resname="Aymara">
+        <source>Aymara</source>
+        <target>аймара</target>
+      </trans-unit>
+      <trans-unit id="9f3356b27d0a76cb5f0ceea9e80a6e72" resname="Azerbaijani">
+        <source>Azerbaijani</source>
+        <target>азербайджанец</target>
+      </trans-unit>
+      <trans-unit id="832739b23245aa7a7a10df7f9c7f6c50" resname="Bambara">
+        <source>Bambara</source>
+        <target>Бамбара</target>
+      </trans-unit>
+      <trans-unit id="634e2c69edef2f7a8b287ffe57bffd2d" resname="Bashkir">
+        <source>Bashkir</source>
+        <target>башкирский</target>
+      </trans-unit>
+      <trans-unit id="a8a890709b5828879edc68e65a938695" resname="Basque">
+        <source>Basque</source>
+        <target>баскский</target>
+      </trans-unit>
+      <trans-unit id="0a6de4460095f398e8a45ed512a7538f" resname="Belarusian">
+        <source>Belarusian</source>
+        <target>Белорусский</target>
+      </trans-unit>
+      <trans-unit id="a56dcb8443c25f8e14b47b8ff1748331" resname="Bengali">
+        <source>Bengali</source>
+        <target>бенгальский</target>
+      </trans-unit>
+      <trans-unit id="1d1b2ab97dea8298f05b4cc629b3c644" resname="Bihari languages">
+        <source>Bihari languages</source>
+        <target>бихари языки</target>
+      </trans-unit>
+      <trans-unit id="ad5b3d938c9d00ed73c802be17c40e4e" resname="Bislama">
+        <source>Bislama</source>
+        <target>Бислама</target>
+      </trans-unit>
+      <trans-unit id="f4bfde733a0e7dc8decbe2a42c051cce" resname="Bokmål, Norwegian">
+        <source>Bokmål, Norwegian</source>
+        <target>Букмол, норвежский</target>
+      </trans-unit>
+      <trans-unit id="9dea74f01b9e3ee9ebd867ad7b2d2d18" resname="Bosnian">
+        <source>Bosnian</source>
+        <target>боснийский</target>
+      </trans-unit>
+      <trans-unit id="eb2f428f5c2030a6f8e14ac7e8dd1eca" resname="Breton">
+        <source>Breton</source>
+        <target>бретонский</target>
+      </trans-unit>
+      <trans-unit id="60bb3bcc6ff535428a38f76f1059b2d2" resname="Bulgarian">
+        <source>Bulgarian</source>
+        <target>болгарский</target>
+      </trans-unit>
+      <trans-unit id="c98e06a00f05511df3d6f2cfd610cb70" resname="Burmese">
+        <source>Burmese</source>
+        <target>бирманский</target>
+      </trans-unit>
+      <trans-unit id="900a14b115614d9d4d1c47f1d3a3251b" resname="Catalan">
+        <source>Catalan</source>
+        <target>каталонский</target>
+      </trans-unit>
+      <trans-unit id="392c9dc0bdf384fa435396416f7e16fc" resname="Central Khmer">
+        <source>Central Khmer</source>
+        <target>Центральный кхмерской</target>
+      </trans-unit>
+      <trans-unit id="bc01ab1666e21f8a2eb788936e012802" resname="Chamorro">
+        <source>Chamorro</source>
+        <target>Чаморро</target>
+      </trans-unit>
+      <trans-unit id="427dff9dd11567bf97025b6d8e839b27" resname="Chechen">
+        <source>Chechen</source>
+        <target>чеченец</target>
+      </trans-unit>
+      <trans-unit id="9779239dc33a5fcb97730b8be66c1f59" resname="Chewa">
+        <source>Chewa</source>
+        <target>Chewa</target>
+      </trans-unit>
+      <trans-unit id="3b261136e3c33f35e0a58611b1f344cb" resname="Chinese">
+        <source>Chinese</source>
+        <target>Китайский</target>
+      </trans-unit>
+      <trans-unit id="1dee6da6371769cbbb225d8b871dfa89" resname="Chuvash">
+        <source>Chuvash</source>
+        <target>чувашский</target>
+      </trans-unit>
+      <trans-unit id="8245cd7e00de3b2bce93df68364edf46" resname="Cornish">
+        <source>Cornish</source>
+        <target>корнуоллский</target>
+      </trans-unit>
+      <trans-unit id="9b73be92c05e1acec51c6ceba2950291" resname="Corsican">
+        <source>Corsican</source>
+        <target>корсиканец</target>
+      </trans-unit>
+      <trans-unit id="83d340eae0f70cb8fa851fdc310c1bc6" resname="Cree">
+        <source>Cree</source>
+        <target>кри</target>
+      </trans-unit>
+      <trans-unit id="0c1be09bad2acaa2fa315b88abda8a32" resname="Croatian">
+        <source>Croatian</source>
+        <target>хорватский</target>
+      </trans-unit>
+      <trans-unit id="83ff4480cdf2900ae83bf30d95774d76" resname="Czech">
+        <source>Czech</source>
+        <target>Чешский</target>
+      </trans-unit>
+      <trans-unit id="7bc6f150ce738db3d21cbe0b75aea027" resname="Danish">
+        <source>Danish</source>
+        <target>датский</target>
+      </trans-unit>
+      <trans-unit id="218acefdfaa56741527763c1cb0418f8" resname="Dhivehi">
+        <source>Dhivehi</source>
+        <target>дивехи</target>
+      </trans-unit>
+      <trans-unit id="68bf367e228f45ba83cb8831a5ee6447" resname="Dutch">
+        <source>Dutch</source>
+        <target>Голландский</target>
+      </trans-unit>
+      <trans-unit id="6bf09989b4d3fc435fe14794368f31e5" resname="Dzongkha">
+        <source>Dzongkha</source>
+        <target>Dzongkha</target>
+      </trans-unit>
+      <trans-unit id="78463a384a5aa4fad5fa73e2f506ecfc" resname="English">
+        <source>English</source>
+        <target>английский</target>
+      </trans-unit>
+      <trans-unit id="8981940c0815701fe27adcb03f31a44c" resname="Esperanto">
+        <source>Esperanto</source>
+        <target>эсперанто</target>
+      </trans-unit>
+      <trans-unit id="28916fc3da67a5190b2b98a7f309857f" resname="Estonian">
+        <source>Estonian</source>
+        <target>эстонский</target>
+      </trans-unit>
+      <trans-unit id="2956bc4755856d0f9242091da155e530" resname="Ewe">
+        <source>Ewe</source>
+        <target>овца</target>
+      </trans-unit>
+      <trans-unit id="b4c028653fbdc8076824f8a41dbe25fe" resname="Faroese">
+        <source>Faroese</source>
+        <target>Фарерская</target>
+      </trans-unit>
+      <trans-unit id="bcdc06955171123cd8b2b2f832d5cbba" resname="Fijian">
+        <source>Fijian</source>
+        <target>Фиджийский</target>
+      </trans-unit>
+      <trans-unit id="9ae099fd082267fa2f2f85664a4f74dc" resname="Finnish">
+        <source>Finnish</source>
+        <target>финский</target>
+      </trans-unit>
+      <trans-unit id="ad225f707802ba118c22987186dd38e8" resname="French">
+        <source>French</source>
+        <target>Французский</target>
+      </trans-unit>
+      <trans-unit id="bef40fcd0150970cbb04179a42e04950" resname="Fulah">
+        <source>Fulah</source>
+        <target>фулах</target>
+      </trans-unit>
+      <trans-unit id="d9d944f7d97b68e4d4ffc6c6dc1ca942" resname="Gaelic">
+        <source>Gaelic</source>
+        <target>гаэльский</target>
+      </trans-unit>
+      <trans-unit id="516a623325ded756f29f124618baabbc" resname="Galician">
+        <source>Galician</source>
+        <target>Галицкая</target>
+      </trans-unit>
+      <trans-unit id="5b69f163a7ecd2ac558880c49e555eeb" resname="Ganda">
+        <source>Ganda</source>
+        <target>Ganda</target>
+      </trans-unit>
+      <trans-unit id="adc0753d37641ed117f7b999a0ae79a0" resname="Georgian">
+        <source>Georgian</source>
+        <target>грузинский</target>
+      </trans-unit>
+      <trans-unit id="86bc3115eb4e9873ac96904a4a68e19e" resname="German">
+        <source>German</source>
+        <target>Немецкий</target>
+      </trans-unit>
+      <trans-unit id="434651c4fd30d403e3f97ce9c0e8d883" resname="Greek, Modern (1453-)">
+        <source>Greek, Modern (1453-)</source>
+        <target>Греческая, Современная (1453-)</target>
+      </trans-unit>
+      <trans-unit id="1716eb61ffb00fa0d25740da1fff401f" resname="Greenlandic">
+        <source>Greenlandic</source>
+        <target>гренландский</target>
+      </trans-unit>
+      <trans-unit id="ee3432876af418b80741fdc6d3b99845" resname="Guarani">
+        <source>Guarani</source>
+        <target>Гуарани</target>
+      </trans-unit>
+      <trans-unit id="d1a59333c7e56205fed9bda9da34b201" resname="Gujarati">
+        <source>Gujarati</source>
+        <target>гуджарати</target>
+      </trans-unit>
+      <trans-unit id="da2d3f72de149d2e0030b9bfcb75acd6" resname="Haitian">
+        <source>Haitian</source>
+        <target>гаитянский</target>
+      </trans-unit>
+      <trans-unit id="7593d697bfa3e798e23becb86cbf3503" resname="Hausa">
+        <source>Hausa</source>
+        <target>хауса</target>
+      </trans-unit>
+      <trans-unit id="c6c1f81a46666385fa7d85df7eaf8763" resname="Hebrew">
+        <source>Hebrew</source>
+        <target>иврит</target>
+      </trans-unit>
+      <trans-unit id="041e89349138f8d55b189d8be3f811b7" resname="Herero">
+        <source>Herero</source>
+        <target>гереро</target>
+      </trans-unit>
+      <trans-unit id="45c3171ef193c74b402f407fba9d955b" resname="Hindi">
+        <source>Hindi</source>
+        <target>хинди</target>
+      </trans-unit>
+      <trans-unit id="c674af6ce6bafcd4bb82a2f0e6321858" resname="Hiri Motu">
+        <source>Hiri Motu</source>
+        <target>Хири Моту</target>
+      </trans-unit>
+      <trans-unit id="7b86112ec6401fd8f06ab5251d1a68fe" resname="Hungarian">
+        <source>Hungarian</source>
+        <target>Венгерский</target>
+      </trans-unit>
+      <trans-unit id="4c545ca25c8a34a533be19e7a1c44a79" resname="Icelandic">
+        <source>Icelandic</source>
+        <target>исландский</target>
+      </trans-unit>
+      <trans-unit id="c5a448bee702572eecd8f5cb81576e85" resname="Ido">
+        <source>Ido</source>
+        <target>Я делаю</target>
+      </trans-unit>
+      <trans-unit id="c555b579aa262e92dbdf0fed7f7638ee" resname="Igbo">
+        <source>Igbo</source>
+        <target>игбо</target>
+      </trans-unit>
+      <trans-unit id="cc1c9b57607b4439578b68074a5e2d80" resname="Indonesian">
+        <source>Indonesian</source>
+        <target>индонезийский</target>
+      </trans-unit>
+      <trans-unit id="cc2101cb2bbb5ee76b832c2b1cb7cb5f" resname="Interlingua (International Auxiliary Language Association)">
+        <source>Interlingua (International Auxiliary Language Association)</source>
+        <target>Интерлингва (Международная ассоциация вспомогательного языка)</target>
+      </trans-unit>
+      <trans-unit id="3be898f3f28c2fbaed9d525c453615b4" resname="Inuktitut">
+        <source>Inuktitut</source>
+        <target>Инуктитут</target>
+      </trans-unit>
+      <trans-unit id="8aeb37077d17be7976a94af8c2584723" resname="Inupiaq">
+        <source>Inupiaq</source>
+        <target>Инупиак</target>
+      </trans-unit>
+      <trans-unit id="2cfce796f4703d560ae1c3a1b3fb7e74" resname="Irish">
+        <source>Irish</source>
+        <target>ирландский</target>
+      </trans-unit>
+      <trans-unit id="4be8e06d27bca7e1828f2fa9a49ca985" resname="Italian">
+        <source>Italian</source>
+        <target>итальянский</target>
+      </trans-unit>
+      <trans-unit id="f32ced6a9ba164c4b3c047fd1d7c882e" resname="Japanese">
+        <source>Japanese</source>
+        <target>Японский</target>
+      </trans-unit>
+      <trans-unit id="7d94af6dccead2736bd1d456ba3c750a" resname="Javanese">
+        <source>Javanese</source>
+        <target>яванский</target>
+      </trans-unit>
+      <trans-unit id="6b511fdce48a74274a35e3365e36230c" resname="Kannada">
+        <source>Kannada</source>
+        <target>каннады</target>
+      </trans-unit>
+      <trans-unit id="552cfb777a66220ca896655f2282e116" resname="Kanuri">
+        <source>Kanuri</source>
+        <target>канури</target>
+      </trans-unit>
+      <trans-unit id="2fc10ff987c277fc4fd5f440dd8263ab" resname="Kashmiri">
+        <source>Kashmiri</source>
+        <target>Кашмири</target>
+      </trans-unit>
+      <trans-unit id="d05ae627fcc808e7df1ee341c3d5cbc2" resname="Kazakh">
+        <source>Kazakh</source>
+        <target>казахский</target>
+      </trans-unit>
+      <trans-unit id="7b59a385670fd9cd194031c5b0514340" resname="Kikuyu">
+        <source>Kikuyu</source>
+        <target>кикуйю</target>
+      </trans-unit>
+      <trans-unit id="e4875932c8cf3d2b423234a1d35b15e0" resname="Kinyarwanda">
+        <source>Kinyarwanda</source>
+        <target>киньяруанда</target>
+      </trans-unit>
+      <trans-unit id="fc9b189b45defb540a7189c488b59928" resname="Komi">
+        <source>Komi</source>
+        <target>Коми</target>
+      </trans-unit>
+      <trans-unit id="fcd182238eec56f52948dac946936147" resname="Kongo">
+        <source>Kongo</source>
+        <target>Kongo</target>
+      </trans-unit>
+      <trans-unit id="d0bdb3cde477d82e766da05ebda50ccb" resname="Korean">
+        <source>Korean</source>
+        <target>Корейский</target>
+      </trans-unit>
+      <trans-unit id="f33ec0f981dd9410e1e0ebc9da2c4b5e" resname="Kurdish">
+        <source>Kurdish</source>
+        <target>курдский</target>
+      </trans-unit>
+      <trans-unit id="2a3e0c2aed31b87de2560a54812267d8" resname="Kwanyama">
+        <source>Kwanyama</source>
+        <target>Kwanyama</target>
+      </trans-unit>
+      <trans-unit id="712a3d4ac894f0e98dd8febc5e17ab97" resname="Kyrgyz">
+        <source>Kyrgyz</source>
+        <target>киргизский</target>
+      </trans-unit>
+      <trans-unit id="d8fd56d3ba0672de0f6625bfb1b4ca7b" resname="Lao">
+        <source>Lao</source>
+        <target>Лао</target>
+      </trans-unit>
+      <trans-unit id="7280578e6a45fd916ed9431425289c9e" resname="Latin">
+        <source>Latin</source>
+        <target>латинский</target>
+      </trans-unit>
+      <trans-unit id="76ad0358e45dd4087c0a26bbf4c160e3" resname="Latvian">
+        <source>Latvian</source>
+        <target>Латышский</target>
+      </trans-unit>
+      <trans-unit id="84178d23639fe1857b62d6a9b8e78c7c" resname="Limburgish">
+        <source>Limburgish</source>
+        <target>Лимбургский</target>
+      </trans-unit>
+      <trans-unit id="d341106c434cc0c07c14eedca7822975" resname="Lingala">
+        <source>Lingala</source>
+        <target>Лингала</target>
+      </trans-unit>
+      <trans-unit id="04f605836f660d879bf3fb2b3643d16b" resname="Lithuanian">
+        <source>Lithuanian</source>
+        <target>Литовский</target>
+      </trans-unit>
+      <trans-unit id="fe6bf4d969efb1539b9a1eef0dfbb1b0" resname="Luba-Katanga">
+        <source>Luba-Katanga</source>
+        <target>Любе-Катанга</target>
+      </trans-unit>
+      <trans-unit id="c0b9b1fdf1a21bf34ba8467790496b0e" resname="Luxembourgish">
+        <source>Luxembourgish</source>
+        <target>люксембургский</target>
+      </trans-unit>
+      <trans-unit id="c1e1b1f8bdaab4b0fc183e147887e0e1" resname="Macedonian">
+        <source>Macedonian</source>
+        <target>македонский</target>
+      </trans-unit>
+      <trans-unit id="000f64bbdbbb74aca4355df9f3cfad78" resname="Malagasy">
+        <source>Malagasy</source>
+        <target>малагасиец</target>
+      </trans-unit>
+      <trans-unit id="fc179207920005b7dca85323ceacf5eb" resname="Malay">
+        <source>Malay</source>
+        <target>малайский</target>
+      </trans-unit>
+      <trans-unit id="f9b5a275bc456b62ad13e4a537f62a3b" resname="Malayalam">
+        <source>Malayalam</source>
+        <target>Малайялам</target>
+      </trans-unit>
+      <trans-unit id="4d0c1117e593a084406068a55ab227b9" resname="Maltese">
+        <source>Maltese</source>
+        <target>мальтийский</target>
+      </trans-unit>
+      <trans-unit id="2db26cf0709cd8913e9e13e8be3713bd" resname="Manx">
+        <source>Manx</source>
+        <target>с острова Мэн</target>
+      </trans-unit>
+      <trans-unit id="9c751c711ebc5775246f80308ef4d56e" resname="Maori">
+        <source>Maori</source>
+        <target>маори</target>
+      </trans-unit>
+      <trans-unit id="529b1c6eafff3f34bcda64708f72586d" resname="Marathi">
+        <source>Marathi</source>
+        <target>Marathi</target>
+      </trans-unit>
+      <trans-unit id="d6c55299c38c62e6ad6a2e41c1288010" resname="Marshallese">
+        <source>Marshallese</source>
+        <target>маршалльский</target>
+      </trans-unit>
+      <trans-unit id="28c84f05dbc521ffa52220ce03b16356" resname="Mongolian">
+        <source>Mongolian</source>
+        <target>монгольский</target>
+      </trans-unit>
+      <trans-unit id="d0c5ab6bebe308a495693e990a2947bc" resname="Nauru">
+        <source>Nauru</source>
+        <target>Науру</target>
+      </trans-unit>
+      <trans-unit id="504405fb03fe7519a14a6d2ce11000fa" resname="Navajo">
+        <source>Navajo</source>
+        <target>навахо</target>
+      </trans-unit>
+      <trans-unit id="0608f67aebfdcb9be804e0296c40d94d" resname="Ndebele, North">
+        <source>Ndebele, North</source>
+        <target>Ндебеле, Северная</target>
+      </trans-unit>
+      <trans-unit id="92d681f5ab8bbe72e34f0a24516b520f" resname="Ndebele, South">
+        <source>Ndebele, South</source>
+        <target>Ндебеле, Южная</target>
+      </trans-unit>
+      <trans-unit id="4870d99754638426e831cd535dfaa41a" resname="Ndonga">
+        <source>Ndonga</source>
+        <target>Ndonga</target>
+      </trans-unit>
+      <trans-unit id="2f53f077d39632f0b325d5eabfc8798b" resname="Nepali">
+        <source>Nepali</source>
+        <target>непальский</target>
+      </trans-unit>
+      <trans-unit id="62e7f91b9ad864149650c644aee5bae7" resname="Northern Sami">
+        <source>Northern Sami</source>
+        <target>Северный Сами</target>
+      </trans-unit>
+      <trans-unit id="da550ca06bcacbd30b7c6ed32c864c70" resname="Norwegian">
+        <source>Norwegian</source>
+        <target>Норвежский</target>
+      </trans-unit>
+      <trans-unit id="f8080ef02378c91228fb66c66fbcfdfc" resname="Nuosu">
+        <source>Nuosu</source>
+        <target>Nuosu</target>
+      </trans-unit>
+      <trans-unit id="ae55a82a17a867f95098e2aecccbd6ad" resname="Nynorsk, Norwegian">
+        <source>Nynorsk, Norwegian</source>
+        <target>Нюнорск, Норвежский</target>
+      </trans-unit>
+      <trans-unit id="72fe061ca4fdabb5b511a54eecf4d592" resname="Occidental">
+        <source>Occidental</source>
+        <target>западный</target>
+      </trans-unit>
+      <trans-unit id="0b37922f5fca37aba3b28bb0f9189f16" resname="Occitan (post 1500)">
+        <source>Occitan (post 1500)</source>
+        <target>Окситанском (пост 1500)</target>
+      </trans-unit>
+      <trans-unit id="cdfac88afad6a244b5a4d6d3ff80e434" resname="Ojibwa">
+        <source>Ojibwa</source>
+        <target>оджибва</target>
+      </trans-unit>
+      <trans-unit id="aa1fbe577ecc29ca7b970d4151dfe682" resname="Oriya">
+        <source>Oriya</source>
+        <target>Ория</target>
+      </trans-unit>
+      <trans-unit id="57984441655728dfe9c7cc33e12dfa4c" resname="Oromo">
+        <source>Oromo</source>
+        <target>Оромо</target>
+      </trans-unit>
+      <trans-unit id="604e9f0ba244d42d5f2680c5206ea4a6" resname="Ossetian">
+        <source>Ossetian</source>
+        <target>осетинский</target>
+      </trans-unit>
+      <trans-unit id="5b6423b0b87bc8f03d2d0a8dae24bd5e" resname="Pali">
+        <source>Pali</source>
+        <target>пали</target>
+      </trans-unit>
+      <trans-unit id="7644701ba4a49efc8d457334dd1480cf" resname="Pashto">
+        <source>Pashto</source>
+        <target>пушту</target>
+      </trans-unit>
+      <trans-unit id="8032c149d0e48ad38ef6b60289f910cd" resname="Persian">
+        <source>Persian</source>
+        <target>персидский</target>
+      </trans-unit>
+      <trans-unit id="c730389bc8d99e59c867766babdd48b5" resname="Polish">
+        <source>Polish</source>
+        <target>полировать</target>
+      </trans-unit>
+      <trans-unit id="30e32c7c4cf434e9c75e60c14c442541" resname="Portuguese">
+        <source>Portuguese</source>
+        <target>португальский</target>
+      </trans-unit>
+      <trans-unit id="bbc0294ce6177b932fad9c75af2b8563" resname="Punjabi">
+        <source>Punjabi</source>
+        <target>панджаби</target>
+      </trans-unit>
+      <trans-unit id="050dc5fb2cedf3eef3310a88820ecaa0" resname="Quechua">
+        <source>Quechua</source>
+        <target>кечуа</target>
+      </trans-unit>
+      <trans-unit id="efa7394ecaa7fc7076a9da13a77236b8" resname="Romanian">
+        <source>Romanian</source>
+        <target>румынский</target>
+      </trans-unit>
+      <trans-unit id="88c2cd3ecbb09b23c456ba8b33dfd266" resname="Romansh">
+        <source>Romansh</source>
+        <target>ретороманский диалект</target>
+      </trans-unit>
+      <trans-unit id="899f2e4cfae66e109ed82951bef7db4d" resname="Rundi">
+        <source>Rundi</source>
+        <target>Рунди</target>
+      </trans-unit>
+      <trans-unit id="deba6920e70615401385fe1fb5a379ec" resname="Russian">
+        <source>Russian</source>
+        <target>русский</target>
+      </trans-unit>
+      <trans-unit id="5063c7873b7d6f9fbbfd89fe217bf2b5" resname="Samoan">
+        <source>Samoan</source>
+        <target>Самоанский</target>
+      </trans-unit>
+      <trans-unit id="2be9826293671eef6f842a2f59cfd07a" resname="Sango">
+        <source>Sango</source>
+        <target>Санго</target>
+      </trans-unit>
+      <trans-unit id="4037f77713990c867a3c53066fbc4dd0" resname="Sanskrit">
+        <source>Sanskrit</source>
+        <target>санскрит</target>
+      </trans-unit>
+      <trans-unit id="0fa80b689964bcb88c0ca1ac09197c8c" resname="Sardinian">
+        <source>Sardinian</source>
+        <target>сардинец</target>
+      </trans-unit>
+      <trans-unit id="055301c56abc82dd3a81ea3810ad0599" resname="Serbian">
+        <source>Serbian</source>
+        <target>сербский</target>
+      </trans-unit>
+      <trans-unit id="6cd16662548644fb2621f46c01701334" resname="Shona">
+        <source>Shona</source>
+        <target>Shona</target>
+      </trans-unit>
+      <trans-unit id="ff36f09ce3d926b3772948a4f72144dd" resname="Sindhi">
+        <source>Sindhi</source>
+        <target>Sindhi</target>
+      </trans-unit>
+      <trans-unit id="d8be732622a4932cc914e5da766f0fb0" resname="Sinhalese">
+        <source>Sinhalese</source>
+        <target>сингалец</target>
+      </trans-unit>
+      <trans-unit id="9accc467b159e7ce158e53209c0cde2a" resname="Slovak">
+        <source>Slovak</source>
+        <target>словацкий</target>
+      </trans-unit>
+      <trans-unit id="6e9970eac6ca16e34a8eac50070c49ce" resname="Slovenian">
+        <source>Slovenian</source>
+        <target>словенский</target>
+      </trans-unit>
+      <trans-unit id="0b104da57394974764cc7b3a42f2c1de" resname="Somali">
+        <source>Somali</source>
+        <target>сомалийский</target>
+      </trans-unit>
+      <trans-unit id="e95b1b017dc81382a80af8a183449507" resname="Sotho, Southern">
+        <source>Sotho, Southern</source>
+        <target>Сото, Южный</target>
+      </trans-unit>
+      <trans-unit id="cb5480c32e71778852b08ae1e8712775" resname="Spanish">
+        <source>Spanish</source>
+        <target>испанский</target>
+      </trans-unit>
+      <trans-unit id="3f43ba0705bf771ea5d74a7a2e8b40c0" resname="Sundanese">
+        <source>Sundanese</source>
+        <target>Суданский</target>
+      </trans-unit>
+      <trans-unit id="9af95fb4ee44dce25961e7251072625b" resname="Swahili">
+        <source>Swahili</source>
+        <target>суахили</target>
+      </trans-unit>
+      <trans-unit id="d67909555c4787371a8ca949769e0ec4" resname="Swati">
+        <source>Swati</source>
+        <target>Свати</target>
+      </trans-unit>
+      <trans-unit id="41171a0fcd362ce98b5f0f11398713b6" resname="Swedish">
+        <source>Swedish</source>
+        <target>шведский</target>
+      </trans-unit>
+      <trans-unit id="fee973126d42389ac96082e9ca6961fa" resname="Tagalog">
+        <source>Tagalog</source>
+        <target>тагальского</target>
+      </trans-unit>
+      <trans-unit id="7e724a2ded81c257d771f8fe494f71f6" resname="Tahitian">
+        <source>Tahitian</source>
+        <target>Таитянская</target>
+      </trans-unit>
+      <trans-unit id="944c84bfafb071ea7f357c4f23cddf53" resname="Tajik">
+        <source>Tajik</source>
+        <target>таджикский</target>
+      </trans-unit>
+      <trans-unit id="f0670813020969b39ff8d85744b40400" resname="Tamil">
+        <source>Tamil</source>
+        <target>тамильский</target>
+      </trans-unit>
+      <trans-unit id="4c86bbde578e3648fa0b12aea66fc5f6" resname="Tatar">
+        <source>Tatar</source>
+        <target>татарин</target>
+      </trans-unit>
+      <trans-unit id="15b88a88e6cf16a4462c1562fdcb0c19" resname="Telugu">
+        <source>Telugu</source>
+        <target>телугу</target>
+      </trans-unit>
+      <trans-unit id="43ddc789bcea4177a14791f6c9a03b28" resname="Thai">
+        <source>Thai</source>
+        <target>тайский</target>
+      </trans-unit>
+      <trans-unit id="a441f933e0026f55ccff38b534f98a53" resname="Tibetan">
+        <source>Tibetan</source>
+        <target>тибетский</target>
+      </trans-unit>
+      <trans-unit id="dea54a29be92f8749275fae518b01457" resname="Tigrinya">
+        <source>Tigrinya</source>
+        <target>тигринья</target>
+      </trans-unit>
+      <trans-unit id="e0bc315461308db14c27f61a447ffb51" resname="Tonga (Tonga Islands)">
+        <source>Tonga (Tonga Islands)</source>
+        <target>Тонга (Острова Тонга)</target>
+      </trans-unit>
+      <trans-unit id="d634f58fd91b60c8615360fb2075bd03" resname="Tsonga">
+        <source>Tsonga</source>
+        <target>Тсонга</target>
+      </trans-unit>
+      <trans-unit id="d6cffba6050900b4f2d16f8e3b031476" resname="Tswana">
+        <source>Tswana</source>
+        <target>Тсвана</target>
+      </trans-unit>
+      <trans-unit id="c1612bbdebfa45467e8ab814e08daff1" resname="Turkish">
+        <source>Turkish</source>
+        <target>турецкий</target>
+      </trans-unit>
+      <trans-unit id="6f1211929eb30a88188af058eb7dbcfb" resname="Turkmen">
+        <source>Turkmen</source>
+        <target>туркменский</target>
+      </trans-unit>
+      <trans-unit id="90cf2eaa63dbb0b6796c87dc3d4d7d75" resname="Twi">
+        <source>Twi</source>
+        <target>Twi</target>
+      </trans-unit>
+      <trans-unit id="e78a6fc14ad64f7a78386b20568ce95b" resname="Ukrainian">
+        <source>Ukrainian</source>
+        <target>Украинский</target>
+      </trans-unit>
+      <trans-unit id="f8aa4393427c2f2fd010f7adc5812517" resname="Urdu">
+        <source>Urdu</source>
+        <target>Урду</target>
+      </trans-unit>
+      <trans-unit id="bfd53933a237c0a8fcaf96f998036ff6" resname="Uyghur">
+        <source>Uyghur</source>
+        <target>Уйгурский</target>
+      </trans-unit>
+      <trans-unit id="ca20f547f2f65dbf6d23b0395419dd43" resname="Uzbek">
+        <source>Uzbek</source>
+        <target>узбек</target>
+      </trans-unit>
+      <trans-unit id="78df616ab31e95ee46c6a519a2ce9e12" resname="Venda">
+        <source>Venda</source>
+        <target>Венда</target>
+      </trans-unit>
+      <trans-unit id="7b80fae85640c16cdb0261bef0c27636" resname="Vietnamese">
+        <source>Vietnamese</source>
+        <target>вьетнамский</target>
+      </trans-unit>
+      <trans-unit id="1d87118a9185b0a7e73eac4e26191313" resname="Volapük">
+        <source>Volapük</source>
+        <target>Volapük</target>
+      </trans-unit>
+      <trans-unit id="dee445b5f2566bcb8ee3ee19e4d8f1bc" resname="Walloon">
+        <source>Walloon</source>
+        <target>валлонский</target>
+      </trans-unit>
+      <trans-unit id="bbb0fa49b525c4264f4ad7a06adc3e07" resname="Welsh">
+        <source>Welsh</source>
+        <target>валлийский</target>
+      </trans-unit>
+      <trans-unit id="b3bd9cce35841fd85e13b484154ec84f" resname="Western Frisian">
+        <source>Western Frisian</source>
+        <target>фризский</target>
+      </trans-unit>
+      <trans-unit id="410d89e3c3647c6332d7412d2d46ef69" resname="Wolof">
+        <source>Wolof</source>
+        <target>Волоф</target>
+      </trans-unit>
+      <trans-unit id="66ab19a0e3494a5be5598b106d98d651" resname="Xhosa">
+        <source>Xhosa</source>
+        <target>Коса</target>
+      </trans-unit>
+      <trans-unit id="6d49a35951ace13a6294548e5137157f" resname="Yiddish">
+        <source>Yiddish</source>
+        <target>идиш</target>
+      </trans-unit>
+      <trans-unit id="ce9ff4c0410d35afbc2206ab23c8759d" resname="Yoruba">
+        <source>Yoruba</source>
+        <target>йоруба</target>
+      </trans-unit>
+      <trans-unit id="839baadfb724e06eac3b12a431dd8358" resname="Zhuang">
+        <source>Zhuang</source>
+        <target>Чжуан</target>
+      </trans-unit>
+      <trans-unit id="68046733e4659165a4f59a1918cb1408" resname="Zulu">
+        <source>Zulu</source>
+        <target>зулусский</target>
       </trans-unit>
     </body>
   </file>

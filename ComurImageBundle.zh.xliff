@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="zh" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload">
+      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
-        <target>A PHP extension stopped the file upload</target>
+        <target state="translated">A PHP extension stopped the file uploada</target>
       </trans-unit>
       <trans-unit id="82822fc45c633a738a005ed9e0d2640b" resname="Add image">
         <source>Add image</source>

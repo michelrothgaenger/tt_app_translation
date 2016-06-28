@@ -17,9 +17,9 @@
         <source>app.postJob</source>
         <target>Job veröffentlichen</target>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target>Die besten Stellen in</target>
+        <target state="translated">Die besten Stellen in &lt;b&gt;Logistik&lt;/b&gt; und &lt;b&gt;Transport&lt;/b&gt;</target>
       </trans-unit>
       <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
         <source>app.logistics</source>

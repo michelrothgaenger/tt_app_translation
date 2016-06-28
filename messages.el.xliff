@@ -13,17 +13,17 @@
         <source>Shipping</source>
         <target>Shipping</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target>Register</target>
+        <target state="translated">Εγγραφή</target>
       </trans-unit>
-      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs">
+      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
-        <target>Find Jobs</target>
+        <target state="translated">Αναζήτηση θέσεις εργασίας</target>
       </trans-unit>
-      <trans-unit id="c98bec5341e3358f1d32dd830b5603d4" resname="app.postJob">
+      <trans-unit id="c98bec5341e3358f1d32dd830b5603d4" resname="app.postJob" approved="yes">
         <source>app.postJob</source>
-        <target>Post a job</target>
+        <target state="translated">Έκδοση θέσεις εργασίας</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
         <source>app.theFastestWayToFindNewJobIn</source>
@@ -33,25 +33,25 @@
         <source>app.logistics</source>
         <target>Logistics</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>or</target>
+        <target state="translated">ή</target>
       </trans-unit>
-      <trans-unit id="70812392587087ff48ca54c077a50704" resname="app.shipping">
+      <trans-unit id="70812392587087ff48ca54c077a50704" resname="app.shipping" approved="yes">
         <source>app.shipping</source>
-        <target>Transportation</target>
+        <target state="translated">Μεταφορά</target>
       </trans-unit>
-      <trans-unit id="7e75bd3811e112f5282da7eeeb857966" resname="app.searchTerm">
+      <trans-unit id="7e75bd3811e112f5282da7eeeb857966" resname="app.searchTerm" approved="yes">
         <source>app.searchTerm</source>
-        <target>Search term</target>
+        <target state="translated">Λέξη κλειδί</target>
       </trans-unit>
-      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location">
+      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location" approved="yes">
         <source>app.location</source>
-        <target>Where</target>
+        <target state="translated">Που</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Search</target>
+        <target state="translated">Αναζήτηση</target>
       </trans-unit>
       <trans-unit id="70553ea91cbf64b2e98f9bf50504f9b9" resname="app.advancedSearch">
         <source>app.advancedSearch</source>
@@ -61,141 +61,141 @@
         <source>app.featuredJobs</source>
         <target>Featured Jobs</target>
       </trans-unit>
-      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level">
+      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
         <source>app.level</source>
-        <target>Level</target>
+        <target state="translated">Επίπεδο</target>
       </trans-unit>
-      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category">
+      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category" approved="yes">
         <source>app.category</source>
-        <target>Category</target>
+        <target state="translated">Κατηγορία</target>
       </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
         <source>app.new</source>
-        <target>new</target>
+        <target state="translated">Νέο</target>
       </trans-unit>
-      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch">
+      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch" approved="yes">
         <source>app.getMoreFromYourJobSearch</source>
-        <target>Get more from your job search</target>
+        <target state="translated">Παράλαβε περισσότερα από την αναζήτηση της θέσης εργασίας σου</target>
       </trans-unit>
-      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles">
+      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles" approved="yes">
         <source>app.allArticles</source>
-        <target>All articles</target>
+        <target state="translated">Όλα τα άρθρα</target>
       </trans-unit>
-      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more">
+      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
         <source>app.more</source>
-        <target>More</target>
+        <target state="translated">Περισσότερα</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Sign in</target>
+        <target state="translated">Συνδεθείτε</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>For Employers</target>
+        <target state="translated">Για τους εργοδότες</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profile</target>
+        <target state="translated">Λογαριασμός</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
-        <target>Sign Out</target>
+        <target state="translated">Αποσύνδεση</target>
       </trans-unit>
-      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate">
+      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate" approved="yes">
         <source>app.candidate</source>
-        <target>Candidate</target>
+        <target state="translated">Υποψήφιος</target>
       </trans-unit>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
         <source>app.jobs</source>
-        <target>Jobs</target>
+        <target state="translated">Θέσεις εργασίας</target>
       </trans-unit>
-      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn">
+      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn" approved="yes">
         <source>app.logIn</source>
-        <target>Sign in</target>
+        <target state="translated">Συνδεθείτε</target>
       </trans-unit>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services" approved="yes">
         <source>app.services</source>
-        <target>Services</target>
+        <target state="translated">Υπηρεσίες</target>
       </trans-unit>
-      <trans-unit id="3f92b5f72e5e6b087d75954e4b272853" resname="app.pricing">
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272853" resname="app.pricing" approved="yes">
         <source>app.pricing</source>
-        <target>Services</target>
+        <target state="translated">Υπηρεσίες</target>
       </trans-unit>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
+      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
-        <target>About us</target>
+        <target state="translated">Ποιοί είμαστε</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Όροι και προϋποθέσεις</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Contact us</target>
+        <target state="translated">Επικοινωνία</target>
       </trans-unit>
-      <trans-unit id="4a2cd3e920ef8eb1d0b00d37e16e7513" resname="app.followUs">
+      <trans-unit id="4a2cd3e920ef8eb1d0b00d37e16e7513" resname="app.followUs" approved="yes">
         <source>app.followUs</source>
-        <target>Follow us</target>
+        <target state="translated">Ακολουθείστε μας</target>
       </trans-unit>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
         <source>app.privacyPolicy</source>
-        <target>Privacy Policy</target>
+        <target state="translated">Όροι προστασίας δεδομένων</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target>level</target>
+        <target state="translated">Επίπεδο</target>
       </trans-unit>
-      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
+      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
         <source>app.company</source>
-        <target>Company</target>
+        <target state="translated">Εταιρεία</target>
       </trans-unit>
-      <trans-unit id="b428eb6c40c7236e4260293e1d965467" resname="app.viewMap">
+      <trans-unit id="b428eb6c40c7236e4260293e1d965467" resname="app.viewMap" approved="yes">
         <source>app.viewMap</source>
-        <target>view map</target>
+        <target state="translated">Τοποθεσία</target>
       </trans-unit>
-      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel">
+      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel" approved="yes">
         <source>app.jobLevel</source>
-        <target>Job level</target>
+        <target state="translated">Επίπεδο εργασίας</target>
       </trans-unit>
-      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType">
+      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType" approved="yes">
         <source>app.jobType</source>
-        <target>Job type</target>
+        <target state="translated">Χαρακτηριστικό εργασίας</target>
       </trans-unit>
       <trans-unit id="740791a86a492026e7190cc9c9e87929" resname="app.division">
         <source>app.division</source>
         <target>Division</target>
       </trans-unit>
-      <trans-unit id="5fba6040b7ce54afa933cb40c35d5877" resname="app.applyNow">
+      <trans-unit id="5fba6040b7ce54afa933cb40c35d5877" resname="app.applyNow" approved="yes">
         <source>app.applyNow</source>
-        <target>Apply now</target>
+        <target state="translated">Υπόβαλλε αίτηση τώρα</target>
       </trans-unit>
-      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile">
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
-        <target>Save to profile</target>
+        <target state="translated">Αποθήκευση στον λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="80a96ec02c62f89b4e2e8792caddddfd" resname="app.showMoreJobsLikeThis">
+      <trans-unit id="80a96ec02c62f89b4e2e8792caddddfd" resname="app.showMoreJobsLikeThis" approved="yes">
         <source>app.showMoreJobsLikeThis</source>
-        <target>Show more jobs like this</target>
+        <target state="translated">Δείξε μου περισσότερες παρόμοιες αγγελίες</target>
       </trans-unit>
-      <trans-unit id="c375efdedea2e5c94607c68268b59e28" resname="app.emailMeJobsLikeThis">
+      <trans-unit id="c375efdedea2e5c94607c68268b59e28" resname="app.emailMeJobsLikeThis" approved="yes">
         <source>app.emailMeJobsLikeThis</source>
-        <target>Email me jobs like this</target>
+        <target state="translated">Στείλε μου σε E-Mail παρόμοιες αγγελίες</target>
       </trans-unit>
-      <trans-unit id="dbe38e5160a4685c23e44a1802e18eb9" resname="app.printJob">
+      <trans-unit id="dbe38e5160a4685c23e44a1802e18eb9" resname="app.printJob" approved="yes">
         <source>app.printJob</source>
-        <target>Print job</target>
+        <target state="translated">Εκτύπωση αγγελίας</target>
       </trans-unit>
-      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDetails">
+      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDetails" approved="yes">
         <source>app.jobDetails</source>
-        <target>Job details</target>
+        <target state="translated">Λεπτομέρειες θέσεις εργασίας</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target>Save to profile page</target>
+        <target state="translated">Αποθήκευση στην ιστοσελίδα του λογαριασμού</target>
       </trans-unit>
-      <trans-unit id="f07ae881105c9afb46307c9fda5c78c3" resname="app.goToNextJobProfile">
+      <trans-unit id="f07ae881105c9afb46307c9fda5c78c3" resname="app.goToNextJobProfile" approved="yes">
         <source>app.goToNextJobProfile</source>
-        <target>Go to next job profile</target>
+        <target state="translated">Επόμενη αγγελία</target>
       </trans-unit>
       <trans-unit id="78714c3938b47d2078da5e33254f4890" resname="app.companyOverview">
         <source>app.companyOverview</source>
@@ -205,9 +205,9 @@
         <source>app.offices</source>
         <target>Offices</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target>Company size</target>
+        <target state="translated">Μέγεθος εταιρείας</target>
       </trans-unit>
       <trans-unit id="2b9717b0bc024798079444fb906b9b33" resname="app.turnover">
         <source>app.turnover</source>
@@ -217,33 +217,33 @@
         <source>app.industry</source>
         <target>Industry</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Website</target>
+        <target state="translated">Ιστοσελίδα</target>
       </trans-unit>
-      <trans-unit id="35a0b94a57615310709ea33a21fed25f" resname="app.moreJobsAt">
+      <trans-unit id="35a0b94a57615310709ea33a21fed25f" resname="app.moreJobsAt" approved="yes">
         <source>app.moreJobsAt</source>
-        <target>More jobs at</target>
+        <target state="translated">Περισσότερες αγγελίες σε</target>
       </trans-unit>
-      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office">
+      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office" approved="yes">
         <source>app.office</source>
-        <target>Office</target>
+        <target state="translated">Υπηρεσίες</target>
       </trans-unit>
-      <trans-unit id="2524b91553815d434fd47e745def9323" resname="app.moreJobsLikeThis">
+      <trans-unit id="2524b91553815d434fd47e745def9323" resname="app.moreJobsLikeThis" approved="yes">
         <source>app.moreJobsLikeThis</source>
-        <target>Other interesting offers</target>
+        <target state="translated">Διάφορες ενδιαφέρον προτάσεις</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target>Job search</target>
+        <target state="translated">Αναζήτηση θέση εργασίας</target>
       </trans-unit>
       <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs">
         <source>app.browseJobs</source>
         <target>Browse jobs</target>
       </trans-unit>
-      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy">
+      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy" approved="yes">
         <source>app.sortJobsBy</source>
-        <target>Sort jobs by</target>
+        <target state="translated">Ξεχώρισε αγγελίες</target>
       </trans-unit>
       <trans-unit id="838edfbdae804b88954ed061e1ab2118" resname="app.default">
         <source>app.default</source>
@@ -261,17 +261,17 @@
         <source>app.posted</source>
         <target>Posted</target>
       </trans-unit>
-      <trans-unit id="62536cd542ccfeb849f02ce12f3ad189" resname="app.article">
+      <trans-unit id="62536cd542ccfeb849f02ce12f3ad189" resname="app.article" approved="yes">
         <source>app.article</source>
-        <target>Article</target>
+        <target state="translated">Άρθρο</target>
       </trans-unit>
-      <trans-unit id="a48292b30d9a6ad0447ce62f07501901" resname="app.resourcesToSupportYou">
+      <trans-unit id="a48292b30d9a6ad0447ce62f07501901" resname="app.resourcesToSupportYou" approved="yes">
         <source>app.resourcesToSupportYou</source>
-        <target>Resources to support you</target>
+        <target state="translated">Πιθανότητες να σε υποστηρίξουμε</target>
       </trans-unit>
-      <trans-unit id="b028b9c112db3c8c1866097db3f8d7ee" resname="app.resourcesAndArticles">
+      <trans-unit id="b028b9c112db3c8c1866097db3f8d7ee" resname="app.resourcesAndArticles" approved="yes">
         <source>app.resourcesAndArticles</source>
-        <target>Resources and Articles</target>
+        <target state="translated">Πιθανότητες και άρθρα</target>
       </trans-unit>
       <trans-unit id="05aaac64ea214d655d821f313dbb556b" resname="app.browseCategories">
         <source>app.browseCategories</source>
@@ -293,25 +293,25 @@
         <source>app.relocation</source>
         <target>Relocation</target>
       </trans-unit>
-      <trans-unit id="d3872ecbf597e46116425f8dcd94980b" resname="app.top5MostPopularArticles">
+      <trans-unit id="d3872ecbf597e46116425f8dcd94980b" resname="app.top5MostPopularArticles" approved="yes">
         <source>app.top5MostPopularArticles</source>
-        <target>Top 5 most popular articles</target>
+        <target state="translated">Τα 5 περιζήτητα άρθρα</target>
       </trans-unit>
-      <trans-unit id="332e8620a33815739a1ec906b64732b0" resname="app.recentlyAddedArticles">
+      <trans-unit id="332e8620a33815739a1ec906b64732b0" resname="app.recentlyAddedArticles" approved="yes">
         <source>app.recentlyAddedArticles</source>
-        <target>Recently added articles</target>
+        <target state="translated">Πρόσφατα άρθρα</target>
       </trans-unit>
-      <trans-unit id="7a361bdfe46239433ba765993ed82b2f" resname="app.goToNextArticle">
+      <trans-unit id="7a361bdfe46239433ba765993ed82b2f" resname="app.goToNextArticle" approved="yes">
         <source>app.goToNextArticle</source>
-        <target>Go to next article</target>
+        <target state="translated">Επόμενο άρθρο</target>
       </trans-unit>
       <trans-unit id="7b3d942cd9ed56baf9358b34e7cb5c7a" resname="app.theArticleWasCompiledWithHelpFrom">
         <source>app.theArticleWasCompiledWithHelpFrom</source>
         <target>The article was compiled with help from</target>
       </trans-unit>
-      <trans-unit id="68574b02c6fd200e2e23ab7cec1a326f" resname="app.topic">
+      <trans-unit id="68574b02c6fd200e2e23ab7cec1a326f" resname="app.topic" approved="yes">
         <source>app.topic</source>
-        <target>Topic</target>
+        <target state="translated">Θέμα</target>
       </trans-unit>
       <trans-unit id="c535d9038329b47d4fe7bca456f29592" resname="app.founderAndCeo">
         <source>app.founderAndCeo</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -25,9 +25,9 @@
         <source>app.postJob</source>
         <target>Post a job</target>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target>Find top jobs in</target>
+        <target state="translated">Find top jobs in &lt;b&gt;Logistics&lt;/b&gt; and &lt;b&gt;Transportation&lt;/b&gt;</target>
       </trans-unit>
       <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
         <source>app.logistics</source>
@@ -371,11 +371,11 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
       </trans-unit>
       <trans-unit id="24e7b380b9fc0f8937fd1bfd467a7c1b" resname="app.weAreDedicatedToCreatingPlatform">
         <source>app.weAreDedicatedToCreatingPlatform</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="63ee8ee8b43be6aa79b42471d7cd4b68" resname="app.whetherYouAreJustStartingOutOrAiming">
         <source>app.whetherYouAreJustStartingOutOrAiming</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="4f9d59b70820302da2b6c7ba966fb4a8" resname="app.theTeam">
         <source>app.theTeam</source>
@@ -2955,7 +2955,7 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
       </trans-unit>
       <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase">
         <source>app.metaDescriptionBase</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage">
         <source>app.metaDescriptionPostJobPage</source>

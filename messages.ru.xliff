@@ -17,6 +17,202 @@
         <source>Logistics</source>
         <target state="translated">Логистика</target>
       </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping" approved="yes">
+        <source>Shipping</source>
+        <target state="translated">Грузоперевозки</target>
+      </trans-unit>
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+        <source>app.signUp</source>
+        <target state="translated">Зарегестрироваться</target>
+      </trans-unit>
+      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
+        <source>app.findJobs</source>
+        <target state="translated">Найти работы</target>
+      </trans-unit>
+      <trans-unit id="c98bec5341e3358f1d32dd830b5603d4" resname="app.postJob" approved="yes">
+        <source>app.postJob</source>
+        <target state="translated">Опубликовать работу</target>
+      </trans-unit>
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
+        <source>app.theFastestWayToFindNewJobIn</source>
+        <target state="translated">Найти лучшие вакансии в</target>
+      </trans-unit>
+      <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics" approved="yes">
+        <source>app.logistics</source>
+        <target state="translated">Логистика</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+        <source>app.or</source>
+        <target state="translated">или</target>
+      </trans-unit>
+      <trans-unit id="70812392587087ff48ca54c077a50704" resname="app.shipping" approved="yes">
+        <source>app.shipping</source>
+        <target state="translated">Грузоперевозки</target>
+      </trans-unit>
+      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location" approved="yes">
+        <source>app.location</source>
+        <target state="translated">Где</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
+        <source>app.search</source>
+        <target state="translated">Поиск</target>
+      </trans-unit>
+      <trans-unit id="70553ea91cbf64b2e98f9bf50504f9b9" resname="app.advancedSearch" approved="yes">
+        <source>app.advancedSearch</source>
+        <target state="translated">Расширенный поиск</target>
+      </trans-unit>
+      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
+        <source>app.level</source>
+        <target state="translated">Тип</target>
+      </trans-unit>
+      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category" approved="yes">
+        <source>app.category</source>
+        <target state="translated">Категория</target>
+      </trans-unit>
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
+        <source>app.new</source>
+        <target state="translated">Новая</target>
+      </trans-unit>
+      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch" approved="no">
+        <source>app.getMoreFromYourJobSearch</source>
+        <target state="needs-translation">Получите больше от вашего поиска</target>
+      </trans-unit>
+      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles" approved="yes">
+        <source>app.allArticles</source>
+        <target state="translated">Все статьи</target>
+      </trans-unit>
+      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
+        <source>app.more</source>
+        <target state="translated">Ещё</target>
+      </trans-unit>
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
+        <source>app.signIn</source>
+        <target state="translated">Войти</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
+        <source>app.forEmployers</source>
+        <target state="translated">Для работодателей</target>
+      </trans-unit>
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
+        <source>app.profile</source>
+        <target state="translated">Профиль</target>
+      </trans-unit>
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
+        <source>app.signOut</source>
+        <target state="translated">Выйти</target>
+      </trans-unit>
+      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate" approved="yes">
+        <source>app.candidate</source>
+        <target state="translated">Кандидат</target>
+      </trans-unit>
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
+        <source>app.jobs</source>
+        <target state="translated">Вакансии</target>
+      </trans-unit>
+      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn" approved="yes">
+        <source>app.logIn</source>
+        <target state="translated">Войти</target>
+      </trans-unit>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services" approved="yes">
+        <source>app.services</source>
+        <target state="translated">Услуги</target>
+      </trans-unit>
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272853" resname="app.pricing" approved="yes">
+        <source>app.pricing</source>
+        <target state="translated">Услуги</target>
+      </trans-unit>
+      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
+        <source>app.aboutUs</source>
+        <target state="translated">О Нас</target>
+      </trans-unit>
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
+        <source>app.termsConditions</source>
+        <target state="translated">Положения и условия</target>
+      </trans-unit>
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
+        <source>app.contactUs</source>
+        <target state="translated">Связаться с нами</target>
+      </trans-unit>
+      <trans-unit id="4a2cd3e920ef8eb1d0b00d37e16e7513" resname="app.followUs" approved="yes">
+        <source>app.followUs</source>
+        <target state="translated">Подписывайтесь на нас</target>
+      </trans-unit>
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
+        <source>app.privacyPolicy</source>
+        <target state="translated">Политика приватности</target>
+      </trans-unit>
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+        <source>app.position</source>
+        <target state="translated">тип</target>
+      </trans-unit>
+      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
+        <source>app.company</source>
+        <target state="translated">Компания</target>
+      </trans-unit>
+      <trans-unit id="b428eb6c40c7236e4260293e1d965467" resname="app.viewMap" approved="yes">
+        <source>app.viewMap</source>
+        <target state="translated">открыть карту</target>
+      </trans-unit>
+      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel" approved="yes">
+        <source>app.jobLevel</source>
+        <target state="translated">Тип работы</target>
+      </trans-unit>
+      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType" approved="yes">
+        <source>app.jobType</source>
+        <target state="translated">Тип работы</target>
+      </trans-unit>
+      <trans-unit id="740791a86a492026e7190cc9c9e87929" resname="app.division" approved="yes">
+        <source>app.division</source>
+        <target state="translated">Подразделение</target>
+      </trans-unit>
+      <trans-unit id="5fba6040b7ce54afa933cb40c35d5877" resname="app.applyNow" approved="yes">
+        <source>app.applyNow</source>
+        <target state="translated">Откликнуться</target>
+      </trans-unit>
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
+        <source>app.saveToProfile</source>
+        <target state="translated">Сохранить в профиль</target>
+      </trans-unit>
+      <trans-unit id="80a96ec02c62f89b4e2e8792caddddfd" resname="app.showMoreJobsLikeThis" approved="yes">
+        <source>app.showMoreJobsLikeThis</source>
+        <target state="translated">Показывать больше похожих работ</target>
+      </trans-unit>
+      <trans-unit id="c375efdedea2e5c94607c68268b59e28" resname="app.emailMeJobsLikeThis" approved="yes">
+        <source>app.emailMeJobsLikeThis</source>
+        <target state="translated">Присылать больше похожих работ</target>
+      </trans-unit>
+      <trans-unit id="dbe38e5160a4685c23e44a1802e18eb9" resname="app.printJob" approved="yes">
+        <source>app.printJob</source>
+        <target state="translated">Распечатать вакансию</target>
+      </trans-unit>
+      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDetails" approved="yes">
+        <source>app.jobDetails</source>
+        <target state="translated">Описание работы</target>
+      </trans-unit>
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
+        <source>app.saveToProfilePage</source>
+        <target state="translated">Сохранить в профиль</target>
+      </trans-unit>
+      <trans-unit id="f07ae881105c9afb46307c9fda5c78c3" resname="app.goToNextJobProfile" approved="yes">
+        <source>app.goToNextJobProfile</source>
+        <target state="translated">Перейти к следующему профилю</target>
+      </trans-unit>
+      <trans-unit id="78714c3938b47d2078da5e33254f4890" resname="app.companyOverview" approved="yes">
+        <source>app.companyOverview</source>
+        <target state="translated">обзор компании</target>
+      </trans-unit>
+      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices" approved="yes">
+        <source>app.offices</source>
+        <target state="translated">Офисы</target>
+      </trans-unit>
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
+        <source>app.companySize</source>
+        <target state="translated">Размер компании</target>
+      </trans-unit>
+      <trans-unit id="2b9717b0bc024798079444fb906b9b33" resname="app.turnover" approved="yes">
+        <source>app.turnover</source>
+        <target state="translated">Оборот</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

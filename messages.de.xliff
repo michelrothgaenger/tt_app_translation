@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -323,11 +323,11 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
       </trans-unit>
       <trans-unit id="24e7b380b9fc0f8937fd1bfd467a7c1b" resname="app.weAreDedicatedToCreatingPlatform">
         <source>app.weAreDedicatedToCreatingPlatform</source>
-        <target state="translated"></target>
+        <target state="translated"/>
       </trans-unit>
       <trans-unit id="63ee8ee8b43be6aa79b42471d7cd4b68" resname="app.whetherYouAreJustStartingOutOrAiming">
         <source>app.whetherYouAreJustStartingOutOrAiming</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="4f9d59b70820302da2b6c7ba966fb4a8" resname="app.theTeam">
         <source>app.theTeam</source>
@@ -2829,9 +2829,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>registration.emailemp.message</source>
         <target><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung zu unserem Angebot. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicke hier, um Ihre Anmeldung zu bestätigen</a>. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Sollteten Sie Fragen haben, so wenden Sich sich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir bedanken uns bereits jetzt für das entgegengebrachte Vertrauen.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger<br> Operativer Geschäftsführer<br>]]></target>
       </trans-unit>
-      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships">
+      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships" approved="yes">
         <source>Apprenticeships</source>
-        <target>Lehrstellen</target>
+        <target state="translated">Lehrstellen/Ausbildungsplätze</target>
       </trans-unit>
       <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline">
         <source>app.editJobHeadline</source>
@@ -2885,17 +2885,17 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.jobExpiredPageTitle</source>
         <target>Dieses Angebot ist leider abgelaufen</target>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
-        <target><![CDATA[Das gesuchte Angebot wurden bereits aus der Datenbank entfernt. <br> Nachstehend haben wir ähnliche Angebote aufgelistet.<br><br>Wir bitten die Unannehmlichkeit zu entschuldigen.]]></target>
+        <target state="translated">Entschuldigung, das gesuchte Angebot wurden bereits aus der Datenbank entfernt.&lt;br&gt;Nachstehend haben wir ähnliche Angebote aufgelistet.&lt;br&gt;&lt;br&gt;Gerne informieren wir Sie über passende Stellen.&lt;br&gt;Melden Sie sich hierzu einfach für unseren Newsletter an.</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
-        <target>Ähnliche Jobs durchsuchen</target>
+        <target state="translated">Ähnliche Jobs ansehen</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
-        <target>Ähnliche Jobs durchsuchen</target>
+        <target state="translated">Nach ähnlichen Jobs suchen</target>
       </trans-unit>
       <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping">
         <source>Shipping</source>
@@ -2969,9 +2969,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileGroupSkillsDesc</source>
         <target>Teamplayer, Motivator oder Querdenker – was zeichnet Sie aus?</target>
       </trans-unit>
-      <trans-unit id="69e76f2e8024c2935738dc426b0f69e5" resname="app.profileGroupCertificatesDesc">
+      <trans-unit id="69e76f2e8024c2935738dc426b0f69e5" resname="app.profileGroupCertificatesDesc" approved="yes">
         <source>app.profileGroupCertificatesDesc</source>
-        <target>Hast du zusätzliche Qualifikationen für die du ein Zertifikat bekommen hast? Das können z. B. Sprachkenntnisse, berufliche Weiterbildungen, Softwarekenntnisse oder Ähnliches sein.</target>
+        <target state="translated">Haben Sie zusätzliche Qualifikationen, für die Sie ein Zertifikat bekommen haben? Das können z. B. Sprachkenntnisse, berufliche Weiterbildungen, Softwarekenntnisse oder Ähnliches sein.</target>
       </trans-unit>
       <trans-unit id="29b76ba5fbead90bf442c91fd38d5ebf" resname="app.aboutUsDescriptionHeadline">
         <source>app.aboutUsDescriptionHeadline</source>
@@ -2989,9 +2989,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileSectionCertificatesItemsTitle</source>
         <target>Gespeicherte Zertifikate</target>
       </trans-unit>
-      <trans-unit id="3182502d1d0767c32d19ea967ba80284" resname="app.profileInputEducationsGraduationYearLabel">
+      <trans-unit id="3182502d1d0767c32d19ea967ba80284" resname="app.profileInputEducationsGraduationYearLabel" approved="yes">
         <source>app.profileInputEducationsGraduationYearLabel</source>
-        <target>Abschlussjahr</target>
+        <target state="translated">Abschlussjahr</target>
       </trans-unit>
       <trans-unit id="9c64c3e4efddde37c12d6e88745d4a33" resname="app.profileInputEducationsCountryLabel">
         <source>app.profileInputEducationsCountryLabel</source>
@@ -3017,9 +3017,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileInputLanguagesLevelLabel</source>
         <target>Kenntnisse</target>
       </trans-unit>
-      <trans-unit id="a442311473694d44a8e9c5aaaec4cb42" resname="app.profileInputEducationsSkillLabel">
+      <trans-unit id="a442311473694d44a8e9c5aaaec4cb42" resname="app.profileInputEducationsSkillLabel" approved="yes">
         <source>app.profileInputEducationsSkillLabel</source>
-        <target>Studienfach</target>
+        <target state="translated">Fachrichtung</target>
       </trans-unit>
       <trans-unit id="6a1c8e5ef90e2feafd38d320eea4d587" resname="app.profileSectionEducationsItemsTitle">
         <source>app.profileSectionEducationsItemsTitle</source>
@@ -3041,17 +3041,17 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileGroupLanguagesTitle</source>
         <target>Sprachen</target>
       </trans-unit>
-      <trans-unit id="a12f25dddf4a0bbd4bf605b73247f557" resname="app.profileInputPhotoEditBtnText">
+      <trans-unit id="a12f25dddf4a0bbd4bf605b73247f557" resname="app.profileInputPhotoEditBtnText" approved="yes">
         <source>app.profileInputPhotoEditBtnText</source>
-        <target>Foto bearbeiten</target>
+        <target state="translated">Foto bearbeiten</target>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
         <source>app.profileInputCvUploadBtnText</source>
         <target>Datei hinzufügen</target>
       </trans-unit>
-      <trans-unit id="3204f2b258a021a769c829f54d49f2fc" resname="app.profileInputPhotoDesc">
+      <trans-unit id="3204f2b258a021a769c829f54d49f2fc" resname="app.profileInputPhotoDesc" approved="yes">
         <source>app.profileInputPhotoDesc</source>
-        <target><![CDATA[Bildgröße min. 150 x 150 Pixel<br>Dateigröße max. 1 MB]]></target>
+        <target state="translated">Min. 150 x 150 Pixel&lt;br&gt;Max. 1 MB</target>
       </trans-unit>
       <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements">
         <source>app.profileInputCvRequirements</source>
@@ -3085,9 +3085,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileInputGeneralSalutationLabel</source>
         <target>Anrede</target>
       </trans-unit>
-      <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel">
+      <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
-        <target>Geburtstdatum</target>
+        <target state="translated">Geburtsdatum</target>
       </trans-unit>
       <trans-unit id="8cccca58a6789b7fd9e55202fe7fd754" resname="app.profileInputGeneralCountryLabel">
         <source>app.profileInputGeneralCountryLabel</source>
@@ -3109,21 +3109,21 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileSectionSocialMediaItemsTitle</source>
         <target>Gespeicherte Profile</target>
       </trans-unit>
-      <trans-unit id="4ce87187dd4e3e4071c9b7969f3b88ca" resname="app.profileInputSocialMediaProfileTitleLabel">
+      <trans-unit id="4ce87187dd4e3e4071c9b7969f3b88ca" resname="app.profileInputSocialMediaProfileTitleLabel" approved="yes">
         <source>app.profileInputSocialMediaProfileTitleLabel</source>
-        <target>Geben Sie eine Bezeichnung für das Profil</target>
+        <target state="translated">Geben Sie eine Bezeichnung für das Profil</target>
       </trans-unit>
-      <trans-unit id="ea3f777c03e4921ea78dd62adeee5ec8" resname="app.profileInputSocialMediaAddressLabel">
+      <trans-unit id="ea3f777c03e4921ea78dd62adeee5ec8" resname="app.profileInputSocialMediaAddressLabel" approved="yes">
         <source>app.profileInputSocialMediaAddressLabel</source>
-        <target>und eine Adresse ein.</target>
+        <target state="translated">und eine Adresse ein</target>
       </trans-unit>
       <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target>Berufserfahrung</target>
       </trans-unit>
-      <trans-unit id="a3f75e26705f7083bbd7dfd7799ffcfd" resname="app.profileInputTotalExperienceYearsLabel">
+      <trans-unit id="a3f75e26705f7083bbd7dfd7799ffcfd" resname="app.profileInputTotalExperienceYearsLabel" approved="yes">
         <source>app.profileInputTotalExperienceYearsLabel</source>
-        <target>Wie viele Jahre Berufserfahrung in der Transport- oder Logistikbranche haben Sie?</target>
+        <target state="translated">Wie viele Jahre Berufserfahrung haben Sie in der Transport- oder Logistikbranche?</target>
       </trans-unit>
       <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel">
         <source>app.profileInputTotalExperienceSpecialityLabel</source>
@@ -3193,9 +3193,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileSectionProfessionalExperienceItemsTitle</source>
         <target>Gespeicherte Erfahrungen</target>
       </trans-unit>
-      <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel">
+      <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
-        <target>Bei Personalverantwortung bitte Teamgröße nennen</target>
+        <target state="translated">Unterstellte Mitarbeiter</target>
       </trans-unit>
       <trans-unit id="716c6e2fab7553e9b985abd85177f534" resname="app.profileProfileHasNotBeenApproved">
         <source>app.profileProfileHasNotBeenApproved</source>
@@ -3231,7 +3231,7 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
       </trans-unit>
       <trans-unit id="25a7785f52b798b06f887ea303d54f5d" resname="app.jobPositionPlaceholder">
         <source>app.jobPositionPlaceholder</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="2441c499c3799f212fd43808b99f4af8" resname="app.careersAtTransportTalent">
         <source>app.careersAtTransportTalent</source>
@@ -3247,11 +3247,11 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
       </trans-unit>
       <trans-unit id="bea49301ec251df26b787c87316aaa0d" resname="app.serviceBookedTitle">
         <source>app.serviceBookedTitle</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="f17eec1c553ea52887d142f4af6a5f8d" resname="app.serviceBookedDescription">
         <source>app.serviceBookedDescription</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound">
         <source>app.jobsFound</source>
@@ -3275,23 +3275,23 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
       </trans-unit>
       <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
         <source>app.metaDescriptionEditJobPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage">
         <source>app.metaKeywordsEditJobPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage">
         <source>app.metaDescriptionProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage">
         <source>app.metaKeywordsProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="008e5d2b7c3475c4c13ce7d06e8d69f6" resname="app.metaKeywordsBase">
         <source>app.metaKeywordsBase</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies">
         <source>app.companies</source>
@@ -3309,9 +3309,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>Vietnam</source>
         <target>Vietnam</target>
       </trans-unit>
-      <trans-unit id="c8b94f2798e55aba98e492e8da52033d" resname="app.profileYourProfileStatusIs">
+      <trans-unit id="c8b94f2798e55aba98e492e8da52033d" resname="app.profileYourProfileStatusIs" approved="yes">
         <source>app.profileYourProfileStatusIs</source>
-        <target>Dein Profil ist zu</target>
+        <target state="translated">Ihr Profil ist zu</target>
       </trans-unit>
       <trans-unit id="78393da8b6b3c414644e6ef393affb6d" resname="app.profileNavigationListItemPersonal">
         <source>app.profileNavigationListItemPersonal</source>
@@ -3337,13 +3337,13 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileGroupPersonalTitle</source>
         <target>Persönliches Profil</target>
       </trans-unit>
-      <trans-unit id="cc112cd355a390029a02970d1d107e09" resname="app.profileGroupSummaryTitle">
+      <trans-unit id="cc112cd355a390029a02970d1d107e09" resname="app.profileGroupSummaryTitle" approved="yes">
         <source>app.profileGroupSummaryTitle</source>
-        <target>Résumé</target>
+        <target state="translated">Kurze Zusammenfassung</target>
       </trans-unit>
-      <trans-unit id="521d5680045a7b50b5a40021ebe78638" resname="app.profileGroupExperienceTitle">
+      <trans-unit id="521d5680045a7b50b5a40021ebe78638" resname="app.profileGroupExperienceTitle" approved="yes">
         <source>app.profileGroupExperienceTitle</source>
-        <target>Vervollständigen Sie Ihr Profil mit genaueren Angaben zu Ihrer Berufserfahrung.</target>
+        <target state="translated">Vervollständigen Sie Ihr Profil mit Angaben zu Ihrer Berufserfahrung.</target>
       </trans-unit>
       <trans-unit id="286aac929bdf6fe9bfd2a6caf15682ec" resname="app.profileGroupPreferencesTitle">
         <source>app.profileGroupPreferencesTitle</source>

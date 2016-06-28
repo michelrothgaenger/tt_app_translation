@@ -29,17 +29,9 @@
         <source>app.theFastestWayToFindNewJobIn</source>
         <target>Find top jobs in</target>
       </trans-unit>
-      <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
-        <source>app.logistics</source>
-        <target>Logistics</target>
-      </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
         <source>app.or</source>
         <target>or</target>
-      </trans-unit>
-      <trans-unit id="70812392587087ff48ca54c077a50704" resname="app.shipping">
-        <source>app.shipping</source>
-        <target>Transportation</target>
       </trans-unit>
       <trans-unit id="7e75bd3811e112f5282da7eeeb857966" resname="app.searchTerm">
         <source>app.searchTerm</source>
@@ -2168,10 +2160,6 @@
       <trans-unit id="0ef976bfba332fc101f758c80e6cd5cb" resname="app.certificateMsg">
         <source>app.certificateMsg</source>
         <target>We care about your privacy. Our servers are exclusively located in Germany. Your personal information will be kept confidential unless you clearly indicated that you agree to expose whole or parts of it. At Transport Talent, you decide!</target>
-      </trans-unit>
-      <trans-unit id="3c1821443873d809fd204ab92d09ed91" resname="app.and">
-        <source>app.and</source>
-        <target>and</target>
       </trans-unit>
       <trans-unit id="b7ffc4d17a461aa81fe12f765799f110" resname="app.uploadCv">
         <source>app.uploadCv</source>

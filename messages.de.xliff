@@ -21,17 +21,9 @@
         <source>app.theFastestWayToFindNewJobIn</source>
         <target state="translated">Die besten Stellen in &lt;b&gt;Logistik&lt;/b&gt; und &lt;b&gt;Transport&lt;/b&gt;</target>
       </trans-unit>
-      <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
-        <source>app.logistics</source>
-        <target>Logistik</target>
-      </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
         <source>app.or</source>
         <target>oder</target>
-      </trans-unit>
-      <trans-unit id="70812392587087ff48ca54c077a50704" resname="app.shipping">
-        <source>app.shipping</source>
-        <target>Transport</target>
       </trans-unit>
       <trans-unit id="7e75bd3811e112f5282da7eeeb857966" resname="app.searchTerm">
         <source>app.searchTerm</source>
@@ -2000,10 +1992,6 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
       <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels">
         <source>app.allJobLevels</source>
         <target>Alle Level</target>
-      </trans-unit>
-      <trans-unit id="3c1821443873d809fd204ab92d09ed91" resname="app.and">
-        <source>app.and</source>
-        <target>und</target>
       </trans-unit>
       <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or">
         <source>or</source>

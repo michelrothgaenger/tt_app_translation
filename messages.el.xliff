@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics">
+      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics" approved="yes">
         <source>Logistics</source>
-        <target>Logistics</target>
+        <target state="translated">Διοικητή μέριμνα</target>
       </trans-unit>
       <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping">
         <source>Shipping</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">Βρήκε θέσεις εργασίας σε</target>
+        <target state="translated">Βρήτε τις καλύτερες αγγελίες</target>
       </trans-unit>
       <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
         <source>app.logistics</source>

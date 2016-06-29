@@ -257,9 +257,9 @@
         <source>app.views</source>
         <target>Views descending</target>
       </trans-unit>
-      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted">
+      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted" approved="yes">
         <source>app.posted</source>
-        <target>Posted</target>
+        <target state="translated">Ανακοινώθηκε</target>
       </trans-unit>
       <trans-unit id="62536cd542ccfeb849f02ce12f3ad189" resname="app.article" approved="yes">
         <source>app.article</source>
@@ -273,9 +273,9 @@
         <source>app.resourcesAndArticles</source>
         <target state="translated">Πιθανότητες και άρθρα</target>
       </trans-unit>
-      <trans-unit id="05aaac64ea214d655d821f313dbb556b" resname="app.browseCategories">
+      <trans-unit id="05aaac64ea214d655d821f313dbb556b" resname="app.browseCategories" approved="yes">
         <source>app.browseCategories</source>
-        <target>Browse categories</target>
+        <target state="translated">Διαλέξτε κατηγορίες</target>
       </trans-unit>
       <trans-unit id="fa324e5619aa674e94968f6ec7d1e73f" resname="app.career">
         <source>app.career</source>
@@ -289,9 +289,9 @@
         <source>app.interviewSkills</source>
         <target>Interview skills</target>
       </trans-unit>
-      <trans-unit id="d29f8de2746241efb348f6d60f425433" resname="app.relocation">
+      <trans-unit id="d29f8de2746241efb348f6d60f425433" resname="app.relocation" approved="yes">
         <source>app.relocation</source>
-        <target>Relocation</target>
+        <target state="translated">Μετάθεση</target>
       </trans-unit>
       <trans-unit id="d3872ecbf597e46116425f8dcd94980b" resname="app.top5MostPopularArticles" approved="yes">
         <source>app.top5MostPopularArticles</source>
@@ -305,9 +305,9 @@
         <source>app.goToNextArticle</source>
         <target state="translated">Επόμενο άρθρο</target>
       </trans-unit>
-      <trans-unit id="7b3d942cd9ed56baf9358b34e7cb5c7a" resname="app.theArticleWasCompiledWithHelpFrom">
+      <trans-unit id="7b3d942cd9ed56baf9358b34e7cb5c7a" resname="app.theArticleWasCompiledWithHelpFrom" approved="yes">
         <source>app.theArticleWasCompiledWithHelpFrom</source>
-        <target>The article was compiled with help from</target>
+        <target state="translated">Το άρθρο γράφτηκε με βοήθεια από</target>
       </trans-unit>
       <trans-unit id="68574b02c6fd200e2e23ab7cec1a326f" resname="app.topic" approved="yes">
         <source>app.topic</source>

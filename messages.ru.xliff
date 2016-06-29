@@ -213,6 +213,110 @@
         <source>app.turnover</source>
         <target state="translated">Оборот</target>
       </trans-unit>
+      <trans-unit id="59445175d9aedd15bbdd6ebe552abe9f" resname="app.industry" approved="no">
+        <source>app.industry</source>
+        <target state="needs-translation">Отрасль</target>
+      </trans-unit>
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
+        <source>app.website</source>
+        <target state="translated">Веб-сайт</target>
+      </trans-unit>
+      <trans-unit id="35a0b94a57615310709ea33a21fed25f" resname="app.moreJobsAt" approved="yes">
+        <source>app.moreJobsAt</source>
+        <target state="translated">Больше вакансий в</target>
+      </trans-unit>
+      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office" approved="yes">
+        <source>app.office</source>
+        <target state="translated">Офис</target>
+      </trans-unit>
+      <trans-unit id="2524b91553815d434fd47e745def9323" resname="app.moreJobsLikeThis" approved="yes">
+        <source>app.moreJobsLikeThis</source>
+        <target state="translated">Дркгие интересные предложения</target>
+      </trans-unit>
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
+        <source>app.jobSearch</source>
+        <target state="translated">Поиск вакансий</target>
+      </trans-unit>
+      <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs" approved="yes">
+        <source>app.browseJobs</source>
+        <target state="translated">Поиск вакансий</target>
+      </trans-unit>
+      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy" approved="yes">
+        <source>app.sortJobsBy</source>
+        <target state="translated">Сортировать вакансии</target>
+      </trans-unit>
+      <trans-unit id="838edfbdae804b88954ed061e1ab2118" resname="app.default" approved="yes">
+        <source>app.default</source>
+        <target state="translated">По умолчанию</target>
+      </trans-unit>
+      <trans-unit id="2acf8a93350bc5c3ce5cb2f7cf1817bd" resname="app.date" approved="yes">
+        <source>app.date</source>
+        <target state="translated">По дате(новые сверху)</target>
+      </trans-unit>
+      <trans-unit id="cea790d15df86ab1edd6c5a46ba632d3" resname="app.views" approved="yes">
+        <source>app.views</source>
+        <target state="translated">По просмотрам</target>
+      </trans-unit>
+      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted" approved="yes">
+        <source>app.posted</source>
+        <target state="translated">Размещено</target>
+      </trans-unit>
+      <trans-unit id="62536cd542ccfeb849f02ce12f3ad189" resname="app.article" approved="yes">
+        <source>app.article</source>
+        <target state="translated">Статья</target>
+      </trans-unit>
+      <trans-unit id="a48292b30d9a6ad0447ce62f07501901" resname="app.resourcesToSupportYou" approved="yes">
+        <source>app.resourcesToSupportYou</source>
+        <target state="translated">Полезные ресурсы</target>
+      </trans-unit>
+      <trans-unit id="b028b9c112db3c8c1866097db3f8d7ee" resname="app.resourcesAndArticles" approved="yes">
+        <source>app.resourcesAndArticles</source>
+        <target state="translated">Ресурсы и Статьи</target>
+      </trans-unit>
+      <trans-unit id="05aaac64ea214d655d821f313dbb556b" resname="app.browseCategories" approved="yes">
+        <source>app.browseCategories</source>
+        <target state="translated">Обзор категорий</target>
+      </trans-unit>
+      <trans-unit id="fa324e5619aa674e94968f6ec7d1e73f" resname="app.career" approved="yes">
+        <source>app.career</source>
+        <target state="translated">Карьера</target>
+      </trans-unit>
+      <trans-unit id="337eb66780916214a0c450990171aa7d" resname="app.management" approved="yes">
+        <source>app.management</source>
+        <target state="translated">Менеджмент</target>
+      </trans-unit>
+      <trans-unit id="e84c7d3145b0bce5734b8d5f16a46256" resname="app.interviewSkills" approved="yes">
+        <source>app.interviewSkills</source>
+        <target state="translated">Навыки собеседования</target>
+      </trans-unit>
+      <trans-unit id="d29f8de2746241efb348f6d60f425433" resname="app.relocation" approved="yes">
+        <source>app.relocation</source>
+        <target state="translated">Переезд</target>
+      </trans-unit>
+      <trans-unit id="d3872ecbf597e46116425f8dcd94980b" resname="app.top5MostPopularArticles" approved="yes">
+        <source>app.top5MostPopularArticles</source>
+        <target state="translated">5 самых популярных статей</target>
+      </trans-unit>
+      <trans-unit id="332e8620a33815739a1ec906b64732b0" resname="app.recentlyAddedArticles" approved="yes">
+        <source>app.recentlyAddedArticles</source>
+        <target state="translated">Недавно добавленные статьи</target>
+      </trans-unit>
+      <trans-unit id="7a361bdfe46239433ba765993ed82b2f" resname="app.goToNextArticle" approved="yes">
+        <source>app.goToNextArticle</source>
+        <target state="translated">К следующей статье</target>
+      </trans-unit>
+      <trans-unit id="7b3d942cd9ed56baf9358b34e7cb5c7a" resname="app.theArticleWasCompiledWithHelpFrom" approved="yes">
+        <source>app.theArticleWasCompiledWithHelpFrom</source>
+        <target state="translated">Статья была составлена при содействии</target>
+      </trans-unit>
+      <trans-unit id="68574b02c6fd200e2e23ab7cec1a326f" resname="app.topic" approved="yes">
+        <source>app.topic</source>
+        <target state="translated">Тема</target>
+      </trans-unit>
+      <trans-unit id="c535d9038329b47d4fe7bca456f29592" resname="app.founderAndCeo" approved="yes">
+        <source>app.founderAndCeo</source>
+        <target state="translated">Управляющий директор &amp; Со-основатель</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

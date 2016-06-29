@@ -57,9 +57,9 @@
         <source>app.advancedSearch</source>
         <target state="translated">Προχωρημένη αναζήτηση</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
-        <target>Featured Jobs</target>
+        <target state="translated">Ιδιαίτερες θέσεις εργασίας</target>
       </trans-unit>
       <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
         <source>app.level</source>
@@ -161,9 +161,9 @@
         <source>app.jobType</source>
         <target state="translated">Χαρακτηριστικό εργασίας</target>
       </trans-unit>
-      <trans-unit id="740791a86a492026e7190cc9c9e87929" resname="app.division">
+      <trans-unit id="740791a86a492026e7190cc9c9e87929" resname="app.division" approved="yes">
         <source>app.division</source>
-        <target>Division</target>
+        <target state="translated">Διαχωρισμός</target>
       </trans-unit>
       <trans-unit id="5fba6040b7ce54afa933cb40c35d5877" resname="app.applyNow" approved="yes">
         <source>app.applyNow</source>
@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDetails" approved="yes">
         <source>app.jobDetails</source>
-        <target state="translated">Λεπτομέρειες θέσεις εργασίας</target>
+        <target state="translated">Λεπτομέρειες τις θέσεις εργασίας</target>
       </trans-unit>
       <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
@@ -197,13 +197,13 @@
         <source>app.goToNextJobProfile</source>
         <target state="translated">Επόμενη αγγελία</target>
       </trans-unit>
-      <trans-unit id="78714c3938b47d2078da5e33254f4890" resname="app.companyOverview">
+      <trans-unit id="78714c3938b47d2078da5e33254f4890" resname="app.companyOverview" approved="yes">
         <source>app.companyOverview</source>
-        <target>company overview</target>
+        <target state="translated">Γενική άποψη της εταιρίας</target>
       </trans-unit>
-      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices">
+      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices" approved="yes">
         <source>app.offices</source>
-        <target>Offices</target>
+        <target state="translated">Υπηρεσίες</target>
       </trans-unit>
       <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
@@ -245,9 +245,9 @@
         <source>app.sortJobsBy</source>
         <target state="translated">Ξεχώρισε αγγελίες</target>
       </trans-unit>
-      <trans-unit id="838edfbdae804b88954ed061e1ab2118" resname="app.default">
+      <trans-unit id="838edfbdae804b88954ed061e1ab2118" resname="app.default" approved="yes">
         <source>app.default</source>
-        <target>Default</target>
+        <target state="translated">Παραμέληση</target>
       </trans-unit>
       <trans-unit id="2acf8a93350bc5c3ce5cb2f7cf1817bd" resname="app.date">
         <source>app.date</source>

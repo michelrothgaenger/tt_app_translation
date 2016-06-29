@@ -317,6 +317,14 @@
         <source>app.founderAndCeo</source>
         <target state="translated">Управляющий директор &amp; Со-основатель</target>
       </trans-unit>
+      <trans-unit id="7e75bd3811e112f5282da7eeeb857966" resname="app.searchTerm" approved="yes">
+        <source>app.searchTerm</source>
+        <target state="translated">Запрос</target>
+      </trans-unit>
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
+        <source>app.featuredJobs</source>
+        <target state="translated">Популярные работы</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

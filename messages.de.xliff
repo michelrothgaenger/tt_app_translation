@@ -3365,6 +3365,10 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileProfileHasBeenApproved</source>
         <target>Ihr Profil wurde geprüft und bestätigt</target>
       </trans-unit>
+    <trans-unit id="367d6df7a91144678d0ed5f439403668" resname="app.doYouHaveAQuestion" approved="yes">
+        <source>app.doYouHaveAQuestion</source>
+        <target state="translated">Gerne sind wir persönlich für Sie da. Kontaktieren Sie uns!</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -3514,6 +3514,10 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
         <source>app.aboutUsDescriptionHeadline</source>
         <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry</target>
       </trans-unit>
+      <trans-unit id="367d6df7a91144678d0ed5f439403668" resname="app.doYouHaveAQuestion">
+        <source>app.doYouHaveAQuestion</source>
+        <target>Do you have a question or want to get in touch? Contact us!</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

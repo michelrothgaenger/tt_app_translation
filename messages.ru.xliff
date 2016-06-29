@@ -325,6 +325,38 @@
         <source>app.featuredJobs</source>
         <target state="translated">Популярные работы</target>
       </trans-unit>
+      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="yes">
+        <source>app.home</source>
+        <target state="translated">Главная</target>
+      </trans-unit>
+      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
+        <source>app.findCompanies</source>
+        <target state="translated">Поиск компаний</target>
+      </trans-unit>
+      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch" approved="yes">
+        <source>app.yourSearch</source>
+        <target state="translated">Что</target>
+      </trans-unit>
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes" approved="yes">
+        <source>app.allJobTypes</source>
+        <target state="translated">Все типы вакансий</target>
+      </trans-unit>
+      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels" approved="yes">
+        <source>app.allJobLevels</source>
+        <target state="translated">Все типы вакансий</target>
+      </trans-unit>
+      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline" approved="yes">
+        <source>app.loginHeadline</source>
+        <target state="translated">Спасибо, что зашли снова.</target>
+      </trans-unit>
+      <trans-unit id="6a54f215a2f93d1f634404cedb1cde30" resname="app.newsletterInputPlaceholder" approved="yes">
+        <source>app.newsletterInputPlaceholder</source>
+        <target state="translated">Email</target>
+      </trans-unit>
+      <trans-unit id="c112ee773573e77375cd814589548bcc" resname="app.newsletterButtonText" approved="yes">
+        <source>app.newsletterButtonText</source>
+        <target state="translated">Подписаться</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

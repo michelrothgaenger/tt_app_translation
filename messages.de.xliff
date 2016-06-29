@@ -661,17 +661,17 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.summary</source>
         <target state="translated">Zusammenfassung</target>
       </trans-unit>
-      <trans-unit id="1fd7b11e98a2009327867ff40972591b" resname="app.emailUs">
+      <trans-unit id="1fd7b11e98a2009327867ff40972591b" resname="app.emailUs" approved="yes">
         <source>app.emailUs</source>
-        <target>Kontaktformular</target>
+        <target state="translated">Kontaktformular</target>
       </trans-unit>
-      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress">
+      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress" approved="yes">
         <source>app.contactPageAddress</source>
-        <target><![CDATA[<div><b>Deutschland:</b></div><div>Transport Talent</div><div>Bernstorffstraße 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Dänemark:</b></div><div>Transport Talent ApS</div><div>Islands Brygge 77D</div><div>DK-2300 Kopenhagen</div>]]></target>
+        <target state="translated"><![CDATA[<div><b>Deutschland:</b></div><div>Transport Talent</div><div>Bernstorffstraße 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Dänemark:</b></div><div>Transport Talent ApS</div><div>Islands Brygge 77D</div><div>DK-2300 Kopenhagen</div>]]></target>
       </trans-unit>
-      <trans-unit id="bf7cf836a3cfe869854d37bde0e4553c" resname="app.directions">
+      <trans-unit id="bf7cf836a3cfe869854d37bde0e4553c" resname="app.directions" approved="yes">
         <source>app.directions</source>
-        <target>Wegbeschreibung</target>
+        <target state="translated">Wegbeschreibung</target>
       </trans-unit>
       <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send" approved="yes">
         <source>app.send</source>
@@ -713,13 +713,13 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.ourOffice</source>
         <target state="translated">Unser Büro</target>
       </trans-unit>
-      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message">
+      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message" approved="yes">
         <source>app.message</source>
-        <target>Nachricht</target>
+        <target state="translated">Nachricht</target>
       </trans-unit>
-      <trans-unit id="4a9356a76e7806f0bf4ce3d71dc640e1" resname="app.michelDescription">
+      <trans-unit id="4a9356a76e7806f0bf4ce3d71dc640e1" resname="app.michelDescription" approved="yes">
         <source>app.michelDescription</source>
-        <target>Michel verfügt über umfangreiche Erfahrung sowohl im operativen als auch strategischen HR-Bereich. Vor der Gründung von Transport Talent war er bei einem der weltweit größten Logistikunternehmen tätig – unter anderem als Ausbildungsleiter und als Projektmanager im Bereich HR-IT-Systeme.</target>
+        <target state="translated">Michel verfügt über umfangreiche Erfahrung sowohl im operativen als auch strategischen HR-Bereich. Vor der Gründung von Transport Talent war er bei einem der weltweit größten Logistikunternehmen tätig – unter anderem als Ausbildungsleiter und als Projektmanager im Bereich HR-IT-Systeme.</target>
       </trans-unit>
       <trans-unit id="2b7de3031f3ee2b4528f06c2b908f5ce" resname="app.ulrichExperienceAsAnExecutiveSearchConsultant" approved="yes">
         <source>app.ulrichExperienceAsAnExecutiveSearchConsultant</source>
@@ -1053,9 +1053,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.allIndustries</source>
         <target state="translated">Alle Branchen</target>
       </trans-unit>
-      <trans-unit id="446d8f8493afe78ad506bb0df45f2d0e" resname="app.hamburgGermany">
+      <trans-unit id="446d8f8493afe78ad506bb0df45f2d0e" resname="app.hamburgGermany" approved="yes">
         <source>app.hamburgGermany</source>
-        <target>Deutschland</target>
+        <target state="translated">Deutschland</target>
       </trans-unit>
       <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword" approved="yes">
         <source>app.keyword</source>
@@ -1425,153 +1425,153 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.uploadBuildingLogo</source>
         <target state="translated">Foto des Firmengebäudes oder sonstiges Bild hochladen</target>
       </trans-unit>
-      <trans-unit id="30aa234771896270d40d1b5e823d08e1" resname="app.benefitsFeatures">
+      <trans-unit id="30aa234771896270d40d1b5e823d08e1" resname="app.benefitsFeatures" approved="yes">
         <source>app.benefitsFeatures</source>
-        <target>Zusatzleistungen</target>
+        <target state="translated">Zusatzleistungen</target>
       </trans-unit>
-      <trans-unit id="d93636dcd0be86fffe2a7962608c442f" resname="app.flexibleSchedule">
+      <trans-unit id="d93636dcd0be86fffe2a7962608c442f" resname="app.flexibleSchedule" approved="yes">
         <source>app.flexibleSchedule</source>
-        <target>Flexible Arbeitszeiten</target>
+        <target state="translated">Flexible Arbeitszeiten</target>
       </trans-unit>
-      <trans-unit id="c5a3eba1c327ea525bfc4a15460ab6a8" resname="app.challengingAndVariedTasks">
+      <trans-unit id="c5a3eba1c327ea525bfc4a15460ab6a8" resname="app.challengingAndVariedTasks" approved="yes">
         <source>app.challengingAndVariedTasks</source>
-        <target>Anspruchsvolle und abwechslungsreiche Aufgaben</target>
+        <target state="translated">Anspruchsvolle und abwechslungsreiche Aufgaben</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile">
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile" approved="yes">
         <source>app.goToNextCompanyProfile</source>
-        <target>Weiter zum nächsten Unternehmensprofil</target>
+        <target state="translated">Weiter zum nächsten Unternehmensprofil</target>
       </trans-unit>
       <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
         <target state="translated">Anzahl der Mitarbeiter</target>
       </trans-unit>
-      <trans-unit id="1d5b12153a4d4fd24ec9174051003a27" resname="Psychology">
+      <trans-unit id="1d5b12153a4d4fd24ec9174051003a27" resname="Psychology" approved="yes">
         <source>Psychology</source>
-        <target>Psychologie</target>
+        <target state="translated">Psychologie</target>
       </trans-unit>
-      <trans-unit id="50ae99e9c35446c2580e4b540b0fd104" resname="Physics">
+      <trans-unit id="50ae99e9c35446c2580e4b540b0fd104" resname="Physics" approved="yes">
         <source>Physics</source>
-        <target>Physik</target>
+        <target state="translated">Physik</target>
       </trans-unit>
-      <trans-unit id="1694714bde0b68f572cc3c6c7c2eaec2" resname="Physical Therapy &amp; Sports Science">
+      <trans-unit id="1694714bde0b68f572cc3c6c7c2eaec2" resname="Physical Therapy &amp; Sports Science" approved="yes">
         <source>Physical Therapy &amp; Sports Science</source>
-        <target><![CDATA[Physiotherapie & Bewegungswissenschaften]]></target>
+        <target state="translated"><![CDATA[Physiotherapie & Bewegungswissenschaften]]></target>
       </trans-unit>
-      <trans-unit id="a1d603bf7f3fb46a2fa731a522e6c41b" resname="Religion">
+      <trans-unit id="a1d603bf7f3fb46a2fa731a522e6c41b" resname="Religion" approved="yes">
         <source>Religion</source>
-        <target>Religionswissenschaften</target>
+        <target state="translated">Religionswissenschaften</target>
       </trans-unit>
-      <trans-unit id="47dcbd834e669233d7eb8a51456ed217" resname="Music">
+      <trans-unit id="47dcbd834e669233d7eb8a51456ed217" resname="Music" approved="yes">
         <source>Music</source>
-        <target>Musik</target>
+        <target state="translated">Musik</target>
       </trans-unit>
-      <trans-unit id="4ff278b4704d3e44b01ff80f37386777" resname="Medicine">
+      <trans-unit id="4ff278b4704d3e44b01ff80f37386777" resname="Medicine" approved="yes">
         <source>Medicine</source>
-        <target>Medizin</target>
+        <target state="translated">Medizin</target>
       </trans-unit>
-      <trans-unit id="540b21ecdb276f5087ee585cedd6d5d0" resname="Mathematics">
+      <trans-unit id="540b21ecdb276f5087ee585cedd6d5d0" resname="Mathematics" approved="yes">
         <source>Mathematics</source>
-        <target>Mathematik</target>
+        <target state="translated">Mathematik</target>
       </trans-unit>
-      <trans-unit id="7cb15e416d62919b1b40298324fbe30b" resname="Marketing">
+      <trans-unit id="7cb15e416d62919b1b40298324fbe30b" resname="Marketing" approved="yes">
         <source>Marketing</source>
-        <target>Marketing</target>
+        <target state="translated">Marketing</target>
       </trans-unit>
-      <trans-unit id="0a9585a9914b5050d082bacc9b91faf1" resname="Earth Sciences">
+      <trans-unit id="0a9585a9914b5050d082bacc9b91faf1" resname="Earth Sciences" approved="yes">
         <source>Earth Sciences</source>
-        <target>Geowissenschaften</target>
+        <target state="translated">Geowissenschaften</target>
       </trans-unit>
-      <trans-unit id="1afa74da05ca145d3418aad9af510109" resname="Design">
+      <trans-unit id="1afa74da05ca145d3418aad9af510109" resname="Design" approved="yes">
         <source>Design</source>
-        <target>Design</target>
+        <target state="translated">Design</target>
       </trans-unit>
-      <trans-unit id="84cf6008945c9b558ed7c0869557b70d" resname="Chemistry">
+      <trans-unit id="84cf6008945c9b558ed7c0869557b70d" resname="Chemistry" approved="yes">
         <source>Chemistry</source>
-        <target>Chemie</target>
+        <target state="translated">Chemie</target>
       </trans-unit>
-      <trans-unit id="7c03cc67ee33874601244cb4a7773458" resname="Educational Sciences">
+      <trans-unit id="7c03cc67ee33874601244cb4a7773458" resname="Educational Sciences" approved="yes">
         <source>Educational Sciences</source>
-        <target>Erziehungswissenschaften</target>
+        <target state="translated">Erziehungswissenschaften</target>
       </trans-unit>
-      <trans-unit id="ca5b6e885c77e9008a73902c78aa10bb" resname="Engineering (general)">
+      <trans-unit id="ca5b6e885c77e9008a73902c78aa10bb" resname="Engineering (general)" approved="yes">
         <source>Engineering (general)</source>
-        <target>Ingenieurswissenschaften (allgemein)</target>
+        <target state="translated">Ingenieurswissenschaften (allgemein)</target>
       </trans-unit>
-      <trans-unit id="16d2b386b2034b9488996466aaae0b57" resname="History">
+      <trans-unit id="16d2b386b2034b9488996466aaae0b57" resname="History" approved="yes">
         <source>History</source>
-        <target>Geschichte</target>
+        <target state="translated">Geschichte</target>
       </trans-unit>
-      <trans-unit id="93e002c712ad248bb0ade31909cef876" resname="Fashion">
+      <trans-unit id="93e002c712ad248bb0ade31909cef876" resname="Fashion" approved="yes">
         <source>Fashion</source>
-        <target>Mode</target>
+        <target state="translated">Mode</target>
       </trans-unit>
-      <trans-unit id="84352d0cf230738e4ee298790e4b5265" resname="Geography">
+      <trans-unit id="84352d0cf230738e4ee298790e4b5265" resname="Geography" approved="yes">
         <source>Geography</source>
-        <target>Geografie</target>
+        <target state="translated">Geografie</target>
       </trans-unit>
-      <trans-unit id="55fa61778ae8d1236e9e70043eab31d1" resname="Geology">
+      <trans-unit id="55fa61778ae8d1236e9e70043eab31d1" resname="Geology" approved="yes">
         <source>Geology</source>
-        <target>Geologie</target>
+        <target state="translated">Geologie</target>
       </trans-unit>
-      <trans-unit id="eaff1bdf24fcffe0e14e29a1bff51a12" resname="Insurance">
+      <trans-unit id="eaff1bdf24fcffe0e14e29a1bff51a12" resname="Insurance" approved="yes">
         <source>Insurance</source>
-        <target>Versicherungen</target>
+        <target state="translated">Versicherungen</target>
       </trans-unit>
-      <trans-unit id="e779afa8dbfc198e7d4491209fd7abeb" resname="International Relations">
+      <trans-unit id="e779afa8dbfc198e7d4491209fd7abeb" resname="International Relations" approved="yes">
         <source>International Relations</source>
-        <target>Internationale Beziehungen</target>
+        <target state="translated">Internationale Beziehungen</target>
       </trans-unit>
-      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance">
+      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
         <source>Finance</source>
-        <target>Finanzwesen</target>
+        <target state="translated">Finanzwesen</target>
       </trans-unit>
-      <trans-unit id="60e5e44b28875aad977a4a1493b565ea" resname="Environmental Engineering">
+      <trans-unit id="60e5e44b28875aad977a4a1493b565ea" resname="Environmental Engineering" approved="yes">
         <source>Environmental Engineering</source>
-        <target>Umwelttechnik</target>
+        <target state="translated">Umwelttechnik</target>
       </trans-unit>
-      <trans-unit id="7e1e3f377648773863a504d18b367ea3" resname="Economics">
+      <trans-unit id="7e1e3f377648773863a504d18b367ea3" resname="Economics" approved="yes">
         <source>Economics</source>
-        <target>Wirtschaftswissenschaften</target>
+        <target state="translated">Wirtschaftswissenschaften</target>
       </trans-unit>
-      <trans-unit id="670b3adf70a711e77fcffc9eaece3387" resname="Industrial Engineering">
+      <trans-unit id="670b3adf70a711e77fcffc9eaece3387" resname="Industrial Engineering" approved="yes">
         <source>Industrial Engineering</source>
-        <target>Wirtschaftsingenieurwesen</target>
+        <target state="translated">Wirtschaftsingenieurwesen</target>
       </trans-unit>
-      <trans-unit id="e9032c3a7d03ad94adb8d74a3f302869" resname="Electrical Engineering">
+      <trans-unit id="e9032c3a7d03ad94adb8d74a3f302869" resname="Electrical Engineering" approved="yes">
         <source>Electrical Engineering</source>
-        <target>Elektortechnik</target>
+        <target state="translated">Elektortechnik</target>
       </trans-unit>
-      <trans-unit id="b56d045fcc7ecff78c19658eeb62aaba" resname="Computer Sciences">
+      <trans-unit id="b56d045fcc7ecff78c19658eeb62aaba" resname="Computer Sciences" approved="yes">
         <source>Computer Sciences</source>
-        <target>Informatik</target>
+        <target state="translated">Informatik</target>
       </trans-unit>
-      <trans-unit id="07a3dd247ad6bec7fe401aa11619959f" resname="Communication">
+      <trans-unit id="07a3dd247ad6bec7fe401aa11619959f" resname="Communication" approved="yes">
         <source>Communication</source>
-        <target>Kommunikationswissenschaften</target>
+        <target state="translated">Kommunikationswissenschaften</target>
       </trans-unit>
-      <trans-unit id="424dbc0cdd64fcb86bb27daba7470f9d" resname="Classics">
+      <trans-unit id="424dbc0cdd64fcb86bb27daba7470f9d" resname="Classics" approved="yes">
         <source>Classics</source>
-        <target>Altertumswissenschaften</target>
+        <target state="translated">Altertumswissenschaften</target>
       </trans-unit>
-      <trans-unit id="edb39c86b27856a5b82c4fd717e547a3" resname="Chemical Engineering">
+      <trans-unit id="edb39c86b27856a5b82c4fd717e547a3" resname="Chemical Engineering" approved="yes">
         <source>Chemical Engineering</source>
-        <target>Chemieingenieurwesen</target>
+        <target state="translated">Chemieingenieurwesen</target>
       </trans-unit>
-      <trans-unit id="683b28f35b7714acb6ecdb07246e606d" resname="Business Administration">
+      <trans-unit id="683b28f35b7714acb6ecdb07246e606d" resname="Business Administration" approved="yes">
         <source>Business Administration</source>
-        <target>Betriebswirtschaftslehre</target>
+        <target state="translated">Betriebswirtschaftslehre</target>
       </trans-unit>
-      <trans-unit id="0a7c6bf17a985fbf857509b7d22c8cd7" resname="Biological Sciences">
+      <trans-unit id="0a7c6bf17a985fbf857509b7d22c8cd7" resname="Biological Sciences" approved="yes">
         <source>Biological Sciences</source>
-        <target>Biowissenschaften</target>
+        <target state="translated">Biowissenschaften</target>
       </trans-unit>
-      <trans-unit id="bc0723ce196359666d759c14cf0a9aab" resname="Biomedical Sciences">
+      <trans-unit id="bc0723ce196359666d759c14cf0a9aab" resname="Biomedical Sciences" approved="yes">
         <source>Biomedical Sciences</source>
-        <target>Biomedizin</target>
+        <target state="translated">Biomedizin</target>
       </trans-unit>
-      <trans-unit id="978d7d6bde930f0fa9615627a15b2fc1" resname="Art">
+      <trans-unit id="978d7d6bde930f0fa9615627a15b2fc1" resname="Art" approved="yes">
         <source>Art</source>
-        <target>Kunst</target>
+        <target state="translated">Kunst</target>
       </trans-unit>
       <trans-unit id="4636f4c5b404988acf886d899cc12a78" resname="Anthropology" approved="yes">
         <source>Anthropology</source>
@@ -1581,61 +1581,61 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>Architecture, Urban Design &amp; Landscaping</source>
         <target state="translated">Architektur, Stadt- und Landschaftsplanung</target>
       </trans-unit>
-      <trans-unit id="e9a5303af894fd821f830ce729832971" resname="Entrepreneurship &amp; Innovation">
+      <trans-unit id="e9a5303af894fd821f830ce729832971" resname="Entrepreneurship &amp; Innovation" approved="yes">
         <source>Entrepreneurship &amp; Innovation</source>
-        <target><![CDATA[Entrepreneurship & Innovation]]></target>
+        <target state="translated"><![CDATA[Entrepreneurship & Innovation]]></target>
       </trans-unit>
-      <trans-unit id="f1506b6384d089277f61a768904fcaaa" resname="Literature">
+      <trans-unit id="f1506b6384d089277f61a768904fcaaa" resname="Literature" approved="yes">
         <source>Literature</source>
-        <target>Literaturwissenschaften</target>
+        <target state="translated">Literaturwissenschaften</target>
       </trans-unit>
-      <trans-unit id="81588d326cebe6416d3904db93603af1" resname="Law">
+      <trans-unit id="81588d326cebe6416d3904db93603af1" resname="Law" approved="yes">
         <source>Law</source>
-        <target>Jura</target>
+        <target state="translated">Jura</target>
       </trans-unit>
-      <trans-unit id="9c67e724deae01e378732319e7c0268a" resname="Journalism">
+      <trans-unit id="9c67e724deae01e378732319e7c0268a" resname="Journalism" approved="yes">
         <source>Journalism</source>
-        <target>Publizistik</target>
+        <target state="translated">Publizistik</target>
       </trans-unit>
-      <trans-unit id="f47ac95069e00f0aa5cf8ed498af3bde" resname="Mechanical Engineering">
+      <trans-unit id="f47ac95069e00f0aa5cf8ed498af3bde" resname="Mechanical Engineering" approved="yes">
         <source>Mechanical Engineering</source>
-        <target>Maschinenbau</target>
+        <target state="translated">Maschinenbau</target>
       </trans-unit>
-      <trans-unit id="68d157ab5dc876ea850017a9e8091e09" resname="Media &amp; Culture">
+      <trans-unit id="68d157ab5dc876ea850017a9e8091e09" resname="Media &amp; Culture" approved="yes">
         <source>Media &amp; Culture</source>
-        <target>Medien- und Kulturwissenschaften</target>
+        <target state="translated">Medien- und Kulturwissenschaften</target>
       </trans-unit>
-      <trans-unit id="e7ceb1f40b0fa44c3c96ff302b54cc98" resname="Midwifery">
+      <trans-unit id="e7ceb1f40b0fa44c3c96ff302b54cc98" resname="Midwifery" approved="yes">
         <source>Midwifery</source>
-        <target>Geburtskunde</target>
+        <target state="translated">Geburtskunde</target>
       </trans-unit>
-      <trans-unit id="c1311fa3447790f02b8e9181846c2205" resname="Nursing">
+      <trans-unit id="c1311fa3447790f02b8e9181846c2205" resname="Nursing" approved="yes">
         <source>Nursing</source>
-        <target>Krankenpflege</target>
+        <target state="translated">Krankenpflege</target>
       </trans-unit>
-      <trans-unit id="bf035ab77b10209b5cec697ff0d1599d" resname="Pharmacology">
+      <trans-unit id="bf035ab77b10209b5cec697ff0d1599d" resname="Pharmacology" approved="yes">
         <source>Pharmacology</source>
-        <target>Pharmazie</target>
+        <target state="translated">Pharmazie</target>
       </trans-unit>
-      <trans-unit id="e5348e0c46480066c8c2176421798201" resname="Philosophy">
+      <trans-unit id="e5348e0c46480066c8c2176421798201" resname="Philosophy" approved="yes">
         <source>Philosophy</source>
-        <target>Philosophie</target>
+        <target state="translated">Philosophie</target>
       </trans-unit>
-      <trans-unit id="d84514acf6dd2dbbac51a77bd394e0ac" resname="Real Estate">
+      <trans-unit id="d84514acf6dd2dbbac51a77bd394e0ac" resname="Real Estate" approved="yes">
         <source>Real Estate</source>
-        <target>Immobilienwirtschaft</target>
+        <target state="translated">Immobilienwirtschaft</target>
       </trans-unit>
-      <trans-unit id="9ed4018b7ffde58b4df25656f7fdf81f" resname="Materials Sciences &amp; Nanotechnology">
+      <trans-unit id="9ed4018b7ffde58b4df25656f7fdf81f" resname="Materials Sciences &amp; Nanotechnology" approved="yes">
         <source>Materials Sciences &amp; Nanotechnology</source>
-        <target><![CDATA[Werkstoffwissenschaft & Nanotechnologie]]></target>
+        <target state="translated"><![CDATA[Werkstoffwissenschaft & Nanotechnologie]]></target>
       </trans-unit>
-      <trans-unit id="53786207f17b1aad93dd2ef4519500cf" resname="Social Work">
+      <trans-unit id="53786207f17b1aad93dd2ef4519500cf" resname="Social Work" approved="yes">
         <source>Social Work</source>
-        <target>Soziale Arbeit</target>
+        <target state="translated">Soziale Arbeit</target>
       </trans-unit>
-      <trans-unit id="2363ebcdd984055673d08534c5c250c8" resname="Sociology">
+      <trans-unit id="2363ebcdd984055673d08534c5c250c8" resname="Sociology" approved="yes">
         <source>Sociology</source>
-        <target>Soziologie</target>
+        <target state="translated">Soziologie</target>
       </trans-unit>
       <trans-unit id="cb35a26844e4d843df624c764780e9ec" resname="Air freight" approved="yes">
         <source>Air freight</source>
@@ -1705,17 +1705,17 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>Other</source>
         <target state="translated">Sonstige</target>
       </trans-unit>
-      <trans-unit id="51fc1f7cb3000ceefa5889bc2dc4b116" resname="Elementary proficiency">
+      <trans-unit id="51fc1f7cb3000ceefa5889bc2dc4b116" resname="Elementary proficiency" approved="yes">
         <source>Elementary proficiency</source>
-        <target>Grundkenntnisse</target>
+        <target state="translated">Grundkenntnisse</target>
       </trans-unit>
-      <trans-unit id="96742d80da45e333a6d050efbb5cf575" resname="app.ifYouWouldLikeToKnowMoreAboutOpportunities">
+      <trans-unit id="96742d80da45e333a6d050efbb5cf575" resname="app.ifYouWouldLikeToKnowMoreAboutOpportunities" approved="yes">
         <source>app.ifYouWouldLikeToKnowMoreAboutOpportunities</source>
-        <target>Wenn du mehr über Karrieremöglichkeiten bei Transport Talent wissen möchtest, kontaktiere uns unter</target>
+        <target state="translated">Wenn du mehr über Karrieremöglichkeiten bei Transport Talent wissen möchtest, kontaktiere uns unter</target>
       </trans-unit>
-      <trans-unit id="13bfbac2bf18eb8bb58690e275ecf526" resname="app.relaxedAndFunWorkingEnvironment">
+      <trans-unit id="13bfbac2bf18eb8bb58690e275ecf526" resname="app.relaxedAndFunWorkingEnvironment" approved="yes">
         <source>app.relaxedAndFunWorkingEnvironment</source>
-        <target>Entspannte und lockere Arbeitsatmosphäre</target>
+        <target state="translated">Entspannte und lockere Arbeitsatmosphäre</target>
       </trans-unit>
       <trans-unit id="4673177b6a8f2c6efcdf317f31fdcb31" resname="app.thisIsNotAValidName" approved="yes">
         <source>app.thisIsNotAValidName</source>
@@ -1789,37 +1789,37 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.yourSkill</source>
         <target state="translated">Qualifikation</target>
       </trans-unit>
-      <trans-unit id="2e31261d67095334eaca48cb47174fa2" resname="Limited working proficiency">
+      <trans-unit id="2e31261d67095334eaca48cb47174fa2" resname="Limited working proficiency" approved="yes">
         <source>Limited working proficiency</source>
-        <target>Konversationssicher</target>
+        <target state="translated">Konversationssicher</target>
       </trans-unit>
-      <trans-unit id="79e11d3dbf64e73e21b867b48692cfab" resname="Professional working proficiency">
+      <trans-unit id="79e11d3dbf64e73e21b867b48692cfab" resname="Professional working proficiency" approved="yes">
         <source>Professional working proficiency</source>
-        <target>Fließend</target>
+        <target state="translated">Fließend</target>
       </trans-unit>
-      <trans-unit id="bbcbae2cfa1b1c9e58ea4a5f2207520e" resname="Full professional proficiency">
+      <trans-unit id="bbcbae2cfa1b1c9e58ea4a5f2207520e" resname="Full professional proficiency" approved="yes">
         <source>Full professional proficiency</source>
-        <target>Verhandlungssicher</target>
+        <target state="translated">Verhandlungssicher</target>
       </trans-unit>
-      <trans-unit id="f002e9681c8e08ca2f3f94f814ac7885" resname="Native or bilingual proficiency">
+      <trans-unit id="f002e9681c8e08ca2f3f94f814ac7885" resname="Native or bilingual proficiency" approved="yes">
         <source>Native or bilingual proficiency</source>
-        <target>Muttersprache</target>
+        <target state="translated">Muttersprache</target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target>Jeden Monat mehr als 1.000 neue Jobs</target>
+        <target state="translated">Jeden Monat mehr als 1.000 neue Jobs</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>Ich akzeptiere die</target>
+        <target state="translated">Ich akzeptiere die</target>
       </trans-unit>
       <trans-unit id="e9d55e00280bfcf9fa2d989c9b3788c8" resname="app.byMeansOfTheWebsiteTransportTalentMakes" approved="yes">
         <source>app.byMeansOfTheWebsiteTransportTalentMakes</source>
         <target state="translated">Transport Talent stellt durch die Webseite einen Online-Informationsdienst zur Arbeits- und Personalvermittlung bereit, über welchen wir Stellenanzeigen von Arbeitgebern in der Transport- und Logistikbranche zeigen. Bei Interesse können Sie auf die Ausschreibungen (die “Dienste”) reagieren.</target>
       </trans-unit>
-      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer">
+      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer" approved="yes">
         <source>app.employer</source>
-        <target>Arbeitgeber</target>
+        <target state="translated">Arbeitgeber</target>
       </trans-unit>
       <trans-unit id="5e1c3118909284e13a83e1da24c759a5" resname="app.panalpinaDescription">
         <source>app.panalpinaDescription</source>
@@ -1829,161 +1829,161 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.dsvDescription</source>
         <target><![CDATA[<div class="headline headline-font">Über DSV A/S</div> <p>DSV ist ein globales Transport- und Logistikunternehmen, das weltweit Straßenverkehr-, Luft- und Seefrachtdienstleistungen anbietet. Seit der Gründung 1976 ist DSV schnell bis zu internationaler Präsenz gewachsen, hauptsächlich durch die gezielte Akquise von Konkurrenzunternehmen. Heute beschäftigt DSV weltweit über 40.000 Mitarbeiter und verfügt neben dem Hauptsitz in Kopenagen über eigene Büros in mehr als 70 Ländern. Ein internationales Netz an Partnern ermöglicht es uns, unsere Leistungen in der ganzen Welt anzubieten. Die Aktien von DSV sind zum Handel an der Kopenhagener Börse zugelassen.</p> <p>Das Unternehmen ist in drei Bereiche unterteilt: DSV Road, DSV Air & Sea and DSV Solutions. Der Schwerpunkt der Aktivitäten liegt auf dem europäischen Straßentransportnetz sowie den Luft- und Seefrachttransporten. Geschäftsführer (CEO) ist seit 2008 Jens Bjørn Andersen. 2014 erzielte DSV einen Umsatz von 6.517 Millionen Euro und einen EBITA vno 352 Millionen Euro.</p> <div class="headline headline-font">Arbeiten bei DSV</div> <p>DSV beschäftigt rund 23.000 Mitarbeiter und befindet sich mit dem globalen Markt im steten Wandel. Als  fünftgrößter Anbieter von Transport- und Logistikdienstleistungen weltweit eröffnet DSV Ihnen vielfältige Möglichkeiten der beruflichen Entwicklung mit internationaler Perspektive.</p>]]></target>
       </trans-unit>
-      <trans-unit id="15b93745b36e105e7c357fe1e10b6c83" resname="app.egSkillName">
+      <trans-unit id="15b93745b36e105e7c357fe1e10b6c83" resname="app.egSkillName" approved="yes">
         <source>app.egSkillName</source>
-        <target>z.B. AS/400</target>
+        <target state="translated">z.B. AS/400</target>
       </trans-unit>
-      <trans-unit id="1f41ba6747474b41d56b04b5374a9fd9" resname="app.female">
+      <trans-unit id="1f41ba6747474b41d56b04b5374a9fd9" resname="app.female" approved="yes">
         <source>app.female</source>
-        <target>weiblich</target>
+        <target state="translated">weiblich</target>
       </trans-unit>
-      <trans-unit id="393549677ebf5b4f95ce37ec6e91b910" resname="app.male">
+      <trans-unit id="393549677ebf5b4f95ce37ec6e91b910" resname="app.male" approved="yes">
         <source>app.male</source>
-        <target>männlich</target>
+        <target state="translated">männlich</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage">
+      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
-        <target>Wir verwenden Cookies, um Ihr Nutzungserlebnis auf dieser Website zu verbessern. Dazu gehören auch Cookies von Drittanbietern, wenn Sie z. B. eine Seite mit eingebetteten Inhalten aus sozialen Netzwerken besuchen. Diese Cookies von Drittanbietern können Ihre Nutzung unserer Website aufzeichnen. Wenn Sie fortfahren, gehen wir davon aus, dass Sie damit einverstanden sind, Cookies von unserer Website zu erhalten.</target>
+        <target state="translated">Wir verwenden Cookies, um Ihr Nutzungserlebnis auf dieser Website zu verbessern. Dazu gehören auch Cookies von Drittanbietern, wenn Sie z. B. eine Seite mit eingebetteten Inhalten aus sozialen Netzwerken besuchen. Diese Cookies von Drittanbietern können Ihre Nutzung unserer Website aufzeichnen. Wenn Sie fortfahren, gehen wir davon aus, dass Sie damit einverstanden sind, Cookies von unserer Website zu erhalten.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton">
+      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
-        <target>Schließen</target>
+        <target state="translated">Schließen</target>
       </trans-unit>
-      <trans-unit id="bd5476e8f33749530f87777476eeda72" resname="Supply Chain Management">
+      <trans-unit id="bd5476e8f33749530f87777476eeda72" resname="Supply Chain Management" approved="yes">
         <source>Supply Chain Management</source>
-        <target>Supply-Chain-Management</target>
+        <target state="translated">Supply-Chain-Management</target>
       </trans-unit>
-      <trans-unit id="49e776b6be7a2a65d108e5e801113557" resname="Public Health">
+      <trans-unit id="49e776b6be7a2a65d108e5e801113557" resname="Public Health" approved="yes">
         <source>Public Health</source>
-        <target>Gesundheitswissenschaften</target>
+        <target state="translated">Gesundheitswissenschaften</target>
       </trans-unit>
       <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices" approved="yes">
         <source>app.theServices</source>
         <target state="translated">Unsere Services</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
+      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="yes">
         <source>app.noCompanyDescription</source>
-        <target>Unternehmensprofil nicht verfügbar</target>
+        <target state="translated">Unternehmensprofil nicht verfügbar</target>
       </trans-unit>
-      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
+      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable" approved="yes">
         <source>app.notAvailable</source>
-        <target>Nicht verfügbar</target>
+        <target state="translated">Nicht verfügbar</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs">
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target>Interessante Angebote durchsuchen</target>
+        <target state="translated">Interessante Angebote durchsuchen</target>
       </trans-unit>
-      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn">
+      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn" approved="yes">
         <source>app.featuredJobsRegisterBtn</source>
-        <target>Registrieren Sie sich, um mehr zu sehen</target>
+        <target state="translated">Registrieren Sie sich, um mehr zu sehen</target>
       </trans-unit>
-      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home">
+      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="yes">
         <source>app.home</source>
-        <target>Startseite</target>
+        <target state="translated">Startseite</target>
       </trans-unit>
-      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies">
+      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
         <source>app.findCompanies</source>
-        <target>Unternehmen suchen</target>
+        <target state="translated">Unternehmen suchen</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target>Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+        <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
       </trans-unit>
-      <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta">
+      <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta" approved="yes">
         <source>app.loginCta</source>
-        <target>Jeden Tag fügen wir neue Jobs hinzu. Melden Sie sich an und beginnen mit Ihrer Suche.</target>
+        <target state="translated">Jeden Tag fügen wir neue Jobs hinzu. Melden Sie sich an und beginnen mit Ihrer Suche.</target>
       </trans-unit>
-      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline">
+      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline" approved="yes">
         <source>app.loginHeadline</source>
-        <target>Großartig, Sie wiederzusehen!</target>
+        <target state="translated">Großartig, Sie wiederzusehen!</target>
       </trans-unit>
-      <trans-unit id="3f53d53888699151e9b1c5619eecc6a0" resname="app.forwardHeadline">
+      <trans-unit id="3f53d53888699151e9b1c5619eecc6a0" resname="app.forwardHeadline" approved="yes">
         <source>app.forwardHeadline</source>
-        <target>Du wirst jetzt weitergeleitet.</target>
+        <target state="translated">Du wirst jetzt weitergeleitet.</target>
       </trans-unit>
-      <trans-unit id="e3d8e61ba06234a5de0f0c6b8b0426b4" resname="app.pleaseNote">
+      <trans-unit id="e3d8e61ba06234a5de0f0c6b8b0426b4" resname="app.pleaseNote" approved="yes">
         <source>app.pleaseNote</source>
-        <target>Hinweis</target>
+        <target state="translated">Hinweis</target>
       </trans-unit>
-      <trans-unit id="fc0851e51f1e3ade0aac1ab350ac2a7d" resname="app.forwardMsg">
+      <trans-unit id="fc0851e51f1e3ade0aac1ab350ac2a7d" resname="app.forwardMsg" approved="yes">
         <source>app.forwardMsg</source>
-        <target>Wir leiten Sie jetzt auf die Webseite des Arbeitgebers weiter, wo Sie weitere Informationen zu dem Stellenangebot finden, das Sie interessiert.</target>
+        <target state="translated">Wir leiten Sie jetzt auf die Webseite des Arbeitgebers weiter, wo Sie weitere Informationen zu dem Stellenangebot finden, das Sie interessiert.</target>
       </trans-unit>
-      <trans-unit id="735da9add7f8d9d5d06a847f4dd308c5" resname="app.forwardOkButton">
+      <trans-unit id="735da9add7f8d9d5d06a847f4dd308c5" resname="app.forwardOkButton" approved="yes">
         <source>app.forwardOkButton</source>
-        <target>Zeige mir die Stellenanzeige</target>
+        <target state="translated">Zeige mir die Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="5f0cc9603450d46a985aa9f028780b9f" resname="app.forwardCancelButton">
+      <trans-unit id="5f0cc9603450d46a985aa9f028780b9f" resname="app.forwardCancelButton" approved="yes">
         <source>app.forwardCancelButton</source>
-        <target>Danke, nicht jetzt. Bring mich zurück zur vorherigen Seite.</target>
+        <target state="translated">Danke, nicht jetzt. Bring mich zurück zur vorherigen Seite.</target>
       </trans-unit>
-      <trans-unit id="e05a2f43fbef57eb0d67e41cbe8fb719" resname="app.newsletterHeadline">
+      <trans-unit id="e05a2f43fbef57eb0d67e41cbe8fb719" resname="app.newsletterHeadline" approved="yes">
         <source>app.newsletterHeadline</source>
-        <target>Melden Sie sich zu unserem Newsletter an</target>
+        <target state="translated">Melden Sie sich zu unserem Newsletter an</target>
       </trans-unit>
-      <trans-unit id="6a54f215a2f93d1f634404cedb1cde30" resname="app.newsletterInputPlaceholder">
+      <trans-unit id="6a54f215a2f93d1f634404cedb1cde30" resname="app.newsletterInputPlaceholder" approved="yes">
         <source>app.newsletterInputPlaceholder</source>
-        <target>E-Mail</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="a8df088864272dc27d83a2d5cb4c2a4c" resname="app.newsletterCta">
+      <trans-unit id="a8df088864272dc27d83a2d5cb4c2a4c" resname="app.newsletterCta" approved="yes">
         <source>app.newsletterCta</source>
-        <target>Wir informieren über Neuerungen auf unseren Seiten und weitere Themen</target>
+        <target state="translated">Wir informieren über Neuerungen auf unseren Seiten und weitere Themen</target>
       </trans-unit>
-      <trans-unit id="c112ee773573e77375cd814589548bcc" resname="app.newsletterButtonText">
+      <trans-unit id="c112ee773573e77375cd814589548bcc" resname="app.newsletterButtonText" approved="yes">
         <source>app.newsletterButtonText</source>
-        <target>Melden Sie sich an</target>
+        <target state="translated">Melden Sie sich an</target>
       </trans-unit>
-      <trans-unit id="d834cc9ac0e13c135b4d270ee93e92e3" resname="app.newsletterFollowCta">
+      <trans-unit id="d834cc9ac0e13c135b4d270ee93e92e3" resname="app.newsletterFollowCta" approved="yes">
         <source>app.newsletterFollowCta</source>
-        <target>... oder folge uns über Social Media.</target>
+        <target state="translated">... oder folge uns über Social Media.</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
+      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
-        <target>Impressum</target>
+        <target state="translated">Impressum</target>
       </trans-unit>
-      <trans-unit id="45d70b2ebd4a101d2f40f51ffa5e772a" resname="app.emailNotValid">
+      <trans-unit id="45d70b2ebd4a101d2f40f51ffa5e772a" resname="app.emailNotValid" approved="yes">
         <source>app.emailNotValid</source>
-        <target>E-Mail-Adresse ungültig!</target>
+        <target state="translated">E-Mail-Adresse ungültig!</target>
       </trans-unit>
-      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline">
+      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="yes">
         <source>app.imprintHeadline</source>
-        <target>Verantwortlich für die Internetseiten von Transport Talent ApS</target>
+        <target state="translated">Verantwortlich für die Internetseiten von Transport Talent ApS</target>
       </trans-unit>
-      <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg">
+      <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg" approved="yes">
         <source>app.imprintMsg</source>
-        <target><![CDATA[<b>Unternehmen und Anschrift</b><br>Transport Talent ApS<br>Islands Brygge 77D, 4 TH<br>DK-2300 Copenhagen<br>Denmark<br><br><b>Geschäftsführer</b><br>Ulrich Nissen<br><br><b>Ihr Kontakt zu Transport Talent</b><br>info@transporttalent.com<br>+49 40 53 799 1400<br><br><b>Umsatzsteuer ID Nummer</b><br>DK37395048]]></target>
+        <target state="translated"><![CDATA[<b>Unternehmen und Anschrift</b><br>Transport Talent ApS<br>Islands Brygge 77D, 4 TH<br>DK-2300 Copenhagen<br>Denmark<br><br><b>Geschäftsführer</b><br>Ulrich Nissen<br><br><b>Ihr Kontakt zu Transport Talent</b><br>info@transporttalent.com<br>+49 40 53 799 1400<br><br><b>Umsatzsteuer ID Nummer</b><br>DK37395048]]></target>
       </trans-unit>
-      <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline">
+      <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline" approved="yes">
         <source>app.certificateHeadline</source>
-        <target>Wir nehmen Datenschutz ernst! Lesen Sie unsere Datenschutzerklärung, um mehr darüber zu erfahren, wie wir Ihre Daten schützen.</target>
+        <target state="translated">Wir nehmen Datenschutz ernst! Lesen Sie unsere Datenschutzerklärung, um mehr darüber zu erfahren, wie wir Ihre Daten schützen.</target>
       </trans-unit>
-      <trans-unit id="0ef976bfba332fc101f758c80e6cd5cb" resname="app.certificateMsg">
+      <trans-unit id="0ef976bfba332fc101f758c80e6cd5cb" resname="app.certificateMsg" approved="yes">
         <source>app.certificateMsg</source>
-        <target>Bei dem Thema Datenschutz und Sicherheit machen wir keine Kompromisse. Wir betreiben unsere Server ausschließlich in Deutschland. Die von Ihnen eingetragenen Daten werden wir nicht ohne Rücksprache und Genehmigung weitergeben. Bei uns entscheiden Sie, was mit Ihren Daten passiert!</target>
+        <target state="translated">Bei dem Thema Datenschutz und Sicherheit machen wir keine Kompromisse. Wir betreiben unsere Server ausschließlich in Deutschland. Die von Ihnen eingetragenen Daten werden wir nicht ohne Rücksprache und Genehmigung weitergeben. Bei uns entscheiden Sie, was mit Ihren Daten passiert!</target>
       </trans-unit>
-      <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta">
+      <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta" approved="yes">
         <source>app.employersPageSearchCta</source>
-        <target><![CDATA[Auf der Suche nach Ihrem nächsten Arbeitgeber?<br>Nutzen Sie die Filter für ein besseres Ergebnis.]]></target>
+        <target state="translated"><![CDATA[Auf der Suche nach Ihrem nächsten Arbeitgeber?<br>Nutzen Sie die Filter für ein besseres Ergebnis.]]></target>
       </trans-unit>
-      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch">
+      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch" approved="yes">
         <source>app.yourSearch</source>
-        <target>Was</target>
+        <target state="translated">Was</target>
       </trans-unit>
-      <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
+      <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta" approved="yes">
         <source>app.registerCta</source>
-        <target><![CDATA[Melden Sie sich an und vervollständigen Sie Ihr Profil, damit wir uns für Sie auf die Suche machen können.<br>Melden Sie sich mit einem Ihrer Social-Media-Profile an oder nutzen Sie die untenstehenden Felder.]]></target>
+        <target state="translated"><![CDATA[Melden Sie sich an und vervollständigen Sie Ihr Profil, damit wir uns für Sie auf die Suche machen können.<br>Melden Sie sich mit einem Ihrer Social-Media-Profile an oder nutzen Sie die untenstehenden Felder.]]></target>
       </trans-unit>
-      <trans-unit id="ca5c7ac078ef514b5904e30e5d3b2f36" resname="app.jobsPageSearchCta">
+      <trans-unit id="ca5c7ac078ef514b5904e30e5d3b2f36" resname="app.jobsPageSearchCta" approved="yes">
         <source>app.jobsPageSearchCta</source>
-        <target>Nutzen Sie die Filter, um Ihre Ergebnisse einzugrenzen.</target>
+        <target state="translated">Nutzen Sie die Filter, um Ihre Ergebnisse einzugrenzen.</target>
       </trans-unit>
-      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes">
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes" approved="yes">
         <source>app.allJobTypes</source>
-        <target>Alle Bereiche</target>
+        <target state="translated">Alle Bereiche</target>
       </trans-unit>
-      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels">
+      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels" approved="yes">
         <source>app.allJobLevels</source>
-        <target>Alle Level</target>
+        <target state="translated">Alle Level</target>
       </trans-unit>
       <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or">
         <source>or</source>
@@ -2013,9 +2013,9 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.managingDirector</source>
         <target state="translated">Geschäftsführer</target>
       </trans-unit>
-      <trans-unit id="18298c743220f5ba6e6749b901a2321e" resname="app.newsletterSuccessMsg">
+      <trans-unit id="18298c743220f5ba6e6749b901a2321e" resname="app.newsletterSuccessMsg" approved="yes">
         <source>app.newsletterSuccessMsg</source>
-        <target>Sie haben sich erfolgreich für unseren Newsletter angemeldet!</target>
+        <target state="translated">Sie haben sich erfolgreich für unseren Newsletter angemeldet!</target>
       </trans-unit>
       <trans-unit id="494af3b3ad03915e229f28a12108af19" resname="app.orPhoneNumber" approved="yes">
         <source>app.orPhoneNumber</source>
@@ -2081,233 +2081,233 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>theFastestWay</source>
         <target>Der schnellste Weg zu einem neuen Job in</target>
       </trans-unit>
-      <trans-unit id="42902db7861248191268676e763d2669" resname="app.benefits">
+      <trans-unit id="42902db7861248191268676e763d2669" resname="app.benefits" approved="yes">
         <source>app.benefits</source>
-        <target>Zusatzleistungen</target>
+        <target state="translated">Zusatzleistungen</target>
       </trans-unit>
       <trans-unit id="05e1fbea86d3903693e85858c3a75c72" resname="app.brandingPackageName" approved="yes">
         <source>app.brandingPackageName</source>
         <target state="translated">Premiumanzeige</target>
       </trans-unit>
-      <trans-unit id="ecbf9e1e06875be222578139627a5b98" resname="app.yourProfileIs">
+      <trans-unit id="ecbf9e1e06875be222578139627a5b98" resname="app.yourProfileIs" approved="yes">
         <source>app.yourProfileIs</source>
-        <target>Ihr Profil ist zu</target>
+        <target state="translated">Ihr Profil ist zu</target>
       </trans-unit>
-      <trans-unit id="bbd99ce3b5ea27d666f751e51df48daf" resname="app.completeDot">
+      <trans-unit id="bbd99ce3b5ea27d666f751e51df48daf" resname="app.completeDot" approved="yes">
         <source>app.completeDot</source>
-        <target>vollständig.</target>
+        <target state="translated">vollständig.</target>
       </trans-unit>
-      <trans-unit id="b1bfd64755462b0434361a1dc8063cd8" resname="app.myProfileCta1">
+      <trans-unit id="b1bfd64755462b0434361a1dc8063cd8" resname="app.myProfileCta1" approved="yes">
         <source>app.myProfileCta1</source>
-        <target>Erstellen Sie Ihr Profil</target>
+        <target state="translated">Erstellen Sie Ihr Profil</target>
       </trans-unit>
-      <trans-unit id="22232c338551bd8706640a9c8a232ab5" resname="app.myProfileCta2">
+      <trans-unit id="22232c338551bd8706640a9c8a232ab5" resname="app.myProfileCta2" approved="yes">
         <source>app.myProfileCta2</source>
-        <target>Angaben zu Ihren Qualifikationen und Präferenzen erhöhen Ihre Chance auf einen neuen Job.</target>
+        <target state="translated">Angaben zu Ihren Qualifikationen und Präferenzen erhöhen Ihre Chance auf einen neuen Job.</target>
       </trans-unit>
-      <trans-unit id="b7ffc4d17a461aa81fe12f765799f110" resname="app.uploadCv">
+      <trans-unit id="b7ffc4d17a461aa81fe12f765799f110" resname="app.uploadCv" approved="yes">
         <source>app.uploadCv</source>
-        <target>Lebenslauf hochladen</target>
+        <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save">
+      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
         <source>app.save</source>
-        <target>Speichern</target>
+        <target state="translated">Speichern</target>
       </trans-unit>
-      <trans-unit id="39dd0de49006e89eca0e2d7d48a29c77" resname="app.savedJobs">
+      <trans-unit id="39dd0de49006e89eca0e2d7d48a29c77" resname="app.savedJobs" approved="yes">
         <source>app.savedJobs</source>
-        <target>Gespeicherte Jobs</target>
+        <target state="translated">Gespeicherte Jobs</target>
       </trans-unit>
-      <trans-unit id="527352d8f5b359c5e008fae203e1b4c3" resname="app.savedCompanies">
+      <trans-unit id="527352d8f5b359c5e008fae203e1b4c3" resname="app.savedCompanies" approved="yes">
         <source>app.savedCompanies</source>
-        <target>Gespeicherte Unternehmen</target>
+        <target state="translated">Gespeicherte Unternehmen</target>
       </trans-unit>
-      <trans-unit id="8346d98399027a97ba9303b4f2fb24ba" resname="app.clickToAdd">
+      <trans-unit id="8346d98399027a97ba9303b4f2fb24ba" resname="app.clickToAdd" approved="yes">
         <source>app.clickToAdd</source>
-        <target>Zum Hinzufügen klicken</target>
+        <target state="translated">Zum Hinzufügen klicken</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded">
+      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
-        <target>Datei hochgeladen!</target>
+        <target state="translated">Datei hochgeladen!</target>
       </trans-unit>
-      <trans-unit id="9c0cfdf74d56de16ebdb326d53ce2056" resname="app.view">
+      <trans-unit id="9c0cfdf74d56de16ebdb326d53ce2056" resname="app.view" approved="yes">
         <source>app.view</source>
-        <target>Anzeigen</target>
+        <target state="translated">Anzeigen</target>
       </trans-unit>
-      <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies">
+      <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
-        <target>Neue Unternehmen finden</target>
+        <target state="translated">Neue Unternehmen finden</target>
       </trans-unit>
-      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="yes">
         <source>app.readOn</source>
-        <target>Weiterlesen</target>
+        <target state="translated">Weiterlesen</target>
       </trans-unit>
-      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2">
+      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2" approved="yes">
         <source>app.introductionForWhoHeadline2</source>
-        <target>Für wen ist Transport Talent gedacht?</target>
+        <target state="translated">Für wen ist Transport Talent gedacht?</target>
       </trans-unit>
-      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline">
+      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHrManagersHeadline</source>
-        <target>Führungskräfte</target>
+        <target state="translated">Führungskräfte</target>
       </trans-unit>
-      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline">
+      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="yes">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
-        <target>Interne Personalvermittler</target>
+        <target state="translated">Interne Personalvermittler</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target>Registrieren Sie sich jetzt für den Zugang zu unserem Kandidatenpool.</target>
+        <target state="translated">Registrieren Sie sich jetzt für den Zugang zu unserem Kandidatenpool.</target>
       </trans-unit>
-      <trans-unit id="285106c70e5e3ed192b47bb69c8b9674" resname="app.searchForNewJobs">
+      <trans-unit id="285106c70e5e3ed192b47bb69c8b9674" resname="app.searchForNewJobs" approved="yes">
         <source>app.searchForNewJobs</source>
-        <target>Nach neuen Jobs suchen</target>
+        <target state="translated">Nach neuen Jobs suchen</target>
       </trans-unit>
-      <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta">
+      <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
-        <target>Hier finden Sie Ihre gespeicherten Jobs. Fügen Sie weitere Jobs hinzu oder löschen vorhandene, um Ihre Auswahl anzupassen.</target>
+        <target state="translated">Hier finden Sie Ihre gespeicherten Jobs. Fügen Sie weitere Jobs hinzu oder löschen vorhandene, um Ihre Auswahl anzupassen.</target>
       </trans-unit>
-      <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta">
+      <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
-        <target>Hier finden Sie Ihre gespeicherten Unternehmen. Fügen Sie weitere Jobs hinzu oder löschen vorhandene, um Ihre Auswahl anzupassen.</target>
+        <target state="translated">Hier finden Sie Ihre gespeicherten Unternehmen. Fügen Sie weitere Jobs hinzu oder löschen vorhandene, um Ihre Auswahl anzupassen.</target>
       </trans-unit>
-      <trans-unit id="2139ebaa872795c7e8ab0883d7b420c7" resname="app.introductionHowItWorksHeadline">
+      <trans-unit id="2139ebaa872795c7e8ab0883d7b420c7" resname="app.introductionHowItWorksHeadline" approved="yes">
         <source>app.introductionHowItWorksHeadline</source>
-        <target>So funktioniert es</target>
+        <target state="translated">So funktioniert es</target>
       </trans-unit>
-      <trans-unit id="f61d7c150c638f4ed386f98b9e2ab636" resname="app.introductionHowItWorksCalibrationHeadline">
+      <trans-unit id="f61d7c150c638f4ed386f98b9e2ab636" resname="app.introductionHowItWorksCalibrationHeadline" approved="yes">
         <source>app.introductionHowItWorksCalibrationHeadline</source>
-        <target>Job Board Subscription</target>
+        <target state="translated">Job Board Subscription</target>
       </trans-unit>
-      <trans-unit id="8f136a0f883307111132edbc7e1ff505" resname="app.introductionHowItWorksSourcingHeadline">
+      <trans-unit id="8f136a0f883307111132edbc7e1ff505" resname="app.introductionHowItWorksSourcingHeadline" approved="yes">
         <source>app.introductionHowItWorksSourcingHeadline</source>
-        <target>Active Sourcing</target>
+        <target state="translated">Active Sourcing</target>
       </trans-unit>
-      <trans-unit id="ce1ae73e1482c9cf093cf0abc8bfba3d" resname="app.introductionHowItWorksSelectionHeadline">
+      <trans-unit id="ce1ae73e1482c9cf093cf0abc8bfba3d" resname="app.introductionHowItWorksSelectionHeadline" approved="yes">
         <source>app.introductionHowItWorksSelectionHeadline</source>
-        <target>Premium Sourcing</target>
+        <target state="translated">Premium Sourcing</target>
       </trans-unit>
-      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline">
+      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline" approved="yes">
         <source>app.introductionWhoWeAreHeadline</source>
-        <target>Wer wir sind</target>
+        <target state="translated">Wer wir sind</target>
       </trans-unit>
-      <trans-unit id="a59dad3be2ce4fb7d2a1373820118f53" resname="app.introductionTryUsHeadline">
+      <trans-unit id="a59dad3be2ce4fb7d2a1373820118f53" resname="app.introductionTryUsHeadline" approved="yes">
         <source>app.introductionTryUsHeadline</source>
-        <target>Testen Sie uns.</target>
+        <target state="translated">Testen Sie uns.</target>
       </trans-unit>
-      <trans-unit id="5744e442ddc921900574b7860a7ba649" resname="app.seePricing">
+      <trans-unit id="5744e442ddc921900574b7860a7ba649" resname="app.seePricing" approved="yes">
         <source>app.seePricing</source>
-        <target>Servicepakete ansehen</target>
+        <target state="translated">Servicepakete ansehen</target>
       </trans-unit>
-      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc">
+      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHrManagersDesc</source>
-        <target>die eine wichtige Position besetzen möchten und einen branchenerfahrenen Recruiter mit der Suche beauftragen wollen.</target>
+        <target state="translated">die eine wichtige Position besetzen möchten und einen branchenerfahrenen Recruiter mit der Suche beauftragen wollen.</target>
       </trans-unit>
-      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc">
+      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHiringManagersDesc</source>
-        <target>die ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.</target>
+        <target state="translated">die ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.</target>
       </trans-unit>
-      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline">
+      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHiringManagersHeadline</source>
-        <target>Personalverantwortliche</target>
+        <target state="translated">Personalverantwortliche</target>
       </trans-unit>
-      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc">
+      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc" approved="yes">
         <source>app.introductionForWhoItemRecruitersDesc</source>
-        <target state="needs-translation">die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.</target>
+        <target state="translated">die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.</target>
       </trans-unit>
-      <trans-unit id="285cdc5a116db4bfac44fd42ed056859" resname="app.introductionForWhoHeadline">
+      <trans-unit id="285cdc5a116db4bfac44fd42ed056859" resname="app.introductionForWhoHeadline" approved="yes">
         <source>app.introductionForWhoHeadline</source>
-        <target>Technologie + Branchenwissen + Datenanalyse</target>
+        <target state="translated">Technologie + Branchenwissen + Datenanalyse</target>
       </trans-unit>
-      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline">
+      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
-        <target>Gewinnen Sie Top-Talente aus Transport und Logistik</target>
+        <target state="translated">Gewinnen Sie Top-Talente aus Transport und Logistik</target>
       </trans-unit>
-      <trans-unit id="75e22614934135d80ba94fac634368d1" resname="app.introductionTryUsDesc">
+      <trans-unit id="75e22614934135d80ba94fac634368d1" resname="app.introductionTryUsDesc" approved="yes">
         <source>app.introductionTryUsDesc</source>
-        <target>Registrieren Sie sich noch heute für unseren Service und profitieren Sie von einem der am schnellsten wachsenden Netzwerke für Transport- und Logistikberufe.</target>
+        <target state="translated">Registrieren Sie sich noch heute für unseren Service und profitieren Sie von einem der am schnellsten wachsenden Netzwerke für Transport- und Logistikberufe.</target>
       </trans-unit>
-      <trans-unit id="092bf77f8763cca07bd2a208b9f145b8" resname="app.pricingSourcingHeadline">
+      <trans-unit id="092bf77f8763cca07bd2a208b9f145b8" resname="app.pricingSourcingHeadline" approved="yes">
         <source>app.pricingSourcingHeadline</source>
-        <target>Wählen Sie Ihr Servicepaket</target>
+        <target state="translated">Wählen Sie Ihr Servicepaket</target>
       </trans-unit>
-      <trans-unit id="f5fe5651ba6dc1c56617ff81a52d7c90" resname="app.pricingPlan1Headline">
+      <trans-unit id="f5fe5651ba6dc1c56617ff81a52d7c90" resname="app.pricingPlan1Headline" approved="yes">
         <source>app.pricingPlan1Headline</source>
-        <target>Job Board Subscription</target>
+        <target state="translated">Job Board Subscription</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy">
+      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
-        <target>Datenschutz</target>
+        <target state="translated">Datenschutz</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText">
+      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
-        <target>Wir verwenden auf unserer Website Cookies.</target>
+        <target state="translated">Wir verwenden auf unserer Website Cookies.</target>
       </trans-unit>
-      <trans-unit id="f6b30df1d6285df8349a4dcf99c3234b" resname="app.employerHomeProfileDesc">
+      <trans-unit id="f6b30df1d6285df8349a4dcf99c3234b" resname="app.employerHomeProfileDesc" approved="yes">
         <source>app.employerHomeProfileDesc</source>
-        <target>Unternehmensprofil bearbeiten</target>
+        <target state="translated">Unternehmensprofil bearbeiten</target>
       </trans-unit>
-      <trans-unit id="2c75a93a33fb9bd6c9353490e696d6bd" resname="app.manage">
+      <trans-unit id="2c75a93a33fb9bd6c9353490e696d6bd" resname="app.manage" approved="yes">
         <source>app.manage</source>
-        <target>Verwalten</target>
+        <target state="translated">Verwalten</target>
       </trans-unit>
-      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline">
+      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
-        <target>Richten Sie Ihr Nutzerkonto bei Transport Talent ein</target>
+        <target state="translated">Richten Sie Ihr Nutzerkonto bei Transport Talent ein</target>
       </trans-unit>
-      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1">
+      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
-        <target><![CDATA[Legen Sie Ihr kostenfreies Unternehmensprofil an und erhalten Sie Zugang zu Top-Kandidaten.<br><br>]]></target>
+        <target state="translated"><![CDATA[Legen Sie Ihr kostenfreies Unternehmensprofil an und erhalten Sie Zugang zu Top-Kandidaten.<br><br>]]></target>
       </trans-unit>
-      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2">
+      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
-        <target>Hinweis: Pflichtfelder sind mit * markiert.</target>
+        <target state="translated">Hinweis: Pflichtfelder sind mit * markiert.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText">
+      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
-        <target>Lies mehr über Cookies und unsere Cookie-Richtlinien.</target>
+        <target state="translated">Lies mehr über Cookies und unsere Cookie-Richtlinien.</target>
       </trans-unit>
-      <trans-unit id="e7a0c62d5161c00ac8ff4cbabe160603" resname="app.employerHomeJobsDesc">
+      <trans-unit id="e7a0c62d5161c00ac8ff4cbabe160603" resname="app.employerHomeJobsDesc" approved="yes">
         <source>app.employerHomeJobsDesc</source>
-        <target>Veröffentlichen Sie Ihre Stellenanzeigen</target>
+        <target state="translated">Veröffentlichen Sie Ihre Stellenanzeigen</target>
       </trans-unit>
-      <trans-unit id="87ef369438bdeea744ebd9cb446003f4" resname="app.employerHomeServicesDesc">
+      <trans-unit id="87ef369438bdeea744ebd9cb446003f4" resname="app.employerHomeServicesDesc" approved="yes">
         <source>app.employerHomeServicesDesc</source>
-        <target>Verwalten Sie Ihre Service-Abonnements</target>
+        <target state="translated">Verwalten Sie Ihre Service-Abonnements</target>
       </trans-unit>
-      <trans-unit id="4ce9f7d8176948246a4fe1db318ab24f" resname="app.pricingPlan1Line4">
+      <trans-unit id="4ce9f7d8176948246a4fe1db318ab24f" resname="app.pricingPlan1Line4" approved="yes">
         <source>app.pricingPlan1Line4</source>
-        <target>Technischer Support</target>
+        <target state="translated">Technischer Support</target>
       </trans-unit>
-      <trans-unit id="6e4c09e45514d5c6a2c46814fc3a1042" resname="app.pricingPlan1Line5">
+      <trans-unit id="6e4c09e45514d5c6a2c46814fc3a1042" resname="app.pricingPlan1Line5" approved="yes">
         <source>app.pricingPlan1Line5</source>
-        <target>HIDE</target>
+        <target state="translated">HIDE</target>
       </trans-unit>
-      <trans-unit id="a9f886f8ce7cf19315d2d46cb552f181" resname="app.companyAlreadyExists">
+      <trans-unit id="a9f886f8ce7cf19315d2d46cb552f181" resname="app.companyAlreadyExists" approved="yes">
         <source>app.companyAlreadyExists</source>
-        <target>Unternehmen bereits vorhanden</target>
+        <target state="translated">Unternehmen bereits vorhanden</target>
       </trans-unit>
-      <trans-unit id="287868ff5eed45f5e5562625aadc0c8f" resname="app.pricingWhatIsTTHeadline">
+      <trans-unit id="287868ff5eed45f5e5562625aadc0c8f" resname="app.pricingWhatIsTTHeadline" approved="yes">
         <source>app.pricingWhatIsTTHeadline</source>
-        <target>Was ist Transport Talent?</target>
+        <target state="translated">Was ist Transport Talent?</target>
       </trans-unit>
-      <trans-unit id="7945fcaad8882faabda36651ec72ffa9" resname="app.pricingWhoForHeadline">
+      <trans-unit id="7945fcaad8882faabda36651ec72ffa9" resname="app.pricingWhoForHeadline" approved="yes">
         <source>app.pricingWhoForHeadline</source>
-        <target>Wer profitiert von unserem Service?</target>
+        <target state="translated">Wer profitiert von unserem Service?</target>
       </trans-unit>
-      <trans-unit id="02ff52640ea48ea534807d7d49a4f26f" resname="app.pricingHowItWorksDesc2">
+      <trans-unit id="02ff52640ea48ea534807d7d49a4f26f" resname="app.pricingHowItWorksDesc2" approved="yes">
         <source>app.pricingHowItWorksDesc2</source>
-        <target>Keine versteckten Kosten.</target>
+        <target state="translated">Keine versteckten Kosten.</target>
       </trans-unit>
-      <trans-unit id="b0d9255ee780af9b09a2f31d9ab9ba27" resname="app.introductionForWhoDesc">
+      <trans-unit id="b0d9255ee780af9b09a2f31d9ab9ba27" resname="app.introductionForWhoDesc" approved="yes">
         <source>app.introductionForWhoDesc</source>
-        <target>Mit modernsten Technologien und wertvoller Branchenexpertise hat Transport Talent den Schlüssel für eine erfolgreiche Kandidatensuche in Transport und Logistik. Wir finden die besten Kandidaten für Sie – dank datengestützter Analyse und unseren Erfahrungen aus der traditionellen Personalvermittlung. Sparen Sie wertvolle Zeit und gewinnen Sie leistungsstarke neue Mitarbeiter.</target>
+        <target state="translated">Mit modernsten Technologien und wertvoller Branchenexpertise hat Transport Talent den Schlüssel für eine erfolgreiche Kandidatensuche in Transport und Logistik. Wir finden die besten Kandidaten für Sie – dank datengestützter Analyse und unseren Erfahrungen aus der traditionellen Personalvermittlung. Sparen Sie wertvolle Zeit und gewinnen Sie leistungsstarke neue Mitarbeiter.</target>
       </trans-unit>
-      <trans-unit id="1e4e1558f4c73b9943c05bd8b5df165f" resname="app.introductionHowItWorksDesc">
+      <trans-unit id="1e4e1558f4c73b9943c05bd8b5df165f" resname="app.introductionHowItWorksDesc" approved="yes">
         <source>app.introductionHowItWorksDesc</source>
-        <target>Transport Talent hat drei Angebote entwickelt, damit Ihre Stellenanzeige die richtige Zielgruppe erreicht und Ihr Einstellungsprozess effizient und kosteneffektiv verläuft.</target>
+        <target state="translated">Transport Talent hat drei Angebote entwickelt, damit Ihre Stellenanzeige die richtige Zielgruppe erreicht und Ihr Einstellungsprozess effizient und kosteneffektiv verläuft.</target>
       </trans-unit>
-      <trans-unit id="c43f86a2f1f7ce95086da81b24cfde51" resname="app.pricingSourcingDesc">
+      <trans-unit id="c43f86a2f1f7ce95086da81b24cfde51" resname="app.pricingSourcingDesc" approved="yes">
         <source>app.pricingSourcingDesc</source>
-        <target>Und wir beginnen noch heute mit der Kandidatensuche für Sie.</target>
+        <target state="translated">Und wir beginnen noch heute mit der Kandidatensuche für Sie.</target>
       </trans-unit>
       <trans-unit id="eff0f91afc04db6e4c5e9990343a61fa" resname="Freight Logistics &amp; Port Logistics" approved="yes">
         <source>Freight Logistics &amp; Port Logistics</source>
@@ -2337,337 +2337,337 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>Automotive</source>
         <target state="translated">Automotive</target>
       </trans-unit>
-      <trans-unit id="28f9fcab3eb2e01182de94a0d9e3a215" resname="app.introductionHowItWorksCalibrationDesc">
+      <trans-unit id="28f9fcab3eb2e01182de94a0d9e3a215" resname="app.introductionHowItWorksCalibrationDesc" approved="yes">
         <source>app.introductionHowItWorksCalibrationDesc</source>
-        <target>Zu einem jährlichen Festpreis können Sie eine unbegrenzte Anzahl offener Positionen auf unserem Stellenportal veröffentlichen. Sparen Sie dabei wertvolle Zeit und lassen Sie uns Ihre Anzeigen automatisch generieren.</target>
+        <target state="translated">Zu einem jährlichen Festpreis können Sie eine unbegrenzte Anzahl offener Positionen auf unserem Stellenportal veröffentlichen. Sparen Sie dabei wertvolle Zeit und lassen Sie uns Ihre Anzeigen automatisch generieren.</target>
       </trans-unit>
-      <trans-unit id="ef2d9ad30e882a0b688814f6aaf6b135" resname="app.introductionHowItWorksSelectionDesc">
+      <trans-unit id="ef2d9ad30e882a0b688814f6aaf6b135" resname="app.introductionHowItWorksSelectionDesc" approved="yes">
         <source>app.introductionHowItWorksSelectionDesc</source>
-        <target>Im Rahmen dieses Premium-Services kümmern wir uns um den gesamten Prozess der Stellenbesetzung. Wir recherchieren für Sie die besten Kandidaten am Markt. Je nach Bedarf verwalten wir alle Bewerbungen und führen ein erstes Vorstellungsgespräch sowie einen psychometrischen Test mit einer engeren Auswahl von Kandidaten durch, bevor wir Ihnen die drei vielversprechendsten Talente präsentieren.</target>
+        <target state="translated">Im Rahmen dieses Premium-Services kümmern wir uns um den gesamten Prozess der Stellenbesetzung. Wir recherchieren für Sie die besten Kandidaten am Markt. Je nach Bedarf verwalten wir alle Bewerbungen und führen ein erstes Vorstellungsgespräch sowie einen psychometrischen Test mit einer engeren Auswahl von Kandidaten durch, bevor wir Ihnen die drei vielversprechendsten Talente präsentieren.</target>
       </trans-unit>
-      <trans-unit id="1f871cbf6fc7b26b34851dda718cb66d" resname="app.introductionHowItWorksSourcingDesc">
+      <trans-unit id="1f871cbf6fc7b26b34851dda718cb66d" resname="app.introductionHowItWorksSourcingDesc" approved="yes">
         <source>app.introductionHowItWorksSourcingDesc</source>
-        <target>Mit Transport Talent besetzen Sie auch kurzfristig Positionen. Wir unterstützen Sie dabei, sich gegen andere Unternehmen abzuheben und eine höhere Rückmeldequote zu erreichen. Ihre Stellenanzeige wird über unsere Social-Media-Kanäle veröffentlicht, in unseren Newsletter eingebunden und auch in persönlichen Nachrichten direkt an geeignete Kandidaten geschickt.</target>
+        <target state="translated">Mit Transport Talent besetzen Sie auch kurzfristig Positionen. Wir unterstützen Sie dabei, sich gegen andere Unternehmen abzuheben und eine höhere Rückmeldequote zu erreichen. Ihre Stellenanzeige wird über unsere Social-Media-Kanäle veröffentlicht, in unseren Newsletter eingebunden und auch in persönlichen Nachrichten direkt an geeignete Kandidaten geschickt.</target>
       </trans-unit>
-      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc">
+      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="yes">
         <source>app.introductionWhoWeAreDesc</source>
-        <target state="needs-translation">Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.</target>
+        <target state="translated">Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.</target>
       </trans-unit>
-      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates">
+      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
-        <target>Für Bewerber</target>
+        <target state="translated">Für Bewerber</target>
       </trans-unit>
-      <trans-unit id="2299bf78ad40137b7f6f8a678abd2867" resname="app.pricingPlansHeadline">
+      <trans-unit id="2299bf78ad40137b7f6f8a678abd2867" resname="app.pricingPlansHeadline" approved="yes">
         <source>app.pricingPlansHeadline</source>
-        <target>Unsere Servicepakete</target>
+        <target state="translated">Unsere Servicepakete</target>
       </trans-unit>
-      <trans-unit id="d17e322d42ac09555d7d3083ac32db6f" resname="app.pricingPlan1Line1">
+      <trans-unit id="d17e322d42ac09555d7d3083ac32db6f" resname="app.pricingPlan1Line1" approved="yes">
         <source>app.pricingPlan1Line1</source>
-        <target>Laufzeit von 12 Monaten</target>
+        <target state="translated">Laufzeit von 12 Monaten</target>
       </trans-unit>
-      <trans-unit id="3115949f9e3f7296f89ee728ea835fbb" resname="app.pricingPlan1Line2">
+      <trans-unit id="3115949f9e3f7296f89ee728ea835fbb" resname="app.pricingPlan1Line2" approved="yes">
         <source>app.pricingPlan1Line2</source>
-        <target>Automatische Einbindung Ihrer Vakanzen</target>
+        <target state="translated">Automatische Einbindung Ihrer Vakanzen</target>
       </trans-unit>
-      <trans-unit id="787c47a71dfd033a8caea46505ef6739" resname="app.pricedPerLead">
+      <trans-unit id="787c47a71dfd033a8caea46505ef6739" resname="app.pricedPerLead" approved="yes">
         <source>app.pricedPerLead</source>
-        <target>Laufzeit von 12 Monaten</target>
+        <target state="translated">Laufzeit von 12 Monaten</target>
       </trans-unit>
-      <trans-unit id="7bfa03037ae075cc246df2c736652128" resname="app.pricingPlan2Headline">
+      <trans-unit id="7bfa03037ae075cc246df2c736652128" resname="app.pricingPlan2Headline" approved="yes">
         <source>app.pricingPlan2Headline</source>
-        <target>Active Sourcing</target>
+        <target state="translated">Active Sourcing</target>
       </trans-unit>
-      <trans-unit id="4f31e49d430df67984a2a5c569a3792f" resname="app.pricingPlan2Line1">
+      <trans-unit id="4f31e49d430df67984a2a5c569a3792f" resname="app.pricingPlan2Line1" approved="yes">
         <source>app.pricingPlan2Line1</source>
-        <target>Hervorhebung der Stellenanzeige für 7 Tage</target>
+        <target state="translated">Hervorhebung der Stellenanzeige für 7 Tage</target>
       </trans-unit>
-      <trans-unit id="15d419c6f235498a00d400870849c701" resname="app.pricingPlan2Line2">
+      <trans-unit id="15d419c6f235498a00d400870849c701" resname="app.pricingPlan2Line2" approved="yes">
         <source>app.pricingPlan2Line2</source>
-        <target>Direkte Ansprache passender Kandidaten</target>
+        <target state="translated">Direkte Ansprache passender Kandidaten</target>
       </trans-unit>
-      <trans-unit id="2fdaf4e30b8b0c92d84b4f050cae2fc9" resname="app.pricingPlan2Line3">
+      <trans-unit id="2fdaf4e30b8b0c92d84b4f050cae2fc9" resname="app.pricingPlan2Line3" approved="yes">
         <source>app.pricingPlan2Line3</source>
-        <target>Erhöhte Reichweite über unsere Social-Media-Kanäle</target>
+        <target state="translated">Erhöhte Reichweite über unsere Social-Media-Kanäle</target>
       </trans-unit>
-      <trans-unit id="6af83a32f69c69159c330e27bc75864f" resname="app.pricingPlan2Line4">
+      <trans-unit id="6af83a32f69c69159c330e27bc75864f" resname="app.pricingPlan2Line4" approved="yes">
         <source>app.pricingPlan2Line4</source>
-        <target>Redaktionelle Unterstützung</target>
+        <target state="translated">Redaktionelle Unterstützung</target>
       </trans-unit>
-      <trans-unit id="16c113b538b4095754fa7003c9e7e323" resname="app.pricingPlan2Line5">
+      <trans-unit id="16c113b538b4095754fa7003c9e7e323" resname="app.pricingPlan2Line5" approved="yes">
         <source>app.pricingPlan2Line5</source>
-        <target>HIDE</target>
+        <target state="translated">HIDE</target>
       </trans-unit>
-      <trans-unit id="0a35c23a20acef1fa3c01b9ce1fa9280" resname="app.pricingPlan2Line6">
+      <trans-unit id="0a35c23a20acef1fa3c01b9ce1fa9280" resname="app.pricingPlan2Line6" approved="yes">
         <source>app.pricingPlan2Line6</source>
-        <target>Delete</target>
+        <target state="translated">Delete</target>
       </trans-unit>
-      <trans-unit id="0e757b01afaa2f7f5e183a3eacf0e88d" resname="app.pricedPerJob">
+      <trans-unit id="0e757b01afaa2f7f5e183a3eacf0e88d" resname="app.pricedPerJob" approved="yes">
         <source>app.pricedPerJob</source>
-        <target>Verhandelbar pro Stelle</target>
+        <target state="translated">Verhandelbar pro Stelle</target>
       </trans-unit>
-      <trans-unit id="841ec124308e8b5ff2e197fc4c27b795" resname="app.pricingHowItWorksHeadline">
+      <trans-unit id="841ec124308e8b5ff2e197fc4c27b795" resname="app.pricingHowItWorksHeadline" approved="yes">
         <source>app.pricingHowItWorksHeadline</source>
-        <target>Wie viel kostet es?</target>
+        <target state="translated">Wie viel kostet es?</target>
       </trans-unit>
-      <trans-unit id="32685e3a0c873c3ee8cdbe80b4e431a2" resname="app.pricingHowItWorksDesc">
+      <trans-unit id="32685e3a0c873c3ee8cdbe80b4e431a2" resname="app.pricingHowItWorksDesc" approved="yes">
         <source>app.pricingHowItWorksDesc</source>
-        <target><![CDATA[Unsere Preise sind einfach und transparent.<br>Wählen Sie zwischen zwei Optionen:]]></target>
+        <target state="translated"><![CDATA[Unsere Preise sind einfach und transparent.<br>Wählen Sie zwischen zwei Optionen:]]></target>
       </trans-unit>
-      <trans-unit id="e7d287b96e59ae6c48e3993bf1153201" resname="app.pricingHowItWorksLeadsHeadline">
+      <trans-unit id="e7d287b96e59ae6c48e3993bf1153201" resname="app.pricingHowItWorksLeadsHeadline" approved="yes">
         <source>app.pricingHowItWorksLeadsHeadline</source>
-        <target>1. Job Board Subscription:</target>
+        <target state="translated">1. Job Board Subscription:</target>
       </trans-unit>
-      <trans-unit id="ece61e3247dfd022d2cfbc7a70bacb92" resname="app.pricingHowItWorksLeadsDesc">
+      <trans-unit id="ece61e3247dfd022d2cfbc7a70bacb92" resname="app.pricingHowItWorksLeadsDesc" approved="yes">
         <source>app.pricingHowItWorksLeadsDesc</source>
-        <target>Für 12 Monate Laufzeit zahlen Sie eine feste Gebühr von EUR 2995.</target>
+        <target state="translated">Für 12 Monate Laufzeit zahlen Sie eine feste Gebühr von EUR 2995.</target>
       </trans-unit>
-      <trans-unit id="28d63a5b570b7155402891b499c32f83" resname="app.pricingHowItWorksSourcingHeadline">
+      <trans-unit id="28d63a5b570b7155402891b499c32f83" resname="app.pricingHowItWorksSourcingHeadline" approved="yes">
         <source>app.pricingHowItWorksSourcingHeadline</source>
-        <target>2. Stand Out:</target>
+        <target state="translated">2. Stand Out:</target>
       </trans-unit>
-      <trans-unit id="01de4b1855581cd7d811a0ce65f6d0c8" resname="app.pricingHowItWorksSourcingDesc">
+      <trans-unit id="01de4b1855581cd7d811a0ce65f6d0c8" resname="app.pricingHowItWorksSourcingDesc" approved="yes">
         <source>app.pricingHowItWorksSourcingDesc</source>
-        <target>Der Preis für das Angebot “Active Sourcing” ist 395 EUR. Sind Sie bereits für den Service “Job Board Subscription” angemeldet, erhalten Sie eine Ermäßigung.</target>
+        <target state="translated">Der Preis für das Angebot “Active Sourcing” ist 395 EUR. Sind Sie bereits für den Service “Job Board Subscription” angemeldet, erhalten Sie eine Ermäßigung.</target>
       </trans-unit>
-      <trans-unit id="14a39e2d67f415dd85f58d4e4efcd632" resname="app.pricingWhatIsTTDesc">
+      <trans-unit id="14a39e2d67f415dd85f58d4e4efcd632" resname="app.pricingWhatIsTTDesc" approved="yes">
         <source>app.pricingWhatIsTTDesc</source>
-        <target>Transport Talent ist ein Unternehmen für Personalvermittlung mit Fokus auf Transport und Logistik. Über unsere Kanäle erreichen Ihre Stellenanzeigen eine genau ausgewählte Zielgruppe. So schaffen wir Ihnen mehr Raum für die eigentliche Personalauswahl.</target>
+        <target state="translated">Transport Talent ist ein Unternehmen für Personalvermittlung mit Fokus auf Transport und Logistik. Über unsere Kanäle erreichen Ihre Stellenanzeigen eine genau ausgewählte Zielgruppe. So schaffen wir Ihnen mehr Raum für die eigentliche Personalauswahl.</target>
       </trans-unit>
-      <trans-unit id="6c79071ab6edf26423d1780bde88a52c" resname="app.pricingWhoForDesc">
+      <trans-unit id="6c79071ab6edf26423d1780bde88a52c" resname="app.pricingWhoForDesc" approved="yes">
         <source>app.pricingWhoForDesc</source>
-        <target>Transport Talent unterstützt Unternehmen aller Formen und Größen: Vom globalen Logistikdienstleister über Schifffahrtsgesellschaften, Hersteller bis hin zur lokalen Spedition. Es kommt nicht darauf an, wer oder was Sie sind – wir unterstützen Sie bei der Suche nach leistungsstarken Talenten mit den besten Qualifikationen in Transport und Logistik. Durch unser breites Angebot können wir unsere Dienstleistungen speziell Ihren Bedürfnissen anpassen und Sie bekommen die richtigen Kandidaten, wenn Sie sie brauchen.</target>
+        <target state="translated">Transport Talent unterstützt Unternehmen aller Formen und Größen: Vom globalen Logistikdienstleister über Schifffahrtsgesellschaften, Hersteller bis hin zur lokalen Spedition. Es kommt nicht darauf an, wer oder was Sie sind – wir unterstützen Sie bei der Suche nach leistungsstarken Talenten mit den besten Qualifikationen in Transport und Logistik. Durch unser breites Angebot können wir unsere Dienstleistungen speziell Ihren Bedürfnissen anpassen und Sie bekommen die richtigen Kandidaten, wenn Sie sie brauchen.</target>
       </trans-unit>
-      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
+      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target>Bitte aktivieren Sie dieses Kästchen, um fortzufahren.</target>
+        <target state="translated">Bitte aktivieren Sie dieses Kästchen, um fortzufahren.</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
+      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
-        <target>Stellenbezeichnung</target>
+        <target state="translated">Stellenbezeichnung</target>
       </trans-unit>
-      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company">
+      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company" approved="yes">
         <source>app.e.g.Company</source>
-        <target>z. B. Firma</target>
+        <target state="translated">z. B. Firma</target>
       </trans-unit>
-      <trans-unit id="4d01fd4aa9d597736f84f388b7adb796" resname="app.employerJobsManualImport">
+      <trans-unit id="4d01fd4aa9d597736f84f388b7adb796" resname="app.employerJobsManualImport" approved="yes">
         <source>app.employerJobsManualImport</source>
-        <target>Manuelle Einträge – Sie legen Ihre Stellenanzeigen selbst an.</target>
+        <target state="translated">Manuelle Einträge – Sie legen Ihre Stellenanzeigen selbst an.</target>
       </trans-unit>
-      <trans-unit id="32686730d8f5d0241c56b4035d9f0ae4" resname="app.addJob">
+      <trans-unit id="32686730d8f5d0241c56b4035d9f0ae4" resname="app.addJob" approved="yes">
         <source>app.addJob</source>
-        <target>Position hinzufügen</target>
+        <target state="translated">Position hinzufügen</target>
       </trans-unit>
-      <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline">
+      <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline" approved="yes">
         <source>app.employerProfileHeadline</source>
-        <target>Richten Sie Ihr Unternehmenskonto ein</target>
+        <target state="translated">Richten Sie Ihr Unternehmenskonto ein</target>
       </trans-unit>
-      <trans-unit id="e6b7681a5f46ea7e6d7d1b8f72038555" resname="app.employerProfileHeadlineDesc1">
+      <trans-unit id="e6b7681a5f46ea7e6d7d1b8f72038555" resname="app.employerProfileHeadlineDesc1" approved="yes">
         <source>app.employerProfileHeadlineDesc1</source>
-        <target>Erstellen Sie ein Unternehmensprofil</target>
+        <target state="translated">Erstellen Sie ein Unternehmensprofil</target>
       </trans-unit>
-      <trans-unit id="b1d15343dc7b7e8893c536d1f9c8a4fb" resname="app.employerProfileHeadlineDesc3">
+      <trans-unit id="b1d15343dc7b7e8893c536d1f9c8a4fb" resname="app.employerProfileHeadlineDesc3" approved="yes">
         <source>app.employerProfileHeadlineDesc3</source>
-        <target>Hinweis: Pflichtfelder sind mit * markiert.</target>
+        <target state="translated">Hinweis: Pflichtfelder sind mit * markiert.</target>
       </trans-unit>
-      <trans-unit id="0a9236eff0b2fa7e6c09e5706bd7204a" resname="app.postJobHeadline">
+      <trans-unit id="0a9236eff0b2fa7e6c09e5706bd7204a" resname="app.postJobHeadline" approved="yes">
         <source>app.postJobHeadline</source>
-        <target>Veröffentlichen Sie Ihre Stellenanzeige</target>
+        <target state="translated">Veröffentlichen Sie Ihre Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="03741ca094063a0b196b02a5095b6a7c" resname="app.postJobHeadlineDesc">
+      <trans-unit id="03741ca094063a0b196b02a5095b6a7c" resname="app.postJobHeadlineDesc" approved="yes">
         <source>app.postJobHeadlineDesc</source>
-        <target>Tragen Sie die erforderlichen Informationen ein und speichern Sie.</target>
+        <target state="translated">Tragen Sie die erforderlichen Informationen ein und speichern Sie.</target>
       </trans-unit>
-      <trans-unit id="266b7956ae8a7e3dd9963b3e226e8af2" resname="app.employerProfileHeadlineDesc2">
+      <trans-unit id="266b7956ae8a7e3dd9963b3e226e8af2" resname="app.employerProfileHeadlineDesc2" approved="yes">
         <source>app.employerProfileHeadlineDesc2</source>
-        <target><![CDATA[Erstellen Sie Ihr kostenfreies Unternehmensprofil. Es bildet die Grundlage für die Nutzung unserer Services.<br>Stellen Sie sicher, dass die besten Kandidaten den richtigen Blick auf Ihr Unternehmen haben.]]></target>
+        <target state="translated"><![CDATA[Erstellen Sie Ihr kostenfreies Unternehmensprofil. Es bildet die Grundlage für die Nutzung unserer Services.<br>Stellen Sie sicher, dass die besten Kandidaten den richtigen Blick auf Ihr Unternehmen haben.]]></target>
       </trans-unit>
-      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.employerJobsDesc">
+      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.employerJobsDesc" approved="yes">
         <source>app.employerJobsDesc</source>
-        <target>Aktive Ausschreibungen Ihres Unternehmens</target>
+        <target state="translated">Aktive Ausschreibungen Ihres Unternehmens</target>
       </trans-unit>
-      <trans-unit id="a9c8b5a1a52ba4759403e5475d26c2c5" resname="app.employerJobsMainDesc">
+      <trans-unit id="a9c8b5a1a52ba4759403e5475d26c2c5" resname="app.employerJobsMainDesc" approved="yes">
         <source>app.employerJobsMainDesc</source>
-        <target>Wie möchten Sie Ihre Ausschreibungen bei uns veröffentlichen?</target>
+        <target state="translated">Wie möchten Sie Ihre Ausschreibungen bei uns veröffentlichen?</target>
       </trans-unit>
-      <trans-unit id="63fc11f6595edd841bb7c67ad8dcae19" resname="app.employerJobsAutomaticImport">
+      <trans-unit id="63fc11f6595edd841bb7c67ad8dcae19" resname="app.employerJobsAutomaticImport" approved="yes">
         <source>app.employerJobsAutomaticImport</source>
-        <target>Automatischer Import von folgender Adresse:</target>
+        <target state="translated">Automatischer Import von folgender Adresse:</target>
       </trans-unit>
-      <trans-unit id="37b6f55a0f7abe9ed6ed4ea85853e551" resname="app.off">
+      <trans-unit id="37b6f55a0f7abe9ed6ed4ea85853e551" resname="app.off" approved="yes">
         <source>app.off</source>
-        <target>Deaktiviert</target>
+        <target state="translated">Deaktiviert</target>
       </trans-unit>
-      <trans-unit id="45a2fd24cd8a9d1bcbde441ffdbb846a" resname="app.on">
+      <trans-unit id="45a2fd24cd8a9d1bcbde441ffdbb846a" resname="app.on" approved="yes">
         <source>app.on</source>
-        <target>Aktiviert</target>
+        <target state="translated">Aktiviert</target>
       </trans-unit>
-      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.employerJobsHeadline">
+      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.employerJobsHeadline" approved="yes">
         <source>app.employerJobsHeadline</source>
-        <target>Ihre Stellenanzeigen</target>
+        <target state="translated">Ihre Stellenanzeigen</target>
       </trans-unit>
-      <trans-unit id="4c097f6e70c0885d803172644a5ec305" resname="app.withBestRegards">
+      <trans-unit id="4c097f6e70c0885d803172644a5ec305" resname="app.withBestRegards" approved="yes">
         <source>app.withBestRegards</source>
-        <target>Mit freundlichen Grüßen</target>
+        <target state="translated">Mit freundlichen Grüßen</target>
       </trans-unit>
-      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn">
+      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
-        <target>Daten von LinkedIn importieren</target>
+        <target state="translated">Daten von LinkedIn importieren</target>
       </trans-unit>
-      <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing">
+      <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing" approved="yes">
         <source>app.importDataFromXing</source>
-        <target>Daten von Xing importieren</target>
+        <target state="translated">Daten von Xing importieren</target>
       </trans-unit>
-      <trans-unit id="4f6eab1362524b1e5b6a662324d4afa1" resname="app.pricingPlan1Line3">
+      <trans-unit id="4f6eab1362524b1e5b6a662324d4afa1" resname="app.pricingPlan1Line3" approved="yes">
         <source>app.pricingPlan1Line3</source>
-        <target>Alle Ihre Jobs auf transporttalent.com</target>
+        <target state="translated">Alle Ihre Jobs auf transporttalent.com</target>
       </trans-unit>
-      <trans-unit id="76f4f1a843fb2e4f92b09fb0ae1949d0" resname="app.yearly">
+      <trans-unit id="76f4f1a843fb2e4f92b09fb0ae1949d0" resname="app.yearly" approved="yes">
         <source>app.yearly</source>
-        <target>Jährlich</target>
+        <target state="translated">Jährlich</target>
       </trans-unit>
-      <trans-unit id="9282a5b29b4dcd685f32f6486994eb83" resname="app.pricingPlan3Line2">
+      <trans-unit id="9282a5b29b4dcd685f32f6486994eb83" resname="app.pricingPlan3Line2" approved="yes">
         <source>app.pricingPlan3Line2</source>
-        <target>Aktive Kandidatensuche</target>
+        <target state="translated">Aktive Kandidatensuche</target>
       </trans-unit>
-      <trans-unit id="1b511b3e6d65e0aab5518ae0681b4e9e" resname="app.pricingPlan3Line4">
+      <trans-unit id="1b511b3e6d65e0aab5518ae0681b4e9e" resname="app.pricingPlan3Line4" approved="yes">
         <source>app.pricingPlan3Line4</source>
-        <target>Psychometrische Testung der finalen Kandidaten (auf Nachfrage)</target>
+        <target state="translated">Psychometrische Testung der finalen Kandidaten (auf Nachfrage)</target>
       </trans-unit>
-      <trans-unit id="9d1ccafdd9080fceb521bfe749687ace" resname="app.pricingPlan2PriceDesc">
+      <trans-unit id="9d1ccafdd9080fceb521bfe749687ace" resname="app.pricingPlan2PriceDesc" approved="yes">
         <source>app.pricingPlan2PriceDesc</source>
-        <target>Ermäßigung für Nutzer von "Job Board Subscription"</target>
+        <target state="translated">Ermäßigung für Nutzer von "Job Board Subscription"</target>
       </trans-unit>
-      <trans-unit id="1f068c8d0f014ec488a381d1d64ad1d1" resname="app.bookNow">
+      <trans-unit id="1f068c8d0f014ec488a381d1d64ad1d1" resname="app.bookNow" approved="yes">
         <source>app.bookNow</source>
-        <target>Jetzt buchen</target>
+        <target state="translated">Jetzt buchen</target>
       </trans-unit>
-      <trans-unit id="949303252f4563dfbc769055bd153c65" resname="app.for3Months">
+      <trans-unit id="949303252f4563dfbc769055bd153c65" resname="app.for3Months" approved="yes">
         <source>app.for3Months</source>
-        <target>Laufzeit von 12 Monaten.</target>
+        <target state="translated">Laufzeit von 12 Monaten.</target>
       </trans-unit>
-      <trans-unit id="87a9025bbe057d8fb326ae9ff0ecda39" resname="app.for12Months">
+      <trans-unit id="87a9025bbe057d8fb326ae9ff0ecda39" resname="app.for12Months" approved="yes">
         <source>app.for12Months</source>
-        <target>Laufzeit von 12 Monaten.</target>
+        <target state="translated">Laufzeit von 12 Monaten.</target>
       </trans-unit>
-      <trans-unit id="2a2e6fd538a51a980b46a0becaa9c83e" resname="app.noHiddenCosts">
+      <trans-unit id="2a2e6fd538a51a980b46a0becaa9c83e" resname="app.noHiddenCosts" approved="yes">
         <source>app.noHiddenCosts</source>
-        <target>*Alle Preise exklusive Mehrwertsteuer.</target>
+        <target state="translated">*Alle Preise exklusive Mehrwertsteuer.</target>
       </trans-unit>
-      <trans-unit id="b382d8b22c8867cc57cf9891dd6a44b9" resname="app.plan1DiscountRate">
+      <trans-unit id="b382d8b22c8867cc57cf9891dd6a44b9" resname="app.plan1DiscountRate" approved="yes">
         <source>app.plan1DiscountRate</source>
-        <target>-30%</target>
+        <target state="translated">-30%</target>
       </trans-unit>
-      <trans-unit id="58d6704a322c95e7eeead8c421837f6d" resname="app.plan2Price">
+      <trans-unit id="58d6704a322c95e7eeead8c421837f6d" resname="app.plan2Price" approved="yes">
         <source>app.plan2Price</source>
-        <target>EUR 395</target>
+        <target state="translated">EUR 395</target>
       </trans-unit>
-      <trans-unit id="c5c21a20bcccb48fe81e993475ec53ab" resname="app.plan1PriceFor12month">
+      <trans-unit id="c5c21a20bcccb48fe81e993475ec53ab" resname="app.plan1PriceFor12month" approved="yes">
         <source>app.plan1PriceFor12month</source>
-        <target>EUR 2095</target>
+        <target state="translated">EUR 2095</target>
       </trans-unit>
-      <trans-unit id="bb49275f0c64e63c0e2ef97ce5be2fb3" resname="app.plan1PriceFor3month">
+      <trans-unit id="bb49275f0c64e63c0e2ef97ce5be2fb3" resname="app.plan1PriceFor3month" approved="yes">
         <source>app.plan1PriceFor3month</source>
-        <target>EUR 12995</target>
+        <target state="translated">EUR 12995</target>
       </trans-unit>
-      <trans-unit id="a8ef2a24252fe80e9d465acf5c02ce51" resname="app.employerBookPageHeadline">
+      <trans-unit id="a8ef2a24252fe80e9d465acf5c02ce51" resname="app.employerBookPageHeadline" approved="yes">
         <source>app.employerBookPageHeadline</source>
-        <target>Buchen Sie Ihre Auswahl</target>
+        <target state="translated">Buchen Sie Ihre Auswahl</target>
       </trans-unit>
-      <trans-unit id="08f5ed19d0ff6b8c90b2653d71ae16c3" resname="app.servicesChooseHeadline">
+      <trans-unit id="08f5ed19d0ff6b8c90b2653d71ae16c3" resname="app.servicesChooseHeadline" approved="yes">
         <source>app.servicesChooseHeadline</source>
-        <target>Wählen Sie aus unseren Services</target>
+        <target state="translated">Wählen Sie aus unseren Services</target>
       </trans-unit>
-      <trans-unit id="f4f21ca95a1884ac1a1928bc2d3f57b0" resname="app.servicesChooseDesc1">
+      <trans-unit id="f4f21ca95a1884ac1a1928bc2d3f57b0" resname="app.servicesChooseDesc1" approved="yes">
         <source>app.servicesChooseDesc1</source>
-        <target>Testen Sie unsere passiven und aktiven Services</target>
+        <target state="translated">Testen Sie unsere passiven und aktiven Services</target>
       </trans-unit>
-      <trans-unit id="77dc124d518c81eba75545993bd7d459" resname="app.servicesChooseDesc2">
+      <trans-unit id="77dc124d518c81eba75545993bd7d459" resname="app.servicesChooseDesc2" approved="yes">
         <source>app.servicesChooseDesc2</source>
-        <target>Finden Sie den Service, der am besten zu Ihnen passt. Wir unterstützen Sie nach Ihren Vorstellungen.</target>
+        <target state="translated">Finden Sie den Service, der am besten zu Ihnen passt. Wir unterstützen Sie nach Ihren Vorstellungen.</target>
       </trans-unit>
-      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
+      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT" approved="yes">
         <source>app.AllPricesAreExcludingVAT</source>
-        <target>*Alle Preise exklusive Mehrwertsteuer.</target>
+        <target state="translated">*Alle Preise exklusive Mehrwertsteuer.</target>
       </trans-unit>
-      <trans-unit id="622b6debae93effab30cb6fb66fb146b" resname="app.pleaseInputDateInFormatDdMmYyyy">
+      <trans-unit id="622b6debae93effab30cb6fb66fb146b" resname="app.pleaseInputDateInFormatDdMmYyyy" approved="yes">
         <source>app.pleaseInputDateInFormatDdMmYyyy</source>
-        <target>Bitte verwenden Sie das Format TT/MM/JJJJ.</target>
+        <target state="translated">Bitte verwenden Sie das Format TT/MM/JJJJ.</target>
       </trans-unit>
-      <trans-unit id="84ec0e8a81356845716e21da73e74fdc" resname="app.pricingPlan3Headline">
+      <trans-unit id="84ec0e8a81356845716e21da73e74fdc" resname="app.pricingPlan3Headline" approved="yes">
         <source>app.pricingPlan3Headline</source>
-        <target>Premium Sourcing</target>
+        <target state="translated">Premium Sourcing</target>
       </trans-unit>
-      <trans-unit id="8714fcc5dd70040fa6e0dcc80498b381" resname="app.plan2DiscountPrice">
+      <trans-unit id="8714fcc5dd70040fa6e0dcc80498b381" resname="app.plan2DiscountPrice" approved="yes">
         <source>app.plan2DiscountPrice</source>
-        <target>EUR 319</target>
+        <target state="translated">EUR 319</target>
       </trans-unit>
-      <trans-unit id="e0bda1dc3b32533ec9313b755f2b05e2" resname="app.20%discountMessage">
+      <trans-unit id="e0bda1dc3b32533ec9313b755f2b05e2" resname="app.20%discountMessage" approved="yes">
         <source>app.20%discountMessage</source>
-        <target>Als Nutzer von “Job Board Subscription” erhalten Sie 20% Rabatt.</target>
+        <target state="translated">Als Nutzer von “Job Board Subscription” erhalten Sie 20% Rabatt.</target>
       </trans-unit>
-      <trans-unit id="c54924d82cb6b1f451771878800f2d40" resname="app.pricingPlan3PriceDesc">
+      <trans-unit id="c54924d82cb6b1f451771878800f2d40" resname="app.pricingPlan3PriceDesc" approved="yes">
         <source>app.pricingPlan3PriceDesc</source>
-        <target>Preis abhängig von Ihren Anforderungen</target>
+        <target state="translated">Preis abhängig von Ihren Anforderungen</target>
       </trans-unit>
-      <trans-unit id="2c0d1b09d77ddef6cdf68f1ab3e22fcd" resname="app.pricingPlan3Line1">
+      <trans-unit id="2c0d1b09d77ddef6cdf68f1ab3e22fcd" resname="app.pricingPlan3Line1" approved="yes">
         <source>app.pricingPlan3Line1</source>
-        <target>Alle Leistungen aus "Active Sourcing" sowie:</target>
+        <target state="translated">Alle Leistungen aus "Active Sourcing" sowie:</target>
       </trans-unit>
-      <trans-unit id="9b9b8455147eb7c978aeaea5505f9791" resname="app.pricingPlan3Line3">
+      <trans-unit id="9b9b8455147eb7c978aeaea5505f9791" resname="app.pricingPlan3Line3" approved="yes">
         <source>app.pricingPlan3Line3</source>
-        <target>Verwaltung aller Bewerbungen</target>
+        <target state="translated">Verwaltung aller Bewerbungen</target>
       </trans-unit>
-      <trans-unit id="41adaac5e5385bcb07280399bd2eddb5" resname="app.pricingPlan3Line5">
+      <trans-unit id="41adaac5e5385bcb07280399bd2eddb5" resname="app.pricingPlan3Line5" approved="yes">
         <source>app.pricingPlan3Line5</source>
-        <target>Auswahl der 3 vielversprechendsten Kandidaten</target>
+        <target state="translated">Auswahl der 3 vielversprechendsten Kandidaten</target>
       </trans-unit>
-      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive">
+      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive" approved="yes">
         <source>app.receive</source>
-        <target>Job suchen</target>
+        <target state="translated">Job suchen</target>
       </trans-unit>
-      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start">
+      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start" approved="yes">
         <source>app.start</source>
-        <target>Profil erstellen</target>
+        <target state="translated">Profil erstellen</target>
       </trans-unit>
-      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc">
+      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc" approved="yes">
         <source>app.howItWorksDesc</source>
-        <target>Wir möchten Sie gerne kennenlernen. Je mehr wir über Ihre Erfahrungen und Präferenzen wissen, desto schneller können wir ihren Traumjob für Sie finden.</target>
+        <target state="translated">Wir möchten Sie gerne kennenlernen. Je mehr wir über Ihre Erfahrungen und Präferenzen wissen, desto schneller können wir ihren Traumjob für Sie finden.</target>
       </trans-unit>
-      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply">
+      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply" approved="yes">
         <source>app.apply</source>
-        <target>Vermitteln lassen</target>
+        <target state="translated">Vermitteln lassen</target>
       </trans-unit>
-      <trans-unit id="83d175b5ce0b7565874b954e7d8f6de0" resname="app.plan1PriceFor6month">
+      <trans-unit id="83d175b5ce0b7565874b954e7d8f6de0" resname="app.plan1PriceFor6month" approved="yes">
         <source>app.plan1PriceFor6month</source>
-        <target>EUR 12995</target>
+        <target state="translated">EUR 12995</target>
       </trans-unit>
-      <trans-unit id="1b2218f28f59c895a510898356cef846" resname="app.for6Months">
+      <trans-unit id="1b2218f28f59c895a510898356cef846" resname="app.for6Months" approved="yes">
         <source>app.for6Months</source>
-        <target>Laufzeit von 12 Monaten.</target>
+        <target state="translated">Laufzeit von 12 Monaten.</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
+      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
-        <target>Alle Unternehmen ansehen</target>
+        <target state="translated">Alle Unternehmen ansehen</target>
       </trans-unit>
-      <trans-unit id="1af98cc6896a1019abef003a39e1296f" resname="app.welcomeEmailSubjectUser">
+      <trans-unit id="1af98cc6896a1019abef003a39e1296f" resname="app.welcomeEmailSubjectUser" approved="yes">
         <source>app.welcomeEmailSubjectUser</source>
-        <target>Willkommen bei Transport Talent, %firstname%!</target>
+        <target state="translated">Willkommen bei Transport Talent, %firstname%!</target>
       </trans-unit>
-      <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser">
+      <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser" approved="yes">
         <source>app.email.welcomeUser</source>
-        <target><![CDATA[Hallo %firstname%,<br> <br> herzlich willkommen bei Transport Talent! Wir freuen uns, dass wir Ihre Karriere in der Logistik begleiten dürfen. <br> <br> Nach nur noch einem Schritt erhalten Sie schon bald die ersten Stellenanzeigen, die genau zu Ihnen passen.<br> <br> Richten Sie Ihr Profil ein: Helfen Sie uns, Ihnen die passenden Stellenanzeigen zukommen zu lassen, indem Sie Ihre bevorzugten Tätigkeitsfelder, Kenntnisse und Erfahrungen angeben. Sie können Ihr Profil auch mit nur einem Klick aus Xing. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%profile%">Jetzt Profil einrichten!</a><br> </div> <br> <span style="font-weight: bold;">Gehen Sie mit Transport Talent sofort auf Jobsuche </span><br> <br> Suchen Sie direkt nach Jobs: Natürlich können Sie sofort eigenständig nach Jobs suchen. Durch verschiedene Filter können Sie die Suche begrenzen. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%searchjobs%">Jetzt nach Jobs suchen!</a><br> </div> <br> Lernen Sie Unternehmen kennen: Bei Transport Talent können Sie sich über die kleinen, mittleren und großen Unternehmen der Transport- und Logistikbranche informieren. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%browsecompanies%">Jetzt mehr über die Unternehmen erfahren!</a><br> </div> <br> Schon bald bietet Ihnen Transport Talent weitere Services. Seien Sie gespannt auf den <a href="http://blog.transporttalent.com"><span style="font-weight: bold;">Transport-Talent-Blog</span></a>, unsere Karriereberatung und mehr. <br> <br> Folgen Sie uns schon heute auf <a href="https://www.facebook.com/transporttalent"><span style="font-weight: bold;">Facebook</span></a>, <a href="https://twitter.com/transporttalent"><span style="font-weight: bold;">Twitter</span></a> oder <a href="https://www.linkedin.com/company/transport-talent"><span style="font-weight: bold;">Linkedin</span></a>, um immer auf dem Laufenden zu bleiben und Interessantes rund um Logistik und Karriere zu erfahren. &nbsp; <br> <br> Sollten Sie Fragen haben, melden Sie sich gerne jederzeit unter <a href="mailto:support@transporttalent.com"><span style="font-weight: bold;">support@transporttalent.com</span></a>. <br> <br> Mit freundlichen Grüßen <br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
+        <target state="translated"><![CDATA[Hallo %firstname%,<br> <br> herzlich willkommen bei Transport Talent! Wir freuen uns, dass wir Ihre Karriere in der Logistik begleiten dürfen. <br> <br> Nach nur noch einem Schritt erhalten Sie schon bald die ersten Stellenanzeigen, die genau zu Ihnen passen.<br> <br> Richten Sie Ihr Profil ein: Helfen Sie uns, Ihnen die passenden Stellenanzeigen zukommen zu lassen, indem Sie Ihre bevorzugten Tätigkeitsfelder, Kenntnisse und Erfahrungen angeben. Sie können Ihr Profil auch mit nur einem Klick aus Xing. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%profile%">Jetzt Profil einrichten!</a><br> </div> <br> <span style="font-weight: bold;">Gehen Sie mit Transport Talent sofort auf Jobsuche </span><br> <br> Suchen Sie direkt nach Jobs: Natürlich können Sie sofort eigenständig nach Jobs suchen. Durch verschiedene Filter können Sie die Suche begrenzen. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%searchjobs%">Jetzt nach Jobs suchen!</a><br> </div> <br> Lernen Sie Unternehmen kennen: Bei Transport Talent können Sie sich über die kleinen, mittleren und großen Unternehmen der Transport- und Logistikbranche informieren. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%browsecompanies%">Jetzt mehr über die Unternehmen erfahren!</a><br> </div> <br> Schon bald bietet Ihnen Transport Talent weitere Services. Seien Sie gespannt auf den <a href="http://blog.transporttalent.com"><span style="font-weight: bold;">Transport-Talent-Blog</span></a>, unsere Karriereberatung und mehr. <br> <br> Folgen Sie uns schon heute auf <a href="https://www.facebook.com/transporttalent"><span style="font-weight: bold;">Facebook</span></a>, <a href="https://twitter.com/transporttalent"><span style="font-weight: bold;">Twitter</span></a> oder <a href="https://www.linkedin.com/company/transport-talent"><span style="font-weight: bold;">Linkedin</span></a>, um immer auf dem Laufenden zu bleiben und Interessantes rund um Logistik und Karriere zu erfahren. &nbsp; <br> <br> Sollten Sie Fragen haben, melden Sie sich gerne jederzeit unter <a href="mailto:support@transporttalent.com"><span style="font-weight: bold;">support@transporttalent.com</span></a>. <br> <br> Mit freundlichen Grüßen <br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
       </trans-unit>
-      <trans-unit id="6c9b5dcf3f087d7643f2c3d925afe7c6" resname="app.flashMessageWrongCompany">
+      <trans-unit id="6c9b5dcf3f087d7643f2c3d925afe7c6" resname="app.flashMessageWrongCompany" approved="yes">
         <source>app.flashMessageWrongCompany</source>
-        <target>Falsches Unternehmen.</target>
+        <target state="translated">Falsches Unternehmen.</target>
       </trans-unit>
-      <trans-unit id="56e80014cb51c5f1d39def54b99507e9" resname="app.flashMessageJobIsNotFound">
+      <trans-unit id="56e80014cb51c5f1d39def54b99507e9" resname="app.flashMessageJobIsNotFound" approved="yes">
         <source>app.flashMessageJobIsNotFound</source>
-        <target>Stellenanzeige nicht gefunden.</target>
+        <target state="translated">Stellenanzeige nicht gefunden.</target>
       </trans-unit>
-      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted">
+      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
         <source>app.flashMessageJobPosted</source>
-        <target>Ihre Stellenanzeige wurde veröffentlicht.</target>
+        <target state="translated">Ihre Stellenanzeige wurde veröffentlicht.</target>
       </trans-unit>
       <trans-unit id="20666221d81ff06b9714013b8a3a3647" resname="app.jobContractTermPlaceholder" approved="yes">
         <source>app.jobContractTermPlaceholder</source>
@@ -2689,181 +2689,181 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.jobUrlPlaceholder</source>
         <target state="translated">app.jobUrlPlaceholder</target>
       </trans-unit>
-      <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flashMessageJobSaved">
+      <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flashMessageJobSaved" approved="yes">
         <source>app.flashMessageJobSaved</source>
-        <target>Stellenanzeige gespeichert</target>
+        <target state="translated">Stellenanzeige gespeichert</target>
       </trans-unit>
       <trans-unit id="67ee542656eba96fb25ce195040a3930" resname="app.workingPreferences" approved="yes">
         <source>app.workingPreferences</source>
         <target state="translated">Bevorzugte Anstellung</target>
       </trans-unit>
-      <trans-unit id="ad2a6f831d33e926ca35f4188621e3ce" resname="app.choice">
+      <trans-unit id="ad2a6f831d33e926ca35f4188621e3ce" resname="app.choice" approved="yes">
         <source>app.choice</source>
-        <target>Wahl</target>
+        <target state="translated">Wahl</target>
       </trans-unit>
-      <trans-unit id="abab4383ae29317e73a4f7dbca93b848" resname="app.cost">
+      <trans-unit id="abab4383ae29317e73a4f7dbca93b848" resname="app.cost" approved="yes">
         <source>app.cost</source>
-        <target>Kosten</target>
+        <target state="translated">Kosten</target>
       </trans-unit>
-      <trans-unit id="eae37dcd32df7c65778e9369255683fa" resname="app.dear">
+      <trans-unit id="eae37dcd32df7c65778e9369255683fa" resname="app.dear" approved="yes">
         <source>app.dear</source>
-        <target>Hallo</target>
+        <target state="translated">Hallo</target>
       </trans-unit>
-      <trans-unit id="afc55d471e84cfd3f406c8dba530b41d" resname="app.requiresThisFieldToBeFilledToo">
+      <trans-unit id="afc55d471e84cfd3f406c8dba530b41d" resname="app.requiresThisFieldToBeFilledToo" approved="yes">
         <source>app.requiresThisFieldToBeFilledToo</source>
-        <target>bitte füllen Sie dieses Feld ebenfalls aus.</target>
+        <target state="translated">bitte füllen Sie dieses Feld ebenfalls aus.</target>
       </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo">
+      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
-        <target>Nächste Aktion:</target>
+        <target state="translated">Nächste Aktion:</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target>Allgemeinen Geschäftsbedingungen</target>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
       </trans-unit>
-      <trans-unit id="f62f9848a5cb22982fe4103447e09260" resname="app.plan1Price">
+      <trans-unit id="f62f9848a5cb22982fe4103447e09260" resname="app.plan1Price" approved="yes">
         <source>app.plan1Price</source>
-        <target>EUR 12995</target>
+        <target state="translated">EUR 12995</target>
       </trans-unit>
-      <trans-unit id="52c55197812e8abb30de325f9f4b355e" resname="app.pricingpageregisternow">
+      <trans-unit id="52c55197812e8abb30de325f9f4b355e" resname="app.pricingpageregisternow" approved="yes">
         <source>app.pricingpageregisternow</source>
-        <target>Jetzt anmelden</target>
+        <target state="translated">Jetzt anmelden</target>
       </trans-unit>
-      <trans-unit id="ee36c0d710c6f7ec8c6f13cd1cfd7cb3" resname="app.welcomeEmailSubjectEmployer">
+      <trans-unit id="ee36c0d710c6f7ec8c6f13cd1cfd7cb3" resname="app.welcomeEmailSubjectEmployer" approved="yes">
         <source>app.welcomeEmailSubjectEmployer</source>
-        <target>Willkommen bei Transport Talent!</target>
+        <target state="translated">Willkommen bei Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer">
+      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer" approved="yes">
         <source>app.email.welcomeEmployer</source>
-        <target><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung auf TransportTalent.com und Ihrem damit verbundenen Interesse an unseren Leistungen.<br> <br style="font-weight: bold;"> <span style="font-weight: bold;">Wie geht es jetzt weiter?</span><br> <br> 1. <a href="%companieprofile%">Erstellen Sie Ihr kostenloses Unternehmensprofil, um sich interessierten Bewerbern optimal präsentieren zu können.<br> </a><br> 2. <a href="%servicespage%">Buchen Sie unseren Service "Job Board Subscription", um all Ihre Stellenausschreibungen automatisch auf unserem Portal zu veröffentlichen.</a><br> <br> 3. <a href="%servicespage%">Lassen Sie uns bestimmte Stellenausschreibungen gezielt hervorheben und passenden Kandidaten vorschlagen mit unserem Produkt "Active Sourcing".</a><br> <br> 4. <a href="%servicespage%">Legen Sie den gesamten Recruitingprozess für eine bestimmte Vakanz in unsere Hände und unterhalten Sie sich nur noch mit den Kandidaten, welche am besten auf Ihre Anforderungen passen.</a><br> <br> Für Fragen stehen wir Ihnen gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> zur Verfügung.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
+        <target state="translated"><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung auf TransportTalent.com und Ihrem damit verbundenen Interesse an unseren Leistungen.<br> <br style="font-weight: bold;"> <span style="font-weight: bold;">Wie geht es jetzt weiter?</span><br> <br> 1. <a href="%companieprofile%">Erstellen Sie Ihr kostenloses Unternehmensprofil, um sich interessierten Bewerbern optimal präsentieren zu können.<br> </a><br> 2. <a href="%servicespage%">Buchen Sie unseren Service "Job Board Subscription", um all Ihre Stellenausschreibungen automatisch auf unserem Portal zu veröffentlichen.</a><br> <br> 3. <a href="%servicespage%">Lassen Sie uns bestimmte Stellenausschreibungen gezielt hervorheben und passenden Kandidaten vorschlagen mit unserem Produkt "Active Sourcing".</a><br> <br> 4. <a href="%servicespage%">Legen Sie den gesamten Recruitingprozess für eine bestimmte Vakanz in unsere Hände und unterhalten Sie sich nur noch mit den Kandidaten, welche am besten auf Ihre Anforderungen passen.</a><br> <br> Für Fragen stehen wir Ihnen gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> zur Verfügung.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
       </trans-unit>
-      <trans-unit id="c10190d0c28cb3c548bd0c1f66f74249" resname="app.email.serviceBookedSubject">
+      <trans-unit id="c10190d0c28cb3c548bd0c1f66f74249" resname="app.email.serviceBookedSubject" approved="yes">
         <source>app.email.serviceBookedSubject</source>
-        <target>Ihre Leistungsbuchung bei Transport Talent</target>
+        <target state="translated">Ihre Leistungsbuchung bei Transport Talent</target>
       </trans-unit>
-      <trans-unit id="6f0f5743629edec1d99d389828369d7f" resname="app.email.serviceBooked">
+      <trans-unit id="6f0f5743629edec1d99d389828369d7f" resname="app.email.serviceBooked" approved="yes">
         <source>app.email.serviceBooked</source>
-        <target><![CDATA[Hallo %title% %lastname%,<br> <br> hiermit bestätigen wir Ihnen Ihre Leistungsbuchung über unser Portal. Ein Mitarbeiter wird sich kurzfristig bei Ihnen melden, um weitere Details zu klären.<br> <br> Sollten Sie in der Zwischenzeit Fragen haben, so wenden Sie sich gern per E-Mail an support@transporttalent.com oder Nutzen Sie unsere weiteren <a href="https://transporttalent.com/de/contact">Kontaktmöglichkeiten</a>.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
+        <target state="translated"><![CDATA[Hallo %title% %lastname%,<br> <br> hiermit bestätigen wir Ihnen Ihre Leistungsbuchung über unser Portal. Ein Mitarbeiter wird sich kurzfristig bei Ihnen melden, um weitere Details zu klären.<br> <br> Sollten Sie in der Zwischenzeit Fragen haben, so wenden Sie sich gern per E-Mail an support@transporttalent.com oder Nutzen Sie unsere weiteren <a href="https://transporttalent.com/de/contact">Kontaktmöglichkeiten</a>.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
       </trans-unit>
-      <trans-unit id="b01ae70d264efd8385c2095613fe3e80" resname="app.flashMessageUserIsNotEmployer">
+      <trans-unit id="b01ae70d264efd8385c2095613fe3e80" resname="app.flashMessageUserIsNotEmployer" approved="yes">
         <source>app.flashMessageUserIsNotEmployer</source>
-        <target>Benutzer ist kein Arbeitgeber.</target>
+        <target state="translated">Benutzer ist kein Arbeitgeber.</target>
       </trans-unit>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta">
+      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
-        <target>Sollten Sie bereits ein Konto besitzen, fahren Sie bitte fort.</target>
+        <target state="translated">Sollten Sie bereits ein Konto besitzen, fahren Sie bitte fort.</target>
       </trans-unit>
-      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject">
+      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
-        <target>Vielen Dank für die Anmeldung bei Transport Talent!</target>
+        <target state="translated">Vielen Dank für die Anmeldung bei Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="923b45063ab23f4af1928a4ca4703358" resname="app.serviceBooked">
+      <trans-unit id="923b45063ab23f4af1928a4ca4703358" resname="app.serviceBooked" approved="yes">
         <source>app.serviceBooked</source>
-        <target>Vielen Dank für Ihren Auftrag. Sie erhalten umgehend eine E-Mail mit weiteren Informationen.</target>
+        <target state="translated">Vielen Dank für Ihren Auftrag. Sie erhalten umgehend eine E-Mail mit weiteren Informationen.</target>
       </trans-unit>
-      <trans-unit id="aec173b33ca24d2371d7cceb722ecb1b" resname="app.flashMessageYourAccIsNotYetApproved">
+      <trans-unit id="aec173b33ca24d2371d7cceb722ecb1b" resname="app.flashMessageYourAccIsNotYetApproved" approved="yes">
         <source>app.flashMessageYourAccIsNotYetApproved</source>
-        <target>Ihr Nutzerkonto wurde noch nicht bestätigt.</target>
+        <target state="translated">Ihr Nutzerkonto wurde noch nicht bestätigt.</target>
       </trans-unit>
-      <trans-unit id="923d106d11060c6e29c9a826306d3fbc" resname="app.pricingPlan1PriceDesc">
+      <trans-unit id="923d106d11060c6e29c9a826306d3fbc" resname="app.pricingPlan1PriceDesc" approved="yes">
         <source>app.pricingPlan1PriceDesc</source>
-        <target>Laufzeit von 12 Monaten</target>
+        <target state="translated">Laufzeit von 12 Monaten</target>
       </trans-unit>
-      <trans-unit id="aea9979ba2c8ccc5b94daea2dcc8cbdd" resname="app.show">
+      <trans-unit id="aea9979ba2c8ccc5b94daea2dcc8cbdd" resname="app.show" approved="yes">
         <source>app.show</source>
-        <target>Anzeigen</target>
+        <target state="translated">Anzeigen</target>
       </trans-unit>
-      <trans-unit id="b16e6694aa83ea1f66ee02b9fbaec0fb" resname="app.hide">
+      <trans-unit id="b16e6694aa83ea1f66ee02b9fbaec0fb" resname="app.hide" approved="yes">
         <source>app.hide</source>
-        <target>Verstecken</target>
+        <target state="translated">Verstecken</target>
       </trans-unit>
-      <trans-unit id="ec208921dd7cd84cc84073e5e1c83174" resname="app.for1job">
+      <trans-unit id="ec208921dd7cd84cc84073e5e1c83174" resname="app.for1job" approved="yes">
         <source>app.for1job</source>
-        <target>Preis pro Position</target>
+        <target state="translated">Preis pro Position</target>
       </trans-unit>
-      <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn">
+      <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn" approved="yes">
         <source>app.profileUnpublishBtn</source>
-        <target>Profil deaktivieren</target>
+        <target state="translated">Profil deaktivieren</target>
       </trans-unit>
-      <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn">
+      <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
-        <target>Profil veröffentlichen</target>
+        <target state="translated">Profil veröffentlichen</target>
       </trans-unit>
-      <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg">
+      <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
-        <target>Unternehmensprofil deaktiviert</target>
+        <target state="translated">Unternehmensprofil deaktiviert</target>
       </trans-unit>
-      <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg">
+      <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
-        <target>Unternehmensprofil veröffentlicht</target>
+        <target state="translated">Unternehmensprofil veröffentlicht</target>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline">
+      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
-        <target>Schön, Sie wiederzusehen.</target>
+        <target state="translated">Schön, Sie wiederzusehen.</target>
       </trans-unit>
-      <trans-unit id="536f0bc0916eac5e60d5c1df64fa52e8" resname="app.manageJobs">
+      <trans-unit id="536f0bc0916eac5e60d5c1df64fa52e8" resname="app.manageJobs" approved="yes">
         <source>app.manageJobs</source>
-        <target>Jobs verwalten</target>
+        <target state="translated">Jobs verwalten</target>
       </trans-unit>
-      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message">
+      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung zu unserem Angebot. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicke hier, um Ihre Anmeldung zu bestätigen</a>. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Sollteten Sie Fragen haben, so wenden Sich sich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir bedanken uns bereits jetzt für das entgegengebrachte Vertrauen.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger<br> Operativer Geschäftsführer<br>]]></target>
+        <target state="translated"><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung zu unserem Angebot. <a style="font-weight: bold;" href="%confirmationUrl%">Bitte klicke hier, um Ihre Anmeldung zu bestätigen</a>. Nach dem Abschluss Ihrer Anmeldung erhalten Sie eine E-Mail mit weiteren Informationen zu unserem Service. <br> <br> Sollteten Sie Fragen haben, so wenden Sich sich gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> jederzeit an uns.<br> <br> Wir bedanken uns bereits jetzt für das entgegengebrachte Vertrauen.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger<br> Operativer Geschäftsführer<br>]]></target>
       </trans-unit>
       <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships" approved="yes">
         <source>Apprenticeships</source>
         <target state="translated">Lehrstellen/Ausbildungsplätze</target>
       </trans-unit>
-      <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline">
+      <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline" approved="yes">
         <source>app.editJobHeadline</source>
-        <target>Bearbeiten Sie Ihre Anzeige</target>
+        <target state="translated">Bearbeiten Sie Ihre Anzeige</target>
       </trans-unit>
-      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.editJobHeadlineDesc">
+      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.editJobHeadlineDesc" approved="yes">
         <source>app.editJobHeadlineDesc</source>
-        <target>Tragen Sie die erforderlichen Informationen ein und speichern Sie.</target>
+        <target state="translated">Tragen Sie die erforderlichen Informationen ein und speichern Sie.</target>
       </trans-unit>
-      <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg">
+      <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
-        <target>Gespeichert</target>
+        <target state="translated">Gespeichert</target>
       </trans-unit>
-      <trans-unit id="4b36686355ebeb84e6623c525a006c5e" resname="app.userIsNotRegisteredAsEmployer">
+      <trans-unit id="4b36686355ebeb84e6623c525a006c5e" resname="app.userIsNotRegisteredAsEmployer" approved="yes">
         <source>app.userIsNotRegisteredAsEmployer</source>
-        <target>Der Nutzer ist nicht als Arbeitgeber registriert.</target>
+        <target state="translated">Der Nutzer ist nicht als Arbeitgeber registriert.</target>
       </trans-unit>
-      <trans-unit id="2e8bb3d8007abd48c047bbb2db901261" resname="app.typeYourUrl">
+      <trans-unit id="2e8bb3d8007abd48c047bbb2db901261" resname="app.typeYourUrl" approved="yes">
         <source>app.typeYourUrl</source>
-        <target>Geben Sie die URL ein</target>
+        <target state="translated">Geben Sie die URL ein</target>
       </trans-unit>
-      <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden">
+      <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden" approved="yes">
         <source>app.thisJobIsHidden</source>
-        <target>Diese Stellenanzeige ist inaktiv!</target>
+        <target state="translated">Diese Stellenanzeige ist inaktiv!</target>
       </trans-unit>
-      <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle">
+      <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle" approved="yes">
         <source>app.registeredTitle</source>
-        <target>Dankeschön!</target>
+        <target state="translated">Dankeschön!</target>
       </trans-unit>
-      <trans-unit id="11be9040b20c170be77ac84d5c928b83" resname="app.booked">
+      <trans-unit id="11be9040b20c170be77ac84d5c928b83" resname="app.booked" approved="yes">
         <source>app.booked</source>
-        <target>Gebucht</target>
+        <target state="translated">Gebucht</target>
       </trans-unit>
-      <trans-unit id="2545c45612e0361e3d4218ff07c55770" resname="app.attachFileServiceBook">
+      <trans-unit id="2545c45612e0361e3d4218ff07c55770" resname="app.attachFileServiceBook" approved="yes">
         <source>app.attachFileServiceBook</source>
-        <target>Datei anhängen</target>
+        <target state="translated">Datei anhängen</target>
       </trans-unit>
-      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg">
+      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>
-        <target>Danke, %firstName%! Wir melden uns in Kürze bei Ihnen.</target>
+        <target state="translated">Danke, %firstName%! Wir melden uns in Kürze bei Ihnen.</target>
       </trans-unit>
-      <trans-unit id="a29d668942963463976a24b8005bce98" resname="app.notAllowedToPostJobs">
+      <trans-unit id="a29d668942963463976a24b8005bce98" resname="app.notAllowedToPostJobs" approved="yes">
         <source>app.notAllowedToPostJobs</source>
-        <target><![CDATA[Sie können keine Stellenanzeigen veröffentlichen. Buchen Sie die gewünschte Option unter <a href="%serviceslink%">Services</a>.]]></target>
+        <target state="translated"><![CDATA[Sie können keine Stellenanzeigen veröffentlichen. Buchen Sie die gewünschte Option unter <a href="%serviceslink%">Services</a>.]]></target>
       </trans-unit>
-      <trans-unit id="12777f05d225fdc293a6183baf2c915a" resname="app.job">
+      <trans-unit id="12777f05d225fdc293a6183baf2c915a" resname="app.job" approved="yes">
         <source>app.job</source>
-        <target>Stellenanzeige</target>
+        <target state="translated">Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
-        <target>Dieses Angebot ist leider abgelaufen</target>
+        <target state="translated">Dieses Angebot ist leider abgelaufen</target>
       </trans-unit>
       <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
@@ -2881,49 +2881,49 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>Shipping</source>
         <target state="translated">Schifffahrt</target>
       </trans-unit>
-      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline">
+      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>
-        <target>Was uns auszeichnet</target>
+        <target state="translated">Was uns auszeichnet</target>
       </trans-unit>
-      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc">
+      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc" approved="yes">
         <source>app.introductionHowWeAreDifferentDesc</source>
-        <target>6 gute Gründe</target>
+        <target state="translated">6 gute Gründe</target>
       </trans-unit>
-      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline">
+      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Headline</source>
-        <target>Ein Kandidatennetzwerk mit Fachpersonal</target>
+        <target state="translated">Ein Kandidatennetzwerk mit Fachpersonal</target>
       </trans-unit>
-      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc">
+      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Desc</source>
-        <target>Wir bieten ein sorgfältig geprüftes und schnell wachsendes Netzwerk mit Fachpersonal aus Transport und Logistik, das passiv nach Stellen sucht. Anhand unseres genau abgestimmten Nutzerprofils finden wir den passenden Kandidaten für Sie.</target>
+        <target state="translated">Wir bieten ein sorgfältig geprüftes und schnell wachsendes Netzwerk mit Fachpersonal aus Transport und Logistik, das passiv nach Stellen sucht. Anhand unseres genau abgestimmten Nutzerprofils finden wir den passenden Kandidaten für Sie.</target>
       </trans-unit>
-      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline">
+      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
-        <target state="needs-translation">Wir sind auf Berufseinsteiger und erfahrene Fachkräfte spezialisiert.</target>
+        <target state="translated">Wir sind auf Berufseinsteiger und erfahrene Fachkräfte spezialisiert.</target>
       </trans-unit>
-      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc">
+      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Desc</source>
-        <target>Im Gegensatz zu anderen Recruiting-Unternehmen mit unserem Schwerpunkt, konzentrieren wir uns vor allem auf jüngere Kandidaten mit einer Berufserfahrung zwischen 1 und 10 Jahren. Darüber hinaus vernetzen wir uns natürlich auch mit erfahreneren Bewerbern.</target>
+        <target state="translated">Im Gegensatz zu anderen Recruiting-Unternehmen mit unserem Schwerpunkt, konzentrieren wir uns vor allem auf jüngere Kandidaten mit einer Berufserfahrung zwischen 1 und 10 Jahren. Darüber hinaus vernetzen wir uns natürlich auch mit erfahreneren Bewerbern.</target>
       </trans-unit>
-      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline">
+      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Headline</source>
-        <target>Transparentes Preismodell</target>
+        <target state="translated">Transparentes Preismodell</target>
       </trans-unit>
-      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc">
+      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Desc</source>
-        <target>Dank unserer festen Preise wissen Sie immer genau, was auf Sie zukommt. Wir arbeiten mit skalierbaren Preisen, die Unternehmen aller Größen gerecht werden.</target>
+        <target state="translated">Dank unserer festen Preise wissen Sie immer genau, was auf Sie zukommt. Wir arbeiten mit skalierbaren Preisen, die Unternehmen aller Größen gerecht werden.</target>
       </trans-unit>
-      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline">
+      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Headline</source>
-        <target>Fokus auf Logistik und Transport</target>
+        <target state="translated">Fokus auf Logistik und Transport</target>
       </trans-unit>
-      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc">
+      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Desc</source>
-        <target>Aus langjährige beruflicher Erfahrung in Transport und Logistik zusammen und unserer Expertise als Recruitment-Spezialisten für die Branche haben wir ein einzigartiges Kundenverständnis entwickelt. Wir kennen Ihr Geschäftsumfeld und wissen genau, welche Kandidaten etwas in Ihrem Unternehmen bewegen können.</target>
+        <target state="translated">Aus langjährige beruflicher Erfahrung in Transport und Logistik zusammen und unserer Expertise als Recruitment-Spezialisten für die Branche haben wir ein einzigartiges Kundenverständnis entwickelt. Wir kennen Ihr Geschäftsumfeld und wissen genau, welche Kandidaten etwas in Ihrem Unternehmen bewegen können.</target>
       </trans-unit>
-      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline">
+      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Headline</source>
-        <target>Partnerschaftliche Mentalität</target>
+        <target state="translated">Partnerschaftliche Mentalität</target>
       </trans-unit>
       <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Desc</source>
@@ -2937,17 +2937,17 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.introductionHowWeAreDifferentItem6Desc</source>
         <target state="translated">Jeder Kunde hat unterschiedliche Bedürfnisse, abhängig von Größe und geografischem Fokus, aber auch davon, wie er uns in den Einstellungsprozess einbinden möchte. Davon ausgehend haben wir eine Reihe von Produkten entwickelt, die Unternehmen jeder Form und Größe gerecht werden und außerdem an Ihre individuellen Anforderungen angepasst werden können.</target>
       </trans-unit>
-      <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc">
+      <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc" approved="yes">
         <source>app.profileGroupImportDesc</source>
-        <target>Übernehmen Sie vorhandene Daten aus Ihrem Xing- oder LinkedIn-Profil.</target>
+        <target state="translated">Übernehmen Sie vorhandene Daten aus Ihrem Xing- oder LinkedIn-Profil.</target>
       </trans-unit>
-      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc">
+      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc" approved="yes">
         <source>app.profileGroupSummaryDesc</source>
-        <target>Erzählen Sie uns von Ihrem beruflichen Schwerpunkt. Welche Branchenkenntnisse bringen Sie mit? Worin sind Sie Spezialist?</target>
+        <target state="translated">Erzählen Sie uns von Ihrem beruflichen Schwerpunkt. Welche Branchenkenntnisse bringen Sie mit? Worin sind Sie Spezialist?</target>
       </trans-unit>
-      <trans-unit id="00d56e286c521018057d2e9965f08e74" resname="app.profileGroupSkillsDesc">
+      <trans-unit id="00d56e286c521018057d2e9965f08e74" resname="app.profileGroupSkillsDesc" approved="yes">
         <source>app.profileGroupSkillsDesc</source>
-        <target>Teamplayer, Motivator oder Querdenker – was zeichnet Sie aus?</target>
+        <target state="translated">Teamplayer, Motivator oder Querdenker – was zeichnet Sie aus?</target>
       </trans-unit>
       <trans-unit id="69e76f2e8024c2935738dc426b0f69e5" resname="app.profileGroupCertificatesDesc" approved="yes">
         <source>app.profileGroupCertificatesDesc</source>
@@ -2965,129 +2965,129 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileInputCertificateUploadBtnText</source>
         <target state="translated">Datei hinzufügen</target>
       </trans-unit>
-      <trans-unit id="1f38113f24e3ae6fdecd4e4a0b27579f" resname="app.profileSectionCertificatesItemsTitle">
+      <trans-unit id="1f38113f24e3ae6fdecd4e4a0b27579f" resname="app.profileSectionCertificatesItemsTitle" approved="yes">
         <source>app.profileSectionCertificatesItemsTitle</source>
-        <target>Gespeicherte Zertifikate</target>
+        <target state="translated">Gespeicherte Zertifikate</target>
       </trans-unit>
       <trans-unit id="3182502d1d0767c32d19ea967ba80284" resname="app.profileInputEducationsGraduationYearLabel" approved="yes">
         <source>app.profileInputEducationsGraduationYearLabel</source>
         <target state="translated">Abschlussjahr</target>
       </trans-unit>
-      <trans-unit id="9c64c3e4efddde37c12d6e88745d4a33" resname="app.profileInputEducationsCountryLabel">
+      <trans-unit id="9c64c3e4efddde37c12d6e88745d4a33" resname="app.profileInputEducationsCountryLabel" approved="yes">
         <source>app.profileInputEducationsCountryLabel</source>
-        <target>Land</target>
+        <target state="translated">Land</target>
       </trans-unit>
-      <trans-unit id="297d78b96fb06aa26bf5a19264ded431" resname="app.profileInputLanguagesLanguageLabel">
+      <trans-unit id="297d78b96fb06aa26bf5a19264ded431" resname="app.profileInputLanguagesLanguageLabel" approved="yes">
         <source>app.profileInputLanguagesLanguageLabel</source>
-        <target>Sprache</target>
+        <target state="translated">Sprache</target>
       </trans-unit>
-      <trans-unit id="8deef46319fcad48e67f19449f9ef103" resname="app.profileSectionLanguagesItemsTitle">
+      <trans-unit id="8deef46319fcad48e67f19449f9ef103" resname="app.profileSectionLanguagesItemsTitle" approved="yes">
         <source>app.profileSectionLanguagesItemsTitle</source>
-        <target>Gespeicherte Sprachen</target>
+        <target state="translated">Gespeicherte Sprachen</target>
       </trans-unit>
-      <trans-unit id="21b1efae29bdfa51e13878e7624f5ca8" resname="app.profileInputEducationsEducationLevelLabel">
+      <trans-unit id="21b1efae29bdfa51e13878e7624f5ca8" resname="app.profileInputEducationsEducationLevelLabel" approved="yes">
         <source>app.profileInputEducationsEducationLevelLabel</source>
-        <target>Abschluss</target>
+        <target state="translated">Abschluss</target>
       </trans-unit>
-      <trans-unit id="97b7947048bb2a930440f987b1dbb63f" resname="app.profileInputCertificatesCertificateTitleLabel">
+      <trans-unit id="97b7947048bb2a930440f987b1dbb63f" resname="app.profileInputCertificatesCertificateTitleLabel" approved="yes">
         <source>app.profileInputCertificatesCertificateTitleLabel</source>
-        <target>Bezeichnung</target>
+        <target state="translated">Bezeichnung</target>
       </trans-unit>
-      <trans-unit id="d61c24484b9050ccca7cef0e96ff6b4c" resname="app.profileInputLanguagesLevelLabel">
+      <trans-unit id="d61c24484b9050ccca7cef0e96ff6b4c" resname="app.profileInputLanguagesLevelLabel" approved="yes">
         <source>app.profileInputLanguagesLevelLabel</source>
-        <target>Kenntnisse</target>
+        <target state="translated">Kenntnisse</target>
       </trans-unit>
       <trans-unit id="a442311473694d44a8e9c5aaaec4cb42" resname="app.profileInputEducationsSkillLabel" approved="yes">
         <source>app.profileInputEducationsSkillLabel</source>
         <target state="translated">Fachrichtung</target>
       </trans-unit>
-      <trans-unit id="6a1c8e5ef90e2feafd38d320eea4d587" resname="app.profileSectionEducationsItemsTitle">
+      <trans-unit id="6a1c8e5ef90e2feafd38d320eea4d587" resname="app.profileSectionEducationsItemsTitle" approved="yes">
         <source>app.profileSectionEducationsItemsTitle</source>
-        <target>Gespeicherte Ausbildungen</target>
+        <target state="translated">Gespeicherte Ausbildungen</target>
       </trans-unit>
-      <trans-unit id="0bec007a2366bf6deba5b26b45ac0f61" resname="app.profileGroupSkillsTitle">
+      <trans-unit id="0bec007a2366bf6deba5b26b45ac0f61" resname="app.profileGroupSkillsTitle" approved="yes">
         <source>app.profileGroupSkillsTitle</source>
-        <target>Kompetenzen</target>
+        <target state="translated">Kompetenzen</target>
       </trans-unit>
-      <trans-unit id="a3c8f3120627053615eba7cd218509c0" resname="app.profileGroupEducationsTitle">
+      <trans-unit id="a3c8f3120627053615eba7cd218509c0" resname="app.profileGroupEducationsTitle" approved="yes">
         <source>app.profileGroupEducationsTitle</source>
-        <target>Ausbildung</target>
+        <target state="translated">Ausbildung</target>
       </trans-unit>
-      <trans-unit id="2bcef9e98a42aaf3cbf5412d5f6c14c4" resname="app.profileGroupCertificatesTitle">
+      <trans-unit id="2bcef9e98a42aaf3cbf5412d5f6c14c4" resname="app.profileGroupCertificatesTitle" approved="yes">
         <source>app.profileGroupCertificatesTitle</source>
-        <target>Qualifikationen</target>
+        <target state="translated">Qualifikationen</target>
       </trans-unit>
-      <trans-unit id="ee762f40f1d7b905439796d375ae52e2" resname="app.profileGroupLanguagesTitle">
+      <trans-unit id="ee762f40f1d7b905439796d375ae52e2" resname="app.profileGroupLanguagesTitle" approved="yes">
         <source>app.profileGroupLanguagesTitle</source>
-        <target>Sprachen</target>
+        <target state="translated">Sprachen</target>
       </trans-unit>
       <trans-unit id="a12f25dddf4a0bbd4bf605b73247f557" resname="app.profileInputPhotoEditBtnText" approved="yes">
         <source>app.profileInputPhotoEditBtnText</source>
         <target state="translated">Foto bearbeiten</target>
       </trans-unit>
-      <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
+      <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText" approved="yes">
         <source>app.profileInputCvUploadBtnText</source>
-        <target>Datei hinzufügen</target>
+        <target state="translated">Datei hinzufügen</target>
       </trans-unit>
       <trans-unit id="3204f2b258a021a769c829f54d49f2fc" resname="app.profileInputPhotoDesc" approved="yes">
         <source>app.profileInputPhotoDesc</source>
         <target state="translated">Min. 150 x 150 Pixel&lt;br&gt;Max. 1 MB</target>
       </trans-unit>
-      <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements">
+      <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements" approved="yes">
         <source>app.profileInputCvRequirements</source>
-        <target>Datei muss im PDF-Format vorliegen und darf eine Größe von 15 MB nicht überschreiten.</target>
+        <target state="translated">Datei muss im PDF-Format vorliegen und darf eine Größe von 15 MB nicht überschreiten.</target>
       </trans-unit>
-      <trans-unit id="f39e4f5ca41062af19cc9e01f6e54947" resname="app.profileInputBasicFirstNameLabel">
+      <trans-unit id="f39e4f5ca41062af19cc9e01f6e54947" resname="app.profileInputBasicFirstNameLabel" approved="yes">
         <source>app.profileInputBasicFirstNameLabel</source>
-        <target>Vorname</target>
+        <target state="translated">Vorname</target>
       </trans-unit>
-      <trans-unit id="899a525e10c0f8a5abd44f9936e708c4" resname="app.profileInputBasicLastNameLabel">
+      <trans-unit id="899a525e10c0f8a5abd44f9936e708c4" resname="app.profileInputBasicLastNameLabel" approved="yes">
         <source>app.profileInputBasicLastNameLabel</source>
-        <target>Nachname</target>
+        <target state="translated">Nachname</target>
       </trans-unit>
-      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel">
+      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
-        <target>E-Mail</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="610a3ad06b4c5cdc5757408e4fb7a9ad" resname="app.profileInputBasicPhoneLabel">
+      <trans-unit id="610a3ad06b4c5cdc5757408e4fb7a9ad" resname="app.profileInputBasicPhoneLabel" approved="yes">
         <source>app.profileInputBasicPhoneLabel</source>
-        <target>Telefon</target>
+        <target state="translated">Telefon</target>
       </trans-unit>
-      <trans-unit id="309d1465f679150894fec620c414411e" resname="app.profileSectionGeneralTitle">
+      <trans-unit id="309d1465f679150894fec620c414411e" resname="app.profileSectionGeneralTitle" approved="yes">
         <source>app.profileSectionGeneralTitle</source>
-        <target>Allgemein</target>
+        <target state="translated">Allgemein</target>
       </trans-unit>
-      <trans-unit id="08def7a4447632cce6c56d1800de05c9" resname="app.profileInputGeneralTitleLabel">
+      <trans-unit id="08def7a4447632cce6c56d1800de05c9" resname="app.profileInputGeneralTitleLabel" approved="yes">
         <source>app.profileInputGeneralTitleLabel</source>
-        <target>Titel</target>
+        <target state="translated">Titel</target>
       </trans-unit>
-      <trans-unit id="dbe59661037b91285e11ba29e81c79ce" resname="app.profileInputGeneralSalutationLabel">
+      <trans-unit id="dbe59661037b91285e11ba29e81c79ce" resname="app.profileInputGeneralSalutationLabel" approved="yes">
         <source>app.profileInputGeneralSalutationLabel</source>
-        <target>Anrede</target>
+        <target state="translated">Anrede</target>
       </trans-unit>
       <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target state="translated">Geburtsdatum</target>
       </trans-unit>
-      <trans-unit id="8cccca58a6789b7fd9e55202fe7fd754" resname="app.profileInputGeneralCountryLabel">
+      <trans-unit id="8cccca58a6789b7fd9e55202fe7fd754" resname="app.profileInputGeneralCountryLabel" approved="yes">
         <source>app.profileInputGeneralCountryLabel</source>
-        <target>Land</target>
+        <target state="translated">Land</target>
       </trans-unit>
-      <trans-unit id="4cfb2e6e104f714c30f5e462e228f182" resname="app.profileInputGeneralCityLabel">
+      <trans-unit id="4cfb2e6e104f714c30f5e462e228f182" resname="app.profileInputGeneralCityLabel" approved="yes">
         <source>app.profileInputGeneralCityLabel</source>
-        <target>Stadt</target>
+        <target state="translated">Stadt</target>
       </trans-unit>
-      <trans-unit id="cc62e1465f9ff470128db8866d1b664b" resname="app.profileSectionPhotoTitle">
+      <trans-unit id="cc62e1465f9ff470128db8866d1b664b" resname="app.profileSectionPhotoTitle" approved="yes">
         <source>app.profileSectionPhotoTitle</source>
-        <target>Foto</target>
+        <target state="translated">Foto</target>
       </trans-unit>
-      <trans-unit id="f76ab78ec61cc30804677353f72bb5ff" resname="app.profileSectionSocialMediaTitle">
+      <trans-unit id="f76ab78ec61cc30804677353f72bb5ff" resname="app.profileSectionSocialMediaTitle" approved="yes">
         <source>app.profileSectionSocialMediaTitle</source>
-        <target>Social Media</target>
+        <target state="translated">Social Media</target>
       </trans-unit>
-      <trans-unit id="31ec5ac54152199ac831867c091e5157" resname="app.profileSectionSocialMediaItemsTitle">
+      <trans-unit id="31ec5ac54152199ac831867c091e5157" resname="app.profileSectionSocialMediaItemsTitle" approved="yes">
         <source>app.profileSectionSocialMediaItemsTitle</source>
-        <target>Gespeicherte Profile</target>
+        <target state="translated">Gespeicherte Profile</target>
       </trans-unit>
       <trans-unit id="4ce87187dd4e3e4071c9b7969f3b88ca" resname="app.profileInputSocialMediaProfileTitleLabel" approved="yes">
         <source>app.profileInputSocialMediaProfileTitleLabel</source>
@@ -3097,101 +3097,101 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileInputSocialMediaAddressLabel</source>
         <target state="translated">und eine Adresse ein</target>
       </trans-unit>
-      <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle">
+      <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
-        <target>Berufserfahrung</target>
+        <target state="translated">Berufserfahrung</target>
       </trans-unit>
       <trans-unit id="a3f75e26705f7083bbd7dfd7799ffcfd" resname="app.profileInputTotalExperienceYearsLabel" approved="yes">
         <source>app.profileInputTotalExperienceYearsLabel</source>
         <target state="translated">Wie viele Jahre Berufserfahrung haben Sie in der Transport- oder Logistikbranche?</target>
       </trans-unit>
-      <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel">
+      <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel" approved="yes">
         <source>app.profileInputTotalExperienceSpecialityLabel</source>
-        <target>Worauf liegt Ihr beruflicher Fokus?</target>
+        <target state="translated">Worauf liegt Ihr beruflicher Fokus?</target>
       </trans-unit>
-      <trans-unit id="fe617f9c11592f4b65bc5c157f6aeb80" resname="app.profileInputSkillsSkillLabel">
+      <trans-unit id="fe617f9c11592f4b65bc5c157f6aeb80" resname="app.profileInputSkillsSkillLabel" approved="yes">
         <source>app.profileInputSkillsSkillLabel</source>
-        <target>Nennen Sie uns Ihre Kompetenzen.</target>
+        <target state="translated">Nennen Sie uns Ihre Kompetenzen.</target>
       </trans-unit>
-      <trans-unit id="b6aaaefcfab3eed9b61292bb4a3a238e" resname="app.profileSectionSkillsItemsTitle">
+      <trans-unit id="b6aaaefcfab3eed9b61292bb4a3a238e" resname="app.profileSectionSkillsItemsTitle" approved="yes">
         <source>app.profileSectionSkillsItemsTitle</source>
-        <target>Gespeicherte Kompetenzen</target>
+        <target state="translated">Gespeicherte Kompetenzen</target>
       </trans-unit>
-      <trans-unit id="2e77ab9717e5d4ba70be91a848340d5d" resname="app.profileInputPreferredCountriesCityLabel">
+      <trans-unit id="2e77ab9717e5d4ba70be91a848340d5d" resname="app.profileInputPreferredCountriesCityLabel" approved="yes">
         <source>app.profileInputPreferredCountriesCityLabel</source>
-        <target>Bevorzugte Stadt</target>
+        <target state="translated">Bevorzugte Stadt</target>
       </trans-unit>
-      <trans-unit id="54be6a3d70ada57c69d1c41495ea80f0" resname="app.profileInputPreferredCountriesCountryLabel">
+      <trans-unit id="54be6a3d70ada57c69d1c41495ea80f0" resname="app.profileInputPreferredCountriesCountryLabel" approved="yes">
         <source>app.profileInputPreferredCountriesCountryLabel</source>
-        <target>Wählen Sie bevorzugte Regionen und Länder.</target>
+        <target state="translated">Wählen Sie bevorzugte Regionen und Länder.</target>
       </trans-unit>
-      <trans-unit id="8cd376d3f470c713d7d5f1741d0c477f" resname="app.profileSectionPreferredCountriesItemsTitle">
+      <trans-unit id="8cd376d3f470c713d7d5f1741d0c477f" resname="app.profileSectionPreferredCountriesItemsTitle" approved="yes">
         <source>app.profileSectionPreferredCountriesItemsTitle</source>
-        <target>Gespeicherte Regionen und Länder</target>
+        <target state="translated">Gespeicherte Regionen und Länder</target>
       </trans-unit>
-      <trans-unit id="0dd0f537414cd92a4200d773c8f63e3a" resname="app.profileSectionPreferredCountriesTitle">
+      <trans-unit id="0dd0f537414cd92a4200d773c8f63e3a" resname="app.profileSectionPreferredCountriesTitle" approved="yes">
         <source>app.profileSectionPreferredCountriesTitle</source>
-        <target>Bevorzugte Arbeitsorte</target>
+        <target state="translated">Bevorzugte Arbeitsorte</target>
       </trans-unit>
-      <trans-unit id="6d001aac1f87d905d5308a04683ec636" resname="app.profileInputPreferredJobCategoriesJobCategoryLabel">
+      <trans-unit id="6d001aac1f87d905d5308a04683ec636" resname="app.profileInputPreferredJobCategoriesJobCategoryLabel" approved="yes">
         <source>app.profileInputPreferredJobCategoriesJobCategoryLabel</source>
-        <target>Wählen Sie einen Bereich</target>
+        <target state="translated">Wählen Sie einen Bereich</target>
       </trans-unit>
-      <trans-unit id="60a828f2a5c0adf52ab3bae08df5bc51" resname="app.profileSectionPreferredJobCategoriesItemsTitle">
+      <trans-unit id="60a828f2a5c0adf52ab3bae08df5bc51" resname="app.profileSectionPreferredJobCategoriesItemsTitle" approved="yes">
         <source>app.profileSectionPreferredJobCategoriesItemsTitle</source>
-        <target>Gespeicherte Tätigkeitsbereiche</target>
+        <target state="translated">Gespeicherte Tätigkeitsbereiche</target>
       </trans-unit>
-      <trans-unit id="48083c2fbe0dcb975ed0c5e8f9ef26e3" resname="app.profileSectionPreferredJobCategoriesTitle">
+      <trans-unit id="48083c2fbe0dcb975ed0c5e8f9ef26e3" resname="app.profileSectionPreferredJobCategoriesTitle" approved="yes">
         <source>app.profileSectionPreferredJobCategoriesTitle</source>
-        <target>Bevorzugte Tätigkeitsfelder</target>
+        <target state="translated">Bevorzugte Tätigkeitsfelder</target>
       </trans-unit>
-      <trans-unit id="cfa367939efe3b861e1132ad7f8cbb99" resname="app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel">
+      <trans-unit id="cfa367939efe3b861e1132ad7f8cbb99" resname="app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel" approved="yes">
         <source>app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel</source>
-        <target>Wählen Sie Ihre gewünschte Beschäftigungsart</target>
+        <target state="translated">Wählen Sie Ihre gewünschte Beschäftigungsart</target>
       </trans-unit>
-      <trans-unit id="00cd19b3af29a2a7b822ca52b68bbe93" resname="app.profileSectionPreferredEmploymentTypesItemsTitle">
+      <trans-unit id="00cd19b3af29a2a7b822ca52b68bbe93" resname="app.profileSectionPreferredEmploymentTypesItemsTitle" approved="yes">
         <source>app.profileSectionPreferredEmploymentTypesItemsTitle</source>
-        <target>Gespeicherte Beschäftigungsarten</target>
+        <target state="translated">Gespeicherte Beschäftigungsarten</target>
       </trans-unit>
-      <trans-unit id="e6b3715da196add0f128b90f7ca87a46" resname="app.profileSectionPreferredEmploymentTypesTitle">
+      <trans-unit id="e6b3715da196add0f128b90f7ca87a46" resname="app.profileSectionPreferredEmploymentTypesTitle" approved="yes">
         <source>app.profileSectionPreferredEmploymentTypesTitle</source>
-        <target>Gewünschte Beschäftigungsarten</target>
+        <target state="translated">Gewünschte Beschäftigungsarten</target>
       </trans-unit>
-      <trans-unit id="d1bd8445fa3752ae0fae733b49b337e8" resname="app.profileInputProfessionalExperienceSubareaLabel">
+      <trans-unit id="d1bd8445fa3752ae0fae733b49b337e8" resname="app.profileInputProfessionalExperienceSubareaLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceSubareaLabel</source>
-        <target>Unterbereich</target>
+        <target state="translated">Unterbereich</target>
       </trans-unit>
-      <trans-unit id="d1b0bed41fb46c1a1095300b6e2c24eb" resname="app.profileInputProfessionalExperienceBusinessAreaLabel">
+      <trans-unit id="d1b0bed41fb46c1a1095300b6e2c24eb" resname="app.profileInputProfessionalExperienceBusinessAreaLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceBusinessAreaLabel</source>
-        <target>Geschäftsbereich</target>
+        <target state="translated">Geschäftsbereich</target>
       </trans-unit>
-      <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle">
+      <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle" approved="yes">
         <source>app.profileSectionCvTitle</source>
-        <target>Lebenslauf</target>
+        <target state="translated">Lebenslauf</target>
       </trans-unit>
-      <trans-unit id="44d49c9afdc9663cd85aa49363f3e4c1" resname="app.profileSectionProfessionalExperienceItemsTitle">
+      <trans-unit id="44d49c9afdc9663cd85aa49363f3e4c1" resname="app.profileSectionProfessionalExperienceItemsTitle" approved="yes">
         <source>app.profileSectionProfessionalExperienceItemsTitle</source>
-        <target>Gespeicherte Erfahrungen</target>
+        <target state="translated">Gespeicherte Erfahrungen</target>
       </trans-unit>
       <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
         <target state="translated">Unterstellte Mitarbeiter</target>
       </trans-unit>
-      <trans-unit id="716c6e2fab7553e9b985abd85177f534" resname="app.profileProfileHasNotBeenApproved">
+      <trans-unit id="716c6e2fab7553e9b985abd85177f534" resname="app.profileProfileHasNotBeenApproved" approved="yes">
         <source>app.profileProfileHasNotBeenApproved</source>
-        <target>Vielen Dank für Ihre Angaben. Ihr Profil wird geprüft.</target>
+        <target state="translated">Vielen Dank für Ihre Angaben. Ihr Profil wird geprüft.</target>
       </trans-unit>
-      <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact">
+      <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact" approved="yes">
         <source>app.contact</source>
-        <target>Kontakt</target>
+        <target state="translated">Kontakt</target>
       </trans-unit>
-      <trans-unit id="e2d597fd4ff9f91106311cda60985bfc" resname="app.profileNavigationListItemStatus">
+      <trans-unit id="e2d597fd4ff9f91106311cda60985bfc" resname="app.profileNavigationListItemStatus" approved="yes">
         <source>app.profileNavigationListItemStatus</source>
-        <target>Status</target>
+        <target state="translated">Status</target>
       </trans-unit>
-      <trans-unit id="9a152564a6171a477d6c5e03841e8d91" resname="app.profileNavigationListItemBasic">
+      <trans-unit id="9a152564a6171a477d6c5e03841e8d91" resname="app.profileNavigationListItemBasic" approved="yes">
         <source>app.profileNavigationListItemBasic</source>
-        <target>Grundlegende Angaben</target>
+        <target state="translated">Grundlegende Angaben</target>
       </trans-unit>
       <trans-unit id="e42ec18ec73d29210643441ed4a36b76" resname="app.contentManagerSeniorEditor" approved="yes">
         <source>app.contentManagerSeniorEditor</source>
@@ -3217,13 +3217,13 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.careersAtTransportTalent</source>
         <target state="translated">Karrieremöglichkeiten bei Transport Talent</target>
       </trans-unit>
-      <trans-unit id="7b47d33f279727bb548facbcffc4a51d" resname="app.passiveSourcing">
+      <trans-unit id="7b47d33f279727bb548facbcffc4a51d" resname="app.passiveSourcing" approved="yes">
         <source>app.passiveSourcing</source>
-        <target>Passive Akquise</target>
+        <target state="translated">Passive Akquise</target>
       </trans-unit>
-      <trans-unit id="32b29b9eb7393b2c9d581234dfd93deb" resname="app.pricingPlan1Line6">
+      <trans-unit id="32b29b9eb7393b2c9d581234dfd93deb" resname="app.pricingPlan1Line6" approved="yes">
         <source>app.pricingPlan1Line6</source>
-        <target>Löschen</target>
+        <target state="translated">Löschen</target>
       </trans-unit>
       <trans-unit id="bea49301ec251df26b787c87316aaa0d" resname="app.serviceBookedTitle">
         <source>app.serviceBookedTitle</source>
@@ -3233,25 +3233,25 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.serviceBookedDescription</source>
         <target/>
       </trans-unit>
-      <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound">
+      <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound" approved="yes">
         <source>app.jobsFound</source>
-        <target>Stellen gefunden</target>
+        <target state="translated">Stellen gefunden</target>
       </trans-unit>
-      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName">
+      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName" approved="yes">
         <source>app.metaForSocialsSiteName</source>
-        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+        <target state="translated">Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
       </trans-unit>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle">
+      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
-        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+        <target state="translated">Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription">
+      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
-        <target>Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
+        <target state="translated">Transport Talent bietet Fachkräften aus Logistik und Spedition eine Plattform, über die sie vertraulich mit den besten Arbeitgebern der Branche in Kontakt treten können.</target>
       </trans-unit>
-      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
+      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder" approved="yes">
         <source>app.jobsFilterCompanyPlaceholder</source>
-        <target>z.B. DHL</target>
+        <target state="translated">z.B. DHL</target>
       </trans-unit>
       <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
         <source>app.metaDescriptionEditJobPage</source>
@@ -3273,49 +3273,49 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.metaKeywordsBase</source>
         <target/>
       </trans-unit>
-      <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies">
+      <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies" approved="yes">
         <source>app.companies</source>
-        <target>Unternehmen</target>
+        <target state="translated">Unternehmen</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target>in</target>
+        <target state="translated">in</target>
       </trans-unit>
-      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
+      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for" approved="yes">
         <source>app.for</source>
-        <target>für</target>
+        <target state="translated">für</target>
       </trans-unit>
-      <trans-unit id="fdef6daa799e80dbce1b561577b21181" resname="Vietnam">
+      <trans-unit id="fdef6daa799e80dbce1b561577b21181" resname="Vietnam" approved="yes">
         <source>Vietnam</source>
-        <target>Vietnam</target>
+        <target state="translated">Vietnam</target>
       </trans-unit>
       <trans-unit id="c8b94f2798e55aba98e492e8da52033d" resname="app.profileYourProfileStatusIs" approved="yes">
         <source>app.profileYourProfileStatusIs</source>
         <target state="translated">Ihr Profil ist zu</target>
       </trans-unit>
-      <trans-unit id="78393da8b6b3c414644e6ef393affb6d" resname="app.profileNavigationListItemPersonal">
+      <trans-unit id="78393da8b6b3c414644e6ef393affb6d" resname="app.profileNavigationListItemPersonal" approved="yes">
         <source>app.profileNavigationListItemPersonal</source>
-        <target>Persönliches Profil</target>
+        <target state="translated">Persönliches Profil</target>
       </trans-unit>
-      <trans-unit id="aaf4703e88a1979aa300eeaf7164256a" resname="app.profileNavigationListItemExperience">
+      <trans-unit id="aaf4703e88a1979aa300eeaf7164256a" resname="app.profileNavigationListItemExperience" approved="yes">
         <source>app.profileNavigationListItemExperience</source>
-        <target>Berufserfahrung</target>
+        <target state="translated">Berufserfahrung</target>
       </trans-unit>
-      <trans-unit id="25b2140cae5cac9532aecfb2a9ecf55d" resname="app.profileNavigationListItemLanguages">
+      <trans-unit id="25b2140cae5cac9532aecfb2a9ecf55d" resname="app.profileNavigationListItemLanguages" approved="yes">
         <source>app.profileNavigationListItemLanguages</source>
-        <target>Sprachen</target>
+        <target state="translated">Sprachen</target>
       </trans-unit>
-      <trans-unit id="9301b3ec39dcfaf383019143bfc1c2ed" resname="app.profileNavigationListItemSummary">
+      <trans-unit id="9301b3ec39dcfaf383019143bfc1c2ed" resname="app.profileNavigationListItemSummary" approved="yes">
         <source>app.profileNavigationListItemSummary</source>
-        <target>Lebenslauf hochladen</target>
+        <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
-      <trans-unit id="cb062093b86976fff61dbbb44e7a179b" resname="app.profileGroupImportTitle">
+      <trans-unit id="cb062093b86976fff61dbbb44e7a179b" resname="app.profileGroupImportTitle" approved="yes">
         <source>app.profileGroupImportTitle</source>
-        <target>Importieren Sie Ihre Daten</target>
+        <target state="translated">Importieren Sie Ihre Daten</target>
       </trans-unit>
-      <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle">
+      <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle" approved="yes">
         <source>app.profileGroupPersonalTitle</source>
-        <target>Persönliches Profil</target>
+        <target state="translated">Persönliches Profil</target>
       </trans-unit>
       <trans-unit id="cc112cd355a390029a02970d1d107e09" resname="app.profileGroupSummaryTitle" approved="yes">
         <source>app.profileGroupSummaryTitle</source>
@@ -3325,37 +3325,37 @@ Transport Talent wurde von Ulrich Nissen und Michel Rothgaenger gegründet. Beid
         <source>app.profileGroupExperienceTitle</source>
         <target state="translated">Vervollständigen Sie Ihr Profil mit Angaben zu Ihrer Berufserfahrung.</target>
       </trans-unit>
-      <trans-unit id="286aac929bdf6fe9bfd2a6caf15682ec" resname="app.profileGroupPreferencesTitle">
+      <trans-unit id="286aac929bdf6fe9bfd2a6caf15682ec" resname="app.profileGroupPreferencesTitle" approved="yes">
         <source>app.profileGroupPreferencesTitle</source>
-        <target>In welchem Bereich möchten Sie gerne arbeiten?</target>
+        <target state="translated">In welchem Bereich möchten Sie gerne arbeiten?</target>
       </trans-unit>
-      <trans-unit id="e97519fcb258156f7e80004f534736a4" resname="app.profileGroupBasicTitle">
+      <trans-unit id="e97519fcb258156f7e80004f534736a4" resname="app.profileGroupBasicTitle" approved="yes">
         <source>app.profileGroupBasicTitle</source>
-        <target>Allgemein</target>
+        <target state="translated">Allgemein</target>
       </trans-unit>
-      <trans-unit id="5cb97f8975d81da0c4533d5ed10f096b" resname="app.profileNavigationListItemCertificates">
+      <trans-unit id="5cb97f8975d81da0c4533d5ed10f096b" resname="app.profileNavigationListItemCertificates" approved="yes">
         <source>app.profileNavigationListItemCertificates</source>
-        <target>Zertifikate</target>
+        <target state="translated">Zertifikate</target>
       </trans-unit>
-      <trans-unit id="357703f5a7f509c69fdfdb8260df4f33" resname="app.profileNavigationListItemPreferences">
+      <trans-unit id="357703f5a7f509c69fdfdb8260df4f33" resname="app.profileNavigationListItemPreferences" approved="yes">
         <source>app.profileNavigationListItemPreferences</source>
-        <target>Jobpräferenzen</target>
+        <target state="translated">Jobpräferenzen</target>
       </trans-unit>
-      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName">
+      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName" approved="yes">
         <source>app.profileYourMentorName</source>
-        <target>Svenja</target>
+        <target state="translated">Svenja</target>
       </trans-unit>
-      <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete">
+      <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete" approved="yes">
         <source>app.complete</source>
-        <target>vollständig</target>
+        <target state="translated">vollständig</target>
       </trans-unit>
-      <trans-unit id="f7decfe7efae360563786fe90dea1295" resname="app.profileYourMentorDesc">
+      <trans-unit id="f7decfe7efae360563786fe90dea1295" resname="app.profileYourMentorDesc" approved="yes">
         <source>app.profileYourMentorDesc</source>
-        <target>Ihr persönlicher Ansprechpartner bei TT</target>
+        <target state="translated">Ihr persönlicher Ansprechpartner bei TT</target>
       </trans-unit>
-      <trans-unit id="1793adcc813a48118a0d473775d2b8ec" resname="app.profileProfileHasBeenApproved">
+      <trans-unit id="1793adcc813a48118a0d473775d2b8ec" resname="app.profileProfileHasBeenApproved" approved="yes">
         <source>app.profileProfileHasBeenApproved</source>
-        <target>Ihr Profil wurde geprüft und bestätigt</target>
+        <target state="translated">Ihr Profil wurde geprüft und bestätigt</target>
       </trans-unit>
     <trans-unit id="367d6df7a91144678d0ed5f439403668" resname="app.doYouHaveAQuestion" approved="yes">
         <source>app.doYouHaveAQuestion</source>

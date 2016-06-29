@@ -25,9 +25,9 @@
         <source>app.postJob</source>
         <target state="translated">Έκδοση θέσεις εργασίας</target>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target>Find top jobs in</target>
+        <target state="translated">Βρήκε θέσεις εργασίας σε</target>
       </trans-unit>
       <trans-unit id="62f876a61069a09ecb216542289a5f8b" resname="app.logistics">
         <source>app.logistics</source>
@@ -53,9 +53,9 @@
         <source>app.search</source>
         <target state="translated">Αναζήτηση</target>
       </trans-unit>
-      <trans-unit id="70553ea91cbf64b2e98f9bf50504f9b9" resname="app.advancedSearch">
+      <trans-unit id="70553ea91cbf64b2e98f9bf50504f9b9" resname="app.advancedSearch" approved="yes">
         <source>app.advancedSearch</source>
-        <target>Advanced search</target>
+        <target state="translated">Προχωρημένη αναζήτηση</target>
       </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
         <source>app.featuredJobs</source>
@@ -399,15 +399,15 @@
       </trans-unit>
       <trans-unit id="5f3e47c9dd828548cab9c6eddbc4249b" resname="app.theServicesAreOnlyAvailableOnTheCompletion" approved="yes">
         <source>app.theServicesAreOnlyAvailableOnTheCompletion</source>
-        <target state="translated">Οι υπηρεσίες είναι μόνο διαθέσιμες εάν ολοκληρώσετε την εγγραφή της ιστοσελίδας περιλαμβάνοντας</target>
+        <target state="translated">Οι υπηρεσίες είναι μόνο διαθέσιμες εάν ολοκληρώσετε την εγγραφή της ιστοσελίδας περιλαμβάνοντας την επιβεβαίωση, ότι διαβάστηκαν και αποδέχτηκαν οι όροι και προϋποθέσεις.</target>
       </trans-unit>
-      <trans-unit id="c31c4ec4a36b07da7d22769349017101" resname="app.useOfTheWebsiteAndTheServices">
+      <trans-unit id="c31c4ec4a36b07da7d22769349017101" resname="app.useOfTheWebsiteAndTheServices" approved="yes">
         <source>app.useOfTheWebsiteAndTheServices</source>
-        <target>Use of the Website and the Services</target>
+        <target state="translated">Χρήση της ιστοσελίδας και των υπηρεσιών</target>
       </trans-unit>
-      <trans-unit id="f765996a03db0b667a7c30cb32d860e9" resname="app.theWebsiteAndTheServicesAreForPersonalAndNonCommercial">
+      <trans-unit id="f765996a03db0b667a7c30cb32d860e9" resname="app.theWebsiteAndTheServicesAreForPersonalAndNonCommercial" approved="yes">
         <source>app.theWebsiteAndTheServicesAreForPersonalAndNonCommercial</source>
-        <target>The Website and the Services are for personal and non-commercial use only. You may copy electronically and print portions of the Website and/or the Services for your personal, non-commercial use only. In particular, you may not use any information from any directory or other listing or information retrieval service (if any) made available on the Website and/or the Services, in connection with any business or commercial undertaking (whether or not for profit). Any other use of materials on the Website and/or the Services (including without limitation reproduction for a purpose other than that noted above and any modification, distribution or republication) without the prior written permission of TransportTalent is strictly prohibited. You also agree not to deep-link and/or frame the Website or any of the Services for any purpose, unless specifically authorized by TransportTalent to do so.</target>
+        <target state="translated">Η ιστοσελίδα και οι υπηρεσίες είναι αποκλειστικά για τον ιδιωτικό και μην-εμπορικό τομέα. Επιτρέπεται η ηλεκτρονική αντιγραφή και η εκτύπωση περιεχόμενον της ιστοσελίδας μόνον για την ιδιωτική, μην-εμπορική χρήση. Για την ακρίβεια, δεν επιτρέπεται να χρησιμοποιείστε καμία από τις περιεχομένες πληροφορίες απο τις υπηρεσίες μας που βρίσκονται στην ιστοσελίδα σχετικά με οποιοδήποτε εμπορικό συμφέρων (με ή χωρίς οικονομικό όφελος). Οποιαδήποτε άλλη χρήση τον περιεχόμενον της ιστοσελίδας και των υπηρεσιών</target>
       </trans-unit>
       <trans-unit id="c19c73c713ae585d46a1a88fc7d80907" resname="app.youAgreeThatYouShallNotUseTheWebsite">
         <source>app.youAgreeThatYouShallNotUseTheWebsite</source>

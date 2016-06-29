@@ -433,6 +433,18 @@
         <source>app.byMeansOfTheWebsiteTransportTalentMakes</source>
         <target state="needs-translation">Посредством Веб-сайта, TransportTalent делает доступный информационный он-лайн сервис по найму на работу и трудоустройству, где мы размещаем рекламу предложений от работодателей в индустрии транспорта и логистики. Если что-либо из этого вызывает Ваш интерес, то Вы можете подать заявление на эти позиции (Услуги)</target>
       </trans-unit>
+      <trans-unit id="367d6df7a91144678d0ed5f439403668" resname="app.doYouHaveAQuestion" approved="yes">
+        <source>app.doYouHaveAQuestion</source>
+        <target state="translated">У вас есть вопросы или вы хотите связаться с нами? Напишите нам!</target>
+      </trans-unit>
+    <trans-unit id="a87f2096c83c51e33a2c4dd60756b7fa" resname="app.deleteCV" approved="yes">
+        <source>app.deleteCV</source>
+        <target state="translated">Удалить резюме</target>
+      </trans-unit>
+      <trans-unit id="f36f6f2cd3869cfa52e04011d4201302" resname="app.profileInputCertificateUploadBtnText" approved="yes">
+        <source>app.profileInputCertificateUploadBtnText</source>
+        <target state="translated">Загрузить файл</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

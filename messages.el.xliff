@@ -319,55 +319,51 @@
       </trans-unit>
       <trans-unit id="2b7de3031f3ee2b4528f06c2b908f5ce" resname="app.ulrichExperienceAsAnExecutiveSearchConsultant" approved="yes">
         <source>app.ulrichExperienceAsAnExecutiveSearchConsultant</source>
-        <target state="translated">Ο Ulrich δούλεψε ως υπεύθυνος στην αναζήτηση και στην πρόσληψη</target>
+        <target state="translated">Ο Ulrich δούλεψε ως υπεύθυνος στην αναζήτηση και στην πρόσληψη σε υπηρεσίες μεταφορών και διοικητικής μέριμνας για πολλά χρόνια. Πριν από αυτό δούλεψε για δυο διεθνής εταιρείες διοικητικής μέριμνας στη θέση του Senior Manager στην Ευρώπη, Ασία, βόρεια και νότια Αμερική.</target>
       </trans-unit>
-      <trans-unit id="abbafe6a7461efe475a34f322c1d8506" resname="app.founderAndCoo">
+      <trans-unit id="abbafe6a7461efe475a34f322c1d8506" resname="app.founderAndCoo" approved="yes">
         <source>app.founderAndCoo</source>
-        <target><![CDATA[Operational Director & Co-founder]]></target>
+        <target state="translated">Υπεύθυνος της επιχείρησης και συνιδρυτής</target>
       </trans-unit>
-      <trans-unit id="d93feadbb3ee859a193c7ff565af9ee3" resname="app.founderAndCto">
+      <trans-unit id="d93feadbb3ee859a193c7ff565af9ee3" resname="app.founderAndCto" approved="yes">
         <source>app.founderAndCto</source>
-        <target><![CDATA[Technical Director & Co-founder]]></target>
+        <target state="translated">Τεχνικός υπεύθυνος και συνιδρυτής</target>
       </trans-unit>
-      <trans-unit id="492658e208ebb27bad5019ea35ec1f19" resname="app.designerAndFrontEndEngineer">
+      <trans-unit id="492658e208ebb27bad5019ea35ec1f19" resname="app.designerAndFrontEndEngineer" approved="yes">
         <source>app.designerAndFrontEndEngineer</source>
-        <target>Designer and Front-End engineer</target>
+        <target state="translated">Σχεδιαστής και Front-End μηχανικός</target>
       </trans-unit>
-      <trans-unit id="749a7f67a4930d33969ed9732938d93e" resname="app.graphicDesigner">
+      <trans-unit id="749a7f67a4930d33969ed9732938d93e" resname="app.graphicDesigner" approved="yes">
         <source>app.graphicDesigner</source>
-        <target>Graphic Designer</target>
+        <target state="translated">Γραφίστας</target>
       </trans-unit>
-      <trans-unit id="e42ec18ec73d29210643441ed4a36b76" resname="app.contentManagerSeniorEditor">
+      <trans-unit id="e42ec18ec73d29210643441ed4a36b76" resname="app.contentManagerSeniorEditor" approved="yes">
         <source>app.contentManagerSeniorEditor</source>
-        <target><![CDATA[Content Manager & Senior Editor]]></target>
+        <target state="translated">Υπεύθυνος περιεχομένου και Senior εκδότης</target>
       </trans-unit>
-      <trans-unit id="b4fb2dfb885cb8100113d60c2e38f4e2" resname="app.socialMediaManager">
+      <trans-unit id="b4fb2dfb885cb8100113d60c2e38f4e2" resname="app.socialMediaManager" approved="yes">
         <source>app.socialMediaManager</source>
-        <target>Social Media Manager</target>
+        <target state="translated">Υπεύθυνος μέσα κοινωνικής δικτύωσης</target>
       </trans-unit>
-      <trans-unit id="fc64229a9ccb0861cf7abd0be5fda016" resname="app.recruitmentSpecialist">
+      <trans-unit id="fc64229a9ccb0861cf7abd0be5fda016" resname="app.recruitmentSpecialist" approved="yes">
         <source>app.recruitmentSpecialist</source>
-        <target>Recruitment Specialist</target>
+        <target state="translated">Ειδικός πρόσληψης</target>
       </trans-unit>
-      <trans-unit id="4290c3272d22dc2ff6549fcaf2646cc3" resname="app.accountExecutive">
+      <trans-unit id="4290c3272d22dc2ff6549fcaf2646cc3" resname="app.accountExecutive" approved="yes">
         <source>app.accountExecutive</source>
-        <target>Account Executive</target>
+        <target state="translated">Υπεύθυνος λογιστικής</target>
       </trans-unit>
-      <trans-unit id="d377290eab1e10ae83bdf070321f1a03" resname="app.SeoSpecialist">
+      <trans-unit id="d377290eab1e10ae83bdf070321f1a03" resname="app.SeoSpecialist" approved="yes">
         <source>app.SeoSpecialist</source>
-        <target>SEO Specialist</target>
+        <target state="translated">Ειδικός SEO</target>
       </trans-unit>
-      <trans-unit id="185c346a79a423772eef00311dbf8a24" resname="app.headquarters">
+      <trans-unit id="185c346a79a423772eef00311dbf8a24" resname="app.headquarters" approved="yes">
         <source>app.headquarters</source>
-        <target>Headquarters</target>
+        <target state="translated">Έδρες</target>
       </trans-unit>
-      <trans-unit id="41e0036c8ee0249f59a3832c79f826d8" resname="app.theMissionOfTransportTalentisToEnable">
+      <trans-unit id="41e0036c8ee0249f59a3832c79f826d8" resname="app.theMissionOfTransportTalentisToEnable" approved="yes">
         <source>app.theMissionOfTransportTalentisToEnable</source>
-        <target>Transport Talent is founded with the goal to innovate and improve the logistics and transport recruitment space. Candidates on the Transport Talent platform can actively apply to jobs, follow companies and advance their career with exclusive career-specific content.
-
-Employers can streamline the way they recruit, manage, and engage with talent by leveraging the largest and most concentrated community of logistics and transport professionals.
-
-Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have a long track record in Management and HR from some of the world’s leading logistics companies.</target>
+        <target state="translated">Η Transport Talent ιδρύθηκε με τον στόχο να καλυτερέψει τις προσλήψεις στον τομέα μεταφορών και διοικητικής μέριμνας. Υποψήφιοι σε αυτόν τον τομέα έχουν την πιθανότητα να κάνουν αίτηση σε αγγελίες, να ακολουθήσουν εταιρίες και να καλυτερέψουν τις ικανότητές τους με αποκλειστικά περιεχόμενα. Οι εργοδότες μπορούν να απλοποιήσουν τον τρόπο της πρόσληψης, της υπευθυνότητας και να επηρεάσουν τις μεγαλύτερες και συγκεντρωμένες υπηρεσίες μεταφορών και διοικητής μέριμνας. Η Transport Talent ιδρύθηκε από τον Ulrich Nissen και τον Michel Rothgaenger. Και οι δυο έχουν μεγάλες γνώσεις στον τομέα του Management και του HR μέσω από τις μεγαλύτερες διεθνές εταιρίες διοικητής μέριμνας.</target>
       </trans-unit>
       <trans-unit id="24e7b380b9fc0f8937fd1bfd467a7c1b" resname="app.weAreDedicatedToCreatingPlatform">
         <source>app.weAreDedicatedToCreatingPlatform</source>
@@ -377,37 +373,37 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
         <source>app.whetherYouAreJustStartingOutOrAiming</source>
         <target/>
       </trans-unit>
-      <trans-unit id="4f9d59b70820302da2b6c7ba966fb4a8" resname="app.theTeam">
+      <trans-unit id="4f9d59b70820302da2b6c7ba966fb4a8" resname="app.theTeam" approved="yes">
         <source>app.theTeam</source>
-        <target>The team</target>
+        <target state="translated">Η ομάδα</target>
       </trans-unit>
-      <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
+      <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions" approved="yes">
         <source>app.transportTalentCandidateTermsAndConditions</source>
-        <target>Transport Talent Candidate Terms and Conditions</target>
+        <target state="translated">Υποψήφιοι της Transport Talent όροι και προϋποθέσεις</target>
       </trans-unit>
-      <trans-unit id="959a65d8c8cc089d8efc31441e81716a" resname="app.pleaseReadThisAgreementCarefully">
+      <trans-unit id="959a65d8c8cc089d8efc31441e81716a" resname="app.pleaseReadThisAgreementCarefully" approved="yes">
         <source>app.pleaseReadThisAgreementCarefully</source>
-        <target>Please read this agreement carefully. It sets out the terms under which Transport Talent ApS offers you use of its services as defined in clause 1.1 of this agreement by means of TransportTalent (The "website"). By using any of the services and/or the website you agree that you have read and accepted these terms and conditions and that you should apply these to your use. If you do not wish to be bound by them, please do not register or use this website.</target>
+        <target state="translated">Παρακαλώ διαβάστε αυτή την συμφωνία προσεκτικά. Αναφέρει τους όρους με τους οποίους σας προσφέρει η Transport Talent τις υπηρεσίες της σύμφωνα με την ρήτρα 1.1 αυτής της συμφωνίας μέσω TransportTalent (The "website"). Με την χρήση τις υπηρεσίες μας και/ή της ιστοσελίδας μας συμφωνείτε ότι έχετε διαβάσει και συμφωνήσει με τους όρους και τις προϋποθέσεις. Εάν δεν θέλετε να δεσμευτείτε με αυτούς, παρακαλώ μην κάνετε εγγραφή ή χρησιμοποιείστε την ιστοσελίδα.</target>
       </trans-unit>
-      <trans-unit id="fc6eb412b658d55fd8ffa3f042b94249" resname="app.thisAgreementIsMadeBetween">
+      <trans-unit id="fc6eb412b658d55fd8ffa3f042b94249" resname="app.thisAgreementIsMadeBetween" approved="yes">
         <source>app.thisAgreementIsMadeBetween</source>
-        <target>This Agreement is made between you and Transport Talent ApS whose registered office is</target>
+        <target state="translated">Η παρούσα συμφωνία ισχύει ανάμεσα εσάς και την Transport Talent ApS, η οποία έχει την έδρα της στο</target>
       </trans-unit>
-      <trans-unit id="0c940d9ca8fe318e1eda9fe77ce54729" resname="app.companyNo">
+      <trans-unit id="0c940d9ca8fe318e1eda9fe77ce54729" resname="app.companyNo" approved="yes">
         <source>app.companyNo</source>
-        <target>Company No</target>
+        <target state="translated">Εταιρία όχι</target>
       </trans-unit>
-      <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices">
+      <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices" approved="yes">
         <source>app.theServices</source>
-        <target>Our Services</target>
+        <target state="translated">Οι υπηρεσίες μας</target>
       </trans-unit>
-      <trans-unit id="e9d55e00280bfcf9fa2d989c9b3788c8" resname="app.byMeansOfTheWebsiteTransportTalentMakes">
+      <trans-unit id="e9d55e00280bfcf9fa2d989c9b3788c8" resname="app.byMeansOfTheWebsiteTransportTalentMakes" approved="yes">
         <source>app.byMeansOfTheWebsiteTransportTalentMakes</source>
-        <target>By means of the Website, TransportTalent makes available an on-line recruitment and employment information service, where we display advertisements for positions from employers in the transport and logistics industry. If any of these have your interest you may submit responses to such positions (the "Services").</target>
+        <target state="translated">Μέσο της ιστοσελίδας η TransportTalent κάνει δυνατόν μια online πρόσληψη και ενημερωτική υπηρεσία απασχόλησης, όπου οι εργοδότες γνωστοποιούν θέσεις εργασίας στον τομέα μεταφορών και διοικητής μέριμνας. Εάν σας ενδιαφέρει κάποια από αυτές μπορείτε να καταθέσετε απαντήσεις σε τέτοιες θέσεις (the "Services").</target>
       </trans-unit>
-      <trans-unit id="9a15fdc4780b4c52af5ba4fdff3db56c" resname="app.pleaseNoteThatWhenRespondingToEmployers">
+      <trans-unit id="9a15fdc4780b4c52af5ba4fdff3db56c" resname="app.pleaseNoteThatWhenRespondingToEmployers" approved="yes">
         <source>app.pleaseNoteThatWhenRespondingToEmployers</source>
-        <target>Please note that when responding to employers you will be dealing with them directly and as such any contracts and/or arrangements will be formed between you and them, without TransportTalent as a party and TransportTalent cannot be held liable for your use of or any liability arising out of the same (save to the extent required by law).</target>
+        <target state="translated">Παρακαλώ προσέξτε ότι εάν απαντήσετε σε εργοδότες, θα έχετε την έμμεσα επαφή με αυτούς, χωρίς την συμμετοχή της TransportTalent και χωρίς καμία υπευθυνότητα της TransportTalent σε ότι συμβόλαια και/ή συμφωνίες θα κλείσετε με τον εργοδότη</target>
       </trans-unit>
       <trans-unit id="5f3e47c9dd828548cab9c6eddbc4249b" resname="app.theServicesAreOnlyAvailableOnTheCompletion">
         <source>app.theServicesAreOnlyAvailableOnTheCompletion</source>

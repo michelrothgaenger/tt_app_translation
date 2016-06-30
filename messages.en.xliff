@@ -3510,6 +3510,34 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
         <source>app.doYouHaveAQuestion</source>
         <target>Do you have a question or want to get in touch? Contact us!</target>
       </trans-unit>
+      <trans-unit id="f57332f5e68748d1baf3f493f5b2b28b" resname="app.jobDetail">
+        <source>app.jobDetail</source>
+        <target>Job detail</target>
+      </trans-unit>
+      <trans-unit id="1b43b272cd0c463cb98fd0aa0ffac4b5" resname="app.where">
+        <source>app.where</source>
+        <target>Where</target>
+      </trans-unit>
+      <trans-unit id="352db65121cd40038e98de4a33cc0aef" resname="app.where">
+        <source>app.generalInformation</source>
+        <target>General information</target>
+      </trans-unit>
+        <trans-unit id="ab5a47f1632a47d281f4e3651be9e997" resname="app.jobSavedToProfile">
+        <source>app.jobSavedToProfile</source>
+      <target>Saved to profile</target>
+      </trans-unit>
+        <trans-unit id="279dd523a9124d988442df5563435dc2" resname="app.jobSavedMessage">
+        <source>app.jobSavedMessage</source>
+      <target>Job has been saved</target>
+      </trans-unit>
+      <trans-unit id="a02cc4195ba045399c8319bfa9bd9e36" resname="app.backToResults">
+        <source>app.backToResults</source>
+        <target>Back to results</target>
+      </trans-unit>
+      <trans-unit id="7866281e46ce438198510a7fc1f2f82c" resname="app.broughtToYouExclusivelyBy">
+        <source>app.broughtToYouExclusivelyBy</source>
+        <target>Brought to you exclusively by</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -181,13 +181,13 @@
         <source>form.new_password_confirmation</source>
         <target>Neues Passwort bestätigen</target>
       </trans-unit>
-      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName" approved="yes">
         <source>form.firstName</source>
-        <target>Vorname</target>
+        <target state="translated">Vorname</target>
       </trans-unit>
-      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName" approved="yes">
         <source>form.lastName</source>
-        <target>Nachname</target>
+        <target state="translated">Nachname</target>
       </trans-unit>
     </body>
   </file>

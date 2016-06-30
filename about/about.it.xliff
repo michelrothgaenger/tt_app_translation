@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="it" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="e45492e5594445b4a5e68485857d8c92" resname="app.about.title" approved="yes">
+        <source>app.about.title</source>
+        <target state="translated">About us</target>
+      </trans-unit>
+      <trans-unit id="dc39e4fd07584572b9a28319624aae07" resname="app.about.meta.description">
+        <source>app.about.meta.description</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="89c359dae3a14b4c8ccebe44dc2e9c28" resname="app.about.meta.keywords">
+        <source>app.about.meta.keywords</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="0e7eddd068304757862e82910e9aeaf1" resname="app.about.h1" approved="yes">
+        <source>app.about.h1</source>
+        <target state="translated">About us</target>
+      </trans-unit>
+      <trans-unit id="d03900a9e9e9424c9cc06b401fd71f29" resname="app.about.section.about.title" approved="yes">
+        <source>app.about.section.about.title</source>
+        <target state="translated">At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry</target>
+      </trans-unit>
+      <trans-unit id="01c7405e4da74dd0b7c66b1df5a5f8bb" resname="app.about.section.about.description" approved="yes">
+        <source>app.about.section.about.description</source>
+        <target state="translated">Transport Talent is founded with the goal to innovate and improve the logistics and transport recruitment space. Candidates on the Transport Talent platform can actively apply to jobs, follow companies and advance their career with exclusive career-specific content.
+
+                Employers can streamline the way they recruit, manage, and engage with talent by leveraging the largest and most concentrated community of logistics and transport professionals.
+
+                Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have a long track record in Management and HR from some of the world’s leading logistics companies.</target>
+      </trans-unit>
+      <trans-unit id="256de07aca6749f1bfb2123599f72bec" resname="app.about.section.about.office.title" approved="yes">
+        <source>app.about.section.about.office.title</source>
+        <target state="translated">Headquarters</target>
+      </trans-unit>
+      <trans-unit id="65882d2364424001b50fc306982f20c9" resname="app.about.section.about.office.location" approved="yes">
+        <source>app.about.section.about.office.location</source>
+        <target state="translated">Germany</target>
+      </trans-unit>
+      <trans-unit id="12f52e7eaa5c4dc8894626afada78d94" resname="app.about.section.team.title" approved="yes">
+        <source>app.about.section.team.title</source>
+        <target state="translated">The team</target>
+      </trans-unit>
+      <trans-unit id="e160e90bae9d4373b07d6c5095fc2ed0" resname="app.about.section.team.ulrich.position" approved="yes">
+        <source>app.about.section.team.ulrich.position</source>
+        <target state="translated"><![CDATA[Managing Director & Co-founder]]></target>
+      </trans-unit>
+      <trans-unit id="a5834e1989ea42ccb575959c22c10a31" resname="app.about.section.team.ulrich.description" approved="yes">
+        <source>app.about.section.team.ulrich.description</source>
+        <target state="translated">Ulrich has been engaged in executive search and recruitment within the transport and logistics industry for the past several years. Prior to that he worked for two global logistics providers and held senior management positions in Europe, Asia, North America and South America.</target>
+      </trans-unit>
+      <trans-unit id="9d26f301766a4a8e82bdac1b26d3d4c4" resname="app.about.section.team.michel.position" approved="yes">
+        <source>app.about.section.team.michel.position</source>
+        <target state="translated"><![CDATA[Operational Director & Co-founder]]></target>
+      </trans-unit>
+      <trans-unit id="fc7784f631ec42788fda362177beadaa" resname="app.about.section.team.michel.description" approved="yes">
+        <source>app.about.section.team.michel.description</source>
+        <target state="translated">Michel is an experienced HR professional with a track record in both Operational and Strategic HR. Prior to co-founding Transport Talent he was responsible for vocational training as well as major HR IT projects and change management in one of the world's largest logistics companies.</target>
+      </trans-unit>
+      <trans-unit id="b9ccb431579341bfb3261de263df2b0d" resname="app.about.section.team.maxim.position" approved="yes">
+        <source>app.about.section.team.maxim.position</source>
+        <target state="translated"><![CDATA[Technical Director & Co-founder]]></target>
+      </trans-unit>
+      <trans-unit id="ea1a5cea46a54468b280f3873c2511dc" resname="" approved="yes">
+        <source>app.about.section.team.maxim.description</source>
+        <target state="translated">Maxim has years of experience building web solutions, including job portals, and has held positions in Denmark, China and Ukraine. This experience combined with his passion for programming and his persistence and ability to find solutions make him a perfect CTO.</target>
+      </trans-unit>
+      <trans-unit id="2a4a805872fd40bda77dc353480bb0c1" resname="app.about.section.team.svenja.position" approved="yes">
+        <source>app.about.section.team.svenja.position</source>
+        <target state="translated">Recruitment Consultant</target>
+      </trans-unit>
+      <trans-unit id="d19ef55ebb6544778ba42a84a88c813a" resname="app.about.section.team.svenja.description" approved="yes">
+        <source>app.about.section.team.svenja.description</source>
+        <target state="translated">Svenja is an all-rounder who approached transport and logistics from the academic side. With her experience from the administration of a renowned private university for logistics and other customer-facing positions she is the perfect fit for a supportive role in the recruitment process.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -3518,7 +3518,7 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
         <source>app.where</source>
         <target>Where</target>
       </trans-unit>
-      <trans-unit id="352db65121cd40038e98de4a33cc0aef" resname="app.where">
+      <trans-unit id="352db65121cd40038e98de4a33cc0aef" resname="app.generalInformation">
         <source>app.generalInformation</source>
         <target>General information</target>
       </trans-unit>
@@ -3526,9 +3526,9 @@ Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have 
         <source>app.jobSavedToProfile</source>
       <target>Saved to profile</target>
       </trans-unit>
-        <trans-unit id="279dd523a9124d988442df5563435dc2" resname="app.jobSavedMessage">
+      <trans-unit id="279dd523a9124d988442df5563435dc2" resname="app.jobSavedMessage">
         <source>app.jobSavedMessage</source>
-      <target>Job has been saved</target>
+        <target>Job has been saved</target>
       </trans-unit>
       <trans-unit id="a02cc4195ba045399c8319bfa9bd9e36" resname="app.backToResults">
         <source>app.backToResults</source>

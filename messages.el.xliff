@@ -9,9 +9,9 @@
         <source>Logistics</source>
         <target state="translated">Διοικητή μέριμνα</target>
       </trans-unit>
-      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping">
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping" approved="yes">
         <source>Shipping</source>
-        <target>Shipping</target>
+        <target state="translated">Nαυτιλία</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
@@ -209,13 +209,13 @@
         <source>app.companySize</source>
         <target state="translated">Μέγεθος εταιρείας</target>
       </trans-unit>
-      <trans-unit id="2b9717b0bc024798079444fb906b9b33" resname="app.turnover">
+      <trans-unit id="2b9717b0bc024798079444fb906b9b33" resname="app.turnover" approved="yes">
         <source>app.turnover</source>
-        <target>Turnover</target>
+        <target state="translated">Eισπράξεις</target>
       </trans-unit>
-      <trans-unit id="59445175d9aedd15bbdd6ebe552abe9f" resname="app.industry">
+      <trans-unit id="59445175d9aedd15bbdd6ebe552abe9f" resname="app.industry" approved="yes">
         <source>app.industry</source>
-        <target>Industry</target>
+        <target state="translated">Bιομηχανία</target>
       </trans-unit>
       <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
@@ -277,9 +277,9 @@
         <source>app.browseCategories</source>
         <target state="translated">Διαλέξτε κατηγορίες</target>
       </trans-unit>
-      <trans-unit id="fa324e5619aa674e94968f6ec7d1e73f" resname="app.career">
+      <trans-unit id="fa324e5619aa674e94968f6ec7d1e73f" resname="app.career" approved="yes">
         <source>app.career</source>
-        <target>Career</target>
+        <target state="translated">Kαριέρα</target>
       </trans-unit>
       <trans-unit id="337eb66780916214a0c450990171aa7d" resname="app.management">
         <source>app.management</source>

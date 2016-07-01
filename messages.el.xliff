@@ -313,9 +313,9 @@
         <source>app.topic</source>
         <target state="translated">Θέμα</target>
       </trans-unit>
-      <trans-unit id="c535d9038329b47d4fe7bca456f29592" resname="app.founderAndCeo">
+      <trans-unit id="c535d9038329b47d4fe7bca456f29592" resname="app.founderAndCeo" approved="yes">
         <source>app.founderAndCeo</source>
-        <target><![CDATA[Managing Director & Co-founder]]></target>
+        <target state="translated"><![CDATA[Managing Director & Co-founder]]></target>
       </trans-unit>
       <trans-unit id="2b7de3031f3ee2b4528f06c2b908f5ce" resname="app.ulrichExperienceAsAnExecutiveSearchConsultant" approved="yes">
         <source>app.ulrichExperienceAsAnExecutiveSearchConsultant</source>
@@ -457,97 +457,97 @@
         <source>app.registration</source>
         <target state="translated">Εγγραφή</target>
       </trans-unit>
-      <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm">
+      <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm" approved="yes">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>
-        <target>Where you are asked to complete a registration form the personal details that you provide must be true, accurate and complete. You agree to notify us of any changes which are relevant to your registration.</target>
+        <target state="translated">Οι προσωπικές σας λεπτομέρειες, που θα πρέπει να συμπληρώσετε στην εγγραφή, πρέπει να είναι ακριβώς και πλήρης. Συμφωνείτε ότι θα μας ενημερώσετε εάν αλλάξουν κάποια δεδομένα σας.</target>
       </trans-unit>
-      <trans-unit id="502a533f54e9de69e3ff9729515a9458" resname="app.dataProtectionAndUseOfPersonalInformation">
+      <trans-unit id="502a533f54e9de69e3ff9729515a9458" resname="app.dataProtectionAndUseOfPersonalInformation" approved="yes">
         <source>app.dataProtectionAndUseOfPersonalInformation</source>
-        <target>Data Protection and Use of Personal Information</target>
+        <target state="translated">Προστασία δεδομένων και χρήση προσωπικών πληροφοριών</target>
       </trans-unit>
-      <trans-unit id="8e5eceab928735db80b73a42329cc288" resname="app.whenTheUserEstablishesProfileOnTransportTalent">
+      <trans-unit id="8e5eceab928735db80b73a42329cc288" resname="app.whenTheUserEstablishesProfileOnTransportTalent" approved="yes">
         <source>app.whenTheUserEstablishesProfileOnTransportTalent</source>
-        <target>When the user establishes a profile on TransportTalent the user also accepts that personal information will be stored on our servers and that part hereof can be shared with the Employers using the services provided by TransportTalent.</target>
+        <target state="translated">Με την δημιουργία ενός λογαριασμού στην TransportTalent ο χρήστης συμφωνεί ότι οι προσωπικές του λεπτομέρειες θα αποθηκευτούν στα Server μας και ότι μπορούν να μοιραστούν με τους εργοδότες, που χρησιμοποιούν τις υπηρεσίες της TransportTalent.</target>
       </trans-unit>
       <trans-unit id="73fc9801c5529b653ebc08fef2c410a8" resname="app.yourPersonalDataWillBeCollectedAndProcessed">
         <source>app.yourPersonalDataWillBeCollectedAndProcessed</source>
         <target>Your personal data will be collected and processed by TransportTalent in accordance with its privacy policy. The personal data collected may include, without limitation, your name, address, telephone and fax details, email contact address, and other data obtained from you from time to time. Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form. The information gathered may be used by Transport Talent ApS and companies in the same group as Transport Talent ApS (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Transport Talent ApS, from companies in the same group as Transport Talent ApS or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Transport Talent ApS or companies in the same group as Transport Talent ApS or no longer wish us to pass your information to third parties you should again notify us by e-mail. Other than as set out elsewhere in this clause 5 your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.</target>
       </trans-unit>
-      <trans-unit id="cb390cd72bea6a9a01c822ecb6f910e3" resname="app.termination">
+      <trans-unit id="cb390cd72bea6a9a01c822ecb6f910e3" resname="app.termination" approved="yes">
         <source>app.termination</source>
-        <target>Termination</target>
+        <target state="translated">Ρύθμιση των προσφορών μας</target>
       </trans-unit>
-      <trans-unit id="b82cc0b3ec298ba3d752cf32f0bf6e60" resname="app.transportTalentMayTerminateSuspendOrDenyYouAccess">
+      <trans-unit id="b82cc0b3ec298ba3d752cf32f0bf6e60" resname="app.transportTalentMayTerminateSuspendOrDenyYouAccess" approved="yes">
         <source>app.transportTalentMayTerminateSuspendOrDenyYouAccess</source>
-        <target>TransportTalent may terminate, suspend or deny you access to the Website and/or Services immediately for any reason without incurring any liability whatsoever to you.</target>
+        <target state="translated">Η TransportTalent μπορεί να διακόψει, αποκλείσει ή απορρίψει άμεσα την πρόσβαση στην ιστοσελίδα και/ή στις υπηρεσίες της χωρίς καμία εξήγηση και χωρίς καμία ευθύνη απέναντί σας.</target>
       </trans-unit>
-      <trans-unit id="3ec79a955284bdaa6c27caa3f1f5fc89" resname="app.youAgreeToIndemnifyTransportTalentAndAllCompanies">
+      <trans-unit id="3ec79a955284bdaa6c27caa3f1f5fc89" resname="app.youAgreeToIndemnifyTransportTalentAndAllCompanies" approved="yes">
         <source>app.youAgreeToIndemnifyTransportTalentAndAllCompanies</source>
-        <target>You agree to indemnify TransportTalent and all companies within the TransportTalent group for all losses, costs, actions, claims, damages, expenses (including reasonable legal costs and expenses) or liabilities, whatsoever suffered or incurred by TransportTalent or companies within the Transport Talent ApS group in or as a consequence of your breach of this Agreement and/or your use of the Website and/or Services (save to the extent that a court of competent jurisdiction holds that such a claim arose due to an act or omission of TransportTalent).</target>
+        <target state="translated">Υποχρεώνετε να απαλλάσσεται την TransportTalent και όλες τις εταιρείες που ανήκουν στην TransportTalent από κάθε απώλεια, κόστος, μέσο, απαίτηση, ζημιά και έξοδα (συμπεριλαμβανομένα κάθε δικαστικά έξοδα) ή από κάθε αξίωση ευθύνης, τα οποία είναι αποτελέσματα της πράξης και/ή της παράλειψης της TransportTalent ή των εταιριών που ανήκουν στην TransportTalent. Επίσης συνεπάγονται από την παράβαση εναντίον αυτού του συμβόλαιο και/ή της χρήσης της ιστοσελίδας και/ή των υπηρεσιών (εφόσον δεν επιστραφεί σε μια πράξη ή παράλειψη εκ μέρος της TransportTalent από ένα υπεύθυνο δικαστήριο).</target>
       </trans-unit>
-      <trans-unit id="b7567dc69f2ef6fa026c25053c91de58" resname="app.claims">
+      <trans-unit id="b7567dc69f2ef6fa026c25053c91de58" resname="app.claims" approved="yes">
         <source>app.claims</source>
-        <target>Claims</target>
+        <target state="translated">Περίπτωση βλάβης</target>
       </trans-unit>
-      <trans-unit id="6fc4fa16f014e4bc5458922578f38417" resname="app.forceMajeure">
+      <trans-unit id="6fc4fa16f014e4bc5458922578f38417" resname="app.forceMajeure" approved="yes">
         <source>app.forceMajeure</source>
-        <target>Force Majeure</target>
+        <target state="translated">Aνωτέρα βία</target>
       </trans-unit>
-      <trans-unit id="8bdc01459e3d9246f82bb2c0d59fc6a2" resname="app.neitherPartyShallBeLiableToTheOther">
+      <trans-unit id="8bdc01459e3d9246f82bb2c0d59fc6a2" resname="app.neitherPartyShallBeLiableToTheOther" approved="yes">
         <source>app.neitherPartyShallBeLiableToTheOther</source>
-        <target>Neither party shall be liable to the other, for any loss or damage which may be suffered by the other party due to any cause beyond the first party's reasonable control including without limitation any power failure.</target>
+        <target state="translated">Κανένας απο τις δυο μεριές πρέπει να ευθύνεται για τον άλλον, για κάποια απώλεια ή ζημιά που μπορεί να προκύψει από τον άλλον, πέρα από τον λογικό έλεγχο του πρώτου συμμετέχοντα χωρίς κανένα όριο στην ισχυρή αποτυχία.</target>
       </trans-unit>
-      <trans-unit id="326f1b5baedbf6d1dae8b4b15deeb61a" resname="app.notices">
+      <trans-unit id="326f1b5baedbf6d1dae8b4b15deeb61a" resname="app.notices" approved="yes">
         <source>app.notices</source>
-        <target>Notices</target>
+        <target state="translated">Ενημερώσεις</target>
       </trans-unit>
-      <trans-unit id="9397191b8a2722f9f97151262f49b630" resname="app.anyNoticesShallUnlessOtherwiseExpresslyStated">
+      <trans-unit id="9397191b8a2722f9f97151262f49b630" resname="app.anyNoticesShallUnlessOtherwiseExpresslyStated" approved="yes">
         <source>app.anyNoticesShallUnlessOtherwiseExpresslyStated</source>
-        <target>Any notices shall, unless otherwise expressly stated, be in writing and shall be given by sending the same by e-mail, first class post to the other party's address as may be designated in writing from time to time. Any notice sent by first class post shall be deemed (in the absence of evidence of early receipt) to have been delivered two days after dispatch. Any notice given by e-mail shall be deemed to have been delivered on the next working day following transmission.</target>
+        <target state="translated">Όλες οι ενημερώσεις, εφόσον δεν καθορίστηκαν διαφορετικά, πρέπει να είναι γραπτές και να σταλθούν μέσω Email ή επείγουσα αποστολή στην διεύθυνση της άλλης μεριάς. Οι ενημερώσεις μέσω επείγουσα αποστολής ισχύουν παραδομένες 2 μέρες μετά της αποστολής. Οι ενημερώσεις μέσω Email ισχύουν παραδομένες την επόμενη εργάσιμη μέρα μετά της αποστολής.</target>
       </trans-unit>
-      <trans-unit id="4406b984844db598a0578c770cc6e7a8" resname="app.assignment">
+      <trans-unit id="4406b984844db598a0578c770cc6e7a8" resname="app.assignment" approved="yes">
         <source>app.assignment</source>
-        <target>Assignment</target>
+        <target state="translated">Παραχώρηση</target>
       </trans-unit>
-      <trans-unit id="06a99e143aad714a7b307336d6b5bb0c" resname="app.thisAgreementShallBePersonalToYouAndYouMayNotAssign">
+      <trans-unit id="06a99e143aad714a7b307336d6b5bb0c" resname="app.thisAgreementShallBePersonalToYouAndYouMayNotAssign" approved="yes">
         <source>app.thisAgreementShallBePersonalToYouAndYouMayNotAssign</source>
-        <target>This Agreement shall be personal to you and you may not assign, transfer, sublet, lease or delegate all or any of your rights and obligations, without TransportTalenets’s prior written consent.</target>
+        <target state="translated">Αυτή η συμφωνία είναι προσωπική και δεν επιτρέπεται να μεταφερθεί, μεταδοθεί, υπενοικιαστεί, ενοικιαστεί ή εξουσιοδοτηστεί κανένα δικαίωμα και καμία υποχρέωση ολοκληρωτικά ή ένα μέρος απο αυτά, χωρίς την έγκριση της TransportTalent.</target>
       </trans-unit>
-      <trans-unit id="74026b7e909d2e7adaddd727aa6bb1b4" resname="app.transportTalentReservesTheRightToAssignOrTransfer">
+      <trans-unit id="74026b7e909d2e7adaddd727aa6bb1b4" resname="app.transportTalentReservesTheRightToAssignOrTransfer" approved="yes">
         <source>app.transportTalentReservesTheRightToAssignOrTransfer</source>
-        <target>TransportTalent reserves the right to assign or transfer all or any of its rights and obligations under this Agreement to any companies in the same group as Transport Talent ApS or any other third party. In the event of assignment or transfer, notification will either be given to you by e-mail or posted on the Website.</target>
+        <target state="translated">Η TransportTalent επιφυλάσσεται κάθε δικαίωμα να μεταδώσει όλα ή ένα μέρος των δικαιωμάτων και των υποχρεώσεων αυτής της συμφωνίας σε κάθε εταιρία που ανήκει στην TransportTalent ApS ή τρίτων. Σε περίπτωση μιας μετάδωσης θα ενημερωθείτε μέσω Email ή της ιστοσελίδας.</target>
       </trans-unit>
-      <trans-unit id="7ea980df09e9339e9a18f9bd8a452f97" resname="app.noWaiver">
+      <trans-unit id="7ea980df09e9339e9a18f9bd8a452f97" resname="app.noWaiver" approved="yes">
         <source>app.noWaiver</source>
-        <target>No Waiver</target>
+        <target state="translated">Καμία παραίτηση</target>
       </trans-unit>
-      <trans-unit id="2737360321a8d4e8196dfc029fa35ebc" resname="app.failureOrNeglectByEitherPartyToExerciseOrEnforce">
+      <trans-unit id="2737360321a8d4e8196dfc029fa35ebc" resname="app.failureOrNeglectByEitherPartyToExerciseOrEnforce" approved="yes">
         <source>app.failureOrNeglectByEitherPartyToExerciseOrEnforce</source>
-        <target>Failure or neglect by either party to exercise or enforce any right conferred shall not be deemed to be a waiver of any such right nor operate so as to bar that exercise or enforcement thereof or of any other right on any later occasion.</target>
+        <target state="translated">Εάν κάποια μεριά δεν ασκήσει ή δεν επιβάλει τα χορηγημένα δικαιώματα αυτού του συμβολαίου, δεν ισχύει σαν παραίτηση των δικαιωμάτων. Επίσης δεν καταλήγει στο να αρνηθεί η εξάσκηση ή η επιβολή των δικαιωμάτων.</target>
       </trans-unit>
-      <trans-unit id="5f7f352b715fe04d0ccd4bcd000c079e" resname="app.severability">
+      <trans-unit id="5f7f352b715fe04d0ccd4bcd000c079e" resname="app.severability" approved="yes">
         <source>app.severability</source>
-        <target>Severability</target>
+        <target state="translated">Pήτρα απαλλαγής από ευθύνη</target>
       </trans-unit>
-      <trans-unit id="f02b4efe001a6508231f5c3726085303" resname="app.ifAnyProvisionOfThisAgreementOrPartThereof">
+      <trans-unit id="f02b4efe001a6508231f5c3726085303" resname="app.ifAnyProvisionOfThisAgreementOrPartThereof" approved="yes">
         <source>app.ifAnyProvisionOfThisAgreementOrPartThereof</source>
-        <target>If any provision of this Agreement or part thereof is determined to be invalid, unlawful or unenforceable, such provision, or part thereof, shall be severed from the remaining terms, conditions and provisions which shall continue to be valid and enforceable to the fullest extent permitted by law.</target>
+        <target state="translated">Εάν είναι ή γίνει κάποιος προσδιορισμός αυτού του συμβολαίου ανενεργός ή ακατόρθωτος ή εάν αποδειχτεί στην χρήση του συμβολαίου ένα κενό, έτσι παραμένει ανεπηρέαστη η ενέργεια των άλλων προσδιορισμών.</target>
       </trans-unit>
-      <trans-unit id="5102685b60b8376e0956da08556cacf6" resname="app.variationOfTerms">
+      <trans-unit id="5102685b60b8376e0956da08556cacf6" resname="app.variationOfTerms" approved="yes">
         <source>app.variationOfTerms</source>
-        <target>Variation of Terms</target>
+        <target state="translated">Διαφορά του διατακτικού του συμβολαίου</target>
       </trans-unit>
-      <trans-unit id="b4198807b8a1648ee8e021bdbcc4dcf4" resname="app.thisAgreementTogetherWithAnyVariationsToItPursuant">
+      <trans-unit id="b4198807b8a1648ee8e021bdbcc4dcf4" resname="app.thisAgreementTogetherWithAnyVariationsToItPursuant" approved="yes">
         <source>app.thisAgreementTogetherWithAnyVariationsToItPursuant</source>
-        <target>This Agreement (together with any variations to it pursuant to clause 13.2) constitutes the entire agreement between the parties in respect of its subject matter.</target>
+        <target state="translated">Αυτοί οι προσδιορισμοί, συμπεριλαμβανομένου όλες τις αποκλίσεις σύμφωνα με 13.2, δικαιολογούν όλο το συμβόλαιο Γιαις δυο μεριές σχετικά με αυτό το θέμα.</target>
       </trans-unit>
-      <trans-unit id="62d57d94126465f34a6b677e976238c3" resname="app.transportTalentReservesTheRightToVaryThisAgreement">
+      <trans-unit id="62d57d94126465f34a6b677e976238c3" resname="app.transportTalentReservesTheRightToVaryThisAgreement" approved="yes">
         <source>app.transportTalentReservesTheRightToVaryThisAgreement</source>
-        <target>TransportTalent reserves the right to vary this Agreement from time to time. Such changes shall either be notified to you by e-mail or posted on the home pages of the Website. Changes in this manner shall be deemed to have been accepted if you continue to use the Website and/or the Services after a period of two weeks from the date of transmission of the e-mail or of posting on the home pages of the Website, whichever occurs later.</target>
+        <target state="translated">Η TransportTalent επιφυλάσσεται να αλλάξει αυτούς τους όρους. Θα ενημερωθείτε μέσω Email ή της ιστοσελίδας για τέτοιες αλλαγές. Οι αλλαγές ισχύουν αποδεχόμενες εάν συνεχίσετε να χρησιμοποιήτε την ιστοσελίδα και/ή τις υπηρεσίες μας μόλις λήξει η προθεσμία των 2 εβδομάδων από την ημέρα της αποστολής του Email ή της ενημέρωσης στην ιστοσελίδα (αναλόγως ποια ενημέρωση ακολουθήσει).</target>
       </trans-unit>
-      <trans-unit id="975c05d24d7ffa61150f35ee21c25836" resname="app.lawAndJurisdiction">
+      <trans-unit id="975c05d24d7ffa61150f35ee21c25836" resname="app.lawAndJurisdiction" approved="yes">
         <source>app.lawAndJurisdiction</source>
-        <target>Law and Jurisdiction</target>
+        <target state="translated">Δωσιδικία</target>
       </trans-unit>
       <trans-unit id="f4e9bb81709e38c48b4b310c467f8378" resname="app.thisAgreementShallBeGovernedByTheLawsDenmark">
         <source>app.thisAgreementShallBeGovernedByTheLawsDenmark</source>

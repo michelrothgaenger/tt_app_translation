@@ -393,9 +393,9 @@
         <source>app.theServicesAreOnlyAvailableOnTheCompletion</source>
         <target>The Services are only available on the completion of the registration section of the Website including confirmation that the relevant terms and conditions have been read and accepted.</target>
       </trans-unit>
-      <trans-unit id="c31c4ec4a36b07da7d22769349017101" resname="app.useOfTheWebsiteAndTheServices">
+      <trans-unit id="c31c4ec4a36b07da7d22769349017101" resname="app.useOfTheWebsiteAndTheServices" approved="yes">
         <source>app.useOfTheWebsiteAndTheServices</source>
-        <target>Use of the Website and the Services</target>
+        <target state="translated">El uso de la página web y el servicio</target>
       </trans-unit>
       <trans-unit id="f765996a03db0b667a7c30cb32d860e9" resname="app.theWebsiteAndTheServicesAreForPersonalAndNonCommercial">
         <source>app.theWebsiteAndTheServicesAreForPersonalAndNonCommercial</source>

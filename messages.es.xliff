@@ -437,9 +437,9 @@
         <source>app.saveToTheExtentPermittedByThisAgreement</source>
         <target>Save to the extent permitted by this Agreement, TransportTalent does not grant any licence or other authorization to use any of its trade marks, product names, company names or logos or any of its copyright works or other intellectual property rights by placing them on or making them available by means of the Website or the Services.</target>
       </trans-unit>
-      <trans-unit id="a9f66184e9e5e54913060909820c264a" resname="app.availabilityOfTheWebsiteAndTheService">
+      <trans-unit id="a9f66184e9e5e54913060909820c264a" resname="app.availabilityOfTheWebsiteAndTheService" approved="yes">
         <source>app.availabilityOfTheWebsiteAndTheService</source>
-        <target>Availability of the Website and the Service</target>
+        <target state="translated">Disponibilidad de la página de internet y del servicio</target>
       </trans-unit>
       <trans-unit id="64d7450e7fda07accf6360732381f6df" resname="app.transportTalentDoesNotPromiseFullUninterrupted">
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>

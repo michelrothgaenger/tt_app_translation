@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="a21b9ab85fc630fc73dcaacc35506f11" resname="Air &amp; Sea">
+        <source>Air &amp; Sea</source>
+        <target><![CDATA[Air & Sea]]></target>
+      </trans-unit>
+      <trans-unit id="cb35a26844e4d843df624c764780e9ec" resname="Air freight">
+        <source>Air freight</source>
+        <target>Air freight</target>
+      </trans-unit>
+      <trans-unit id="b88033354e42b423efaefbcc5649ddb9" resname="Automotive">
+        <source>Automotive</source>
+        <target>Automotive</target>
+      </trans-unit>
+      <trans-unit id="aac5c73eb5a26faa1204e42ae3011ec6" resname="Contract Logistics">
+        <source>Contract Logistics</source>
+        <target>Contract Logistics</target>
+      </trans-unit>
+      <trans-unit id="b144fa061545497bebee8c414efc99a9" resname="Express">
+        <source>Express</source>
+        <target>Express</target>
+      </trans-unit>
+      <trans-unit id="9e97d1eef44c156cedd09ce08c106111" resname="Food Logstics">
+        <source>Food Logstics</source>
+        <target>Food Logistics</target>
+      </trans-unit>
+      <trans-unit id="7309efaa2c9237ebddeb3a12dae02bb3" resname="Freight Forwarding">
+        <source>Freight Forwarding</source>
+        <target>Freight Forwarding</target>
+      </trans-unit>
+      <trans-unit id="eff0f91afc04db6e4c5e9990343a61fa" resname="Freight Logistics &amp; Port Logistics">
+        <source>Freight Logistics &amp; Port Logistics</source>
+        <target><![CDATA[Freight Logistics & Port Logistics]]></target>
+      </trans-unit>
+      <trans-unit id="d781a0259968633983d820f1dc10a54a" resname="Liner Shipping">
+        <source>Liner Shipping</source>
+        <target>Liner Shipping</target>
+      </trans-unit>
+      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics">
+        <source>Logistics</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight">
+        <source>Ocean Freight</source>
+        <target>Ocean Freight</target>
+      </trans-unit>
+      <trans-unit id="f38e9081d395bb971dd1bf81f65f22e6" resname="Parcel">
+        <source>Parcel</source>
+        <target>Parcel</target>
+      </trans-unit>
+      <trans-unit id="463eec4ccf1b4af7cd0e8882dfc0eb7b" resname="Port &amp; Terminal operator">
+        <source>Port &amp; Terminal operator</source>
+        <target><![CDATA[Port & Terminal operator]]></target>
+      </trans-unit>
+      <trans-unit id="8e09426d12ee985da162fbeb42269ff0" resname="Road &amp; Rail services">
+        <source>Road &amp; Rail services</source>
+        <target><![CDATA[Road & Rail services]]></target>
+      </trans-unit>
+      <trans-unit id="8820b38b2fb2dfa812ce489865b1cb58" resname="Road Contract Logistics">
+        <source>Road Contract Logistics</source>
+        <target>Road Contract Logistics</target>
+      </trans-unit>
+      <trans-unit id="c535b114581e05490ad2924c7c958bad" resname="SCM &amp; Logistics">
+        <source>SCM &amp; Logistics</source>
+        <target><![CDATA[SCM & Logistics]]></target>
+      </trans-unit>
+      <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain">
+        <source>Supply Chain</source>
+        <target>Supply Chain</target>
+      </trans-unit>
+      <trans-unit id="a49db90c7d7e1b333a16a1be1741b491" resname="Trucking">
+        <source>Trucking</source>
+        <target>Trucking</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.employerJobsHeadline">
+        <source>app.employerJobsHeadline</source>
+        <target>Your jobs</target>
+      </trans-unit>
+      <trans-unit id="2a3e8c5582f216118f55959c471e88b3" resname="app.metaDescriptionEmployerJobsPage">
+        <source>app.metaDescriptionEmployerJobsPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="0cf53464143c75d4969ca9ea3e9f45d1" resname="app.metaKeywordsEmployerJobsPage">
+        <source>app.metaKeywordsEmployerJobsPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.employerJobsDesc">
+        <source>app.employerJobsDesc</source>
+        <target>Find below your joblistings</target>
+      </trans-unit>
+      <trans-unit id="a9c8b5a1a52ba4759403e5475d26c2c5" resname="app.employerJobsMainDesc">
+        <source>app.employerJobsMainDesc</source>
+        <target>How do you want to list your jobs with us?</target>
+      </trans-unit>
+      <trans-unit id="37b6f55a0f7abe9ed6ed4ea85853e551" resname="app.off">
+        <source>app.off</source>
+        <target>Off</target>
+      </trans-unit>
+      <trans-unit id="63fc11f6595edd841bb7c67ad8dcae19" resname="app.employerJobsAutomaticImport">
+        <source>app.employerJobsAutomaticImport</source>
+        <target>Automatic import from the following URL address:</target>
+      </trans-unit>
+      <trans-unit id="2e8bb3d8007abd48c047bbb2db901261" resname="app.typeYourUrl">
+        <source>app.typeYourUrl</source>
+        <target>Type your url</target>
+      </trans-unit>
+      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save">
+        <source>app.save</source>
+        <target>Save</target>
+      </trans-unit>
+      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel">
+        <source>app.cancel</source>
+        <target>Cancel</target>
+      </trans-unit>
+      <trans-unit id="b5484319932b710c764b17cf815b6283" resname="app.edit">
+        <source>app.edit</source>
+        <target>Edit</target>
+      </trans-unit>
+      <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete">
+        <source>app.delete</source>
+        <target>Delete</target>
+      </trans-unit>
+      <trans-unit id="45a2fd24cd8a9d1bcbde441ffdbb846a" resname="app.on">
+        <source>app.on</source>
+        <target>On</target>
+      </trans-unit>
+      <trans-unit id="4d01fd4aa9d597736f84f388b7adb796" resname="app.employerJobsManualImport">
+        <source>app.employerJobsManualImport</source>
+        <target>Manual input, you fill in your jobs yourself below</target>
+      </trans-unit>
+      <trans-unit id="a29d668942963463976a24b8005bce98" resname="app.notAllowedToPostJobs">
+        <source>app.notAllowedToPostJobs</source>
+        <target><![CDATA[You are not allowed to post jobs, go to <a href="%serviceslink%">services</a> to order service you need]]></target>
+      </trans-unit>
+      <trans-unit id="32686730d8f5d0241c56b4035d9f0ae4" resname="app.addJob">
+        <source>app.addJob</source>
+        <target>Add job</target>
+      </trans-unit>
+      <trans-unit id="aea9979ba2c8ccc5b94daea2dcc8cbdd" resname="app.show">
+        <source>app.show</source>
+        <target>Show</target>
+      </trans-unit>
+      <trans-unit id="b16e6694aa83ea1f66ee02b9fbaec0fb" resname="app.hide">
+        <source>app.hide</source>
+        <target>Hide</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

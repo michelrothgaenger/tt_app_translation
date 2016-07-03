@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="6f0f5743629edec1d99d389828369d7f" resname="app.email.serviceBooked">
+        <source>app.email.serviceBooked</source>
+        <target><![CDATA[Hallo %title% %lastname%,<br> <br> hiermit bestätigen wir Ihnen Ihre Leistungsbuchung über unser Portal. Ein Mitarbeiter wird sich kurzfristig bei Ihnen melden, um weitere Details zu klären.<br> <br> Sollten Sie in der Zwischenzeit Fragen haben, so wenden Sie sich gern per E-Mail an support@transporttalent.com oder Nutzen Sie unsere weiteren <a href="https://transporttalent.com/de/contact">Kontaktmöglichkeiten</a>.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

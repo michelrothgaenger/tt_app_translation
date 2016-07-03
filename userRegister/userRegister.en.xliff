@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+        <source>app.register</source>
+        <target>Register</target>
+      </trans-unit>
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+        <source>app.registration</source>
+        <target>Get Started</target>
+      </trans-unit>
+      <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
+        <source>app.registerCta</source>
+        <target><![CDATA[Sign in and complete your profile so that we can start matching.<br>Sign in using one of your social media profiles, or by filling out your information below.]]></target>
+      </trans-unit>
+      <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline">
+        <source>app.certificateHeadline</source>
+        <target>We take your privacy seriously. Please read our privacy policy to learn more about how we protect your data.</target>
+      </trans-unit>
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+        <source>app.signInWithLinkedIn</source>
+        <target>Sign in with LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+        <source>app.signInWithXing</source>
+        <target>Sign in with Xing</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+        <source>app.signInWithGoogle</source>
+        <target>Sign in with Google</target>
+      </trans-unit>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+        <source>app.signInWithFB</source>
+        <target>Sign in with Facebook</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+        <source>app.or</source>
+        <target>or</target>
+      </trans-unit>
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+        <source>app.iAgreeToThe</source>
+        <target>I agree to the</target>
+      </trans-unit>
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+        <source>app.termsConditionsCheckbox</source>
+        <target><![CDATA[Terms & Conditions]]></target>
+      </trans-unit>
+      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
+        <source>registration.check_email</source>
+        <target>An email has been sent to %email%. It contains an activation link you must click to activate your account.</target>
+      </trans-unit>
+      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject">
+        <source>registration.emailemp.subject</source>
+        <target>Thank you for signing up with Transport Talent!</target>
+      </trans-unit>
+      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject">
+        <source>registration.email.subject</source>
+        <target>Welcome %username%!</target>
+      </trans-unit>
+      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message">
+        <source>registration.emailemp.message</source>
+        <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
+      </trans-unit>
+      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message">
+        <source>registration.email.message</source>
+        <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
+      </trans-unit>
+      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
+        <source>registration.confirmed</source>
+        <target>Congrats %username%, your account is now activated.</target>
+      </trans-unit>
+      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo">
+        <source>app.youCanContinueTo</source>
+        <target>You can continue to</target>
+      </trans-unit>
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+        <source>app.profile</source>
+        <target>Profile</target>
+      </trans-unit>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
+        <source>app.services</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+        <source>app.jobSearch</source>
+        <target>Job search</target>
+      </trans-unit>
+      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
+        <source>form.email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+        <source>form.firstName</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+        <source>form.lastName</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password">
+        <source>form.password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation">
+        <source>form.password_confirmation</source>
+        <target>Repeat password</target>
+      </trans-unit>
+      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
+        <source>fos_user.password.mismatch</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

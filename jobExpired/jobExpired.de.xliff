@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+        <source>app.jobExpiredPageTitle</source>
+        <target>Dieses Angebot ist leider abgelaufen</target>
+      </trans-unit>
+      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
+        <source>app.metaDescriptionExpiredPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
+        <source>app.metaKeywordsExpiredPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+        <source>app.jobExpiredPageDesc</source>
+        <target><![CDATA[Entschuldigung, das gesuchte Angebot wurden bereits aus der Datenbank entfernt.<br>Nachstehend haben wir ähnliche Angebote aufgelistet.<br><br>Gerne informieren wir Sie über passende Stellen.<br>Melden Sie sich hierzu einfach für unseren Newsletter an.]]></target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Jetzt kostenlos registrieren</target>
+      </trans-unit>
+      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+        <source>app.searchRelatedJobs</source>
+        <target>Nach ähnlichen Jobs suchen</target>
+      </trans-unit>
+      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+        <source>app.browseRelatedJobs</source>
+        <target>Ähnliche Jobs ansehen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

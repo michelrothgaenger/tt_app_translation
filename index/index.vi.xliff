@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+        <source>app.metaDescriptionIndexPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
+        <source>app.metaKeywordsIndexPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+        <source>app.theFastestWayToFindNewJobIn</source>
+        <target>Find top jobs in</target>
+      </trans-unit>
+      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+        <source>app.indexSecondTitle</source>
+        <target>Over 1,000 new jobs posted monthly</target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Register now - it's free</target>
+      </trans-unit>
+      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2">
+        <source>app.searchJobs2</source>
+        <target>Search jobs</target>
+      </trans-unit>
+      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks">
+        <source>app.howItWorks</source>
+        <target>How it works</target>
+      </trans-unit>
+      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc">
+        <source>app.howItWorksDesc</source>
+        <target>We would like to get to know you. The more we know about your qualifications and preferences, the faster we can match you with your dream job.</target>
+      </trans-unit>
+      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start">
+        <source>app.start</source>
+        <target>Create Your Profile</target>
+      </trans-unit>
+      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1">
+        <source>app.howItWorksStep1</source>
+        <target>Register and create a profile that highlights your experience and career goals. Our team will review your information and start searching for a match.</target>
+      </trans-unit>
+      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive">
+        <source>app.receive</source>
+        <target>Browse Jobs</target>
+      </trans-unit>
+      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2">
+        <source>app.howItWorksStep2</source>
+        <target>Review our job board with thousands of openings for all experience levels. Find something you like and then apply directly. If you are not actively looking for a new challenge, then let our team of experts take it from here. We will let you know once we have found an excellent opportunity for you.</target>
+      </trans-unit>
+      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply">
+        <source>app.apply</source>
+        <target>Get matched</target>
+      </trans-unit>
+      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3">
+        <source>app.howItWorksStep3</source>
+        <target>Sit back and receive high quality job recommendations. Our long list of open positions is growing constantly and our team of experts is actively looking for an opening that matches your profile. Your dream job is on its way.</target>
+      </trans-unit>
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
+        <source>app.featuredJobs</source>
+        <target>Featured Jobs</target>
+      </trans-unit>
+      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level">
+        <source>app.level</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category">
+        <source>app.category</source>
+        <target>Category</target>
+      </trans-unit>
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+        <source>app.new</source>
+        <target>new</target>
+      </trans-unit>
+      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn">
+        <source>app.featuredJobsRegisterBtn</source>
+        <target>Register now to see more</target>
+      </trans-unit>
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs">
+        <source>app.searchFeaturedJobs</source>
+        <target>Search featured jobs</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+        <source>app.companyProfiles</source>
+        <target>Meet the companies</target>
+      </trans-unit>
+      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
+        <source>app.seeAllCompanies</source>
+        <target>See all companies</target>
+      </trans-unit>
+      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch">
+        <source>app.getMoreFromYourJobSearch</source>
+        <target>Get more from your job search</target>
+      </trans-unit>
+      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles">
+        <source>app.allArticles</source>
+        <target>All articles</target>
+      </trans-unit>
+      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more">
+        <source>app.more</source>
+        <target>More</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272853" resname="app.pricing">
+        <source>app.pricing</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="da88949486b0fd492a9d2bd1dd261902" resname="app.metaDescriptionPricingPage">
+        <source>app.metaDescriptionPricingPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b81fa74b17cec720793b8d0cfb193d68" resname="app.metaKeywordsPricingPage">
+        <source>app.metaKeywordsPricingPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="092bf77f8763cca07bd2a208b9f145b8" resname="app.pricingSourcingHeadline">
+        <source>app.pricingSourcingHeadline</source>
+        <target>Wählen Sie Ihr Servicepaket</target>
+      </trans-unit>
+      <trans-unit id="c43f86a2f1f7ce95086da81b24cfde51" resname="app.pricingSourcingDesc">
+        <source>app.pricingSourcingDesc</source>
+        <target>Und wir beginnen noch heute mit der Kandidatensuche für Sie.</target>
+      </trans-unit>
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+        <source>app.readOn</source>
+        <target>Weiterlesen</target>
+      </trans-unit>
+      <trans-unit id="2299bf78ad40137b7f6f8a678abd2867" resname="app.pricingPlansHeadline">
+        <source>app.pricingPlansHeadline</source>
+        <target>Unsere Servicepakete</target>
+      </trans-unit>
+      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
+        <source>app.AllPricesAreExcludingVAT</source>
+        <target>*Alle Preise exklusive Mehrwertsteuer.</target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Jetzt kostenlos registrieren</target>
+      </trans-unit>
+      <trans-unit id="287868ff5eed45f5e5562625aadc0c8f" resname="app.pricingWhatIsTTHeadline">
+        <source>app.pricingWhatIsTTHeadline</source>
+        <target>Was ist Transport Talent?</target>
+      </trans-unit>
+      <trans-unit id="14a39e2d67f415dd85f58d4e4efcd632" resname="app.pricingWhatIsTTDesc">
+        <source>app.pricingWhatIsTTDesc</source>
+        <target>Transport Talent ist ein Unternehmen für Personalvermittlung mit Fokus auf Transport und Logistik. Über unsere Kanäle erreichen Ihre Stellenanzeigen eine genau ausgewählte Zielgruppe. So schaffen wir Ihnen mehr Raum für die eigentliche Personalauswahl.</target>
+      </trans-unit>
+      <trans-unit id="7945fcaad8882faabda36651ec72ffa9" resname="app.pricingWhoForHeadline">
+        <source>app.pricingWhoForHeadline</source>
+        <target>Wer profitiert von unserem Service?</target>
+      </trans-unit>
+      <trans-unit id="6c79071ab6edf26423d1780bde88a52c" resname="app.pricingWhoForDesc">
+        <source>app.pricingWhoForDesc</source>
+        <target>Transport Talent unterstützt Unternehmen aller Formen und Größen: Vom globalen Logistikdienstleister über Schifffahrtsgesellschaften, Hersteller bis hin zur lokalen Spedition. Es kommt nicht darauf an, wer oder was Sie sind – wir unterstützen Sie bei der Suche nach leistungsstarken Talenten mit den besten Qualifikationen in Transport und Logistik. Durch unser breites Angebot können wir unsere Dienstleistungen speziell Ihren Bedürfnissen anpassen und Sie bekommen die richtigen Kandidaten, wenn Sie sie brauchen.</target>
+      </trans-unit>
+      <trans-unit id="a59dad3be2ce4fb7d2a1373820118f53" resname="app.introductionTryUsHeadline">
+        <source>app.introductionTryUsHeadline</source>
+        <target>Testen Sie uns.</target>
+      </trans-unit>
+      <trans-unit id="75e22614934135d80ba94fac634368d1" resname="app.introductionTryUsDesc">
+        <source>app.introductionTryUsDesc</source>
+        <target>Registrieren Sie sich noch heute für unseren Service und profitieren Sie von einem der am schnellsten wachsenden Netzwerke für Transport- und Logistikberufe.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

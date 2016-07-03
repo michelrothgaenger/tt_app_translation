@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+        <source>app.jobs</source>
+        <target>Empleos</target>
+      </trans-unit>
+      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
+        <source>app.for</source>
+        <target>for</target>
+      </trans-unit>
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+        <source>app.in</source>
+        <target>in</target>
+      </trans-unit>
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+        <source>app.jobSearch</source>
+        <target>Busqueda de trabajo</target>
+      </trans-unit>
+      <trans-unit id="ca5c7ac078ef514b5904e30e5d3b2f36" resname="app.jobsPageSearchCta">
+        <source>app.jobsPageSearchCta</source>
+        <target>Narrow your search results by using the filters.</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+        <source>app.search</source>
+        <target>Buscar</target>
+      </trans-unit>
+      <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs">
+        <source>app.browseJobs</source>
+        <target>Navegar por trabajos</target>
+      </trans-unit>
+      <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound">
+        <source>app.jobsFound</source>
+        <target>jobs found</target>
+      </trans-unit>
+      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy">
+        <source>app.sortJobsBy</source>
+        <target>Clasificar trabajos según</target>
+      </trans-unit>
+      <trans-unit id="2acf8a93350bc5c3ce5cb2f7cf1817bd" resname="app.date">
+        <source>app.date</source>
+        <target>Fecha descendente</target>
+      </trans-unit>
+      <trans-unit id="cea790d15df86ab1edd6c5a46ba632d3" resname="app.views">
+        <source>app.views</source>
+        <target>Vista descendente</target>
+      </trans-unit>
+      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType">
+        <source>app.jobType</source>
+        <target>Forma de trabajo</target>
+      </trans-unit>
+      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel">
+        <source>app.jobLevel</source>
+        <target>Posición de empleo</target>
+      </trans-unit>
+      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted">
+        <source>app.posted</source>
+        <target>Colocado</target>
+      </trans-unit>
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+        <source>app.new</source>
+        <target>nuevo/a</target>
+      </trans-unit>
+      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
+        <source>app.company</source>
+        <target>Empresa</target>
+      </trans-unit>
+      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
+        <source>app.jobsFilterCompanyPlaceholder</source>
+        <target>e.g. DHL</target>
+      </trans-unit>
+      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location">
+        <source>app.location</source>
+        <target>Dónde</target>
+      </trans-unit>
+      <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany">
+        <source>app.egGermany</source>
+        <target>e.g. Germany</target>
+      </trans-unit>
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes">
+        <source>app.allJobTypes</source>
+        <target>All job types</target>
+      </trans-unit>
+      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels">
+        <source>app.allJobLevels</source>
+        <target>All job levels</target>
+      </trans-unit>
+      <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound">
+        <source>app.noJobsFound</source>
+        <target>No jobs found</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

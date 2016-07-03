@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline">
+        <source>app.loginHeadline</source>
+        <target>Großartig, Sie wiederzusehen!</target>
+      </trans-unit>
+      <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta">
+        <source>app.loginCta</source>
+        <target>Jeden Tag fügen wir neue Jobs hinzu. Melden Sie sich an und beginnen mit Ihrer Suche.</target>
+      </trans-unit>
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+        <source>app.signInWithLinkedIn</source>
+        <target>Anmelden mit LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+        <source>app.signInWithXing</source>
+        <target>Anmelden mit Xing</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+        <source>app.signInWithGoogle</source>
+        <target>Anmelden mit Google</target>
+      </trans-unit>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+        <source>app.signInWithFB</source>
+        <target>Anmelden mit Facebook</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+        <source>app.or</source>
+        <target>oder</target>
+      </trans-unit>
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+        <source>app.email</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
+        <source>security.login.password</source>
+        <target>Passwort</target>
+      </trans-unit>
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+        <source>app.forgotPassword</source>
+        <target>Passwort vergessen?</target>
+      </trans-unit>
+      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
+        <source>security.login.submit</source>
+        <target>Anmelden</target>
+      </trans-unit>
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+        <source>app.notRegisteredCta</source>
+        <target>Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

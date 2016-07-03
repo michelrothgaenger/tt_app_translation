@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+        <source>app.metaDescriptionIndexPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
+        <source>app.metaKeywordsIndexPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+        <source>app.theFastestWayToFindNewJobIn</source>
+        <target><![CDATA[Die besten Stellen in <b>Logistik</b> und <b>Transport</b>]]></target>
+      </trans-unit>
+      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+        <source>app.indexSecondTitle</source>
+        <target>Jeden Monat mehr als 1.000 neue Jobs</target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Jetzt kostenlos registrieren</target>
+      </trans-unit>
+      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2">
+        <source>app.searchJobs2</source>
+        <target>Jobs finden</target>
+      </trans-unit>
+      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks">
+        <source>app.howItWorks</source>
+        <target>Wie funktioniert Transport Talent?</target>
+      </trans-unit>
+      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc">
+        <source>app.howItWorksDesc</source>
+        <target>Wir möchten Sie gerne kennenlernen. Je mehr wir über Ihre Erfahrungen und Präferenzen wissen, desto schneller können wir ihren Traumjob für Sie finden.</target>
+      </trans-unit>
+      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start">
+        <source>app.start</source>
+        <target>Profil erstellen</target>
+      </trans-unit>
+      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1">
+        <source>app.howItWorksStep1</source>
+        <target>Registrieren Sie sich und erstellen Sie ein Profil, das Ihre Erfahrungen und Ziele unterstreicht. Unser Team geht Ihre Angaben durch und sucht nach passenden Jobs für Sie.</target>
+      </trans-unit>
+      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive">
+        <source>app.receive</source>
+        <target>Job suchen</target>
+      </trans-unit>
+      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2">
+        <source>app.howItWorksStep2</source>
+        <target>Durchsuchen Sie unser Jobportal mit tausenden offenen Stellen aller Erfahrungsstufen. Finden Sie einen interessanten Job und bewerben Sie sich direkt auf ihn. Suchen Sie nicht aktiv nach einer neuen Herausforderung, lassen Sie unser Team die Arbeit machen. Wir melden uns bei Ihnen, sobald wir eine tolle Chance für Sie gefunden haben.</target>
+      </trans-unit>
+      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply">
+        <source>app.apply</source>
+        <target>Vermitteln lassen</target>
+      </trans-unit>
+      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3">
+        <source>app.howItWorksStep3</source>
+        <target>Lehnen Sie sich zurück und erhalte exklusive Stellenempfehlungen von uns. Es kommen ständig neue Positionen hinzu, aus denen unser Expertenteam passende Ausschreibungen für Sie heraussucht. Ihr Traumjob ist zum Greifen nah.</target>
+      </trans-unit>
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
+        <source>app.featuredJobs</source>
+        <target>Interessante Angebote</target>
+      </trans-unit>
+      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level">
+        <source>app.level</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category">
+        <source>app.category</source>
+        <target>Kategorie</target>
+      </trans-unit>
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+        <source>app.new</source>
+        <target>neu</target>
+      </trans-unit>
+      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn">
+        <source>app.featuredJobsRegisterBtn</source>
+        <target>Registrieren Sie sich, um mehr zu sehen</target>
+      </trans-unit>
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs">
+        <source>app.searchFeaturedJobs</source>
+        <target>Interessante Angebote durchsuchen</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+        <source>app.companyProfiles</source>
+        <target>Lernen Sie die Unternehmen kennen</target>
+      </trans-unit>
+      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
+        <source>app.seeAllCompanies</source>
+        <target>Alle Unternehmen ansehen</target>
+      </trans-unit>
+      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch">
+        <source>app.getMoreFromYourJobSearch</source>
+        <target>Holen Sie mehr aus Ihrer Jobsuche heraus</target>
+      </trans-unit>
+      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles">
+        <source>app.allArticles</source>
+        <target>Alle Beiträge</target>
+      </trans-unit>
+      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more">
+        <source>app.more</source>
+        <target>Mehr</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

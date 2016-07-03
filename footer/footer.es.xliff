@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate">
+        <source>app.candidate</source>
+        <target>Candidato/a</target>
+      </trans-unit>
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+        <source>app.jobs</source>
+        <target>Empleos</target>
+      </trans-unit>
+      <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList">
+        <source>app.employersList</source>
+        <target>Companies</target>
+      </trans-unit>
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+        <source>app.profile</source>
+        <target>Perfil</target>
+      </trans-unit>
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+        <source>app.signOut</source>
+        <target>Cerrar sesión</target>
+      </trans-unit>
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+        <source>app.signIn</source>
+        <target>Iniciar sesión</target>
+      </trans-unit>
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+        <source>app.signUp</source>
+        <target>Fichar</target>
+      </trans-unit>
+      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer">
+        <source>app.employer</source>
+        <target>Employer</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+        <source>app.forEmployers</source>
+        <target>Para empresarios</target>
+      </trans-unit>
+      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn">
+        <source>app.logIn</source>
+        <target>Iniciar sesión</target>
+      </trans-unit>
+      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
+        <source>app.aboutUs</source>
+        <target>Información sobre nosotros</target>
+      </trans-unit>
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+        <source>app.termsConditions</source>
+        <target>Condiciones generales de contrato</target>
+      </trans-unit>
+      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy">
+        <source>app.dataPrivacy</source>
+        <target>Data Privacy</target>
+      </trans-unit>
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+        <source>app.contactUs</source>
+        <target>Ponte en contacto con nosotros</target>
+      </trans-unit>
+      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
+        <source>app.imprint</source>
+        <target>Imprint</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

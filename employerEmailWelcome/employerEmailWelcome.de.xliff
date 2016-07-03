@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer">
+        <source>app.email.welcomeEmployer</source>
+        <target><![CDATA[Hallo %title% %lastname%,<br> <br> vielen Dank für Ihre Anmeldung auf TransportTalent.com und Ihrem damit verbundenen Interesse an unseren Leistungen.<br> <br style="font-weight: bold;"> <span style="font-weight: bold;">Wie geht es jetzt weiter?</span><br> <br> 1. <a href="%companieprofile%">Erstellen Sie Ihr kostenloses Unternehmensprofil, um sich interessierten Bewerbern optimal präsentieren zu können.<br> </a><br> 2. <a href="%servicespage%">Buchen Sie unseren Service "Job Board Subscription", um all Ihre Stellenausschreibungen automatisch auf unserem Portal zu veröffentlichen.</a><br> <br> 3. <a href="%servicespage%">Lassen Sie uns bestimmte Stellenausschreibungen gezielt hervorheben und passenden Kandidaten vorschlagen mit unserem Produkt "Active Sourcing".</a><br> <br> 4. <a href="%servicespage%">Legen Sie den gesamten Recruitingprozess für eine bestimmte Vakanz in unsere Hände und unterhalten Sie sich nur noch mit den Kandidaten, welche am besten auf Ihre Anforderungen passen.</a><br> <br> Für Fragen stehen wir Ihnen gern unter <a href="mailto:support@transporttalent.com">support@transporttalent.com</a> zur Verfügung.<br> <br> Mit freundlichen Grüßen<br> <br> Michel Rothgaenger <br> Operativer Geschäftsführer<br>]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

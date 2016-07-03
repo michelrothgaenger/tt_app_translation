@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="zh" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser">
+        <source>app.email.welcomeUser</source>
+        <target><![CDATA[Hello %firstname%,<br> <br> Welcome to Transport Talent! We are happy to take part in your logistics career. <br> <br> After completing just one step you will receive your first matching job opportunities.<br> <br> Create your profile: Help us find the right position for you by telling us about your preferred employment level, qualifications and professional experience. You can also import your profile from LinkedIn or Xing with just a few clicks. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%profile%">Create your profile now!</a><br> </div> <br> <span style="font-weight: bold;">Go job hunting with Transport Talent</span><br> <br> Access the job search directly: Of course you can also look for jobs yourself. Narrow the search results by using the different filters. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%searchjobs%">Search for jobs now!</a><br> </div> <br> Get to know employers: At Transport Talent you have access to a database of transport and logistics companies of all sizes. <br> <br> <div style="text-align: center; font-weight: bold;"><a href="%browsecompanies%">Learn more about employers!</a><br> </div> <br> Transport Talent will soon offer additional services. Stay tuned for our new <a href="http://blog.transporttalent.com"><span style="font-weight: bold;">Transport Talent blog</span></a>, our career counseling and more. <br> <br> Start following us today on <a href="https://www.facebook.com/transporttalent"><span style="font-weight: bold;">Facebook</span></a>, <a href="https://twitter.com/transporttalent"><span style="font-weight: bold;">Twitter</span></a> or <a href="https://www.linkedin.com/company/transport-talent"><span style="font-weight: bold;">Linkedin</span></a>, to keep yourself updated and learn interesting facts about careers and logistics. &nbsp; <br> <br> Should you have any questions, do not hesitate to contact us at <a href="mailto:support@transporttalent.com"><span style="font-weight: bold;">support@transporttalent.com</span></a>. <br> <br> Kind regards, <br> <br> Ulrich Nissen <br> Managing Director<br>]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

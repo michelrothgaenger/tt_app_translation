@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="f5fe5651ba6dc1c56617ff81a52d7c90" resname="app.pricingPlan1Headline">
+        <source>app.pricingPlan1Headline</source>
+        <target>Job Board Subscription</target>
+      </trans-unit>
+      <trans-unit id="d17e322d42ac09555d7d3083ac32db6f" resname="app.pricingPlan1Line1">
+        <source>app.pricingPlan1Line1</source>
+        <target>12 month Subscription</target>
+      </trans-unit>
+      <trans-unit id="3115949f9e3f7296f89ee728ea835fbb" resname="app.pricingPlan1Line2">
+        <source>app.pricingPlan1Line2</source>
+        <target>Automated listing of all your open positions</target>
+      </trans-unit>
+      <trans-unit id="4f6eab1362524b1e5b6a662324d4afa1" resname="app.pricingPlan1Line3">
+        <source>app.pricingPlan1Line3</source>
+        <target>All your jobs on transporttalent.com</target>
+      </trans-unit>
+      <trans-unit id="4ce9f7d8176948246a4fe1db318ab24f" resname="app.pricingPlan1Line4">
+        <source>app.pricingPlan1Line4</source>
+        <target>Technical support</target>
+      </trans-unit>
+      <trans-unit id="f62f9848a5cb22982fe4103447e09260" resname="app.plan1Price">
+        <source>app.plan1Price</source>
+        <target>EUR 12,995</target>
+      </trans-unit>
+      <trans-unit id="923d106d11060c6e29c9a826306d3fbc" resname="app.pricingPlan1PriceDesc">
+        <source>app.pricingPlan1PriceDesc</source>
+        <target>12 months subscription</target>
+      </trans-unit>
+      <trans-unit id="11be9040b20c170be77ac84d5c928b83" resname="app.booked">
+        <source>app.booked</source>
+        <target>booked</target>
+      </trans-unit>
+      <trans-unit id="f166ca9c28aad06f1e4ee1558fdc8b69" resname="app.pendingApproval">
+        <source>app.pendingApproval</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="1f068c8d0f014ec488a381d1d64ad1d1" resname="app.bookNow">
+        <source>app.bookNow</source>
+        <target>Book now</target>
+      </trans-unit>
+      <trans-unit id="52c55197812e8abb30de325f9f4b355e" resname="app.pricingpageregisternow">
+        <source>app.pricingpageregisternow</source>
+        <target>Register now</target>
+      </trans-unit>
+      <trans-unit id="7bfa03037ae075cc246df2c736652128" resname="app.pricingPlan2Headline">
+        <source>app.pricingPlan2Headline</source>
+        <target>Active Sourcing</target>
+      </trans-unit>
+      <trans-unit id="4f31e49d430df67984a2a5c569a3792f" resname="app.pricingPlan2Line1">
+        <source>app.pricingPlan2Line1</source>
+        <target>30 days prominent listing</target>
+      </trans-unit>
+      <trans-unit id="15d419c6f235498a00d400870849c701" resname="app.pricingPlan2Line2">
+        <source>app.pricingPlan2Line2</source>
+        <target>Direct contact with selected candidates</target>
+      </trans-unit>
+      <trans-unit id="2fdaf4e30b8b0c92d84b4f050cae2fc9" resname="app.pricingPlan2Line3">
+        <source>app.pricingPlan2Line3</source>
+        <target>Expanded reach via distribution on social media and newsletters</target>
+      </trans-unit>
+      <trans-unit id="6af83a32f69c69159c330e27bc75864f" resname="app.pricingPlan2Line4">
+        <source>app.pricingPlan2Line4</source>
+        <target>Dedicated editorial support</target>
+      </trans-unit>
+      <trans-unit id="58d6704a322c95e7eeead8c421837f6d" resname="app.plan2Price">
+        <source>app.plan2Price</source>
+        <target>EUR 395</target>
+      </trans-unit>
+      <trans-unit id="ec208921dd7cd84cc84073e5e1c83174" resname="app.for1job">
+        <source>app.for1job</source>
+        <target>Price per job</target>
+      </trans-unit>
+      <trans-unit id="84ec0e8a81356845716e21da73e74fdc" resname="app.pricingPlan3Headline">
+        <source>app.pricingPlan3Headline</source>
+        <target>Premium Sourcing</target>
+      </trans-unit>
+      <trans-unit id="2c0d1b09d77ddef6cdf68f1ab3e22fcd" resname="app.pricingPlan3Line1">
+        <source>app.pricingPlan3Line1</source>
+        <target>All services in Active Sourcing, plus:</target>
+      </trans-unit>
+      <trans-unit id="9282a5b29b4dcd685f32f6486994eb83" resname="app.pricingPlan3Line2">
+        <source>app.pricingPlan3Line2</source>
+        <target>Active candidate search</target>
+      </trans-unit>
+      <trans-unit id="9b9b8455147eb7c978aeaea5505f9791" resname="app.pricingPlan3Line3">
+        <source>app.pricingPlan3Line3</source>
+        <target>Application handling</target>
+      </trans-unit>
+      <trans-unit id="1b511b3e6d65e0aab5518ae0681b4e9e" resname="app.pricingPlan3Line4">
+        <source>app.pricingPlan3Line4</source>
+        <target>Psychometric assessment of final candidates (upon request)</target>
+      </trans-unit>
+      <trans-unit id="41adaac5e5385bcb07280399bd2eddb5" resname="app.pricingPlan3Line5">
+        <source>app.pricingPlan3Line5</source>
+        <target>Short list of top 3 candidates</target>
+      </trans-unit>
+      <trans-unit id="c54924d82cb6b1f451771878800f2d40" resname="app.pricingPlan3PriceDesc">
+        <source>app.pricingPlan3PriceDesc</source>
+        <target>Priced individually</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

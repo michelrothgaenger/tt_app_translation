@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+        <source>app.register</source>
+        <target>Register</target>
+      </trans-unit>
+      <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
+        <source>app.metaDescriptionEmployerRegisterPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="0a1149cf9348cbd9c58abfdd5e21b651" resname="app.metaKeywordsEmployerRegisterPage">
+        <source>app.metaKeywordsEmployerRegisterPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline">
+        <source>app.employerRegisterHeadline</source>
+        <target>Set up your Transport Talent account</target>
+      </trans-unit>
+      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1">
+        <source>app.employerRegisterDesc1</source>
+        <target><![CDATA[Create your free company profile here and get immediate access to top-tier talent.<br><br>]]></target>
+      </trans-unit>
+      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2">
+        <source>app.employerRegisterDesc2</source>
+        <target>* Indicates required field.</target>
+      </trans-unit>
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+        <source>app.iAgreeToThe</source>
+        <target>I agree to the</target>
+      </trans-unit>
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+        <source>app.termsConditionsCheckbox</source>
+        <target><![CDATA[Terms & Conditions]]></target>
+      </trans-unit>
+      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
+        <source>app.checkBoxRequiredMsg</source>
+        <target>Please check this box if you want to proceed.</target>
+      </trans-unit>
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+        <source>app.title</source>
+        <target>Title</target>
+      </trans-unit>
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+        <source>app.selectAnOption</source>
+        <target>select an option</target>
+      </trans-unit>
+      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr">
+        <source>app.mr</source>
+        <target>Mr.</target>
+      </trans-unit>
+      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms">
+        <source>app.ms</source>
+        <target>Ms.</target>
+      </trans-unit>
+      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof">
+        <source>app.prof</source>
+        <target>Prof.</target>
+      </trans-unit>
+      <trans-unit id="988407b78b6fbc6665c44937f71120f0" resname="app.dr">
+        <source>app.dr</source>
+        <target>Dr.</target>
+      </trans-unit>
+      <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name">
+        <source>app.first_name</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name">
+        <source>app.last_name</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+        <source>app.position</source>
+        <target>Level</target>
+      </trans-unit>
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+        <source>app.email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name">
+        <source>app.company_name</source>
+        <target>Company name</target>
+      </trans-unit>
+      <trans-unit id="53b1b6d15015b4a6324b47f5985926a1" resname="app.password">
+        <source>app.password</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="935ad3df35bb15f3b780f4f8f8384e3c" resname="app.password_confirmation">
+        <source>app.password_confirmation</source>
+        <target>Confirm password</target>
+      </trans-unit>
+      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch">
+        <source>app.password.mismatch</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+        <source>app.signUp</source>
+        <target>Register</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

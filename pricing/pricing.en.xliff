@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272853" resname="app.pricing">
+        <source>app.pricing</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="da88949486b0fd492a9d2bd1dd261902" resname="app.metaDescriptionPricingPage">
+        <source>app.metaDescriptionPricingPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b81fa74b17cec720793b8d0cfb193d68" resname="app.metaKeywordsPricingPage">
+        <source>app.metaKeywordsPricingPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="092bf77f8763cca07bd2a208b9f145b8" resname="app.pricingSourcingHeadline">
+        <source>app.pricingSourcingHeadline</source>
+        <target>Find the service package that suits your needs</target>
+      </trans-unit>
+      <trans-unit id="c43f86a2f1f7ce95086da81b24cfde51" resname="app.pricingSourcingDesc">
+        <source>app.pricingSourcingDesc</source>
+        <target>And we will start sourcing your candidates today</target>
+      </trans-unit>
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+        <source>app.readOn</source>
+        <target>Read on.</target>
+      </trans-unit>
+      <trans-unit id="2299bf78ad40137b7f6f8a678abd2867" resname="app.pricingPlansHeadline">
+        <source>app.pricingPlansHeadline</source>
+        <target>Service Packages</target>
+      </trans-unit>
+      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
+        <source>app.AllPricesAreExcludingVAT</source>
+        <target>*All prices are excluding VAT.</target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Register now - it's free</target>
+      </trans-unit>
+      <trans-unit id="287868ff5eed45f5e5562625aadc0c8f" resname="app.pricingWhatIsTTHeadline">
+        <source>app.pricingWhatIsTTHeadline</source>
+        <target>What is Transport Talent?</target>
+      </trans-unit>
+      <trans-unit id="14a39e2d67f415dd85f58d4e4efcd632" resname="app.pricingWhatIsTTDesc">
+        <source>app.pricingWhatIsTTDesc</source>
+        <target>Transport Talent is a candidate sourcing and recruitment company with a focus on the logistics and transportation industry. We promote your job postings to a pool of highly targeted candidates and help you to optimize your sourcing and recruitment process. This enables you to spend less time searching for the right candidates and more time making that final selection.</target>
+      </trans-unit>
+      <trans-unit id="7945fcaad8882faabda36651ec72ffa9" resname="app.pricingWhoForHeadline">
+        <source>app.pricingWhoForHeadline</source>
+        <target>Who benefits most from our services?</target>
+      </trans-unit>
+      <trans-unit id="6c79071ab6edf26423d1780bde88a52c" resname="app.pricingWhoForDesc">
+        <source>app.pricingWhoForDesc</source>
+        <target>Transport Talent caters to companies of all shapes and sizes. From global logistics providers to local freight forwarders, shipping lines and even manufacturers. It doesn’t matter who or what you are, if you have a need for top talent with qualifications in logistics and transportation, we are here to help. With a broad set of service packages we tailor our services to your specific needs, whether that be providing you with ideal matches to your open positions or new recruits for your talent pipeline. We’ll make sure you get the right candidates when you need them.</target>
+      </trans-unit>
+      <trans-unit id="a59dad3be2ce4fb7d2a1373820118f53" resname="app.introductionTryUsHeadline">
+        <source>app.introductionTryUsHeadline</source>
+        <target>Try us.</target>
+      </trans-unit>
+      <trans-unit id="75e22614934135d80ba94fac634368d1" resname="app.introductionTryUsDesc">
+        <source>app.introductionTryUsDesc</source>
+        <target>Sign up for our services today and start benefitting from the fastest growing network of logistics and transportation professionals.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

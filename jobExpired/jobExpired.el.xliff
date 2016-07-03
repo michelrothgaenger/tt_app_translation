@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+        <source>app.jobExpiredPageTitle</source>
+        <target>This job has expired</target>
+      </trans-unit>
+      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
+        <source>app.metaDescriptionExpiredPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
+        <source>app.metaKeywordsExpiredPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+        <source>app.jobExpiredPageDesc</source>
+        <target><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>
+      </trans-unit>
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+        <source>app.signUpNow</source>
+        <target>Register now - it's free</target>
+      </trans-unit>
+      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+        <source>app.searchRelatedJobs</source>
+        <target>Search related jobs</target>
+      </trans-unit>
+      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+        <source>app.browseRelatedJobs</source>
+        <target>Browse related jobs</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

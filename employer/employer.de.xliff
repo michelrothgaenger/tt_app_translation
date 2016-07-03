@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+        <source>app.companyProfile</source>
+        <target>Unternehmensprofil</target>
+      </trans-unit>
+      <trans-unit id="00322fca4a075e2cd3dcc4f2b2dd54c8" resname="app.metaKeywordsEmployerPage">
+        <source>app.metaKeywordsEmployerPage</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+        <source>app.search</source>
+        <target>Suchen</target>
+      </trans-unit>
+      <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword">
+        <source>app.keyword</source>
+        <target>Begriff</target>
+      </trans-unit>
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation">
+        <source>app.employerInformation</source>
+        <target>Arbeitgeberinformation</target>
+      </trans-unit>
+      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
+        <source>app.numberOfEmployees</source>
+        <target>Anzahl der Mitarbeiter</target>
+      </trans-unit>
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+        <source>app.employees_lowercase</source>
+        <target>Mitarbeiter</target>
+      </trans-unit>
+      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
+        <source>app.notAvailable</source>
+        <target>Nicht verfügbar</target>
+      </trans-unit>
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+        <source>app.headquater</source>
+        <target>Hauptsitz</target>
+      </trans-unit>
+      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
+        <source>app.officesCountries</source>
+        <target>Standorte/Länder</target>
+      </trans-unit>
+      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+        <source>app.mainActivities</source>
+        <target>Schwerpunkt</target>
+      </trans-unit>
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+        <source>app.website</source>
+        <target>Webseite</target>
+      </trans-unit>
+      <trans-unit id="c088a1e74f8b4ebe5056929b500cae53" resname="app.currentJobOffers">
+        <source>app.currentJobOffers</source>
+        <target>Aktuelle Stellenangebote</target>
+      </trans-unit>
+      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office">
+        <source>app.office</source>
+        <target>Standort</target>
+      </trans-unit>
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+        <source>app.position</source>
+        <target>Tätigkeitsbereich</target>
+      </trans-unit>
+      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
+        <source>app.noCompanyDescription</source>
+        <target>Unternehmensprofil nicht verfügbar</target>
+      </trans-unit>
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+        <source>app.saveToProfilePage</source>
+        <target>In meinem Profil speichern</target>
+      </trans-unit>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile">
+        <source>app.goToNextCompanyProfile</source>
+        <target>Weiter zum nächsten Unternehmensprofil</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

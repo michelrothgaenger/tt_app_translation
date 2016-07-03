@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="it" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer">
+        <source>app.email.welcomeEmployer</source>
+        <target><![CDATA[Hello %title% %lastname%,<br> <br> Thank you for registering for TransportTalent.com. We appreciate your interest in our services.<br> <br style="font-weight: bold;"> <span style="font-weight: bold;">What are the next steps?</span><br> <br> 1. <a href="%companieprofile%">Set up your free company profile to present your company to interested candidates.<br> </a><br> 2. <a href="%servicespage%">Book our service "Job Board Subscription" to have your job openings automatically posted on our site.</a><br> <br> 3. <a href="%servicespage%">Have us highlight certain positions and find the right candidate for you with our product "Active Sourcing".</a><br> <br> 4. <a href="%servicespage%">Leave the whole recruiting process to us and onlycommunicate with candidates meeting your requirements.</a><br> <br> If you have any questions, we are happy to answer them at <a href="mailto:support@transporttalent.com">support@transporttalent.com</a>.<br> <br> Kind regards,<br> <br> Ulrich Nissen <br> Managing Director<br>]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

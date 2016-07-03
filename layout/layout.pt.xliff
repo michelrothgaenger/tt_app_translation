@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="pt" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName">
+        <source>app.metaForSocialsSiteName</source>
+        <target>Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle">
+        <source>app.metaForSocialsSiteTitle</source>
+        <target>Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription">
+        <source>app.metaForSocialsSiteDescription</source>
+        <target>Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="008e5d2b7c3475c4c13ce7d06e8d69f6" resname="app.metaKeywordsBase">
+        <source>app.metaKeywordsBase</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase">
+        <source>app.metaDescriptionBase</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText">
+        <source>app.cookieShortText</source>
+        <target>We use cookies on our website.</target>
+      </trans-unit>
+      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage">
+        <source>app.cookieMessage</source>
+        <target>We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our website. If you continue we'll assume that you are happy to receive all cookies on our website.</target>
+      </trans-unit>
+      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText">
+        <source>app.cookiePolicyLinkText</source>
+        <target>Read more about cookies and our cookie policy here.</target>
+      </trans-unit>
+      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton">
+        <source>app.cookieButton</source>
+        <target>Close</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

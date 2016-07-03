@@ -1,77 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title">
+      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target>Ποιοί είμαστε</target>
+        <target state="translated">Ποιοί είμαστε</target>
       </trans-unit>
       <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
         <source>app.about.meta.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
         <source>app.about.meta.keywords</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1">
+      <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1" approved="yes">
         <source>app.about.h1</source>
-        <target>Ποιοί είμαστε</target>
+        <target state="translated">Ποιοί είμαστε</target>
       </trans-unit>
-      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title">
+      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="yes">
         <source>app.about.section.about.title</source>
-        <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry</target>
+        <target state="translated"/>
       </trans-unit>
-      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description">
+      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description" approved="yes">
         <source>app.about.section.about.description</source>
-        <target>Η Transport Talent ιδρύθηκε με τον στόχο να καλυτερέψει τις προσλήψεις στον τομέα μεταφορών και διοικητικής μέριμνας. Υποψήφιοι σε αυτόν τον τομέα έχουν την πιθανότητα να κάνουν αίτηση σε αγγελίες, να ακολουθήσουν εταιρίες και να καλυτερέψουν τις ικανότητές τους με αποκλειστικά περιεχόμενα. Οι εργοδότες μπορούν να απλοποιήσουν τον τρόπο της πρόσληψης, της υπευθυνότητας και να επηρεάσουν τις μεγαλύτερες και συγκεντρωμένες υπηρεσίες μεταφορών και διοικητής μέριμνας. Η Transport Talent ιδρύθηκε από τον Ulrich Nissen και τον Michel Rothgaenger. Και οι δυο έχουν μεγάλες γνώσεις στον τομέα του Management και του HR μέσω από τις μεγαλύτερες διεθνές εταιρίες διοικητής μέριμνας.</target>
+        <target state="translated">Η Transport Talent ιδρύθηκε με τον στόχο να καλυτερέψει τις προσλήψεις στον τομέα μεταφορών και διοικητικής μέριμνας. Υποψήφιοι σε αυτόν τον τομέα έχουν την πιθανότητα να κάνουν αίτηση σε αγγελίες, να ακολουθήσουν εταιρίες και να καλυτερέψουν τις ικανότητές τους με αποκλειστικά περιεχόμενα. Οι εργοδότες μπορούν να απλοποιήσουν τον τρόπο της πρόσληψης, της υπευθυνότητας και να επηρεάσουν τις μεγαλύτερες και συγκεντρωμένες υπηρεσίες μεταφορών και διοικητής μέριμνας. Η Transport Talent ιδρύθηκε από τον Ulrich Nissen και τον Michel Rothgaenger. Και οι δυο έχουν μεγάλες γνώσεις στον τομέα του Management και του HR μέσω από τις μεγαλύτερες διεθνές εταιρίες διοικητής μέριμνας.</target>
       </trans-unit>
-      <trans-unit id="fffea579b8665451844ddd6d29383efe" resname="app.about.section.about.office.title">
+      <trans-unit id="fffea579b8665451844ddd6d29383efe" resname="app.about.section.about.office.title" approved="yes">
         <source>app.about.section.about.office.title</source>
-        <target>Έδρες</target>
+        <target state="translated">Έδρες</target>
       </trans-unit>
-      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location">
+      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location" approved="yes">
         <source>app.about.section.about.office.location</source>
-        <target>Germany</target>
+        <target state="translated"/>
       </trans-unit>
-      <trans-unit id="fa3d8e1b406632469272669470f549f3" resname="app.about.section.team.title">
+      <trans-unit id="fa3d8e1b406632469272669470f549f3" resname="app.about.section.team.title" approved="yes">
         <source>app.about.section.team.title</source>
-        <target>Η ομάδα</target>
+        <target state="translated">Η ομάδα</target>
       </trans-unit>
-      <trans-unit id="6bc9c7953e05bacf28f324d42bd24238" resname="app.about.section.team.ulrich.position">
+      <trans-unit id="6bc9c7953e05bacf28f324d42bd24238" resname="app.about.section.team.ulrich.position" approved="yes">
         <source>app.about.section.team.ulrich.position</source>
-        <target><![CDATA[Managing Director & Co-founder]]></target>
+        <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="e0e2d6f639645955d7a1735bc4502f23" resname="app.about.section.team.ulrich.description">
+      <trans-unit id="e0e2d6f639645955d7a1735bc4502f23" resname="app.about.section.team.ulrich.description" approved="yes">
         <source>app.about.section.team.ulrich.description</source>
-        <target>Ο Ulrich δούλεψε ως υπεύθυνος στην αναζήτηση και στην πρόσληψη σε υπηρεσίες μεταφορών και διοικητικής μέριμνας για πολλά χρόνια. Πριν από αυτό δούλεψε για δυο διεθνής εταιρείες διοικητικής μέριμνας στη θέση του Senior Manager στην Ευρώπη, Ασία, βόρεια και νότια Αμερική.</target>
+        <target state="translated">Ο Ulrich δούλεψε ως υπεύθυνος στην αναζήτηση και στην πρόσληψη σε υπηρεσίες μεταφορών και διοικητικής μέριμνας για πολλά χρόνια. Πριν από αυτό δούλεψε για δυο διεθνής εταιρείες διοικητικής μέριμνας στη θέση του Senior Manager στην Ευρώπη, Ασία, βόρεια και νότια Αμερική.</target>
       </trans-unit>
-      <trans-unit id="17e3105f4183c1dd5b5c7b0fae99d4a9" resname="app.about.section.team.michel.position">
+      <trans-unit id="17e3105f4183c1dd5b5c7b0fae99d4a9" resname="app.about.section.team.michel.position" approved="yes">
         <source>app.about.section.team.michel.position</source>
-        <target>Υπεύθυνος της επιχείρησης και συνιδρυτής</target>
+        <target state="translated">Υπεύθυνος της επιχείρησης και συνιδρυτής</target>
       </trans-unit>
-      <trans-unit id="7e92237e46ab07e55e0d735520c22019" resname="app.about.section.team.michel.description">
+      <trans-unit id="7e92237e46ab07e55e0d735520c22019" resname="app.about.section.team.michel.description" approved="yes">
         <source>app.about.section.team.michel.description</source>
-        <target>Michel is an experienced HR professional with a track record in both Operational and Strategic HR. Prior to co-founding Transport Talent he was responsible for vocational training as well as major HR IT projects and change management in one of the world's largest logistics companies.</target>
+        <target state="translated"/>
       </trans-unit>
-      <trans-unit id="f525a9e13acd3957353b613db147513d" resname="app.about.section.team.maxim.position">
+      <trans-unit id="f525a9e13acd3957353b613db147513d" resname="app.about.section.team.maxim.position" approved="yes">
         <source>app.about.section.team.maxim.position</source>
-        <target>Τεχνικός υπεύθυνος και συνιδρυτής</target>
+        <target state="translated">Τεχνικός υπεύθυνος και συνιδρυτής</target>
       </trans-unit>
-      <trans-unit id="c6a9484c33f56358c9cc8499882d8010" resname="app.about.section.team.maxim.description">
+      <trans-unit id="c6a9484c33f56358c9cc8499882d8010" resname="app.about.section.team.maxim.description" approved="yes">
         <source>app.about.section.team.maxim.description</source>
-        <target>Maxim has years of experience building web solutions, including job portals, and has held positions in Denmark, China and Ukraine. This experience combined with his passion for programming and his persistence and ability to find solutions make him a perfect CTO.</target>
+        <target state="translated"/>
       </trans-unit>
-      <trans-unit id="2e89a82ad9f7b9a1375d712dd9916261" resname="app.about.section.team.svenja.position">
+      <trans-unit id="2e89a82ad9f7b9a1375d712dd9916261" resname="app.about.section.team.svenja.position" approved="yes">
         <source>app.about.section.team.svenja.position</source>
-        <target>Recruitment Consultant</target>
+        <target state="translated"/>
       </trans-unit>
-      <trans-unit id="734b69d2412d607576c8eba91e3ae48f" resname="app.about.section.team.svenja.description">
+      <trans-unit id="734b69d2412d607576c8eba91e3ae48f" resname="app.about.section.team.svenja.description" approved="yes">
         <source>app.about.section.team.svenja.description</source>
-        <target>Svenja is an all-rounder who approached transport and logistics from the academic side. With her experience from the administration of a renowned private university for logistics and other customer-facing positions she is the perfect fit for a supportive role in the recruitment process.</target>
+        <target state="translated"/>
       </trans-unit>
     </body>
   </file>

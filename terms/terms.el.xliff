@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
     <header>
@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="5dc51607737d054649c35e464cdf2ded" resname="app.metaKeywordsTermsPage">
         <source>app.metaKeywordsTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>
@@ -101,9 +101,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target>Η TransportTalent δεν υπόσχεται μια λειτουργία της ιστοσελίδας και των υπηρεσιών χωρίς βλάβες και παρεμβολές. Κάθε ευθύνη της TransportTalent (δηλαδή οι υπεύθυνοι, οι υπάλληλοι και άλλοι εκπρόσωποι της εταιρίας) απορρίπτετε με τον μεγαλύτερο νομικό βαθμό σχετικά με την χρήση της ιστοσελίδας.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Εγγραφή</target>
+        <target state="translated">Εγγραφή</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>

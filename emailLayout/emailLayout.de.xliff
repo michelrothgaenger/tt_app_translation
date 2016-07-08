@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
+      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
-        <target>Über uns</target>
+        <target state="translated">Über uns</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target>Allgemeine Geschäftsbedingungen</target>
+        <target state="translated">Allgemeine Geschäftsbedingungen</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy">
+      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
-        <target>Datenschutz</target>
+        <target state="translated">Datenschutz</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Kontakt</target>
+        <target state="translated">Kontakt</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
+      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
-        <target>Impressum</target>
+        <target state="translated">Impressum</target>
       </trans-unit>
     </body>
   </file>

@@ -1,53 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
         <source>app.privacyPolicy</source>
-        <target>Privacy Policy</target>
+        <target state="translated">Bảo mật</target>
       </trans-unit>
       <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="2b459d7b12eb3214bc3f39f38649886a" resname="app.metaKeywordsPrivacyPolicyPage">
         <source>app.metaKeywordsPrivacyPolicyPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat">
+      <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="yes">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
-        <target>Transport Talent ApS, Company No. 37395048 ("TransportTalent") endeavors to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.</target>
+        <target state="translated">Transport Talent ApS, Số công ty: 37395048 ("TransportTalent") nỗ lực để đảm bảo rằng các thông tin mà các Ngài chuyển tới chúng tôi sẽ được bảo mật và chỉ để sử dụng cho các mục đích nêu trong thỏa thuận này. Chúng tôi cố gắng cung cấp cho người sử dụng của chúng tôi một một trải nghiệm chắc chắn và an toàn.</target>
       </trans-unit>
-      <trans-unit id="cf791a78ee850cb83e8afbe692b7e276" resname="app.disclosureOfPersonalInformation">
+      <trans-unit id="cf791a78ee850cb83e8afbe692b7e276" resname="app.disclosureOfPersonalInformation" approved="yes">
         <source>app.disclosureOfPersonalInformation</source>
-        <target>Disclosure of personal information</target>
+        <target state="translated">Các thông tin cá nhân khác</target>
       </trans-unit>
-      <trans-unit id="c071f5482b6d4befb3c89f7bdfaeeeb2" resname="app.informationMayBeGatheredFromYourRegistrationForm">
+      <trans-unit id="c071f5482b6d4befb3c89f7bdfaeeeb2" resname="app.informationMayBeGatheredFromYourRegistrationForm" approved="yes">
         <source>app.informationMayBeGatheredFromYourRegistrationForm</source>
-        <target>Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form.</target>
+        <target state="translated">Thông tin được lấy từ mẫu đăng ký của các Ngài và quá trình sử dụng trang mạng và/hoặc các dịch vụ tương tác, bao gồm cả Cookies. Cookies là các tập tin văn bản được lưu trữ trên đĩa cứng máy tính của các Ngài khi các Ngài truy cập một trang mạng, và cho phép nhận dạng. Cookie không chứa thông tin cá nhân, thậm chí cả những thông tin mà các Ngài đã cung cấp cho chúng tôi, ngoài trừ tên của các Ngài, khi các Cookie không được kết hợp với các dữ liệu cá nhân khác, chẳng hạn qua việc đăng ký trực tuyến.</target>
       </trans-unit>
-      <trans-unit id="8afc45ab16498c263a94727fcc5dda2b" resname="app.theInformationGatheredMayBeUsedByTransportTalent">
+      <trans-unit id="8afc45ab16498c263a94727fcc5dda2b" resname="app.theInformationGatheredMayBeUsedByTransportTalent" approved="yes">
         <source>app.theInformationGatheredMayBeUsedByTransportTalent</source>
-        <target>The information gathered may be used by Transport Talent ApS and companies in the same group as Transport Talent ApS (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Transport Talent ApS, from companies in the same group as Transport Talent ApS or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Transport Talent ApS or companies in the same group as Transport Talent ApS or no longer wish us to pass your information to third parties you should again notify us by e-mail.</target>
+        <target state="translated">Các thông tin thu thập được có thể được Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS, nghĩa là có cùng một công ty mẹ sử dụng trong nội bộ liên quan đến sử dụng trang mạng, các dịch vụ tương tác và cho mục đích tiếp thị hoặc chuyển tiếp cho bên thứ ba, những công ty đã được chọn lựa kỹ càng, cho cùng mục đích. Với mục đích tiếp thị chúng tôi sử dụng phương pháp quảng cáo truyền thông trực tiếp tới từng cá nhân cụ thể thông qua email, thư tín hoặc điện thoại. Trường hợp các Ngài không muốn hoặc không muốn tiếp tục nhận quảng cáo của Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS, xin vui lòng kích hoạt vào ô thích hợp khi đăng ký hoặc gửi email cho chúng tôi. Sau này khi quyết định không nhận quảng cáo của Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS hoặc việc chuyển giao thông tin cho bên thứ ba, những công ty đã được chọn lựa kỹ càng, xin vui lòng cũng thông báo với chúng tôi qua email.</target>
       </trans-unit>
-      <trans-unit id="d74771b3aa054d730d6470c49cfe8155" resname="app.otherThanAsSetOutElsewhereInThisClause">
+      <trans-unit id="d74771b3aa054d730d6470c49cfe8155" resname="app.otherThanAsSetOutElsewhereInThisClause" approved="no">
         <source>app.otherThanAsSetOutElsewhereInThisClause</source>
-        <target><![CDATA[Other than as set out elsewhere in this clause 5 in our terms & conditions your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.]]></target>
+        <target state="needs-translation">Chúng tôi không sử dụng thông tin của các Ngài và cũng không chuyển tiếp ngoài mục đích nêu trong mục 5. Các Ngài đồng ý với các điều kiện nêu tại  khoản 5 bằng cách chấp nhận các điều khoản sử dụng này</target>
       </trans-unit>
-      <trans-unit id="8d3679be599b340c8b91b5175127695a" resname="app.whatThisPrivacyPolicyCovers">
+      <trans-unit id="8d3679be599b340c8b91b5175127695a" resname="app.whatThisPrivacyPolicyCovers" approved="yes">
         <source>app.whatThisPrivacyPolicyCovers</source>
-        <target>What this Privacy Policy covers</target>
+        <target state="translated">Phạm vi chính sách bảo mật</target>
       </trans-unit>
-      <trans-unit id="d39dfb9b68b7c489f9caef61d611c60f" resname="app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation">
+      <trans-unit id="d39dfb9b68b7c489f9caef61d611c60f" resname="app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation" approved="yes">
         <source>app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation</source>
-        <target>This Privacy Policy covers treatment of personally identifiable information that we collect when you are on the TransportTalent website, register with TransportTalent, upload a CV, set up a job alert with TransportTalent or apply for a job via the TranpsportTalent site. This policy does not apply to companies that TransportTalent does not own or control, or to people that TransportTalent does not employ.</target>
+        <target state="translated">Nội dung của tuyên bố này là việc xử lý thông tin cá nhân mà chúng tôi thu thập khi các Ngài sử dụng các trang mạng, đăng ký với Transport Talent, đăng tải sơ yếu lý lịch, thiết lập thông tin với Transport Talent hoặc đăng ký việc làm qua trang mạng. Chính sách bảo mật này không áp dụng cho các công ty không thuộc sở hữu hoặc kiểm soát bởi Transport Talent. Những người không làm việc cho Transport Talent cũng không được áp dụng chính sách bảo mật này.</target>
       </trans-unit>
-      <trans-unit id="e35a8f8c92baf3c68564fa1d200f0f8f" resname="app.informationCollectionAndUse">
+      <trans-unit id="e35a8f8c92baf3c68564fa1d200f0f8f" resname="app.informationCollectionAndUse" approved="yes">
         <source>app.informationCollectionAndUse</source>
-        <target>Information collection and use</target>
+        <target state="translated">Thu thập và sử dụng dữ liệu</target>
       </trans-unit>
       <trans-unit id="7fe2ff4ce71053f3690e0d77d1c3f2fc" resname="app.transportTalentCollectsPersonallyIdentifiableInformation">
         <source>app.transportTalentCollectsPersonallyIdentifiableInformation</source>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
     <header>
@@ -29,9 +29,9 @@
         <source>app.signInWithFB</source>
         <target>Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>ή</target>
+        <target state="translated">ή</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
         <source>app.email</source>

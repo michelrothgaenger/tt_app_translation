@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="el" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title">
+      <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
-        <target>Επικοινωνία</target>
+        <target state="translated">Επικοινωνία</target>
       </trans-unit>
-      <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1">
+      <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1" approved="yes">
         <source>app.contact.h1</source>
-        <target>Επικοινωνία</target>
+        <target state="translated">Επικοινωνία</target>
       </trans-unit>
       <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title">
         <source>app.contact.section.email.title</source>

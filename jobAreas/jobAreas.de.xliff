@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="f811319d259744d2b48f0c05297f4c09" resname="Freight Forwarding &amp; Logistics">
+      <trans-unit id="f811319d259744d2b48f0c05297f4c09" resname="Freight Forwarding &amp; Logistics" approved="yes">
         <source>Freight Forwarding &amp; Logistics</source>
-        <target><![CDATA[Freight Forwarding & Logistics]]></target>
+        <target state="translated">Spedition &amp; Logistik</target>
       </trans-unit>
-      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping">
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" resname="Shipping" approved="yes">
         <source>Shipping</source>
-        <target>Schifffahrt</target>
+        <target state="translated">Schifffahrt</target>
       </trans-unit>
     </body>
   </file>

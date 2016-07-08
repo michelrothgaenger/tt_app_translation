@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="it" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title">
+      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target>About us</target>
+        <target state="translated">Chi siamo</target>
       </trans-unit>
       <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
         <source>app.about.meta.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
         <source>app.about.meta.keywords</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1">
+      <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1" approved="yes">
         <source>app.about.h1</source>
-        <target>About us</target>
+        <target state="translated">Chi siamo</target>
       </trans-unit>
-      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title">
+      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="yes">
         <source>app.about.section.about.title</source>
-        <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry</target>
+        <target state="translated">Il nostro interesse è, offrire al personale specializzato di logistica e spedizione una piattaforma con la quale essi possono mettersi in contatto confidenziale con i migliori datori di lavoro del settore.</target>
       </trans-unit>
       <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description">
         <source>app.about.section.about.description</source>

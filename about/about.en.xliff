@@ -9,13 +9,13 @@
         <source>app.about.meta.title</source>
         <target state="translated">About us</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>
-        <target/>
+        <target state="translated">Who is behind the new Recruiting Startup? We are the Transport Talent Team.</target>
       </trans-unit>
-      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
+      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>
-        <target/>
+        <target state="translated">team, staff members, employees, personnel, recruiters, founders, StartUp, information, background, details, branch office, office, Hamburg, Copenhagen, Denmark, Germany, vision, mission, goals, objective, logistics, transport, freight forwarding</target>
       </trans-unit>
       <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1">
         <source>app.about.h1</source>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
         <source>app.jobs</source>
-        <target>Jobs</target>
+        <target state="translated">Jobs</target>
       </trans-unit>
       <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
         <source>app.for</source>
         <target>für</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target>in</target>
+        <target state="translated">in</target>
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
         <source>app.jobSearch</source>
@@ -25,9 +25,9 @@
         <source>app.jobsPageSearchCta</source>
         <target>Nutzen Sie die Filter, um Ihre Ergebnisse einzugrenzen.</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Suchen</target>
+        <target state="translated">Suchen</target>
       </trans-unit>
       <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs">
         <source>app.browseJobs</source>
@@ -49,21 +49,21 @@
         <source>app.views</source>
         <target>Beliebtheit absteigend</target>
       </trans-unit>
-      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType">
+      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType" approved="yes">
         <source>app.jobType</source>
-        <target>Typ</target>
+        <target state="translated">Typ</target>
       </trans-unit>
-      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel">
+      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel" approved="yes">
         <source>app.jobLevel</source>
-        <target>Level</target>
+        <target state="translated">Level</target>
       </trans-unit>
-      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted">
+      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted" approved="yes">
         <source>app.posted</source>
-        <target>Datum</target>
+        <target state="translated">Datum</target>
       </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
         <source>app.new</source>
-        <target>neu</target>
+        <target state="translated">neu</target>
       </trans-unit>
       <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
         <source>app.company</source>

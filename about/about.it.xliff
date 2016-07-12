@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target state="translated">Chi siamo</target>
+        <target state="translated">Transport Talent - Chi siamo</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>
-        <target/>
+        <target state="translated">Siamo un gruppo internazionale di esperti per il settore della logistica e dei trasporti? Chi c'è dietro il nuovo avvio di reclutamento? Siamo il Transport Talent Team.</target>
       </trans-unit>
-      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
+      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>
-        <target/>
+        <target state="translated">squadra, membri dello staff, dipendenti, personale, reclutatori, fondatori, StartUp, informazioni, fondo, dettagli, filiale, ufficio, Amburgo, Copenhagen, Danimarca, Germania, visione, missione, traguardi, obiettivo, logistica, trasporti, spedizioni</target>
       </trans-unit>
       <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1" approved="yes">
         <source>app.about.h1</source>
@@ -23,19 +23,20 @@
       </trans-unit>
       <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="yes">
         <source>app.about.section.about.title</source>
-        <target state="translated">Il nostro interesse è, offrire al personale specializzato di logistica e spedizione una piattaforma con la quale essi possono mettersi in contatto confidenziale con i migliori datori di lavoro del settore.</target>
+        <target state="translated">Il nostro interesse è, offrire ai professionisti di logistica e spedizione una piattaforma con la quale essi possono mettersi in contatto confidenziale con i migliori datori di lavoro del settore.</target>
       </trans-unit>
-      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description">
+      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description" approved="yes">
         <source>app.about.section.about.description</source>
-        <target>Transport Talent is a career network with focus on talents in the logistics and transport industry. We engage with candidates that are normally considered passive job-seekers. We make companies in the Logistics and Transport industry more efficient by giving them access to a highly targeted and curated pool of candidates, so they can fill their open positions faster and more effectively.</target>
+        <target state="translated">Transport Talent è nata con l'obiettivo di innovare e migliorare il reclutamento nella logistica e nel trasporto. I candidati sulla piattaforma di Transport Talent possono candidarsi attivamente ai posti di lavoro, seguire le aziende e avere accesso ad interessanti contenuti riguardanti il 
+tema carriera. Le aziende traggono vantaggio dalla più grande rete di professionisti di trasporto e logistica, ottimizzando il loro processo di assunzione. Transport Talent è stata fondata da Ulrich Nissen e Michel Rothgaenger. Entrambi hanno una lunga esperienza nella gestione delle risorse umane avendo lavorato con le più importanti aziende di logistica a livello mondiale.</target>
       </trans-unit>
-      <trans-unit id="fffea579b8665451844ddd6d29383efe" resname="app.about.section.about.office.title">
+      <trans-unit id="fffea579b8665451844ddd6d29383efe" resname="app.about.section.about.office.title" approved="yes">
         <source>app.about.section.about.office.title</source>
-        <target>Headquarters</target>
+        <target state="translated">Il nostro ufficio</target>
       </trans-unit>
-      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location">
+      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location" approved="yes">
         <source>app.about.section.about.office.location</source>
-        <target>Germany</target>
+        <target state="translated">Germania</target>
       </trans-unit>
       <trans-unit id="fa3d8e1b406632469272669470f549f3" resname="app.about.section.team.title">
         <source>app.about.section.team.title</source>

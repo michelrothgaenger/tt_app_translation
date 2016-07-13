@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -13,45 +13,45 @@
         <source>app.loginCta</source>
         <target>Jeden Tag fügen wir neue Jobs hinzu. Melden Sie sich an und beginnen mit Ihrer Suche.</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target>Anmelden mit LinkedIn</target>
+        <target state="translated">Anmelden mit LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
-        <target>Anmelden mit Xing</target>
+        <target state="translated">Anmelden mit Xing</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target>Anmelden mit Google</target>
+        <target state="translated">Anmelden mit Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target>Anmelden mit Facebook</target>
+        <target state="translated">Anmelden mit Facebook</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
         <source>app.or</source>
         <target>oder</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>E-Mail</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>
-        <target>Passwort</target>
+        <target state="translated">Passwort</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target>Passwort vergessen?</target>
+        <target state="translated">Passwort vergessen?</target>
       </trans-unit>
-      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
+      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
         <source>security.login.submit</source>
-        <target>Anmelden</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target>Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+        <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
       </trans-unit>
     </body>
   </file>

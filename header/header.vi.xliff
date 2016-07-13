@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home">
+      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="yes">
         <source>app.home</source>
-        <target>Home</target>
+        <target state="translated">Trang chủ</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profile</target>
+        <target state="translated">Kỹ năng của bạn là gì? Hãy hoàn thành hồ sơ của bạn để được các công ty quan tâm đến tài năng của bạn.</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
-        <target>Sign Out</target>
+        <target state="translated">Thoát</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target>Register</target>
+        <target state="translated">Đăng ký</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Sign in</target>
+        <target state="translated">Đăng nhập</target>
       </trans-unit>
-      <trans-unit id="536f0bc0916eac5e60d5c1df64fa52e8" resname="app.manageJobs">
+      <trans-unit id="536f0bc0916eac5e60d5c1df64fa52e8" resname="app.manageJobs" approved="yes">
         <source>app.manageJobs</source>
-        <target>Manage jobs</target>
+        <target state="translated">Quản lý việc làm</target>
       </trans-unit>
-      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies">
+      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
         <source>app.findCompanies</source>
-        <target>Find companies</target>
+        <target state="translated">Tìm kiếm công ty</target>
       </trans-unit>
-      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs">
+      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
-        <target>Find Jobs</target>
+        <target state="translated">Tìm kiếm việc làm</target>
       </trans-unit>
-      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates">
+      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
-        <target>For candidates</target>
+        <target state="translated">Dành cho ứng viên</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>For Employers</target>
+        <target state="translated">Đối với người sử dụng lao</target>
       </trans-unit>
     </body>
   </file>

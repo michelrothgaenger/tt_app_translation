@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="no">
         <source>app.jobExpiredPageTitle</source>
-        <target>This job has expired</target>
+        <target state="needs-translation">Công việc này đã hết</target>
       </trans-unit>
       <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
         <source>app.metaDescriptionExpiredPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
         <source>app.metaKeywordsExpiredPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
-        <target><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>
+        <target state="translated">Xin lỗi, có vẻ như công việc này đã được đã được gỡ khỏi mạng. &lt;br&gt; Dưới đây chúng tôi đã liệt kê một số công việc phù hợp với những công việc hết. &lt;br&gt; Có lẽ Ngài muốn nhận tin mới của chúng tôi, &lt;br&gt; do vậy chúng tôi có thể thông báo cho Ngài bất cứ khi nào có gì mới  phù hợp với hồ sơ của Ngài.</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target>Register now - it's free</target>
+        <target state="translated">Đăng ký ngay - miễn phí</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
-        <target>Search related jobs</target>
+        <target state="translated">Tìm kiếm liên quan đến công việc</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
-        <target>Browse related jobs</target>
+        <target state="translated">Tìm kiếm liên quan đến công việc</target>
       </trans-unit>
     </body>
   </file>

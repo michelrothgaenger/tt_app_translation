@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr">
+      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr" approved="yes">
         <source>app.mr</source>
-        <target>Mr.</target>
+        <target state="translated">Ông</target>
       </trans-unit>
-      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms">
+      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms" approved="yes">
         <source>app.ms</source>
-        <target>Ms.</target>
+        <target state="translated">Bà</target>
       </trans-unit>
     </body>
   </file>

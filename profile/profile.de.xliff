@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profil</target>
+        <target state="translated">Profil</target>
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage">
         <source>app.metaDescriptionProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage">
         <source>app.metaKeywordsProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
         <source>app.profileInputCvUploadBtnText</source>
@@ -29,9 +29,9 @@
         <source>app.profileInputCvRequirements</source>
         <target>Datei muss im PDF-Format vorliegen und darf eine Größe von 15 MB nicht überschreiten.</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded">
+      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
-        <target>Datei hochgeladen!</target>
+        <target state="translated">Datei hochgeladen!</target>
       </trans-unit>
       <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline">
         <source>app.employerProfileHeadline</source>
@@ -233,9 +233,9 @@
         <source>app.contactInfo</source>
         <target>Kontaktdetails</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
-        <target>Anrede</target>
+        <target state="translated">Anrede</target>
       </trans-unit>
       <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName">
         <source>app.firstName</source>
@@ -245,13 +245,13 @@
         <source>app.lastName</source>
         <target>Nachname</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>E-Mail</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>
-        <target>Telefon</target>
+        <target state="translated">Telefon</target>
       </trans-unit>
       <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country">
         <source>app.country</source>
@@ -289,17 +289,17 @@
         <source>app.companyInformation</source>
         <target>Unternehmensdetails</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target>Größe</target>
+        <target state="translated">Größe</target>
       </trans-unit>
       <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover">
         <source>app.annualTurnover</source>
         <target>Jahresumsatz</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Webseite</target>
+        <target state="translated">Webseite</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about">
         <source>app.about</source>
@@ -373,9 +373,9 @@
         <source>app.jobTitle</source>
         <target>Stellenbezeichnung</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target>Tätigkeitsbereich</target>
+        <target state="translated">Tätigkeitsbereich</target>
       </trans-unit>
       <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
@@ -517,9 +517,9 @@
         <source>app.requiresThisFieldToBeFilledToo</source>
         <target>bitte füllen Sie dieses Feld ebenfalls aus.</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target>Wählen Sie eine Option</target>
+        <target state="translated">Wählen Sie eine Option</target>
       </trans-unit>
       <trans-unit id="cc629ce4431e7a8cab9560b6f1eb2b08" resname="app.visible">
         <source>app.visible</source>
@@ -537,9 +537,9 @@
         <source>app.save</source>
         <target>Speichern</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel">
+      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel" approved="yes">
         <source>app.cancel</source>
-        <target>Abbrechen</target>
+        <target state="translated">Abbrechen</target>
       </trans-unit>
       <trans-unit id="b5484319932b710c764b17cf815b6283" resname="app.edit">
         <source>app.edit</source>

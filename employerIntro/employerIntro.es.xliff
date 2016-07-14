@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -9,37 +9,37 @@
         <source>app.forEmployers</source>
         <target>Para empresarios</target>
       </trans-unit>
-      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage">
+      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
-        <target></target>
+        <target state="translated">Encuentra los futuros candidatos para tu compañia</target>
       </trans-unit>
       <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline">
+      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
-        <target>Acquire top talent in logistics and transportation</target>
+        <target state="translated">Adquiere los mejores talentos en logística y transporte</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target>Register now to gain immediate access to a pool of select candidates</target>
+        <target state="translated">Registrate ahora y ten acceso inmediato a un pool de candidatos seleccionados</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target>Register now - it's free</target>
+        <target state="translated">Regístrate ahora - es gratuito</target>
       </trans-unit>
-      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="yes">
         <source>app.readOn</source>
-        <target>Read on.</target>
+        <target state="translated">Seguir leyendo.</target>
       </trans-unit>
-      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2">
+      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2" approved="yes">
         <source>app.introductionForWhoHeadline2</source>
-        <target>Who is Transport Talent for?</target>
+        <target state="translated">Para quien es Transport Talent?</target>
       </trans-unit>
-      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline">
+      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHrManagersHeadline</source>
-        <target>Business Leaders</target>
+        <target state="translated">Jefe de negocio</target>
       </trans-unit>
       <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc">
         <source>app.introductionForWhoItemHrManagersDesc</source>

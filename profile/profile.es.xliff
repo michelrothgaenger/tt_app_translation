@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage">
         <source>app.metaDescriptionProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage">
         <source>app.metaKeywordsProfilePage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
         <source>app.profileInputCvUploadBtnText</source>
@@ -373,9 +373,9 @@
         <source>app.jobTitle</source>
         <target>Job title</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target></target>
+        <target state="translated">Posición</target>
       </trans-unit>
       <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>

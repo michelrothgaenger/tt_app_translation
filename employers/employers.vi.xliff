@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
@@ -9,13 +9,13 @@
         <source>app.companies</source>
         <target>Companies</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target>in</target>
+        <target state="translated">trong</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target>Meet the companies</target>
+        <target state="translated">Làm quen với doanh nghiệp</target>
       </trans-unit>
       <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta">
         <source>app.employersPageSearchCta</source>
@@ -37,9 +37,9 @@
         <source>app.allIndustries</source>
         <target>All industries</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Search</target>
+        <target state="translated">Tìm kiếm</target>
       </trans-unit>
       <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies">
         <source>app.browseCompanies</source>
@@ -53,21 +53,21 @@
         <source>app.offices</source>
         <target>Offices</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target>Company size</target>
+        <target state="translated">Quy mô công ty</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>employees</target>
+        <target state="translated">Nhân viên</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
-        <target>Main Activities</target>
+        <target state="translated">Trọng tâm</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Website</target>
+        <target state="translated">Trang mạng</target>
       </trans-unit>
       <trans-unit id="1a143d4a4afb8bc46fa9fbbdad2498d2" resname="app.findOutMore">
         <source>app.findOutMore</source>

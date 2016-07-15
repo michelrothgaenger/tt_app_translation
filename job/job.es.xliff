@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage">
         <source>app.metaKeywordsJobsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden">
         <source>app.thisJobIsHidden</source>
@@ -65,29 +65,29 @@
         <source>app.generalInformation</source>
         <target>General information</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
+      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
-        <target>Number of employees</target>
+        <target state="translated">Número de empleados</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>employees</target>
+        <target state="translated">Empleados</target>
       </trans-unit>
-      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
+      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable" approved="yes">
         <source>app.notAvailable</source>
-        <target>Not available</target>
+        <target state="translated">No disponible</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>
-        <target>Headquarter</target>
+        <target state="translated">Oficina principal</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
+      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
-        <target>Offices/Countries</target>
+        <target state="translated">Oficinas/Países</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
-        <target>Main Activities</target>
+        <target state="translated">Actividades principales</target>
       </trans-unit>
       <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
         <source>app.website</source>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="412d1bcebfc3d4ddde2e8e5492ea27f8" resname="app.id">
         <source>app.id</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
         <source>app.signInWithLinkedIn</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">
         <source>app.jobSavedMsg</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

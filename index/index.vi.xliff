@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
@@ -7,103 +7,103 @@
     <body>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
         <source>app.metaDescriptionIndexPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
         <source>app.metaKeywordsIndexPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="no">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target>Find top jobs in</target>
+        <target state="needs-translation">Việc làm tốt nhất trong &lt;b&gt; Kho &lt;/ b&gt; và &lt;b&gt; Giao thông &lt;/ b&gt;</target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target>Over 1,000 new jobs posted monthly</target>
+        <target state="translated">Mỗi tháng hơn 1.000 việc làm mới</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target>Register now - it's free</target>
+        <target state="translated">Đăng ký ngay - miễn phí</target>
       </trans-unit>
-      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2">
+      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2" approved="yes">
         <source>app.searchJobs2</source>
-        <target>Search jobs</target>
+        <target state="translated">Tìm kiếm việc làm</target>
       </trans-unit>
-      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks">
+      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks" approved="yes">
         <source>app.howItWorks</source>
-        <target>How it works</target>
+        <target state="translated">Transport Talent hoạt động thế nào?</target>
       </trans-unit>
-      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc">
+      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc" approved="no">
         <source>app.howItWorksDesc</source>
-        <target>We would like to get to know you. The more we know about your qualifications and preferences, the faster we can match you with your dream job.</target>
+        <target state="needs-translation">Chúng tôi muốn biết về Ngài. Chúng tôi càng biết nhiều về trình độ và kinh nghiệm của Ngài, thì chúng ta càng có thể tìm nhanh hơn công việc trong mơ phù hợp với Ngài.</target>
       </trans-unit>
-      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start">
+      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start" approved="yes">
         <source>app.start</source>
-        <target>Create Your Profile</target>
+        <target state="translated">Tạo hồ sơ cá nhân</target>
       </trans-unit>
-      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1">
+      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1" approved="yes">
         <source>app.howItWorksStep1</source>
-        <target>Register and create a profile that highlights your experience and career goals. Our team will review your information and start searching for a match.</target>
+        <target state="translated">Đăng ký và tạo một hồ sơ làm nổi bật kinh nghiệm và mục tiêu của Ngài. Đội ngũ của chúng tôi nghiên cứu dữ liệu của và tìm kiếm công việc phù hợp với Ngài.</target>
       </trans-unit>
-      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive">
+      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive" approved="yes">
         <source>app.receive</source>
-        <target>Browse Jobs</target>
+        <target state="translated">Tìm kiếm việc làm</target>
       </trans-unit>
-      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2">
+      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2" approved="yes">
         <source>app.howItWorksStep2</source>
-        <target>Review our job board with thousands of openings for all experience levels. Find something you like and then apply directly. If you are not actively looking for a new challenge, then let our team of experts take it from here. We will let you know once we have found an excellent opportunity for you.</target>
+        <target state="translated">Ngài hãy tìm trong cổng thông tin việc làm của chúng tôi với hàng ngàn vị trí tuyển dụng với tất cả các mức độ kinh nghiệm. Ngài hãy tìm một công việc thú vị và đăng ký trực tiếp. Nếu Ngài không tìm một thách thức cụ thể, hãy để đội ngũ của chúng tôi làm việc đó. Chúng tôi sẽ liên lạc với Ngài ngay khi tìm thấy một cơ hội tuyệt vời cho Ngài.</target>
       </trans-unit>
-      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply">
+      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply" approved="yes">
         <source>app.apply</source>
-        <target>Get matched</target>
+        <target state="translated">Để kết nối</target>
       </trans-unit>
-      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3">
+      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3" approved="yes">
         <source>app.howItWorksStep3</source>
-        <target>Sit back and receive high quality job recommendations. Our long list of open positions is growing constantly and our team of experts is actively looking for an opening that matches your profile. Your dream job is on its way.</target>
+        <target state="translated">Ngài hãy ngồi thoải mái và chúng tôi sẽ giới thiệu những công việc độc quyền. Luôn liên tục có thêm các vị trí mới mà đội ngũ của chúng tôi tìm ra để phù hợp với Ngài. Công việc trong mơ của bạn là nằm trong tầm tay của Ngài.</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
-        <target>Featured Jobs</target>
+        <target state="translated">Các công việc nổi trội</target>
       </trans-unit>
-      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level">
+      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
         <source>app.level</source>
-        <target>Level</target>
+        <target state="translated">Trình độ</target>
       </trans-unit>
-      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category">
+      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category" approved="yes">
         <source>app.category</source>
-        <target>Category</target>
+        <target state="translated">Thể loại</target>
       </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
         <source>app.new</source>
-        <target>new</target>
+        <target state="translated">mới</target>
       </trans-unit>
-      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn">
+      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn" approved="yes">
         <source>app.featuredJobsRegisterBtn</source>
-        <target>Register now to see more</target>
+        <target state="translated">Ngài hãy đăng ký để xem nhiều hơn</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs">
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target>Search featured jobs</target>
+        <target state="translated">Tìm kiếm công việc nổi trội</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target>Meet the companies</target>
+        <target state="translated">Làm quen với doanh nghiệp</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
+      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
-        <target>See all companies</target>
+        <target state="translated">Xem tất cả doanh nghiệp</target>
       </trans-unit>
-      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch">
+      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch" approved="yes">
         <source>app.getMoreFromYourJobSearch</source>
-        <target>Get more from your job search</target>
+        <target state="translated">Hiệu quả hơn trong việc tìm việc làm</target>
       </trans-unit>
-      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles">
+      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles" approved="yes">
         <source>app.allArticles</source>
-        <target>All articles</target>
+        <target state="translated">Tất cả bài viết</target>
       </trans-unit>
-      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more">
+      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
         <source>app.more</source>
-        <target>More</target>
+        <target state="translated">Nhiều hơn nữa</target>
       </trans-unit>
     </body>
   </file>

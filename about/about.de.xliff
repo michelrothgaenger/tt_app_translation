@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target state="translated">Über uns</target>
+        <target state="translated">Transport Talent – Über uns</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>
-        <target/>
+        <target state="translated">Ein modernes Recruiting-Netzwerk speziell für Fachkräfte aus Transport und Logistik. Lesen Sie hier, wer hinter der Idee steckt.</target>
       </trans-unit>
-      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
+      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>
-        <target/>
+        <target state="translated">Team,Mitarbeiter,Personal,Vermittlung,Gründer,Startup,Informationen,Hintergrund,Standort,Niederlassung,Hamburg,Kopenhagen,Dänemark,Deutschland,Vision,Mission,Ziel,Anliegen,Logistik,Spedition,Transport</target>
       </trans-unit>
       <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1" approved="yes">
         <source>app.about.h1</source>

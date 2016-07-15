@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target>Register</target>
+        <target state="translated">Ghi danh</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Get Started</target>
+        <target state="translated">Bắt đầu</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
         <source>app.registerCta</source>
@@ -21,33 +21,33 @@
         <source>app.certificateHeadline</source>
         <target>We take your privacy seriously. Please read our privacy policy to learn more about how we protect your data.</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target>Sign in with LinkedIn</target>
+        <target state="translated">Đăng nhập với LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
-        <target>Sign in with Xing</target>
+        <target state="translated">Đăng nhập với Xing</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target>Sign in with Google</target>
+        <target state="translated">Đăng nhập với Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target>Sign in with Facebook</target>
+        <target state="translated">Đăng nhập với Facebook</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
         <source>app.or</source>
         <target>or</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>I agree to the</target>
+        <target state="translated">Tôi đồng ý</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Điều kiện chung</target>
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
         <source>registration.check_email</source>
@@ -77,17 +77,17 @@
         <source>app.youCanContinueTo</source>
         <target>You can continue to</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profile</target>
+        <target state="translated">Kỹ năng của bạn là gì? Hãy hoàn thành hồ sơ của bạn để được các công ty quan tâm đến tài năng của bạn.</target>
       </trans-unit>
       <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
         <source>app.services</source>
         <target>Services</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target>Job search</target>
+        <target state="translated">Tìm công việc</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>
@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
         <source>fos_user.password.mismatch</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

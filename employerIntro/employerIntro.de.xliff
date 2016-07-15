@@ -9,13 +9,13 @@
         <source>app.forEmployers</source>
         <target state="translated">Für Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage">
+      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
-        <target/>
+        <target state="translated">Finden Sie mit Transport Talent passende Fachkräfte aus Transport und Logistik für Ihr Unternehmen.</target>
       </trans-unit>
-      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
+      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage" approved="yes">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target/>
+        <target state="translated">Kandidaten,Personal,Vermittlung,Transport,Logistik,Spedition,Schifffahrt,Luftfracht,Recruiting,Talente,Akquise,Bewerber,Suche,Headhunter,passiv,Stelle,Anzeige,Ausschreibung,Position,besetzen,Jobs</target>
       </trans-unit>
       <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target state="translated">Registrieren Sie sich jetzt für den Zugang zu unserem Kandidatenpool.</target>
+        <target state="translated">Registrieren Sie sich jetzt für Zugang zu unserem Pool mit ausgewählten Kandidaten</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>

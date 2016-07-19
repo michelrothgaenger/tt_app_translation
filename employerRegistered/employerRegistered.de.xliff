@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle">
+      <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle" approved="yes">
         <source>app.registeredTitle</source>
-        <target>Dankeschön!</target>
+        <target state="translated">Vielen Dank für Ihre Anmeldung bei Transport Talent</target>
       </trans-unit>
-      <trans-unit id="fae4cdb5306a5ffb47600d6b4825c4a8" resname="app.metaDescriptionRegisteredPage">
+      <trans-unit id="fae4cdb5306a5ffb47600d6b4825c4a8" resname="app.metaDescriptionRegisteredPage" approved="yes">
         <source>app.metaDescriptionRegisteredPage</source>
-        <target></target>
+        <target state="translated">Sie haben Ihr Unternehmen erfolgreich bei Transport Talent angemeldet und können nun von unserem Fachkräfte-Pool profitieren. Legen Sie dafür ein kostenfreies Unternehmensprofil an.</target>
       </trans-unit>
-      <trans-unit id="2cb653006da0f773b2ca83345584ae32" resname="app.metaKeywordsRegisteredPage">
+      <trans-unit id="2cb653006da0f773b2ca83345584ae32" resname="app.metaKeywordsRegisteredPage" approved="yes">
         <source>app.metaKeywordsRegisteredPage</source>
-        <target></target>
+        <target state="translated">Kandidaten,Personal,Vermittlung,Transport,Logistik,Spedition,Schifffahrt,Luftfracht,Recruiting,Talente,Akquise,Bewerber,Suche,Headhunter,passiv,Stelle,Anzeige,Ausschreibung,Position,besetzen,Fachkraft,Profil</target>
       </trans-unit>
-      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg">
+      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>
-        <target>Danke, %firstName%! Wir melden uns in Kürze bei Ihnen.</target>
+        <target state="translated">Danke, %firstName%! Wir melden uns in Kürze bei Ihnen.</target>
       </trans-unit>
     </body>
   </file>

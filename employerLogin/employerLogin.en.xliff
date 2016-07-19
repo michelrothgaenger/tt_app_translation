@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -9,13 +9,13 @@
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage">
+      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="yes">
         <source>app.metaDescriptionEmployerLoginPage</source>
-        <target></target>
+        <target state="translated">Sign in to find the future candidates for your company</target>
       </trans-unit>
       <trans-unit id="f73e27f6296b7fe088334afee5ab2dcf" resname="app.metaKeywordsEmployerLoginPage">
         <source>app.metaKeywordsEmployerLoginPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline">
         <source>app.employerLoginHeadline</source>

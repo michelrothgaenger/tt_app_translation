@@ -1,169 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>Für Arbeitgeber</target>
+        <target state="translated">Für Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage">
+      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
-        <target></target>
+        <target state="translated">Finden Sie mit Transport Talent passende Fachkräfte aus Transport und Logistik für Ihr Unternehmen</target>
       </trans-unit>
-      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
+      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage" approved="yes">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target></target>
+        <target state="translated">Kandidaten,Personal,Vermittlung,Transport,Logistik,Spedition,Schifffahrt,Luftfracht,Recruiting,Talente,Akquise,Bewerber,Suche,Headhunter,passiv,Stelle,Anzeige,Ausschreibung,Position,besetzen,Jobs</target>
       </trans-unit>
-      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline">
+      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
-        <target>Gewinnen Sie Top-Talente aus Transport und Logistik</target>
+        <target state="translated">Gewinnen Sie Top-Talente aus Transport und Logistik</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target>Registrieren Sie sich jetzt für den Zugang zu unserem Kandidatenpool.</target>
+        <target state="translated">Registrieren Sie sich jetzt für Zugang zu unserem Pool mit ausgewählten Kandidaten</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target>Jetzt kostenlos registrieren</target>
+        <target state="translated">Jetzt kostenlos registrieren</target>
       </trans-unit>
-      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="yes">
         <source>app.readOn</source>
-        <target>Weiterlesen</target>
+        <target state="translated">Weiterlesen.</target>
       </trans-unit>
-      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2">
+      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2" approved="yes">
         <source>app.introductionForWhoHeadline2</source>
-        <target>Für wen ist Transport Talent gedacht?</target>
+        <target state="translated">Für wen ist Transport Talent gedacht?</target>
       </trans-unit>
-      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline">
+      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHrManagersHeadline</source>
-        <target>Führungskräfte</target>
+        <target state="translated">Führungskräfte</target>
       </trans-unit>
-      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc">
+      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHrManagersDesc</source>
-        <target>die eine wichtige Position besetzen möchten und einen branchenerfahrenen Recruiter mit der Suche beauftragen wollen.</target>
+        <target state="translated">die eine wichtige Position besetzen möchten und einen branchenerfahrenen Recruiter mit der Suche beauftragen wollen.</target>
       </trans-unit>
-      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline">
+      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHiringManagersHeadline</source>
-        <target>Personalverantwortliche</target>
+        <target state="translated">Personalverantwortliche</target>
       </trans-unit>
-      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc">
+      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHiringManagersDesc</source>
-        <target>die ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.</target>
+        <target state="translated">die ihre Abteilung produktiver machen wollen, indem sie die Zeit für die Kandidatensuche minimieren.</target>
       </trans-unit>
-      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline">
+      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="yes">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
-        <target>Interne Personalvermittler</target>
+        <target state="translated">Interne Personalvermittler</target>
       </trans-unit>
-      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc">
+      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc" approved="yes">
         <source>app.introductionForWhoItemRecruitersDesc</source>
-        <target>die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.</target>
+        <target state="translated">die den Recruitment-Prozess durch eine Vorauswahl geeigneter Kandidaten, die ihren Anforderungen entsprechen, beschleunigen möchten.</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Kontakt</target>
+        <target state="translated">Kontakt</target>
       </trans-unit>
-      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline">
+      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline" approved="yes">
         <source>app.introductionWhoWeAreHeadline</source>
-        <target>Wer wir sind</target>
+        <target state="translated">Wer wir sind</target>
       </trans-unit>
-      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc">
+      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="yes">
         <source>app.introductionWhoWeAreDesc</source>
-        <target>Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.</target>
+        <target state="translated">Wir sind ein Team aus ehemaligen operativen Führungskräften und Personalern, die sich als Personalvermittler selbstständig gemacht haben. Aus unserer Zeit bei einigen der weltweit erfolgreichsten Logistikunternehmen wissen wir, wie stark sich eine sorgfältige Personalauswahl auf die Wettbewerbsfähigkeit einer Firma auswirken kann. Mit Transport Talent wollen wir allen Unternehmen in der Logistik- und Transportbranche diese Chance bieten, unabhängig von Größe und Marktposition.</target>
       </trans-unit>
-      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline">
+      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>
-        <target>Was uns auszeichnet</target>
+        <target state="translated">Was uns auszeichnet</target>
       </trans-unit>
-      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc">
+      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc" approved="yes">
         <source>app.introductionHowWeAreDifferentDesc</source>
-        <target>6 gute Gründe</target>
+        <target state="translated">6 gute Gründe</target>
       </trans-unit>
-      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline">
+      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Headline</source>
-        <target>Ein Kandidatennetzwerk mit Fachpersonal</target>
+        <target state="translated">Ein Kandidatennetzwerk mit Fachpersonal</target>
       </trans-unit>
-      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc">
+      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Desc</source>
-        <target>Wir bieten ein sorgfältig geprüftes und schnell wachsendes Netzwerk mit Fachpersonal aus Transport und Logistik, das passiv nach Stellen sucht. Anhand unseres genau abgestimmten Nutzerprofils finden wir den passenden Kandidaten für Sie.</target>
+        <target state="translated">Wir bieten ein sorgfältig geprüftes und schnell wachsendes Netzwerk mit Fachpersonal aus Transport und Logistik, das passiv nach Stellen sucht. Anhand unseres genau abgestimmten Nutzerprofils finden wir den passenden Kandidaten für Sie.</target>
       </trans-unit>
-      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline">
+      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
-        <target>Wir sind auf Berufseinsteiger und erfahrene Fachkräfte spezialisiert.</target>
+        <target state="translated">Berufseinsteiger und erfahrene Fachkräfte</target>
       </trans-unit>
-      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc">
+      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Desc</source>
-        <target>Im Gegensatz zu anderen Recruiting-Unternehmen mit unserem Schwerpunkt, konzentrieren wir uns vor allem auf jüngere Kandidaten mit einer Berufserfahrung zwischen 1 und 10 Jahren. Darüber hinaus vernetzen wir uns natürlich auch mit erfahreneren Bewerbern.</target>
+        <target state="translated">Im Gegensatz zu anderen Recruiting-Unternehmen mit unserem Schwerpunkt, konzentrieren wir uns vor allem auf jüngere Kandidaten mit einer Berufserfahrung zwischen 1 und 10 Jahren. Darüber hinaus vernetzen wir uns natürlich auch mit erfahreneren Bewerbern.</target>
       </trans-unit>
-      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline">
+      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Headline</source>
-        <target>Transparentes Preismodell</target>
+        <target state="translated">Transparentes Preismodell</target>
       </trans-unit>
-      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc">
+      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Desc</source>
-        <target>Dank unserer festen Preise wissen Sie immer genau, was auf Sie zukommt. Wir arbeiten mit skalierbaren Preisen, die Unternehmen aller Größen gerecht werden.</target>
+        <target state="translated">Dank unserer festen Preise wissen Sie immer genau, was auf Sie zukommt. Wir arbeiten mit skalierbaren Preisen, die Unternehmen aller Größen gerecht werden.</target>
       </trans-unit>
-      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline">
+      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Headline</source>
-        <target>Fokus auf Logistik und Transport</target>
+        <target state="translated">Fokus auf Logistik und Transport</target>
       </trans-unit>
-      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc">
+      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Desc</source>
-        <target>Aus langjährige beruflicher Erfahrung in Transport und Logistik zusammen und unserer Expertise als Recruitment-Spezialisten für die Branche haben wir ein einzigartiges Kundenverständnis entwickelt. Wir kennen Ihr Geschäftsumfeld und wissen genau, welche Kandidaten etwas in Ihrem Unternehmen bewegen können.</target>
+        <target state="translated">Aus langjährige beruflicher Erfahrung in Transport und Logistik zusammen und unserer Expertise als Recruitment-Spezialisten für die Branche haben wir ein einzigartiges Kundenverständnis entwickelt. Wir kennen Ihr Geschäftsumfeld und wissen genau, welche Kandidaten etwas in Ihrem Unternehmen bewegen können.</target>
       </trans-unit>
-      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline">
+      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Headline</source>
-        <target>Partnerschaftliche Mentalität</target>
+        <target state="translated">Partnerschaftliche Mentalität</target>
       </trans-unit>
-      <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc">
+      <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Desc</source>
-        <target>Wir nehmen uns Zeit, Ihre individuelle Unternehmenskultur und -geschichte zu verstehen. Auf diese Weise erreichen wir eine deutliche höhere Erfolgsrate bei der Kandidatensuche.</target>
+        <target state="translated">Wir nehmen uns Zeit, Ihre individuelle Unternehmenskultur und -geschichte zu verstehen. Auf diese Weise erreichen wir eine deutliche höhere Erfolgsrate bei der Kandidatensuche.</target>
       </trans-unit>
-      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline">
+      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Headline</source>
-        <target>Flexible Lösungen</target>
+        <target state="translated">Flexible Lösungen</target>
       </trans-unit>
-      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc">
+      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Desc</source>
-        <target>Jeder Kunde hat unterschiedliche Bedürfnisse, abhängig von Größe und geografischem Fokus, aber auch davon, wie er uns in den Einstellungsprozess einbinden möchte. Davon ausgehend haben wir eine Reihe von Produkten entwickelt, die Unternehmen jeder Form und Größe gerecht werden und außerdem an Ihre individuellen Anforderungen angepasst werden können.</target>
+        <target state="translated">Jeder Kunde hat unterschiedliche Bedürfnisse, abhängig von Größe und geografischem Fokus, aber auch davon, wie er uns in den Einstellungsprozess einbinden möchte. Davon ausgehend haben wir eine Reihe von Produkten entwickelt, die Unternehmen jeder Form und Größe gerecht werden und außerdem an Ihre individuellen Anforderungen angepasst werden können.</target>
       </trans-unit>
-      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion">
+      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion" approved="yes">
         <source>app.doYouHaveAQuestion</source>
-        <target>Gerne sind wir persönlich für Sie da. Kontaktieren Sie uns!</target>
+        <target state="translated">Gerne sind wir persönlich für Sie da. Kontaktieren Sie uns!</target>
       </trans-unit>
-      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices">
+      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices" approved="yes">
         <source>app.ourOffices</source>
-        <target>Unsere Standorte</target>
+        <target state="translated">Unsere Standorte</target>
       </trans-unit>
-      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress">
+      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress" approved="yes">
         <source>app.contactPageAddress</source>
-        <target><![CDATA[<div><b>Deutschland:</b></div><div>Transport Talent</div><div>Bernstorffstraße 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Dänemark:</b></div><div>Transport Talent ApS</div><div>Islands Brygge 77D</div><div>DK-2300 Kopenhagen</div>]]></target>
+        <target state="translated"><![CDATA[<div><b>Deutschland:</b></div><div>Transport Talent</div><div>Bernstorffstraße 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Dänemark:</b></div><div>Transport Talent ApS</div><div>Islands Brygge 77D</div><div>DK-2300 Kopenhagen</div>]]></target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>
-        <target>Telefon</target>
+        <target state="translated">Telefon</target>
       </trans-unit>
-      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name">
+      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name" approved="yes">
         <source>app.name</source>
-        <target>Name</target>
+        <target state="translated">Name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>E-Mail</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject">
+      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject" approved="yes">
         <source>app.subject</source>
-        <target>Betreff</target>
+        <target state="translated">Betreff</target>
       </trans-unit>
-      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message">
+      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message" approved="yes">
         <source>app.message</source>
-        <target>Nachricht</target>
+        <target state="translated">Nachricht</target>
       </trans-unit>
-      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send">
+      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send" approved="yes">
         <source>app.send</source>
-        <target>Senden</target>
+        <target state="translated">Senden</target>
       </trans-unit>
     </body>
   </file>

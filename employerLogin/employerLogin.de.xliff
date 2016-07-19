@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Anmelden</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
-      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage">
+      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="yes">
         <source>app.metaDescriptionEmployerLoginPage</source>
-        <target></target>
+        <target state="translated">Loggen Sie sich ein, um passende Kandidaten für Ihr Unternehmen zu finden</target>
       </trans-unit>
-      <trans-unit id="f73e27f6296b7fe088334afee5ab2dcf" resname="app.metaKeywordsEmployerLoginPage">
+      <trans-unit id="f73e27f6296b7fe088334afee5ab2dcf" resname="app.metaKeywordsEmployerLoginPage" approved="yes">
         <source>app.metaKeywordsEmployerLoginPage</source>
-        <target></target>
+        <target state="translated">Kandidaten,Personal,Vermittlung,Transport,Logistik,Spedition,Schifffahrt,Luftfracht,Recruiting,Talente,Akquise,Bewerber,Suche,Headhunter,passiv,Stelle,Anzeige,Ausschreibung,Position,besetzen,Pool,Netzwerk</target>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline">
+      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
-        <target>Schön, Sie wiederzusehen.</target>
+        <target state="translated">Schön, Sie wiederzusehen.</target>
       </trans-unit>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta">
+      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
-        <target>Sollten Sie bereits ein Konto besitzen, fahren Sie bitte fort.</target>
+        <target state="translated">Sollten Sie bereits ein Konto besitzen, fahren Sie bitte fort.</target>
       </trans-unit>
-      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username">
+      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username" approved="yes">
         <source>security.login.username</source>
-        <target>Benutzername</target>
+        <target state="translated">Benutzername</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>
-        <target>Passwort</target>
+        <target state="translated">Passwort</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target>Passwort vergessen?</target>
+        <target state="translated">Passwort vergessen?</target>
       </trans-unit>
-      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
+      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
         <source>security.login.submit</source>
-        <target>Anmelden</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target>Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+        <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
       </trans-unit>
     </body>
   </file>

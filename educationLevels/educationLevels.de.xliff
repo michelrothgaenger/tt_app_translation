@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="cbb67c65f2abd1005d46939a7b3aff5f" resname="Doctor">
+      <trans-unit id="cbb67c65f2abd1005d46939a7b3aff5f" resname="Doctor" approved="yes">
         <source>Doctor</source>
-        <target>Promotion</target>
+        <target state="translated">Promotion</target>
       </trans-unit>
       <trans-unit id="671aa2e8cc2c2435cf509fa4a3baf26c" resname="Executive">
         <source>Executive</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="f03bde11d261f185cbacfa32c1c6538c" resname="Master">
+      <trans-unit id="f03bde11d261f185cbacfa32c1c6538c" resname="Master" approved="yes">
         <source>Master</source>
-        <target>Master</target>
+        <target state="translated">Master</target>
       </trans-unit>
-      <trans-unit id="feef40a7598469ac6e8070165ca92bf7" resname="Bachelor">
+      <trans-unit id="feef40a7598469ac6e8070165ca92bf7" resname="Bachelor" approved="yes">
         <source>Bachelor</source>
-        <target>Bachelor</target>
+        <target state="translated">Bachelor</target>
       </trans-unit>
       <trans-unit id="758ab9c1162e0f5094d4d4ab297952ad" resname="Associate">
         <source>Associate</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="440a138c0f34fe6120c9411c1ef3a57f" resname="Single course">
+      <trans-unit id="440a138c0f34fe6120c9411c1ef3a57f" resname="Single course" approved="yes">
         <source>Single course</source>
-        <target>Einzelner Kurs</target>
+        <target state="translated">Einzelner Kurs</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other">
+      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
-        <target>Sonstige</target>
+        <target state="translated">Sonstige</target>
       </trans-unit>
-      <trans-unit id="a007eca26d06b0b6d505e7d6f7f7baa4" resname="Apprenticeship">
+      <trans-unit id="a007eca26d06b0b6d505e7d6f7f7baa4" resname="Apprenticeship" approved="yes">
         <source>Apprenticeship</source>
-        <target>Apprenticeship</target>
+        <target state="translated">Berufsausbildung</target>
       </trans-unit>
     </body>
   </file>

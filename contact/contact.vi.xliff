@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
-        <target state="translated">Viết thư cho chúng tôi</target>
+        <target state="translated">Viết thư cho chúng tôi để có thêm thông tin</target>
       </trans-unit>
       <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="e7967b9d2320c79ea67f243d2b441f45" resname="app.contact.section.email.email" approved="yes">
         <source>app.contact.section.email.email</source>
-        <target state="translated">Địa chỉ Email</target>
+        <target state="translated">Viết thư cho chúng  tôi để có thêm thông tin</target>
       </trans-unit>
       <trans-unit id="22780a31b6bcdc4ebc508ce4a0afdc38" resname="app.contact.section.email.subject" approved="yes">
         <source>app.contact.section.email.subject</source>
@@ -41,13 +41,13 @@
         <source>app.contact.section.email.thanksgiving</source>
         <target state="translated">Cảm ơn</target>
       </trans-unit>
-      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
+      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="no">
         <source>app.contact.section.email.messageStatus</source>
-        <target state="translated">Thông tin của bạn đã được gửi. Chúng tôi sẽ liên lạc với bạn ngay.</target>
+        <target state="needs-translation">Thông tin của bạn đã được gửi. Chúng tôi sẽ liên lạc với bạn ngay.</target>
       </trans-unit>
       <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
-        <target state="translated">Địa điểm của chúng tôi</target>
+        <target state="translated">Chúng tôi là một công ty hoạt động quốc tế. Đây là văn phòng của chúng tôi:</target>
       </trans-unit>
       <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location" approved="yes">
         <source>app.contact.section.offices.location</source>

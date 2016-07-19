@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle" approved="yes">
         <source>app.registeredTitle</source>
-        <target state="translated">Vielen Dank!</target>
+        <target state="translated">Vielen Dank für Ihre Anmeldung bei Transport Talent</target>
       </trans-unit>
-      <trans-unit id="fae4cdb5306a5ffb47600d6b4825c4a8" resname="app.metaDescriptionRegisteredPage">
+      <trans-unit id="fae4cdb5306a5ffb47600d6b4825c4a8" resname="app.metaDescriptionRegisteredPage" approved="yes">
         <source>app.metaDescriptionRegisteredPage</source>
-        <target/>
+        <target state="translated">Sie haben Ihr Unternehmen erfolgreich bei Transport Talent angemeldet und können nun von unserem Fachkräfte-Pool profitieren. Legen Sie dafür ein kostenfreies Unternehmensprofil an.</target>
       </trans-unit>
-      <trans-unit id="2cb653006da0f773b2ca83345584ae32" resname="app.metaKeywordsRegisteredPage">
+      <trans-unit id="2cb653006da0f773b2ca83345584ae32" resname="app.metaKeywordsRegisteredPage" approved="yes">
         <source>app.metaKeywordsRegisteredPage</source>
-        <target/>
+        <target state="translated">Kandidaten,Personal,Vermittlung,Transport,Logistik,Spedition,Schifffahrt,Luftfracht,Recruiting,Talente,Akquise,Bewerber,Suche,Headhunter,passiv,Stelle,Anzeige,Ausschreibung,Position,besetzen,Fachkraft,Profil</target>
       </trans-unit>
       <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>

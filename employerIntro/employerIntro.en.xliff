@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -9,21 +9,21 @@
         <source>app.forEmployers</source>
         <target>For Employers</target>
       </trans-unit>
-      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage">
+      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
-        <target></target>
+        <target state="translated">Find the future candidates for your company</target>
       </trans-unit>
       <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline">
         <source>app.introductionSourcingHeadline</source>
         <target>Acquire top talent in logistics and transportation</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target>Register now to gain immediate access to a pool of select candidates</target>
+        <target state="translated">Register now to gain immediate access to a pool of selected candidates</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
         <source>app.signUpNow</source>
@@ -69,13 +69,13 @@
         <source>app.introductionWhoWeAreHeadline</source>
         <target>Who We Are</target>
       </trans-unit>
-      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc">
+      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="yes">
         <source>app.introductionWhoWeAreDesc</source>
-        <target>We are a team of business and hr executives turned recruiters, with years of experience at some of the world's most successful logistics and shipping companies. We have seen first‑hand the advantage that companies with an effective sourcing and recruitment process have. As a result, our goal is to make this available for all companies in the industry, regardless of their size.</target>
+        <target state="translated">We are a team of business and hr executives turned recruiters, with years of experience at some of the world's most successful logistics and shipping companies. We have seen the advantages first-hand that companies with an effective sourcing and recruitment process have. As a result, our goal is to make this available for all companies in the industry, regardless of their size.</target>
       </trans-unit>
-      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline">
+      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>
-        <target>How we are different</target>
+        <target state="translated">Why we are different</target>
       </trans-unit>
       <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc">
         <source>app.introductionHowWeAreDifferentDesc</source>

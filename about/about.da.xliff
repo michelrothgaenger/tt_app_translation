@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target state="translated"/>
+        <target state="translated">Transport Talent - Om os</target>
       </trans-unit>
       <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
         <source>app.about.meta.description</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1" approved="yes">
         <source>app.about.h1</source>
-        <target state="translated"/>
+        <target state="translated">Om os</target>
       </trans-unit>
       <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="yes">
         <source>app.about.section.about.title</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="734b69d2412d607576c8eba91e3ae48f" resname="app.about.section.team.svenja.description" approved="yes">
         <source>app.about.section.team.svenja.description</source>
-        <target state="translated"></target>
+        <target state="translated"/>
       </trans-unit>
     </body>
   </file>

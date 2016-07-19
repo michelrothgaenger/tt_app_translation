@@ -9,45 +9,45 @@
         <source>app.jobs</source>
         <target state="translated">Jobs</target>
       </trans-unit>
-      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
+      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for" approved="yes">
         <source>app.for</source>
-        <target>für</target>
+        <target state="translated">für</target>
       </trans-unit>
       <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
         <target state="translated">in</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target>Jobsuche</target>
+        <target state="translated">Jobsuche</target>
       </trans-unit>
-      <trans-unit id="ca5c7ac078ef514b5904e30e5d3b2f36" resname="app.jobsPageSearchCta">
+      <trans-unit id="ca5c7ac078ef514b5904e30e5d3b2f36" resname="app.jobsPageSearchCta" approved="yes">
         <source>app.jobsPageSearchCta</source>
-        <target>Nutzen Sie die Filter, um Ihre Ergebnisse einzugrenzen.</target>
+        <target state="translated">Nutzen Sie die Filter, um Ihre Ergebnisse einzugrenzen.</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
         <target state="translated">Suchen</target>
       </trans-unit>
-      <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs">
+      <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs" approved="yes">
         <source>app.browseJobs</source>
-        <target>Jobs durchsuchen</target>
+        <target state="translated">Jobs durchsuchen</target>
       </trans-unit>
-      <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound">
+      <trans-unit id="a481b73e2a36353da9cf8c1ad3666e50" resname="app.jobsFound" approved="yes">
         <source>app.jobsFound</source>
-        <target>Stellen gefunden</target>
+        <target state="translated">Jobs gefunden</target>
       </trans-unit>
-      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy">
+      <trans-unit id="1ff765e9c618cf7145180c69579443e3" resname="app.sortJobsBy" approved="yes">
         <source>app.sortJobsBy</source>
-        <target>Sortieren nach</target>
+        <target state="translated">Sortieren nach</target>
       </trans-unit>
-      <trans-unit id="2acf8a93350bc5c3ce5cb2f7cf1817bd" resname="app.date">
+      <trans-unit id="2acf8a93350bc5c3ce5cb2f7cf1817bd" resname="app.date" approved="yes">
         <source>app.date</source>
-        <target>Datum absteigend</target>
+        <target state="translated">Datum absteigend</target>
       </trans-unit>
-      <trans-unit id="cea790d15df86ab1edd6c5a46ba632d3" resname="app.views">
+      <trans-unit id="cea790d15df86ab1edd6c5a46ba632d3" resname="app.views" approved="yes">
         <source>app.views</source>
-        <target>Beliebtheit absteigend</target>
+        <target state="translated">Beliebtheit absteigend</target>
       </trans-unit>
       <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType" approved="yes">
         <source>app.jobType</source>
@@ -69,29 +69,29 @@
         <source>app.company</source>
         <target state="translated">Unternehmen</target>
       </trans-unit>
-      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
+      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder" approved="yes">
         <source>app.jobsFilterCompanyPlaceholder</source>
-        <target>z.B. DHL</target>
+        <target state="translated">z.B. DHL</target>
       </trans-unit>
-      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location">
+      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location" approved="yes">
         <source>app.location</source>
-        <target>Standort</target>
+        <target state="translated">Standort</target>
       </trans-unit>
-      <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany">
+      <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany" approved="yes">
         <source>app.egGermany</source>
-        <target>z.B. Deutschland</target>
+        <target state="translated">z.B. Deutschland</target>
       </trans-unit>
-      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes">
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes" approved="yes">
         <source>app.allJobTypes</source>
-        <target>Alle Bereiche</target>
+        <target state="translated">Alle Bereiche</target>
       </trans-unit>
-      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels">
+      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels" approved="yes">
         <source>app.allJobLevels</source>
-        <target>Alle Level</target>
+        <target state="translated">Alle Level</target>
       </trans-unit>
-      <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound">
+      <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound" approved="yes">
         <source>app.noJobsFound</source>
-        <target>Keine Jobs gefunden</target>
+        <target state="translated">Keine Jobs gefunden</target>
       </trans-unit>
     </body>
   </file>

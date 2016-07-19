@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target>Registrieren</target>
+        <target state="translated">Registrieren</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Registrierung</target>
+        <target state="translated">Registrierung</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
         <source>app.registerCta</source>
@@ -21,33 +21,33 @@
         <source>app.certificateHeadline</source>
         <target>Wir nehmen Datenschutz ernst! Lesen Sie unsere Datenschutzerklärung, um mehr darüber zu erfahren, wie wir Ihre Daten schützen.</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target>Anmelden mit LinkedIn</target>
+        <target state="translated">Anmelden mit LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
-        <target>Anmelden mit Xing</target>
+        <target state="translated">Anmelden mit Xing</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target>Anmelden mit Google</target>
+        <target state="translated">Anmelden mit Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target>Anmelden mit Facebook</target>
+        <target state="translated">Anmelden mit Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>oder</target>
+        <target state="translated">oder</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>Ich akzeptiere die</target>
+        <target state="translated">Ich akzeptiere die</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target>Allgemeinen Geschäftsbedingungen</target>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
         <source>registration.check_email</source>
@@ -77,9 +77,9 @@
         <source>app.youCanContinueTo</source>
         <target>Nächste Aktion:</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profil</target>
+        <target state="translated">Welche Qualifikationen und Kompetenzen haben Sie? Vervollständigen Sie Ihr Profil, um Unternehmen auf Sie aufmerksam zu machen.</target>
       </trans-unit>
       <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
         <source>app.services</source>
@@ -111,7 +111,7 @@
       </trans-unit>
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
         <source>fos_user.password.mismatch</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

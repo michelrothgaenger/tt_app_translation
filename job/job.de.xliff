@@ -9,9 +9,9 @@
         <source>app.job</source>
         <target state="translated">Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage">
+      <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage" approved="yes">
         <source>app.metaKeywordsJobsPage</source>
-        <target/>
+        <target state="translated">Karriere,Jobs,Stellen,Positionen,Transport,Logistik,Spedition,Luftfracht,Schifffahrt,Bewerbung,Kandidat,Suche,Anzeige,Ausschreibung,Anforderungen,Arbeitgeber,offline,finden</target>
       </trans-unit>
       <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden" approved="yes">
         <source>app.thisJobIsHidden</source>
@@ -29,9 +29,9 @@
         <source>app.jobSavedToProfile</source>
         <target state="translated">Im Profil gespeichert</target>
       </trans-unit>
-      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile">
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
-        <target>Im Profil speichern</target>
+        <target state="translated">Im Profil speichern</target>
       </trans-unit>
       <trans-unit id="3ffb0d6a669cd929e8bdbfc014251b24" resname="app.broughtToYouExclusivelyBy" approved="yes">
         <source>app.broughtToYouExclusivelyBy</source>
@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="2524b91553815d434fd47e745def9323" resname="app.moreJobsLikeThis" approved="yes">
         <source>app.moreJobsLikeThis</source>
-        <target state="translated">Andere interesante Angebote</target>
+        <target state="translated">Andere interessante Angebote</target>
       </trans-unit>
       <trans-unit id="80a96ec02c62f89b4e2e8792caddddfd" resname="app.showMoreJobsLikeThis" approved="yes">
         <source>app.showMoreJobsLikeThis</source>

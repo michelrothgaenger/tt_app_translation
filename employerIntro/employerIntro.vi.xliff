@@ -1,169 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>For Employers</target>
+        <target state="translated">Đối với người sử dụng lao</target>
       </trans-unit>
-      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage">
+      <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
-        <target></target>
+        <target state="translated">Tìm các ứng viên tương lai cho công ty của bạn</target>
       </trans-unit>
       <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline">
+      <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
-        <target>Acquire top talent in logistics and transportation</target>
+        <target state="translated">Hãy có được tài năng hàng đầu trong kho vận</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="no">
         <source>app.introductionSourcingDesc</source>
-        <target>Register now to gain immediate access to a pool of select candidates</target>
+        <target state="needs-translation">Đăng ký ngay bây giờ để truy cập vào kho ứng viên của chúng tôi.</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target>Register now - it's free</target>
+        <target state="translated">Đăng ký ngay - miễn phí</target>
       </trans-unit>
-      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn">
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="no">
         <source>app.readOn</source>
-        <target>Read on.</target>
+        <target state="needs-translation">Đọc tiếp</target>
       </trans-unit>
-      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2">
+      <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2" approved="yes">
         <source>app.introductionForWhoHeadline2</source>
-        <target>Who is Transport Talent for?</target>
+        <target state="translated">Transport Talent dành cho ai?</target>
       </trans-unit>
-      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline">
+      <trans-unit id="5df8ebfb23af1191c20c5a79d2a4a14a" resname="app.introductionForWhoItemHrManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHrManagersHeadline</source>
-        <target>Business Leaders</target>
+        <target state="translated">Đội ngũ lãnh đạo</target>
       </trans-unit>
-      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc">
+      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHrManagersDesc</source>
-        <target>trying to fill a position and who would benefit greatly from an industry specialist, reaching out to top candidates on their behalf.</target>
+        <target state="translated">Muốn có một vị trí quan trọng và mong muốn giao việc tìm kiếm cho một nhà tuyển dụng kinh nghiệm trong nghành</target>
       </trans-unit>
-      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline">
+      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="no">
         <source>app.introductionForWhoItemHiringManagersHeadline</source>
-        <target>HR Managers</target>
+        <target state="needs-translation">Phụ trách nhân sự</target>
       </trans-unit>
-      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc">
+      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHiringManagersDesc</source>
-        <target>aiming to strengthen employer branding as well as increase department productivity by reducing the time and effort allocated to sourcing candidates.</target>
+        <target state="translated">Mong muốn làm lĩnh vực của họ hiệu quả hơn bằng cách giảm thiểu thời gian cho việc tìm kiếm ứng viên.</target>
       </trans-unit>
-      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline">
+      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="no">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
-        <target>In-house Recruiters</target>
+        <target state="needs-translation">Tuyển dụng nội bộ</target>
       </trans-unit>
-      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc">
+      <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc" approved="yes">
         <source>app.introductionForWhoItemRecruitersDesc</source>
-        <target>interested in streamlining the recruitment process by gaining access to a list of top candidates that meet specific requirements.</target>
+        <target state="translated">có nhu cầu tăng tốc qúa trình tuyển chọn thông qua việc lựa chọn trước các ứng viên phù hợp.</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Contact us</target>
+        <target state="translated">Liên hệ với chúng tôi</target>
       </trans-unit>
-      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline">
+      <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline" approved="yes">
         <source>app.introductionWhoWeAreHeadline</source>
-        <target>Who We Are</target>
+        <target state="translated">Chúng tôi là ai</target>
       </trans-unit>
-      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc">
+      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="no">
         <source>app.introductionWhoWeAreDesc</source>
-        <target>We are a team of business and hr executives turned recruiters, with years of experience at some of the world's most successful logistics and shipping companies. We have seen first‑hand the advantage that companies have with a targeted and effective sourcing and recruitment process. As a result, our goal is to make this available for all companies in the industry, regardless of their size.</target>
+        <target state="needs-translation">Chúng tôi là một đội ngũ những người đã từng quản lý điều hành, quản lý nhân sự và trở thành các nhà tuyển dụng độc lập. Từ kinh nghiệm có được trong khoảng thời gian làm cho một số công ty kho vận thành công nhất trên thế giới, chúng tôi biết sự lựa chọn cẩn thận về nhân sự có thể ảnh hưởng to lớn đến thế nào tới  khả năng cạnh tranh của một công ty. Với Transport Talent chúng tôi muốn cung cấp cho tất cả các công ty trong lĩnh vực kho vận cơ hội này, bất kể kích thước và vị trí trên thị trường.</target>
       </trans-unit>
-      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline">
+      <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>
-        <target>How we are different</target>
+        <target state="translated">Tại sao chúng tôi khác biệt</target>
       </trans-unit>
-      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc">
+      <trans-unit id="60c82f28c3f811c602c534fc09296a13" resname="app.introductionHowWeAreDifferentDesc" approved="yes">
         <source>app.introductionHowWeAreDifferentDesc</source>
-        <target>Read our 6 very good reasons</target>
+        <target state="translated">Hãy đọc 6 lý do cơ bản</target>
       </trans-unit>
-      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline">
+      <trans-unit id="8b414d6f33f54538138f53905583543a" resname="app.introductionHowWeAreDifferentItem1Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Headline</source>
-        <target>A talent network of industry specialists</target>
+        <target state="translated">Một mạng lưới ứng cử viên với các chuyên gia</target>
       </trans-unit>
-      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc">
+      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem1Desc</source>
-        <target>We have a curated and rapidly growing network of professionals in the logistics and transport industry who are passively seeking opportunities. Our in-depth member profiles allow us to target the right people for your role.</target>
+        <target state="translated">Chúng tôi cung cấp một mạng lưới được kiểm tra cẩn thận và mở rộng nhanh chóng với các chuyên gia từ lĩnh vực kho vận với việc tìm kiếm việc làm thụ động. Căn cứ vào hồ sơ người sử dụng trang mạng với sự phối hợp một cách chính xác của chúng tôi, chúng tôi tìm thấy những ứng cử viên phù hợp cho Ngài.</target>
       </trans-unit>
-      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline">
+      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="no">
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
-        <target><![CDATA[Entry & mid-level roles]]></target>
+        <target state="needs-translation">Chúng tôi tập trung vào những người mới vào nghề và lực lượng lao động có chuyên môn.</target>
       </trans-unit>
-      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc">
+      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Desc</source>
-        <target>Unlike most recruitment companies in our niche, we specialize in attracting the younger talents with 1 to 10 years of working experience, but are of course equally interested in forming relationships with the more senior professionals.</target>
+        <target state="translated">Không giống như các công ty tuyển dụng khác cùng mục đích với chúng tôi, chúng tôi tập trung chủ yếu vào các ứng cử viên trẻ với kinh nghiệm chuyên môn 1-10 năm. Tất nhiên ngoài ra chúng tôi cũng kết nối với các ứng viên có kinh nghiệm hơn.</target>
       </trans-unit>
-      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline">
+      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Headline</source>
-        <target>Transparent pricing models</target>
+        <target state="translated">Giá cả minh bạch</target>
       </trans-unit>
-      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc">
+      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Desc</source>
-        <target>With our fixed fees you will always know exactly what to expect. We have created a pricing structure that is simple and scalable and can meet your needs whether you are a small or medium sized company or a multinational group with a global footprint.</target>
+        <target state="translated">Với chi phí cố định của chúng tôi, Ngài sẽ luôn luôn biết chính xác những gì mong đợi. Chúng tôi đã tạo ra một cấu trúc giá cả đáp ứng được mọi quy mô doanh nghiệp.</target>
       </trans-unit>
-      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline">
+      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Headline</source>
-        <target>Focus on logistics</target>
+        <target state="translated">Tập trung vào kho vận</target>
       </trans-unit>
-      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc">
+      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Desc</source>
-        <target>We have made a strategic decision to focus entirely on recruitment of logistics and transport professionals. We have spend our careers in logistics and believe that our knowledge and passion for the industry will enable us to do a better job for our customers.</target>
+        <target state="translated">Từ nhiều năm kinh nghiệm nghề nghiệp trong kho vận cùng nhau và chuyên môn của chúng tôi là chuyên gia tuyển dụng trong lĩnh vực, chúng tôi đã phát triển một sự quan hệ khách hàng độc đáo. Chúng tôi hiểu biết môi trường kinh doanh và biết chính xác những ứng cử viên có thể mang lại sự khác biệt trong doanh nghiệp của Ngài.</target>
       </trans-unit>
-      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline">
+      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Headline</source>
-        <target>Partnership Mentality</target>
+        <target state="translated">Tâm lý quan hệ đối tác</target>
       </trans-unit>
-      <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc">
+      <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Desc</source>
-        <target>We invest as much time as needed to understand your specific company culture and history. This enables us to have a much higher success rate when promoting your company and matching you with the right candidates.</target>
+        <target state="translated">Chúng tôi giành thời gian để tìm hiểu văn hóa và  lịch sử doanh nghiệp riêng công ty của Ngài. Bằng cách này, chúng tôi đạt được một tỷ lệ thành công cao hơn đáng kể trong việc tìm kiếm ứng cử viên.</target>
       </trans-unit>
-      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline">
+      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Headline</source>
-        <target>Flexible solutions</target>
+        <target state="translated">Các giải pháp linh hoạt</target>
       </trans-unit>
-      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc">
+      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Desc</source>
-        <target>Every client has different needs, depending on size, geographical focus or the level of involvement they need from us in the hiring process. We have build a suite of products that can meet the needs of every size and type of company and we are able to adjust our models according to your needs.</target>
+        <target state="translated">Mỗi khách hàng có nhu cầu khác nhau, tùy thuộc vào quy mô và trọng tâm địa lý hoặc mức độ tham gia trong  quá trình tuyển dụng.Từ đó chúng tôi đã phát triển một loạt các sản phẩm đáp ứng cho mọi quy mô và hình thức và cũng có thể được tùy chỉnh theo yêu cầu riêng.</target>
       </trans-unit>
-      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion">
+      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion" approved="yes">
         <source>app.doYouHaveAQuestion</source>
-        <target>Do you have a question or want to get in touch? Contact us!</target>
+        <target state="translated">Chúng tôi rất vui lòng liên hệ trực tiếp với Ngài. Hãy liên lạc với chúng tôi!</target>
       </trans-unit>
-      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices">
+      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices" approved="yes">
         <source>app.ourOffices</source>
-        <target>Our offices</target>
+        <target state="translated">Địa điểm của chúng tôi</target>
       </trans-unit>
-      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress">
+      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress" approved="yes">
         <source>app.contactPageAddress</source>
-        <target><![CDATA[<div><b>Germany:</b></div><div>Transport Talent</div><div>Bernstorfstrasse 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Denmark:</b></div><div>Transport Talent ApS</div><div>Kronprinsessegade 46E</div><div>DK-1306 Copenhagen</div>]]></target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;CHLB Đức:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Đan Mạch:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Kronprinsessegade 46E&lt;/div&gt;&lt;div&gt;DK-1306 Copenhagen&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>
-        <target>Phone</target>
+        <target state="translated">Điện thoại</target>
       </trans-unit>
-      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name">
+      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name" approved="yes">
         <source>app.name</source>
-        <target>Name</target>
+        <target state="translated">Tên</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Địa chỉ Email</target>
       </trans-unit>
-      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject">
+      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject" approved="yes">
         <source>app.subject</source>
-        <target>Subject</target>
+        <target state="translated">Chủ đề</target>
       </trans-unit>
-      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message">
+      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message" approved="yes">
         <source>app.message</source>
-        <target>Message</target>
+        <target state="translated">Thông tin</target>
       </trans-unit>
-      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send">
+      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send" approved="yes">
         <source>app.send</source>
-        <target>Send</target>
+        <target state="translated">Gửi</target>
       </trans-unit>
     </body>
   </file>

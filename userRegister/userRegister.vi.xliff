@@ -9,9 +9,9 @@
         <source>app.register</source>
         <target state="translated">Ghi danh</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Get Started</target>
+        <target state="translated">Bắt đầu</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
         <source>app.registerCta</source>

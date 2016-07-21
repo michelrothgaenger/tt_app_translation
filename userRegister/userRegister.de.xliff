@@ -9,9 +9,9 @@
         <source>app.register</source>
         <target state="translated">Registrieren</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Registrierung</target>
+        <target state="translated">Registrierung</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
         <source>app.registerCta</source>
@@ -37,9 +37,9 @@
         <source>app.signInWithFB</source>
         <target state="translated">Anmelden mit Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>oder</target>
+        <target state="translated">oder</target>
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
@@ -79,15 +79,15 @@
       </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target state="translated">Profil</target>
+        <target state="translated">Welche Qualifikationen und Kompetenzen haben Sie? Vervollständigen Sie Ihr Profil, um Unternehmen auf Sie aufmerksam zu machen.</target>
       </trans-unit>
       <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
         <source>app.services</source>
         <target>Services</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target>Jobsuche</target>
+        <target state="translated">Jobsuche</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>

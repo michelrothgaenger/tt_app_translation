@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -13,9 +13,9 @@
         <source>Containers</source>
         <target>Containers</target>
       </trans-unit>
-      <trans-unit id="aac5c73eb5a26faa1204e42ae3011ec6" resname="Contract Logistics">
+      <trans-unit id="aac5c73eb5a26faa1204e42ae3011ec6" resname="Contract Logistics" approved="yes">
         <source>Contract Logistics</source>
-        <target>Contract Logistics</target>
+        <target state="translated">Contrato Logística</target>
       </trans-unit>
       <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service">
         <source>Customer Service</source>

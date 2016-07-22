@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
-        <target state="translated">Liên hệ với chúng tôi</target>
+        <target state="translated">Liên hệ với chúng tôi - Transport Talent</target>
       </trans-unit>
       <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1" approved="yes">
         <source>app.contact.h1</source>
@@ -41,9 +41,9 @@
         <source>app.contact.section.email.thanksgiving</source>
         <target state="translated">Cảm ơn</target>
       </trans-unit>
-      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="no">
+      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
-        <target state="needs-translation">Thông tin của bạn đã được gửi. Chúng tôi sẽ liên lạc với bạn ngay.</target>
+        <target state="translated">Thông tin của Ngài đã được gửi. Chúng tôi sẽ liên lạc với Ngài ngay.</target>
       </trans-unit>
       <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>

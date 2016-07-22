@@ -5,33 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships">
+      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships" approved="yes">
         <source>Apprenticeships</source>
-        <target>Apprenticeships</target>
+        <target state="translated">Vị trí thực tập/học nghề</target>
       </trans-unit>
-      <trans-unit id="2eef1170a84a7f86287d666a2f214f34" resname="Graduates">
+      <trans-unit id="2eef1170a84a7f86287d666a2f214f34" resname="Graduates" approved="yes">
         <source>Graduates</source>
-        <target>Graduates</target>
+        <target state="translated">Đã tốt nghiệp</target>
       </trans-unit>
       <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship" approved="yes">
         <source>Internship</source>
         <target state="translated">Thực tập</target>
       </trans-unit>
-      <trans-unit id="fe4dbcab9b910577e5035e97ac068dae" resname="Management">
+      <trans-unit id="fe4dbcab9b910577e5035e97ac068dae" resname="Management" approved="yes">
         <source>Management</source>
-        <target>Management</target>
+        <target state="translated">Lực lượng quản lý</target>
       </trans-unit>
       <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
         <target state="translated">Các khóa khác</target>
       </trans-unit>
-      <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals">
+      <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals" approved="yes">
         <source>Professionals</source>
-        <target>Professionals</target>
+        <target state="translated">Có kinh nghiệm nghề nghiệp</target>
       </trans-unit>
-      <trans-unit id="aba064f896dc3eb1653c3b68b9548ef1" resname="Students">
+      <trans-unit id="aba064f896dc3eb1653c3b68b9548ef1" resname="Students" approved="yes">
         <source>Students</source>
-        <target>Students</target>
+        <target state="translated">Sinh viên</target>
       </trans-unit>
     </body>
   </file>

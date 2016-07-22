@@ -55,11 +55,11 @@
       </trans-unit>
       <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="yes">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
-        <target state="translated">Buscador de personal inhouse</target>
+        <target state="translated">Buscador de personal dentro de la empresa</target>
       </trans-unit>
       <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc" approved="yes">
         <source>app.introductionForWhoItemRecruitersDesc</source>
-        <target state="translated">Quien quiere streamlining el proceso de busqueda de personal teniendo acceso a una lista de los mejores candidatos con habilidades especificas.</target>
+        <target state="translated">Quien quiere mejorar el proceso de busqueda de personal teniendo acceso a una lista de los mejores candidatos con habilidades especificas.</target>
       </trans-unit>
       <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
         <source>app.contactUs</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="yes">
         <source>app.introductionWhoWeAreDesc</source>
-        <target state="translated">Somos un equipo de directores de negocio y de recursos humanos convertido en buscadores de personal con muchos años de experiencia en grandes empresas de logística y marítima. Hemos visto las ventajas que han tenido empresas con un buen proceso de busqueda de personal. Nuestro objetivo es hacer esto posible para todas las empresas de la indústria, no importa el tamaño.</target>
+        <target state="translated">Somos un equipo de directores de negocio y de recursos humanos convertido en buscadores de personal con muchos años de experiencia en grandes empresas de logística y marítima. Hemos visto las ventajas que han tenido empresas con un buen proceso de busqueda de personal. Nuestro objetivo es hacerlo posible para todas las empresas de la indústria, no importa el tamaño.</target>
       </trans-unit>
       <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>
@@ -93,21 +93,21 @@
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
         <target><![CDATA[Entry & mid-level roles]]></target>
       </trans-unit>
-      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc">
+      <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Desc</source>
-        <target>Unlike most recruitment companies in our niche, we specialize in attracting the younger talents with 1 to 10 years of working experience, but are of course equally interested in forming relationships with the more senior professionals.</target>
+        <target state="translated">Al contrario a otras empresas buscadoras de personal nos hemos especializado en la busqueda de talentos más jovenes. Tienen entre un año y diez de experiencia laboral pero el mismo interes que sus colegas más mayores.</target>
       </trans-unit>
-      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline">
+      <trans-unit id="7ae36adeb2683d987478ef964393be3c" resname="app.introductionHowWeAreDifferentItem3Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Headline</source>
-        <target>Transparent pricing models</target>
+        <target state="translated">Modelo de precio transparente</target>
       </trans-unit>
-      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc">
+      <trans-unit id="888cd0d42a817c25c704b857c3a69350" resname="app.introductionHowWeAreDifferentItem3Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem3Desc</source>
-        <target>With our fixed fees you will always know exactly what to expect. We have created a pricing structure that is simple and scalable and can meet your needs whether you are a small or medium sized company or a multinational group with a global footprint.</target>
+        <target state="translated">Sabrás siempre el precio exacto porque tenemos precios fijos. Tenemos una estructura simple de precios que va bien para todos los tamaños de empresas, sean pequeñas, medianas o multinacionales.</target>
       </trans-unit>
-      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline">
+      <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Headline</source>
-        <target>Focus on logistics</target>
+        <target state="translated">Focus a la logística</target>
       </trans-unit>
       <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc">
         <source>app.introductionHowWeAreDifferentItem4Desc</source>

@@ -85,9 +85,9 @@
         <source>app.services</source>
         <target>Services</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target>Jobsuche</target>
+        <target state="translated">Jobsuche</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>

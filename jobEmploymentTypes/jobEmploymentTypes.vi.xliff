@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
@@ -21,9 +21,9 @@
         <source>Management</source>
         <target>Management</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other">
+      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
-        <target>Other</target>
+        <target state="translated">Các khóa khác</target>
       </trans-unit>
       <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals">
         <source>Professionals</source>

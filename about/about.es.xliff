@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -9,13 +9,13 @@
         <source>app.about.meta.title</source>
         <target>Información sobre nosotros</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>
-        <target></target>
+        <target state="translated">Somos un grupo internacional de expertos en el sector de  logística y transporte. Quién está detrás del nuevo sistema de busqueda de personal? Somos el equipo de Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords">
+      <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>
-        <target></target>
+        <target state="translated">Equipo, miembros de personal, empleados, personal, buscadores de personal, fundador, StartUp, información, trasfondo, detalles, sucursal, oficina, Hamburgo, Copenhague,  Dinamarca, Alemañia, visión, misión, metas, objetivos, logística, transporte, compañia de transportes</target>
       </trans-unit>
       <trans-unit id="f483b2670e86ec26024d7c0dd66dac39" resname="app.about.h1">
         <source>app.about.h1</source>

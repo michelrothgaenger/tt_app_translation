@@ -1,61 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="97b1090daad4eb828bc400466f07a6ef" resname="Air Freight">
+      <trans-unit id="97b1090daad4eb828bc400466f07a6ef" resname="Air Freight" approved="yes">
         <source>Air Freight</source>
-        <target>Air Freight</target>
+        <target state="translated">Hàng máy bay</target>
       </trans-unit>
-      <trans-unit id="f5cd8cef2bae5bd87d744c3355713c2e" resname="Customs">
+      <trans-unit id="f5cd8cef2bae5bd87d744c3355713c2e" resname="Customs" approved="yes">
         <source>Customs</source>
-        <target>Customs</target>
+        <target state="translated">Thủ tục hải quan</target>
       </trans-unit>
-      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance">
+      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
         <source>Finance</source>
-        <target>Finance</target>
+        <target state="translated">Tài chính</target>
       </trans-unit>
-      <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR">
+      <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR" approved="yes">
         <source>HR</source>
-        <target>HR</target>
+        <target state="translated">Lĩnh vực nhân sự</target>
       </trans-unit>
-      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship">
+      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship" approved="yes">
         <source>Internship</source>
-        <target>Internship</target>
+        <target state="translated">Thực tập</target>
       </trans-unit>
-      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT">
+      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT" approved="yes">
         <source>IT</source>
-        <target>IT</target>
+        <target state="translated">Máy tính</target>
       </trans-unit>
-      <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight">
+      <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight" approved="yes">
         <source>Ocean Freight</source>
-        <target>Ocean Freight</target>
+        <target state="translated">Hàng biển</target>
       </trans-unit>
-      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations">
+      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="yes">
         <source>Operations</source>
-        <target>Operations</target>
+        <target state="translated">Thực hiện</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other">
+      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
-        <target>Other</target>
+        <target state="translated">Các khóa khác</target>
       </trans-unit>
-      <trans-unit id="341de7c5b5006b4328bf18126a054d2c" resname="Rail Freight">
+      <trans-unit id="341de7c5b5006b4328bf18126a054d2c" resname="Rail Freight" approved="yes">
         <source>Rail Freight</source>
-        <target>Rail Freight</target>
+        <target state="translated">Hàng đường sắt</target>
       </trans-unit>
-      <trans-unit id="709ac65db4d2470aefb410dabab65a23" resname="Road Freight">
+      <trans-unit id="709ac65db4d2470aefb410dabab65a23" resname="Road Freight" approved="yes">
         <source>Road Freight</source>
-        <target>Road Freight</target>
+        <target state="translated">Hàng đường bộ</target>
       </trans-unit>
-      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing">
+      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>
-        <target><![CDATA[Sales & Marketing]]></target>
+        <target state="translated">Bán lẻ và Marketing</target>
       </trans-unit>
-      <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain">
+      <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain" approved="yes">
         <source>Supply Chain</source>
-        <target>Supply Chain</target>
+        <target state="translated">Chuỗi cung ứng</target>
       </trans-unit>
     </body>
   </file>

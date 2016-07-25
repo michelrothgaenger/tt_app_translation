@@ -13,9 +13,9 @@
         <source>app.metaDescriptionForEmployersPage</source>
         <target state="translated">Tìm các ứng viên tương lai cho công ty của bạn</target>
       </trans-unit>
-      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage">
+      <trans-unit id="b43ab81b85ec2761148fb020afdb2750" resname="app.metaKeywordsForEmployersPage" approved="yes">
         <source>app.metaKeywordsForEmployersPage</source>
-        <target/>
+        <target state="translated">Ứng viên, nhân sự, kết nối, vận tải, kho vận, vận tải biển vận tải hàng không, tuyển dụng, nhân lực, ứng viên, tìm kiếm, săn nhân sự, thụ động, việc làm</target>
       </trans-unit>
       <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
@@ -41,17 +41,17 @@
         <source>app.introductionForWhoItemHrManagersHeadline</source>
         <target state="translated">Đội ngũ lãnh đạo</target>
       </trans-unit>
-      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc" approved="no">
+      <trans-unit id="36f368d56a2329c9e67837e04e3c16ad" resname="app.introductionForWhoItemHrManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHrManagersDesc</source>
-        <target state="needs-translation">muốn có một vị trí quan trọng và mong muốn giao việc tìm kiếm cho một nhà tuyển dụng kinh nghiệm trong nghành</target>
+        <target state="translated">Muốn có một vị trí quan trọng và mong muốn giao việc tìm kiếm cho một nhà tuyển dụng kinh nghiệm trong nghành</target>
       </trans-unit>
       <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="no">
         <source>app.introductionForWhoItemHiringManagersHeadline</source>
         <target state="needs-translation">Phụ trách nhân sự</target>
       </trans-unit>
-      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="no">
+      <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHiringManagersDesc</source>
-        <target state="needs-translation">mong muốn làm lĩnh vực của họ hiệu quả hơn bằng cách giảm thiểu thời gian cho việc tìm kiếm ứng viên.</target>
+        <target state="translated">Mong muốn làm lĩnh vực của họ hiệu quả hơn bằng cách giảm thiểu thời gian cho việc tìm kiếm ứng viên.</target>
       </trans-unit>
       <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="no">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
@@ -69,9 +69,9 @@
         <source>app.introductionWhoWeAreHeadline</source>
         <target state="translated">Chúng tôi là ai</target>
       </trans-unit>
-      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="no">
+      <trans-unit id="2f0142d4231616c03a4ed256c02957ad" resname="app.introductionWhoWeAreDesc" approved="yes">
         <source>app.introductionWhoWeAreDesc</source>
-        <target state="needs-translation">Chúng tôi là một đội ngũ những người đã từng quản lý điều hành, quản lý nhân sự và trở thành các nhà tuyển dụng độc lập. Từ kinh nghiệm có được trong khoảng thời gian làm cho một số công ty kho vận thành công nhất trên thế giới, chúng tôi biết sự lựa chọn cẩn thận về nhân sự có thể ảnh hưởng to lớn đến thế nào tới  khả năng cạnh tranh của một công ty. Với Transport Talent chúng tôi muốn cung cấp cho tất cả các công ty trong lĩnh vực kho vận cơ hội này, bất kể kích thước và vị trí trên thị trường.</target>
+        <target state="translated">Chúng tôi là một đội ngũ những người đã từng quản lý điều hành, quản lý nhân sự và trở thành các nhà tuyển dụng độc lập. Từ kinh nghiệm có được trong khoảng thời gian làm cho một số công ty kho vận thành công nhất trên thế giới, chúng tôi biết sự lựa chọn cẩn thận về nhân sự có thể ảnh hưởng to lớn đến thế nào tới  khả năng cạnh tranh của một công ty. Với Transport Talent chúng tôi muốn cung cấp cho tất cả các công ty trong lĩnh vực kho vận cơ hội này, bất kể quy mô và vị trí trên thị trường.</target>
       </trans-unit>
       <trans-unit id="1db09a4dc0a3064fe60f2403c579fefc" resname="app.introductionHowWeAreDifferentHeadline" approved="yes">
         <source>app.introductionHowWeAreDifferentHeadline</source>

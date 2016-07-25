@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies">
+      <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies" approved="yes">
         <source>app.companies</source>
-        <target>Companies</target>
+        <target state="translated">Hãy tìm các công ty kho vận</target>
       </trans-unit>
       <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
@@ -17,41 +17,41 @@
         <source>app.companyProfiles</source>
         <target state="translated">Làm quen với doanh nghiệp</target>
       </trans-unit>
-      <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta">
+      <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta" approved="yes">
         <source>app.employersPageSearchCta</source>
-        <target>Narrow your search results by using the filters.</target>
+        <target state="translated">Tìm nhà sử dụng lao động tiếp theo của? &lt;br&gt; Hãy sử dụng bộ lọc cho một kết quả tốt hơn</target>
       </trans-unit>
-      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch">
+      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch" approved="yes">
         <source>app.yourSearch</source>
-        <target>What</target>
+        <target state="translated">Gì vậy</target>
       </trans-unit>
-      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company">
+      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company" approved="yes">
         <source>app.e.g.Company</source>
-        <target>e.g. Company</target>
+        <target state="translated">ví dụ Công ty</target>
       </trans-unit>
-      <trans-unit id="37182ed3c37c4adbdfbbfabe074381e2" resname="app.allCountries">
+      <trans-unit id="37182ed3c37c4adbdfbbfabe074381e2" resname="app.allCountries" approved="yes">
         <source>app.allCountries</source>
-        <target>All countries</target>
+        <target state="translated">Tất cả các nước</target>
       </trans-unit>
-      <trans-unit id="c566b121d3f8c1dfd7232c61c845d9aa" resname="app.allIndustries">
+      <trans-unit id="c566b121d3f8c1dfd7232c61c845d9aa" resname="app.allIndustries" approved="yes">
         <source>app.allIndustries</source>
-        <target>All industries</target>
+        <target state="translated">Tất cả các lĩnh vực</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
         <target state="translated">Tìm kiếm</target>
       </trans-unit>
-      <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies">
+      <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies" approved="yes">
         <source>app.browseCompanies</source>
-        <target>Companies that match your search</target>
+        <target state="translated">Tìm kiếm các công ty</target>
       </trans-unit>
-      <trans-unit id="3905407ab4918c976f6407c8d3bcbbd6" resname="app.jobsListed">
+      <trans-unit id="3905407ab4918c976f6407c8d3bcbbd6" resname="app.jobsListed" approved="yes">
         <source>app.jobsListed</source>
-        <target>Jobs listed</target>
+        <target state="translated">Công việc có sẵn</target>
       </trans-unit>
-      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices">
+      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices" approved="yes">
         <source>app.offices</source>
-        <target>Offices</target>
+        <target state="translated">Địa điểm</target>
       </trans-unit>
       <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
@@ -69,13 +69,13 @@
         <source>app.website</source>
         <target state="translated">Trang mạng</target>
       </trans-unit>
-      <trans-unit id="1a143d4a4afb8bc46fa9fbbdad2498d2" resname="app.findOutMore">
+      <trans-unit id="1a143d4a4afb8bc46fa9fbbdad2498d2" resname="app.findOutMore" approved="yes">
         <source>app.findOutMore</source>
-        <target>Find out more</target>
+        <target state="translated">Tìm hiểu thêm</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
+      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound" approved="yes">
         <source>app.noCompaniesFound</source>
-        <target>No companies found</target>
+        <target state="translated">Không tìm thấy doanh nghiệp</target>
       </trans-unit>
     </body>
   </file>

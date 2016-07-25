@@ -5,33 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
-        <target>Dieses Angebot ist leider abgelaufen</target>
+        <target state="translated">Transport Talent – Stellenanzeige abgelaufen</target>
       </trans-unit>
-      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
+      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
-        <target/>
+        <target state="translated">Die gesuchte Stellenanzeige ist nicht mehr aktiv. Speichern Sie Stellenanzeigen in Ihrem Profil auf Transport Talent, um diese auch später noch einsehen zu können.</target>
       </trans-unit>
-      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
+      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage" approved="yes">
         <source>app.metaKeywordsExpiredPage</source>
-        <target/>
+        <target state="translated">Ausschreibung,Stelle,Position,Bewerbung,inaktiv,abgelaufen,Frist,speichern,Anzeige,Zugriff,verfügbar,nachträglich,Nachhinein,später,offline,Vorbereitung,Gespräch,Interview,Transport,Logistik,Spedition</target>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
-        <target><![CDATA[Entschuldigung, das gesuchte Angebot wurden bereits aus der Datenbank entfernt.<br>Nachstehend haben wir ähnliche Angebote aufgelistet.<br><br>Gerne informieren wir Sie über passende Stellen.<br>Melden Sie sich hierzu einfach für unseren Newsletter an.]]></target>
+        <target state="translated">Entschuldigung, diese Stellenanzeige wurde deaktiviert. Speichern Sie interessante Anzeigen in Ihrem Profil ab, um auch später noch Zugriff darauf zu haben.&lt;br&gt;Nachstehend haben wir ähnliche Angebote für Sie aufgelistet.&lt;br&gt;&lt;br&gt;Gerne informieren wir Sie auch per E-Mail über passende Stellen.&lt;br&gt;Melden Sie sich hierzu einfach für unseren Newsletter an.</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target state="translated">Jetzt kostenlos registrieren</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
-        <target>Nach ähnlichen Jobs suchen</target>
+        <target state="translated">Nach ähnlichen Jobs suchen</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
-        <target>Ähnliche Jobs ansehen</target>
+        <target state="translated">Ähnliche Jobs ansehen</target>
       </trans-unit>
     </body>
   </file>

@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
-        <target/>
+        <target state="translated">Hãy để cập nhật mạng lưới của chúng tôi và Ngài hãy tìm thấy những công việc tốt nhất trong lĩnh vực kho vận thông qua Transport Talent</target>
       </trans-unit>
-      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage" approved="yes">
         <source>app.metaKeywordsIndexPage</source>
-        <target/>
+        <target state="translated">Sự nghiệp, công việc, vị trí, giao dịch, mạng lưới, kho dữ liệu, vận tải, kho vận, vận tải đường dài, vận tải biển, vận tải đường không, nhân sự, kết nối, tìm kiếm nhân sự</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="no">
         <source>app.theFastestWayToFindNewJobIn</source>

@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile" approved="yes">
         <source>app.companyProfile</source>
-        <target>Company profile</target>
+        <target state="translated">Hồ sơ công ty</target>
       </trans-unit>
-      <trans-unit id="00322fca4a075e2cd3dcc4f2b2dd54c8" resname="app.metaKeywordsEmployerPage">
+      <trans-unit id="00322fca4a075e2cd3dcc4f2b2dd54c8" resname="app.metaKeywordsEmployerPage" approved="yes">
         <source>app.metaKeywordsEmployerPage</source>
-        <target></target>
+        <target state="translated">Kho vận, vận tải, chủ lao động, doanh nghiệp, công ty, tập đoàn, nhà máy, hồ sơ, thông tin, tìm kiếm, tóm tắt</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Search</target>
+        <target state="translated">Tìm kiếm</target>
       </trans-unit>
-      <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword">
+      <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword" approved="yes">
         <source>app.keyword</source>
-        <target>Keyword</target>
+        <target state="translated">Chủ đề</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation">
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
         <source>app.employerInformation</source>
-        <target>Employer information</target>
+        <target state="translated">Thông tin người sử dụng lao động</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
+      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
-        <target>Number of employees</target>
+        <target state="translated">Số lượng nhân viên</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>employees</target>
+        <target state="translated">Nhân viên</target>
       </trans-unit>
-      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
+      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable" approved="yes">
         <source>app.notAvailable</source>
-        <target>Not available</target>
+        <target state="translated">Không có</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>
-        <target>Headquarter</target>
+        <target state="translated">Trụ sở chính</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
+      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
-        <target>Offices/Countries</target>
+        <target state="translated">Địa điểm / Nước</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
-        <target>Main Activities</target>
+        <target state="translated">Trọng tâm</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Website</target>
+        <target state="translated">Trang mạng</target>
       </trans-unit>
-      <trans-unit id="c088a1e74f8b4ebe5056929b500cae53" resname="app.currentJobOffers">
+      <trans-unit id="c088a1e74f8b4ebe5056929b500cae53" resname="app.currentJobOffers" approved="yes">
         <source>app.currentJobOffers</source>
-        <target>Current job offers</target>
+        <target state="translated">Việc làm hiện có</target>
       </trans-unit>
-      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office">
+      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office" approved="yes">
         <source>app.office</source>
-        <target>Office</target>
+        <target state="translated">Địa điểm</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target></target>
+        <target state="translated">Lĩnh vực làm việc</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
+      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="yes">
         <source>app.noCompanyDescription</source>
-        <target>Company description unavailable</target>
+        <target state="translated">Hồ sơ công ty không có sẵn</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target>Save to profile page</target>
+        <target state="translated">Lưu hồ sơ của tôi</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile">
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile" approved="yes">
         <source>app.goToNextCompanyProfile</source>
-        <target>Go to next company profile</target>
+        <target state="translated">Xem hồ sơ doanh nghiệp tiếp theo</target>
       </trans-unit>
     </body>
   </file>

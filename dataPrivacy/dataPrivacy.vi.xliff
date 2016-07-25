@@ -9,13 +9,13 @@
         <source>app.privacyPolicy</source>
         <target state="translated">Bảo mật</target>
       </trans-unit>
-      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="no">
+      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target state="needs-translation">Khi bạn đăng nhập Transport Talent chúng tôi đảm bảo rằng dữ liệu của bạn được an toàn.</target>
+        <target state="translated">Transport Talent tôn trọng bí mật dữ liệu . Chúng tôi đảm bảo sự an toàn của dữ liệu của Ngài khi bạn đăng nhập Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="2b459d7b12eb3214bc3f39f38649886a" resname="app.metaKeywordsPrivacyPolicyPage">
+      <trans-unit id="2b459d7b12eb3214bc3f39f38649886a" resname="app.metaKeywordsPrivacyPolicyPage" approved="yes">
         <source>app.metaKeywordsPrivacyPolicyPage</source>
-        <target state="needs-translation"/>
+        <target state="translated">Dữ liệu, bảo mật, đảm bảo, bí mật, quảng cáo mã hóa, thuộc về cá nhân, cá nhân, sử dụng, thu thập, chính sách, phổ biến, thông tin, tập tin</target>
       </trans-unit>
       <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="yes">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
@@ -33,9 +33,9 @@
         <source>app.theInformationGatheredMayBeUsedByTransportTalent</source>
         <target state="translated">Các thông tin thu thập được có thể được Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS, nghĩa là có cùng một công ty mẹ sử dụng trong nội bộ liên quan đến sử dụng trang mạng, các dịch vụ tương tác và cho mục đích tiếp thị hoặc chuyển tiếp cho bên thứ ba, những công ty đã được chọn lựa kỹ càng, cho cùng mục đích. Với mục đích tiếp thị chúng tôi sử dụng phương pháp quảng cáo truyền thông trực tiếp tới từng cá nhân cụ thể thông qua email, thư tín hoặc điện thoại. Trường hợp các Ngài không muốn hoặc không muốn tiếp tục nhận quảng cáo của Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS, xin vui lòng kích hoạt vào ô thích hợp khi đăng ký hoặc gửi email cho chúng tôi. Sau này khi quyết định không nhận quảng cáo của Transport Talent ApS và các công ty cùng tập đoàn với Transport Talent ApS hoặc việc chuyển giao thông tin cho bên thứ ba, những công ty đã được chọn lựa kỹ càng, xin vui lòng cũng thông báo với chúng tôi qua email.</target>
       </trans-unit>
-      <trans-unit id="d74771b3aa054d730d6470c49cfe8155" resname="app.otherThanAsSetOutElsewhereInThisClause" approved="no">
+      <trans-unit id="d74771b3aa054d730d6470c49cfe8155" resname="app.otherThanAsSetOutElsewhereInThisClause" approved="yes">
         <source>app.otherThanAsSetOutElsewhereInThisClause</source>
-        <target state="needs-translation">Chúng tôi không sử dụng thông tin của các Ngài và cũng không chuyển tiếp ngoài mục đích nêu trong mục 5. Các Ngài đồng ý với các điều kiện nêu tại  khoản 5 bằng cách chấp nhận các điều khoản sử dụng này</target>
+        <target state="translated">Chúng tôi không sử dụng thông tin của các Ngài và cũng không chuyển tiếp ngoài mục đích nêu trong điều khoản 5. Các Ngài đồng ý với các điều kiện nêu tại điều  khoản 5 bằng cách chấp nhận các điều kiện sử dụng này.</target>
       </trans-unit>
       <trans-unit id="8d3679be599b340c8b91b5175127695a" resname="app.whatThisPrivacyPolicyCovers" approved="yes">
         <source>app.whatThisPrivacyPolicyCovers</source>

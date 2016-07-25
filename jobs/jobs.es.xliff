@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -13,9 +13,9 @@
         <source>app.for</source>
         <target>for</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target>in</target>
+        <target state="translated">en</target>
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
         <source>app.jobSearch</source>

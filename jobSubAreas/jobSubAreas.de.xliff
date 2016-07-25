@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight">
+      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
         <source>Airfreight</source>
-        <target>Airfreight</target>
+        <target state="translated">Luftfracht</target>
       </trans-unit>
       <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service">
         <source>Customer Service</source>
@@ -21,21 +21,21 @@
         <source>Equipment</source>
         <target>Equipment</target>
       </trans-unit>
-      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance">
+      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
         <source>Finance</source>
-        <target>Finanzwesen</target>
+        <target state="translated">Finanzwesen</target>
       </trans-unit>
-      <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR">
+      <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR" approved="yes">
         <source>HR</source>
-        <target>HR</target>
+        <target state="translated">Personalbereich</target>
       </trans-unit>
       <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal">
         <source>Intermodal</source>
         <target>Intermodal</target>
       </trans-unit>
-      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT">
+      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT" approved="yes">
         <source>IT</source>
-        <target>IT</target>
+        <target state="translated">IT</target>
       </trans-unit>
       <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance">
         <source>Legal &amp; Insurance</source>
@@ -45,13 +45,13 @@
         <source>Oceanfreight / Seafreight</source>
         <target>Oceanfreight / Seafreight</target>
       </trans-unit>
-      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations">
+      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="yes">
         <source>Operations</source>
-        <target>Operations</target>
+        <target state="translated">Operative</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other">
+      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
-        <target>Sonstige</target>
+        <target state="translated">Sonstige</target>
       </trans-unit>
       <trans-unit id="8bab773ff663833b38f34cd38c401576" resname="Procurement">
         <source>Procurement</source>
@@ -73,9 +73,9 @@
         <source>Road</source>
         <target>Road</target>
       </trans-unit>
-      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing">
+      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>
-        <target><![CDATA[Vertrieb & Marketing]]></target>
+        <target state="translated"><![CDATA[Vertrieb & Marketing]]></target>
       </trans-unit>
       <trans-unit id="23eaa8f0a4e2347d004e55044dbcd664" resname="Supply Chain Solutions">
         <source>Supply Chain Solutions</source>

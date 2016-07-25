@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName">
+      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName" approved="yes">
         <source>app.metaForSocialsSiteName</source>
-        <target>Transport Talent</target>
+        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle">
+      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
-        <target>Transport Talent</target>
+        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription">
+      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
-        <target>Transport Talent</target>
+        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
-      <trans-unit id="008e5d2b7c3475c4c13ce7d06e8d69f6" resname="app.metaKeywordsBase">
+      <trans-unit id="008e5d2b7c3475c4c13ce7d06e8d69f6" resname="app.metaKeywordsBase" approved="yes">
         <source>app.metaKeywordsBase</source>
-        <target></target>
+        <target state="translated">Vận tải, kho vận, vận tải đường dài, đường thủy, đường không, tuyển dụng, đại diện, tìm kiếm, nhân sự, kết nối, lực lượng lao động, người tìm việc, ứng viên, tài năng, công việc, vị trí</target>
       </trans-unit>
-      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase">
+      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase" approved="yes">
         <source>app.metaDescriptionBase</source>
-        <target></target>
+        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText">
+      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
-        <target>We use cookies on our website.</target>
+        <target state="translated">Chúng tôi sử dụng các tập dữ liệu trên trang mạng của mình</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage">
+      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
-        <target>We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our website. If you continue we'll assume that you are happy to receive all cookies on our website.</target>
+        <target state="translated">Chúng tôi sử dụng các tập dữ liệu để phục vụ tốt hơn trải nghiệm sử dụng của Ngài trên trang web này. Điều này bao gồm các tập tin cookie của bên thứ ba ví dụ khi Ngài truy cập một trang với nội dung lấy từ các mạng xã hội. Những cookie của bên thứ ba có thể ghi lại việc sử dụng trang web của chúng tôi. Nếu Ngài tiếp tục, chúng tôi sẽ cho rằng Ngài đồng ý nhận cookie từ trang web của chúng tôi.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText">
+      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
-        <target>Read more about cookies and our cookie policy here.</target>
+        <target state="translated">Tìm hiểu thêm về cookie và quy định của chúng tôi.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton">
+      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
-        <target>Close</target>
+        <target state="translated">Đóng</target>
       </trans-unit>
     </body>
   </file>

@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+
       <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title">
         <source>app.job.meta.title</source>
         <target>Job</target>
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
         <source>app.job.meta.description</source>
-        <target>Job</target>
+        <target></target>
       </trans-unit>
       <trans-unit id="3102e3a435fdb9cce55c9f7fb36c267b" resname="app.job.meta.keywords">
         <source>app.job.meta.keywords</source>
@@ -169,9 +170,9 @@
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target>Cancel</target>
       </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">
+      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
         <source>app.jobSavedMsg</source>
-        <target></target>
+        <target state="translated">Job saved to profile</target>
       </trans-unit>
       <trans-unit id="2baae59c22544d538839b3b781263a0c" resname="app.job.section.popup.headTitle">
         <source>app.job.section.popup.headTitle</source>

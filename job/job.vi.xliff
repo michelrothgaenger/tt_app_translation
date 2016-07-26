@@ -9,9 +9,9 @@
         <source>app.job</source>
         <target state="translated">Quảng cáo việc làm</target>
       </trans-unit>
-      <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage">
+      <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage" approved="yes">
         <source>app.metaKeywordsJobsPage</source>
-        <target/>
+        <target state="translated">Sự nghiệp, việc làm, vị trí, chức danh, vận tải, kho vận, vận tải đường dài, vận tải biển, vận tải hàng không, đơn xin việc, ứng viên, tìm kiếm, quảng cáo, đăng tin, yêu cầu</target>
       </trans-unit>
       <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden" approved="yes">
         <source>app.thisJobIsHidden</source>
@@ -113,9 +113,9 @@
         <source>app.apply</source>
         <target state="translated">Để kết nối</target>
       </trans-unit>
-      <trans-unit id="412d1bcebfc3d4ddde2e8e5492ea27f8" resname="app.id">
+      <trans-unit id="412d1bcebfc3d4ddde2e8e5492ea27f8" resname="app.id" approved="yes">
         <source>app.id</source>
-        <target/>
+        <target state="translated">.</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
@@ -135,7 +135,7 @@
       </trans-unit>
       <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
-        <target state="translated">Tải dữ liệu</target>
+        <target state="translated">Tải dữ liệu!</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
@@ -145,9 +145,9 @@
         <source>app.cancel</source>
         <target state="translated">Hủy</target>
       </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">
+      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
         <source>app.jobSavedMsg</source>
-        <target/>
+        <target state="translated">.</target>
       </trans-unit>
     </body>
   </file>

@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="12777f05d225fdc293a6183baf2c915a" resname="app.job">
+      <trans-unit id="12777f05d225fdc293a6183baf2c915a" resname="app.job" approved="yes">
         <source>app.job</source>
-        <target>Job</target>
+        <target state="translated">Job</target>
       </trans-unit>
       <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage">
         <source>app.metaKeywordsJobsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden">
+      <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden" approved="yes">
         <source>app.thisJobIsHidden</source>
-        <target>This job is hidden!</target>
+        <target state="translated">This job is hidden!</target>
       </trans-unit>
-      <trans-unit id="efbb14f209547d6e36075ce8810480bb" resname="app.backToResults">
+      <trans-unit id="efbb14f209547d6e36075ce8810480bb" resname="app.backToResults" approved="yes">
         <source>app.backToResults</source>
-        <target>Back to results</target>
+        <target state="translated">Back to results</target>
       </trans-unit>
-      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted">
+      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted" approved="yes">
         <source>app.posted</source>
-        <target>Posted</target>
+        <target state="translated">Posted</target>
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile">
         <source>app.jobSavedToProfile</source>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="412d1bcebfc3d4ddde2e8e5492ea27f8" resname="app.id">
         <source>app.id</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
         <source>app.signInWithLinkedIn</source>
@@ -145,9 +145,9 @@
         <source>app.cancel</source>
         <target>Cancel</target>
       </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">
+      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
         <source>app.jobSavedMsg</source>
-        <target></target>
+        <target state="translated">Job saved to profile</target>
       </trans-unit>
     </body>
   </file>

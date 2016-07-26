@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="uk-UA" target-language="en" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="ca97369b19c64a178a9ac6cdddff0d90" resname="app.job.section.popup.agreementSecondPart">
         <source>app.job.section.popup.agreementSecondPart</source>
-        <target>terms & conditions</target>
+        <target>terms &amp; conditions</target>
       </trans-unit>
       <trans-unit id="6c3a179fa5ba45b7b34b918722b52725" resname="app.section.popup.registrationLinkTitle">
         <source>app.section.popup.registrationLinkTitle</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="289094d739b74d7ea253b2e59d71816d" resname="app.job.section.popup.section.page2.sendButtonTitle">
         <source>app.job.section.popup.section.page2.sendButtonTitle</source>
-        <target>Send & apply now</target>
+        <target>Send &amp; apply now</target>
       </trans-unit>
       <trans-unit id="5c412ac2a7d04fdfabe5265884eba3cd" resname="app.job.section.popup.section.page3.title">
         <source>app.job.section.popup.section.page3.title</source>

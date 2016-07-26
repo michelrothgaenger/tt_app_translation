@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="no">
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
-        <target state="needs-translation">Công việc này đã hết</target>
+        <target state="translated">Transport Talent – Công việc này đã hết</target>
       </trans-unit>
       <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>

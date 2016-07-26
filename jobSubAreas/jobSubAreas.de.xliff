@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight">
+      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
         <source>Airfreight</source>
-        <target>Airfreight</target>
+        <target state="translated">Luftfracht</target>
       </trans-unit>
       <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service">
         <source>Customer Service</source>
@@ -73,9 +73,9 @@
         <source>Road</source>
         <target>Road</target>
       </trans-unit>
-      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing">
+      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>
-        <target><![CDATA[Vertrieb & Marketing]]></target>
+        <target state="translated"><![CDATA[Vertrieb & Marketing]]></target>
       </trans-unit>
       <trans-unit id="23eaa8f0a4e2347d004e55044dbcd664" resname="Supply Chain Solutions">
         <source>Supply Chain Solutions</source>

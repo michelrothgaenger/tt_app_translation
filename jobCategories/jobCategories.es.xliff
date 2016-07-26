@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
@@ -29,9 +29,9 @@
         <source>IT</source>
         <target>IT</target>
       </trans-unit>
-      <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight">
+      <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight" approved="yes">
         <source>Ocean Freight</source>
-        <target>Ocean Freight</target>
+        <target state="translated">Carga marítima</target>
       </trans-unit>
       <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations">
         <source>Operations</source>

@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="zh" datatype="plaintext" original="file.ext">
+  <file source-language="uk-UA" target-language="zh" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="12777f05d225fdc293a6183baf2c915a" resname="app.job">
-        <source>app.job</source>
+      <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title">
+        <source>app.job.meta.title</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="60ed07b618b3e0f832582127ae0a7f39" resname="app.metaKeywordsJobsPage">
-        <source>app.metaKeywordsJobsPage</source>
+      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
+        <source>app.job.meta.description</source>
+        <target>Job</target>
+      </trans-unit>
+      <trans-unit id="3102e3a435fdb9cce55c9f7fb36c267b" resname="app.job.meta.keywords">
+        <source>app.job.meta.keywords</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="78845b87a1ae4f777b4c9c66b1e5d809" resname="app.thisJobIsHidden">
-        <source>app.thisJobIsHidden</source>
+      <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status">
+        <source>app.job.section.top.status</source>
         <target>This job is hidden!</target>
       </trans-unit>
-      <trans-unit id="efbb14f209547d6e36075ce8810480bb" resname="app.backToResults">
-        <source>app.backToResults</source>
+      <trans-unit id="ec82f3174547d54d8971c896d23df122" resname="app.job.section.top.button.title">
+        <source>app.job.section.top.button.title</source>
         <target>Back to results</target>
       </trans-unit>
-      <trans-unit id="5269666ad17a0791b8bb1777788a8f60" resname="app.posted">
-        <source>app.posted</source>
+      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate">
+        <source>app.job.postDate</source>
         <target>Posted</target>
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile">
@@ -33,116 +37,136 @@
         <source>app.saveToProfile</source>
         <target>Save to profile</target>
       </trans-unit>
-      <trans-unit id="3ffb0d6a669cd929e8bdbfc014251b24" resname="app.broughtToYouExclusivelyBy">
-        <source>app.broughtToYouExclusivelyBy</source>
+      <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage">
+        <source>app.job.section.right.manualMessage</source>
         <target>Brought to you exclusively by</target>
       </trans-unit>
-      <trans-unit id="0b1d0c99fd2ae35c2bc4624639b2a645" resname="app.jobDetail">
-        <source>app.jobDetail</source>
+      <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title">
+        <source>app.job.section.main.title</source>
         <target>Job detail</target>
       </trans-unit>
-      <trans-unit id="286abc02e0da06bb690161e2eb9d50e2" resname="app.jobType">
-        <source>app.jobType</source>
+      <trans-unit id="c29cd64c748dc240d346db1583b0f65b" resname="app.job.section.main.rowTypeTitle">
+        <source>app.job.section.main.rowTypeTitle</source>
         <target>Job type</target>
       </trans-unit>
-      <trans-unit id="aa3d92583d3dcbc7486add89ffd8944f" resname="app.jobLevel">
-        <source>app.jobLevel</source>
+      <trans-unit id="0f9cc44b1edf0a99f6ebf522670bbc59" resname="app.job.section.main.rowLevelTitle">
+        <source>app.job.section.main.rowLevelTitle</source>
         <target>Job level</target>
       </trans-unit>
-      <trans-unit id="1c7a63ee2531da2a27313aa4d24b6f43" resname="app.where">
-        <source>app.where</source>
+      <trans-unit id="44114f282c765dd6ccc0a37849eb8a08" resname="app.job.section.main.rowWhereTitle">
+        <source>app.job.section.main.rowWhereTitle</source>
         <target>Where</target>
       </trans-unit>
-      <trans-unit id="b428eb6c40c7236e4260293e1d965467" resname="app.viewMap">
-        <source>app.viewMap</source>
+      <trans-unit id="1ff1545de3de9327b327f069fee94eb0" resname="app.job.section.main.openMapLinkTitle">
+        <source>app.job.section.main.openMapLinkTitle</source>
         <target>view map</target>
       </trans-unit>
-      <trans-unit id="5fba6040b7ce54afa933cb40c35d5877" resname="app.applyNow">
-        <source>app.applyNow</source>
+      <trans-unit id="e6479c1be0073526f728437442e0ad9d" resname="app.section.main.applyButtonTitle">
+        <source>app.section.main.applyButtonTitle</source>
         <target>Apply now</target>
       </trans-unit>
-      <trans-unit id="39d63709d125a566f9359d2d8fc7063f" resname="app.generalInformation">
-        <source>app.generalInformation</source>
+      <trans-unit id="5918fb127493df996af2f0b474ce3196" resname="app.job.section.left.title">
+        <source>app.job.section.left.title</source>
         <target>General information</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
-        <source>app.numberOfEmployees</source>
+      <trans-unit id="7f7803fafe6e0838823614ea63d9e1e7" resname="app.job.section.left.rowQtyEmployeesTitle">
+        <source>app.job.section.left.rowQtyEmployeesTitle</source>
         <target>Number of employees</target>
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
         <source>app.employees_lowercase</source>
         <target>employees</target>
       </trans-unit>
-      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
-        <source>app.notAvailable</source>
+      <trans-unit id="deac209e318dd16d18b27ae66da2a3de" resname="app.job.section.left.infoStatus">
+        <source>app.job.section.left.infoStatus</source>
         <target>Not available</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
-        <source>app.headquater</source>
+      <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle">
+        <source>app.job.section.left.rowHeadquarterTitle</source>
         <target>Headquarter</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
-        <source>app.officesCountries</source>
+      <trans-unit id="32409995f251db763a370dfbbb017788" resname="app.job.section.left.rowOfficesTitle">
+        <source>app.job.section.left.rowOfficesTitle</source>
         <target>Offices/Countries</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
-        <source>app.mainActivities</source>
+      <trans-unit id="048081eed06d612bbb1783c4e00c4e15" resname="app.job.section.left.rowIndustiesTitle">
+        <source>app.job.section.left.rowIndustiesTitle</source>
         <target>Main Activities</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
-        <source>app.website</source>
+      <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle">
+        <source>app.job.section.left.rowWebsiteTitle</source>
         <target>Website</target>
       </trans-unit>
-      <trans-unit id="35a0b94a57615310709ea33a21fed25f" resname="app.moreJobsAt">
-        <source>app.moreJobsAt</source>
+      <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs">
+        <source>app.job.section.left.headlineOtherJobs</source>
         <target>More jobs at</target>
       </trans-unit>
-      <trans-unit id="2524b91553815d434fd47e745def9323" resname="app.moreJobsLikeThis">
-        <source>app.moreJobsLikeThis</source>
+      <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs">
+        <source>app.section.left.headlineSimilarJobs</source>
         <target>Other interesting offers</target>
       </trans-unit>
-      <trans-unit id="80a96ec02c62f89b4e2e8792caddddfd" resname="app.showMoreJobsLikeThis">
-        <source>app.showMoreJobsLikeThis</source>
+      <trans-unit id="f3cd81f9d260ccb3d7b9fb0db434e82b" resname="app.section.left.linkSimilarJobsTitle">
+        <source>app.section.left.linkSimilarJobsTitle</source>
         <target>Show more jobs like this</target>
       </trans-unit>
-      <trans-unit id="dbe38e5160a4685c23e44a1802e18eb9" resname="app.printJob">
-        <source>app.printJob</source>
+      <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus">
+        <source>app.job.section.left.savedStatus</source>
+        <target>Saved to profile</target>
+      </trans-unit>
+      <trans-unit id="0ae66cb2386defb5925830068c4a7ade" resname="app.job.section.left.nonSavedStatus">
+        <source>app.job.section.left.nonSavedStatus</source>
+        <target>Save to profile</target>
+      </trans-unit>
+      <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle">
+        <source>app.section.left.linkPrintTitle</source>
         <target>Print job</target>
       </trans-unit>
-      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply">
-        <source>app.apply</source>
-        <target>Get matched</target>
-      </trans-unit>
-      <trans-unit id="412d1bcebfc3d4ddde2e8e5492ea27f8" resname="app.id">
-        <source>app.id</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
-        <source>app.signInWithLinkedIn</source>
+      <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle">
+        <source>app.job.section.popup.linkedinButtonTitle</source>
         <target>Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
-        <source>app.signInWithXing</source>
+      <trans-unit id="d5201b5b2e56754acbba97723395801c" resname="app.job.section.popup.xingButtonTitle">
+        <source>app.job.section.popup.xingButtonTitle</source>
         <target>Sign in with Xing</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
-        <source>app.signInWithGoogle</source>
+      <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle">
+        <source>app.job.section.popup.googleButtonTitle</source>
         <target>Sign in with Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
-        <source>app.signInWithFB</source>
+      <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle">
+        <source>app.job.section.popup.facebookButtonTitle</source>
         <target>Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded">
-        <source>app.fileUploaded</source>
+      <trans-unit id="8b38effcf1e37d3344a236b748f5a0c6" resname="app.section.popup.forgotLinkTitle">
+        <source>app.section.popup.forgotLinkTitle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title">
+        <source>app.job.section.popup.title</source>
+        <target>Get matched</target>
+      </trans-unit>
+      <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle">
+        <source>app.job.section.popup.jobTitle</source>
+        <target>Job</target>
+      </trans-unit>
+      <trans-unit id="478114988b870e8f517112bdb5013522" resname="app.job.section.popup.jobId">
+        <source>app.job.section.popup.jobId</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage">
+        <source>app.job.section.popup.succesMessage</source>
         <target>File uploaded!</target>
       </trans-unit>
-      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
-        <source>app.checkBoxRequiredMsg</source>
+      <trans-unit id="b533a4527cfa050dfeb3a3370c97eef1" resname="app.job.section.popup.checkBoxRequiredMsg">
+        <source>app.job.section.popup.checkBoxRequiredMsg</source>
         <target>Please check this box if you want to proceed.</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel">
-        <source>app.cancel</source>
+      <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle">
+        <source>app.job.section.popup.applyButtonTitle</source>
+        <target>Get matched</target>
+      </trans-unit>
+      <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle">
+        <source>app.job.section.popup.cancelButtonTitle</source>
         <target>Cancel</target>
       </trans-unit>
       <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">

@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
-        <target state="translated">Tải dữ liệu</target>
+        <target state="translated">Tải dữ liệu!</target>
       </trans-unit>
       <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline" approved="yes">
         <source>app.employerProfileHeadline</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="b1d15343dc7b7e8893c536d1f9c8a4fb" resname="app.employerProfileHeadlineDesc3" approved="yes">
         <source>app.employerProfileHeadlineDesc3</source>
-        <target state="translated">* Nêu ra phần yêu cầu</target>
+        <target state="translated">* Nêu ra phần yêu cầu.</target>
       </trans-unit>
       <trans-unit id="95d6f0b4dba606f52836553c4eec4544" resname="app.passwordWasSuccesfullyChanged" approved="yes">
         <source>app.passwordWasSuccesfullyChanged</source>
@@ -109,9 +109,9 @@
         <source>app.profileYourMentorDesc</source>
         <target state="translated">Liên hệ cá nhân và người tư vấn của Ngài tại TT</target>
       </trans-unit>
-      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName">
+      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName" approved="yes">
         <source>app.profileYourMentorName</source>
-        <target>Svenja</target>
+        <target state="translated">Svenja</target>
       </trans-unit>
       <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact" approved="yes">
         <source>app.contact</source>
@@ -487,11 +487,11 @@
       </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
-        <target state="translated">Hồ sơ đã được công ty công khai</target>
+        <target state="translated">Hồ sơ đã được công ty công khai.</target>
       </trans-unit>
       <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
-        <target state="translated">Hồ sơ chưa được công ty công khai</target>
+        <target state="translated">Hồ sơ chưa được công ty công khai.</target>
       </trans-unit>
       <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
@@ -507,7 +507,7 @@
       </trans-unit>
       <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled" approved="yes">
         <source>app.thisFieldMustBeFilled</source>
-        <target state="translated">Phải điền vào ô này</target>
+        <target state="translated">Phải điền vào ô này!</target>
       </trans-unit>
       <trans-unit id="622b6debae93effab30cb6fb66fb146b" resname="app.pleaseInputDateInFormatDdMmYyyy" approved="yes">
         <source>app.pleaseInputDateInFormatDdMmYyyy</source>
@@ -515,7 +515,7 @@
       </trans-unit>
       <trans-unit id="afc55d471e84cfd3f406c8dba530b41d" resname="app.requiresThisFieldToBeFilledToo" approved="yes">
         <source>app.requiresThisFieldToBeFilledToo</source>
-        <target state="translated">Cũng điền vào yêu cầu ở ô này</target>
+        <target state="translated">Cũng điền vào yêu cầu ở ô này.</target>
       </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file..." approved="yes">
         <source>Select a file...</source>
-        <target state="translated">Chọn một file</target>
+        <target state="translated">Chọn một file...</target>
       </trans-unit>
       <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="yes">
         <source>Please adjust selection to your image</source>
@@ -595,7 +595,7 @@
       </trans-unit>
       <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !" approved="yes">
         <source>Crop &amp; Use !</source>
-        <target state="translated">Cắt và sử dụng</target>
+        <target state="translated">Cắt và sử dụng!</target>
       </trans-unit>
       <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>

@@ -17,9 +17,9 @@
         <source>app.metaKeywordsEmployerLoginPage</source>
         <target state="translated">Ứng viên, nhân sự, kết nối, vận tải, kho vận, vận chuyển, vận tải biển, vận tải hàng không, tuyển mộ, nhân lực, người tìm việc, tìm kiếm nhân sự, vị trí</target>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="no">
+      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
-        <target state="needs-translation">Vui mừng gặp lại Ngài</target>
+        <target state="translated">Vui mừng gặp lại Ngài.</target>
       </trans-unit>
       <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>

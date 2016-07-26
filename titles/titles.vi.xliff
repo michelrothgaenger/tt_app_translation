@@ -9,9 +9,9 @@
         <source>app.dr</source>
         <target state="translated">Tiến sỹ</target>
       </trans-unit>
-      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="no">
+      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="yes">
         <source>app.prof</source>
-        <target state="needs-translation">Giáo sư</target>
+        <target state="translated">Giáo sư.</target>
       </trans-unit>
     </body>
   </file>

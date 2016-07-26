@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation">
+        <source>app.application.salutation</source>
+        <target>Hi </target>
+      </trans-unit>
+      <trans-unit id="1bf386a0c59e4a7b8b03cd8a2ef24d3a" resname="app.application.appliedMsgFirstPart">
+        <source>app.application.appliedMsgFirstPart</source>
+        <target>one candidate applied for your position </target>
+      </trans-unit>
+      <trans-unit id="f3b8a7b4e832453390663b53b0642a43" resname="app.application.appliedMsgSecondPart">
+        <source>app.application.appliedMsgSecondPart</source>
+        <target>Please find the CV enclosed and personal message by the candidate below.</target>
+      </trans-unit>
+      <trans-unit id="d7d92c0a47314bbdb32a85d7c2199126" resname="app.application.appliedMsgLastPart">
+        <source>app.application.appliedMsgLastPart</source>
+        <target>wrote:</target>
+      </trans-unit>
+      <trans-unit id="eec3260c28954570892c403e2073d9ea" resname="app.application.replyingMsgFirstPart">
+        <source>app.application.replyingMsgFirstPart</source>
+        <target>You can get in touch with the candidate by replying this message. Please let us know if you need further support.</target>
+      </trans-unit>
+      <trans-unit id="509ad190804848a68b59b5f368958c64" resname="app.application.respect">
+        <source>app.application.respect</source>
+        <target>Kind Regards,</target>
+      </trans-unit>
+      <trans-unit id="87b7b2fa0da0432a888b658d3445075b" resname="app.application.sender">
+        <source>app.application.sender</source>
+        <target>Transport Talent Recruiting Team</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

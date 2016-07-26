@@ -12,11 +12,11 @@
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
         <source>app.job.meta.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3102e3a435fdb9cce55c9f7fb36c267b" resname="app.job.meta.keywords">
         <source>app.job.meta.keywords</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status">
         <source>app.job.section.top.status</source>
@@ -142,9 +142,9 @@
         <source>app.section.popup.forgotLinkTitle</source>
         <target>Forgot password?</target>
       </trans-unit>
-      <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title">
+      <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
-        <target>Get matched</target>
+        <target state="translated">Apply now</target>
       </trans-unit>
       <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle">
         <source>app.job.section.popup.jobTitle</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="478114988b870e8f517112bdb5013522" resname="app.job.section.popup.jobId">
         <source>app.job.section.popup.jobId</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage">
         <source>app.job.section.popup.succesMessage</source>
@@ -162,9 +162,9 @@
         <source>app.job.section.popup.checkBoxRequiredMsg</source>
         <target>Please check this box if you want to proceed.</target>
       </trans-unit>
-      <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle">
+      <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
-        <target>Get matched</target>
+        <target state="translated">Apply now</target>
       </trans-unit>
       <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle">
         <source>app.job.section.popup.cancelButtonTitle</source>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="2c5728b5389742e6836b61d31c4273be" resname="app.job.section.popup.section.page1.helpButtonTitle">
         <source>app.job.section.popup.section.page1.helpButtonTitle</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="dde15a4072b846f1be7e0633ac131edc" resname="app.job.section.popup.section.page2.title">
         <source>app.job.section.popup.section.page2.title</source>

@@ -5,17 +5,17 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="no">
+      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
-        <target state="needs-translation">Công việc này đã hết</target>
+        <target state="translated">Transport Talent – Công việc này đã hết</target>
       </trans-unit>
-      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
+      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
-        <target/>
+        <target state="translated">Các quảng cáo được yêu cầu đã không còn hoạt động. Ngài hãy lưu các thông tin quảng cáo trong hồ sơ của Transport Talent để có thể xem lại sau này</target>
       </trans-unit>
-      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
+      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage" approved="yes">
         <source>app.metaKeywordsExpiredPage</source>
-        <target/>
+        <target state="translated">Miêu tả, công việc, vị trí, đơn xin việc, không còn hoạt động, hết hạn, kỳ hạn, lưu, quảng cáo, nhập, có sẵn, thêm vào, nhập thêm, sau này, không kết nối, chuẩn bị</target>
       </trans-unit>
       <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>

@@ -57,9 +57,9 @@
         <source>app.ms</source>
         <target state="translated">Bà</target>
       </trans-unit>
-      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="no">
+      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="yes">
         <source>app.prof</source>
-        <target state="needs-translation">Giáo sư</target>
+        <target state="translated">Giáo sư.</target>
       </trans-unit>
       <trans-unit id="988407b78b6fbc6665c44937f71120f0" resname="app.dr" approved="yes">
         <source>app.dr</source>
@@ -93,9 +93,9 @@
         <source>app.password_confirmation</source>
         <target state="translated">Xác nhận mật khẩu</target>
       </trans-unit>
-      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch">
+      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
-        <target/>
+        <target state="translated">.</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight">
+      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
         <source>Airfreight</source>
-        <target>Airfreight</target>
+        <target state="translated">Luftfracht</target>
       </trans-unit>
       <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service">
         <source>Customer Service</source>

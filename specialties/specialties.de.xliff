@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight">
+      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
         <source>Airfreight</source>
-        <target>Airfreight</target>
+        <target state="translated">Luftfracht</target>
       </trans-unit>
-      <trans-unit id="5382aaf8b3d2fdeb6717f9805b0dd511" resname="Containers">
+      <trans-unit id="5382aaf8b3d2fdeb6717f9805b0dd511" resname="Containers" approved="yes">
         <source>Containers</source>
-        <target>Containers</target>
+        <target state="translated">Container</target>
       </trans-unit>
       <trans-unit id="aac5c73eb5a26faa1204e42ae3011ec6" resname="Contract Logistics" approved="yes">
         <source>Contract Logistics</source>

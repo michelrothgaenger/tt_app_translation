@@ -21,17 +21,17 @@
         <source>app.introductionSourcingHeadline</source>
         <target state="translated">Hãy có được tài năng hàng đầu trong kho vận</target>
       </trans-unit>
-      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="no">
+      <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target state="needs-translation">Đăng ký ngay bây giờ để truy cập vào kho ứng viên của chúng tôi.</target>
+        <target state="translated">Đăng ký ngay bây giờ để truy cập vào kho ứng viên đã được lựa chọn của chúng tôi.</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target state="translated">Đăng ký ngay - miễn phí</target>
       </trans-unit>
-      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="no">
+      <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="yes">
         <source>app.readOn</source>
-        <target state="needs-translation">Đọc tiếp</target>
+        <target state="translated">Đọc tiếp</target>
       </trans-unit>
       <trans-unit id="4ac796cc87fee9c08256e56a5c6e0d65" resname="app.introductionForWhoHeadline2" approved="yes">
         <source>app.introductionForWhoHeadline2</source>
@@ -45,17 +45,17 @@
         <source>app.introductionForWhoItemHrManagersDesc</source>
         <target state="translated">Muốn có một vị trí quan trọng và mong muốn giao việc tìm kiếm cho một nhà tuyển dụng kinh nghiệm trong nghành</target>
       </trans-unit>
-      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="no">
+      <trans-unit id="1ed8372c8cf962631c7bf09cddbeabbb" resname="app.introductionForWhoItemHiringManagersHeadline" approved="yes">
         <source>app.introductionForWhoItemHiringManagersHeadline</source>
-        <target state="needs-translation">Phụ trách nhân sự</target>
+        <target state="translated">Phụ trách nhân sự</target>
       </trans-unit>
       <trans-unit id="b88092bd120a5760425aa3d614d78879" resname="app.introductionForWhoItemHiringManagersDesc" approved="yes">
         <source>app.introductionForWhoItemHiringManagersDesc</source>
         <target state="translated">Mong muốn làm lĩnh vực của họ hiệu quả hơn bằng cách giảm thiểu thời gian cho việc tìm kiếm ứng viên.</target>
       </trans-unit>
-      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="no">
+      <trans-unit id="aa18d5a3c744e25a42b2130f60d936c9" resname="app.introductionForWhoItemRecruitersHeadline" approved="yes">
         <source>app.introductionForWhoItemRecruitersHeadline</source>
-        <target state="needs-translation">Tuyển dụng nội bộ</target>
+        <target state="translated">Tuyển dụng nội bộ</target>
       </trans-unit>
       <trans-unit id="e15d476cdefc95f1d93e3d4a32ed2f1a" resname="app.introductionForWhoItemRecruitersDesc" approved="yes">
         <source>app.introductionForWhoItemRecruitersDesc</source>
@@ -89,9 +89,9 @@
         <source>app.introductionHowWeAreDifferentItem1Desc</source>
         <target state="translated">Chúng tôi cung cấp một mạng lưới được kiểm tra cẩn thận và mở rộng nhanh chóng với các chuyên gia từ lĩnh vực kho vận với việc tìm kiếm việc làm thụ động. Căn cứ vào hồ sơ người sử dụng trang mạng với sự phối hợp một cách chính xác của chúng tôi, chúng tôi tìm thấy những ứng cử viên phù hợp cho Ngài.</target>
       </trans-unit>
-      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="no">
+      <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
-        <target state="needs-translation">Chúng tôi tập trung vào những người mới vào nghề và lực lượng lao động có chuyên môn.</target>
+        <target state="translated">Những người mới vào nghề và lực lượng lao động có chuyên môn.</target>
       </trans-unit>
       <trans-unit id="29d05922a4827f49ca7da1481588917f" resname="app.introductionHowWeAreDifferentItem2Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Desc</source>

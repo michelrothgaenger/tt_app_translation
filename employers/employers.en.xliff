@@ -57,9 +57,9 @@
         <source>app.companySize</source>
         <target>Company size</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>employees</target>
+        <target state="translated">employees</target>
       </trans-unit>
       <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
         <source>app.mainActivities</source>

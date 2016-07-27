@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="yes">
         <source>app.application.salutation</source>
-        <target state="translated">Dear [firstname],</target>
+        <target state="translated">Dear %firstname%,</target>
       </trans-unit>
       <trans-unit id="1bf386a0c59e4a7b8b03cd8a2ef24d3a" resname="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">We received an application for your position [job title].</target>
+        <target state="translated">We received an application for your job posting.</target>
       </trans-unit>
       <trans-unit id="f3b8a7b4e832453390663b53b0642a43" resname="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>

@@ -290,6 +290,31 @@
         <source>app.section.popup.signInLabel</source>
         <target state="translated">Sign In</target>
       </trans-unit>
+      <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note">
+        <source>app.job.forward.note</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline">
+        <source>app.job.forward.headline</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message">
+        <source>app.job.forward.message</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok">
+        <source>app.job.forward.button.ok</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel">
+        <source>app.job.forward.button.cancel</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close">
+        <source>app.job.forward.button.close</source>
+        <target></target>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>

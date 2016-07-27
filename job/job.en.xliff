@@ -314,7 +314,10 @@
         <source>app.job.forward.button.close</source>
         <target></target>
       </trans-unit>
-
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel">
+        <source>app.job.section.popup.saveLinkLabel</source>
+        <target>Save and go to your profile</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

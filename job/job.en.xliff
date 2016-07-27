@@ -286,6 +286,10 @@
         <source>app.job.section.popup.passwordPlaceholder</source>
         <target>Password</target>
       </trans-unit>
+      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel">
+        <source>app.section.popup.signInLabel</source>
+        <target>Sign In</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

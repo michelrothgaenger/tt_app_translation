@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -33,9 +33,9 @@
         <source>app.or</source>
         <target>or</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
       <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password">
         <source>security.login.password</source>

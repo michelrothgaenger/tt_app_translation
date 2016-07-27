@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="5dc51607737d054649c35e464cdf2ded" resname="app.metaKeywordsTermsPage">
         <source>app.metaKeywordsTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>
@@ -209,9 +209,9 @@
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
         <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
     </body>
   </file>

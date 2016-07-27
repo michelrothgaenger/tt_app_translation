@@ -93,9 +93,9 @@
         <source>app.password_confirmation</source>
         <target state="translated">Passwort bestätigen</target>
       </trans-unit>
-      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch">
+      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
-        <target/>
+        <target state="translated">Passwörter stimmen nicht überein</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>

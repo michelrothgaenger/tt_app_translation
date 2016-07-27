@@ -278,17 +278,17 @@
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
         <target state="translated">Close window</target>
       </trans-unit>
-      <trans-unit id="6a959fcb966a4f91bd6131b9ee0d190f" resname="app.job.section.popup.usernamePlaceholder">
+      <trans-unit id="6a959fcb966a4f91bd6131b9ee0d190f" resname="app.job.section.popup.usernamePlaceholder" approved="yes">
         <source>app.job.section.popup.usernamePlaceholder</source>
-        <target>Username</target>
+        <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="b13ca9756ec64b3faacc979937d43aef" resname="app.job.section.popup.passwordPlaceholder">
+      <trans-unit id="b13ca9756ec64b3faacc979937d43aef" resname="app.job.section.popup.passwordPlaceholder" approved="yes">
         <source>app.job.section.popup.passwordPlaceholder</source>
-        <target>Password</target>
+        <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel">
+      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel" approved="yes">
         <source>app.section.popup.signInLabel</source>
-        <target>Sign In</target>
+        <target state="translated">Sign In</target>
       </trans-unit>
     </body>
   </file>

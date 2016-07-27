@@ -29,9 +29,9 @@
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target>Register</target>
+        <target state="translated">Register</target>
       </trans-unit>
       <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer">
         <source>app.employer</source>

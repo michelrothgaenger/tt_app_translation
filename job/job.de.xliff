@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="44114f282c765dd6ccc0a37849eb8a08" resname="app.job.section.main.rowWhereTitle" approved="yes">
         <source>app.job.section.main.rowWhereTitle</source>
-        <target state="translated">Wo</target>
+        <target state="translated">Ort</target>
       </trans-unit>
       <trans-unit id="1ff1545de3de9327b327f069fee94eb0" resname="app.job.section.main.openMapLinkTitle" approved="yes">
         <source>app.job.section.main.openMapLinkTitle</source>
@@ -274,6 +274,18 @@
         <source>app.job.section.popup.checkText</source>
         <target state="translated">Ich stimme zu, dass meine hier zur Verfügung gestellten Daten auch auf transporttalent.com gespeichert werden.</target>
       </trans-unit>
-      </body>
+      <trans-unit id="6a959fcb966a4f91bd6131b9ee0d190f" resname="app.job.section.popup.usernamePlaceholder" approved="yes">
+        <source>app.job.section.popup.usernamePlaceholder</source>
+        <target state="translated">E-Mail</target>
+      </trans-unit>
+      <trans-unit id="b13ca9756ec64b3faacc979937d43aef" resname="app.job.section.popup.passwordPlaceholder" approved="yes">
+        <source>app.job.section.popup.passwordPlaceholder</source>
+        <target state="translated">Passwort</target>
+      </trans-unit>
+      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel" approved="yes">
+        <source>app.section.popup.signInLabel</source>
+        <target state="translated">Anmelden</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

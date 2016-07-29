@@ -180,7 +180,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">The fastest way to find a new job in Logistics or Shipping. Use the single sign on on the top or fill out all fields below.</target>
+        <target state="translated">The fastest way to find a new job in Logistics or Shipping. Use the single sign-on on the top or fill out the fields below.</target>
       </trans-unit>
       <trans-unit id="edcbc39a03e441ec9f9547d74ff6e6d3" resname="app.job.section.popup.description">
         <source>app.job.section.popup.description</source>
@@ -290,33 +290,33 @@
         <source>app.section.popup.signInLabel</source>
         <target state="translated">Sign In</target>
       </trans-unit>
-      <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note">
+      <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>
-        <target></target>
+        <target state="translated">Please note</target>
       </trans-unit>
-      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline">
+      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
         <source>app.job.forward.headline</source>
-        <target></target>
+        <target state="translated">You will now be forwarded</target>
       </trans-unit>
-      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message">
+      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
-        <target></target>
+        <target state="translated">This job posting is operated by %company_name%. For the application process, we will now take you to the company's website.</target>
       </trans-unit>
-      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok">
+      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>
-        <target></target>
+        <target state="translated">Continue</target>
       </trans-unit>
-      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel">
+      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel" approved="yes">
         <source>app.job.forward.button.cancel</source>
-        <target></target>
+        <target state="translated">Back to Transport Talent</target>
       </trans-unit>
-      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close">
+      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close" approved="yes">
         <source>app.job.forward.button.close</source>
-        <target></target>
+        <target state="translated">Close</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>
-        <target>Save and go to your profile</target>
+        <target state="translated">Save job and go to profile</target>
       </trans-unit>
     </body>
   </file>

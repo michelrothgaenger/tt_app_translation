@@ -165,9 +165,9 @@
         <source>app.job.section.popup.applyButtonTitle</source>
         <target state="translated">Đăng ký ngay</target>
       </trans-unit>
-      <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle">
+      <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
-        <target>Hủy</target>
+        <target state="translated">Hủy</target>
       </trans-unit>
       <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
         <source>app.jobSavedMsg</source>
@@ -220,7 +220,7 @@
       </trans-unit>
       <trans-unit id="8849884335f447a8abb2e64bfa85bb36" resname="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleFirstPart</source>
-        <target state="translated">Tiếp tục đăng ký mà không cần thay đổi.</target>
+        <target state="translated">Tiếp tục đăng ký mà không cần thay đổi-</target>
       </trans-unit>
       <trans-unit id="80d3b156e2ad47789fd5e3834597ceae" resname="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleSecondPart</source>
@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="289094d739b74d7ea253b2e59d71816d" resname="app.job.section.popup.section.page2.sendButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page2.sendButtonTitle</source>
-        <target state="translated">Đăng ký ngay</target>
+        <target state="translated">Gửi đơn</target>
       </trans-unit>
       <trans-unit id="5c412ac2a7d04fdfabe5265884eba3cd" resname="app.job.section.popup.section.page3.title" approved="yes">
         <source>app.job.section.popup.section.page3.title</source>
@@ -268,11 +268,52 @@
       </trans-unit>
       <trans-unit id="889d9255b8b14474a5299aeee7899d49" resname="app.job.section.popup.section.page3.description" approved="yes">
         <source>app.job.section.popup.section.page3.description</source>
-        <target state="translated">Chúng tôi sẽ thông tin sớm nhất. Trong lúc chờ đợi, đừng ngần ngại liên hệ với chúng tôi nếu có bất kỳ câu hỏi nào.</target>
+        <target state="translated">Công ty sẽ liên hệ trực tiếp với Ngài.</target>
       </trans-unit>
       <trans-unit id="fdee157f696f413586e28032c4883794" resname="app.job.section.popup.section.page3.closeButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
         <target state="translated">Đóng cửa sổ</target>
+      </trans-unit>
+    <trans-unit id="6a959fcb966a4f91bd6131b9ee0d190f" resname="app.job.section.popup.usernamePlaceholder" approved="yes">
+        <source>app.job.section.popup.usernamePlaceholder</source>
+        <target state="translated">Thư điện tử</target>
+      </trans-unit>
+      <trans-unit id="b13ca9756ec64b3faacc979937d43aef" resname="app.job.section.popup.passwordPlaceholder" approved="yes">
+        <source>app.job.section.popup.passwordPlaceholder</source>
+        <target state="translated">Mật khẩu</target>
+      </trans-unit>
+      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel" approved="yes">
+        <source>app.section.popup.signInLabel</source>
+        <target state="translated">Đăng ký</target>
+      </trans-unit>
+      <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
+        <source>app.job.forward.note</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
+        <source>app.job.forward.headline</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
+        <source>app.job.forward.message</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
+        <source>app.job.forward.button.ok</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel" approved="yes">
+        <source>app.job.forward.button.cancel</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close" approved="yes">
+        <source>app.job.forward.button.close</source>
+        <target state="translated">.</target>
+      </trans-unit>
+
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
+        <source>app.job.section.popup.saveLinkLabel</source>
+        <target state="translated">Lưu và chuyển đến hồ sơ của Ngài</target>
       </trans-unit>
     </body>
   </file>

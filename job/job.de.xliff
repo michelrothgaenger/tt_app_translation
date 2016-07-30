@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
-        <target state="translated">Mehr Jobs bei</target>
+        <target state="translated">Mehr Stellen bei</target>
       </trans-unit>
       <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs" approved="yes">
         <source>app.section.left.headlineSimilarJobs</source>
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">Der schnellste Weg zu einem neuen Job in Logistik und Schiffahrt. Melden Sie sich mit einem der obenstehenden Anbieter an oder füllen Sie die nachstehenden Felder aus.</target>
+        <target state="translated">Der schnellste Weg zu einem neuen Job in Logistik und Schiffahrt. Melden Sie sich mit einem der folgenden Anbieter an oder geben Sie unten Ihre Login-Daten für Transport Talent ein.</target>
       </trans-unit>
       <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
         <source>app.job.section.popup.agreementFirstPart</source>
@@ -286,6 +286,34 @@
         <source>app.section.popup.signInLabel</source>
         <target state="translated">Anmelden</target>
       </trans-unit>
-    </body>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
+        <source>app.job.section.popup.saveLinkLabel</source>
+        <target state="translated">Anzeige speichern und zum Profil</target>
+      </trans-unit>
+    <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
+        <source>app.job.forward.note</source>
+        <target state="translated">Hinweis</target>
+      </trans-unit>
+      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
+        <source>app.job.forward.headline</source>
+        <target state="translated">Sie werden nun weitergeleitet</target>
+      </trans-unit>
+      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
+        <source>app.job.forward.message</source>
+        <target state="translated">Diese Stellenanzeige wird von %company_name% verantwortet. Für den Bewerbungsprozess leiten wir Sie nun auf die Unternehmensseite weiter.</target>
+      </trans-unit>
+      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
+        <source>app.job.forward.button.ok</source>
+        <target state="translated">Fortfahren</target>
+      </trans-unit>
+      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel" approved="yes">
+        <source>app.job.forward.button.cancel</source>
+        <target state="translated">Zurück zu Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close" approved="yes">
+        <source>app.job.forward.button.close</source>
+        <target state="translated">Schließen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

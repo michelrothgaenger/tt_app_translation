@@ -73,6 +73,10 @@
         <source>app.saveToProfilePage</source>
         <target>Save to profile page</target>
       </trans-unit>
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile">
+        <source>app.employer.button.savedToProfile</source>
+        <target>Saved to profile page</target>
+      </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile">
         <source>app.goToNextCompanyProfile</source>
         <target>Go to next company profile</target>

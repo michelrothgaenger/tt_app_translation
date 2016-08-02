@@ -77,6 +77,10 @@
         <source>app.goToNextCompanyProfile</source>
         <target state="translated">Xem hồ sơ doanh nghiệp tiếp theo</target>
       </trans-unit>
-    </body>
+    <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
+        <source>app.employer.button.savedToProfile</source>
+        <target state="translated">Lưu vào trang hồ sơ</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

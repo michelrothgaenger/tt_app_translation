@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
         <source>app.privacyPolicy</source>
-        <target>Privacy Policy</target>
+        <target state="translated">Privacy Policy</target>
       </trans-unit>
-      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage">
+      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target></target>
+        <target state="translated">When you sign in with Transport Talent we guarantee, that your data is safe.</target>
       </trans-unit>
       <trans-unit id="2b459d7b12eb3214bc3f39f38649886a" resname="app.metaKeywordsPrivacyPolicyPage">
         <source>app.metaKeywordsPrivacyPolicyPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>

@@ -9,9 +9,9 @@
         <source>app.aboutUs</source>
         <target state="translated">Om os</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Vilkår &amp; Betingelser</target>
       </trans-unit>
       <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>

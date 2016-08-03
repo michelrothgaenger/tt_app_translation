@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target>Registrer</target>
+        <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
       </trans-unit>
       <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
@@ -45,9 +45,9 @@
         <source>app.iAgreeToThe</source>
         <target state="translated">Jeg accepterer</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Vilkår og Betingelser</target>
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>

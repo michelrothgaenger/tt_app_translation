@@ -1,65 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate">
+      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate" approved="yes">
         <source>app.candidate</source>
-        <target>Candidate</target>
+        <target state="translated">Kandidat</target>
       </trans-unit>
       <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
         <source>app.jobs</source>
         <target>Jobs</target>
       </trans-unit>
-      <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList">
+      <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList" approved="yes">
         <source>app.employersList</source>
-        <target>Companies</target>
+        <target state="translated">Virksomheder</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Profile</target>
+        <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
-        <target>Sign Out</target>
+        <target state="translated">Log ud</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Sign in</target>
+        <target state="translated">Log ind</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target>Register</target>
+        <target state="translated">Opret</target>
       </trans-unit>
-      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer">
+      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer" approved="yes">
         <source>app.employer</source>
-        <target>Employer</target>
+        <target state="translated">Arbejdsgiver</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>For Employers</target>
+        <target state="translated">For Virksomheder</target>
       </trans-unit>
-      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn">
+      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn" approved="yes">
         <source>app.logIn</source>
-        <target>Sign in</target>
+        <target state="translated">Log ind</target>
       </trans-unit>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
+      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
-        <target>About us</target>
+        <target state="translated">Om os</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Vilkår &amp; Betingelser</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy">
+      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
-        <target>Data Privacy</target>
+        <target state="translated">Databeskyttelse</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Contact us</target>
+        <target state="translated">Kontakt os</target>
       </trans-unit>
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
         <source>app.imprint</source>

@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="cbb67c65f2abd1005d46939a7b3aff5f" resname="Doctor" approved="yes">
         <source>Doctor</source>
-        <target state="translated"/>
+        <target state="translated">Phd</target>
       </trans-unit>
       <trans-unit id="671aa2e8cc2c2435cf509fa4a3baf26c" resname="Executive">
         <source>Executive</source>
@@ -25,9 +25,9 @@
         <source>Associate</source>
         <target>Associate</target>
       </trans-unit>
-      <trans-unit id="440a138c0f34fe6120c9411c1ef3a57f" resname="Single course">
+      <trans-unit id="440a138c0f34fe6120c9411c1ef3a57f" resname="Single course" approved="yes">
         <source>Single course</source>
-        <target>Single course</target>
+        <target state="translated">Enkeltfag</target>
       </trans-unit>
       <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
         <source>Other</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="a007eca26d06b0b6d505e7d6f7f7baa4" resname="Apprenticeship" approved="yes">
         <source>Apprenticeship</source>
-        <target state="translated">Elevforløb</target>
+        <target state="translated">Elev</target>
       </trans-unit>
     </body>
   </file>

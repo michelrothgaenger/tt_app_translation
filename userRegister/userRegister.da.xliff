@@ -113,6 +113,10 @@
         <source>fos_user.password.mismatch</source>
         <target/>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit">
+        <source>registration.submit</source>
+        <target>Registrer</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Vilkår &amp; Betingelser</target>
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="5dc51607737d054649c35e464cdf2ded" resname="app.metaKeywordsTermsPage">
         <source>app.metaKeywordsTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>
@@ -101,9 +101,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target>TransportTalent does not promise full, uninterrupted or error free operation of the Website and/or the Services. All liability of TransportTalent, its directors or employees howsoever arising for any loss whatsoever arising from your use of or inability to use the Website and/or the Services is excluded, insofar as it is possible to do so in law.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Get Started</target>
+        <target state="translated">Kom igang</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>

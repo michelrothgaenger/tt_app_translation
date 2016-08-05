@@ -23,23 +23,23 @@
       </trans-unit>
       <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
         <source>Finance</source>
-        <target state="translated">Regnskabsafdeling</target>
+        <target state="translated">Regnskab &amp; Økonomi</target>
       </trans-unit>
       <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR" approved="yes">
         <source>HR</source>
         <target state="translated">Personale &amp; HR</target>
       </trans-unit>
-      <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal">
+      <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal" approved="yes">
         <source>Intermodal</source>
-        <target>Intermodal</target>
+        <target state="translated">Intermodal</target>
       </trans-unit>
       <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT">
         <source>IT</source>
         <target>IT</target>
       </trans-unit>
-      <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance">
+      <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance" approved="yes">
         <source>Legal &amp; Insurance</source>
-        <target><![CDATA[Legal & Insurance]]></target>
+        <target state="translated">Juridisk og Forsikring</target>
       </trans-unit>
       <trans-unit id="fa94922feddd82ceabecc7df7e1d006e" resname="Oceanfreight / Seafreight" approved="yes">
         <source>Oceanfreight / Seafreight</source>
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
         <source>Project Cargo</source>
-        <target state="translated">Projectlast</target>
+        <target state="translated">Projektgods</target>
       </trans-unit>
       <trans-unit id="569cfa311dfdfa035b1e7d4b38dc9ca0" resname="Rail" approved="yes">
         <source>Rail</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="d11aed2ff81f20a2e2b7e0cf06ee1a37" resname="Road" approved="yes">
         <source>Road</source>
-        <target state="translated">Landevej</target>
+        <target state="translated">Landevejstransport</target>
       </trans-unit>
       <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>

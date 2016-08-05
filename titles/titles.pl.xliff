@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="pl" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="988407b78b6fbc6665c44937f71120f0" resname="app.dr" approved="yes">
         <source>app.dr</source>
-        <target state="translated">Phd</target>
+        <target state="translated">Dr.</target>
       </trans-unit>
       <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="yes">
         <source>app.prof</source>
-        <target state="translated"/>
+        <target state="translated">Prof.</target>
       </trans-unit>
     </body>
   </file>

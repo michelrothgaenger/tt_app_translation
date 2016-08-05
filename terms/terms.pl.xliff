@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="pl" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
         <source>app.termsConditions</source>
-        <target state="translated">Vilkår &amp; Betingelser</target>
+        <target><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
         <source>app.termsPageAddress</source>
-        <target><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
+        <target>Transport Talent, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
       </trans-unit>
       <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices">
         <source>app.theServices</source>
@@ -101,9 +101,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target>TransportTalent does not promise full, uninterrupted or error free operation of the Website and/or the Services. All liability of TransportTalent, its directors or employees howsoever arising for any loss whatsoever arising from your use of or inability to use the Website and/or the Services is excluded, insofar as it is possible to do so in law.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
         <source>app.registration</source>
-        <target state="translated">Kom igang</target>
+        <target>Get Started</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>
@@ -209,9 +209,9 @@
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
         <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
     </body>
   </file>

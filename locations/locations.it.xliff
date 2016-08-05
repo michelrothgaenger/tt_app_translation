@@ -1,0 +1,3674 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="it" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="3f6765c843a517aa042ae011230aa976" resname="Geneva">
+        <source>Geneva</source>
+        <target>Geneva</target>
+      </trans-unit>
+      <trans-unit id="fcfff492e00727b63cf5dff9f59bc2a4" resname="Stockholm">
+        <source>Stockholm</source>
+        <target>Stockholm</target>
+      </trans-unit>
+      <trans-unit id="269cb914b20d49fb2f7cc5b1f602b7aa" resname="Birmingham">
+        <source>Birmingham</source>
+        <target>Birmingham</target>
+      </trans-unit>
+      <trans-unit id="9ed47047fb3b7f26ada9a35fe83d7b1b" resname="Coventry">
+        <source>Coventry</source>
+        <target>Coventry</target>
+      </trans-unit>
+      <trans-unit id="adf8c87f92da074a91d55da108dec9c3" resname="Vantaa">
+        <source>Vantaa</source>
+        <target>Vantaa</target>
+      </trans-unit>
+      <trans-unit id="ade8a673672f0e4c3da3fa6706f04979" resname="Mississauga">
+        <source>Mississauga</source>
+        <target>Mississauga</target>
+      </trans-unit>
+      <trans-unit id="a06360acafe964d244e424cbd50862e8" resname="Leicester">
+        <source>Leicester</source>
+        <target>Leicester</target>
+      </trans-unit>
+      <trans-unit id="317532540adceb07d5e2ec62d5eacac2" resname="Manchester">
+        <source>Manchester</source>
+        <target>Manchester</target>
+      </trans-unit>
+      <trans-unit id="ee9528184f21142f7b0fa9993048d9d0" resname="Bristol">
+        <source>Bristol</source>
+        <target>Bristol</target>
+      </trans-unit>
+      <trans-unit id="5fe6c5f0615b77894f8be4f40e092a89" resname="Eindhoven">
+        <source>Eindhoven</source>
+        <target>Eindhoven</target>
+      </trans-unit>
+      <trans-unit id="03b16e0a78b56bb5ada8e43123aaaa62" resname="Bonn">
+        <source>Bonn</source>
+        <target>Bonn</target>
+      </trans-unit>
+      <trans-unit id="6872f0ff045b6afb4019c8c580b5432a" resname="Nijmegen">
+        <source>Nijmegen</source>
+        <target>Nijmegen</target>
+      </trans-unit>
+      <trans-unit id="3dc9e6756185af90a8bbb03e8628feaf" resname="Örebro">
+        <source>Örebro</source>
+        <target>Örebro</target>
+      </trans-unit>
+      <trans-unit id="34de6132f13e62a0c803d12062324ad6" resname="Cologne">
+        <source>Cologne</source>
+        <target>Cologne</target>
+      </trans-unit>
+      <trans-unit id="baa993ff1d0f2fccb0573468522a2a4a" resname="Nuremberg">
+        <source>Nuremberg</source>
+        <target>Nuremberg</target>
+      </trans-unit>
+      <trans-unit id="5a884401673693b0bdf379fefb7ec2b2" resname="Southampton">
+        <source>Southampton</source>
+        <target>Southampton</target>
+      </trans-unit>
+      <trans-unit id="0fc442c4f44c971fa1cdb1bd64cec9d2" resname="Solihull">
+        <source>Solihull</source>
+        <target>Solihull</target>
+      </trans-unit>
+      <trans-unit id="fe4e5bd7633fa4f658e7def755b65ee7" resname="Bielefeld">
+        <source>Bielefeld</source>
+        <target>Bielefeld</target>
+      </trans-unit>
+      <trans-unit id="aea93afdf4bee7f4b52526ee5f040cea" resname="Basel">
+        <source>Basel</source>
+        <target>Basel</target>
+      </trans-unit>
+      <trans-unit id="38278119f2c41ca7aedcbc55eabf73cd" resname="Vancouver">
+        <source>Vancouver</source>
+        <target>Vancouver</target>
+      </trans-unit>
+      <trans-unit id="92c1f80a07ad537ddb7e00137d6a25f9" resname="Bremen">
+        <source>Bremen</source>
+        <target>Bremen</target>
+      </trans-unit>
+      <trans-unit id="7e268c60ba15269bd8aafe315096ecc2" resname="Gothenburg">
+        <source>Gothenburg</source>
+        <target>Gothenburg</target>
+      </trans-unit>
+      <trans-unit id="ee1611b61f5688e70c12b40684dbb395" resname="Berlin">
+        <source>Berlin</source>
+        <target>Berlin</target>
+      </trans-unit>
+      <trans-unit id="623145997cee6352dace475eaf530fff" resname="Belfast">
+        <source>Belfast</source>
+        <target>Belfast</target>
+      </trans-unit>
+      <trans-unit id="bd2b145b873049a539012fea08bfa71a" resname="Mannheim">
+        <source>Mannheim</source>
+        <target>Mannheim</target>
+      </trans-unit>
+      <trans-unit id="c7f455e277043646f7dd67819c68053f" resname="Milton Keynes">
+        <source>Milton Keynes</source>
+        <target>Milton Keynes</target>
+      </trans-unit>
+      <trans-unit id="afce84ff226407a47c9782a742ba02f7" resname="Liverpool">
+        <source>Liverpool</source>
+        <target>Liverpool</target>
+      </trans-unit>
+      <trans-unit id="e170433cb576a0b45fb493990df50393" resname="Hanover">
+        <source>Hanover</source>
+        <target>Hanover</target>
+      </trans-unit>
+      <trans-unit id="7e35e74e610188414ad24235dd787c78" resname="Moscow">
+        <source>Moscow</source>
+        <target>Moscow</target>
+      </trans-unit>
+      <trans-unit id="c651bda18ca0a5704727ed63d2bd3e8b" resname="Strasbourg">
+        <source>Strasbourg</source>
+        <target>Strasbourg</target>
+      </trans-unit>
+      <trans-unit id="4bd558d16c70e98fe49d40beb25da844" resname="Malmö">
+        <source>Malmö</source>
+        <target>Malmö</target>
+      </trans-unit>
+      <trans-unit id="002c887b8369e59e6f58a5d06a8d0817" resname="Cork">
+        <source>Cork</source>
+        <target>Cork</target>
+      </trans-unit>
+      <trans-unit id="35d7df6ed3d93be2927d14acc5f1fc9a" resname="Hamburg">
+        <source>Hamburg</source>
+        <target>Hamburg</target>
+      </trans-unit>
+      <trans-unit id="c421f40033caf1cdc102e879a1e73869" resname="Essen">
+        <source>Essen</source>
+        <target>Essen</target>
+      </trans-unit>
+      <trans-unit id="7b88a4aca50f33c258efc438d098c9f4" resname="Munich">
+        <source>Munich</source>
+        <target>Munich</target>
+      </trans-unit>
+      <trans-unit id="a330ac6c48198545d4d2f9ff2cb0fc05" resname="Stuttgart">
+        <source>Stuttgart</source>
+        <target>Stuttgart</target>
+      </trans-unit>
+      <trans-unit id="f53da95e5700ca1e7d12b7a833d62663" resname="Duisburg">
+        <source>Duisburg</source>
+        <target>Duisburg</target>
+      </trans-unit>
+      <trans-unit id="4a887b8a68acf9b04d9d027bddedb06b" resname="Leipzig">
+        <source>Leipzig</source>
+        <target>Leipzig</target>
+      </trans-unit>
+      <trans-unit id="2da3c827ccabc4855cb9921b4f1addfa" resname="Copenhagen">
+        <source>Copenhagen</source>
+        <target>Copenhagen</target>
+      </trans-unit>
+      <trans-unit id="e8fd3d083b72983290af7b774a00a132" resname="Aarhus">
+        <source>Aarhus</source>
+        <target>Aarhus</target>
+      </trans-unit>
+      <trans-unit id="08bc18bed30fbf4f826a1716d7c41051" resname="Odense">
+        <source>Odense</source>
+        <target>Odense</target>
+      </trans-unit>
+      <trans-unit id="11326be38b550c3eacbc16fc797f520c" resname="Aalborg">
+        <source>Aalborg</source>
+        <target>Aalborg</target>
+      </trans-unit>
+      <trans-unit id="0642cd44faf49d86135760616afca900" resname="Esbjerg">
+        <source>Esbjerg</source>
+        <target>Esbjerg</target>
+      </trans-unit>
+      <trans-unit id="d8ef33b699b944e805de2f9d66494f36" resname="Kolding">
+        <source>Kolding</source>
+        <target>Kolding</target>
+      </trans-unit>
+      <trans-unit id="460869dc2b6c01dbc576845c7da3550a" resname="Horsens">
+        <source>Horsens</source>
+        <target>Horsens</target>
+      </trans-unit>
+      <trans-unit id="b2fafd54a31d43bd40598368cce031d9" resname="Vejle">
+        <source>Vejle</source>
+        <target>Vejle</target>
+      </trans-unit>
+      <trans-unit id="55d2f6e5c90257a5dd10d0306b92f585" resname="Uppsala">
+        <source>Uppsala</source>
+        <target>Uppsala</target>
+      </trans-unit>
+      <trans-unit id="a18242b6e21f6965edea0101b7157053" resname="Västerås">
+        <source>Västerås</source>
+        <target>Västerås</target>
+      </trans-unit>
+      <trans-unit id="2d561d7f346a481cb54a8309f7ac04f6" resname="Linköping">
+        <source>Linköping</source>
+        <target>Linköping</target>
+      </trans-unit>
+      <trans-unit id="e70463985ec0df2dfd04711a244a44e0" resname="Helsingborg">
+        <source>Helsingborg</source>
+        <target>Helsingborg</target>
+      </trans-unit>
+      <trans-unit id="5f5af0cc15e39d3cacde9a82e549d4d6" resname="Jönköping">
+        <source>Jönköping</source>
+        <target>Jönköping</target>
+      </trans-unit>
+      <trans-unit id="e9be62049966688cb3823591fc3fb211" resname="Norrköping">
+        <source>Norrköping</source>
+        <target>Norrköping</target>
+      </trans-unit>
+      <trans-unit id="33542269ff54346c9f9ccdb3b8bf5178" resname="Lund">
+        <source>Lund</source>
+        <target>Lund</target>
+      </trans-unit>
+      <trans-unit id="f4830432874f86d2e2a1a5f2dbebbc80" resname="Oslo">
+        <source>Oslo</source>
+        <target>Oslo</target>
+      </trans-unit>
+      <trans-unit id="d36096a10b82aadd44de1efb13058c0b" resname="Bergen">
+        <source>Bergen</source>
+        <target>Bergen</target>
+      </trans-unit>
+      <trans-unit id="f608a4bfaa44aeb3cb8c2d09de41b159" resname="Trondheim">
+        <source>Trondheim</source>
+        <target>Trondheim</target>
+      </trans-unit>
+      <trans-unit id="dd755cfcbe227d7271b91c1be176fe6f" resname="Stavanger">
+        <source>Stavanger</source>
+        <target>Stavanger</target>
+      </trans-unit>
+      <trans-unit id="ceb98eff94c1788959bc54b86cb114a1" resname="Drammen">
+        <source>Drammen</source>
+        <target>Drammen</target>
+      </trans-unit>
+      <trans-unit id="a80093631cd395c013e3ce654943ca0b" resname="Fredrikstad">
+        <source>Fredrikstad</source>
+        <target>Fredrikstad</target>
+      </trans-unit>
+      <trans-unit id="54e85cbe1dcafdb11da5123993113fca" resname="Kristiansand">
+        <source>Kristiansand</source>
+        <target>Kristiansand</target>
+      </trans-unit>
+      <trans-unit id="72d7ad834f61e0f0cdb7fabab247ea2e" resname="Sandnes">
+        <source>Sandnes</source>
+        <target>Sandnes</target>
+      </trans-unit>
+      <trans-unit id="c7050330280ddd7d232db86e6a962dfb" resname="Tromsø">
+        <source>Tromsø</source>
+        <target>Tromsø</target>
+      </trans-unit>
+      <trans-unit id="06e8afc076eeecc2314746cd5bb323aa" resname="Sarpsborg">
+        <source>Sarpsborg</source>
+        <target>Sarpsborg</target>
+      </trans-unit>
+      <trans-unit id="8449280a23f8c4fcfb13469f6dc19592" resname="Helsinki">
+        <source>Helsinki</source>
+        <target>Helsinki</target>
+      </trans-unit>
+      <trans-unit id="2ee91cb5d0c0c4eb2afa916595d3f4f1" resname="Espoo">
+        <source>Espoo</source>
+        <target>Espoo</target>
+      </trans-unit>
+      <trans-unit id="471fe554e1c62d1b01cc8e4e5076c61a" resname="Tampere">
+        <source>Tampere</source>
+        <target>Tampere</target>
+      </trans-unit>
+      <trans-unit id="527fcbf9d80a049cd345b36ab98ee010" resname="Turku">
+        <source>Turku</source>
+        <target>Turku</target>
+      </trans-unit>
+      <trans-unit id="97182b40f63df5a8bbff0ab0e1708197" resname="Oulu">
+        <source>Oulu</source>
+        <target>Oulu</target>
+      </trans-unit>
+      <trans-unit id="41c4a2528e740860c0bdbd80eca2bbee" resname="Lahti">
+        <source>Lahti</source>
+        <target>Lahti</target>
+      </trans-unit>
+      <trans-unit id="184fd01aa32f9d6856f10bf31355624a" resname="Kuopio">
+        <source>Kuopio</source>
+        <target>Kuopio</target>
+      </trans-unit>
+      <trans-unit id="70f48369400216192aa419482ff6e15d" resname="Jyvaskyla">
+        <source>Jyvaskyla</source>
+        <target>Jyvaskyla</target>
+      </trans-unit>
+      <trans-unit id="1d5d43fec932ef0054b52798d52644ae" resname="Pori">
+        <source>Pori</source>
+        <target>Pori</target>
+      </trans-unit>
+      <trans-unit id="59ead8d1e124ccfb79f3ace06f43e703" resname="London">
+        <source>London</source>
+        <target>London</target>
+      </trans-unit>
+      <trans-unit id="f5f14661fb71d4f34c5fc6434fd88408" resname="Leeds">
+        <source>Leeds</source>
+        <target>Leeds</target>
+      </trans-unit>
+      <trans-unit id="d586293d554981ed611ab7b01316d2d5" resname="Glasgow">
+        <source>Glasgow</source>
+        <target>Glasgow</target>
+      </trans-unit>
+      <trans-unit id="30d85fa7d563a95914f4d31958e9e3fa" resname="Sheffield">
+        <source>Sheffield</source>
+        <target>Sheffield</target>
+      </trans-unit>
+      <trans-unit id="aa6039aa9501f740afe28823ab6a2419" resname="Bradford">
+        <source>Bradford</source>
+        <target>Bradford</target>
+      </trans-unit>
+      <trans-unit id="03cf54d8ce19777b12732b8c50b3b66f" resname="Edinburgh">
+        <source>Edinburgh</source>
+        <target>Edinburgh</target>
+      </trans-unit>
+      <trans-unit id="d084f2d2a2708ffba6765cec3951f696" resname="Kirklees">
+        <source>Kirklees</source>
+        <target>Kirklees</target>
+      </trans-unit>
+      <trans-unit id="e0c2123851b6aa68d67ee58299d1b5cd" resname="Fife">
+        <source>Fife</source>
+        <target>Fife</target>
+      </trans-unit>
+      <trans-unit id="8c8ca77eac40b394e853cf62b34f9543" resname="Wirral">
+        <source>Wirral</source>
+        <target>Wirral</target>
+      </trans-unit>
+      <trans-unit id="b942426e6f6a5e2ef21a23d58452776e" resname="North Lanarkshire">
+        <source>North Lanarkshire</source>
+        <target>North Lanarkshire</target>
+      </trans-unit>
+      <trans-unit id="58c2554ed86da100645271d8191838c9" resname="Wakefield">
+        <source>Wakefield</source>
+        <target>Wakefield</target>
+      </trans-unit>
+      <trans-unit id="288a6430a6f57a76e823d74e0dd750d2" resname="Cardiff">
+        <source>Cardiff</source>
+        <target>Cardiff</target>
+      </trans-unit>
+      <trans-unit id="88e710101655e5c7901990a94aeabe2a" resname="Dudley">
+        <source>Dudley</source>
+        <target>Dudley</target>
+      </trans-unit>
+      <trans-unit id="0feae062f2610641f849fcaa05c9f0ee" resname="Wigan">
+        <source>Wigan</source>
+        <target>Wigan</target>
+      </trans-unit>
+      <trans-unit id="e58c0ef83d41f96666d9e05db30922b9" resname="East Riding">
+        <source>East Riding</source>
+        <target>East Riding</target>
+      </trans-unit>
+      <trans-unit id="9f7b3ba6f74c8781ffe71efd14781966" resname="South Lanarkshire">
+        <source>South Lanarkshire</source>
+        <target>South Lanarkshire</target>
+      </trans-unit>
+      <trans-unit id="1820e986a8a213df782c5cf5ad0b65e1" resname="Sunderland">
+        <source>Sunderland</source>
+        <target>Sunderland</target>
+      </trans-unit>
+      <trans-unit id="f5f72e9d59bf003dd0eb05d4119da211" resname="Aberdeen">
+        <source>Aberdeen</source>
+        <target>Aberdeen</target>
+      </trans-unit>
+      <trans-unit id="6d4e1ac49afdaba18829c8804f95997d" resname="Highland">
+        <source>Highland</source>
+        <target>Highland</target>
+      </trans-unit>
+      <trans-unit id="7f8a08e40d992010b27a3dddfa98c899" resname="Rochdale">
+        <source>Rochdale</source>
+        <target>Rochdale</target>
+      </trans-unit>
+      <trans-unit id="706545b225615f74c0a6f19bcd6a8bbd" resname="Gateshead">
+        <source>Gateshead</source>
+        <target>Gateshead</target>
+      </trans-unit>
+      <trans-unit id="50fefb5efb085fd11b1a4fd2b6dda0aa" resname="Dublin">
+        <source>Dublin</source>
+        <target>Dublin</target>
+      </trans-unit>
+      <trans-unit id="9336ed08fd24d4c38318beb4c2d87418" resname="Limerick">
+        <source>Limerick</source>
+        <target>Limerick</target>
+      </trans-unit>
+      <trans-unit id="ab152fbe68afc3715bae8e24d1e9b221" resname="Galway">
+        <source>Galway</source>
+        <target>Galway</target>
+      </trans-unit>
+      <trans-unit id="9ada3a82683411344b1a0d19dfc1c615" resname="Waterford">
+        <source>Waterford</source>
+        <target>Waterford</target>
+      </trans-unit>
+      <trans-unit id="3eb8670d999ac077dd0e2c345cb7c905" resname="Amsterdam">
+        <source>Amsterdam</source>
+        <target>Amsterdam</target>
+      </trans-unit>
+      <trans-unit id="8f49c208e01797381033a70b55fbac13" resname="Rotterdam">
+        <source>Rotterdam</source>
+        <target>Rotterdam</target>
+      </trans-unit>
+      <trans-unit id="def2d40e4cdacbd734884ec81ed3d40b" resname="The Hague">
+        <source>The Hague</source>
+        <target>The Hague</target>
+      </trans-unit>
+      <trans-unit id="a7e95542fe6c4cc634c9d25bce7a5d58" resname="Utrecht">
+        <source>Utrecht</source>
+        <target>Utrecht</target>
+      </trans-unit>
+      <trans-unit id="44df15016d9503d3619f92d26b2cdc10" resname="Tilburg">
+        <source>Tilburg</source>
+        <target>Tilburg</target>
+      </trans-unit>
+      <trans-unit id="ce144267c96f8c98ad92306b021009c4" resname="Groningen">
+        <source>Groningen</source>
+        <target>Groningen</target>
+      </trans-unit>
+      <trans-unit id="f2c64c7e9f3d33371ae3a0c5f3ab4437" resname="Almere">
+        <source>Almere</source>
+        <target>Almere</target>
+      </trans-unit>
+      <trans-unit id="4960c3b9c04d9eeefc29911d5e513f4b" resname="Breda">
+        <source>Breda</source>
+        <target>Breda</target>
+      </trans-unit>
+      <trans-unit id="905ac7075793db541c8344c1485d0ef9" resname="Antwerp">
+        <source>Antwerp</source>
+        <target>Antwerp</target>
+      </trans-unit>
+      <trans-unit id="f641cddfd9724b416d034512d84972b9" resname="Ghent">
+        <source>Ghent</source>
+        <target>Ghent</target>
+      </trans-unit>
+      <trans-unit id="6e57d24e9ad45f18fb3b5684bbec9c87" resname="Charleroi">
+        <source>Charleroi</source>
+        <target>Charleroi</target>
+      </trans-unit>
+      <trans-unit id="f789e0ee6b575859e1b536ad30f927fa" resname="Liège">
+        <source>Liège</source>
+        <target>Liège</target>
+      </trans-unit>
+      <trans-unit id="8597b899bb9fc54160d1060d20e09cfa" resname="Brussels-City">
+        <source>Brussels-City</source>
+        <target>Brussels</target>
+      </trans-unit>
+      <trans-unit id="28453d3af60f2a1ac14deff11faf3539" resname="Bruges">
+        <source>Bruges</source>
+        <target>Bruges</target>
+      </trans-unit>
+      <trans-unit id="3c3c6648980ea4276922b3069577d6f2" resname="Schaerbeek / Schaarbeek">
+        <source>Schaerbeek / Schaarbeek</source>
+        <target>Schaarbeek</target>
+      </trans-unit>
+      <trans-unit id="01e0a8f3963b0affb56f8a6041087819" resname="Anderlecht">
+        <source>Anderlecht</source>
+        <target>Anderlecht</target>
+      </trans-unit>
+      <trans-unit id="7e466eeb1a1d124b8742391a4ab48633" resname="Namur">
+        <source>Namur</source>
+        <target>Namur</target>
+      </trans-unit>
+      <trans-unit id="107d33626f4b800670cd945702680dce" resname="Leuven">
+        <source>Leuven</source>
+        <target>Leuven</target>
+      </trans-unit>
+      <trans-unit id="06630c890abadde9228ea818ce52b621" resname="Luxembourg">
+        <source>Luxembourg</source>
+        <target>Luxembourg</target>
+      </trans-unit>
+      <trans-unit id="28c0b9ba9ac674bc514453543f413f2c" resname="Frankfurt am Main">
+        <source>Frankfurt am Main</source>
+        <target>Frankfurt am Main</target>
+      </trans-unit>
+      <trans-unit id="b26b1b64a28e2d39a59fa0f1404b0833" resname="Duesseldorf">
+        <source>Duesseldorf</source>
+        <target>Duesseldorf</target>
+      </trans-unit>
+      <trans-unit id="2728451089b9149bad7b106a792e51f9" resname="Dortmund">
+        <source>Dortmund</source>
+        <target>Dortmund</target>
+      </trans-unit>
+      <trans-unit id="19ed5f8ceab486afbee6b3ba5c88884d" resname="Dresden">
+        <source>Dresden</source>
+        <target>Dresden</target>
+      </trans-unit>
+      <trans-unit id="e5f7abdc9c96c4b16466b8b55cd74897" resname="Bochum">
+        <source>Bochum</source>
+        <target>Bochum</target>
+      </trans-unit>
+      <trans-unit id="b2dd380365878a85d4dddc01e54f94ce" resname="Wuppertal">
+        <source>Wuppertal</source>
+        <target>Wuppertal</target>
+      </trans-unit>
+      <trans-unit id="4d3e0acd6166e7434bc37196cd875740" resname="Karlsruhe">
+        <source>Karlsruhe</source>
+        <target>Karlsruhe</target>
+      </trans-unit>
+      <trans-unit id="2b29c5739ec4158573c66d2124e2c7e9" resname="Zurich">
+        <source>Zurich</source>
+        <target>Zurich</target>
+      </trans-unit>
+      <trans-unit id="961698fa64951bd6d3437ebc7931a899" resname="Bern">
+        <source>Bern</source>
+        <target>Bern</target>
+      </trans-unit>
+      <trans-unit id="2f4d156f29b46c9add9d9337453822fc" resname="Lausanne">
+        <source>Lausanne</source>
+        <target>Lausanne</target>
+      </trans-unit>
+      <trans-unit id="50c63b22cf2b15c4da2bb678943ba400" resname="Winterthur">
+        <source>Winterthur</source>
+        <target>Winterthur</target>
+      </trans-unit>
+      <trans-unit id="601f9226a92f0a314068aa4395f65528" resname="Vienna">
+        <source>Vienna</source>
+        <target>Vienna</target>
+      </trans-unit>
+      <trans-unit id="ca7668a05b2a3dbf29ca3d768c0febe8" resname="Graz">
+        <source>Graz</source>
+        <target>Graz</target>
+      </trans-unit>
+      <trans-unit id="443befbacdaa99c161dd11495b82b99b" resname="Linz">
+        <source>Linz</source>
+        <target>Linz</target>
+      </trans-unit>
+      <trans-unit id="ea6515eca27ae68c06c82e8cc2a6d318" resname="Salzburg">
+        <source>Salzburg</source>
+        <target>Salzburg</target>
+      </trans-unit>
+      <trans-unit id="1ff97f22292e3d91119e867aadcf511b" resname="Innsbruck">
+        <source>Innsbruck</source>
+        <target>Innsbruck</target>
+      </trans-unit>
+      <trans-unit id="e20d37a5d7fcc4c35be6fc18a8e71bfa" resname="Paris">
+        <source>Paris</source>
+        <target>Paris</target>
+      </trans-unit>
+      <trans-unit id="8377de0f1845174610bd8b815b9a285e" resname="Marseille">
+        <source>Marseille</source>
+        <target>Marseille</target>
+      </trans-unit>
+      <trans-unit id="debecab907ccabee0bc672b9fa1cab8a" resname="Lyon">
+        <source>Lyon</source>
+        <target>Lyon</target>
+      </trans-unit>
+      <trans-unit id="66d73a5c118ed4653630c2fe3464cf2d" resname="Toulouse">
+        <source>Toulouse</source>
+        <target>Toulouse</target>
+      </trans-unit>
+      <trans-unit id="914d0a4ebc177889b5b89a23f556fd75" resname="Nice">
+        <source>Nice</source>
+        <target>Nice</target>
+      </trans-unit>
+      <trans-unit id="62ba359fa6b58bea641314e7a4635cf6" resname="Nantes">
+        <source>Nantes</source>
+        <target>Nantes</target>
+      </trans-unit>
+      <trans-unit id="375c7d274d5b84410e7b2bf0a00a9465" resname="Montpellier">
+        <source>Montpellier</source>
+        <target>Montpellier</target>
+      </trans-unit>
+      <trans-unit id="a6f0077b898dc8d408c08168a2c44259" resname="Bordeaux">
+        <source>Bordeaux</source>
+        <target>Bordeaux</target>
+      </trans-unit>
+      <trans-unit id="c56e94a98504ed36e241a010edc8d0de" resname="Lille">
+        <source>Lille</source>
+        <target>Lille</target>
+      </trans-unit>
+      <trans-unit id="6314044c3803213e9fd3f3ecf8c90d65" resname="Madrid">
+        <source>Madrid</source>
+        <target>Madrid</target>
+      </trans-unit>
+      <trans-unit id="550d05ab240ec337038af814ff0de287" resname="Barcelona">
+        <source>Barcelona</source>
+        <target>Barcelona</target>
+      </trans-unit>
+      <trans-unit id="f7e876ee0252204a1b031de3c6394682" resname="Valencia(–Sagunto)">
+        <source>Valencia(–Sagunto)</source>
+        <target>Valencia</target>
+      </trans-unit>
+      <trans-unit id="dd6ee5049d042bf91a10eb69a39778f4" resname="Seville">
+        <source>Seville</source>
+        <target>Seville</target>
+      </trans-unit>
+      <trans-unit id="9be25805ebcf935fbc1129717940de03" resname="Bilbao">
+        <source>Bilbao</source>
+        <target>Bilbao</target>
+      </trans-unit>
+      <trans-unit id="9282ad4f29106b9a00a9b2408808700d" resname="Málaga">
+        <source>Málaga</source>
+        <target>Málaga</target>
+      </trans-unit>
+      <trans-unit id="ac2fa307ae449f4e91496768476c5ea0" resname="Oviedo–Gijón–Avilés">
+        <source>Oviedo–Gijón–Avilés</source>
+        <target>Oviedo–Gijón–Avilés</target>
+      </trans-unit>
+      <trans-unit id="135f85cd8a33febafeef660c62832b6c" resname="Alicante–Elche">
+        <source>Alicante–Elche</source>
+        <target>Alicante</target>
+      </trans-unit>
+      <trans-unit id="975af6d62c60f2e63ac8cf5402e0a870" resname="Las Palmas">
+        <source>Las Palmas</source>
+        <target>Las Palmas</target>
+      </trans-unit>
+      <trans-unit id="aa61ed8d764064c544fa1275c289ddb1" resname="Zaragoza">
+        <source>Zaragoza</source>
+        <target>Zaragoza</target>
+      </trans-unit>
+      <trans-unit id="cc66447cecbf80e2cbd55b8e33032002" resname="Murcia–Orihuela">
+        <source>Murcia–Orihuela</source>
+        <target>Murcia</target>
+      </trans-unit>
+      <trans-unit id="260b4e591e03de9750f965a30087ed5f" resname="Lisbon">
+        <source>Lisbon</source>
+        <target>Lisbon</target>
+      </trans-unit>
+      <trans-unit id="8493f398f200c8dffe60d46439dd3360" resname="Porto">
+        <source>Porto</source>
+        <target>Porto</target>
+      </trans-unit>
+      <trans-unit id="5a52f88785c87f75fa9f33f05087887a" resname="Vila Nova de Gaia">
+        <source>Vila Nova de Gaia</source>
+        <target>Vila Nova de Gaia</target>
+      </trans-unit>
+      <trans-unit id="db26f552a9b4b711e3537e26f49f2ccf" resname="Amadora">
+        <source>Amadora</source>
+        <target>Amadora</target>
+      </trans-unit>
+      <trans-unit id="7153e0185271817667370dab891cf95c" resname="Braga">
+        <source>Braga</source>
+        <target>Braga</target>
+      </trans-unit>
+      <trans-unit id="e82fd46b0550431fe786eaa614549608" resname="Roma">
+        <source>Roma</source>
+        <target>Roma</target>
+      </trans-unit>
+      <trans-unit id="3695b37abcc37806addc313453f4f5d4" resname="Milano">
+        <source>Milano</source>
+        <target>Milano</target>
+      </trans-unit>
+      <trans-unit id="c600c031a1ea10996b6cf3a81f66206e" resname="Napoli">
+        <source>Napoli</source>
+        <target>Napoli</target>
+      </trans-unit>
+      <trans-unit id="75ae464ee64b63a85ae221a07604f7d7" resname="Torino">
+        <source>Torino</source>
+        <target>Torino</target>
+      </trans-unit>
+      <trans-unit id="8191692ba6c002b14b07549113e62125" resname="Palermo">
+        <source>Palermo</source>
+        <target>Palermo</target>
+      </trans-unit>
+      <trans-unit id="b8405081f19b6dcdd2388910ad898a69" resname="Genova">
+        <source>Genova</source>
+        <target>Genova</target>
+      </trans-unit>
+      <trans-unit id="7014d0181914fb4722b90a49d53f5471" resname="Bologna">
+        <source>Bologna</source>
+        <target>Bologna</target>
+      </trans-unit>
+      <trans-unit id="db5333cce3d707fa54f29fd084174072" resname="Firenze">
+        <source>Firenze</source>
+        <target>Firenze</target>
+      </trans-unit>
+      <trans-unit id="557cafad824cf42623a4124c2eeb60f2" resname="Catania">
+        <source>Catania</source>
+        <target>Catania</target>
+      </trans-unit>
+      <trans-unit id="0a26395cc43da0729c1b4211ae8cb413" resname="Bari">
+        <source>Bari</source>
+        <target>Bari</target>
+      </trans-unit>
+      <trans-unit id="0fb35c9b5b18cbaa45b8511a7f84a2c0" resname="Venezia">
+        <source>Venezia</source>
+        <target>Venezia</target>
+      </trans-unit>
+      <trans-unit id="1569f8f32be7ae04898403c550b47b82" resname="Messina">
+        <source>Messina</source>
+        <target>Messina</target>
+      </trans-unit>
+      <trans-unit id="d32a635cff5dcc73a609d313801541d4" resname="Verona">
+        <source>Verona</source>
+        <target>Verona</target>
+      </trans-unit>
+      <trans-unit id="1d8b2ddc05f3f931791003d2ccd75e43" resname="Trieste">
+        <source>Trieste</source>
+        <target>Trieste</target>
+      </trans-unit>
+      <trans-unit id="9a79a45db36095906d0428f54df64e90" resname="Padova">
+        <source>Padova</source>
+        <target>Padova</target>
+      </trans-unit>
+      <trans-unit id="88043eda5977360180523d0476cf4756" resname="Taranto">
+        <source>Taranto</source>
+        <target>Taranto</target>
+      </trans-unit>
+      <trans-unit id="0c3c889cb60322b10d890d76a05f816e" resname="Brescia">
+        <source>Brescia</source>
+        <target>Brescia</target>
+      </trans-unit>
+      <trans-unit id="433b18facfc0582f09e92f3a05548392" resname="Reggio di Calabria">
+        <source>Reggio di Calabria</source>
+        <target>Reggio di Calabria</target>
+      </trans-unit>
+      <trans-unit id="0baa6458315a6490f3838a891c41ba27" resname="Modena">
+        <source>Modena</source>
+        <target>Modena</target>
+      </trans-unit>
+      <trans-unit id="3cfd7a09d50918a635414d2fdaf974da" resname="Cagliari">
+        <source>Cagliari</source>
+        <target>Cagliari</target>
+      </trans-unit>
+      <trans-unit id="c4f5a52e18787fe5bcb0b7e44903ba94" resname="Prato">
+        <source>Prato</source>
+        <target>Prato</target>
+      </trans-unit>
+      <trans-unit id="85bf516cb6ae2cc86249d1e7b9fa890c" resname="Parma">
+        <source>Parma</source>
+        <target>Parma</target>
+      </trans-unit>
+      <trans-unit id="5efb98cc2a44abbe2973aecc6cc85a58" resname="Livorno">
+        <source>Livorno</source>
+        <target>Livorno</target>
+      </trans-unit>
+      <trans-unit id="332c9bb9d6cb3190693c6e2e6e4a14ce" resname="Foggia">
+        <source>Foggia</source>
+        <target>Foggia</target>
+      </trans-unit>
+      <trans-unit id="a9dba1742461d4960c161ccb6d2ff60a" resname="Perugia">
+        <source>Perugia</source>
+        <target>Perugia</target>
+      </trans-unit>
+      <trans-unit id="674756b151c1a964546ad103f310fc5b" resname="Vilnius">
+        <source>Vilnius</source>
+        <target>Vilnius</target>
+      </trans-unit>
+      <trans-unit id="f009ac6cf96956b320e02e56fb494d09" resname="Klaipeda">
+        <source>Klaipeda</source>
+        <target>Klaipeda</target>
+      </trans-unit>
+      <trans-unit id="3a9c3ae8ea2e275700947e511afca943" resname="Kaunas">
+        <source>Kaunas</source>
+        <target>Kaunas</target>
+      </trans-unit>
+      <trans-unit id="c16c50f34911d1f5d3924c8267409904" resname="Riga">
+        <source>Riga</source>
+        <target>Riga</target>
+      </trans-unit>
+      <trans-unit id="3fd009fc32824bb0272f132898d00293" resname="Daugavpils">
+        <source>Daugavpils</source>
+        <target>Daugavpils</target>
+      </trans-unit>
+      <trans-unit id="cfb75a5a7481803e16b02bba55c08ca8" resname="Liepaja">
+        <source>Liepaja</source>
+        <target>Liepaja</target>
+      </trans-unit>
+      <trans-unit id="4a89de7770219e6f72d59b2a7009dbf3" resname="Tallin">
+        <source>Tallin</source>
+        <target>Tallin</target>
+      </trans-unit>
+      <trans-unit id="c918c4aabf7478a44f9d041428679fd8" resname="Tartu">
+        <source>Tartu</source>
+        <target>Tartu</target>
+      </trans-unit>
+      <trans-unit id="4fe99d19f82e3e6bff53acedf208b0dd" resname="Narva">
+        <source>Narva</source>
+        <target>Narva</target>
+      </trans-unit>
+      <trans-unit id="e0ca61669293ae9497c8b99ea97cf378" resname="Warzawa">
+        <source>Warzawa</source>
+        <target>Warzaw</target>
+      </trans-unit>
+      <trans-unit id="991954c83c220dd8c8fb6895cfdbbf1a" resname="Krakow">
+        <source>Krakow</source>
+        <target>Krakow</target>
+      </trans-unit>
+      <trans-unit id="14ba7e7a4807774aaeaa37d0f1916bb8" resname="Lodz">
+        <source>Lodz</source>
+        <target>Lodz</target>
+      </trans-unit>
+      <trans-unit id="142dcce5ac6b670f684a2b1d75ef70f2" resname="Wroclaw">
+        <source>Wroclaw</source>
+        <target>Wroclaw</target>
+      </trans-unit>
+      <trans-unit id="235430081e0daaa941394f7279395c3c" resname="Poznan">
+        <source>Poznan</source>
+        <target>Poznan</target>
+      </trans-unit>
+      <trans-unit id="7a9f085064e36deeba902697a7a035c1" resname="Gdansk">
+        <source>Gdansk</source>
+        <target>Gdansk</target>
+      </trans-unit>
+      <trans-unit id="f945ced1e1ea72eab3563d1f7255dba5" resname="Szczecin">
+        <source>Szczecin</source>
+        <target>Szczecin</target>
+      </trans-unit>
+      <trans-unit id="b708917c25783ba7837b8997042bb653" resname="Bydgoszcz">
+        <source>Bydgoszcz</source>
+        <target>Bydgoszcz</target>
+      </trans-unit>
+      <trans-unit id="f5b9b7d9f442d1b4d1e1314abf4df9d2" resname="Lublin">
+        <source>Lublin</source>
+        <target>Lublin</target>
+      </trans-unit>
+      <trans-unit id="fc439b89d0f0a5631a8e40258a819d0a" resname="Katowice">
+        <source>Katowice</source>
+        <target>Katowice</target>
+      </trans-unit>
+      <trans-unit id="030731390dab949e28d2e3fa11a3b6f3" resname="Saint Petersburg">
+        <source>Saint Petersburg</source>
+        <target>Saint Petersburg</target>
+      </trans-unit>
+      <trans-unit id="f38c039e89b151ba91c0ca6a990ae9ba" resname="Novosibirsk">
+        <source>Novosibirsk</source>
+        <target>Novosibirsk</target>
+      </trans-unit>
+      <trans-unit id="f4e6a69a8ad28a7626085d92488fb2c0" resname="Yekaterinburg">
+        <source>Yekaterinburg</source>
+        <target>Yekaterinburg</target>
+      </trans-unit>
+      <trans-unit id="c9068eee1dc60fff1f00a053d795ed68" resname="Nizhny Novgorod">
+        <source>Nizhny Novgorod</source>
+        <target>Nizhny Novgorod</target>
+      </trans-unit>
+      <trans-unit id="ae6d06b333642fea786d801e95e0b8d0" resname="Samara">
+        <source>Samara</source>
+        <target>Samara</target>
+      </trans-unit>
+      <trans-unit id="0d9b5c7faf5c1ce7d0728391ac51b538" resname="Omsk">
+        <source>Omsk</source>
+        <target>Omsk</target>
+      </trans-unit>
+      <trans-unit id="8a3752e9533d538016ce6ce86fe2a9be" resname="Kazan">
+        <source>Kazan</source>
+        <target>Kazan</target>
+      </trans-unit>
+      <trans-unit id="e83bf0d6ab2cdf9f3a8a6c0ce4354992" resname="Chelyabinsk">
+        <source>Chelyabinsk</source>
+        <target>Chelyabinsk</target>
+      </trans-unit>
+      <trans-unit id="d47ca499d35f70d3ef9a1c8dd6c76539" resname="Rostov-on-Don">
+        <source>Rostov-on-Don</source>
+        <target>Rostov-on-Don</target>
+      </trans-unit>
+      <trans-unit id="7965374f9592af19bfebce18a26c857b" resname="Ufa">
+        <source>Ufa</source>
+        <target>Ufa</target>
+      </trans-unit>
+      <trans-unit id="1b76b0d2b1c0131465044a89285260a8" resname="Volgograd">
+        <source>Volgograd</source>
+        <target>Volgograd</target>
+      </trans-unit>
+      <trans-unit id="f263a995390567b6ba090d0a4fb067d2" resname="Perm">
+        <source>Perm</source>
+        <target>Perm</target>
+      </trans-unit>
+      <trans-unit id="862d60f5be96b7f4cfbd82cc5e4f0892" resname="Krasnoyarsk">
+        <source>Krasnoyarsk</source>
+        <target>Krasnoyarsk</target>
+      </trans-unit>
+      <trans-unit id="8dfdd4caf0d29467bed1870a7a43ca14" resname="Voronezh">
+        <source>Voronezh</source>
+        <target>Voronezh</target>
+      </trans-unit>
+      <trans-unit id="94699b2cec46740bb8a72dcf9cba6889" resname="Saratov">
+        <source>Saratov</source>
+        <target>Saratov</target>
+      </trans-unit>
+      <trans-unit id="76f001f4f2ea282df52d8c095135dcc2" resname="Krasnodar">
+        <source>Krasnodar</source>
+        <target>Krasnodar</target>
+      </trans-unit>
+      <trans-unit id="b790fc458e7499a156683461f6a0aaac" resname="Tolyatti">
+        <source>Tolyatti</source>
+        <target>Tolyatti</target>
+      </trans-unit>
+      <trans-unit id="349e317ce357dcd6e5068bbf10ae7854" resname="Izhevsk">
+        <source>Izhevsk</source>
+        <target>Izhevsk</target>
+      </trans-unit>
+      <trans-unit id="4c00abf93900096275504b69a968ac9e" resname="Ulyanovsk">
+        <source>Ulyanovsk</source>
+        <target>Ulyanovsk</target>
+      </trans-unit>
+      <trans-unit id="cb25b76b6b989ad87ebc707cb9e43d31" resname="Barnaul">
+        <source>Barnaul</source>
+        <target>Barnaul</target>
+      </trans-unit>
+      <trans-unit id="e5aa23b540ec1892cc88127073613ec0" resname="Vladivostok">
+        <source>Vladivostok</source>
+        <target>Vladivostok</target>
+      </trans-unit>
+      <trans-unit id="99b6ea08e93467d5b785b80847266999" resname="Yaroslavl">
+        <source>Yaroslavl</source>
+        <target>Yaroslavl</target>
+      </trans-unit>
+      <trans-unit id="c5c12fffd30a23e3468076da2e046b90" resname="Kiev">
+        <source>Kiev</source>
+        <target>Kiev</target>
+      </trans-unit>
+      <trans-unit id="c17807505e17866958dc708e35623b85" resname="Kharkiv">
+        <source>Kharkiv</source>
+        <target>Kharkiv</target>
+      </trans-unit>
+      <trans-unit id="579eab5c8b8db892cc12d4905841a277" resname="Odessa">
+        <source>Odessa</source>
+        <target>Odessa</target>
+      </trans-unit>
+      <trans-unit id="a264ca27d5eac0eed606d6e10d1e93c0" resname="Dnipropetrovsk">
+        <source>Dnipropetrovsk</source>
+        <target>Dnipropetrovsk</target>
+      </trans-unit>
+      <trans-unit id="9a9d1ad7ed1e4bc7087fae2408ee7c46" resname="Donetsk">
+        <source>Donetsk</source>
+        <target>Donetsk</target>
+      </trans-unit>
+      <trans-unit id="81c333c62bab7e788ebfca7c0060a579" resname="Zaporizhia">
+        <source>Zaporizhia</source>
+        <target>Zaporizhia</target>
+      </trans-unit>
+      <trans-unit id="43a5ad276e80f525c203d25a92f0bf80" resname="Lviv">
+        <source>Lviv</source>
+        <target>Lviv</target>
+      </trans-unit>
+      <trans-unit id="ff3f3729bb40a15e9ae125dbfc4417cc" resname="Kryvyi Rih">
+        <source>Kryvyi Rih</source>
+        <target>Kryvyi Rih</target>
+      </trans-unit>
+      <trans-unit id="b53dcb1e3c62ec2fbac2c8504c7cbea3" resname="Mykolaiv">
+        <source>Mykolaiv</source>
+        <target>Mykolaiv</target>
+      </trans-unit>
+      <trans-unit id="2c609830331ca373146a3c4c3e45346d" resname="Mariupol">
+        <source>Mariupol</source>
+        <target>Mariupol</target>
+      </trans-unit>
+      <trans-unit id="9fed5dae86e3030d9be3740efa198659" resname="Budapest">
+        <source>Budapest</source>
+        <target>Budapest</target>
+      </trans-unit>
+      <trans-unit id="ae1a8a021f9d8d8995034a020a2bb05a" resname="Debrecen">
+        <source>Debrecen</source>
+        <target>Debrecen</target>
+      </trans-unit>
+      <trans-unit id="c6f21d4402257ede81a2ee894fd89d6f" resname="Miskolc">
+        <source>Miskolc</source>
+        <target>Miskolc</target>
+      </trans-unit>
+      <trans-unit id="7902d6001f5698aa972caa5d3c33d5d7" resname="Szeged">
+        <source>Szeged</source>
+        <target>Szeged</target>
+      </trans-unit>
+      <trans-unit id="a71105026dfe9155f7ac4d18e494a40b" resname="Prague">
+        <source>Prague</source>
+        <target>Prague</target>
+      </trans-unit>
+      <trans-unit id="091659f30d35048791dd0e2946e07f4d" resname="Brno">
+        <source>Brno</source>
+        <target>Brno</target>
+      </trans-unit>
+      <trans-unit id="e8ccda910b08840a1e06043510e9e175" resname="Ostrava">
+        <source>Ostrava</source>
+        <target>Ostrava</target>
+      </trans-unit>
+      <trans-unit id="547ed8b517d6aa2705f2fd3b8eeae874" resname="Pilsen">
+        <source>Pilsen</source>
+        <target>Pilsen</target>
+      </trans-unit>
+      <trans-unit id="26ba3224ef491b44fad2bb9545bf84d5" resname="Bucharest">
+        <source>Bucharest</source>
+        <target>Bucharest</target>
+      </trans-unit>
+      <trans-unit id="316e4c8f733be5b563607cfd5fd1bb16" resname="Cluj-Napoca">
+        <source>Cluj-Napoca</source>
+        <target>Cluj-Napoca</target>
+      </trans-unit>
+      <trans-unit id="559b285de57bb480aa4bfc733c150a25" resname="Timișoara">
+        <source>Timișoara</source>
+        <target>Timișoara</target>
+      </trans-unit>
+      <trans-unit id="a73ae8315bd5ae869a671700566fade3" resname="Iași">
+        <source>Iași</source>
+        <target>Iași</target>
+      </trans-unit>
+      <trans-unit id="2388726fafad5c0ca55733b2c559ca32" resname="Constanța">
+        <source>Constanța</source>
+        <target>Constanța</target>
+      </trans-unit>
+      <trans-unit id="8787a878258ef18bb38d9163f41b846c" resname="Minsk">
+        <source>Minsk</source>
+        <target>Minsk</target>
+      </trans-unit>
+      <trans-unit id="097580cf4b7c52085649ddd5442dda6f" resname="Gomel">
+        <source>Gomel</source>
+        <target>Gomel</target>
+      </trans-unit>
+      <trans-unit id="cb1bf5c6641406b2fb266a8cce5f73e8" resname="Mogilev">
+        <source>Mogilev</source>
+        <target>Mogilev</target>
+      </trans-unit>
+      <trans-unit id="6e867cfadb9747361aa133de75a5fa91" resname="Vitebsk">
+        <source>Vitebsk</source>
+        <target>Vitebsk</target>
+      </trans-unit>
+      <trans-unit id="08f461cf97ca681f53171eb8f21dc4c0" resname="Hrodna">
+        <source>Hrodna</source>
+        <target>Hrodna</target>
+      </trans-unit>
+      <trans-unit id="ba724abff1c570ac7de8480baae8782e" resname="Brest">
+        <source>Brest</source>
+        <target>Brest</target>
+      </trans-unit>
+      <trans-unit id="6978afeae11d806acc9201337c0017b0" resname="Almaty">
+        <source>Almaty</source>
+        <target>Almaty</target>
+      </trans-unit>
+      <trans-unit id="88468caed55221baac033a615533285a" resname="Astana">
+        <source>Astana</source>
+        <target>Astana</target>
+      </trans-unit>
+      <trans-unit id="7e33a70b65355e8d46d9a4074b7608b6" resname="Shymkent">
+        <source>Shymkent</source>
+        <target>Shymkent</target>
+      </trans-unit>
+      <trans-unit id="e562e0542b4591253a0a61ce4a3a0f54" resname="Karaganda">
+        <source>Karaganda</source>
+        <target>Karaganda</target>
+      </trans-unit>
+      <trans-unit id="137ed0726ec75c0e2245f692eaf85a20" resname="Aktobe">
+        <source>Aktobe</source>
+        <target>Aktobe</target>
+      </trans-unit>
+      <trans-unit id="e14045c6b4fe1e65d04aade91b1f8c1b" resname="Athens">
+        <source>Athens</source>
+        <target>Athens</target>
+      </trans-unit>
+      <trans-unit id="6ca5bea86fe229aa3c559cd8cb5fe493" resname="Thessaloniki">
+        <source>Thessaloniki</source>
+        <target>Thessaloniki</target>
+      </trans-unit>
+      <trans-unit id="b7f5020e39714a89048ca66a2e4c7eba" resname="Patras">
+        <source>Patras</source>
+        <target>Patras</target>
+      </trans-unit>
+      <trans-unit id="f6665e2a9ab77abefd148781e4dd135c" resname="Heraklion">
+        <source>Heraklion</source>
+        <target>Heraklion</target>
+      </trans-unit>
+      <trans-unit id="328d2df3814bab9aadf0f09b3cf5bd78" resname="Larissa">
+        <source>Larissa</source>
+        <target>Larissa</target>
+      </trans-unit>
+      <trans-unit id="654cd76590cebe0ba37e8d4cce8a96ee" resname="Sofia">
+        <source>Sofia</source>
+        <target>Sofia</target>
+      </trans-unit>
+      <trans-unit id="fa1f64875a9d4a0c11a12cf6e7845409" resname="Plovdiv">
+        <source>Plovdiv</source>
+        <target>Plovdiv</target>
+      </trans-unit>
+      <trans-unit id="5a598f4f101a9afc9d6bd4991eef3e98" resname="Varna">
+        <source>Varna</source>
+        <target>Varna</target>
+      </trans-unit>
+      <trans-unit id="99d90a58f2ae7d2ef9396128341b94d0" resname="Burgas">
+        <source>Burgas</source>
+        <target>Burgas</target>
+      </trans-unit>
+      <trans-unit id="83405408826823713d290a7a46aa65df" resname="Reykjavik">
+        <source>Reykjavik</source>
+        <target>Reykjavik</target>
+      </trans-unit>
+      <trans-unit id="e057658af9b30b9ca28c53ad80b96082" resname="Baku">
+        <source>Baku</source>
+        <target>Baku</target>
+      </trans-unit>
+      <trans-unit id="980f4aa92679a247b829bbb9380db57a" resname="Sumqayit">
+        <source>Sumqayit</source>
+        <target>Sumqayit</target>
+      </trans-unit>
+      <trans-unit id="87cd20277cbcff48e78bf96673ff8b99" resname="Ganja">
+        <source>Ganja</source>
+        <target>Ganja</target>
+      </trans-unit>
+      <trans-unit id="a1ff87a9ba1f08c1a501477fb5b604eb" resname="Mingachevir">
+        <source>Mingachevir</source>
+        <target>Mingachevir</target>
+      </trans-unit>
+      <trans-unit id="c87f42a2ab4a24074411dfd55ca71450" resname="Belgrade">
+        <source>Belgrade</source>
+        <target>Belgrade</target>
+      </trans-unit>
+      <trans-unit id="6bd8380fb771a1de7d1a921a172c48fc" resname="Novi Sad">
+        <source>Novi Sad</source>
+        <target>Novi Sad</target>
+      </trans-unit>
+      <trans-unit id="93b17e7be3647a36e0538101686466e2" resname="Niš">
+        <source>Niš</source>
+        <target>Niš</target>
+      </trans-unit>
+      <trans-unit id="e9145cacf610a243158fe7e2c2bc209e" resname="Kragujevac">
+        <source>Kragujevac</source>
+        <target>Kragujevac</target>
+      </trans-unit>
+      <trans-unit id="532531fe87971119dd0c1c2acbcbde56" resname="Tbilisi">
+        <source>Tbilisi</source>
+        <target>Tbilisi</target>
+      </trans-unit>
+      <trans-unit id="9d255a6c28bedbd7b7db241d6a265599" resname="Kutaisi">
+        <source>Kutaisi</source>
+        <target>Kutaisi</target>
+      </trans-unit>
+      <trans-unit id="b18922658a96f90831fd464ab2690dfd" resname="Batumi">
+        <source>Batumi</source>
+        <target>Batumi</target>
+      </trans-unit>
+      <trans-unit id="3fb49380684440f41dc0228ea84290fe" resname="Rustavi">
+        <source>Rustavi</source>
+        <target>Rustavi</target>
+      </trans-unit>
+      <trans-unit id="b827d268b3e75abe3c4419d959d93998" resname="Zagreb">
+        <source>Zagreb</source>
+        <target>Zagreb</target>
+      </trans-unit>
+      <trans-unit id="8a9e64d86ed12ad40de129bc7f4683b2" resname="Split">
+        <source>Split</source>
+        <target>Split</target>
+      </trans-unit>
+      <trans-unit id="c2c2749de595f2c9ff8d9f5cac51dfb5" resname="Rijeka">
+        <source>Rijeka</source>
+        <target>Rijeka</target>
+      </trans-unit>
+      <trans-unit id="01ccd3eee99914dd5e68294a338e2694" resname="Osijek">
+        <source>Osijek</source>
+        <target>Osijek</target>
+      </trans-unit>
+      <trans-unit id="45cb61a48b985856d8bf1cb545661858" resname="Sarajevo">
+        <source>Sarajevo</source>
+        <target>Sarajevo</target>
+      </trans-unit>
+      <trans-unit id="c114af7c3a3c9bbbbe2875e03aa486f7" resname="Bratislava">
+        <source>Bratislava</source>
+        <target>Bratislava</target>
+      </trans-unit>
+      <trans-unit id="4806b4f13b56b9676224a76245c6d554" resname="Kosice">
+        <source>Kosice</source>
+        <target>Kosice</target>
+      </trans-unit>
+      <trans-unit id="6fb830b124318983fed4862aac5eb618" resname="Presov">
+        <source>Presov</source>
+        <target>Presov</target>
+      </trans-unit>
+      <trans-unit id="46d813e50003211a88420b66bd2235ba" resname="Tirana">
+        <source>Tirana</source>
+        <target>Tirana</target>
+      </trans-unit>
+      <trans-unit id="62bb27b5b8c3806e00471f47a0099655" resname="Durrës">
+        <source>Durrës</source>
+        <target>Durrës</target>
+      </trans-unit>
+      <trans-unit id="93a4ffa91748b7320214138a7fc1c66b" resname="Vlorë">
+        <source>Vlorë</source>
+        <target>Vlorë</target>
+      </trans-unit>
+      <trans-unit id="a4d81f9796805c63e41f0bfdddff41ac" resname="Skopje">
+        <source>Skopje</source>
+        <target>Skopje</target>
+      </trans-unit>
+      <trans-unit id="0ef8f876d62a45352e28410454e3634b" resname="Istanbul">
+        <source>Istanbul</source>
+        <target>Istanbul</target>
+      </trans-unit>
+      <trans-unit id="9221413dd904c157938b397753a8b4bb" resname="Ankara">
+        <source>Ankara</source>
+        <target>Ankara</target>
+      </trans-unit>
+      <trans-unit id="87da1803d79be02847802fb26ee3f961" resname="Izmir">
+        <source>Izmir</source>
+        <target>Izmir</target>
+      </trans-unit>
+      <trans-unit id="85e75f7f6017ec0a620fa92005d5adc5" resname="Bursa">
+        <source>Bursa</source>
+        <target>Bursa</target>
+      </trans-unit>
+      <trans-unit id="71bc6c3b46c044f8698e04db990bdf36" resname="Ljubjana">
+        <source>Ljubjana</source>
+        <target>Ljubjana</target>
+      </trans-unit>
+      <trans-unit id="a12dd3982304a79b79376cd332e03ce7" resname="Maribor">
+        <source>Maribor</source>
+        <target>Maribor</target>
+      </trans-unit>
+      <trans-unit id="bc8ead33389619cc05222e0315e41216" resname="Podgorica">
+        <source>Podgorica</source>
+        <target>Podgorica</target>
+      </trans-unit>
+      <trans-unit id="35076d7aa3acad1b6e15b8beaaf5ab02" resname="Niksic">
+        <source>Niksic</source>
+        <target>Niksic</target>
+      </trans-unit>
+      <trans-unit id="bd558c0af9b32a3fcbd29e847d608f20" resname="Nicosia">
+        <source>Nicosia</source>
+        <target>Nicosia</target>
+      </trans-unit>
+      <trans-unit id="ce5f935e6ec2b08791ec66bc69a951e6" resname="Limassol">
+        <source>Limassol</source>
+        <target>Limassol</target>
+      </trans-unit>
+      <trans-unit id="d6a297c6193fd59309453a0db7a51b90" resname="Monaco">
+        <source>Monaco</source>
+        <target>Monaco</target>
+      </trans-unit>
+      <trans-unit id="f60acd6991c212d2881fc542bab5fd10" resname="Buffalo">
+        <source>Buffalo</source>
+        <target>Buffalo</target>
+      </trans-unit>
+      <trans-unit id="8fef75f5675fdc5d1b3ae47a8c7869fc" resname="Fort Wayne">
+        <source>Fort Wayne</source>
+        <target>Fort Wayne</target>
+      </trans-unit>
+      <trans-unit id="c0738e0b9281f9d1d660fcfe001fccb1" resname="Chandler">
+        <source>Chandler</source>
+        <target>Chandler</target>
+      </trans-unit>
+      <trans-unit id="3215e321c1a4aada45a03cd2e8e407bc" resname="St. Petersburg">
+        <source>St. Petersburg</source>
+        <target>St. Petersburg</target>
+      </trans-unit>
+      <trans-unit id="95bd59e6ca6ec2c5ced24d56c35e0c85" resname="Laredo">
+        <source>Laredo</source>
+        <target>Laredo</target>
+      </trans-unit>
+      <trans-unit id="28d3857fb3c613210f2e3335cf83824e" resname="Durham">
+        <source>Durham</source>
+        <target>Durham</target>
+      </trans-unit>
+      <trans-unit id="3ecc035dd613d1e8c86207e007da26a4" resname="Irvine">
+        <source>Irvine</source>
+        <target>Irvine</target>
+      </trans-unit>
+      <trans-unit id="9ebd7e71415b8e07fea9120eb1a68891" resname="Madison">
+        <source>Madison</source>
+        <target>Madison</target>
+      </trans-unit>
+      <trans-unit id="c394bf9a4d43b977e11610b5b5f85843" resname="Norfolk">
+        <source>Norfolk</source>
+        <target>Norfolk</target>
+      </trans-unit>
+      <trans-unit id="5909e9c6fb6a7d521b7cf23dd8ce7b58" resname="Lubbock">
+        <source>Lubbock</source>
+        <target>Lubbock</target>
+      </trans-unit>
+      <trans-unit id="0d798f1e4fbc18e4cdc5574113886ee6" resname="Gilbert">
+        <source>Gilbert</source>
+        <target>Gilbert</target>
+      </trans-unit>
+      <trans-unit id="874ba3f4ba817848bfc9cd91241206e6" resname="Winston–Salem">
+        <source>Winston–Salem</source>
+        <target>Winston–Salem</target>
+      </trans-unit>
+      <trans-unit id="5be25cca243da48f6ea1abd955fbea40" resname="Glendale">
+        <source>Glendale</source>
+        <target>Glendale</target>
+      </trans-unit>
+      <trans-unit id="77b6e24f5b78b6eb0697aa8994ce15e9" resname="Reno">
+        <source>Reno</source>
+        <target>Reno</target>
+      </trans-unit>
+      <trans-unit id="e2ae9a59a889168060cc9bbadf5b72d2" resname="Hialeah">
+        <source>Hialeah</source>
+        <target>Hialeah</target>
+      </trans-unit>
+      <trans-unit id="8d128c081d3db57a6b3e839b002d40ed" resname="Garland">
+        <source>Garland</source>
+        <target>Garland</target>
+      </trans-unit>
+      <trans-unit id="17859735506f8aa37c216f97c147eb8a" resname="Chesapeake">
+        <source>Chesapeake</source>
+        <target>Chesapeake</target>
+      </trans-unit>
+      <trans-unit id="94802d6366294c46caed219950f69865" resname="Irving">
+        <source>Irving</source>
+        <target>Irving</target>
+      </trans-unit>
+      <trans-unit id="1b8fec008e3d9ab271d4a262b245ba2a" resname="North Las Vegas">
+        <source>North Las Vegas</source>
+        <target>Las Vegas</target>
+      </trans-unit>
+      <trans-unit id="f9d7f79405199b9c9d86445189d0de94" resname="Scottsdale">
+        <source>Scottsdale</source>
+        <target>Scottsdale</target>
+      </trans-unit>
+      <trans-unit id="35c9317e0121c11e32199f94ab6a8be8" resname="Baton Rouge">
+        <source>Baton Rouge</source>
+        <target>Baton Rouge</target>
+      </trans-unit>
+      <trans-unit id="4ef646c423b5073e550046009cd3f8e2" resname="Fremont">
+        <source>Fremont</source>
+        <target>Fremont</target>
+      </trans-unit>
+      <trans-unit id="d4af3c71a62137f3070aacc8834ded1b" resname="Richmond">
+        <source>Richmond</source>
+        <target>Richmond</target>
+      </trans-unit>
+      <trans-unit id="daf1f64af9cb2ac00c1175a98e51ea42" resname="Boise">
+        <source>Boise</source>
+        <target>Boise</target>
+      </trans-unit>
+      <trans-unit id="02f2ee81a58d82c1830cacff754a2e91" resname="San Bernardino">
+        <source>San Bernardino</source>
+        <target>San Bernardino</target>
+      </trans-unit>
+      <trans-unit id="948ce72be6c871b84f6d0dab24f209ed" resname="Toronto">
+        <source>Toronto</source>
+        <target>Toronto</target>
+      </trans-unit>
+      <trans-unit id="0004b45d97463070fbfd2c26207c427d" resname="Montreal">
+        <source>Montreal</source>
+        <target>Montreal</target>
+      </trans-unit>
+      <trans-unit id="1e4eb05040e68d9312eb6ed016eaa4d8" resname="Calgary">
+        <source>Calgary</source>
+        <target>Calgary</target>
+      </trans-unit>
+      <trans-unit id="aeee33366b173305b90377ed63c1084a" resname="Ottawa">
+        <source>Ottawa</source>
+        <target>Ottawa</target>
+      </trans-unit>
+      <trans-unit id="25d43c379dc973b097d7d3ee052d7d2a" resname="Edmonton">
+        <source>Edmonton</source>
+        <target>Edmonton</target>
+      </trans-unit>
+      <trans-unit id="9f52f29ade262903f15dc9455eb2ddac" resname="Winnipeg">
+        <source>Winnipeg</source>
+        <target>Winnipeg</target>
+      </trans-unit>
+      <trans-unit id="eaf6cbae00a47b4060b6302b67716383" resname="Brampton">
+        <source>Brampton</source>
+        <target>Brampton</target>
+      </trans-unit>
+      <trans-unit id="adec714ae69bef54c5ee79cfcb41955d" resname="Hamilton">
+        <source>Hamilton</source>
+        <target>Hamilton</target>
+      </trans-unit>
+      <trans-unit id="ea76c0ae9dd817eb448fd1b3db6253bb" resname="São Paulo">
+        <source>São Paulo</source>
+        <target>São Paulo</target>
+      </trans-unit>
+      <trans-unit id="5cfd5837c67e04c1d6f52c1b42c11f10" resname="Rio de Janeiro">
+        <source>Rio de Janeiro</source>
+        <target>Rio de Janeiro</target>
+      </trans-unit>
+      <trans-unit id="b1dbcbd57e27e25b7b3cf6bbc16dd566" resname="Salvador">
+        <source>Salvador</source>
+        <target>Salvador</target>
+      </trans-unit>
+      <trans-unit id="7db4ffa81818c405b6a516913a719f96" resname="Brasília">
+        <source>Brasília</source>
+        <target>Brasília</target>
+      </trans-unit>
+      <trans-unit id="f81fb1d5572fed4fecd111dec0fdb543" resname="Fortaleza">
+        <source>Fortaleza</source>
+        <target>Fortaleza</target>
+      </trans-unit>
+      <trans-unit id="bdaa8e686a0605b54ff44fdb9417fdc8" resname="Belo Horizonte">
+        <source>Belo Horizonte</source>
+        <target>Belo Horizonte</target>
+      </trans-unit>
+      <trans-unit id="c76d102bdf98e28f21e83331d783063c" resname="Manaus">
+        <source>Manaus</source>
+        <target>Manaus</target>
+      </trans-unit>
+      <trans-unit id="3b7bf0a2e00574c0530f21aa8d315782" resname="Curitiba">
+        <source>Curitiba</source>
+        <target>Curitiba</target>
+      </trans-unit>
+      <trans-unit id="3333e0547576547b14326cddd9329671" resname="Recife">
+        <source>Recife</source>
+        <target>Recife</target>
+      </trans-unit>
+      <trans-unit id="fec8c8f7fccdb0825811a7ad2cb2e0a0" resname="Porto Alegre">
+        <source>Porto Alegre</source>
+        <target>Porto Alegre</target>
+      </trans-unit>
+      <trans-unit id="0164ddf9ddc99107b29e7107530e700b" resname="Belém">
+        <source>Belém</source>
+        <target>Belém</target>
+      </trans-unit>
+      <trans-unit id="497d39d74d2e00fe469b0bc32618f6bb" resname="Goiânia">
+        <source>Goiânia</source>
+        <target>Goiânia</target>
+      </trans-unit>
+      <trans-unit id="e6a6e2f8b53f680ed9e336c5700ea8b3" resname="Guarulhos">
+        <source>Guarulhos</source>
+        <target>Guarulhos</target>
+      </trans-unit>
+      <trans-unit id="299374832fe8afb81cb53ec26108371b" resname="Campinas">
+        <source>Campinas</source>
+        <target>Campinas</target>
+      </trans-unit>
+      <trans-unit id="0b4596f8efe110dc55bbe564213dfb33" resname="Mexico City">
+        <source>Mexico City</source>
+        <target>Mexico City</target>
+      </trans-unit>
+      <trans-unit id="1421ca5a98c011cb5c4e0f257fdff5b1" resname="Ecatepec">
+        <source>Ecatepec</source>
+        <target>Ecatepec</target>
+      </trans-unit>
+      <trans-unit id="82932d9ab70f90dddff4b3af38085ea7" resname="Guadalajara">
+        <source>Guadalajara</source>
+        <target>Guadalajara</target>
+      </trans-unit>
+      <trans-unit id="3811a3871a8efc883c680ddbab54fcaa" resname="Puebla">
+        <source>Puebla</source>
+        <target>Puebla</target>
+      </trans-unit>
+      <trans-unit id="c9e17dc1f65bbe62b5a648249c5b2011" resname="Juárez">
+        <source>Juárez</source>
+        <target>Juárez</target>
+      </trans-unit>
+      <trans-unit id="f8abf41bf5d4f0064441e43046f7010f" resname="Tijuana">
+        <source>Tijuana</source>
+        <target>Tijuana</target>
+      </trans-unit>
+      <trans-unit id="054cb7b04d8b9dbb6371197fd98c6112" resname="León">
+        <source>León</source>
+        <target>León</target>
+      </trans-unit>
+      <trans-unit id="fd225380b31cd8549043105748e8a556" resname="Zapopan">
+        <source>Zapopan</source>
+        <target>Zapopan</target>
+      </trans-unit>
+      <trans-unit id="520b719ffeaafb7246f8e5da26d5c0a4" resname="Monterrey">
+        <source>Monterrey</source>
+        <target>Monterrey</target>
+      </trans-unit>
+      <trans-unit id="d3a16550006070473ea05986f0d35377" resname="Nezahualcóyotl">
+        <source>Nezahualcóyotl</source>
+        <target>Nezahualcóyotl</target>
+      </trans-unit>
+      <trans-unit id="4ab02eb42d91b8e97216863c820a553b" resname="Chihuahua">
+        <source>Chihuahua</source>
+        <target>Chihuahua</target>
+      </trans-unit>
+      <trans-unit id="6641e0933cb62397371f2edb54a36a00" resname="Naucalpan">
+        <source>Naucalpan</source>
+        <target>Naucalpan</target>
+      </trans-unit>
+      <trans-unit id="bec6e0eda152091e6393ffaa0865da67" resname="Mérida">
+        <source>Mérida</source>
+        <target>Mérida</target>
+      </trans-unit>
+      <trans-unit id="6de1914b25bb925c09f7c82710d38a37" resname="San Luis Potosí">
+        <source>San Luis Potosí</source>
+        <target>San Luis Potosí</target>
+      </trans-unit>
+      <trans-unit id="d6a0c439bac235450119973453d451a3" resname="Aguascalientes">
+        <source>Aguascalientes</source>
+        <target>Aguascalientes</target>
+      </trans-unit>
+      <trans-unit id="00641d7f43bebff5001c4030979470a7" resname="Hermosillo">
+        <source>Hermosillo</source>
+        <target>Hermosillo</target>
+      </trans-unit>
+      <trans-unit id="313958145e7e235192f07d46a7e7e7ce" resname="Saltillo">
+        <source>Saltillo</source>
+        <target>Saltillo</target>
+      </trans-unit>
+      <trans-unit id="840dd30cab049c2c765f927504a0c2d8" resname="Mexicali">
+        <source>Mexicali</source>
+        <target>Mexicali</target>
+      </trans-unit>
+      <trans-unit id="7b5b4b151bfd36596a41615aa0734230" resname="Culiacán">
+        <source>Culiacán</source>
+        <target>Culiacán</target>
+      </trans-unit>
+      <trans-unit id="4e582d8d56dca11536d8ff1274ba7d5e" resname="Guadalupe">
+        <source>Guadalupe</source>
+        <target>Guadalupe</target>
+      </trans-unit>
+      <trans-unit id="8f354219c239d3445fd40b9561033eda" resname="Bogotá">
+        <source>Bogotá</source>
+        <target>Bogotá</target>
+      </trans-unit>
+      <trans-unit id="49837fd091472134706031790a00afb6" resname="Medellín">
+        <source>Medellín</source>
+        <target>Medellín</target>
+      </trans-unit>
+      <trans-unit id="e3bed28b347f26bfb1d0c9b9bda2712b" resname="Cali">
+        <source>Cali</source>
+        <target>Cali</target>
+      </trans-unit>
+      <trans-unit id="8b509f03d07fa64ed064953a4197ad01" resname="Barranquilla">
+        <source>Barranquilla</source>
+        <target>Barranquilla</target>
+      </trans-unit>
+      <trans-unit id="dc26c020ef410a1ad80e4649ba335458" resname="Cartagena">
+        <source>Cartagena</source>
+        <target>Cartagena</target>
+      </trans-unit>
+      <trans-unit id="ddec2d72d6c0f2fb5ea9c8586b9207c2" resname="Cúcuta">
+        <source>Cúcuta</source>
+        <target>Cúcuta</target>
+      </trans-unit>
+      <trans-unit id="4f0c01b2d2380717417e6685ea0d48ab" resname="Bucaramanga">
+        <source>Bucaramanga</source>
+        <target>Bucaramanga</target>
+      </trans-unit>
+      <trans-unit id="9477f92647bdabd4e66dec231b13bb7a" resname="Ibagué">
+        <source>Ibagué</source>
+        <target>Ibagué</target>
+      </trans-unit>
+      <trans-unit id="d3f78b26c2d11c99230171cc6378d06e" resname="Soledad">
+        <source>Soledad</source>
+        <target>Soledad</target>
+      </trans-unit>
+      <trans-unit id="42753fbb231ab760d2bb474d45bfc8b0" resname="Pereira">
+        <source>Pereira</source>
+        <target>Pereira</target>
+      </trans-unit>
+      <trans-unit id="464f18360a31a99b8003db4c668244c0" resname="Buenos Aires">
+        <source>Buenos Aires</source>
+        <target>Buenos Aires</target>
+      </trans-unit>
+      <trans-unit id="07146b4a2204dc76c7c2e5106e5885cf" resname="Córdoba">
+        <source>Córdoba</source>
+        <target>Córdoba</target>
+      </trans-unit>
+      <trans-unit id="a41f75e4530ea2494199bf46c27ac6ec" resname="Rosario">
+        <source>Rosario</source>
+        <target>Rosario</target>
+      </trans-unit>
+      <trans-unit id="1515960435c336515e9dca50c0f0df07" resname="Mendoza">
+        <source>Mendoza</source>
+        <target>Mendoza</target>
+      </trans-unit>
+      <trans-unit id="9dfd8680eba347c0713aeae9f600b794" resname="San Miguel de Tucumán">
+        <source>San Miguel de Tucumán</source>
+        <target>San Miguel de Tucumán</target>
+      </trans-unit>
+      <trans-unit id="8ee7151511ed2f5989aaf4b9c159c693" resname="La Plata">
+        <source>La Plata</source>
+        <target>La Plata</target>
+      </trans-unit>
+      <trans-unit id="4125d39b132b0af18dadf5d41b53fcce" resname="Mar del Plata">
+        <source>Mar del Plata</source>
+        <target>Mar del Plata</target>
+      </trans-unit>
+      <trans-unit id="72374ce78369594852951015e37ec6c1" resname="Salta">
+        <source>Salta</source>
+        <target>Salta</target>
+      </trans-unit>
+      <trans-unit id="3153868ca8888c026744b5090f8fea34" resname="Santa Fe de la Vera Cruz">
+        <source>Santa Fe de la Vera Cruz</source>
+        <target>Santa Fe de la Vera Cruz</target>
+      </trans-unit>
+      <trans-unit id="1af2a83405609130262cb21b2651a300" resname="San Juan">
+        <source>San Juan</source>
+        <target>San Juan</target>
+      </trans-unit>
+      <trans-unit id="0cb9cde516c38ed84dc1f3f2b5556ed3" resname="Lima">
+        <source>Lima</source>
+        <target>Lima</target>
+      </trans-unit>
+      <trans-unit id="171a98f4722267176bd0fe81f8980074" resname="Arequipa">
+        <source>Arequipa</source>
+        <target>Arequipa</target>
+      </trans-unit>
+      <trans-unit id="c50f4f1960426cf2b75774029040aef9" resname="Callao">
+        <source>Callao</source>
+        <target>Callao</target>
+      </trans-unit>
+      <trans-unit id="7fdf2d26a45dd99016fd4376c9867ae0" resname="Trujillo">
+        <source>Trujillo</source>
+        <target>Trujillo</target>
+      </trans-unit>
+      <trans-unit id="c9fa5b8cb3b197ae5ce4baf8415a375b" resname="Caracas">
+        <source>Caracas</source>
+        <target>Caracas</target>
+      </trans-unit>
+      <trans-unit id="3980f7ea079b574167138494f6bcbb9a" resname="Maracaibo">
+        <source>Maracaibo</source>
+        <target>Maracaibo</target>
+      </trans-unit>
+      <trans-unit id="3ad2a6c55c93fcf863e65867ddf11de4" resname="Maracay">
+        <source>Maracay</source>
+        <target>Maracay</target>
+      </trans-unit>
+      <trans-unit id="bddfcdfa742c2e57ea81bf96d27c35ba" resname="Valencia">
+        <source>Valencia</source>
+        <target>Valencia</target>
+      </trans-unit>
+      <trans-unit id="b402b481bc0dbd51687430c586c7909a" resname="Santiago">
+        <source>Santiago</source>
+        <target>Santiago</target>
+      </trans-unit>
+      <trans-unit id="ebae9f5171f9e8dea4706a0d8bac3ff2" resname="Puente Alto">
+        <source>Puente Alto</source>
+        <target>Puente Alto</target>
+      </trans-unit>
+      <trans-unit id="bcff8ce79caeec8c56ee42633d4c9d77" resname="Antofagasta">
+        <source>Antofagasta</source>
+        <target>Antofagasta</target>
+      </trans-unit>
+      <trans-unit id="f7cd5c0e9875c2023c1decfe6106781e" resname="Viña del Mar">
+        <source>Viña del Mar</source>
+        <target>Viña del Mar</target>
+      </trans-unit>
+      <trans-unit id="739b1f90a4d8a4b01d5f64ba3a788857" resname="Guayaquil">
+        <source>Guayaquil</source>
+        <target>Guayaquil</target>
+      </trans-unit>
+      <trans-unit id="aadcd2017119cf69f6e31dcb24e52a02" resname="Quito">
+        <source>Quito</source>
+        <target>Quito</target>
+      </trans-unit>
+      <trans-unit id="d9d67737a74f3a815b837136b17e3217" resname="Cuenca">
+        <source>Cuenca</source>
+        <target>Cuenca</target>
+      </trans-unit>
+      <trans-unit id="2bf5be6c17082f347d68218e07b01566" resname="Santo Domingo de los Colorados">
+        <source>Santo Domingo de los Colorados</source>
+        <target>Santo Domingo de los Colorados</target>
+      </trans-unit>
+      <trans-unit id="fab4c5e1f613f07cd542e2c364299226" resname="Guatemala City">
+        <source>Guatemala City</source>
+        <target>Guatemala City</target>
+      </trans-unit>
+      <trans-unit id="50e424ed87f9f86fa76dc2eb362cd42d" resname="Mixco">
+        <source>Mixco</source>
+        <target>Mixco</target>
+      </trans-unit>
+      <trans-unit id="f0cdd7466ac24a186cef6bbfb28da53d" resname="Villa Nueva">
+        <source>Villa Nueva</source>
+        <target>Villa Nueva</target>
+      </trans-unit>
+      <trans-unit id="2f5f9bdafa0927aebac4cf1dde2a8142" resname="Quetzaltenango">
+        <source>Quetzaltenango</source>
+        <target>Quetzaltenango</target>
+      </trans-unit>
+      <trans-unit id="8819692009314e64e3efb596442dbbb5" resname="Havana">
+        <source>Havana</source>
+        <target>Havana</target>
+      </trans-unit>
+      <trans-unit id="113e202b52db7631b4c47027d1edccf5" resname="Santiago de Cuba">
+        <source>Santiago de Cuba</source>
+        <target>Santiago de Cuba</target>
+      </trans-unit>
+      <trans-unit id="9de48d2f6fd1d7294109e8f3e317ace4" resname="Camagüey">
+        <source>Camagüey</source>
+        <target>Camagüey</target>
+      </trans-unit>
+      <trans-unit id="ce2fc5386022e76e7a22a444a97db707" resname="Holguín">
+        <source>Holguín</source>
+        <target>Holguín</target>
+      </trans-unit>
+      <trans-unit id="36447ecbdd29c73727b1b258321d253b" resname="Port-au-Prince">
+        <source>Port-au-Prince</source>
+        <target>Port-au-Prince</target>
+      </trans-unit>
+      <trans-unit id="a2a75b73f2cde6ea27a607ab1abb7a94" resname="Carrefour">
+        <source>Carrefour</source>
+        <target>Carrefour</target>
+      </trans-unit>
+      <trans-unit id="519741809d399f68f65aec103c7b48c4" resname="Delmas 73">
+        <source>Delmas 73</source>
+        <target>Delmas 73</target>
+      </trans-unit>
+      <trans-unit id="a5002cb4c19ce4c214d027ccc344336e" resname="Petionville">
+        <source>Petionville</source>
+        <target>Petionville</target>
+      </trans-unit>
+      <trans-unit id="f483eb9d9dedcc49ffa6ec7f1c74ab3e" resname="Santa Cruz de la Sierra">
+        <source>Santa Cruz de la Sierra</source>
+        <target>Santa Cruz de la Sierra</target>
+      </trans-unit>
+      <trans-unit id="cb81540bd7218706ba4c14b6660274b2" resname="Cochabamba">
+        <source>Cochabamba</source>
+        <target>Cochabamba</target>
+      </trans-unit>
+      <trans-unit id="acb1984e3b62f9178cf7d9cd5bf04764" resname="La Paz">
+        <source>La Paz</source>
+        <target>La Paz</target>
+      </trans-unit>
+      <trans-unit id="88f681e71c0111a835bfcef4d4dc1e7e" resname="Sucre">
+        <source>Sucre</source>
+        <target>Sucre</target>
+      </trans-unit>
+      <trans-unit id="29cb8691e1843d307a8d831219167549" resname="Santo Domingo">
+        <source>Santo Domingo</source>
+        <target>Santo Domingo</target>
+      </trans-unit>
+      <trans-unit id="31149eddd3137f3bba24e8b42f1f138c" resname="Santiago de los Caballeros">
+        <source>Santiago de los Caballeros</source>
+        <target>Santiago de los Caballeros</target>
+      </trans-unit>
+      <trans-unit id="14cdebd61427c851fcecc92ffc9ace34" resname="Santo Domingo Oeste">
+        <source>Santo Domingo Oeste</source>
+        <target>Santo Domingo Oeste</target>
+      </trans-unit>
+      <trans-unit id="7118c0eb795363d4c6b0e323bb786ee4" resname="San Pedro de Macoris">
+        <source>San Pedro de Macoris</source>
+        <target>San Pedro de Macoris</target>
+      </trans-unit>
+      <trans-unit id="4af0091a7b7bb978ca7192b6a4d093ea" resname="Tegucigalpa">
+        <source>Tegucigalpa</source>
+        <target>Tegucigalpa</target>
+      </trans-unit>
+      <trans-unit id="6dce4c777134cded4d0a1014ff1bc7de" resname="San Pedro Sula">
+        <source>San Pedro Sula</source>
+        <target>San Pedro Sula</target>
+      </trans-unit>
+      <trans-unit id="12801e8fc5a3ecb230a9815042418bd2" resname="Choloma">
+        <source>Choloma</source>
+        <target>Choloma</target>
+      </trans-unit>
+      <trans-unit id="d5a809bd2c4090402dc0cfe88032e290" resname="La Ceiba">
+        <source>La Ceiba</source>
+        <target>La Ceiba</target>
+      </trans-unit>
+      <trans-unit id="8410f16f69626640a58f6c75509b068b" resname="Asuncion">
+        <source>Asuncion</source>
+        <target>Asuncion</target>
+      </trans-unit>
+      <trans-unit id="d3e50e3b77ae6b0e2a8eafec714b81fe" resname="Ciudad del Este">
+        <source>Ciudad del Este</source>
+        <target>Ciudad del Este</target>
+      </trans-unit>
+      <trans-unit id="d73d35079d0e9c41806a56615c247b12" resname="San Lorenzo">
+        <source>San Lorenzo</source>
+        <target>San Lorenzo</target>
+      </trans-unit>
+      <trans-unit id="f0e2fe66c6868e001a68c92eab0bf294" resname="Capiata">
+        <source>Capiata</source>
+        <target>Capiata</target>
+      </trans-unit>
+      <trans-unit id="d98bf2a51283482a9283735e2324a1f2" resname="Managua">
+        <source>Managua</source>
+        <target>Managua</target>
+      </trans-unit>
+      <trans-unit id="e07e6eb83f5f015a24d1e62540856a5f" resname="Masaya">
+        <source>Masaya</source>
+        <target>Masaya</target>
+      </trans-unit>
+      <trans-unit id="71c70e4081adc9717b8364ec9836a466" resname="Matagalpa">
+        <source>Matagalpa</source>
+        <target>Matagalpa</target>
+      </trans-unit>
+      <trans-unit id="0127e714ebf6a3a25e4fdd721ecb36ed" resname="San Salvador">
+        <source>San Salvador</source>
+        <target>San Salvador</target>
+      </trans-unit>
+      <trans-unit id="f9494544f7a51f41c31cbc6bf67e320e" resname="Soyapango">
+        <source>Soyapango</source>
+        <target>Soyapango</target>
+      </trans-unit>
+      <trans-unit id="7286620f917ec65ca888c8a3fd593129" resname="Santa Ana">
+        <source>Santa Ana</source>
+        <target>Santa Ana</target>
+      </trans-unit>
+      <trans-unit id="bd10f8ed22bc839e3231f2cd424c336c" resname="San Miguel">
+        <source>San Miguel</source>
+        <target>San Miguel</target>
+      </trans-unit>
+      <trans-unit id="911249703eac5cfb9b339c50238b0252" resname="San José">
+        <source>San José</source>
+        <target>San José</target>
+      </trans-unit>
+      <trans-unit id="06c75a30055aecf34456e298fad9821f" resname="Puerto Limón">
+        <source>Puerto Limón</source>
+        <target>Puerto Limón</target>
+      </trans-unit>
+      <trans-unit id="f4334fdfa1c728eae375fe781e2e2d9d" resname="San Francisco">
+        <source>San Francisco</source>
+        <target>San Francisco</target>
+      </trans-unit>
+      <trans-unit id="15ea7fd5aaf3c271e51c5f6a909b3ea4" resname="Alajuela">
+        <source>Alajuela</source>
+        <target>Alajuela</target>
+      </trans-unit>
+      <trans-unit id="770aeea4e450b3fef97ba33dc5d1926c" resname="Panama City">
+        <source>Panama City</source>
+        <target>Panama City</target>
+      </trans-unit>
+      <trans-unit id="d839ef627025845db6420bc7e99e349d" resname="San Miguelito">
+        <source>San Miguelito</source>
+        <target>San Miguelito</target>
+      </trans-unit>
+      <trans-unit id="875a9922b06b099ef164a972e8b93335" resname="Tocumen">
+        <source>Tocumen</source>
+        <target>Tocumen</target>
+      </trans-unit>
+      <trans-unit id="b177880efd7b611c0acd1b3abd36d896" resname="David, Chiriquí">
+        <source>David, Chiriquí</source>
+        <target>David, Chiriquí</target>
+      </trans-unit>
+      <trans-unit id="3e4bf5c1aeb14119d4eb939392310a89" resname="Bayamon">
+        <source>Bayamon</source>
+        <target>Bayamon</target>
+      </trans-unit>
+      <trans-unit id="74c854713704589e2902963ede35a6db" resname="Carolina">
+        <source>Carolina</source>
+        <target>Carolina</target>
+      </trans-unit>
+      <trans-unit id="2cd794ef6cbd52854b5acc413d5247ca" resname="Ponce">
+        <source>Ponce</source>
+        <target>Ponce</target>
+      </trans-unit>
+      <trans-unit id="f01ac1a04a0343a4b0d4ec3976fc7b83" resname="Montevideo">
+        <source>Montevideo</source>
+        <target>Montevideo</target>
+      </trans-unit>
+      <trans-unit id="fd18be4a68c83c4fafa8d1661bf8d2cd" resname="Salto">
+        <source>Salto</source>
+        <target>Salto</target>
+      </trans-unit>
+      <trans-unit id="077ab6bd72df7b67a4e761895986ca88" resname="Paysandu">
+        <source>Paysandu</source>
+        <target>Paysandu</target>
+      </trans-unit>
+      <trans-unit id="6a311b277c92246a0d632c280ce08179" resname="Las Piedras">
+        <source>Las Piedras</source>
+        <target>Las Piedras</target>
+      </trans-unit>
+      <trans-unit id="2d20c677063489ac1dd757cddfc62ed0" resname="Luanda">
+        <source>Luanda</source>
+        <target>Luanda</target>
+      </trans-unit>
+      <trans-unit id="a1271c7d7d5d09596483ae9388e3b93b" resname="N'dalatando">
+        <source>N'dalatando</source>
+        <target>N'dalatando</target>
+      </trans-unit>
+      <trans-unit id="74ed2dc4ad55c3f5bc09bec23f9d9bc6" resname="Huambo">
+        <source>Huambo</source>
+        <target>Huambo</target>
+      </trans-unit>
+      <trans-unit id="87c2822b5dbf835646f6574fab71c794" resname="Lobito">
+        <source>Lobito</source>
+        <target>Lobito</target>
+      </trans-unit>
+      <trans-unit id="1e80355cd516bcf9d9fa48015d69c7c8" resname="Cotonou">
+        <source>Cotonou</source>
+        <target>Cotonou</target>
+      </trans-unit>
+      <trans-unit id="822b8dd5ad9692b16c9348578224a71e" resname="Gaborone">
+        <source>Gaborone</source>
+        <target>Gaborone</target>
+      </trans-unit>
+      <trans-unit id="5f80d62bcbab66ccc64f4728691bfb84" resname="Ouagadougou">
+        <source>Ouagadougou</source>
+        <target>Ouagadougou</target>
+      </trans-unit>
+      <trans-unit id="04071b0344fabee53a68866567c8b6c1" resname="Bujumbura">
+        <source>Bujumbura</source>
+        <target>Bujumbura</target>
+      </trans-unit>
+      <trans-unit id="dfe1fe4e1b9f529489741369cca9d483" resname="Douala">
+        <source>Douala</source>
+        <target>Douala</target>
+      </trans-unit>
+      <trans-unit id="cc210cbe5f979ee76aaa49c0872c5dcd" resname="Yaounde">
+        <source>Yaounde</source>
+        <target>Yaounde</target>
+      </trans-unit>
+      <trans-unit id="41a64c7f7807cf7fcaf3063b78c1acd8" resname="Garoua">
+        <source>Garoua</source>
+        <target>Garoua</target>
+      </trans-unit>
+      <trans-unit id="d26487e5638a9033e05f2629ed115f1f" resname="Kousseri">
+        <source>Kousseri</source>
+        <target>Kousseri</target>
+      </trans-unit>
+      <trans-unit id="83dde57a97032500618e1312b2f16849" resname="N'Djamena">
+        <source>N'Djamena</source>
+        <target>N'Djamena</target>
+      </trans-unit>
+      <trans-unit id="c183ebfa7247107256c5857d5b396cbd" resname="Bangui">
+        <source>Bangui</source>
+        <target>Bangui</target>
+      </trans-unit>
+      <trans-unit id="99ca5c728926ae20d2e7ede113a67b11" resname="Kinshasa">
+        <source>Kinshasa</source>
+        <target>Kinshasa</target>
+      </trans-unit>
+      <trans-unit id="67e6ed05e62cf5008647f5f0f4d7f025" resname="Lubumbashi">
+        <source>Lubumbashi</source>
+        <target>Lubumbashi</target>
+      </trans-unit>
+      <trans-unit id="0206e25cdd61f81c92cdcf7fe3e2f0a6" resname="Mbuji-Mayi">
+        <source>Mbuji-Mayi</source>
+        <target>Mbuji-Mayi</target>
+      </trans-unit>
+      <trans-unit id="5bc28af8e6fe2daa4e38f364732ff04a" resname="Kisangani">
+        <source>Kisangani</source>
+        <target>Kisangani</target>
+      </trans-unit>
+      <trans-unit id="019de76eff70580b22de64a715456c31" resname="Abidjan">
+        <source>Abidjan</source>
+        <target>Abidjan</target>
+      </trans-unit>
+      <trans-unit id="d0be94b6222221e7895249d69b8a1d40" resname="Abobo">
+        <source>Abobo</source>
+        <target>Abobo</target>
+      </trans-unit>
+      <trans-unit id="0e47c79a1df3339bcfc03ce50486578b" resname="Bouaké">
+        <source>Bouaké</source>
+        <target>Bouaké</target>
+      </trans-unit>
+      <trans-unit id="a7c7a655c4680a4037a30e7713d3b21b" resname="Daloa">
+        <source>Daloa</source>
+        <target>Daloa</target>
+      </trans-unit>
+      <trans-unit id="edec39499d13d2b8ec8acb740e2c83f2" resname="Djibouti City">
+        <source>Djibouti City</source>
+        <target>Djibouti City</target>
+      </trans-unit>
+      <trans-unit id="b181c43993de481ea462a2bfe11f0a1b" resname="Cairo">
+        <source>Cairo</source>
+        <target>Cairo</target>
+      </trans-unit>
+      <trans-unit id="a6bc8f85a33112c5beea4d357caad4cd" resname="Alexandria">
+        <source>Alexandria</source>
+        <target>Alexandria</target>
+      </trans-unit>
+      <trans-unit id="f56b8a0ca863faeef820ec87ccbe32c1" resname="Al Jizah">
+        <source>Al Jizah</source>
+        <target>Al Jizah</target>
+      </trans-unit>
+      <trans-unit id="e80e55851bbe6a8be9a4fc614bd5afba" resname="Port Said">
+        <source>Port Said</source>
+        <target>Port Said</target>
+      </trans-unit>
+      <trans-unit id="6c835e2e190196b7fe9d8255be6bbcb4" resname="Addis Ababa">
+        <source>Addis Ababa</source>
+        <target>Addis Ababa</target>
+      </trans-unit>
+      <trans-unit id="b0a3097d16d937b16beee5bbb27ecd19" resname="Dire Dawa">
+        <source>Dire Dawa</source>
+        <target>Dire Dawa</target>
+      </trans-unit>
+      <trans-unit id="47da9619f33f4bc03e7c6c74ae3e4cff" resname="Mekele">
+        <source>Mekele</source>
+        <target>Mekele</target>
+      </trans-unit>
+      <trans-unit id="822b01b6731ffa067b7f3899d8287199" resname="Nazret">
+        <source>Nazret</source>
+        <target>Nazret</target>
+      </trans-unit>
+      <trans-unit id="9da5cd7d2e6f8c875c70c17e73d3c4dd" resname="Serekunda">
+        <source>Serekunda</source>
+        <target>Serekunda</target>
+      </trans-unit>
+      <trans-unit id="74611b7301ba42555da48a38e252802c" resname="Accra">
+        <source>Accra</source>
+        <target>Accra</target>
+      </trans-unit>
+      <trans-unit id="ca5fc4903adce02288933c856e03b9fb" resname="Kumasi">
+        <source>Kumasi</source>
+        <target>Kumasi</target>
+      </trans-unit>
+      <trans-unit id="39d4a2d2614970454e2c68eaa6016eae" resname="Tamale">
+        <source>Tamale</source>
+        <target>Tamale</target>
+      </trans-unit>
+      <trans-unit id="2f2c6e4cb6d53f0c79bc47b199fb8110" resname="Takoradi">
+        <source>Takoradi</source>
+        <target>Takoradi</target>
+      </trans-unit>
+      <trans-unit id="fc9389801935ab6476b93373f658e705" resname="Nairobi">
+        <source>Nairobi</source>
+        <target>Nairobi</target>
+      </trans-unit>
+      <trans-unit id="dce6433abef08dffe22e433b721bfc14" resname="Mombasa">
+        <source>Mombasa</source>
+        <target>Mombasa</target>
+      </trans-unit>
+      <trans-unit id="19c534b0d76c04b678b5a8676ffac627" resname="Nakuru">
+        <source>Nakuru</source>
+        <target>Nakuru</target>
+      </trans-unit>
+      <trans-unit id="bb376e6441a7fe028a3fa328c40d4202" resname="Eldoret">
+        <source>Eldoret</source>
+        <target>Eldoret</target>
+      </trans-unit>
+      <trans-unit id="9b3af1bb38b7114f349064f74ea83fa4" resname="Tripoli">
+        <source>Tripoli</source>
+        <target>Tripoli</target>
+      </trans-unit>
+      <trans-unit id="f45c8a9398586b30878b279624060443" resname="Benghazi">
+        <source>Benghazi</source>
+        <target>Benghazi</target>
+      </trans-unit>
+      <trans-unit id="0277a371646ed6ac7a7fca1854eeb4ac" resname="Misratah">
+        <source>Misratah</source>
+        <target>Misratah</target>
+      </trans-unit>
+      <trans-unit id="3ad52b3f9b48d76ad68d3bdcd0f83684" resname="Tarhuna">
+        <source>Tarhuna</source>
+        <target>Tarhuna</target>
+      </trans-unit>
+      <trans-unit id="2a6d14355ea2edae611b49d8993bdac9" resname="Monrovia">
+        <source>Monrovia</source>
+        <target>Monrovia</target>
+      </trans-unit>
+      <trans-unit id="df4283d3aa6183cfcb74bffd1f545377" resname="Antananarivo">
+        <source>Antananarivo</source>
+        <target>Antananarivo</target>
+      </trans-unit>
+      <trans-unit id="c3f6f5440a16b82457cb096b3f4c63a7" resname="Lilongwe">
+        <source>Lilongwe</source>
+        <target>Lilongwe</target>
+      </trans-unit>
+      <trans-unit id="be865914e58d6c1e69c1923efa083ffa" resname="Blantyre">
+        <source>Blantyre</source>
+        <target>Blantyre</target>
+      </trans-unit>
+      <trans-unit id="0df54a621a4e76c1683931b70d412f17" resname="Bamako">
+        <source>Bamako</source>
+        <target>Bamako</target>
+      </trans-unit>
+      <trans-unit id="49a0c7aaede8ae2f47624661dd037fca" resname="Nouakchott">
+        <source>Nouakchott</source>
+        <target>Nouakchott</target>
+      </trans-unit>
+      <trans-unit id="b514b8c0d47ecd5aae91240ca50813de" resname="Port Luis">
+        <source>Port Luis</source>
+        <target>Port Luis</target>
+      </trans-unit>
+      <trans-unit id="adf20488d00fb576b16546b1c93611b4" resname="Casablanca">
+        <source>Casablanca</source>
+        <target>Casablanca</target>
+      </trans-unit>
+      <trans-unit id="fbed5c7b6db0d0d1328875d041a152cd" resname="Rabat">
+        <source>Rabat</source>
+        <target>Rabat</target>
+      </trans-unit>
+      <trans-unit id="bc53e4e373bb062c20530e3db0c562dc" resname="Fes">
+        <source>Fes</source>
+        <target>Fes</target>
+      </trans-unit>
+      <trans-unit id="f2cd171bd42220283b7a595c3ff2aaaf" resname="Sale">
+        <source>Sale</source>
+        <target>Sale</target>
+      </trans-unit>
+      <trans-unit id="0218a77ed79362a40e5f018feeebaba2" resname="Maputo">
+        <source>Maputo</source>
+        <target>Maputo</target>
+      </trans-unit>
+      <trans-unit id="a2120d1dad6247a625340ce73424dc6e" resname="Matola">
+        <source>Matola</source>
+        <target>Matola</target>
+      </trans-unit>
+      <trans-unit id="5973003f171d5152e8e07fedad30b9ef" resname="Beira">
+        <source>Beira</source>
+        <target>Beira</target>
+      </trans-unit>
+      <trans-unit id="7b8e86761d9bf5eafc69331a880ccc38" resname="Nampula">
+        <source>Nampula</source>
+        <target>Nampula</target>
+      </trans-unit>
+      <trans-unit id="9b1c3a79a84cc0ee72dcc5218b20e426" resname="Windhoek">
+        <source>Windhoek</source>
+        <target>Windhoek</target>
+      </trans-unit>
+      <trans-unit id="39ef60154960c66c93d8b584450edc06" resname="Niamey">
+        <source>Niamey</source>
+        <target>Niamey</target>
+      </trans-unit>
+      <trans-unit id="8db95c71eae98cf838c50d8916379eef" resname="Lagos">
+        <source>Lagos</source>
+        <target>Lagos</target>
+      </trans-unit>
+      <trans-unit id="d82d42e3d1dafb98cbdfde12669aef6d" resname="Kano">
+        <source>Kano</source>
+        <target>Kano</target>
+      </trans-unit>
+      <trans-unit id="33a022f2d40c22857b50f83d2147ee15" resname="Ibadan">
+        <source>Ibadan</source>
+        <target>Ibadan</target>
+      </trans-unit>
+      <trans-unit id="7b301433987f1586106e8fb8e6ce6ac6" resname="Kaduna">
+        <source>Kaduna</source>
+        <target>Kaduna</target>
+      </trans-unit>
+      <trans-unit id="0de15f9adc749698be030c64cd8c4d6c" resname="Kigali">
+        <source>Kigali</source>
+        <target>Kigali</target>
+      </trans-unit>
+      <trans-unit id="08ec2b465e90b2a8de19b62a7315fc69" resname="Dakar">
+        <source>Dakar</source>
+        <target>Dakar</target>
+      </trans-unit>
+      <trans-unit id="c5a8e0f2cdbc19a1adf0a6264416eef8" resname="Pikine">
+        <source>Pikine</source>
+        <target>Pikine</target>
+      </trans-unit>
+      <trans-unit id="ce67ed113e8f2d35f0bf20bdced99f3d" resname="Touba">
+        <source>Touba</source>
+        <target>Touba</target>
+      </trans-unit>
+      <trans-unit id="1fbf28b5b1d6767bc6911a5ca2de9465" resname="Thies Nones">
+        <source>Thies Nones</source>
+        <target>Thies Nones</target>
+      </trans-unit>
+      <trans-unit id="dfee9e39474b6e292d66c7facba668e1" resname="Victoria">
+        <source>Victoria</source>
+        <target>Victoria</target>
+      </trans-unit>
+      <trans-unit id="a3fc5ecf4be63b4b184658caec8d6756" resname="Freetown">
+        <source>Freetown</source>
+        <target>Freetown</target>
+      </trans-unit>
+      <trans-unit id="45b08e61d1324dbd318896c8c66b3a57" resname="Mogadishu">
+        <source>Mogadishu</source>
+        <target>Mogadishu</target>
+      </trans-unit>
+      <trans-unit id="3668eac480b76d50390d3193c0addc1e" resname="Hargeysa">
+        <source>Hargeysa</source>
+        <target>Hargeysa</target>
+      </trans-unit>
+      <trans-unit id="c76ada5d0e95d0a360b3e09477b925a5" resname="Berbera">
+        <source>Berbera</source>
+        <target>Berbera</target>
+      </trans-unit>
+      <trans-unit id="e72f5057a562a74caeefdec79aedb28d" resname="Kismayo">
+        <source>Kismayo</source>
+        <target>Kismayo</target>
+      </trans-unit>
+      <trans-unit id="5a6e47df50f895eec53a4dd2fe2393de" resname="Cape Town">
+        <source>Cape Town</source>
+        <target>Cape Town</target>
+      </trans-unit>
+      <trans-unit id="1842bcd39672346f0cfecd0d372a97d4" resname="Durban">
+        <source>Durban</source>
+        <target>Durban</target>
+      </trans-unit>
+      <trans-unit id="33416c1d32d3c19771d09bf215c7b514" resname="Johannesburg">
+        <source>Johannesburg</source>
+        <target>Johannesburg</target>
+      </trans-unit>
+      <trans-unit id="ffad8c412f83018566a377cc0496a3b0" resname="Soweto">
+        <source>Soweto</source>
+        <target>Soweto</target>
+      </trans-unit>
+      <trans-unit id="f3aed7b995946431dd27c6d71901dd96" resname="Pretoria">
+        <source>Pretoria</source>
+        <target>Pretoria</target>
+      </trans-unit>
+      <trans-unit id="82d5ae808a5f29fcf402045a7ecc4231" resname="Port Elizabeth">
+        <source>Port Elizabeth</source>
+        <target>Port Elizabeth</target>
+      </trans-unit>
+      <trans-unit id="133bf00154a38beece6ac5adfb14b12b" resname="Pietermaritzburg">
+        <source>Pietermaritzburg</source>
+        <target>Pietermaritzburg</target>
+      </trans-unit>
+      <trans-unit id="65a79f5978e6a312aaf4d2358b6e658a" resname="Bononi">
+        <source>Bononi</source>
+        <target>Bononi</target>
+      </trans-unit>
+      <trans-unit id="5f2399746f32a08eea5e89c2d5ceb15b" resname="Tembisa">
+        <source>Tembisa</source>
+        <target>Tembisa</target>
+      </trans-unit>
+      <trans-unit id="befe536d1ab23ccb179a7b66603dd98f" resname="East London">
+        <source>East London</source>
+        <target>East London</target>
+      </trans-unit>
+      <trans-unit id="260bbc70aae21dad4eefd307b690e2e5" resname="Khartoum">
+        <source>Khartoum</source>
+        <target>Khartoum</target>
+      </trans-unit>
+      <trans-unit id="bcdd5612c191f18c793e0a68d4973ac4" resname="Omdurman">
+        <source>Omdurman</source>
+        <target>Omdurman</target>
+      </trans-unit>
+      <trans-unit id="3f1640fb6aaca7dc40f52abb861dba1a" resname="Port Sudan">
+        <source>Port Sudan</source>
+        <target>Port Sudan</target>
+      </trans-unit>
+      <trans-unit id="909e7c0bb1db60861925280a728f9553" resname="Kassala">
+        <source>Kassala</source>
+        <target>Kassala</target>
+      </trans-unit>
+      <trans-unit id="db541ec6919d02fb830f49099eb031e0" resname="Manzini">
+        <source>Manzini</source>
+        <target>Manzini</target>
+      </trans-unit>
+      <trans-unit id="cde2d5e4d7c441ee80fcd3d7b328bebf" resname="Dar es Salaam">
+        <source>Dar es Salaam</source>
+        <target>Dar es Salaam</target>
+      </trans-unit>
+      <trans-unit id="8c953e6b0dc04a1732a219ecb1b80d87" resname="Mwanza">
+        <source>Mwanza</source>
+        <target>Mwanza</target>
+      </trans-unit>
+      <trans-unit id="61f715a48b8c0e80af675374d0bb1649" resname="Arusha">
+        <source>Arusha</source>
+        <target>Arusha</target>
+      </trans-unit>
+      <trans-unit id="11c31301af9029afaada00c773b2136d" resname="Zanzibar">
+        <source>Zanzibar</source>
+        <target>Zanzibar</target>
+      </trans-unit>
+      <trans-unit id="107d58b900283b8113ce75f16c46abf7" resname="Lome">
+        <source>Lome</source>
+        <target>Lome</target>
+      </trans-unit>
+      <trans-unit id="044c0f755d7e410a0da4c7d2b1a52263" resname="Tunis">
+        <source>Tunis</source>
+        <target>Tunis</target>
+      </trans-unit>
+      <trans-unit id="545aac8b5336ac5c13e2f36382481fc0" resname="Sfax">
+        <source>Sfax</source>
+        <target>Sfax</target>
+      </trans-unit>
+      <trans-unit id="a006156c20b3fbbbbec28e9fac9a1d02" resname="Kampala">
+        <source>Kampala</source>
+        <target>Kampala</target>
+      </trans-unit>
+      <trans-unit id="3c0a40c0c419f377ba16a840d6bca9d5" resname="Gulu">
+        <source>Gulu</source>
+        <target>Gulu</target>
+      </trans-unit>
+      <trans-unit id="c8f48c0d81ebe7c9f916746e840694de" resname="El-Aaiún">
+        <source>El-Aaiún</source>
+        <target>El-Aaiún</target>
+      </trans-unit>
+      <trans-unit id="c9e26aa604ddee6234c920e6d006ca8b" resname="Lusaka">
+        <source>Lusaka</source>
+        <target>Lusaka</target>
+      </trans-unit>
+      <trans-unit id="3e6c50429388cebb1cf942daa7b68168" resname="Ndola">
+        <source>Ndola</source>
+        <target>Ndola</target>
+      </trans-unit>
+      <trans-unit id="fd44336937bb1a8a8a0f2ed405213b28" resname="Kitwe">
+        <source>Kitwe</source>
+        <target>Kitwe</target>
+      </trans-unit>
+      <trans-unit id="f76b3286080d590470da6d22af14a0f1" resname="Kabwe">
+        <source>Kabwe</source>
+        <target>Kabwe</target>
+      </trans-unit>
+      <trans-unit id="b430d27fbf2eb1c3dda104005c96fa05" resname="Harare">
+        <source>Harare</source>
+        <target>Harare</target>
+      </trans-unit>
+      <trans-unit id="71fc970c8e1cfef8dcc1dfd394f8342b" resname="Bulawayo">
+        <source>Bulawayo</source>
+        <target>Bulawayo</target>
+      </trans-unit>
+      <trans-unit id="07ed0328994635a4ce98b18fba09ea3c" resname="Chitungwiza">
+        <source>Chitungwiza</source>
+        <target>Chitungwiza</target>
+      </trans-unit>
+      <trans-unit id="ed7b37ce943e144f5bd8bdbbb8d47062" resname="Tehran">
+        <source>Tehran</source>
+        <target>Tehran</target>
+      </trans-unit>
+      <trans-unit id="de1c378391fa6b8f07fbc8e7d6f90455" resname="Mashhad">
+        <source>Mashhad</source>
+        <target>Mashhad</target>
+      </trans-unit>
+      <trans-unit id="409508b6927d15e646385f81e89b37e6" resname="Isfahan">
+        <source>Isfahan</source>
+        <target>Isfahan</target>
+      </trans-unit>
+      <trans-unit id="566abc0223d4c5ffcf149644302f7cf1" resname="Karaj">
+        <source>Karaj</source>
+        <target>Karaj</target>
+      </trans-unit>
+      <trans-unit id="855aab747a125ca16285d6013b222b45" resname="Tabriz">
+        <source>Tabriz</source>
+        <target>Tabriz</target>
+      </trans-unit>
+      <trans-unit id="1b6b8b2aba8a1d8acfde73fcf87fdffb" resname="Shiraz">
+        <source>Shiraz</source>
+        <target>Shiraz</target>
+      </trans-unit>
+      <trans-unit id="0e66167e79ceebbe86469b0049fb5cd9" resname="Ahvaz">
+        <source>Ahvaz</source>
+        <target>Ahvaz</target>
+      </trans-unit>
+      <trans-unit id="1abf78bf4a6d3cbfff7a0b66a203c755" resname="Riyadh">
+        <source>Riyadh</source>
+        <target>Riyadh</target>
+      </trans-unit>
+      <trans-unit id="e45c2028046d99deab4fd1c38baa989b" resname="Jeddah">
+        <source>Jeddah</source>
+        <target>Jeddah</target>
+      </trans-unit>
+      <trans-unit id="6be2de5c39b31d2fda977de87a967975" resname="Mecca">
+        <source>Mecca</source>
+        <target>Mecca</target>
+      </trans-unit>
+      <trans-unit id="a2579de70254b8fbc9116eb8a259e612" resname="Medina">
+        <source>Medina</source>
+        <target>Medina</target>
+      </trans-unit>
+      <trans-unit id="b7e971499ed3f80b7c32784866c8e17f" resname="Sanaa">
+        <source>Sanaa</source>
+        <target>Sanaa</target>
+      </trans-unit>
+      <trans-unit id="7b51779c03728f793d885a5f8ad64269" resname="Al Hudaydah">
+        <source>Al Hudaydah</source>
+        <target>Al Hudaydah</target>
+      </trans-unit>
+      <trans-unit id="369bf138cb342144445fe7ef6fde23a8" resname="Aleppo">
+        <source>Aleppo</source>
+        <target>Aleppo</target>
+      </trans-unit>
+      <trans-unit id="f9087af03968b9a75a67376447f88bcf" resname="Damascus">
+        <source>Damascus</source>
+        <target>Damascus</target>
+      </trans-unit>
+      <trans-unit id="23b998b19b5f60dbbc4eedc53328b0c7" resname="Dubai">
+        <source>Dubai</source>
+        <target>Dubai</target>
+      </trans-unit>
+      <trans-unit id="ed49291dd8535b70546cb15e243ea37e" resname="Abu Dhabi">
+        <source>Abu Dhabi</source>
+        <target>Abu Dhabi</target>
+      </trans-unit>
+      <trans-unit id="a38fc5ae75908cd961d5a00b1a0cef85" resname="Sharjah">
+        <source>Sharjah</source>
+        <target>Sharjah</target>
+      </trans-unit>
+      <trans-unit id="ec61be3e2f08d805d75b29043394c1df" resname="Al Ain">
+        <source>Al Ain</source>
+        <target>Al Ain</target>
+      </trans-unit>
+      <trans-unit id="0a5ed43ab1e290a2356aaa745e7d7196" resname="Jerusalem">
+        <source>Jerusalem</source>
+        <target>Jerusalem</target>
+      </trans-unit>
+      <trans-unit id="fed3b4ee3015525c99755c7ef97eea96" resname="West Jerusalem">
+        <source>West Jerusalem</source>
+        <target>West Jerusalem</target>
+      </trans-unit>
+      <trans-unit id="874df54deb4579be3c47e9d2af8ba4de" resname="Haifa">
+        <source>Haifa</source>
+        <target>Haifa</target>
+      </trans-unit>
+      <trans-unit id="b5eed9442adc540b3e59ae08aa129632" resname="Tel Aviv">
+        <source>Tel Aviv</source>
+        <target>Tel Aviv</target>
+      </trans-unit>
+      <trans-unit id="65ca1960c302380349ee212d4d07e5c4" resname="Amman">
+        <source>Amman</source>
+        <target>Amman</target>
+      </trans-unit>
+      <trans-unit id="00005329a95eddb970efca95bbfee727" resname="Zarqa">
+        <source>Zarqa</source>
+        <target>Zarqa</target>
+      </trans-unit>
+      <trans-unit id="d138a8273cc098e58ac484bd39e28e9f" resname="Irbid">
+        <source>Irbid</source>
+        <target>Irbid</target>
+      </trans-unit>
+      <trans-unit id="e933cc8ac7edbadbfc6aa05ee22820b4" resname="East Jerusalem">
+        <source>East Jerusalem</source>
+        <target>East Jerusalem</target>
+      </trans-unit>
+      <trans-unit id="667af97a2cc4afa3b1d21d954e14744d" resname="Gaza">
+        <source>Gaza</source>
+        <target>Gaza</target>
+      </trans-unit>
+      <trans-unit id="8567d06b436c06938d4d20225c9ea85c" resname="Beirut">
+        <source>Beirut</source>
+        <target>Beirut</target>
+      </trans-unit>
+      <trans-unit id="3eec3fdd07f0647cb1ce67e6aa18d909" resname="Ra's Bayrūt">
+        <source>Ra's Bayrūt</source>
+        <target>Ra's Bayrūt</target>
+      </trans-unit>
+      <trans-unit id="ac6a6d52cb1827030753631c1285e1ec" resname="Muscat">
+        <source>Muscat</source>
+        <target>Muscat</target>
+      </trans-unit>
+      <trans-unit id="fdd1fb3ec357b44e150ef837051d86d9" resname="Salalah">
+        <source>Salalah</source>
+        <target>Salalah</target>
+      </trans-unit>
+      <trans-unit id="ad106d783a91b6e0689bcf204344fa2b" resname="Kuwait City">
+        <source>Kuwait City</source>
+        <target>Kuwait City</target>
+      </trans-unit>
+      <trans-unit id="8a3eb6a7438955f73522b17b701a5cea" resname="Al Ahmadi">
+        <source>Al Ahmadi</source>
+        <target>Al Ahmadi</target>
+      </trans-unit>
+      <trans-unit id="5503bcea3b608d5ce322ea8fb7f6806f" resname="Doha">
+        <source>Doha</source>
+        <target>Doha</target>
+      </trans-unit>
+      <trans-unit id="9c7bc2f449683c8b08748745509f1d07" resname="Manama">
+        <source>Manama</source>
+        <target>Manama</target>
+      </trans-unit>
+      <trans-unit id="62413a57c5e3dc51177995fa175d3286" resname="Tokyo">
+        <source>Tokyo</source>
+        <target>Tokyo</target>
+      </trans-unit>
+      <trans-unit id="2293c663d1bcd7015a53009f457c6940" resname="Kanagawa">
+        <source>Kanagawa</source>
+        <target>Kanagawa</target>
+      </trans-unit>
+      <trans-unit id="0d70a380fe641d8206c6d43c185b9c23" resname="Osaka">
+        <source>Osaka</source>
+        <target>Osaka</target>
+      </trans-unit>
+      <trans-unit id="8c11b22ec32974734b28abbb6c7141fd" resname="Aichi">
+        <source>Aichi</source>
+        <target>Aichi</target>
+      </trans-unit>
+      <trans-unit id="eed3160741538357c567dfe965467bfc" resname="Hokkaido">
+        <source>Hokkaido</source>
+        <target>Hokkaido</target>
+      </trans-unit>
+      <trans-unit id="b45188c5da5c7793366a10d9416f5fc1" resname="Hyōgo">
+        <source>Hyōgo</source>
+        <target>Hyōgo</target>
+      </trans-unit>
+      <trans-unit id="492379b2b8f7ac3f7cc8e0ca6254f4b1" resname="Kyoto">
+        <source>Kyoto</source>
+        <target>Kyoto</target>
+      </trans-unit>
+      <trans-unit id="f5d540492523ba1f8e1516239c6b60fb" resname="Fukuoka">
+        <source>Fukuoka</source>
+        <target>Fukuoka</target>
+      </trans-unit>
+      <trans-unit id="60c00ae40d7289b88eb6f45e765c75b0" resname="Saitama">
+        <source>Saitama</source>
+        <target>Saitama</target>
+      </trans-unit>
+      <trans-unit id="853cfbf8cc7335320da12e9de6287da8" resname="Hiroshima">
+        <source>Hiroshima</source>
+        <target>Hiroshima</target>
+      </trans-unit>
+      <trans-unit id="1a2a401ffb8e12d3a1e1783a92eec06f" resname="Miyagi">
+        <source>Miyagi</source>
+        <target>Miyagi</target>
+      </trans-unit>
+      <trans-unit id="1fc91e86962825bb745de53d1657b3e4" resname="Sydney">
+        <source>Sydney</source>
+        <target>Sydney</target>
+      </trans-unit>
+      <trans-unit id="7c885b9c7c703a77befcabeea54944d5" resname="Melbourne">
+        <source>Melbourne</source>
+        <target>Melbourne</target>
+      </trans-unit>
+      <trans-unit id="759302fb84c5f72078746e7358ba44a0" resname="Brisbane">
+        <source>Brisbane</source>
+        <target>Brisbane</target>
+      </trans-unit>
+      <trans-unit id="4bc44fa25c7afaf63618e6586084052e" resname="Perth">
+        <source>Perth</source>
+        <target>Perth</target>
+      </trans-unit>
+      <trans-unit id="a02f9768660497d370831df932feeeaf" resname="Adelaide">
+        <source>Adelaide</source>
+        <target>Adelaide</target>
+      </trans-unit>
+      <trans-unit id="146159057df3f8947f820d9fc184c6cd" resname="Auckland">
+        <source>Auckland</source>
+        <target>Auckland</target>
+      </trans-unit>
+      <trans-unit id="646c490db8f1951b717be6816af287e0" resname="Wellington">
+        <source>Wellington</source>
+        <target>Wellington</target>
+      </trans-unit>
+      <trans-unit id="a4771a6e1eadb532f2e8b5815028060e" resname="Christchurch">
+        <source>Christchurch</source>
+        <target>Christchurch</target>
+      </trans-unit>
+      <trans-unit id="650117631d3f886aa801992def439436" resname="Manukau">
+        <source>Manukau</source>
+        <target>Manukau</target>
+      </trans-unit>
+      <trans-unit id="fd38499c5c04df42d1d78807aa4b7d7d" resname="Seoul">
+        <source>Seoul</source>
+        <target>Seoul</target>
+      </trans-unit>
+      <trans-unit id="149587d2f624f37cb82abd80a4a4e41f" resname="Busan">
+        <source>Busan</source>
+        <target>Busan</target>
+      </trans-unit>
+      <trans-unit id="7afedf25b7e78341ed8d9ebf401daf75" resname="Incheon">
+        <source>Incheon</source>
+        <target>Incheon</target>
+      </trans-unit>
+      <trans-unit id="545f950264117a8072bd9863f19c1949" resname="Daegu">
+        <source>Daegu</source>
+        <target>Daegu</target>
+      </trans-unit>
+      <trans-unit id="4cde8b5042fb04b6b2741f7f15d10d58" resname="Daejeon">
+        <source>Daejeon</source>
+        <target>Daejeon</target>
+      </trans-unit>
+      <trans-unit id="767ad51e8a4176bd37bb1032323ab9bc" resname="Gwangju">
+        <source>Gwangju</source>
+        <target>Gwangju</target>
+      </trans-unit>
+      <trans-unit id="a0773f2718ee37ba262e9a8acebd34a8" resname="Ulsan">
+        <source>Ulsan</source>
+        <target>Ulsan</target>
+      </trans-unit>
+      <trans-unit id="dbcb1e5593847d303f0223ea933693fe" resname="Suwon">
+        <source>Suwon</source>
+        <target>Suwon</target>
+      </trans-unit>
+      <trans-unit id="cb079135058709a4d288f7fa2fee1709" resname="Changwon">
+        <source>Changwon</source>
+        <target>Changwon</target>
+      </trans-unit>
+      <trans-unit id="f3a693cf1392030d179eaa94d226f0ea" resname="Jakarta">
+        <source>Jakarta</source>
+        <target>Jakarta</target>
+      </trans-unit>
+      <trans-unit id="6dd0ba851a1586689ea2a37b9393694e" resname="Surabaya">
+        <source>Surabaya</source>
+        <target>Surabaya</target>
+      </trans-unit>
+      <trans-unit id="748be3bbd6272eb58bba8b311fa7fef9" resname="Bandung">
+        <source>Bandung</source>
+        <target>Bandung</target>
+      </trans-unit>
+      <trans-unit id="201df38673e87a472a3726d2e479412e" resname="Bekasi">
+        <source>Bekasi</source>
+        <target>Bekasi</target>
+      </trans-unit>
+      <trans-unit id="002d58e7320e036561568d54ac4b17ae" resname="Medan">
+        <source>Medan</source>
+        <target>Medan</target>
+      </trans-unit>
+      <trans-unit id="9c4c0789f2d835ff1bb932e260213778" resname="Tangerang">
+        <source>Tangerang</source>
+        <target>Tangerang</target>
+      </trans-unit>
+      <trans-unit id="c56883de67801f89a92947fa1d643b19" resname="Depok">
+        <source>Depok</source>
+        <target>Depok</target>
+      </trans-unit>
+      <trans-unit id="63ccf7e270a7307038af1d9bdcedf487" resname="Semerang">
+        <source>Semerang</source>
+        <target>Semerang</target>
+      </trans-unit>
+      <trans-unit id="3bc184c51213c80e6f0c431ceb653b85" resname="Palembang">
+        <source>Palembang</source>
+        <target>Palembang</target>
+      </trans-unit>
+      <trans-unit id="1ecc2a305906a7fd6c493312224a1186" resname="Batam">
+        <source>Batam</source>
+        <target>Batam</target>
+      </trans-unit>
+      <trans-unit id="b3f5d5eb242997101de194045431fb05" resname="Denpasar">
+        <source>Denpasar</source>
+        <target>Denpasar</target>
+      </trans-unit>
+      <trans-unit id="50a13d0dbb195487a4b6c602ea0fe532" resname="Guangzhou">
+        <source>Guangzhou</source>
+        <target>Guangzhou</target>
+      </trans-unit>
+      <trans-unit id="5466ee572bcbc75830d044e66ab429bc" resname="Shanghai">
+        <source>Shanghai</source>
+        <target>Shanghai</target>
+      </trans-unit>
+      <trans-unit id="78fb473f134eed43c959f9ebdeeb4050" resname="Beijing">
+        <source>Beijing</source>
+        <target>Beijing</target>
+      </trans-unit>
+      <trans-unit id="7b4b76194c6d4afcab4251f6d9bbbc39" resname="Shantou">
+        <source>Shantou</source>
+        <target>Shantou</target>
+      </trans-unit>
+      <trans-unit id="8f3199f4c051d7e2597afb0b55b23dee" resname="Shenzhen">
+        <source>Shenzhen</source>
+        <target>Shenzhen</target>
+      </trans-unit>
+      <trans-unit id="fe3697ee52d5d2841541ce5808afea1c" resname="Tianjin">
+        <source>Tianjin</source>
+        <target>Tianjin</target>
+      </trans-unit>
+      <trans-unit id="f4aa575f70b3f78887deb96ce611b187" resname="Chengdu">
+        <source>Chengdu</source>
+        <target>Chengdu</target>
+      </trans-unit>
+      <trans-unit id="3c5edae6612c25274d5d176ab34cbc7e" resname="Dongguan">
+        <source>Dongguan</source>
+        <target>Dongguan</target>
+      </trans-unit>
+      <trans-unit id="95e9c48630a252346b29cd52b365d3e2" resname="Hangzhou">
+        <source>Hangzhou</source>
+        <target>Hangzhou</target>
+      </trans-unit>
+      <trans-unit id="4b546d2192bf23da23ea0042cc622bfa" resname="Wuhan">
+        <source>Wuhan</source>
+        <target>Wuhan</target>
+      </trans-unit>
+      <trans-unit id="d3ecdb1d90623e05b65cd07fbea6bb7d" resname="Shenyang">
+        <source>Shenyang</source>
+        <target>Shenyang</target>
+      </trans-unit>
+      <trans-unit id="5da8b6870844479e692c0d9f102d6750" resname="Xi'an">
+        <source>Xi'an</source>
+        <target>Xi'an</target>
+      </trans-unit>
+      <trans-unit id="080fa4ae8318b4cc0be7f76fefe4838e" resname="Nanjing">
+        <source>Nanjing</source>
+        <target>Nanjing</target>
+      </trans-unit>
+      <trans-unit id="55b210da416ad9696c6dd74e4b836b7e" resname="Chongqing">
+        <source>Chongqing</source>
+        <target>Chongqing</target>
+      </trans-unit>
+      <trans-unit id="aa55f3cdcc6411ab2018c351951504b1" resname="Quanzhou">
+        <source>Quanzhou</source>
+        <target>Quanzhou</target>
+      </trans-unit>
+      <trans-unit id="3794849000ec748052b06894acff2313" resname="Wenzhou">
+        <source>Wenzhou</source>
+        <target>Wenzhou</target>
+      </trans-unit>
+      <trans-unit id="e20b15811b6adf2888116bdb387780d9" resname="Qingdao">
+        <source>Qingdao</source>
+        <target>Qingdao</target>
+      </trans-unit>
+      <trans-unit id="5dd1ec8da74254b165d8fa6ca8515e87" resname="Suzhou">
+        <source>Suzhou</source>
+        <target>Suzhou</target>
+      </trans-unit>
+      <trans-unit id="73fd77c513b4a6aa081850cd86a7d0c4" resname="Harbin">
+        <source>Harbin</source>
+        <target>Harbin</target>
+      </trans-unit>
+      <trans-unit id="15d7616682eed01d9a348d5d45153b73" resname="Qiqihar">
+        <source>Qiqihar</source>
+        <target>Qiqihar</target>
+      </trans-unit>
+      <trans-unit id="9d6d0f6936e1fb402d564d9e35fad9d4" resname="Xiamen">
+        <source>Xiamen</source>
+        <target>Xiamen</target>
+      </trans-unit>
+      <trans-unit id="18a1e3bd53adbd350f07144815c564f5" resname="Zhengzhou">
+        <source>Zhengzhou</source>
+        <target>Zhengzhou</target>
+      </trans-unit>
+      <trans-unit id="59d610d74de7caf80ad8e1c79a01bd79" resname="Jinan">
+        <source>Jinan</source>
+        <target>Jinan</target>
+      </trans-unit>
+      <trans-unit id="10332ea6607a3fa9cd5cffedfa2c739d" resname="Nanchang">
+        <source>Nanchang</source>
+        <target>Nanchang</target>
+      </trans-unit>
+      <trans-unit id="8fdb920993402e1ede3c311e256f2bfd" resname="Dalian">
+        <source>Dalian</source>
+        <target>Dalian</target>
+      </trans-unit>
+      <trans-unit id="4781886690b72bcfaadebed7f965a609" resname="Changsha">
+        <source>Changsha</source>
+        <target>Changsha</target>
+      </trans-unit>
+      <trans-unit id="a15559bd6483430dfc3df77fc0018a38" resname="Taiyuan">
+        <source>Taiyuan</source>
+        <target>Taiyuan</target>
+      </trans-unit>
+      <trans-unit id="ea488c8b5f471896cafce6d18a0dbe2a" resname="Shijiazhuang">
+        <source>Shijiazhuang</source>
+        <target>Shijiazhuang</target>
+      </trans-unit>
+      <trans-unit id="08b9a179ae67e6d81b865889bc2e9417" resname="Kunming">
+        <source>Kunming</source>
+        <target>Kunming</target>
+      </trans-unit>
+      <trans-unit id="cf3dc09cea06f0f46e196a14fb82057d" resname="Wuxi">
+        <source>Wuxi</source>
+        <target>Wuxi</target>
+      </trans-unit>
+      <trans-unit id="a2c411fe0ae4a4aea3b4f704c6770517" resname="Changchun">
+        <source>Changchun</source>
+        <target>Changchun</target>
+      </trans-unit>
+      <trans-unit id="67c476ae81813a2118ae88e25538f7e7" resname="Ningbo">
+        <source>Ningbo</source>
+        <target>Ningbo</target>
+      </trans-unit>
+      <trans-unit id="60e6f50ab282b9ec5c2e3999bb5d4904" resname="Zibo">
+        <source>Zibo</source>
+        <target>Zibo</target>
+      </trans-unit>
+      <trans-unit id="303e4ca8c8e052424f95a7e4493314fb" resname="Hefei">
+        <source>Hefei</source>
+        <target>Hefei</target>
+      </trans-unit>
+      <trans-unit id="68ee6348a1dec7153905f5652b480a95" resname="Changzhou">
+        <source>Changzhou</source>
+        <target>Changzhou</target>
+      </trans-unit>
+      <trans-unit id="210126038f8b215955f8b731ccc358b1" resname="Taizhou">
+        <source>Taizhou</source>
+        <target>Taizhou</target>
+      </trans-unit>
+      <trans-unit id="58c66417b0cd079601da3884db444cba" resname="Tangshan">
+        <source>Tangshan</source>
+        <target>Tangshan</target>
+      </trans-unit>
+      <trans-unit id="91ee483831b98d12d6ccae7d7d7402fe" resname="Nantong">
+        <source>Nantong</source>
+        <target>Nantong</target>
+      </trans-unit>
+      <trans-unit id="1e213cc0c59366079912578d1bdeaf62" resname="Nanning">
+        <source>Nanning</source>
+        <target>Nanning</target>
+      </trans-unit>
+      <trans-unit id="b51a587f0ffd2bb3ec09302c474181d8" resname="Guiyang">
+        <source>Guiyang</source>
+        <target>Guiyang</target>
+      </trans-unit>
+      <trans-unit id="7a4e1add2047d025b98f55dbb33382b5" resname="Taipei">
+        <source>Taipei</source>
+        <target>Taipei</target>
+      </trans-unit>
+      <trans-unit id="0d13ce92ec6ceb2a90888849de101ead" resname="Kaohsiung City">
+        <source>Kaohsiung City</source>
+        <target>Kaohsiung City</target>
+      </trans-unit>
+      <trans-unit id="f435a1c5dec1b05e02528952d1af368f" resname="Taichung">
+        <source>Taichung</source>
+        <target>Taichung</target>
+      </trans-unit>
+      <trans-unit id="7b2275912126ad634fa7d15aab5dcaeb" resname="Tainan City">
+        <source>Tainan City</source>
+        <target>Tainan City</target>
+      </trans-unit>
+      <trans-unit id="3d147c6ba113929f5a004a5e9dcc832e" resname="Bangkok">
+        <source>Bangkok</source>
+        <target>Bangkok</target>
+      </trans-unit>
+      <trans-unit id="06897ded5c646cd6df48604b0e15fd61" resname="Samut Prakan">
+        <source>Samut Prakan</source>
+        <target>Samut Prakan</target>
+      </trans-unit>
+      <trans-unit id="471c486943909fc28414cd099d0c4887" resname="Mueang Nonthaburi">
+        <source>Mueang Nonthaburi</source>
+        <target>Mueang Nonthaburi</target>
+      </trans-unit>
+      <trans-unit id="fc61acb4f3177eda6c527a9af6d35b49" resname="Udon Thani">
+        <source>Udon Thani</source>
+        <target>Udon Thani</target>
+      </trans-unit>
+      <trans-unit id="dc5df51ea7e4a83d5663ca4ced03a1aa" resname="Kuala Lumpur">
+        <source>Kuala Lumpur</source>
+        <target>Kuala Lumpur</target>
+      </trans-unit>
+      <trans-unit id="b104e3897c667bf973275e13c77e88c1" resname="Seberang Perai">
+        <source>Seberang Perai</source>
+        <target>Seberang Perai</target>
+      </trans-unit>
+      <trans-unit id="81067050a2da0e45d8b6277326db7ef7" resname="George Town">
+        <source>George Town</source>
+        <target>George Town</target>
+      </trans-unit>
+      <trans-unit id="904db886c8032116e4724a40d524cb3c" resname="Kajang">
+        <source>Kajang</source>
+        <target>Kajang</target>
+      </trans-unit>
+      <trans-unit id="d7e0f4b9f1ddaf3f7ea32df0541b9c40" resname="Klang">
+        <source>Klang</source>
+        <target>Klang</target>
+      </trans-unit>
+      <trans-unit id="458e4cbc78201c1aec5fc53a31c59378" resname="Singapore">
+        <source>Singapore</source>
+        <target>Singapore</target>
+      </trans-unit>
+      <trans-unit id="8b476ff778119b8d49588f3daadf69a1" resname="Hong Kong">
+        <source>Hong Kong</source>
+        <target>Hong Kong</target>
+      </trans-unit>
+      <trans-unit id="d2b2e4ab8978d081befb23ebcbfcd179" resname="Quezon City">
+        <source>Quezon City</source>
+        <target>Quezon City</target>
+      </trans-unit>
+      <trans-unit id="b07c844628c2a9ec3593f4ff4b4f1ec1" resname="Manila">
+        <source>Manila</source>
+        <target>Manila</target>
+      </trans-unit>
+      <trans-unit id="1ebd49de728c91daded7fe89c3670b55" resname="Caloocan">
+        <source>Caloocan</source>
+        <target>Caloocan</target>
+      </trans-unit>
+      <trans-unit id="2211ef3aabad24eb566b23da26669662" resname="Davao City">
+        <source>Davao City</source>
+        <target>Davao City</target>
+      </trans-unit>
+      <trans-unit id="697221771a96b2e73bc8faac367930cc" resname="Cebu City">
+        <source>Cebu City</source>
+        <target>Cebu City</target>
+      </trans-unit>
+      <trans-unit id="e584f78d3cccdd5071a8b5ae30e0f6ae" resname="Ho Chi Minh City">
+        <source>Ho Chi Minh City</source>
+        <target>Ho Chi Minh City</target>
+      </trans-unit>
+      <trans-unit id="4187c4575f19a0b34cb6358c5590a449" resname="Hanoi">
+        <source>Hanoi</source>
+        <target>Hanoi</target>
+      </trans-unit>
+      <trans-unit id="7908ec718db1d58b14765c70f4a4a8aa" resname="Da Nang">
+        <source>Da Nang</source>
+        <target>Da Nang</target>
+      </trans-unit>
+      <trans-unit id="40c882c65f479940f065031e0339e526" resname="Haiphong">
+        <source>Haiphong</source>
+        <target>Haiphong</target>
+      </trans-unit>
+      <trans-unit id="ef3d5a377fa4633f2e26ba7e33db58f0" resname="Yangon">
+        <source>Yangon</source>
+        <target>Yangon</target>
+      </trans-unit>
+      <trans-unit id="d42e523b06eda119852fc137a623957b" resname="Mandalay">
+        <source>Mandalay</source>
+        <target>Mandalay</target>
+      </trans-unit>
+      <trans-unit id="d3f5841f04ba23bb90e1b9f4256cea70" resname="Brunei">
+        <source>Brunei</source>
+        <target>Brunei</target>
+      </trans-unit>
+      <trans-unit id="5e0567589de4ecb8e7b2740e7260e7bf" resname="Vientiane">
+        <source>Vientiane</source>
+        <target>Vientiane</target>
+      </trans-unit>
+      <trans-unit id="8ebaad59980c95ade797c903761fa815" resname="Mumbai">
+        <source>Mumbai</source>
+        <target>Mumbai</target>
+      </trans-unit>
+      <trans-unit id="9baaebe1759ba1a6365a2b0539081516" resname="Delhi">
+        <source>Delhi</source>
+        <target>Delhi</target>
+      </trans-unit>
+      <trans-unit id="1bc99cb2f4153c2d0d8025ee5575b2a0" resname="Bangalore">
+        <source>Bangalore</source>
+        <target>Bangalore</target>
+      </trans-unit>
+      <trans-unit id="02a342794409deaf5f29216201d9da30" resname="Hyderabad">
+        <source>Hyderabad</source>
+        <target>Hyderabad</target>
+      </trans-unit>
+      <trans-unit id="361961d900d8171b305cb8f79b1aabc2" resname="Chennai">
+        <source>Chennai</source>
+        <target>Chennai</target>
+      </trans-unit>
+      <trans-unit id="a6ed05911356fc578c660f121f2ad0de" resname="Ahmedabad">
+        <source>Ahmedabad</source>
+        <target>Ahmedabad</target>
+      </trans-unit>
+      <trans-unit id="44bef2ee415c62f0ce01fbe6c5566250" resname="Kolkata">
+        <source>Kolkata</source>
+        <target>Kolkata</target>
+      </trans-unit>
+      <trans-unit id="e10212e09e6eb3b49d00e046870445af" resname="Surat">
+        <source>Surat</source>
+        <target>Surat</target>
+      </trans-unit>
+      <trans-unit id="76d62042b96824bfa5e72053e947a478" resname="Pune">
+        <source>Pune</source>
+        <target>Pune</target>
+      </trans-unit>
+      <trans-unit id="e4b769db2a42d92d7311b02c3545d07d" resname="Jaipur">
+        <source>Jaipur</source>
+        <target>Jaipur</target>
+      </trans-unit>
+      <trans-unit id="a8c337e0d23e4937edd0bc47acd6ab21" resname="Lucknow">
+        <source>Lucknow</source>
+        <target>Lucknow</target>
+      </trans-unit>
+      <trans-unit id="8c5d367021315e68a2c7b1228c62f3cf" resname="Kanpur">
+        <source>Kanpur</source>
+        <target>Kanpur</target>
+      </trans-unit>
+      <trans-unit id="432007c3f174617746840467d4f324fc" resname="Nagpur">
+        <source>Nagpur</source>
+        <target>Nagpur</target>
+      </trans-unit>
+      <trans-unit id="bc43f7e60bccbed2408a5abf46870ea5" resname="Indore">
+        <source>Indore</source>
+        <target>Indore</target>
+      </trans-unit>
+      <trans-unit id="957fa1fd3823b410773cb64094b0e83b" resname="Visakhapatnam">
+        <source>Visakhapatnam</source>
+        <target>Visakhapatnam</target>
+      </trans-unit>
+      <trans-unit id="470f732a42efdec85f68eb830c3d2675" resname="Thane">
+        <source>Thane</source>
+        <target>Thane</target>
+      </trans-unit>
+      <trans-unit id="9bdd58984cdce3fce045d615394577b9" resname="Bhopal">
+        <source>Bhopal</source>
+        <target>Bhopal</target>
+      </trans-unit>
+      <trans-unit id="4a433a15de0b3d7396db323d4ffb3599" resname="Pimpri-Chinchwad">
+        <source>Pimpri-Chinchwad</source>
+        <target>Pimpri-Chinchwad</target>
+      </trans-unit>
+      <trans-unit id="c530491409ba1a365aae17bec6ad611d" resname="Patna">
+        <source>Patna</source>
+        <target>Patna</target>
+      </trans-unit>
+      <trans-unit id="795fbd184024d5c8866db95890f0ffba" resname="Vadodara">
+        <source>Vadodara</source>
+        <target>Vadodara</target>
+      </trans-unit>
+      <trans-unit id="629dbeda634df1d85e071c0033b35c2e" resname="Ghaziabad">
+        <source>Ghaziabad</source>
+        <target>Ghaziabad</target>
+      </trans-unit>
+      <trans-unit id="71e759571599f3ec138140344166e498" resname="Ludhiana">
+        <source>Ludhiana</source>
+        <target>Ludhiana</target>
+      </trans-unit>
+      <trans-unit id="8d1fdd7dcc6f2309cd15746f7e7b16d6" resname="Agra">
+        <source>Agra</source>
+        <target>Agra</target>
+      </trans-unit>
+      <trans-unit id="bc715dbb268147647ff8931abfa8ff9f" resname="Nashik">
+        <source>Nashik</source>
+        <target>Nashik</target>
+      </trans-unit>
+      <trans-unit id="55d3a9f9d5cf0ce68b5a29a9d9e7a097" resname="Faridabad">
+        <source>Faridabad</source>
+        <target>Faridabad</target>
+      </trans-unit>
+      <trans-unit id="df07d70ba67c726be5f2a6caa8a8276f" resname="Meerut">
+        <source>Meerut</source>
+        <target>Meerut</target>
+      </trans-unit>
+      <trans-unit id="e02e310f3f7047fe93be19d0faee621a" resname="Rajkot">
+        <source>Rajkot</source>
+        <target>Rajkot</target>
+      </trans-unit>
+      <trans-unit id="26c367c200f845637b9ddb18df616129" resname="Kalyan-Dombivali">
+        <source>Kalyan-Dombivali</source>
+        <target>Kalyan-Dombivali</target>
+      </trans-unit>
+      <trans-unit id="7046182d9607f1a54642acbf0fb3971e" resname="Vasai-Virar">
+        <source>Vasai-Virar</source>
+        <target>Vasai-Virar</target>
+      </trans-unit>
+      <trans-unit id="3f895a530f7583747047ad72ba10b215" resname="Varanasi">
+        <source>Varanasi</source>
+        <target>Varanasi</target>
+      </trans-unit>
+      <trans-unit id="ed22953f57c4c8db48f7216882e63a7e" resname="Srinagar">
+        <source>Srinagar</source>
+        <target>Srinagar</target>
+      </trans-unit>
+      <trans-unit id="dc0f01709c66590e837839d2b5a12eeb" resname="Aurangabad">
+        <source>Aurangabad</source>
+        <target>Aurangabad</target>
+      </trans-unit>
+      <trans-unit id="9cfe49966e937a78a49a92e38925491f" resname="Dhanbad">
+        <source>Dhanbad</source>
+        <target>Dhanbad</target>
+      </trans-unit>
+      <trans-unit id="f9bf130c5961544b411cd94181491aa1" resname="Amritsar">
+        <source>Amritsar</source>
+        <target>Amritsar</target>
+      </trans-unit>
+      <trans-unit id="2efd6bd7951b6dacc43ff63f6e21d1c1" resname="Navi Mumbai">
+        <source>Navi Mumbai</source>
+        <target>Navi Mumbai</target>
+      </trans-unit>
+      <trans-unit id="8fe2427b2466603e80c55439e05c4e44" resname="Allahabad">
+        <source>Allahabad</source>
+        <target>Allahabad</target>
+      </trans-unit>
+      <trans-unit id="41142716879d8b8a5f6be282eebb2e2d" resname="Anantnag">
+        <source>Anantnag</source>
+        <target>Anantnag</target>
+      </trans-unit>
+      <trans-unit id="8800b18099e12c94ce1f0f0f37d2d748" resname="Ranchi">
+        <source>Ranchi</source>
+        <target>Ranchi</target>
+      </trans-unit>
+      <trans-unit id="2536aebcb903fbb3b774022817756c91" resname="Howrah">
+        <source>Howrah</source>
+        <target>Howrah</target>
+      </trans-unit>
+      <trans-unit id="0516e11882b5424bd2ec45545bf06d4f" resname="Coimbatore">
+        <source>Coimbatore</source>
+        <target>Coimbatore</target>
+      </trans-unit>
+      <trans-unit id="442cef6f37c5daa34b698cd9334f82bd" resname="Jabalpur">
+        <source>Jabalpur</source>
+        <target>Jabalpur</target>
+      </trans-unit>
+      <trans-unit id="380881c53a8827af022e6f21423235fa" resname="Gwalior">
+        <source>Gwalior</source>
+        <target>Gwalior</target>
+      </trans-unit>
+      <trans-unit id="ca740170e44d304efee1bfc8e975638b" resname="Vijayawada">
+        <source>Vijayawada</source>
+        <target>Vijayawada</target>
+      </trans-unit>
+      <trans-unit id="33dd8b1b89aca133ba3edfab4c8b5d2b" resname="Jodhpur">
+        <source>Jodhpur</source>
+        <target>Jodhpur</target>
+      </trans-unit>
+      <trans-unit id="a7834b486c58ab5a9d571af716db8634" resname="Madurai">
+        <source>Madurai</source>
+        <target>Madurai</target>
+      </trans-unit>
+      <trans-unit id="d535347ad3a609ccd28bda3247bb0ee0" resname="Raipur">
+        <source>Raipur</source>
+        <target>Raipur</target>
+      </trans-unit>
+      <trans-unit id="a67aba8caabf4b5a8ba456cfb318fce4" resname="Kota">
+        <source>Kota</source>
+        <target>Kota</target>
+      </trans-unit>
+      <trans-unit id="fe708cd1b984461c324699796b657b9c" resname="Guwahati">
+        <source>Guwahati</source>
+        <target>Guwahati</target>
+      </trans-unit>
+      <trans-unit id="33d760dd178036b714669c2766cadf1b" resname="Chandigarh">
+        <source>Chandigarh</source>
+        <target>Chandigarh</target>
+      </trans-unit>
+      <trans-unit id="490e54223291c52f154cee2795c44d0a" resname="Solapur">
+        <source>Solapur</source>
+        <target>Solapur</target>
+      </trans-unit>
+      <trans-unit id="896efdfbc7675d56197f2bc7dc4f3ffc" resname="Karachi">
+        <source>Karachi</source>
+        <target>Karachi</target>
+      </trans-unit>
+      <trans-unit id="8871c5b0a8ac26f13ac2b0e3558b1148" resname="Lahore">
+        <source>Lahore</source>
+        <target>Lahore</target>
+      </trans-unit>
+      <trans-unit id="0875fc07a757103b12792e238f9903e9" resname="Faisalabad">
+        <source>Faisalabad</source>
+        <target>Faisalabad</target>
+      </trans-unit>
+      <trans-unit id="fca35f8c2c01709e211e67a0e4ed0299" resname="Rawalpindi">
+        <source>Rawalpindi</source>
+        <target>Rawalpindi</target>
+      </trans-unit>
+      <trans-unit id="f0e2a92592b0809144c78ed2d9d8431c" resname="Peshawar">
+        <source>Peshawar</source>
+        <target>Peshawar</target>
+      </trans-unit>
+      <trans-unit id="1f4d508180b8df30a83cc68a0f08e1cb" resname="Multan">
+        <source>Multan</source>
+        <target>Multan</target>
+      </trans-unit>
+      <trans-unit id="c9e2891bf4404d8e27cc7a9fecab41d3" resname="Gujranwala">
+        <source>Gujranwala</source>
+        <target>Gujranwala</target>
+      </trans-unit>
+      <trans-unit id="88756ab57e0945c6455553c4c4cc622e" resname="Islamabad">
+        <source>Islamabad</source>
+        <target>Islamabad</target>
+      </trans-unit>
+      <trans-unit id="98006118791d7262b8764e5980932f87" resname="Quetta">
+        <source>Quetta</source>
+        <target>Quetta</target>
+      </trans-unit>
+      <trans-unit id="d6562cc40b5f6271f95a84c6393657f0" resname="Bahawalpur">
+        <source>Bahawalpur</source>
+        <target>Bahawalpur</target>
+      </trans-unit>
+      <trans-unit id="3c928929649432d5a1322bb587c0110c" resname="Sialkot">
+        <source>Sialkot</source>
+        <target>Sialkot</target>
+      </trans-unit>
+      <trans-unit id="1855ebb6505036646e82ea9b2533600d" resname="Dhaka">
+        <source>Dhaka</source>
+        <target>Dhaka</target>
+      </trans-unit>
+      <trans-unit id="ceb9065f016c4a0594a11589a1d020b8" resname="Chittagong">
+        <source>Chittagong</source>
+        <target>Chittagong</target>
+      </trans-unit>
+      <trans-unit id="878a089e230187b766eb2ca6a58336e1" resname="Khulna">
+        <source>Khulna</source>
+        <target>Khulna</target>
+      </trans-unit>
+      <trans-unit id="3fea4708e54d0bfa330abb966de063be" resname="Narayanganj">
+        <source>Narayanganj</source>
+        <target>Narayanganj</target>
+      </trans-unit>
+      <trans-unit id="912d59cdf1d3f551fae21f6f0062258f" resname="Europe">
+        <source>Europe</source>
+        <target>Europe</target>
+      </trans-unit>
+      <trans-unit id="5ffec2d87ab548202f8b549af380913a" resname="North America">
+        <source>North America</source>
+        <target>North America</target>
+      </trans-unit>
+      <trans-unit id="dfcd11e5c9131eb8e5f970e5e4ee5a53" resname="Latin America">
+        <source>Latin America</source>
+        <target>Latin America</target>
+      </trans-unit>
+      <trans-unit id="f5cd262901883dff68d06b215fb0f28e" resname="Africa">
+        <source>Africa</source>
+        <target>Africa</target>
+      </trans-unit>
+      <trans-unit id="158b06e50632e27d494593ba389ef918" resname="Middle East">
+        <source>Middle East</source>
+        <target>Middle East</target>
+      </trans-unit>
+      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf802f4c" resname="Asia Pacific">
+        <source>Asia Pacific</source>
+        <target>Asia Pacific</target>
+      </trans-unit>
+      <trans-unit id="9891739094756d2605946c867b32ad28" resname="Austria">
+        <source>Austria</source>
+        <target>Austria</target>
+      </trans-unit>
+      <trans-unit id="6c1674d14bf5f95742f572cddb0641a7" resname="Belgium">
+        <source>Belgium</source>
+        <target>Belgium</target>
+      </trans-unit>
+      <trans-unit id="01a151debf2bfee8906f43f4342eb10b" resname="Bulgaria">
+        <source>Bulgaria</source>
+        <target>Bulgaria</target>
+      </trans-unit>
+      <trans-unit id="ea2ba3f8011e19e3101ce65fdcefbcc4" resname="Cyprus">
+        <source>Cyprus</source>
+        <target>Cyprus</target>
+      </trans-unit>
+      <trans-unit id="51802d8bb965d0e5be697f07d16922e8" resname="Czech Republic">
+        <source>Czech Republic</source>
+        <target>Czech Republic</target>
+      </trans-unit>
+      <trans-unit id="424214945ba5615eca039bfe5d731c09" resname="Denmark">
+        <source>Denmark</source>
+        <target>Denmark</target>
+      </trans-unit>
+      <trans-unit id="7755415a9fe7022060b98a689236ccd2" resname="Estonia">
+        <source>Estonia</source>
+        <target>Estonia</target>
+      </trans-unit>
+      <trans-unit id="6f781c6559a0c605da918096bdb69edf" resname="Finland">
+        <source>Finland</source>
+        <target>Finland</target>
+      </trans-unit>
+      <trans-unit id="0309a6c666a7a803fdb9db95de71cf01" resname="France">
+        <source>France</source>
+        <target>France</target>
+      </trans-unit>
+      <trans-unit id="d8b00929dec65d422303256336ada04f" resname="Germany">
+        <source>Germany</source>
+        <target>Germany</target>
+      </trans-unit>
+      <trans-unit id="6b718641741f992e68ec3712718561b8" resname="Greece">
+        <source>Greece</source>
+        <target>Greece</target>
+      </trans-unit>
+      <trans-unit id="fa79c3005daec47ecff84a116a0927a1" resname="Hungary">
+        <source>Hungary</source>
+        <target>Hungary</target>
+      </trans-unit>
+      <trans-unit id="06e415f918c577f07328a52e24f75d43" resname="Ireland">
+        <source>Ireland</source>
+        <target>Ireland</target>
+      </trans-unit>
+      <trans-unit id="1007e1b7f894dfbf72a0eaa80f3bc57e" resname="Italy">
+        <source>Italy</source>
+        <target>Italy</target>
+      </trans-unit>
+      <trans-unit id="a09f4b2ae67f0a63ab8912047a1a1b55" resname="Latvia">
+        <source>Latvia</source>
+        <target>Latvia</target>
+      </trans-unit>
+      <trans-unit id="d9051e0b77f8bb5521389618e70e2ada" resname="Lithuania">
+        <source>Lithuania</source>
+        <target>Lithuania</target>
+      </trans-unit>
+      <trans-unit id="a67d4cbdd1b59e0ffccc6bafc83eb033" resname="Netherlands">
+        <source>Netherlands</source>
+        <target>Netherlands</target>
+      </trans-unit>
+      <trans-unit id="94880bda83bda77c5692876700711f15" resname="Poland">
+        <source>Poland</source>
+        <target>Poland</target>
+      </trans-unit>
+      <trans-unit id="ea71b362e3ea9969db085abfccdeb10d" resname="Portugal">
+        <source>Portugal</source>
+        <target>Portugal</target>
+      </trans-unit>
+      <trans-unit id="0c7d5ae44b2a0be9ebd7d6b9f7d60f20" resname="Romania">
+        <source>Romania</source>
+        <target>Romania</target>
+      </trans-unit>
+      <trans-unit id="88a392b5a8d8f73986d83a2deefb0472" resname="Slovakia">
+        <source>Slovakia</source>
+        <target>Slovakia</target>
+      </trans-unit>
+      <trans-unit id="00247297c394dd443dc97067830c35f4" resname="Slovenia">
+        <source>Slovenia</source>
+        <target>Slovenia</target>
+      </trans-unit>
+      <trans-unit id="907eba32d950bfab68227fd7ea22999b" resname="Spain">
+        <source>Spain</source>
+        <target>Spain</target>
+      </trans-unit>
+      <trans-unit id="c8f4261f9f46e6465709e17ebea7a92b" resname="Sweden">
+        <source>Sweden</source>
+        <target>Sweden</target>
+      </trans-unit>
+      <trans-unit id="d5b9290a0b67727d4ba1ca6059dc31a6" resname="Norway">
+        <source>Norway</source>
+        <target>Norway</target>
+      </trans-unit>
+      <trans-unit id="07d62aa19a9a95c07515769b604bad36" resname="Russian Federation">
+        <source>Russian Federation</source>
+        <target>Russian Federation</target>
+      </trans-unit>
+      <trans-unit id="b78edab0f52e0d6c195fd0d8c5709d26" resname="Iceland">
+        <source>Iceland</source>
+        <target>Iceland</target>
+      </trans-unit>
+      <trans-unit id="f01fc92b23faa973f3492a23d5a705c5" resname="Ukraine">
+        <source>Ukraine</source>
+        <target>Ukraine</target>
+      </trans-unit>
+      <trans-unit id="3ad08396dc5afa78f34f548eea3c1d64" resname="Switzerland">
+        <source>Switzerland</source>
+        <target>Switzerland</target>
+      </trans-unit>
+      <trans-unit id="221cdfb73049678e244380b45872cbb2" resname="Turkey">
+        <source>Turkey</source>
+        <target>Turkey</target>
+      </trans-unit>
+      <trans-unit id="560d4c6ff431c86546f3fcec72c748c7" resname="Croatia">
+        <source>Croatia</source>
+        <target>Croatia</target>
+      </trans-unit>
+      <trans-unit id="c420ddff824a5c0eec70dd23d62496bc" resname="Albania">
+        <source>Albania</source>
+        <target>Albania</target>
+      </trans-unit>
+      <trans-unit id="232bf11cb81bcdb269f76a08fde8b947" resname="Angola">
+        <source>Angola</source>
+        <target>Angola</target>
+      </trans-unit>
+      <trans-unit id="3536be57ce0713954e454ae6c53ec023" resname="Argentina">
+        <source>Argentina</source>
+        <target>Argentina</target>
+      </trans-unit>
+      <trans-unit id="4442e4af0916f53a07fb8ca9a49b98ed" resname="Australia">
+        <source>Australia</source>
+        <target>Australia</target>
+      </trans-unit>
+      <trans-unit id="7176f8c3bccfdf02322c73f7a0bc9688" resname="Azerbaijan">
+        <source>Azerbaijan</source>
+        <target>Azerbaijan</target>
+      </trans-unit>
+      <trans-unit id="6ddecd8ccd9f648d19dc02c7a566cb4f" resname="Bahrain">
+        <source>Bahrain</source>
+        <target>Bahrain</target>
+      </trans-unit>
+      <trans-unit id="f78a77f631d275aac6a914a17fe1b885" resname="Bangladesh">
+        <source>Bangladesh</source>
+        <target>Bangladesh</target>
+      </trans-unit>
+      <trans-unit id="6542f875eaa09a5c550e5f3986400ad9" resname="Belarus">
+        <source>Belarus</source>
+        <target>Belarus</target>
+      </trans-unit>
+      <trans-unit id="9e7002d53d4db7bfad4f5cf419b0c126" resname="Benin">
+        <source>Benin</source>
+        <target>Benin</target>
+      </trans-unit>
+      <trans-unit id="28aaafc355915903ce4a7e1d3af3bc4e" resname="Bolivia">
+        <source>Bolivia</source>
+        <target>Bolivia</target>
+      </trans-unit>
+      <trans-unit id="96a6dd711874d4323dc2d3f932bd2ed3" resname="Bosnia and Herzegovina">
+        <source>Bosnia and Herzegovina</source>
+        <target>Bosnia and Herzegovina</target>
+      </trans-unit>
+      <trans-unit id="6cd50fb3091b0a9d3c1ac2cf52441390" resname="Botswana">
+        <source>Botswana</source>
+        <target>Botswana</target>
+      </trans-unit>
+      <trans-unit id="42537f0fb56e31e20ab9c2305752087d" resname="Brazil">
+        <source>Brazil</source>
+        <target>Brazil</target>
+      </trans-unit>
+      <trans-unit id="35564072d637a7b63c6f1547175b1766" resname="Brunei Darussalam">
+        <source>Brunei Darussalam</source>
+        <target>Brunei Darussalam</target>
+      </trans-unit>
+      <trans-unit id="28814f84db09b59b95f863b9c143c3a9" resname="Burkina Faso">
+        <source>Burkina Faso</source>
+        <target>Burkina Faso</target>
+      </trans-unit>
+      <trans-unit id="28765464efe1b6583610335965b4d75a" resname="Burundi">
+        <source>Burundi</source>
+        <target>Burundi</target>
+      </trans-unit>
+      <trans-unit id="4be25f9d27da71d4e98775668b5b12af" resname="Cameroon">
+        <source>Cameroon</source>
+        <target>Cameroon</target>
+      </trans-unit>
+      <trans-unit id="445d337b5cd5de476f99333df6b0c2a7" resname="Canada">
+        <source>Canada</source>
+        <target>Canada</target>
+      </trans-unit>
+      <trans-unit id="aa293d284f52b08da5ba7fe7792fe9c3" resname="Central African Republic">
+        <source>Central African Republic</source>
+        <target>Central African Republic</target>
+      </trans-unit>
+      <trans-unit id="e03653dedd6f4e142f4aca131995964f" resname="Chad">
+        <source>Chad</source>
+        <target>Chad</target>
+      </trans-unit>
+      <trans-unit id="2e6507f70a9cc26fb50f5fd82a83c7ef" resname="Chile">
+        <source>Chile</source>
+        <target>Chile</target>
+      </trans-unit>
+      <trans-unit id="ef3388cc5659bccb742fb8af762f1bfd" resname="Colombia">
+        <source>Colombia</source>
+        <target>Colombia</target>
+      </trans-unit>
+      <trans-unit id="5882b568d8a010ef48a6896f53b6eddb" resname="Costa Rica">
+        <source>Costa Rica</source>
+        <target>Costa Rica</target>
+      </trans-unit>
+      <trans-unit id="04b9348054f102f0170ede9e58ef0a88" resname="Côte d'Ivoire">
+        <source>Côte d'Ivoire</source>
+        <target>Côte d'Ivoire</target>
+      </trans-unit>
+      <trans-unit id="33cac763789c407f405b2cf0dce7df89" resname="Cuba">
+        <source>Cuba</source>
+        <target>Cuba</target>
+      </trans-unit>
+      <trans-unit id="902f92c09660b797958acb27421fd9ac" resname="Djibouti">
+        <source>Djibouti</source>
+        <target>Djibouti</target>
+      </trans-unit>
+      <trans-unit id="662c15622f9c9c5decc0db80edb6c416" resname="Dominican Republic">
+        <source>Dominican Republic</source>
+        <target>Dominican Republic</target>
+      </trans-unit>
+      <trans-unit id="4d5d85af33ec2aaedb674d2d6a7d53b6" resname="Ecuador">
+        <source>Ecuador</source>
+        <target>Ecuador</target>
+      </trans-unit>
+      <trans-unit id="e31959fe2842dacea4d16d36e9813620" resname="Egypt">
+        <source>Egypt</source>
+        <target>Egypt</target>
+      </trans-unit>
+      <trans-unit id="e96d24bdfc024e04f49f1f0cc011ca20" resname="El Salvador">
+        <source>El Salvador</source>
+        <target>El Salvador</target>
+      </trans-unit>
+      <trans-unit id="e299d7cb0f7866cce7d90da2af14047c" resname="Ethiopia">
+        <source>Ethiopia</source>
+        <target>Ethiopia</target>
+      </trans-unit>
+      <trans-unit id="e2a96e074e1d8a6f6de56abbd4a4d8dc" resname="Gambia">
+        <source>Gambia</source>
+        <target>Gambia</target>
+      </trans-unit>
+      <trans-unit id="eada819634d0164c6a7547bdcc405033" resname="Georgia">
+        <source>Georgia</source>
+        <target>Georgia</target>
+      </trans-unit>
+      <trans-unit id="e7400496f1ce70cb62c2c44ca2ddc469" resname="Ghana">
+        <source>Ghana</source>
+        <target>Ghana</target>
+      </trans-unit>
+      <trans-unit id="948b13d5a3e11e21baadc349e199020e" resname="Guatemala">
+        <source>Guatemala</source>
+        <target>Guatemala</target>
+      </trans-unit>
+      <trans-unit id="b88959cb7d907d91065ac7ec19eb0b44" resname="Haiti">
+        <source>Haiti</source>
+        <target>Haiti</target>
+      </trans-unit>
+      <trans-unit id="f4270ce39e7e926052e097a0e4e63bde" resname="Honduras">
+        <source>Honduras</source>
+        <target>Honduras</target>
+      </trans-unit>
+      <trans-unit id="7d31e0da1ab99fe8b08a22118e2f402b" resname="India">
+        <source>India</source>
+        <target>India</target>
+      </trans-unit>
+      <trans-unit id="4647d00cf81f8fb0ab80f753320d0fc9" resname="Indonesia">
+        <source>Indonesia</source>
+        <target>Indonesia</target>
+      </trans-unit>
+      <trans-unit id="21fc68909a9eb8692e84cf64e495213e" resname="Iran">
+        <source>Iran</source>
+        <target>Iran</target>
+      </trans-unit>
+      <trans-unit id="5a548c2f5875f10bf5614b7c258876cf" resname="Israel">
+        <source>Israel</source>
+        <target>Israel</target>
+      </trans-unit>
+      <trans-unit id="6ea1e24d60afddf388b06f8243c45b70" resname="Jordan">
+        <source>Jordan</source>
+        <target>Jordan</target>
+      </trans-unit>
+      <trans-unit id="7c1a943bf29d2c753fb935e99428482c" resname="Kazakhstan">
+        <source>Kazakhstan</source>
+        <target>Kazakhstan</target>
+      </trans-unit>
+      <trans-unit id="94984a8c4896946d9bafd24959cb6181" resname="Kenya">
+        <source>Kenya</source>
+        <target>Kenya</target>
+      </trans-unit>
+      <trans-unit id="4d4803b0bb7dab1b0627e4f8277edc5b" resname="South Korea">
+        <source>South Korea</source>
+        <target>South Korea</target>
+      </trans-unit>
+      <trans-unit id="05387f3ca38d7bd84ae35f31f2899ecf" resname="Kuwait">
+        <source>Kuwait</source>
+        <target>Kuwait</target>
+      </trans-unit>
+      <trans-unit id="81a6b6e5e6a1d60ce3bac4eee20444eb" resname="Lao People's Democratic Republic">
+        <source>Lao People's Democratic Republic</source>
+        <target>Lao People's Democratic Republic</target>
+      </trans-unit>
+      <trans-unit id="b45ff92cc522bb89bfc3b8ef3fc21b7d" resname="Lebanon">
+        <source>Lebanon</source>
+        <target>Lebanon</target>
+      </trans-unit>
+      <trans-unit id="642cab67fc263bb61ae4ccbd577c8aa4" resname="Liberia">
+        <source>Liberia</source>
+        <target>Liberia</target>
+      </trans-unit>
+      <trans-unit id="742b8abe5776a6d942a92ce7dc7d84a0" resname="Libya">
+        <source>Libya</source>
+        <target>Libya</target>
+      </trans-unit>
+      <trans-unit id="3f0e49c46cbde0c7adf5ea04a97ab261" resname="Malaysia">
+        <source>Malaysia</source>
+        <target>Malaysia</target>
+      </trans-unit>
+      <trans-unit id="e90c93ceb8ccdcdf3b797f47edee866d" resname="Mali">
+        <source>Mali</source>
+        <target>Mali</target>
+      </trans-unit>
+      <trans-unit id="d7fe73b6846dfc672236e636aa2cf6b5" resname="Mauritania">
+        <source>Mauritania</source>
+        <target>Mauritania</target>
+      </trans-unit>
+      <trans-unit id="07f3ca235faaa1c9ad16facef5526d8b" resname="Mauritius">
+        <source>Mauritius</source>
+        <target>Mauritius</target>
+      </trans-unit>
+      <trans-unit id="8dbb07a18d46f63d8b3c8994d5ccc351" resname="Mexico">
+        <source>Mexico</source>
+        <target>Mexico</target>
+      </trans-unit>
+      <trans-unit id="4e92f9d2cdf0b8eb493ae3a19709d121" resname="Montenegro">
+        <source>Montenegro</source>
+        <target>Montenegro</target>
+      </trans-unit>
+      <trans-unit id="4d4a1722d8e85909a576da2c42878ff0" resname="Morocco">
+        <source>Morocco</source>
+        <target>Morocco</target>
+      </trans-unit>
+      <trans-unit id="a6d3bea3fa66775952e080b90bb0c4f1" resname="Mozambique">
+        <source>Mozambique</source>
+        <target>Mozambique</target>
+      </trans-unit>
+      <trans-unit id="217fa54cc9351504fcde32147bff005d" resname="Myanmar">
+        <source>Myanmar</source>
+        <target>Myanmar</target>
+      </trans-unit>
+      <trans-unit id="69f4287626aee77f93e2c891b518838b" resname="Namibia">
+        <source>Namibia</source>
+        <target>Namibia</target>
+      </trans-unit>
+      <trans-unit id="c51ed580ea5e20c910d951f692512b4d" resname="New Zealand">
+        <source>New Zealand</source>
+        <target>New Zealand</target>
+      </trans-unit>
+      <trans-unit id="3bfe17f6c2d1b8941df303de7aec2eb0" resname="Nicaragua">
+        <source>Nicaragua</source>
+        <target>Nicaragua</target>
+      </trans-unit>
+      <trans-unit id="bf2ec44b27fc25c6fd8a38792b9ef2a8" resname="Niger">
+        <source>Niger</source>
+        <target>Niger</target>
+      </trans-unit>
+      <trans-unit id="5d839147c83e283c1d1bb705dc50586f" resname="Nigeria">
+        <source>Nigeria</source>
+        <target>Nigeria</target>
+      </trans-unit>
+      <trans-unit id="1c77b9733832da9d1ffac66620f3c006" resname="Oman">
+        <source>Oman</source>
+        <target>Oman</target>
+      </trans-unit>
+      <trans-unit id="b9698b8546220246fe600a949db326bf" resname="Pakistan">
+        <source>Pakistan</source>
+        <target>Pakistan</target>
+      </trans-unit>
+      <trans-unit id="6bec347f256837d3539ad619bd489de7" resname="Panama">
+        <source>Panama</source>
+        <target>Panama</target>
+      </trans-unit>
+      <trans-unit id="73101738da81e5cbb87b64cd400a4405" resname="Paraguay">
+        <source>Paraguay</source>
+        <target>Paraguay</target>
+      </trans-unit>
+      <trans-unit id="84c8fa2341f7d052a1ee3a36ff043798" resname="Peru">
+        <source>Peru</source>
+        <target>Peru</target>
+      </trans-unit>
+      <trans-unit id="77dab2f81a6c8c9136efba7ab2c4c0f2" resname="Philippines">
+        <source>Philippines</source>
+        <target>Philippines</target>
+      </trans-unit>
+      <trans-unit id="f76257271129c703d6c0442c8ac00dae" resname="Puerto Rico">
+        <source>Puerto Rico</source>
+        <target>Puerto Rico</target>
+      </trans-unit>
+      <trans-unit id="7cc7ef17c45527cf90fcf27516794d21" resname="Qatar">
+        <source>Qatar</source>
+        <target>Qatar</target>
+      </trans-unit>
+      <trans-unit id="9d7ed5d77d647e89c3cc11757d651dc2" resname="Rwanda">
+        <source>Rwanda</source>
+        <target>Rwanda</target>
+      </trans-unit>
+      <trans-unit id="b835b521c29f399c78124c4b59341691" resname="Saudi Arabia">
+        <source>Saudi Arabia</source>
+        <target>Saudi Arabia</target>
+      </trans-unit>
+      <trans-unit id="9986531359550785caffb2032622437f" resname="Senegal">
+        <source>Senegal</source>
+        <target>Senegal</target>
+      </trans-unit>
+      <trans-unit id="2ff6e535bd2f100979a171ad430e642b" resname="Serbia">
+        <source>Serbia</source>
+        <target>Serbia</target>
+      </trans-unit>
+      <trans-unit id="d2e4449b45608e33e472d939a73868f7" resname="Seychelles">
+        <source>Seychelles</source>
+        <target>Seychelles</target>
+      </trans-unit>
+      <trans-unit id="97527dec0ae1a703599581d4f25dfbce" resname="Sierra Leone">
+        <source>Sierra Leone</source>
+        <target>Sierra Leone</target>
+      </trans-unit>
+      <trans-unit id="921855f753932de762b780405a50bdf7" resname="Somalia">
+        <source>Somalia</source>
+        <target>Somalia</target>
+      </trans-unit>
+      <trans-unit id="c89bc418c38da77213c6c6e03cac2510" resname="South Africa">
+        <source>South Africa</source>
+        <target>South Africa</target>
+      </trans-unit>
+      <trans-unit id="74458a3d3e5f3074226b1f9fa23c9163" resname="Sudan">
+        <source>Sudan</source>
+        <target>Sudan</target>
+      </trans-unit>
+      <trans-unit id="f82b1495fed28936b2fc31c3ba4f882f" resname="Swaziland">
+        <source>Swaziland</source>
+        <target>Swaziland</target>
+      </trans-unit>
+      <trans-unit id="551fe18ef47d4e6e9d943b9a68ada21d" resname="Taiwan">
+        <source>Taiwan</source>
+        <target>Taiwan</target>
+      </trans-unit>
+      <trans-unit id="c03b1123e45fa00da3142e0424ee5eec" resname="Tanzania">
+        <source>Tanzania</source>
+        <target>Tanzania</target>
+      </trans-unit>
+      <trans-unit id="103357e3e40a9c0e4e9d36110f7bbc7a" resname="Thailand">
+        <source>Thailand</source>
+        <target>Thailand</target>
+      </trans-unit>
+      <trans-unit id="5547baeda33255ad8f5307fc92cb589e" resname="Macedonia">
+        <source>Macedonia</source>
+        <target>Macedonia</target>
+      </trans-unit>
+      <trans-unit id="1e746c5c85c4c0de3a0858b0dd047476" resname="Togo">
+        <source>Togo</source>
+        <target>Togo</target>
+      </trans-unit>
+      <trans-unit id="d6dacba23ab4a1d5b72f223bfb010a05" resname="Tunisia">
+        <source>Tunisia</source>
+        <target>Tunisia</target>
+      </trans-unit>
+      <trans-unit id="53b3c88ea00c4f0e137b4e6fe7bd23f1" resname="Uganda">
+        <source>Uganda</source>
+        <target>Uganda</target>
+      </trans-unit>
+      <trans-unit id="8f6f28f0d2061af28bcf49d1725b2cbd" resname="United Arab Emirates">
+        <source>United Arab Emirates</source>
+        <target>United Arab Emirates</target>
+      </trans-unit>
+      <trans-unit id="89f9c9f489be2a83cf57e53b9197d288" resname="United Kingdom">
+        <source>United Kingdom</source>
+        <target>United Kingdom</target>
+      </trans-unit>
+      <trans-unit id="f253efe302d32ab264a76e0ce65be769" resname="United States">
+        <source>United States</source>
+        <target>United States</target>
+      </trans-unit>
+      <trans-unit id="75497a22409db78dcc52c291e078bc10" resname="Uruguay">
+        <source>Uruguay</source>
+        <target>Uruguay</target>
+      </trans-unit>
+      <trans-unit id="e95294b730f61c8175550ec244bfcb50" resname="Venezuela">
+        <source>Venezuela</source>
+        <target>Venezuela</target>
+      </trans-unit>
+      <trans-unit id="008ced81ddf77a45e35513f4459d7bbf" resname="Palestine">
+        <source>Palestine</source>
+        <target>Palestine</target>
+      </trans-unit>
+      <trans-unit id="1bdb61bdbf5bc9a2cdc5db037ab610e0" resname="Western Sahara">
+        <source>Western Sahara</source>
+        <target>Western Sahara</target>
+      </trans-unit>
+      <trans-unit id="724bf4ca11a567636547a92a37e397b7" resname="Yemen">
+        <source>Yemen</source>
+        <target>Yemen</target>
+      </trans-unit>
+      <trans-unit id="b0aa0804e676a38255af4fd70236af7c" resname="Zambia">
+        <source>Zambia</source>
+        <target>Zambia</target>
+      </trans-unit>
+      <trans-unit id="9d5116a2451bc98c2b46b93acbc1b4f0" resname="Zimbabwe">
+        <source>Zimbabwe</source>
+        <target>Zimbabwe</target>
+      </trans-unit>
+      <trans-unit id="53a577bb3bc587b0c28ab808390f1c9b" resname="Japan">
+        <source>Japan</source>
+        <target>Japan</target>
+      </trans-unit>
+      <trans-unit id="ae54a5c026f31ada088992587d92cb3a" resname="China">
+        <source>China</source>
+        <target>China</target>
+      </trans-unit>
+      <trans-unit id="783c6baf8592ab8c2e7d03911ba1483f" resname="Syrian Arab Republic">
+        <source>Syrian Arab Republic</source>
+        <target>Syrian Arab Republic</target>
+      </trans-unit>
+      <trans-unit id="b5bcce260d9e303ca0e63f055187ed28" resname="Madagascar">
+        <source>Madagascar</source>
+        <target>Madagascar</target>
+      </trans-unit>
+      <trans-unit id="70965feb0441ff7fc1982fc5c509136e" resname="Malawi">
+        <source>Malawi</source>
+        <target>Malawi</target>
+      </trans-unit>
+      <trans-unit id="44359c0fe44354fa0879fec25c13bb0b" resname="Congo (Democratic Republic of the)">
+        <source>Congo (Democratic Republic of the)</source>
+        <target>Congo (Democratic Republic of the)</target>
+      </trans-unit>
+      <trans-unit id="44359c0fe44351fa0879fec25c13bb0b" resname="Vietnam">
+        <source>Vietnam</source>
+        <target>Vietnam</target>
+      </trans-unit>
+      <trans-unit id="44359c0fe44351fa0179fec25c13bb0b" resname="Malta">
+        <source>Malta</source>
+        <target>Malta</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

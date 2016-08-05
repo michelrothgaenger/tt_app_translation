@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="pl" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
         <source>app.privacyPolicy</source>
-        <target state="translated">Privacy Policy</target>
+        <target>Privacy Policy</target>
       </trans-unit>
       <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
@@ -135,11 +135,11 @@
       </trans-unit>
       <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
         <source>app.termsPageAddress</source>
-        <target><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
+        <target>Transport Talent, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
     </body>
   </file>

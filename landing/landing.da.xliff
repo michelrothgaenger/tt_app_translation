@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
     <header>
@@ -7,23 +7,23 @@
     <body>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
         <source>app.metaDescriptionIndexPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
         <source>app.metaKeywordsIndexPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Search</target>
+        <target state="translated">Søg</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target>Registrer</target>
+        <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target>Meet the companies</target>
+        <target state="translated">Mød virksomhederne</target>
       </trans-unit>
     </body>
   </file>

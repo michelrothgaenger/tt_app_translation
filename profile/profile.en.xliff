@@ -661,6 +661,10 @@
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profileErrorMsg">
+        <source>app.profileErrorMsg</source>
+        <target>Total years of Experience can be only numeric and be between 0 and 100</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

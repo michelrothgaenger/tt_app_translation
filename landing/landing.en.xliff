@@ -5,25 +5,37 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
-        <source>app.metaDescriptionIndexPage</source>
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.landing.meta.description">
+        <source>app.landing.meta.description</source>
         <target/>
       </trans-unit>
-      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
-        <source>app.metaKeywordsIndexPage</source>
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.landing.meta.keywords">
+        <source>app.landing.meta.keywords</source>
         <target/>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
-        <source>app.search</source>
-        <target>Search</target>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+        <source>app.landing.button.register</source>
+        <target>Check our logistics talent and register with us</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
-        <source>app.register</source>
-        <target state="translated">check our logistics talent and register with us</target>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted">
+        <source>app.landing.job.posted</source>
+        <target>Posted</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
-        <source>app.companyProfiles</source>
-        <target>Meet the companies</target>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143973" resname="app.landing.jobTypes.various">
+        <source>app.landing.jobTypes.various</source>
+        <target>Various</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143972" resname="app.landing.jobCategories.various">
+        <source>app.landing.jobCategories.various</source>
+        <target>Various</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143971" resname="app.landing.button.companyFollow">
+        <source>app.landing.button.companyFollow</source>
+        <target>Follow</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount">
+        <source>app.landing.jobsCount</source>
+        <target>%count% job|%count% jobs</target>
       </trans-unit>
     </body>
   </file>

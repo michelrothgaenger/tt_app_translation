@@ -5,145 +5,145 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="422fd734071bfa8a34c904a26044c661" resname="app.skill.management">
+      <trans-unit id="422fd734071bfa8a34c904a26044c661" resname="app.skill.management" approved="yes">
         <source>app.skill.management</source>
-        <target>Management</target>
+        <target state="translated">Quản lý</target>
       </trans-unit>
-      <trans-unit id="c54f311294754fd48f2ed78f18665d2c" resname="app.skill.sales">
+      <trans-unit id="c54f311294754fd48f2ed78f18665d2c" resname="app.skill.sales" approved="yes">
         <source>app.skill.sales</source>
-        <target>Sales</target>
+        <target state="translated">Bán lẻ</target>
       </trans-unit>
-      <trans-unit id="adde109e840cf2728c43c17ff7debd01" resname="app.skill.Personalberatung">
+      <trans-unit id="adde109e840cf2728c43c17ff7debd01" resname="app.skill.Personalberatung" approved="yes">
         <source>app.skill.Personalberatung</source>
-        <target>Recruitment consultancy</target>
+        <target state="translated">Tư vấn nhân sự</target>
       </trans-unit>
-      <trans-unit id="8b5a5740101524c507226c60013f7917" resname="app.skill. Junge Talente im Logistikbereich">
+      <trans-unit id="8b5a5740101524c507226c60013f7917" resname="app.skill. Junge Talente im Logistikbereich" approved="yes">
         <source>app.skill. Junge Talente im Logistikbereich</source>
-        <target>Young talent in logistics</target>
+        <target state="translated">Tài năng trẻ trong lĩnh vực kho vận</target>
       </trans-unit>
-      <trans-unit id="a16a9546ca966d8a3b6e3eecce351780" resname="app.skill. Personalmanagement">
+      <trans-unit id="a16a9546ca966d8a3b6e3eecce351780" resname="app.skill. Personalmanagement" approved="yes">
         <source>app.skill. Personalmanagement</source>
-        <target>HR management</target>
+        <target state="translated">Quản lý nhân sự</target>
       </trans-unit>
-      <trans-unit id="b372364ab29d4202dae428fa8e06bd26" resname="app.skill. Erfahrung">
+      <trans-unit id="b372364ab29d4202dae428fa8e06bd26" resname="app.skill. Erfahrung" approved="yes">
         <source>app.skill. Erfahrung</source>
-        <target>Experience</target>
+        <target state="translated">Kinh nghiệm</target>
       </trans-unit>
-      <trans-unit id="1e18489f30fe5eb03aa4d7aa674e4ec0" resname="app.skill. Berufsbildung">
+      <trans-unit id="1e18489f30fe5eb03aa4d7aa674e4ec0" resname="app.skill. Berufsbildung" approved="yes">
         <source>app.skill. Berufsbildung</source>
-        <target>Professional training</target>
+        <target state="translated">Đào tạo nghề</target>
       </trans-unit>
-      <trans-unit id="d4eb15d6bfa15609585c6c1184cd8d61" resname="app.skill. Ausbildung">
+      <trans-unit id="d4eb15d6bfa15609585c6c1184cd8d61" resname="app.skill. Ausbildung" approved="yes">
         <source>app.skill. Ausbildung</source>
-        <target>Vocational training</target>
+        <target state="translated">Đào tạo nghề</target>
       </trans-unit>
-      <trans-unit id="9a5cfc3e283d5fdb629dd284effe3df2" resname="app.skill.Communication">
+      <trans-unit id="9a5cfc3e283d5fdb629dd284effe3df2" resname="app.skill.Communication" approved="yes">
         <source>app.skill.Communication</source>
-        <target>Communication</target>
+        <target state="translated">Giao tiếp</target>
       </trans-unit>
-      <trans-unit id="cc297188454aa09185b67cd5b24f1fa5" resname="app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen">
+      <trans-unit id="cc297188454aa09185b67cd5b24f1fa5" resname="app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen" approved="yes">
         <source>app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen</source>
-        <target>Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen</target>
+        <target state="translated">Nhiều năm kinh nghiệm trong doanh nghiệp truyền thông (nội bộ / bên ngoài) và trong phương tiện truyền thông xã hội và quản lý cộng đồng  trên nền tảng khác nhau</target>
       </trans-unit>
-      <trans-unit id="36e6bab9ed01ba50a8790c62ec86c62a" resname="app.skill. Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen">
+      <trans-unit id="36e6bab9ed01ba50a8790c62ec86c62a" resname="app.skill. Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen" approved="yes">
         <source>app.skill. Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen</source>
-        <target> Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen</target>
+        <target state="translated">Thương mại điện tử / Internet trong các công ty quốc tế. Truyền thông và an ninh văn bản cho các nhóm đối tượng và các chủ đề khác nhau.</target>
       </trans-unit>
-      <trans-unit id="0bd4101e9ac5800d5a8f283cecca4bc2" resname="app.skill. Kenntnisse und Erfahrung in E-Commerce / User Experience und SEO.">
+      <trans-unit id="0bd4101e9ac5800d5a8f283cecca4bc2" resname="app.skill. Kenntnisse und Erfahrung in E-Commerce / User Experience und SEO." approved="yes">
         <source>app.skill. Kenntnisse und Erfahrung in E-Commerce / User Experience und SEO.</source>
-        <target> Kenntnisse und Erfahrung in E-Commerce / User Experience und SEO.</target>
+        <target state="translated">Kiến thức và kinh nghiệm trong thương mại điện tử / Kinh nghiệm người dùng và SEO.</target>
       </trans-unit>
-      <trans-unit id="812e0de4bdbd99b6ea0b85fefbf8ba98" resname="app.skill.Unternehmenskommunikation">
+      <trans-unit id="812e0de4bdbd99b6ea0b85fefbf8ba98" resname="app.skill.Unternehmenskommunikation" approved="yes">
         <source>app.skill.Unternehmenskommunikation</source>
-        <target>Corporate Communications</target>
+        <target state="translated">Doanh nghiệp truyền thông</target>
       </trans-unit>
       <trans-unit id="4194f22fa984144b80fd3bab22d6f0fc" resname="app.skill.app.skill.PHP">
         <source>app.skill.app.skill.PHP</source>
         <target>PHP</target>
       </trans-unit>
-      <trans-unit id="2eba977328e41bc35c4dc511cc3c4d6a" resname="app.skill.app.skill.Symfony Frameworks">
+      <trans-unit id="2eba977328e41bc35c4dc511cc3c4d6a" resname="app.skill.app.skill.Symfony Frameworks" approved="yes">
         <source>app.skill.app.skill.Symfony Frameworks</source>
-        <target>Symfony Frameworks</target>
+        <target state="translated">Làm việc khung Symfony</target>
       </trans-unit>
       <trans-unit id="d2cded39d98eb4e79fa724c3d49c1d6b" resname="app.skill.app.skill.MySQL">
         <source>app.skill.app.skill.MySQL</source>
         <target>MySQL</target>
       </trans-unit>
-      <trans-unit id="a84a7c87053a8264e800c4cb1a9508b0" resname="app.skill.app.skill.IT Strategy">
+      <trans-unit id="a84a7c87053a8264e800c4cb1a9508b0" resname="app.skill.app.skill.IT Strategy" approved="yes">
         <source>app.skill.app.skill.IT Strategy</source>
-        <target>IT Strategy</target>
+        <target state="translated">Chiến lược phần mềm</target>
       </trans-unit>
       <trans-unit id="54cd603de31fcc910bd64c806f7406fa" resname="app.skill.app.skill.LINUX">
         <source>app.skill.app.skill.LINUX</source>
         <target>LINUX</target>
       </trans-unit>
-      <trans-unit id="990b06508ae72463d51f1b3f7f5f7790" resname="app.skill.app.skill.IT-Management">
+      <trans-unit id="990b06508ae72463d51f1b3f7f5f7790" resname="app.skill.app.skill.IT-Management" approved="yes">
         <source>app.skill.app.skill.IT-Management</source>
-        <target>IT-Management</target>
+        <target state="translated">Quản lý phần mềm</target>
       </trans-unit>
-      <trans-unit id="e25c3c9977d8f0724c98e25a6dde05ac" resname="app.skill.Project Management">
+      <trans-unit id="e25c3c9977d8f0724c98e25a6dde05ac" resname="app.skill.Project Management" approved="yes">
         <source>app.skill.Project Management</source>
-        <target>Project Management</target>
+        <target state="translated">Quản lý dự án</target>
       </trans-unit>
-      <trans-unit id="8f78a4795a97d7a76646fa4a936680a9" resname="app.skill. Customer Solutions">
+      <trans-unit id="8f78a4795a97d7a76646fa4a936680a9" resname="app.skill. Customer Solutions" approved="yes">
         <source>app.skill. Customer Solutions</source>
-        <target> Customer Solutions</target>
+        <target state="translated">Giải pháp khách hàng</target>
       </trans-unit>
-      <trans-unit id="9e7ec024778211850c0ded7905c08329" resname="app.skill. Go-To-Market">
+      <trans-unit id="9e7ec024778211850c0ded7905c08329" resname="app.skill. Go-To-Market" approved="yes">
         <source>app.skill. Go-To-Market</source>
-        <target> Go-To-Market</target>
+        <target state="translated">Đến thị trường</target>
       </trans-unit>
-      <trans-unit id="33b288c92a9b11aac89b1afc5decf18a" resname="app.skill. Implementation Management">
+      <trans-unit id="33b288c92a9b11aac89b1afc5decf18a" resname="app.skill. Implementation Management" approved="yes">
         <source>app.skill. Implementation Management</source>
-        <target> Implementation Management</target>
+        <target state="translated">Quản lý thực hiện</target>
       </trans-unit>
-      <trans-unit id="4caff5db938fc78a26463d7993e3c531" resname="app.skill. Sales">
+      <trans-unit id="4caff5db938fc78a26463d7993e3c531" resname="app.skill. Sales" approved="yes">
         <source>app.skill. Sales</source>
-        <target> Sales</target>
+        <target state="translated">Bán hàng</target>
       </trans-unit>
-      <trans-unit id="040cf33e09f1c70e9e9d9400675b0162" resname="app.skill. Sales Support">
+      <trans-unit id="040cf33e09f1c70e9e9d9400675b0162" resname="app.skill. Sales Support" approved="yes">
         <source>app.skill. Sales Support</source>
-        <target> Sales Support</target>
+        <target state="translated">Hỗ trợ bán hàng</target>
       </trans-unit>
-      <trans-unit id="e6793f8becc1276ebd26ff9cb4f192be" resname="app.skill. Customer Support">
+      <trans-unit id="e6793f8becc1276ebd26ff9cb4f192be" resname="app.skill. Customer Support" approved="yes">
         <source>app.skill. Customer Support</source>
-        <target> Customer Support</target>
+        <target state="translated">Dịch vụ khách hàng</target>
       </trans-unit>
-      <trans-unit id="e051ea8bbb2a2d6417b4edf32c349383" resname="app.skill. Product Support">
+      <trans-unit id="e051ea8bbb2a2d6417b4edf32c349383" resname="app.skill. Product Support" approved="yes">
         <source>app.skill. Product Support</source>
-        <target> Product Support</target>
+        <target state="translated">Hỗ trợ sản phẩm</target>
       </trans-unit>
-      <trans-unit id="83a054ee7f7674377aa44420820291e6" resname="app.skill. Support">
+      <trans-unit id="83a054ee7f7674377aa44420820291e6" resname="app.skill. Support" approved="yes">
         <source>app.skill. Support</source>
-        <target> Support</target>
+        <target state="translated">Hỗ trợ</target>
       </trans-unit>
-      <trans-unit id="62f1e9dd835040ab860538fd6f7f26a3" resname="app.skill. Product Training">
+      <trans-unit id="62f1e9dd835040ab860538fd6f7f26a3" resname="app.skill. Product Training" approved="yes">
         <source>app.skill. Product Training</source>
-        <target> Product Training</target>
+        <target state="translated">Hướng dẫn sản phẩm</target>
       </trans-unit>
-      <trans-unit id="e19f7cade9a49256e81a889a1012db0d" resname="app.skill. SAP Business Objects">
+      <trans-unit id="e19f7cade9a49256e81a889a1012db0d" resname="app.skill. SAP Business Objects" approved="yes">
         <source>app.skill. SAP Business Objects</source>
-        <target> SAP Business Objects</target>
+        <target state="translated">SAP Đối tượng kinh doanh</target>
       </trans-unit>
       <trans-unit id="eafe754a8d3b6ba3cf23ee044b0dc375" resname="app.skill. EDI">
         <source>app.skill. EDI</source>
         <target> EDI</target>
       </trans-unit>
-      <trans-unit id="8bc31d2825458675e5fac2f3d85cf630" resname="app.skill. Business Processes">
+      <trans-unit id="8bc31d2825458675e5fac2f3d85cf630" resname="app.skill. Business Processes" approved="yes">
         <source>app.skill. Business Processes</source>
-        <target> Business Processes</target>
+        <target state="translated">Quy trình kinh doanh</target>
       </trans-unit>
-      <trans-unit id="9e0b7b4af5b737cd3068fb8b3fffbcf8" resname="app.skill. Order Management">
+      <trans-unit id="9e0b7b4af5b737cd3068fb8b3fffbcf8" resname="app.skill. Order Management" approved="yes">
         <source>app.skill. Order Management</source>
-        <target> Order Management</target>
+        <target state="translated">Quản lý trật tự</target>
       </trans-unit>
-      <trans-unit id="4eecf948f99ba5edde9ab904781f6379" resname="app.skill.Team Building">
+      <trans-unit id="4eecf948f99ba5edde9ab904781f6379" resname="app.skill.Team Building" approved="yes">
         <source>app.skill.Team Building</source>
-        <target>Team Building</target>
+        <target state="translated">Xây dựng nhóm</target>
       </trans-unit>
-      <trans-unit id="ae2c2fb99bb13a3384c0b6add524eea7" resname="app.skill.Data science">
+      <trans-unit id="ae2c2fb99bb13a3384c0b6add524eea7" resname="app.skill.Data science" approved="yes">
         <source>app.skill.Data science</source>
-        <target>Data science</target>
+        <target state="translated">Khoa học dữ liệu</target>
       </trans-unit>
       <trans-unit id="31ed4fd18896523893941ad478474c4f" resname="app.skill.MS Excel">
         <source>app.skill.MS Excel</source>
@@ -153,97 +153,97 @@
         <source>app.skill.MS Access</source>
         <target>MS Access</target>
       </trans-unit>
-      <trans-unit id="eac20633cbe9df4dca7a2f5db22caf28" resname="app.skill.Supply chain management">
+      <trans-unit id="eac20633cbe9df4dca7a2f5db22caf28" resname="app.skill.Supply chain management" approved="yes">
         <source>app.skill.Supply chain management</source>
-        <target>Supply chain management</target>
+        <target state="translated">Quản lý chuỗi cung ứng</target>
       </trans-unit>
-      <trans-unit id="af7c1510c1cc5d7099305b9fd4cf05bd" resname="app.skill.Freight rail network planning">
+      <trans-unit id="af7c1510c1cc5d7099305b9fd4cf05bd" resname="app.skill.Freight rail network planning" approved="yes">
         <source>app.skill.Freight rail network planning</source>
-        <target>Freight rail network planning</target>
+        <target state="translated">Quy hoạch mạng lưới đường sắt vận tải</target>
       </trans-unit>
-      <trans-unit id="490a0319689d9d2a222edfcc8a9ded97" resname="app.skill.Programming">
+      <trans-unit id="490a0319689d9d2a222edfcc8a9ded97" resname="app.skill.Programming" approved="yes">
         <source>app.skill.Programming</source>
-        <target>Programming</target>
+        <target state="translated">Lập kế hoạch</target>
       </trans-unit>
-      <trans-unit id="04420eed356fd918aeda85f8869fceea" resname="app.skill.Logistics">
+      <trans-unit id="04420eed356fd918aeda85f8869fceea" resname="app.skill.Logistics" approved="yes">
         <source>app.skill.Logistics</source>
-        <target>Logistics</target>
+        <target state="translated">Kho vận</target>
       </trans-unit>
-      <trans-unit id="592479991b7a7cab0eb769f6cfd164dd" resname="app.skill.Young talent in logistics">
+      <trans-unit id="592479991b7a7cab0eb769f6cfd164dd" resname="app.skill.Young talent in logistics" approved="yes">
         <source>app.skill.Young talent in logistics</source>
-        <target>Young talent in logistics</target>
+        <target state="translated">Tài năng trẻ cho lĩnh vực kho vận</target>
       </trans-unit>
-      <trans-unit id="82acc5d466c0bb8b3ae74f5e60271d73" resname="app.skill.Professional training">
+      <trans-unit id="82acc5d466c0bb8b3ae74f5e60271d73" resname="app.skill.Professional training" approved="yes">
         <source>app.skill.Professional training</source>
-        <target>Professional training</target>
+        <target state="translated">Đào tạo chuyên nghiệp</target>
       </trans-unit>
-      <trans-unit id="ede5d7c1b884e150a92df987457a2d6c" resname="app.skill.Experience">
+      <trans-unit id="ede5d7c1b884e150a92df987457a2d6c" resname="app.skill.Experience" approved="yes">
         <source>app.skill.Experience</source>
-        <target>Experience</target>
+        <target state="translated">Kinh nghiệm</target>
       </trans-unit>
-      <trans-unit id="b37e598dbadb1eab05c300a75f1e0e41" resname="app.skill.Vocational training">
+      <trans-unit id="b37e598dbadb1eab05c300a75f1e0e41" resname="app.skill.Vocational training" approved="yes">
         <source>app.skill.Vocational training</source>
-        <target>Vocational training</target>
+        <target state="translated">Đào tạo nghề</target>
       </trans-unit>
-      <trans-unit id="497a74fd02d61689203c1d3235d06728" resname="app.skill.HR management">
+      <trans-unit id="497a74fd02d61689203c1d3235d06728" resname="app.skill.HR management" approved="yes">
         <source>app.skill.HR management</source>
-        <target>HR management</target>
+        <target state="translated">Quản lý nhân lực</target>
       </trans-unit>
-      <trans-unit id="683104c11c72d4c0216e1e6986a95f07" resname="app.skill.Warehousing">
+      <trans-unit id="683104c11c72d4c0216e1e6986a95f07" resname="app.skill.Warehousing" approved="yes">
         <source>app.skill.Warehousing</source>
-        <target>Warehousing</target>
+        <target state="translated">Kho</target>
       </trans-unit>
-      <trans-unit id="ba111dedece4de44f2e7b34ef3bf6cb0" resname="app.skill.Inventory">
+      <trans-unit id="ba111dedece4de44f2e7b34ef3bf6cb0" resname="app.skill.Inventory" approved="yes">
         <source>app.skill.Inventory</source>
-        <target>Inventory</target>
+        <target state="translated">Kiểm kê</target>
       </trans-unit>
-      <trans-unit id="6180690047a5027cba34fa635ae4604e" resname="app.skill.Transport">
+      <trans-unit id="6180690047a5027cba34fa635ae4604e" resname="app.skill.Transport" approved="yes">
         <source>app.skill.Transport</source>
-        <target>Transport</target>
+        <target state="translated">Vận tải</target>
       </trans-unit>
-      <trans-unit id="0c3930cb607180ff392926ffd46a71eb" resname="app.skill.Leadership">
+      <trans-unit id="0c3930cb607180ff392926ffd46a71eb" resname="app.skill.Leadership" approved="yes">
         <source>app.skill.Leadership</source>
-        <target>Leadership</target>
+        <target state="translated">Lãnh đạo</target>
       </trans-unit>
-      <trans-unit id="a4b9178ac1e9fb04662826bd8a0cf132" resname="app.skill.Finance">
+      <trans-unit id="a4b9178ac1e9fb04662826bd8a0cf132" resname="app.skill.Finance" approved="yes">
         <source>app.skill.Finance</source>
-        <target>Finance</target>
+        <target state="translated">Tài chính</target>
       </trans-unit>
-      <trans-unit id="a71d1cb8ac4eb4c1417537ef4b32c824" resname="app.skill.Focused">
+      <trans-unit id="a71d1cb8ac4eb4c1417537ef4b32c824" resname="app.skill.Focused" approved="yes">
         <source>app.skill.Focused</source>
-        <target>Focused</target>
+        <target state="translated">Tập trung</target>
       </trans-unit>
-      <trans-unit id="5f424fc210af5b09c022ce607a72f5b0" resname="app.skill.confidence">
+      <trans-unit id="5f424fc210af5b09c022ce607a72f5b0" resname="app.skill.confidence" approved="yes">
         <source>app.skill.confidence</source>
-        <target>confidence</target>
+        <target state="translated">Lòng tin</target>
       </trans-unit>
-      <trans-unit id="18568632d9f224d7c45a381bc6a64adc" resname="app.skill.udviklingsorienteret">
+      <trans-unit id="18568632d9f224d7c45a381bc6a64adc" resname="app.skill.udviklingsorienteret" approved="yes">
         <source>app.skill.udviklingsorienteret</source>
-        <target>udviklingsorienteret</target>
+        <target state="translated">Định hướng phát triển</target>
       </trans-unit>
-      <trans-unit id="6f5a7f95dd6cf61818cd0a6ffa8bc69c" resname="app.skill.development-oriented">
+      <trans-unit id="6f5a7f95dd6cf61818cd0a6ffa8bc69c" resname="app.skill.development-oriented" approved="yes">
         <source>app.skill.development-oriented</source>
-        <target>development-oriented</target>
+        <target state="translated">Định hướng phát triển</target>
       </trans-unit>
       <trans-unit id="4f0ef88b3730a2c3bc0c0a397a1fb6c3" resname="app.skill.Se vedhæftede kompetenceprofil">
         <source>app.skill.Se vedhæftede kompetenceprofil</source>
         <target>Se vedhæftede kompetenceprofil</target>
       </trans-unit>
-      <trans-unit id="fd9d7f4e832cc549602fb51a240cfef4" resname="app.skill.Freight Forwarding - Road">
+      <trans-unit id="fd9d7f4e832cc549602fb51a240cfef4" resname="app.skill.Freight Forwarding - Road" approved="yes">
         <source>app.skill.Freight Forwarding - Road</source>
-        <target>Freight Forwarding - Road</target>
+        <target state="translated">Đại lý vận tải - đường bộ</target>
       </trans-unit>
-      <trans-unit id="ef28493adc3c900ceefa5e65d3429b91" resname="app.skill.Customer service">
+      <trans-unit id="ef28493adc3c900ceefa5e65d3429b91" resname="app.skill.Customer service" approved="yes">
         <source>app.skill.Customer service</source>
-        <target>Customer service</target>
+        <target state="translated">Dịch vụ khách hàng</target>
       </trans-unit>
-      <trans-unit id="6d910c539d095f9201dc9f124ba784e9" resname="app.skill.Courier, Road, Air, Ocean freight">
+      <trans-unit id="6d910c539d095f9201dc9f124ba784e9" resname="app.skill.Courier, Road, Air, Ocean freight" approved="yes">
         <source>app.skill.Courier, Road, Air, Ocean freight</source>
-        <target>Courier, Road, Air, Ocean freight</target>
+        <target state="translated">Chuyển phát nhanh, đường bộ, biển</target>
       </trans-unit>
-      <trans-unit id="824c5572ebe6ba2347656f003225a407" resname="app.skill.Contract Logistics">
+      <trans-unit id="824c5572ebe6ba2347656f003225a407" resname="app.skill.Contract Logistics" approved="yes">
         <source>app.skill.Contract Logistics</source>
-        <target>Contract Logistics</target>
+        <target state="translated">Hợp đồng kho vận</target>
       </trans-unit>
       <trans-unit id="ccc74df0f7404f19549759688ef5b2b4" resname="app.skill.Tender management">
         <source>app.skill.Tender management</source>

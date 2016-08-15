@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>Para empresarios</target>
+        <target state="translated">Para empresarios</target>
       </trans-unit>
       <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
@@ -61,9 +61,9 @@
         <source>app.introductionForWhoItemRecruitersDesc</source>
         <target state="translated">Quien quiere mejorar el proceso de busqueda de personal teniendo acceso a una lista de los mejores candidatos con habilidades especificas.</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target>Ponte en contacto con nosotros</target>
+        <target state="translated">Ponte en contacto con nosotros</target>
       </trans-unit>
       <trans-unit id="1feb0fe0e8d86f5e1f1d839d5159843f" resname="app.introductionWhoWeAreHeadline" approved="yes">
         <source>app.introductionWhoWeAreHeadline</source>
@@ -113,57 +113,57 @@
         <source>app.introductionHowWeAreDifferentItem4Desc</source>
         <target>We have made a strategic decision to focus entirely on recruitment of logistics and transport professionals. We have spend our careers in logistics and believe that our knowledge and passion for the industry will enable us to do a better job for our customers.</target>
       </trans-unit>
-      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline">
+      <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Headline</source>
-        <target>Partnership Mentality</target>
+        <target state="translated">Mentalidad de colaboración</target>
       </trans-unit>
       <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc">
         <source>app.introductionHowWeAreDifferentItem5Desc</source>
         <target>We invest as much time as needed to understand your specific company culture and history. This enables us to have a much higher success rate when promoting your company and matching you with the right candidates.</target>
       </trans-unit>
-      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline">
+      <trans-unit id="1bd5d85cae334b984362fd872cf935be" resname="app.introductionHowWeAreDifferentItem6Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Headline</source>
-        <target>Flexible solutions</target>
+        <target state="translated">Soluciones flexibles</target>
       </trans-unit>
-      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc">
+      <trans-unit id="abf6ab9a824acc9ead1ff585c4e7a534" resname="app.introductionHowWeAreDifferentItem6Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem6Desc</source>
-        <target>Every client has different needs, depending on size, geographical focus or the level of involvement they need from us in the hiring process. We have build a suite of products that can meet the needs of every size and type of company and we are able to adjust our models according to your needs.</target>
+        <target state="translated">Cada cliente tiene necesidades diferentes, dependiendo del tamaño, el focus geográfico o el nivel de involucramiento que se pide por nuestro lado en el proceso del empleo. Tenemos varios productos para las diferentes necesidades. Dependiendo de cada tamaño o tipo de empresa los productos se adaptan a las necesidades. También podemos ajustar los modelos según lo que se necesita.</target>
       </trans-unit>
-      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion">
+      <trans-unit id="647fc13196426f54fc7117e0718e82f1" resname="app.doYouHaveAQuestion" approved="yes">
         <source>app.doYouHaveAQuestion</source>
-        <target>Do you have a question or want to get in touch? Contact us!</target>
+        <target state="translated">Si tienes preguntas o quieres ponerte en contacto con nosotros? Ponte en contacto con nosotros!</target>
       </trans-unit>
-      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices">
+      <trans-unit id="f46662d53f8355287399f41c9be5492e" resname="app.ourOffices" approved="yes">
         <source>app.ourOffices</source>
-        <target>Our offices</target>
+        <target state="translated">Nuestras oficinas</target>
       </trans-unit>
-      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress">
+      <trans-unit id="2e3a15d0b07a23c7ff9260b5326a142e" resname="app.contactPageAddress" approved="yes">
         <source>app.contactPageAddress</source>
-        <target><![CDATA[<div><b>Germany:</b></div><div>Transport Talent</div><div>Bernstorfstrasse 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Denmark:</b></div><div>Transport Talent ApS</div><div>Kronprinsessegade 46E</div><div>DK-1306 Copenhagen</div>]]></target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Alemania:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburgo&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dinamarca&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Kronprinsessegade 46E&lt;/div&gt;&lt;div&gt;DK-1306 Copenhague&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>
-        <target>Phone</target>
+        <target state="translated">Teléfono</target>
       </trans-unit>
-      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name">
+      <trans-unit id="136fe0fdf2ec6434fc6481b78c7b0b9e" resname="app.name" approved="yes">
         <source>app.name</source>
-        <target>Name</target>
+        <target state="translated">Nombre</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Correo electrónico</target>
       </trans-unit>
-      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject">
+      <trans-unit id="81346381d55e152dccdd29380369d542" resname="app.subject" approved="yes">
         <source>app.subject</source>
-        <target>Subject</target>
+        <target state="translated">Asunto</target>
       </trans-unit>
-      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message">
+      <trans-unit id="56b93b672dd8a21a860027300a7d6e3e" resname="app.message" approved="yes">
         <source>app.message</source>
-        <target>Message</target>
+        <target state="translated">Mensaje</target>
       </trans-unit>
-      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send">
+      <trans-unit id="a2ad0f32e59c71ffb6ae93d9313a4e15" resname="app.send" approved="yes">
         <source>app.send</source>
-        <target>Send</target>
+        <target state="translated">Enviar</target>
       </trans-unit>
     </body>
   </file>

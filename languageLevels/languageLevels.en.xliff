@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="51fc1f7cb3000ceefa5889bc2dc4b116" resname="Elementary proficiency">
+      <trans-unit id="51fc1f7cb3000ceefa5889bc2dc4b116" resname="Elementary proficiency" approved="yes">
         <source>Elementary proficiency</source>
-        <target>Elementary proficiency</target>
+        <target state="translated">Limited working proficiency</target>
       </trans-unit>
-      <trans-unit id="bbcbae2cfa1b1c9e58ea4a5f2207520e" resname="Full professional proficiency">
+      <trans-unit id="bbcbae2cfa1b1c9e58ea4a5f2207520e" resname="Full professional proficiency" approved="yes">
         <source>Full professional proficiency</source>
-        <target>Full professional proficiency</target>
+        <target state="translated">Full professional proficiency</target>
       </trans-unit>
-      <trans-unit id="f002e9681c8e08ca2f3f94f814ac7885" resname="Native or bilingual proficiency">
+      <trans-unit id="f002e9681c8e08ca2f3f94f814ac7885" resname="Native or bilingual proficiency" approved="yes">
         <source>Native or bilingual proficiency</source>
-        <target>Native or bilingual proficiency</target>
+        <target state="translated">Native or bilingual proficiency</target>
       </trans-unit>
     </body>
   </file>

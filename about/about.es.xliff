@@ -33,9 +33,9 @@
         <source>app.about.section.about.office.title</source>
         <target>Cuartel general</target>
       </trans-unit>
-      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location">
+      <trans-unit id="52c0485cce7ecb4f06228dac8f404082" resname="app.about.section.about.office.location" approved="yes">
         <source>app.about.section.about.office.location</source>
-        <target>Germany</target>
+        <target state="translated">Alemañia</target>
       </trans-unit>
       <trans-unit id="fa3d8e1b406632469272669470f549f3" resname="app.about.section.team.title">
         <source>app.about.section.team.title</source>

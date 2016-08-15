@@ -65,9 +65,9 @@
         <source>app.new</source>
         <target state="translated">nuevo/a</target>
       </trans-unit>
-      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
+      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
         <source>app.company</source>
-        <target>Empresa</target>
+        <target state="translated">Empresa</target>
       </trans-unit>
       <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
         <source>app.jobsFilterCompanyPlaceholder</source>

@@ -37,9 +37,9 @@
         <source>app.allIndustries</source>
         <target state="translated">Todas las indústrias</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Buscar</target>
+        <target state="translated">Buscar</target>
       </trans-unit>
       <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies" approved="yes">
         <source>app.browseCompanies</source>
@@ -49,13 +49,13 @@
         <source>app.jobsListed</source>
         <target state="translated">trabajos alistados</target>
       </trans-unit>
-      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices">
+      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices" approved="yes">
         <source>app.offices</source>
-        <target>Oficinas</target>
+        <target state="translated">Oficinas</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target>Tamaño de empresa</target>
+        <target state="translated">Tamaño de empresa</target>
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
@@ -65,9 +65,9 @@
         <source>app.mainActivities</source>
         <target state="translated">Actividades principales</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Página web</target>
+        <target state="translated">Página web</target>
       </trans-unit>
       <trans-unit id="1a143d4a4afb8bc46fa9fbbdad2498d2" resname="app.findOutMore" approved="yes">
         <source>app.findOutMore</source>

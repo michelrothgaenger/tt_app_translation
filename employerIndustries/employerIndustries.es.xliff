@@ -41,9 +41,9 @@
         <source>Liner Shipping</source>
         <target>Liner Shipping</target>
       </trans-unit>
-      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics">
+      <trans-unit id="68c16c941c3fb4e5dad94a7837ea7d1e" resname="Logistics" approved="yes">
         <source>Logistics</source>
-        <target>Logística</target>
+        <target state="translated">Logística</target>
       </trans-unit>
       <trans-unit id="598805a117a3d6ec18f251383141daee" resname="Ocean Freight" approved="yes">
         <source>Ocean Freight</source>
@@ -69,9 +69,9 @@
         <source>SCM &amp; Logistics</source>
         <target state="translated">Modelo de costes estándar &amp; logística</target>
       </trans-unit>
-      <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain">
+      <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain" approved="yes">
         <source>Supply Chain</source>
-        <target>Supply Chain</target>
+        <target state="translated">Cadena de proveedores</target>
       </trans-unit>
       <trans-unit id="a49db90c7d7e1b333a16a1be1741b491" resname="Trucking" approved="yes">
         <source>Trucking</source>

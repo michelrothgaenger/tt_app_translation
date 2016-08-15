@@ -1,0 +1,271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="vi" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.landing.meta.description" approved="yes">
+        <source>app.landing.meta.description</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.landing.meta.keywords" approved="yes">
+        <source>app.landing.meta.keywords</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
+        <source>app.landing.button.register</source>
+        <target state="translated">Hãy thăm Logistcs Talent và đăng ký với chúng tôi</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted" approved="yes">
+        <source>app.landing.job.posted</source>
+        <target state="translated">Tải lên</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143973" resname="app.landing.jobTypes.various" approved="yes">
+        <source>app.landing.jobTypes.various</source>
+        <target state="translated">Đa dạng</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143972" resname="app.landing.jobCategories.various" approved="yes">
+        <source>app.landing.jobCategories.various</source>
+        <target state="translated">Đa dạng</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143971" resname="app.landing.button.companyFollow" approved="yes">
+        <source>app.landing.button.companyFollow</source>
+        <target state="translated">Làm theo</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount" approved="yes">
+        <source>app.landing.jobsCount</source>
+        <target state="translated">%đếm% việc làm|%đếm% việc làm</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143969" resname="app.landing.jobBox.levelsLabel" approved="yes">
+        <source>app.landing.jobBox.levelsLabel</source>
+        <target state="translated">Thứ bậc</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143968" resname="app.landing.jobBox.typesLabel" approved="yes">
+        <source>app.landing.jobBox.typesLabel</source>
+        <target state="translated">Loại công việc</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143967" resname="app.landing.jobBox.citiesLabel" approved="yes">
+        <source>app.landing.jobBox.citiesLabel</source>
+        <target state="translated">Thành phố</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany" approved="yes">
+        <source>Job Locations in Germany</source>
+        <target state="translated">Vị trí việc làm ở CHLB Đức</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143965" resname="Jobs in Frankfurt" approved="yes">
+          <source>Jobs in Frankfurt</source>
+          <target state="translated">Việc làm ở Frankfurt</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143964" resname="View all our jobs in Frankfurt" approved="yes">
+          <source>View all our jobs in Frankfurt</source>
+          <target state="translated">Xem tất cả việc làm ở Frankfurt</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143963" resname="Jobs in Hamburg" approved="yes">
+          <source>Jobs in Hamburg</source>
+          <target state="translated">Việc làm ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143962" resname="View all our jobs in Hamburg" approved="yes">
+          <source>View all our jobs in Hamburg</source>
+          <target state="translated">Xem tất cả việc làm ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143961" resname="Jobs in Kempten" approved="yes">
+          <source>Jobs in Kempten</source>
+          <target state="translated">Việc làm ở Kempten</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143960" resname="View all our jobs in Kempten" approved="yes">
+          <source>View all our jobs in Kempten</source>
+          <target state="translated">Xem tất cả việc làm ở Kempten</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143959" resname="Jobs in Munich" approved="yes">
+          <source>Jobs in Munich</source>
+          <target state="translated">Việc làm ở Munich</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143958" resname="View all our jobs in Munich" approved="yes">
+          <source>View all our jobs in Munich</source>
+          <target state="translated">Xem tất cả việc làm ở Munich</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143957" resname="Jobs in Gütersloh" approved="yes">
+          <source>Jobs in Gütersloh</source>
+          <target state="translated">Việc làm ở Gütersloh</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143956" resname="View all our jobs in Gütersloh" approved="yes">
+          <source>View all our jobs in Gütersloh</source>
+          <target state="translated">Xem tất cả việc làm ở Gütersloh</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143955" resname="Jobs in Hanover" approved="yes">
+          <source>Jobs in Hanover</source>
+          <target state="translated">Việc làm ở Hanover</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143954" resname="View all our jobs in Hanover" approved="yes">
+          <source>View all our jobs in Hanover</source>
+          <target state="translated">Xem tất cả việc làm ở Hanover</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143953" resname="Jobs in Berlin" approved="yes">
+          <source>Jobs in Berlin</source>
+          <target state="translated">Việc làm ở Berlin</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143952" resname="View all our jobs in Berlin" approved="yes">
+          <source>View all our jobs in Berlin</source>
+          <target state="translated">Xem tất cả việc làm ở Berlin</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143951" resname="Jobs in Baden-Baden" approved="yes">
+          <source>Jobs in Baden-Baden</source>
+          <target state="translated">Việc làm ở Baden-Baden</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143950" resname="View all our jobs in Baden-Baden" approved="yes">
+          <source>View all our jobs in Baden-Baden</source>
+          <target state="translated">Xem tất cả việc làm ở Baden-Baden</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143949" resname="Jobs in Cologne" approved="yes">
+          <source>Jobs in Cologne</source>
+          <target state="translated">Việc làm ở Cologne</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143948" resname="View all our jobs in Cologne" approved="yes">
+          <source>View all our jobs in Cologne</source>
+          <target state="translated">Xem tất cả việc làm ở Cologne</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143947" resname="Jobs in Leipzig" approved="yes">
+          <source>Jobs in Leipzig</source>
+          <target state="translated">Xem tất cả việc làm ở Leipzig</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143946" resname="Job types in Germany" approved="yes">
+          <source>Job types in Germany</source>
+          <target state="translated">Các loại việc làm ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany" approved="yes">
+          <source>Professionals jobs in Germany</source>
+          <target state="translated">Các việc làm chuyên nghiệp ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany" approved="yes">
+          <source>View all our Professionals jobs in Germany</source>
+          <target state="translated">Xem tất cả việc làm chuyên nghiệp ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143943" resname="Apprenticeships jobs in Germany" approved="yes">
+          <source>Apprenticeships jobs in Germany</source>
+          <target state="translated">Các vị trí học và học nghề ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143942" resname="View all our Apprenticeships jobs in Germany" approved="yes">
+          <source>View all our Apprenticeships jobs in Germany</source>
+          <target state="translated">Xem tất cả các vị trí học và học nghề ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143941" resname="Graduates jobs in Germany" approved="yes">
+          <source>Graduates jobs in Germany</source>
+          <target state="translated">Vị trí cho người bắt đầu vào nghề ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143940" resname="View all our Graduates jobs in Germany" approved="yes">
+          <source>View all our Graduates jobs in Germany</source>
+          <target state="translated">Xem tất cả vị trí cho người bắt đầu vào nghề ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143939" resname="Students jobs in Germany" approved="yes">
+          <source>Students jobs in Germany</source>
+          <target state="translated">Các việc làm cho sinh viên ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143938" resname="View all our Students jobs in Germany" approved="yes">
+          <source>View all our Students jobs in Germany</source>
+          <target state="translated">Xem tất cả các việc làm cho sinh viên ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143937" resname="Internship jobs in Germany" approved="yes">
+          <source>Internship jobs in Germany</source>
+          <target state="translated">Các vị trí thực tập ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143936" resname="View all our Internship jobs in Germany" approved="yes">
+          <source>View all our Internship jobs in Germany</source>
+          <target state="translated">Xem tất cả các vị trí thực tập ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143935" resname="Management jobs in Germany" approved="yes">
+          <source>Management jobs in Germany</source>
+          <target state="translated">Các công việc quản lý ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143934" resname="View all our Management jobs in Germany" approved="yes">
+          <source>View all our Management jobs in Germany</source>
+          <target state="translated">Xem tất cả các công việc quản lý ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143933" resname="Job categories in Germany" approved="yes">
+          <source>Job categories in Germany</source>
+          <target state="translated">Các loại công việc ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143932" resname="Supply Chain jobs in Germany" approved="yes">
+          <source>Supply Chain jobs in Germany</source>
+          <target state="translated">Các việc làm chuỗi cung ứng ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143931" resname="View all our Supply Chain jobs in Germany" approved="yes">
+          <source>View all our Supply Chain jobs in Germany</source>
+          <target state="translated">Xem tất cả các việc làm chuỗi cung ứng ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany" approved="yes">
+          <source>Operations jobs in Germany</source>
+          <target state="translated">Công việc điều hành ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany" approved="yes">
+          <source>View all our Operations jobs in Germany</source>
+          <target state="translated">Xem tất cả các công việc điều hành ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143928" resname="IT jobs in Germany" approved="yes">
+          <source>View all our IT jobs in Germany</source>
+          <target state="translated">Xem tất cả các công việc máy tính ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143927" resname="Sales &amp; Marketing jobs in Germany" approved="yes">
+          <source>Sales &amp; Marketing jobs in Germany</source>
+          <target state="translated">Các công việc bán hàng và maketing ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143926" resname="View all our Sales &amp; Marketing jobs in Germany" approved="yes">
+          <source>View all our Sales &amp; Marketing jobs in Germany</source>
+          <target state="translated">Xem tất cả các công việc bán hàng và maketing ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany" approved="yes">
+          <source>Finance jobs in Germany</source>
+          <target state="translated">Công việc tài chính ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany" approved="yes">
+          <source>View all our Finance jobs in Germany</source>
+          <target state="translated">Xem tất cả công việc tài chính ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143923" resname="HR jobs in Germany" approved="yes">
+          <source>HR jobs in Germany</source>
+          <target state="translated">Công việc nam giới ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143922" resname="View all our HR jobs in Germany" approved="yes">
+          <source>View all our HR jobs in Germany</source>
+          <target state="translated">Xem tất cả công việc nam giới ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143921" resname="Ocean Freight jobs in Germany" approved="yes">
+          <source>Ocean Freight jobs in Germany</source>
+          <target state="translated">Công việc vận tải biển ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143920" resname="View all our Ocean Freight jobs in Germany" approved="yes">
+          <source>View all our Ocean Freight jobs in Germany</source>
+          <target state="translated">Xem tất cả công việc vận tải biển ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany" approved="yes">
+          <source>Customs jobs in Germany</source>
+          <target state="translated">Công việc khách hàng ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany" approved="yes">
+          <source>View all our Customs jobs in Germany</source>
+          <target state="translated">Xem tất cả công việc khách hàng ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143917" resname="Air Freight jobs in Germany" approved="yes">
+          <source>Air Freight jobs in Germany</source>
+          <target state="translated">Công việc vận tải hàng không ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143916" resname="View all our Air Freight jobs in Germany" approved="yes">
+          <source>View all our Air Freight jobs in Germany</source>
+          <target state="translated">Xem tất cả công việc vận tải hàng không ở CHLB Đức</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143915" resname="View all our jobs in Leipzig" approved="yes">
+          <source>View all our jobs in Leipzig</source>
+          <target state="translated">Xem tất cả công việc ở Leipxich</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143914" resname="View all our IT jobs in Germany">
+          <source>View all our IT jobs in Germany</source>
+          <target>View all our IT jobs in Germany</target>
+        </trans-unit>
+
+    <trans-unit id="dee5823a1aab4a6a89dbf7e0f2764a8a" resname="app.landing.job.saveButtonLabel" approved="yes">
+          <source>app.landing.job.saveButtonLabel</source>
+          <target state="translated">Lưu</target>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

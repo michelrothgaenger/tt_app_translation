@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target>Condiciones generales de contrato</target>
+        <target state="translated">Condiciones generales de contrato</target>
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="5dc51607737d054649c35e464cdf2ded" resname="app.metaKeywordsTermsPage">
         <source>app.metaKeywordsTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>
@@ -29,9 +29,9 @@
         <source>app.thisAgreementIsMadeBetween</source>
         <target>Eso es un acuerdo entre ti y Transport Talent ApS, con la oficina registrada</target>
       </trans-unit>
-      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>
-        <target>Transport Talent, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
+        <target state="translated">Transport Talent, Islands Brygge 77D, 4 TH, Copenhague DK-2300, Dinamarca</target>
       </trans-unit>
       <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices">
         <source>app.theServices</source>
@@ -201,17 +201,17 @@
         <source>app.thisAgreementShallBeGovernedByTheLawsDenmark</source>
         <target>This Agreement shall be governed by the laws of Denmark and you hereby submit to the exclusive jurisdiction of the Danish courts.</target>
       </trans-unit>
-      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent">
+      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="yes">
         <source>app.contactTransportTalent</source>
-        <target>Contact TransportTalent</target>
+        <target state="translated">Contactar TransportTalent</target>
       </trans-unit>
-      <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent">
+      <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
+        <target state="translated">Si tienes cualquier pregunta, duda o quieres hacer un comentario sobre TransportTalent o sobre la página web, por favor ponte en contacto con nosotros:</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Correo electrónico</target>
       </trans-unit>
     </body>
   </file>

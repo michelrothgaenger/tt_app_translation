@@ -73,9 +73,9 @@
         <source>app.jobsFilterCompanyPlaceholder</source>
         <target state="translated">e.g. DHL</target>
       </trans-unit>
-      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location">
+      <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location" approved="yes">
         <source>app.location</source>
-        <target>Dónde</target>
+        <target state="translated">Dónde</target>
       </trans-unit>
       <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany">
         <source>app.egGermany</source>

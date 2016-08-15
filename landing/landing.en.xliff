@@ -261,7 +261,10 @@
           <source>View all our IT jobs in Germany</source>
           <target>View all our IT jobs in Germany</target>
         </trans-unit>
-
+        <trans-unit id="dee5823a1aab4a6a89dbf7e0f2764a8a" resname="app.landing.job.saveButtonLabel">
+          <source>app.landing.job.saveButtonLabel</source>
+          <target>Save</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

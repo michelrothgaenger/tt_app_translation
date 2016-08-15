@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="fr" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.landing.meta.description">
+        <source>app.landing.meta.description</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.landing.meta.keywords">
+        <source>app.landing.meta.keywords</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+        <source>app.landing.button.register</source>
+        <target>Check our logistics talent and register with us</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted">
+        <source>app.landing.job.posted</source>
+        <target>Posted</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143973" resname="app.landing.jobTypes.various">
+        <source>app.landing.jobTypes.various</source>
+        <target>Various</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143972" resname="app.landing.jobCategories.various">
+        <source>app.landing.jobCategories.various</source>
+        <target>Various</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143971" resname="app.landing.button.companyFollow">
+        <source>app.landing.button.companyFollow</source>
+        <target>Follow</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount">
+        <source>app.landing.jobsCount</source>
+        <target>%count% job|%count% jobs</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143969" resname="app.landing.jobBox.levelsLabel">
+        <source>app.landing.jobBox.levelsLabel</source>
+        <target>Levels</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143968" resname="app.landing.jobBox.typesLabel">
+        <source>app.landing.jobBox.typesLabel</source>
+        <target>Job Types</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143967" resname="app.landing.jobBox.citiesLabel">
+        <source>app.landing.jobBox.citiesLabel</source>
+        <target>Cities</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany">
+        <source>Job Locations in Germany</source>
+        <target>Job Locations in Germany</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143965" resname="Jobs in Frankfurt">
+          <source>Jobs in Frankfurt</source>
+          <target>Jobs in Frankfurt</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143964" resname="View all our jobs in Frankfurt">
+          <source>View all our jobs in Frankfurt</source>
+          <target>View all our jobs in Frankfurt</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143963" resname="Jobs in Hamburg">
+          <source>Jobs in Hamburg</source>
+          <target>Jobs in Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143962" resname="View all our jobs in Hamburg">
+          <source>View all our jobs in Hamburg</source>
+          <target>View all our jobs in Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143961" resname="Jobs in Kempten">
+          <source>Jobs in Kempten</source>
+          <target>Jobs in Kempten</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143960" resname="View all our jobs in Kempten">
+          <source>View all our jobs in Kempten</source>
+          <target>View all our jobs in Kempten</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143959" resname="Jobs in Munich">
+          <source>Jobs in Munich</source>
+          <target>Jobs in Munich</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143958" resname="View all our jobs in Munich">
+          <source>View all our jobs in Munich</source>
+          <target>View all our jobs in Munich</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143957" resname="Jobs in Gütersloh">
+          <source>Jobs in Gütersloh</source>
+          <target>Jobs in Gütersloh</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143956" resname="View all our jobs in Gütersloh">
+          <source>View all our jobs in Gütersloh</source>
+          <target>View all our jobs in Gütersloh</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143955" resname="Jobs in Hanover">
+          <source>Jobs in Hanover</source>
+          <target>Jobs in Hanover</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143954" resname="View all our jobs in Hanover">
+          <source>View all our jobs in Hanover</source>
+          <target>View all our jobs in Hanover</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143953" resname="Jobs in Berlin">
+          <source>Jobs in Berlin</source>
+          <target>Jobs in Berlin</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143952" resname="View all our jobs in Berlin">
+          <source>View all our jobs in Berlin</source>
+          <target>View all our jobs in Berlin</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143951" resname="Jobs in Baden-Baden">
+          <source>Jobs in Baden-Baden</source>
+          <target>Jobs in Baden-Baden</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143950" resname="View all our jobs in Baden-Baden">
+          <source>View all our jobs in Baden-Baden</source>
+          <target>View all our jobs in Baden-Baden</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143949" resname="Jobs in Cologne">
+          <source>Jobs in Cologne</source>
+          <target>Jobs in Cologne</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143948" resname="View all our jobs in Cologne">
+          <source>View all our jobs in Cologne</source>
+          <target>View all our jobs in Cologne</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143947" resname="Jobs in Leipzig">
+          <source>Jobs in Leipzig</source>
+          <target>View all our jobs in Leipzig</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143946" resname="Job types in Germany">
+          <source>Job types in Germany</source>
+          <target>Job types in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany">
+          <source>Professionals jobs in Germany</source>
+          <target>Professional jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany">
+          <source>View all our Professionals jobs in Germany</source>
+          <target>View all our Professional jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143943" resname="Apprenticeships jobs in Germany">
+          <source>Apprenticeships jobs in Germany</source>
+          <target>Apprenticeship jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143942" resname="View all our Apprenticeships jobs in Germany">
+          <source>View all our Apprenticeships jobs in Germany</source>
+          <target>View all our Apprenticeship jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143941" resname="Graduates jobs in Germany">
+          <source>Graduates jobs in Germany</source>
+          <target>Graduates jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143940" resname="View all our Graduates jobs in Germany">
+          <source>View all our Graduates jobs in Germany</source>
+          <target>View all our Graduates jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143939" resname="Students jobs in Germany">
+          <source>Students jobs in Germany</source>
+          <target>Student jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143938" resname="View all our Students jobs in Germany">
+          <source>View all our Students jobs in Germany</source>
+          <target>View all our Student jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143937" resname="Internship jobs in Germany">
+          <source>Internship jobs in Germany</source>
+          <target>Internship jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143936" resname="View all our Internship jobs in Germany">
+          <source>View all our Internship jobs in Germany</source>
+          <target>View all our Internship jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143935" resname="Management jobs in Germany">
+          <source>Management jobs in Germany</source>
+          <target>Management jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143934" resname="View all our Management jobs in Germany">
+          <source>View all our Management jobs in Germany</source>
+          <target>View all our Management jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143933" resname="Job categories in Germany">
+          <source>Job categories in Germany</source>
+          <target>Job categories in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143932" resname="Supply Chain jobs in Germany">
+          <source>Supply Chain jobs in Germany</source>
+          <target>Supply Chain jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143931" resname="View all our Supply Chain jobs in Germany">
+          <source>View all our Supply Chain jobs in Germany</source>
+          <target>View all our Supply Chain jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany">
+          <source>Operations jobs in Germany</source>
+          <target>Operations jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany">
+          <source>View all our Operations jobs in Germany</source>
+          <target>View all our Operations jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143928" resname="IT jobs in Germany">
+          <source>View all our IT jobs in Germany</source>
+          <target>View all our IT jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143927" resname="Sales &amp; Marketing jobs in Germany">
+          <source>Sales &amp; Marketing jobs in Germany</source>
+          <target>Sales &amp; Marketing jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143926" resname="View all our Sales &amp; Marketing jobs in Germany">
+          <source>View all our Sales &amp; Marketing jobs in Germany</source>
+          <target>View all our Sales &amp; Marketing jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany">
+          <source>Finance jobs in Germany</source>
+          <target>Finance jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany">
+          <source>View all our Finance jobs in Germany</source>
+          <target>View all our Finance jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143923" resname="HR jobs in Germany">
+          <source>HR jobs in Germany</source>
+          <target>HR jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143922" resname="View all our HR jobs in Germany">
+          <source>View all our HR jobs in Germany</source>
+          <target>View all our HR jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143921" resname="Ocean Freight jobs in Germany">
+          <source>Ocean Freight jobs in Germany</source>
+          <target>Ocean Freight jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143920" resname="View all our Ocean Freight jobs in Germany">
+          <source>View all our Ocean Freight jobs in Germany</source>
+          <target>View all our Ocean Freight jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany">
+          <source>Customs jobs in Germany</source>
+          <target>Customs jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany">
+          <source>View all our Customs jobs in Germany</source>
+          <target>View all our Customs jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143917" resname="Air Freight jobs in Germany">
+          <source>Air Freight jobs in Germany</source>
+          <target>Air Freight jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143916" resname="View all our Air Freight jobs in Germany">
+          <source>View all our Air Freight jobs in Germany</source>
+          <target>View all our Air Freight jobs in Germany</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143915" resname="View all our jobs in Leipzig">
+          <source>View all our jobs in Leipzig</source>
+          <target>View all our jobs in Leipzig</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143914" resname="View all our IT jobs in Germany">
+          <source>View all our IT jobs in Germany</source>
+          <target>View all our IT jobs in Germany</target>
+        </trans-unit>
+
+    </body>
+  </file>
+</xliff>

@@ -262,6 +262,10 @@
           <target>View all our IT jobs in Germany</target>
         </trans-unit>
 
+    <trans-unit id="dee5823a1aab4a6a89dbf7e0f2764a8a" resname="app.landing.job.saveButtonLabel" approved="yes">
+          <source>app.landing.job.saveButtonLabel</source>
+          <target state="translated">Lưu</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

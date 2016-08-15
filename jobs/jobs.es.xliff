@@ -69,9 +69,9 @@
         <source>app.company</source>
         <target state="translated">Empresa</target>
       </trans-unit>
-      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
+      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder" approved="yes">
         <source>app.jobsFilterCompanyPlaceholder</source>
-        <target>e.g. DHL</target>
+        <target state="translated">e.g. DHL</target>
       </trans-unit>
       <trans-unit id="133f81622dd9d0e5164c2d3945f436d9" resname="app.location">
         <source>app.location</source>

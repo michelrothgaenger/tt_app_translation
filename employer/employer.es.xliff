@@ -13,9 +13,9 @@
         <source>app.metaKeywordsEmployerPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Buscar</target>
+        <target state="translated">Buscar</target>
       </trans-unit>
       <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword" approved="yes">
         <source>app.keyword</source>
@@ -49,17 +49,17 @@
         <source>app.mainActivities</source>
         <target state="translated">Actividades principales</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Página web</target>
+        <target state="translated">Página web</target>
       </trans-unit>
       <trans-unit id="c088a1e74f8b4ebe5056929b500cae53" resname="app.currentJobOffers" approved="yes">
         <source>app.currentJobOffers</source>
         <target state="translated">Ofertas de trabajo actuales</target>
       </trans-unit>
-      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office">
+      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office" approved="yes">
         <source>app.office</source>
-        <target>Oficina</target>
+        <target state="translated">Oficina</target>
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
@@ -69,14 +69,18 @@
         <source>app.noCompanyDescription</source>
         <target state="translated">Descripción de empresa no disponible</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target>Guardar en página de perfil</target>
+        <target state="translated">Guardar en página de perfil</target>
       </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile" approved="yes">
         <source>app.goToNextCompanyProfile</source>
         <target state="translated">Ir al siguiente perfil de empresa</target>
       </trans-unit>
-    </body>
+    <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
+        <source>app.employer.button.savedToProfile</source>
+        <target state="translated">Guardado en la página de perfil</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3f6765c843a517aa042ae011230aa976" resname="Geneva">
+      <trans-unit id="3f6765c843a517aa042ae011230aa976" resname="Geneva" approved="yes">
         <source>Geneva</source>
-        <target>Geneva</target>
+        <target state="translated">Geneve</target>
       </trans-unit>
-      <trans-unit id="fcfff492e00727b63cf5dff9f59bc2a4" resname="Stockholm">
+      <trans-unit id="fcfff492e00727b63cf5dff9f59bc2a4" resname="Stockholm" approved="yes">
         <source>Stockholm</source>
-        <target>Stockholm</target>
+        <target state="translated">Stockhom</target>
       </trans-unit>
       <trans-unit id="269cb914b20d49fb2f7cc5b1f602b7aa" resname="Birmingham">
         <source>Birmingham</source>
@@ -29,13 +29,13 @@
         <source>Mississauga</source>
         <target>Mississauga</target>
       </trans-unit>
-      <trans-unit id="a06360acafe964d244e424cbd50862e8" resname="Leicester">
+      <trans-unit id="a06360acafe964d244e424cbd50862e8" resname="Leicester" approved="yes">
         <source>Leicester</source>
-        <target>Leicester</target>
+        <target state="translated">Leixeste</target>
       </trans-unit>
-      <trans-unit id="317532540adceb07d5e2ec62d5eacac2" resname="Manchester">
+      <trans-unit id="317532540adceb07d5e2ec62d5eacac2" resname="Manchester" approved="yes">
         <source>Manchester</source>
-        <target>Manchester</target>
+        <target state="translated">Mancheste</target>
       </trans-unit>
       <trans-unit id="ee9528184f21142f7b0fa9993048d9d0" resname="Bristol">
         <source>Bristol</source>
@@ -45,9 +45,9 @@
         <source>Eindhoven</source>
         <target>Eindhoven</target>
       </trans-unit>
-      <trans-unit id="03b16e0a78b56bb5ada8e43123aaaa62" resname="Bonn">
+      <trans-unit id="03b16e0a78b56bb5ada8e43123aaaa62" resname="Bonn" approved="yes">
         <source>Bonn</source>
-        <target>Bonn</target>
+        <target state="translated">Bon</target>
       </trans-unit>
       <trans-unit id="6872f0ff045b6afb4019c8c580b5432a" resname="Nijmegen">
         <source>Nijmegen</source>
@@ -57,9 +57,9 @@
         <source>Örebro</source>
         <target>Örebro</target>
       </trans-unit>
-      <trans-unit id="34de6132f13e62a0c803d12062324ad6" resname="Cologne">
+      <trans-unit id="34de6132f13e62a0c803d12062324ad6" resname="Cologne" approved="yes">
         <source>Cologne</source>
-        <target>Cologne</target>
+        <target state="translated">Colonho</target>
       </trans-unit>
       <trans-unit id="baa993ff1d0f2fccb0573468522a2a4a" resname="Nuremberg">
         <source>Nuremberg</source>
@@ -77,13 +77,13 @@
         <source>Bielefeld</source>
         <target>Bielefeld</target>
       </trans-unit>
-      <trans-unit id="aea93afdf4bee7f4b52526ee5f040cea" resname="Basel">
+      <trans-unit id="aea93afdf4bee7f4b52526ee5f040cea" resname="Basel" approved="yes">
         <source>Basel</source>
-        <target>Basel</target>
+        <target state="translated">Base</target>
       </trans-unit>
-      <trans-unit id="38278119f2c41ca7aedcbc55eabf73cd" resname="Vancouver">
+      <trans-unit id="38278119f2c41ca7aedcbc55eabf73cd" resname="Vancouver" approved="yes">
         <source>Vancouver</source>
-        <target>Vancouver</target>
+        <target state="translated">Vancouve</target>
       </trans-unit>
       <trans-unit id="92c1f80a07ad537ddb7e00137d6a25f9" resname="Bremen">
         <source>Bremen</source>
@@ -93,9 +93,9 @@
         <source>Gothenburg</source>
         <target>Gothenburg</target>
       </trans-unit>
-      <trans-unit id="ee1611b61f5688e70c12b40684dbb395" resname="Berlin">
+      <trans-unit id="ee1611b61f5688e70c12b40684dbb395" resname="Berlin" approved="yes">
         <source>Berlin</source>
-        <target>Berlin</target>
+        <target state="translated">Beclin</target>
       </trans-unit>
       <trans-unit id="623145997cee6352dace475eaf530fff" resname="Belfast">
         <source>Belfast</source>
@@ -109,17 +109,17 @@
         <source>Milton Keynes</source>
         <target>Milton Keynes</target>
       </trans-unit>
-      <trans-unit id="afce84ff226407a47c9782a742ba02f7" resname="Liverpool">
+      <trans-unit id="afce84ff226407a47c9782a742ba02f7" resname="Liverpool" approved="yes">
         <source>Liverpool</source>
-        <target>Liverpool</target>
+        <target state="translated">Liverpul</target>
       </trans-unit>
       <trans-unit id="e170433cb576a0b45fb493990df50393" resname="Hanover">
         <source>Hanover</source>
         <target>Hanover</target>
       </trans-unit>
-      <trans-unit id="7e35e74e610188414ad24235dd787c78" resname="Moscow">
+      <trans-unit id="7e35e74e610188414ad24235dd787c78" resname="Moscow" approved="yes">
         <source>Moscow</source>
-        <target>Moscow</target>
+        <target state="translated">Matcova</target>
       </trans-unit>
       <trans-unit id="c651bda18ca0a5704727ed63d2bd3e8b" resname="Strasbourg">
         <source>Strasbourg</source>
@@ -173,9 +173,9 @@
         <source>Aalborg</source>
         <target>Aalborg</target>
       </trans-unit>
-      <trans-unit id="0642cd44faf49d86135760616afca900" resname="Esbjerg">
+      <trans-unit id="0642cd44faf49d86135760616afca900" resname="Esbjerg" approved="yes">
         <source>Esbjerg</source>
-        <target>Esbjerg</target>
+        <target state="translated">Esbjerg</target>
       </trans-unit>
       <trans-unit id="d8ef33b699b944e805de2f9d66494f36" resname="Kolding">
         <source>Kolding</source>
@@ -257,9 +257,9 @@
         <source>Sarpsborg</source>
         <target>Sarpsborg</target>
       </trans-unit>
-      <trans-unit id="8449280a23f8c4fcfb13469f6dc19592" resname="Helsinki">
+      <trans-unit id="8449280a23f8c4fcfb13469f6dc19592" resname="Helsinki" approved="yes">
         <source>Helsinki</source>
-        <target>Helsinki</target>
+        <target state="translated">Hensinki</target>
       </trans-unit>
       <trans-unit id="2ee91cb5d0c0c4eb2afa916595d3f4f1" resname="Espoo">
         <source>Espoo</source>
@@ -357,9 +357,9 @@
         <source>South Lanarkshire</source>
         <target>South Lanarkshire</target>
       </trans-unit>
-      <trans-unit id="1820e986a8a213df782c5cf5ad0b65e1" resname="Sunderland">
+      <trans-unit id="1820e986a8a213df782c5cf5ad0b65e1" resname="Sunderland" approved="yes">
         <source>Sunderland</source>
-        <target>Sunderland</target>
+        <target state="translated">Sanderlen</target>
       </trans-unit>
       <trans-unit id="f5f72e9d59bf003dd0eb05d4119da211" resname="Aberdeen">
         <source>Aberdeen</source>
@@ -401,9 +401,9 @@
         <source>Rotterdam</source>
         <target>Rotterdam</target>
       </trans-unit>
-      <trans-unit id="def2d40e4cdacbd734884ec81ed3d40b" resname="The Hague">
+      <trans-unit id="def2d40e4cdacbd734884ec81ed3d40b" resname="The Hague" approved="yes">
         <source>The Hague</source>
-        <target>The Hague</target>
+        <target state="translated">Den Hag</target>
       </trans-unit>
       <trans-unit id="a7e95542fe6c4cc634c9d25bce7a5d58" resname="Utrecht">
         <source>Utrecht</source>
@@ -425,37 +425,37 @@
         <source>Breda</source>
         <target>Breda</target>
       </trans-unit>
-      <trans-unit id="905ac7075793db541c8344c1485d0ef9" resname="Antwerp">
+      <trans-unit id="905ac7075793db541c8344c1485d0ef9" resname="Antwerp" approved="yes">
         <source>Antwerp</source>
-        <target>Antwerp</target>
+        <target state="translated">Antwerpen</target>
       </trans-unit>
-      <trans-unit id="f641cddfd9724b416d034512d84972b9" resname="Ghent">
+      <trans-unit id="f641cddfd9724b416d034512d84972b9" resname="Ghent" approved="yes">
         <source>Ghent</source>
-        <target>Ghent</target>
+        <target state="translated">Gen</target>
       </trans-unit>
       <trans-unit id="6e57d24e9ad45f18fb3b5684bbec9c87" resname="Charleroi">
         <source>Charleroi</source>
         <target>Charleroi</target>
       </trans-unit>
-      <trans-unit id="f789e0ee6b575859e1b536ad30f927fa" resname="Liège">
+      <trans-unit id="f789e0ee6b575859e1b536ad30f927fa" resname="Liège" approved="yes">
         <source>Liège</source>
-        <target>Liège</target>
+        <target state="translated">Lige</target>
       </trans-unit>
       <trans-unit id="8597b899bb9fc54160d1060d20e09cfa" resname="Brussels-City">
         <source>Brussels-City</source>
         <target>Brussels</target>
       </trans-unit>
-      <trans-unit id="28453d3af60f2a1ac14deff11faf3539" resname="Bruges">
+      <trans-unit id="28453d3af60f2a1ac14deff11faf3539" resname="Bruges" approved="yes">
         <source>Bruges</source>
-        <target>Bruges</target>
+        <target state="translated">Brugge</target>
       </trans-unit>
       <trans-unit id="3c3c6648980ea4276922b3069577d6f2" resname="Schaerbeek / Schaarbeek">
         <source>Schaerbeek / Schaarbeek</source>
         <target>Schaarbeek</target>
       </trans-unit>
-      <trans-unit id="01e0a8f3963b0affb56f8a6041087819" resname="Anderlecht">
+      <trans-unit id="01e0a8f3963b0affb56f8a6041087819" resname="Anderlecht" approved="yes">
         <source>Anderlecht</source>
-        <target>Anderlecht</target>
+        <target state="translated">Anderlech</target>
       </trans-unit>
       <trans-unit id="7e466eeb1a1d124b8742391a4ab48633" resname="Namur">
         <source>Namur</source>
@@ -465,9 +465,9 @@
         <source>Leuven</source>
         <target>Leuven</target>
       </trans-unit>
-      <trans-unit id="06630c890abadde9228ea818ce52b621" resname="Luxembourg">
+      <trans-unit id="06630c890abadde9228ea818ce52b621" resname="Luxembourg" approved="yes">
         <source>Luxembourg</source>
-        <target>Luxembourg</target>
+        <target state="translated">Luxembua</target>
       </trans-unit>
       <trans-unit id="28c0b9ba9ac674bc514453543f413f2c" resname="Frankfurt am Main">
         <source>Frankfurt am Main</source>

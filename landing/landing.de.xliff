@@ -13,21 +13,21 @@
         <source>app.landing.meta.keywords</source>
         <target/>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
-        <target>Check our logistics talent and register with us</target>
+        <target state="translated">Jetzt kostenlos registrieren</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted" approved="yes">
         <source>app.landing.job.posted</source>
-        <target>Posted</target>
+        <target state="translated">Veröffentlicht</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143973" resname="app.landing.jobTypes.various">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143973" resname="app.landing.jobTypes.various" approved="yes">
         <source>app.landing.jobTypes.various</source>
-        <target>Various</target>
+        <target state="translated">Diverse</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143972" resname="app.landing.jobCategories.various">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143972" resname="app.landing.jobCategories.various" approved="yes">
         <source>app.landing.jobCategories.various</source>
-        <target>Various</target>
+        <target state="translated">Diverse</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143971" resname="app.landing.button.companyFollow" approved="yes">
         <source>app.landing.button.companyFollow</source>
@@ -37,21 +37,21 @@
         <source>app.landing.jobsCount</source>
         <target state="translated">%count% Stelle|%count% Stellen</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143969" resname="app.landing.jobBox.levelsLabel">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143969" resname="app.landing.jobBox.levelsLabel" approved="yes">
         <source>app.landing.jobBox.levelsLabel</source>
-        <target>Levels</target>
+        <target state="translated">Level</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143968" resname="app.landing.jobBox.typesLabel">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143968" resname="app.landing.jobBox.typesLabel" approved="yes">
         <source>app.landing.jobBox.typesLabel</source>
-        <target>Job Types</target>
+        <target state="translated">Typ</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143967" resname="app.landing.jobBox.citiesLabel" approved="yes">
         <source>app.landing.jobBox.citiesLabel</source>
         <target state="translated">Städte</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany" approved="yes">
         <source>Job Locations in Germany</source>
-        <target>Job Locations in Germany</target>
+        <target state="translated">Arbeitsorte in Deutschland</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143965" resname="Jobs in Frankfurt" approved="yes">
           <source>Jobs in Frankfurt</source>
@@ -133,13 +133,13 @@
           <source>Job types in Germany</source>
           <target state="translated">Stellenarten in Deutschland</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany" approved="yes">
           <source>Professionals jobs in Germany</source>
-          <target>Professional jobs in Germany</target>
+          <target state="translated">Stellen für Berufserfahrene in Deutschland</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany" approved="yes">
           <source>View all our Professionals jobs in Germany</source>
-          <target>View all our Professional jobs in Germany</target>
+          <target state="translated">Alle Stellen für Berufserfahrene in Deutschland anzeigen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143943" resname="Apprenticeships jobs in Germany" approved="yes">
           <source>Apprenticeships jobs in Germany</source>
@@ -193,13 +193,13 @@
           <source>View all our Supply Chain jobs in Germany</source>
           <target state="translated">Alle Supply-Chain-Stellen in Deutschland anzeigen</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany" approved="yes">
           <source>Operations jobs in Germany</source>
-          <target>Operations jobs in Germany</target>
+          <target state="translated">Operative Stellen in Deutschland</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany" approved="yes">
           <source>View all our Operations jobs in Germany</source>
-          <target>View all our Operations jobs in Germany</target>
+          <target state="translated">Alle operativen Stellen in Deutschland anzeigen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143928" resname="IT jobs in Germany" approved="yes">
           <source>View all our IT jobs in Germany</source>
@@ -213,13 +213,13 @@
           <source>View all our Sales &amp; Marketing jobs in Germany</source>
           <target state="translated">Alle Sales- und Marketing-Stellen in Deutschland anzeigen</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany" approved="yes">
           <source>Finance jobs in Germany</source>
-          <target>Finance jobs in Germany</target>
+          <target state="translated">Finanz-Stellen in Deutschland</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany" approved="yes">
           <source>View all our Finance jobs in Germany</source>
-          <target>View all our Finance jobs in Germany</target>
+          <target state="translated">Alle Finanz-Stellen in Deutschland</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143923" resname="HR jobs in Germany" approved="yes">
           <source>HR jobs in Germany</source>
@@ -237,13 +237,13 @@
           <source>View all our Ocean Freight jobs in Germany</source>
           <target state="translated">Alle Seefracht-Stellen in Deutschland anzeigen</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany" approved="yes">
           <source>Customs jobs in Germany</source>
-          <target>Customs jobs in Germany</target>
+          <target state="translated">Zoll-Stellen in Deutschland</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany" approved="yes">
           <source>View all our Customs jobs in Germany</source>
-          <target>View all our Customs jobs in Germany</target>
+          <target state="translated">Alle Zoll-Stellen in Deutschland anzeigen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143917" resname="Air Freight jobs in Germany" approved="yes">
           <source>Air Freight jobs in Germany</source>
@@ -262,6 +262,10 @@
           <target>View all our IT jobs in Germany</target>
         </trans-unit>
 
+    <trans-unit id="dee5823a1aab4a6a89dbf7e0f2764a8a" resname="app.landing.job.saveButtonLabel" approved="yes">
+          <source>app.landing.job.saveButtonLabel</source>
+          <target state="translated">Speichern</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

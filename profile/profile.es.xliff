@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Perfil</target>
+        <target state="translated">Perfil</target>
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage">
         <source>app.metaDescriptionProfilePage</source>
@@ -245,13 +245,13 @@
         <source>app.lastName</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Correo electrónico</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>
-        <target>Phone</target>
+        <target state="translated">Teléfono</target>
       </trans-unit>
       <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country">
         <source>app.country</source>
@@ -289,17 +289,17 @@
         <source>app.companyInformation</source>
         <target>Company information</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target>Tamaño de empresa</target>
+        <target state="translated">Tamaño de empresa</target>
       </trans-unit>
       <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover">
         <source>app.annualTurnover</source>
         <target>Annual turnover</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Página web</target>
+        <target state="translated">Página web</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about">
         <source>app.about</source>

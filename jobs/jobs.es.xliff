@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
         <source>app.jobs</source>
-        <target>Empleos</target>
+        <target state="translated">Empleos</target>
       </trans-unit>
       <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
         <source>app.for</source>
@@ -25,9 +25,9 @@
         <source>app.jobsPageSearchCta</source>
         <target>Narrow your search results by using the filters.</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Buscar</target>
+        <target state="translated">Buscar</target>
       </trans-unit>
       <trans-unit id="666cdf631da4ae4da38c3b39844a9a1c" resname="app.browseJobs">
         <source>app.browseJobs</source>
@@ -61,9 +61,9 @@
         <source>app.posted</source>
         <target>Colocado</target>
       </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new">
+      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
         <source>app.new</source>
-        <target>nuevo/a</target>
+        <target state="translated">nuevo/a</target>
       </trans-unit>
       <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
         <source>app.company</source>

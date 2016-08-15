@@ -261,9 +261,29 @@
           <source>View all our IT jobs in Germany</source>
           <target>View all our IT jobs in Germany</target>
         </trans-unit>
-        <trans-unit id="dee5823a1aab4a6a89dbf7e0f2764a8a" resname="app.landing.job.saveButtonLabel">
-          <source>app.landing.job.saveButtonLabel</source>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143913" resname="app.landing.button.jobUnsave">
+          <source>app.landing.button.jobUnsave</source>
+          <target>Unsave</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143912" resname="app.landing.button.jobSave">
+          <source>app.landing.button.jobSave</source>
           <target>Save</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.landing.flash.companyUnsaved">
+          <source>app.landing.flash.companyUnsaved</source>
+          <target>Company has been removed from profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.landing.flash.companySaved">
+          <source>app.landing.flash.companySaved</source>
+          <target>Company has been saved to profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.landing.flash.jobUnsaved">
+          <source>app.landing.flash.jobUnsaved</source>
+          <target>Job has been removed from profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.landing.flash.jobSaved">
+          <source>app.landing.flash.jobSaved</source>
+          <target>Job has been saved to profile</target>
         </trans-unit>
     </body>
   </file>

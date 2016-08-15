@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Iniciar sesión</target>
+        <target state="translated">Iniciar sesión</target>
       </trans-unit>
       <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="yes">
         <source>app.metaDescriptionEmployerLoginPage</source>

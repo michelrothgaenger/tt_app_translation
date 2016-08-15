@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Ghi danh</target>
+        <target state="translated">Tham khảo và đăng ký với chúng tôi</target>
       </trans-unit>
       <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="translated">Bắt đầu</target>
+        <target state="translated">Đăng ký</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta" approved="yes">
         <source>app.registerCta</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target state="translated">Xin chào %tên%,&lt;br&gt; &lt;br&gt;để kích hoạt tài khoản sử dụng, hãy tải lên trang sau&lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt;Trân trọng &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Giám đốc điều hành&lt;br&gt;</target>
+        <target state="translated">Xin chào %tên%,&lt;br&gt; &lt;br&gt;để kích hoạt tài khoản sử dụng, hãy tải lên trang sau&lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt;Trân trọng &lt;br&gt; &lt;br&gt;Michel Rothgaenger&lt;br&gt; Giám đốc điều hành&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target state="translated">Tìm công việc</target>
+        <target state="translated">Tìm việc làm</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>
@@ -113,9 +113,9 @@
         <source>fos_user.password.mismatch</source>
         <target state="translated">.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit">
+      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit" approved="yes">
         <source>registration.submit</source>
-        <target>Register</target>
+        <target state="translated">Đăng ký</target>
       </trans-unit>
     </body>
   </file>

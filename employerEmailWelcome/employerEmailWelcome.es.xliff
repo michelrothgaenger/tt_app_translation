@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer">
+      <trans-unit id="bae3867e4b44a4640e48bcc98921bee0" resname="app.email.welcomeEmployer" approved="yes">
         <source>app.email.welcomeEmployer</source>
-        <target><![CDATA[Hello %title% %lastname%,<br> <br> Thank you for registering for TransportTalent.com. We appreciate your interest in our services.<br> <br style="font-weight: bold;"> <span style="font-weight: bold;">What are the next steps?</span><br> <br> 1. <a href="%companieprofile%">Set up your free company profile to present your company to interested candidates.<br> </a><br> 2. <a href="%servicespage%">Book our service "Job Board Subscription" to have your job openings automatically posted on our site.</a><br> <br> 3. <a href="%servicespage%">Have us highlight certain positions and find the right candidate for you with our product "Active Sourcing".</a><br> <br> 4. <a href="%servicespage%">Leave the whole recruiting process to us and onlycommunicate with candidates meeting your requirements.</a><br> <br> If you have any questions, we are happy to answer them at <a href="mailto:support@transporttalent.com">support@transporttalent.com</a>.<br> <br> Kind regards,<br> <br> Ulrich Nissen <br> Managing Director<br>]]></target>
+        <target state="translated">Hola%título% %apellido%,&lt;br&gt; &lt;br&gt; Gracias por registrarse en TransportTalent.com. Apreciamos tu interés en nuestro servicio.&lt;br&gt; &lt;br style="font-weight: bold;"&gt; &lt;span style="font-weight: bold;"&gt;Cuáles son los siguientes pasos?&lt;/span&gt;&lt;br&gt; &lt;br&gt; 1. &lt;a href="%perfil de companía%"&gt;Establece tu perfil de companía gratuito para presentar tu empresa a candidatos interesados.&lt;br&gt; &lt;/a&gt;&lt;br&gt; 2. &lt;a href="%servicespage%"&gt;Reserva nuestro servicio "Tablero de subscripción de trabajo" para tener tus ofertas de trabajo posteados automaticamente en nuestra página web.&lt;/a&gt;&lt;br&gt; &lt;br&gt; 3. &lt;a href="%servicespage%"&gt;Déjanos destacar ciertos posiciones y encuentra el candidato adecuado para tu empresa con nuestro producto "Adquisición activa".&lt;/a&gt;&lt;br&gt; &lt;br&gt; 4. &lt;a href="%servicespage%"&gt;Déjanos hacer todo el proceso de reclutamiento y solo habla con candidatos adecuados para lo que estás buscando&lt;/a&gt;&lt;br&gt; &lt;br&gt; Contestaremos con mucho gusto a cualquier pregunta que tienes. Envíanos un correo electrónico a &lt;a href="mailto:support@transporttalent.com"&gt;support@transporttalent.com&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Saludos cordiales,&lt;br&gt; &lt;br&gt; Ulrich Nissen &lt;br&gt; Managing Director&lt;br&gt;</target>
       </trans-unit>
     </body>
   </file>

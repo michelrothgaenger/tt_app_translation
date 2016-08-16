@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="196cd1c50ec9413187e30a5aef740716" resname="diff.in.month" approved="yes">
         <source>diff.in.month</source>
-        <target state="translated">in %count% month|in %count% months</target>
+        <target state="translated">in %count% Monat|in %count% Monaten</target>
       </trans-unit>
       <trans-unit id="7adf693270424393956c717526a95261" resname="diff.ago.year" approved="yes">
         <source>diff.ago.year</source>
@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="d3207fc5d3f6467c829f8002ad431a42" resname="diff.in.year" approved="yes">
         <source>diff.in.year</source>
-        <target state="translated">in %count% year|in %count% years</target>
+        <target state="translated">in %count% Jahr|in %count%Jahren</target>
       </trans-unit>
     </body>
   </file>

@@ -266,6 +266,162 @@
           <source>app.landing.job.saveButtonLabel</source>
           <target state="translated">Lưu</target>
         </trans-unit>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143871" resname="app.landing.button.companyUnfollow" approved="yes">
+        <source>app.landing.button.companyUnfollow</source>
+        <target state="translated">Hủy theo dõi</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143913" resname="app.landing.button.jobUnsave" approved="yes">
+          <source>app.landing.button.jobUnsave</source>
+          <target state="translated">Hủy lưu</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143912" resname="app.landing.button.jobSave" approved="yes">
+          <source>app.landing.button.jobSave</source>
+          <target state="translated">Lưu</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.landing.flash.companyUnsaved" approved="yes">
+          <source>app.landing.flash.companyUnsaved</source>
+          <target state="translated">Công ty đã bị xóa khỏi hồ sơ</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.landing.flash.companySaved" approved="yes">
+          <source>app.landing.flash.companySaved</source>
+          <target state="translated">Công ty đã được lưu vào hồ sơ</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.landing.flash.jobUnsaved" approved="yes">
+          <source>app.landing.flash.jobUnsaved</source>
+          <target state="translated">Việc làm đã bị xóa khỏi hồ sơ</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.landing.flash.jobSaved" approved="yes">
+          <source>app.landing.flash.jobSaved</source>
+          <target state="translated">Việc làm đã được lưu vào hồ sơ</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143846" resname="Job types in Hamburg" approved="yes">
+          <source>Job types in Hamburg</source>
+          <target state="translated">Loại công việc ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143845" resname="Professionals jobs in Hamburg" approved="yes">
+          <source>Professionals jobs in Hamburg</source>
+          <target state="translated">Công việc chuyên môn tại Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143844" resname="View all our Professionals jobs in Hamburg" approved="yes">
+          <source>View all our Professionals jobs in Hamburg</source>
+          <target state="translated">Xem tất cả các công việc chuyên môn của chúng tôi ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143843" resname="Apprenticeships jobs in Hamburg" approved="yes">
+          <source>Apprenticeships jobs in Hamburg</source>
+          <target state="translated">Học nghề ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143842" resname="View all our Apprenticeships jobs in Hamburg" approved="yes">
+          <source>View all our Apprenticeships jobs in Hamburg</source>
+          <target state="translated">Xem tất cả các công việc học nghề ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143841" resname="Graduates jobs in Hamburg" approved="yes">
+          <source>Graduates jobs in Hamburg</source>
+          <target state="translated">Việc làm cho sinh viên đã tốt nghiệp ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143840" resname="View all our Graduates jobs in Hamburg" approved="yes">
+          <source>View all our Graduates jobs in Hamburg</source>
+          <target state="translated">Xem tất cả việc làm cho sinh viên đã tốt nghiệp ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143839" resname="Students jobs in Hamburg" approved="yes">
+          <source>Students jobs in Hamburg</source>
+          <target state="translated">Việc làm cho sinh viên ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143838" resname="View all our Students jobs in Hamburg" approved="yes">
+          <source>View all our Students jobs in Hamburg</source>
+          <target state="translated">Xem tất cả việc làm cho sinh viên ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143837" resname="Internship jobs in Hamburg" approved="yes">
+          <source>Internship jobs in Hamburg</source>
+          <target state="translated">Công việc thực tập tại Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143836" resname="View all our Internship jobs in Hamburg" approved="yes">
+          <source>View all our Internship jobs in Hamburg</source>
+          <target state="translated">Xem tất cả các công việc thực tập của ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143835" resname="Management jobs in Hamburg" approved="yes">
+          <source>Management jobs in Hamburg</source>
+          <target state="translated">Công việc quản lý ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143834" resname="View all our Management jobs in Hamburg" approved="yes">
+          <source>View all our Management jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc quản lý ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143833" resname="Job categories in Hamburg" approved="yes">
+          <source>Job categories in Hamburg</source>
+          <target state="translated">Loại công việc ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143832" resname="Supply Chain jobs in Hamburg" approved="yes">
+          <source>Supply Chain jobs in Hamburg</source>
+          <target state="translated">Công việc chuỗi cung ứng ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143831" resname="View all our Supply Chain jobs in Hamburg" approved="yes">
+          <source>View all our Supply Chain jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc chuỗi cung ứng ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143830" resname="Operations jobs in Hamburg" approved="yes">
+          <source>Operations jobs in Hamburg</source>
+          <target state="translated">Công việc điều hành ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143829" resname="View all our Operations jobs in Hamburg" approved="yes">
+          <source>View all our Operations jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc điều hành ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143827" resname="Sales &amp; Marketing jobs in Hamburg" approved="yes">
+          <source>Sales &amp; Marketing jobs in Hamburg</source>
+          <target state="translated">Công việc bán hàng và tiếp thị ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143826" resname="View all our Sales &amp; Marketing jobs in Hamburg" approved="yes">
+          <source>View all our Sales &amp; Marketing jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc bán hàng và tiếp thị ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143825" resname="Finance jobs in Hamburg" approved="yes">
+          <source>Finance jobs in Hamburg</source>
+          <target state="translated">Công việc tài chính ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143824" resname="View all our Finance jobs in Hamburg" approved="yes">
+          <source>View all our Finance jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc tài chính ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143823" resname="HR jobs in Hamburg" approved="yes">
+          <source>HR jobs in Hamburg</source>
+          <target state="translated">Công việc nguồn nhân sự ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143822" resname="View all our HR jobs in Hamburg" approved="yes">
+          <source>View all our HR jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc nguồn nhân sự ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143821" resname="Ocean Freight jobs in Hamburg" approved="yes">
+          <source>Ocean Freight jobs in Hamburg</source>
+          <target state="translated">Công việc vận tải biển ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143820" resname="View all our Ocean Freight jobs in Hamburg" approved="yes">
+          <source>View all our Ocean Freight jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc vận tải biển ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143819" resname="Customs jobs in Hamburg" approved="yes">
+          <source>Customs jobs in Hamburg</source>
+          <target state="translated">Công việc hải quan ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143818" resname="View all our Customs jobs in Hamburg" approved="yes">
+          <source>View all our Customs jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc hải quan ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143817" resname="Air Freight jobs in Hamburg" approved="yes">
+          <source>Air Freight jobs in Hamburg</source>
+          <target state="translated">Công việc vận chuyển hàng không ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143816" resname="View all our Air Freight jobs in Hamburg" approved="yes">
+          <source>View all our Air Freight jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc vận chuyển hàng không ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143828" resname="IT jobs in Hamburg" approved="yes">
+          <source>View all our IT jobs in Hamburg</source>
+          <target state="translated">Xem tất cả công việc phần mềm ở Hamburg</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143813" resname="app.landing.jobBox.jobsCount" approved="yes">
+          <source>app.landing.jobBox.jobsCount</source>
+          <target state="translated">% đếm% việc làm trực tuyến |% đếm% việc làm trực tuyến</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

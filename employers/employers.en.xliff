@@ -9,6 +9,10 @@
         <source>app.companies</source>
         <target state="translated">Find logistics and transportation companies, that are looking for your talent.</target>
       </trans-unit>
+      <trans-unit id="31f1aad35261785882296872771af04c" resname="app.employers.meta.companiesWord">
+        <source>app.employers.meta.companiesWord</source>
+        <target>Companies</target>
+      </trans-unit>
       <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
         <source>app.in</source>
         <target>in</target>

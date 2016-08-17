@@ -73,6 +73,14 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Yêu cầu của Ngài đã nhập thành công và sẽ được trả lời nhanh nhất</target>
       </trans-unit>
+    <trans-unit id="58ed23f937b325f3cda5e34270d54b3a" resname="app.contact.meta.keywords" approved="yes">
+        <source>app.contact.meta.keywords</source>
+        <target state="translated">.</target>
+      </trans-unit>
+      <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
+        <source>app.contact.meta.description</source>
+        <target state="translated">.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

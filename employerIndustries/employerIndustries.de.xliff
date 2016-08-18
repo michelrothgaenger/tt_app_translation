@@ -65,9 +65,9 @@
         <source>Road Contract Logistics</source>
         <target/>
       </trans-unit>
-      <trans-unit id="c535b114581e05490ad2924c7c958bad" resname="SCM &amp; Logistics">
+      <trans-unit id="c535b114581e05490ad2924c7c958bad" resname="SCM &amp; Logistics" approved="yes">
         <source>SCM &amp; Logistics</source>
-        <target><![CDATA[SCM & Logistics]]></target>
+        <target state="translated">SCM &amp; Logistik</target>
       </trans-unit>
       <trans-unit id="5bbb8c2237ba81966719a7e9cd756f62" resname="Supply Chain">
         <source>Supply Chain</source>

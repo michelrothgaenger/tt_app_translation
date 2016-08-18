@@ -77,6 +77,10 @@
         <source>app.noCompaniesFound</source>
         <target state="translated">Không tìm thấy doanh nghiệp</target>
       </trans-unit>
-    </body>
+    <trans-unit id="31f1aad35261785882296872771af04c" resname="app.employers.meta.companiesWord" approved="yes">
+        <source>app.employers.meta.companiesWord</source>
+        <target state="translated">Công ty</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

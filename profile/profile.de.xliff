@@ -661,6 +661,10 @@
         <source>Failed to resize image</source>
         <target state="translated">Größe konnte nicht angepasst werden</target>
       </trans-unit>
+    <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profileErrorMsg" approved="yes">
+        <source>app.profileErrorMsg</source>
+        <target state="translated">Die Berufserfahrung muss numerisch angegeben werden und zwischen 0 und 100 Jahren liegen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

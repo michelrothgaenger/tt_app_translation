@@ -77,6 +77,10 @@
         <source>app.noCompaniesFound</source>
         <target state="translated">Keine Unternehmen gefunden</target>
       </trans-unit>
-    </body>
+    <trans-unit id="31f1aad35261785882296872771af04c" resname="app.employers.meta.companiesWord" approved="yes">
+        <source>app.employers.meta.companiesWord</source>
+        <target state="translated">Unternehmen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

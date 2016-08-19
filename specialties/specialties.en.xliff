@@ -85,6 +85,14 @@
         <source>Warehousing &amp; Distribution</source>
         <target><![CDATA[Warehousing & Distribution]]></target>
       </trans-unit>
+      <trans-unit id="af71d7f95abd42a38bc8bf018344b35f" resname="Manufacturing">
+        <source>Manufacturing</source>
+        <target>Manufacturing</target>
+      </trans-unit>
+      <trans-unit id="deffd10b6f7844deb47012667fa4b283" resname="Consulting">
+        <source>Consulting</source>
+        <target>Consulting</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -45,6 +45,30 @@
         <source>app.forEmployers</source>
         <target state="translated">Đối với người sử dụng lao</target>
       </trans-unit>
+    <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="yes">
+        <source>app.blog</source>
+        <target state="translated">blog</target>
+      </trans-unit>
+    <trans-unit id="93d7ab5f657c642120a0be2bb0a85173" resname="app.header.mainSearchForm.term.placeholder" approved="yes">
+        <source>app.header.mainSearchForm.term.placeholder</source>
+        <target state="translated">Điền vào tìm kiếm của bạn, ví dụ cước phí</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder" approved="yes">
+        <source>app.header.mainSearchForm.location.placeholder</source>
+        <target state="translated">Địa điểm</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton" approved="yes">
+        <source>app.header.mainSearchForm.searchButton</source>
+        <target state="translated">Tìm kiếm</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs" approved="yes">
+        <source>app.header.userSubmenu.savedJobs</source>
+        <target state="translated">Công việc đã lưu</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies" approved="yes">
+        <source>app.header.userSubmenu.savedCompanies</source>
+        <target state="translated">Công ty đã lưu</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

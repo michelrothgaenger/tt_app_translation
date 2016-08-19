@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target state="translated">Welche Qualifikationen und Kompetenzen haben Sie? Vervollständigen Sie Ihr Profil, um Unternehmen auf Sie aufmerksam zu machen.</target>
+        <target state="translated">Profil</target>
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage" approved="yes">
         <source>app.metaDescriptionProfilePage</source>
@@ -660,6 +660,10 @@
       <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
         <target state="translated">Größe konnte nicht angepasst werden</target>
+      </trans-unit>
+    <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profileErrorMsg" approved="yes">
+        <source>app.profileErrorMsg</source>
+        <target state="translated">Die Berufserfahrung muss numerisch angegeben werden und zwischen 0 und 100 Jahren liegen</target>
       </trans-unit>
     </body>
   </file>

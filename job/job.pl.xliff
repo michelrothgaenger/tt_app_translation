@@ -150,10 +150,6 @@
         <source>app.job.section.popup.jobTitle</source>
         <target state="translated">Job</target>
       </trans-unit>
-      <trans-unit id="478114988b870e8f517112bdb5013522" resname="app.job.section.popup.jobId">
-        <source>app.job.section.popup.jobId</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage" approved="yes">
         <source>app.job.section.popup.succesMessage</source>
         <target state="translated">File uploaded!</target>

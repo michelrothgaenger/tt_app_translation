@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
-        <target state="translated">Nächste Aktion:</target>
+        <target state="translated">Sie können jetzt</target>
       </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
@@ -109,13 +109,13 @@
         <source>form.password_confirmation</source>
         <target state="translated">Passwort bestätigen</target>
       </trans-unit>
-      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
+      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch" approved="yes">
         <source>fos_user.password.mismatch</source>
-        <target/>
+        <target state="translated">Die Passwörter stimmen nicht überein.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit">
+      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit" approved="yes">
         <source>registration.submit</source>
-        <target>Registrieren</target>
+        <target state="translated">Registrieren</target>
       </trans-unit>
     </body>
   </file>

@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
-        <target state="translated">Việc làm - Transport Talent</target>
+        <target state="translated">Việc làm</target>
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
@@ -149,10 +149,6 @@
         <source>app.job.section.popup.jobTitle</source>
         <target state="translated">Việc làm</target>
       </trans-unit>
-      <trans-unit id="478114988b870e8f517112bdb5013522" resname="app.job.section.popup.jobId" approved="yes">
-        <source>app.job.section.popup.jobId</source>
-        <target state="translated">..</target>
-      </trans-unit>
       <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage" approved="yes">
         <source>app.job.section.popup.succesMessage</source>
         <target state="translated">Tải dữ liệu lên!</target>
@@ -179,7 +175,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">Cách nhanh nhất để tìm một công việc mới trong kho vận và vận chuyển. Sử dụng đăng nhập một lần trên đầu hoặc điền vào các ô dưới đây.</target>
+        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Hãy đăng nhập với một trong những nhà cung cấp sau hoặc cung cấp thông tin đăng nhập cho Transport Talent.</target>
       </trans-unit>
       <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
         <source>app.job.section.popup.agreementFirstPart</source>

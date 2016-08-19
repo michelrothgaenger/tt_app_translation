@@ -365,9 +365,9 @@
         <source>app.profileSectionProfessionalExperienceItemsTitle</source>
         <target>Saved experiences</target>
       </trans-unit>
-      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company">
+      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
         <source>app.company</source>
-        <target>Empresa</target>
+        <target state="translated">Empresa</target>
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
         <source>app.jobTitle</source>

@@ -45,6 +45,30 @@
         <source>app.forEmployers</source>
         <target>For Employers</target>
       </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog">
+        <source>app.blog</source>
+        <target>Blog</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85173" resname="app.header.mainSearchForm.term.placeholder">
+        <source>app.header.mainSearchForm.term.placeholder</source>
+        <target>Fill in your search, e.g. freight</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder">
+        <source>app.header.mainSearchForm.location.placeholder</source>
+        <target>Location</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton">
+        <source>app.header.mainSearchForm.searchButton</source>
+        <target>Search</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs">
+        <source>app.header.userSubmenu.savedJobs</source>
+        <target>Saved Jobs</target>
+      </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies">
+        <source>app.header.userSubmenu.savedCompanies</source>
+        <target>Saved Companies</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

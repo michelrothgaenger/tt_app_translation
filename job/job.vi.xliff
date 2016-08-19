@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
-        <target state="translated">Việc làm - Transport Talent</target>
+        <target state="translated">Việc làm</target>
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">Cách nhanh nhất để tìm một công việc mới trong kho vận và vận chuyển. Sử dụng đăng nhập một lần trên đầu hoặc điền vào các ô dưới đây.</target>
+        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Hãy đăng nhập với một trong những nhà cung cấp sau hoặc cung cấp thông tin đăng nhập cho Transport Talent.</target>
       </trans-unit>
       <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
         <source>app.job.section.popup.agreementFirstPart</source>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>
-        <target state="translated">Hướng dẫn.</target>
+        <target state="translated">Hướng dẫn</target>
       </trans-unit>
       <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
         <source>app.job.forward.headline</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>
-        <target state="translated">Tiếp tục.</target>
+        <target state="translated">Tiếp tục</target>
       </trans-unit>
       <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel" approved="yes">
         <source>app.job.forward.button.cancel</source>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close" approved="yes">
         <source>app.job.forward.button.close</source>
-        <target state="translated">Đóng.</target>
+        <target state="translated">Đóng</target>
       </trans-unit>
 
     <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">

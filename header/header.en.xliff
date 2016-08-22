@@ -69,6 +69,30 @@
         <source>app.header.userSubmenu.savedCompanies</source>
         <target>Saved Companies</target>
       </trans-unit>
+      <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle">
+        <source>app.header.section.navigate.menuTitle</source>
+        <target>Menu</target>
+      </trans-unit>
+      <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label">
+        <source>app.header.searchForm.label</source>
+        <target>Search Jobs</target>
+      </trans-unit>
+      <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder">
+        <source>app.header.searchForm.termPlaceholder</source>
+        <target>e.g. Coordinator</target>
+      </trans-unit>
+      <trans-unit id="5081f721787143918e8b3571a4176b50" resname="app.header.searchForm.locationPlaceholder">
+        <source>app.header.searchForm.locationPlaceholder</source>
+        <target>e.g. Hamburg, Germany</target>
+      </trans-unit>
+      <trans-unit id="802d0d39e09b422b9428ceac2ddb82bd" resname="app.header.searchForm.submitValue">
+        <source>app.header.searchForm.submitValue</source>
+        <target>SEARCH</target>
+      </trans-unit>
+      <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel">
+        <source>app.header.language.selectLabel</source>
+        <target>Select language</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

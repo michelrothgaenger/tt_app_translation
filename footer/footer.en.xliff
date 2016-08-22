@@ -65,6 +65,38 @@
         <source>app.imprint</source>
         <target>Imprint</target>
       </trans-unit>
+      <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates">
+        <source>app.footer.rowCandidates</source>
+        <target>Candidates</target>
+      </trans-unit>
+      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome">
+        <source>app.footer.rowHome</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs">
+        <source>app.footer.rowJobs</source>
+        <target>Jobs</target>
+      </trans-unit>
+      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies">
+        <source>app.footer.rowCompanies</source>
+        <target>Companies</target>
+      </trans-unit>
+      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers">
+        <source>app.footer.rowEmployers</source>
+        <target>Employers</target>
+      </trans-unit>
+      <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel">
+        <source>app.footer.introductionLabel</source>
+        <target>What we offer</target>
+      </trans-unit>
+      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel">
+        <source>app.footer.askHelpLabel</source>
+        <target>Need help?</target>
+      </trans-unit>
+      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog">
+        <source>app.blog</source>
+        <target>Blog</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

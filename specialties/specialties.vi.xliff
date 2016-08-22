@@ -85,6 +85,14 @@
         <source>Warehousing &amp; Distribution</source>
         <target state="translated">Kho bãi và phân phối</target>
       </trans-unit>
+    <trans-unit id="af71d7f95abd42a38bc8bf018344b35f" resname="Manufacturing" approved="yes">
+        <source>Manufacturing</source>
+        <target state="translated">Chế tạo</target>
+      </trans-unit>
+      <trans-unit id="deffd10b6f7844deb47012667fa4b283" resname="Consulting" approved="yes">
+        <source>Consulting</source>
+        <target state="translated">Tư vấn</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target>Register</target>
+        <target state="translated">Mira nuestro don de logística y registrate</target>
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
         <source>app.metaDescriptionEmployerRegisterPage</source>
@@ -29,13 +29,13 @@
         <source>app.employerRegisterDesc2</source>
         <target>* Indicates required field.</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>I agree to the</target>
+        <target state="translated">Estoy de acuerdo con</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Condiciones Generales de Contratación</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
         <source>app.checkBoxRequiredMsg</source>
@@ -57,13 +57,13 @@
         <source>app.ms</source>
         <target>Ms.</target>
       </trans-unit>
-      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof">
+      <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="yes">
         <source>app.prof</source>
-        <target>Prof.</target>
+        <target state="translated">Prof.</target>
       </trans-unit>
-      <trans-unit id="988407b78b6fbc6665c44937f71120f0" resname="app.dr">
+      <trans-unit id="988407b78b6fbc6665c44937f71120f0" resname="app.dr" approved="yes">
         <source>app.dr</source>
-        <target>Dr.</target>
+        <target state="translated">Dr.</target>
       </trans-unit>
       <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name">
         <source>app.first_name</source>

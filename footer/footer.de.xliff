@@ -65,6 +65,10 @@
         <source>app.imprint</source>
         <target state="translated">Impressum</target>
       </trans-unit>
-    </body>
+    <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
+        <source>app.footer.introductionLabel</source>
+        <target state="translated">Unsere Produkte</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

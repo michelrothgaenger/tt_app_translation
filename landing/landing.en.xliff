@@ -13,9 +13,9 @@
         <source>app.landing.meta.keywords</source>
         <target/>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
-        <target>Check our logistics talent and register with us</target>
+        <target state="translated">Sign up now to apply for jobs</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted">
         <source>app.landing.job.posted</source>

@@ -5,33 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline">
+      <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline" approved="yes">
         <source>app.loginHeadline</source>
-        <target>Great to have you back.</target>
+        <target state="translated">Bienvenido/a de vuelta.</target>
       </trans-unit>
-      <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta">
+      <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta" approved="yes">
         <source>app.loginCta</source>
-        <target>We are adding new jobs every day. Sign in and start browsing.</target>
+        <target state="translated">Añadimos empleos nuevos cada dia. Inicia la sessión y empieza a buscar.</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target>Sign in with LinkedIn</target>
+        <target state="translated">Inicia sessión con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
-        <target>Sign in with Xing</target>
+        <target state="translated">Inicia sessión con Xing</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target>Sign in with Google</target>
+        <target state="translated">Inicia sessión con Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target>Sign in with Facebook</target>
+        <target state="translated">Inicia sessión con Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>o</target>
+        <target state="translated">o</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

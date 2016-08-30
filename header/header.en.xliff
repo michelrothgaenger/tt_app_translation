@@ -37,13 +37,13 @@
         <source>app.findJobs</source>
         <target>Find Jobs</target>
       </trans-unit>
-      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates">
+      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
-        <target>For candidates</target>
+        <target state="translated">Сandidate</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target>For Employers</target>
+        <target state="translated">Employer</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog">
         <source>app.blog</source>

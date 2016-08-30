@@ -45,6 +45,10 @@
         <source>app.forEmployers</source>
         <target state="translated">Für Arbeitgeber</target>
       </trans-unit>
-    </body>
+    <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="yes">
+        <source>app.blog</source>
+        <target state="translated">Blog</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

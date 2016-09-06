@@ -166,10 +166,6 @@
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Cancel</target>
       </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
-        <source>app.jobSavedMsg</source>
-        <target state="translated">Job saved to profile</target>
-      </trans-unit>
       <trans-unit id="2baae59c22544d538839b3b781263a0c" resname="app.job.section.popup.headTitle" approved="yes">
         <source>app.job.section.popup.headTitle</source>
         <target state="translated">Get started and register</target>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved">
+          <source>app.flash.companyUnsaved</source>
+          <target>Company has been removed from profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved">
+          <source>app.flash.companySaved</source>
+          <target>Company has been saved to profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved">
+          <source>app.flash.jobUnsaved</source>
+          <target>Job has been removed from profile</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved">
+          <source>app.flash.jobSaved</source>
+          <target>Job has been saved to profile</target>
+        </trans-unit>
+    </body>
+  </file>
+</xliff>

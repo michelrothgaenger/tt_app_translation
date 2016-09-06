@@ -273,22 +273,6 @@
           <source>app.landing.button.jobSave</source>
           <target>Save</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.landing.flash.companyUnsaved">
-          <source>app.landing.flash.companyUnsaved</source>
-          <target>Company has been removed from profile</target>
-        </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.landing.flash.companySaved">
-          <source>app.landing.flash.companySaved</source>
-          <target>Company has been saved to profile</target>
-        </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.landing.flash.jobUnsaved">
-          <source>app.landing.flash.jobUnsaved</source>
-          <target>Job has been removed from profile</target>
-        </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.landing.flash.jobSaved">
-          <source>app.landing.flash.jobSaved</source>
-          <target>Job has been saved to profile</target>
-        </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143846" resname="Job types in Hamburg">
           <source>Job types in Hamburg</source>
           <target>Job types in Hamburg</target>

@@ -93,6 +93,34 @@
         <source>app.noJobsFound</source>
         <target state="translated">Không tìm thấy việc làm</target>
       </trans-unit>
+    <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
+        <source>app.jobs.searchForm.term.placeholder</source>
+        <target state="translated">Điền vào mục tìm kiếm của bạn, ví dụ: cước phí</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3996" resname="app.jobs.searchForm.filterTitle" approved="yes">
+        <source>app.jobs.searchForm.filterTitle</source>
+        <target state="translated">Bộ lọc</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3995" resname="app.jobs.searchForm.resetFilter" approved="yes">
+        <source>app.jobs.searchForm.resetFilter</source>
+        <target state="translated">Thiết lập lại bộ lọc</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3994" resname="app.jobs.searchForm.filterAdd" approved="yes">
+        <source>app.jobs.searchForm.filterAdd</source>
+        <target state="translated">Thêm vào</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3993" resname="app.jobs.searchForm.save" approved="yes">
+        <source>app.jobs.jobBlock.save</source>
+        <target state="translated">Lưu</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3992" resname="app.jobs.searchForm.posted" approved="yes">
+        <source>app.jobs.jobBlock.posted</source>
+        <target state="translated">Đăng tải</target>
+      </trans-unit>
+    <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3991" resname="app.jobs.searchForm.languagesTitle" approved="yes">
+        <source>app.jobs.searchForm.languagesTitle</source>
+        <target state="translated">Ngôn ngữ</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

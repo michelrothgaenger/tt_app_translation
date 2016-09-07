@@ -117,6 +117,10 @@
         <source>app.jobs.jobBlock.posted</source>
         <target state="translated">Đăng tải</target>
       </trans-unit>
+    <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3991" resname="app.jobs.searchForm.languagesTitle" approved="yes">
+        <source>app.jobs.searchForm.languagesTitle</source>
+        <target state="translated">Ngôn ngữ</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

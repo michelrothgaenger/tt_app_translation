@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
-        <target state="translated">Transport Talent - Contact us</target>
+        <target state="translated">Contact us</target>
       </trans-unit>
       <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1">
         <source>app.contact.h1</source>
@@ -79,11 +79,11 @@
       </trans-unit>
       <trans-unit id="58ed23f937b325f3cda5e34270d54b3a" resname="app.contact.meta.keywords">
         <source>app.contact.meta.keywords</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description">
         <source>app.contact.meta.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

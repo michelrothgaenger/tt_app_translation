@@ -117,30 +117,6 @@
         <source>app.index.button.jobSave</source>
         <target>Save</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.index.company.jobsOnline">
-        <source>app.index.company.jobsOnline</source>
-        <target>%count% job online|%count% jobs online</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143112" resname="app.index.button.companySave">
-        <source>app.index.button.companySave</source>
-        <target>Follow</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143111" resname="app.index.button.companySaved">
-        <source>app.index.button.companySaved</source>
-        <target>Unfollow</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143113" resname="app.index.company.cities">
-        <source>app.index.company.cities</source>
-        <target>Cities</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143114" resname="app.index.company.jobTypes">
-        <source>app.index.company.jobTypes</source>
-        <target>Job types</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143115" resname="app.index.company.levels">
-        <source>app.index.company.levels</source>
-        <target>Levels</target>
-      </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
         <source>app.index.companies.description</source>
         <target state="translated">Find out what top logistics companies are looking for and what they have to offer</target>

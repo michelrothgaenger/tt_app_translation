@@ -117,6 +117,30 @@
         <source>app.index.button.jobSave</source>
         <target state="translated">Lưu</target>
       </trans-unit>
-    </body>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.index.company.jobsOnline" approved="yes">
+        <source>app.index.company.jobsOnline</source>
+        <target state="translated">% tiêu đề% việc làm trực tuyến |% tiêu đề% việc làm trực tuyến</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143112" resname="app.index.button.companySave" approved="yes">
+        <source>app.index.button.companySave</source>
+        <target state="translated">Làm theo</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143111" resname="app.index.button.companySaved" approved="yes">
+        <source>app.index.button.companySaved</source>
+        <target state="translated">Không làm theo</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143113" resname="app.index.company.cities" approved="yes">
+        <source>app.index.company.cities</source>
+        <target state="translated">Thành phố</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143114" resname="app.index.company.jobTypes" approved="yes">
+        <source>app.index.company.jobTypes</source>
+        <target state="translated">Loại việc làm</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143115" resname="app.index.company.levels" approved="yes">
+        <source>app.index.company.levels</source>
+        <target state="translated">Thứ bậc</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

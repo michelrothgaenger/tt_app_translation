@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -41,53 +41,53 @@
         <source>Armenian</source>
         <target>Armenisch</target>
       </trans-unit>
-      <trans-unit id="7e832a2236372b3ac5e030c551d90bab" resname="Assamese">
+      <trans-unit id="7e832a2236372b3ac5e030c551d90bab" resname="Assamese" approved="yes">
         <source>Assamese</source>
-        <target>Assamese</target>
+        <target state="translated">Assamesisch</target>
       </trans-unit>
-      <trans-unit id="77505e62bcfa97766a1881c8cdde2d2c" resname="Avaric">
+      <trans-unit id="77505e62bcfa97766a1881c8cdde2d2c" resname="Avaric" approved="yes">
         <source>Avaric</source>
-        <target>Awarisch</target>
+        <target state="translated">Awarisch</target>
       </trans-unit>
-      <trans-unit id="4599c0da808fe367966b8dd8c092f987" resname="Avestan">
+      <trans-unit id="4599c0da808fe367966b8dd8c092f987" resname="Avestan" approved="yes">
         <source>Avestan</source>
-        <target>Avestisch</target>
+        <target state="translated">Avestisch</target>
       </trans-unit>
-      <trans-unit id="fd46bbc3c5ec0bc8f6b071e8581ac381" resname="Aymara">
+      <trans-unit id="fd46bbc3c5ec0bc8f6b071e8581ac381" resname="Aymara" approved="yes">
         <source>Aymara</source>
-        <target>Aymara</target>
+        <target state="translated">Aymara</target>
       </trans-unit>
-      <trans-unit id="9f3356b27d0a76cb5f0ceea9e80a6e72" resname="Azerbaijani">
+      <trans-unit id="9f3356b27d0a76cb5f0ceea9e80a6e72" resname="Azerbaijani" approved="yes">
         <source>Azerbaijani</source>
-        <target>Azerbaijani</target>
+        <target state="translated">Aserbaidschanisch</target>
       </trans-unit>
-      <trans-unit id="832739b23245aa7a7a10df7f9c7f6c50" resname="Bambara">
+      <trans-unit id="832739b23245aa7a7a10df7f9c7f6c50" resname="Bambara" approved="yes">
         <source>Bambara</source>
-        <target>Bambara</target>
+        <target state="translated">Bambara</target>
       </trans-unit>
-      <trans-unit id="634e2c69edef2f7a8b287ffe57bffd2d" resname="Bashkir">
+      <trans-unit id="634e2c69edef2f7a8b287ffe57bffd2d" resname="Bashkir" approved="yes">
         <source>Bashkir</source>
-        <target>Baschkirisch</target>
+        <target state="translated">Baschkirisch</target>
       </trans-unit>
-      <trans-unit id="a8a890709b5828879edc68e65a938695" resname="Basque">
+      <trans-unit id="a8a890709b5828879edc68e65a938695" resname="Basque" approved="yes">
         <source>Basque</source>
-        <target>Baskisch</target>
+        <target state="translated">Baskisch</target>
       </trans-unit>
-      <trans-unit id="0a6de4460095f398e8a45ed512a7538f" resname="Belarusian">
+      <trans-unit id="0a6de4460095f398e8a45ed512a7538f" resname="Belarusian" approved="yes">
         <source>Belarusian</source>
-        <target>Belarussisch</target>
+        <target state="translated">Belarussisch</target>
       </trans-unit>
-      <trans-unit id="a56dcb8443c25f8e14b47b8ff1748331" resname="Bengali">
+      <trans-unit id="a56dcb8443c25f8e14b47b8ff1748331" resname="Bengali" approved="yes">
         <source>Bengali</source>
-        <target>Bengali</target>
+        <target state="translated">Bengali</target>
       </trans-unit>
-      <trans-unit id="1d1b2ab97dea8298f05b4cc629b3c644" resname="Bihari languages">
+      <trans-unit id="1d1b2ab97dea8298f05b4cc629b3c644" resname="Bihari languages" approved="yes">
         <source>Bihari languages</source>
-        <target>Bihari</target>
+        <target state="translated">Bihari</target>
       </trans-unit>
-      <trans-unit id="ad5b3d938c9d00ed73c802be17c40e4e" resname="Bislama">
+      <trans-unit id="ad5b3d938c9d00ed73c802be17c40e4e" resname="Bislama" approved="yes">
         <source>Bislama</source>
-        <target>Bislama</target>
+        <target state="translated">Bislama</target>
       </trans-unit>
       <trans-unit id="f4bfde733a0e7dc8decbe2a42c051cce" resname="Bokmål, Norwegian">
         <source>Bokmål, Norwegian</source>
@@ -113,9 +113,9 @@
         <source>Catalan</source>
         <target>Katalanisch</target>
       </trans-unit>
-      <trans-unit id="392c9dc0bdf384fa435396416f7e16fc" resname="Central Khmer">
+      <trans-unit id="392c9dc0bdf384fa435396416f7e16fc" resname="Central Khmer" approved="yes">
         <source>Central Khmer</source>
-        <target>Zentral Khmer</target>
+        <target state="translated">Khmer</target>
       </trans-unit>
       <trans-unit id="bc01ab1666e21f8a2eb788936e012802" resname="Chamorro">
         <source>Chamorro</source>
@@ -225,9 +225,9 @@
         <source>Georgian</source>
         <target>Georgisch</target>
       </trans-unit>
-      <trans-unit id="86bc3115eb4e9873ac96904a4a68e19e" resname="German">
+      <trans-unit id="86bc3115eb4e9873ac96904a4a68e19e" resname="German" approved="yes">
         <source>German</source>
-        <target>Deutsche</target>
+        <target state="translated">Deutsch</target>
       </trans-unit>
       <trans-unit id="434651c4fd30d403e3f97ce9c0e8d883" resname="Greek, Modern (1453-)">
         <source>Greek, Modern (1453-)</source>
@@ -513,9 +513,9 @@
         <source>Persian</source>
         <target>Persisch</target>
       </trans-unit>
-      <trans-unit id="c730389bc8d99e59c867766babdd48b5" resname="Polish">
+      <trans-unit id="c730389bc8d99e59c867766babdd48b5" resname="Polish" approved="yes">
         <source>Polish</source>
-        <target>Polieren</target>
+        <target state="translated">Polnisch</target>
       </trans-unit>
       <trans-unit id="30e32c7c4cf434e9c75e60c14c442541" resname="Portuguese">
         <source>Portuguese</source>

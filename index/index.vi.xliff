@@ -5,6 +5,10 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.index.posted" approved="yes">
+        <source>app.index.posted</source>
+        <target state="translated">Công bố</target>
+      </trans-unit>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
         <target state="translated">Hãy để cập nhật mạng lưới của chúng tôi và Ngài hãy tìm thấy những công việc tốt nhất trong lĩnh vực kho vận thông qua Transport Talent</target>
@@ -104,6 +108,14 @@
       <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
         <source>app.more</source>
         <target state="translated">Nhiều hơn nữa</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143977" resname="app.index.button.jobUnsave" approved="yes">
+        <source>app.index.button.jobUnsave</source>
+        <target state="translated">Hủy lưu</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143978" resname="app.index.button.jobSave" approved="yes">
+        <source>app.index.button.jobSave</source>
+        <target state="translated">Lưu</target>
       </trans-unit>
     </body>
   </file>

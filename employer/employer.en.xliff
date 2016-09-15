@@ -13,14 +13,6 @@
         <source>app.metaKeywordsEmployerPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
-        <source>app.search</source>
-        <target>Search</target>
-      </trans-unit>
-      <trans-unit id="e2ad16d1ff403fc8f2fd13d86281a6db" resname="app.keyword">
-        <source>app.keyword</source>
-        <target>Keyword</target>
-      </trans-unit>
       <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation">
         <source>app.employerInformation</source>
         <target>Employer information</target>
@@ -77,9 +69,33 @@
         <source>app.employer.button.savedToProfile</source>
         <target>Saved to profile page</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile">
-        <source>app.goToNextCompanyProfile</source>
-        <target>Go to next company profile</target>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title">
+        <source>app.employer.info.jobsOnline.title</source>
+        <target>Jobs online</target>
+      </trans-unit>
+      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text">
+        <source>app.employer.info.jobsOnline.text</source>
+        <target>There are currently %count% job from %company%|There are currently %count% jobs from %company%</target>
+      </trans-unit>
+      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle">
+        <source>app.employer.linkToJobsTitle</source>
+        <target>See all jobs</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title">
+        <source>app.employer.currentJobs.title</source>
+        <target>Current jobs from %company%</target>
+      </trans-unit>
+      <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted">
+        <source>app.employer.jobBlock.posted</source>
+        <target>Posted</target>
+      </trans-unit>
+      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50640" resname="app.employer.jobBlock.saved">
+        <source>app.employer.jobBlock.saved</source>
+        <target>Saved</target>
+      </trans-unit>
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.employer.jobBlock.save">
+        <source>app.employer.jobBlock.save</source>
+        <target>Save</target>
       </trans-unit>
     </body>
   </file>

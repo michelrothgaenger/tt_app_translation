@@ -77,6 +77,38 @@
         <source>app.goToNextCompanyProfile</source>
         <target state="translated">Weiter zum nächsten Unternehmensprofil</target>
       </trans-unit>
+    <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
+        <source>app.employer.button.savedToProfile</source>
+        <target state="translated">Nicht mehr folgen</target>
+      </trans-unit>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+        <source>app.employer.info.jobsOnline.title</source>
+        <target state="translated">Jobs online</target>
+      </trans-unit>
+      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
+        <source>app.employer.info.jobsOnline.text</source>
+        <target state="translated">Aktuell %count% Job von %company%|Aktuell %count% Jobs von %company%</target>
+      </trans-unit>
+      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
+        <source>app.employer.linkToJobsTitle</source>
+        <target state="translated">Zeige alle Jobs</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
+        <source>app.employer.currentJobs.title</source>
+        <target state="translated">Aktuelle Jobs von %company%</target>
+      </trans-unit>
+      <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted" approved="yes">
+        <source>app.employer.jobBlock.posted</source>
+        <target state="translated">Online seit</target>
+      </trans-unit>
+      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50640" resname="app.employer.jobBlock.saved" approved="yes">
+        <source>app.employer.jobBlock.saved</source>
+        <target state="translated">Gespeichert</target>
+      </trans-unit>
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.employer.jobBlock.save" approved="yes">
+        <source>app.employer.jobBlock.save</source>
+        <target state="translated">Speichern</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

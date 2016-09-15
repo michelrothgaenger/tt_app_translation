@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>
-        <target>Fill in your search, e.g. freight</target>
+        <target state="translated">Keyword e.g. freight</target>
       </trans-unit>
       <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
         <source>app.jobs</source>

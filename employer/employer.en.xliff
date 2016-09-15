@@ -25,10 +25,6 @@
         <source>app.employees_lowercase</source>
         <target state="translated">employees</target>
       </trans-unit>
-      <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable">
-        <source>app.notAvailable</source>
-        <target>Not available</target>
-      </trans-unit>
       <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
         <source>app.headquater</source>
         <target>Headquarter</target>
@@ -45,29 +41,17 @@
         <source>app.website</source>
         <target>Website</target>
       </trans-unit>
-      <trans-unit id="c088a1e74f8b4ebe5056929b500cae53" resname="app.currentJobOffers">
-        <source>app.currentJobOffers</source>
-        <target>Current job offers</target>
-      </trans-unit>
-      <trans-unit id="c56a50bde96bb55863f3b1d893d4219f" resname="app.office">
-        <source>app.office</source>
-        <target>Office</target>
-      </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
-        <source>app.position</source>
-        <target>Position</target>
-      </trans-unit>
       <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
         <source>app.noCompanyDescription</source>
         <target>Company description unavailable</target>
       </trans-unit>
       <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
         <source>app.saveToProfilePage</source>
-        <target>Save to profile page</target>
+        <target>Follow</target>
       </trans-unit>
       <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile">
         <source>app.employer.button.savedToProfile</source>
-        <target>Saved to profile page</target>
+        <target>Unfollow</target>
       </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title">
         <source>app.employer.info.jobsOnline.title</source>

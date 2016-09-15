@@ -13,9 +13,9 @@
         <source>app.employers.meta.companiesWord</source>
         <target>Companies</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target>in</target>
+        <target state="translated">in</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
         <source>app.companyProfiles</source>
@@ -41,9 +41,9 @@
         <source>app.allIndustries</source>
         <target>All industries</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>
-        <target>Search</target>
+        <target state="translated">Search</target>
       </trans-unit>
       <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies">
         <source>app.browseCompanies</source>

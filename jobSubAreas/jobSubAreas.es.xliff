@@ -5,17 +5,17 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight">
+      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
         <source>Airfreight</source>
-        <target>Airfreight</target>
+        <target state="translated">Carga aérea</target>
       </trans-unit>
-      <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service">
+      <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service" approved="yes">
         <source>Customer Service</source>
-        <target>Customer Service</target>
+        <target state="translated">Servicio al cliente</target>
       </trans-unit>
-      <trans-unit id="ff0b346915ac57e5db084466fd046f30" resname="Customs Clearance">
+      <trans-unit id="ff0b346915ac57e5db084466fd046f30" resname="Customs Clearance" approved="yes">
         <source>Customs Clearance</source>
-        <target>Customs Clearance</target>
+        <target state="translated">Permiso de aduana</target>
       </trans-unit>
       <trans-unit id="9ccda2d50a1ee1b73ee1f048eb397aa8" resname="Equipment">
         <source>Equipment</source>
@@ -29,17 +29,17 @@
         <source>HR</source>
         <target state="translated">RH</target>
       </trans-unit>
-      <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal">
+      <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal" approved="yes">
         <source>Intermodal</source>
-        <target>Intermodal</target>
+        <target state="translated">Intermodal</target>
       </trans-unit>
       <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT" approved="yes">
         <source>IT</source>
         <target state="translated">Tecnología de Información</target>
       </trans-unit>
-      <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance">
+      <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance" approved="yes">
         <source>Legal &amp; Insurance</source>
-        <target><![CDATA[Legal & Insurance]]></target>
+        <target state="translated">Leyes y seguros</target>
       </trans-unit>
       <trans-unit id="fa94922feddd82ceabecc7df7e1d006e" resname="Oceanfreight / Seafreight">
         <source>Oceanfreight / Seafreight</source>
@@ -57,33 +57,33 @@
         <source>Procurement</source>
         <target>Procurement</target>
       </trans-unit>
-      <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo">
+      <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
         <source>Project Cargo</source>
-        <target>Project Cargo</target>
+        <target state="translated">Projecto Carga</target>
       </trans-unit>
-      <trans-unit id="569cfa311dfdfa035b1e7d4b38dc9ca0" resname="Rail">
+      <trans-unit id="569cfa311dfdfa035b1e7d4b38dc9ca0" resname="Rail" approved="yes">
         <source>Rail</source>
-        <target>Rail</target>
+        <target state="translated">Ferrocarril</target>
       </trans-unit>
-      <trans-unit id="a0bace88352282250ff56cd1559042f6" resname="Reefer">
+      <trans-unit id="a0bace88352282250ff56cd1559042f6" resname="Reefer" approved="yes">
         <source>Reefer</source>
-        <target>Reefer</target>
+        <target state="translated">Cámara frigorífica</target>
       </trans-unit>
-      <trans-unit id="d11aed2ff81f20a2e2b7e0cf06ee1a37" resname="Road">
+      <trans-unit id="d11aed2ff81f20a2e2b7e0cf06ee1a37" resname="Road" approved="yes">
         <source>Road</source>
-        <target>Road</target>
+        <target state="translated">Calle</target>
       </trans-unit>
       <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>
         <target state="translated">Venta &amp; Marketing</target>
       </trans-unit>
-      <trans-unit id="23eaa8f0a4e2347d004e55044dbcd664" resname="Supply Chain Solutions">
+      <trans-unit id="23eaa8f0a4e2347d004e55044dbcd664" resname="Supply Chain Solutions" approved="no">
         <source>Supply Chain Solutions</source>
-        <target>Supply Chain Solutions</target>
+        <target state="needs-translation">Soluciones de Supply Chain</target>
       </trans-unit>
-      <trans-unit id="74caa208e5615a4d3b3f4c7312c9ccd9" resname="Warehousing &amp; Distribution">
+      <trans-unit id="74caa208e5615a4d3b3f4c7312c9ccd9" resname="Warehousing &amp; Distribution" approved="yes">
         <source>Warehousing &amp; Distribution</source>
-        <target><![CDATA[Warehousing & Distribution]]></target>
+        <target state="translated">Almacenamiento &amp; Distribución</target>
       </trans-unit>
     </body>
   </file>

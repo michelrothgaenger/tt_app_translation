@@ -5,45 +5,45 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="422fd734071bfa8a34c904a26044c661" resname="app.skill.management">
+      <trans-unit id="422fd734071bfa8a34c904a26044c661" resname="app.skill.management" approved="yes">
         <source>app.skill.management</source>
-        <target>Management</target>
+        <target state="translated">Gestión</target>
       </trans-unit>
-      <trans-unit id="c54f311294754fd48f2ed78f18665d2c" resname="app.skill.sales">
+      <trans-unit id="c54f311294754fd48f2ed78f18665d2c" resname="app.skill.sales" approved="yes">
         <source>app.skill.sales</source>
-        <target>Sales</target>
+        <target state="translated">Venta</target>
       </trans-unit>
       <trans-unit id="adde109e840cf2728c43c17ff7debd01" resname="app.skill.Personalberatung">
         <source>app.skill.Personalberatung</source>
         <target>Recruitment consultancy</target>
       </trans-unit>
-      <trans-unit id="8b5a5740101524c507226c60013f7917" resname="app.skill. Junge Talente im Logistikbereich">
+      <trans-unit id="8b5a5740101524c507226c60013f7917" resname="app.skill. Junge Talente im Logistikbereich" approved="yes">
         <source>app.skill. Junge Talente im Logistikbereich</source>
-        <target>Young talent in logistics</target>
+        <target state="translated">Talento joven en logística</target>
       </trans-unit>
-      <trans-unit id="a16a9546ca966d8a3b6e3eecce351780" resname="app.skill. Personalmanagement">
+      <trans-unit id="a16a9546ca966d8a3b6e3eecce351780" resname="app.skill. Personalmanagement" approved="yes">
         <source>app.skill. Personalmanagement</source>
-        <target>HR management</target>
+        <target state="translated">Gestión en recursos humanos</target>
       </trans-unit>
-      <trans-unit id="b372364ab29d4202dae428fa8e06bd26" resname="app.skill. Erfahrung">
+      <trans-unit id="b372364ab29d4202dae428fa8e06bd26" resname="app.skill. Erfahrung" approved="yes">
         <source>app.skill. Erfahrung</source>
-        <target>Experience</target>
+        <target state="translated">Experiencia</target>
       </trans-unit>
-      <trans-unit id="1e18489f30fe5eb03aa4d7aa674e4ec0" resname="app.skill. Berufsbildung">
+      <trans-unit id="1e18489f30fe5eb03aa4d7aa674e4ec0" resname="app.skill. Berufsbildung" approved="yes">
         <source>app.skill. Berufsbildung</source>
-        <target>Professional training</target>
+        <target state="translated">Entrenamiento profesional</target>
       </trans-unit>
-      <trans-unit id="d4eb15d6bfa15609585c6c1184cd8d61" resname="app.skill. Ausbildung">
+      <trans-unit id="d4eb15d6bfa15609585c6c1184cd8d61" resname="app.skill. Ausbildung" approved="yes">
         <source>app.skill. Ausbildung</source>
-        <target>Vocational training</target>
+        <target state="translated">Formación profesional</target>
       </trans-unit>
-      <trans-unit id="9a5cfc3e283d5fdb629dd284effe3df2" resname="app.skill.Communication">
+      <trans-unit id="9a5cfc3e283d5fdb629dd284effe3df2" resname="app.skill.Communication" approved="yes">
         <source>app.skill.Communication</source>
-        <target>Communication</target>
+        <target state="translated">Communicación</target>
       </trans-unit>
-      <trans-unit id="cc297188454aa09185b67cd5b24f1fa5" resname="app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen">
+      <trans-unit id="cc297188454aa09185b67cd5b24f1fa5" resname="app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen" approved="yes">
         <source>app.skill.Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen</source>
-        <target>Mehrjährige Erfahrung in der Unternehmenskommunikation (intern/extern) sowie im Social Media und Community Management auf verschiedenen Plattformen</target>
+        <target state="translated">Experiencia plurianual en cuanto a la communicación de empresas (interna/externa) así como en media social y gestor de redes sociales en plataformas diferentes</target>
       </trans-unit>
       <trans-unit id="36e6bab9ed01ba50a8790c62ec86c62a" resname="app.skill. Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen">
         <source>app.skill. Bereich E-Commerce / Internet in internationalen Unternehmen. Kommunikations- und textsicherheit für verschiedene Zielgruppen und Themen</source>

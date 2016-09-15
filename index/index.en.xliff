@@ -141,6 +141,14 @@
         <source>app.index.company.levels</source>
         <target>Levels</target>
       </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description">
+        <source>app.index.companies.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description">
+        <source>app.index.jobs.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

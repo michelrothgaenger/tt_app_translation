@@ -121,6 +121,10 @@
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Ngôn ngữ</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3990" resname="app.jobs.jobBlock.saved" approved="yes">
+        <source>app.jobs.jobBlock.saved</source>
+        <target state="translated">Lưu</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

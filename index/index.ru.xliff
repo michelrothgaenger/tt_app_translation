@@ -5,6 +5,10 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.index.posted">
+        <source>app.index.posted</source>
+        <target>Размещено</target>
+      </trans-unit>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
         <source>app.metaDescriptionIndexPage</source>
         <target></target>

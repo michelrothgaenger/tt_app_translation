@@ -19,11 +19,11 @@
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">Find top jobs in logistics and transportation</target>
+        <target state="translated">The leading job portal for transport &amp; logistics jobs</target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target>Over 1,000 new jobs posted monthly</target>
+        <target state="translated">We connect talented professionals with top recruiters</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
         <source>app.signUpNow</source>
@@ -141,13 +141,13 @@
         <source>app.index.company.levels</source>
         <target>Levels</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
         <source>app.index.companies.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target state="translated">Find out what top logistics companies are looking for and what they have to offer</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description" approved="yes">
         <source>app.index.jobs.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target state="translated">See who’s hiring today</target>
       </trans-unit>
     </body>
   </file>

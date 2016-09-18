@@ -665,6 +665,14 @@
         <source>app.profileErrorMsg</source>
         <target>Total years of Experience can be only numeric and be between 0 and 100</target>
       </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description">
+        <source>app.profile.saved.companies.description</source>
+        <target>Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr  Descr Descr  Descr Descr  Descr Descr  Descr Descr </target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description">
+        <source>app.profile.saved.jobs.description</source>
+        <target>Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr Descr  Descr Descr  Descr Descr  Descr Descr  Descr Descr </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -222,9 +222,9 @@
               <p>In more than 100 countries around the world, we deliver personal service and local insights that help customers succeed and communities prosper. We move, manage and distribute the goods that power commerce and trade. That takes a global network, unmatched local knowledge and a diverse, passionate, talented team committed to going above and beyond.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="c6f9d2309245a65bbcd976db8f0f1cbq" resname="app.ttDescription">
+            <trans-unit id="c6f9d2309245a65bbcd976db8f0f1cbq" resname="app.ttDescription" approved="yes">
               <source>app.ttDescription</source>
-              <target><![CDATA[<div class="headline headline-font">About TRANSPORT TALENT</div>
+              <target state="translated"><![CDATA[<div class="headline headline-font">About TRANSPORT TALENT</div>
               <p>Transport Talent is founded with the goal to innovate and improve the logistics and transport recruitment space. Candidates on the Transport Talent platform can actively apply to jobs, follow companies and advance their career with exclusive career-specific content.</p>
               <p>Employers can streamline the way they recruit, manage, and engage with talent by leveraging the largest and most concentrated community of logistics and transport professionals.</p>
               <p>Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have a long track record in Management and HR from some of the world’s leading logistics companies.</p>

@@ -29,10 +29,6 @@
         <source>app.employers.various</source>
         <target state="translated">Diverse</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.index.company.jobsOnline" approved="yes">
-        <source>app.index.company.jobsOnline</source>
-        <target state="translated">%count% Job online|%count% Jobs online</target>
-      </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143112" resname="app.index.button.companySave" approved="yes">
         <source>app.index.button.companySave</source>
         <target state="translated">Folgen</target>

@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription">
         <source>app.employers.pageDescription</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies" approved="yes">
         <source>app.companies</source>
@@ -25,9 +25,9 @@
         <source>app.employers.meta.companiesWord</source>
         <target state="translated">Unternehmen</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c5520" resname="app.employers.various">
+      <trans-unit id="71999c593487b539ec4c8938bd8c5520" resname="app.employers.various" approved="no">
         <source>app.employers.various</source>
-        <target></target>
+        <target state="needs-translation">Various</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.index.company.jobsOnline" approved="yes">
         <source>app.index.company.jobsOnline</source>

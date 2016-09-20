@@ -93,6 +93,38 @@
         <source>app.noJobsFound</source>
         <target state="translated">Ningún empleo encontrado</target>
       </trans-unit>
+    <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
+        <source>app.jobs.searchForm.term.placeholder</source>
+        <target state="translated">Palabra clave e.g. carga</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3996" resname="app.jobs.searchForm.filterTitle" approved="yes">
+        <source>app.jobs.searchForm.filterTitle</source>
+        <target state="translated">Filtro</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3995" resname="app.jobs.searchForm.resetFilter" approved="yes">
+        <source>app.jobs.searchForm.resetFilter</source>
+        <target state="translated">Filtro reset</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3994" resname="app.jobs.searchForm.filterAdd" approved="yes">
+        <source>app.jobs.searchForm.filterAdd</source>
+        <target state="translated">añadir</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3993" resname="app.jobs.jobBlock.save" approved="yes">
+        <source>app.jobs.jobBlock.save</source>
+        <target state="translated">Guardar</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3990" resname="app.jobs.jobBlock.saved" approved="yes">
+        <source>app.jobs.jobBlock.saved</source>
+        <target state="translated">Guardado</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3992" resname="app.jobs.jobBlock.posted" approved="yes">
+        <source>app.jobs.jobBlock.posted</source>
+        <target state="translated">Colocado</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3991" resname="app.jobs.searchForm.languagesTitle" approved="yes">
+        <source>app.jobs.searchForm.languagesTitle</source>
+        <target state="translated">Idiomas</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

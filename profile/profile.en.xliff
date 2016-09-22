@@ -5,6 +5,58 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title">
+        <source>app.profile.dashboard.profile.tile.title</source>
+        <target>Profile</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title">
+        <source>app.profile.dashboard.settings.tile.title</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title">
+        <source>app.profile.dashboard.saved-jobs.tile.title</source>
+        <target>Saved jobs</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title">
+        <source>app.profile.dashboard.saved-companies.tile.title</source>
+        <target>Saved companies</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description">
+        <source>app.profile.dashboard.saved-job.tile.description</source>
+        <target>Change this. Saved jobs tile description.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description">
+        <source>app.profile.dashboard.saved-companies.tile.description</source>
+        <target>Change this. Saved companies tile description.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description">
+        <source>app.profile.dashboard.profile.tile.description</source>
+        <target>Change this. Profile tile description.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description">
+        <source>app.profile.dashboard.settings.tile.description</source>
+        <target>Change this. Settings tile description.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+        <source>app.or</source>
+        <target>or</target>
+      </trans-unit>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
+        <source>app.services</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+        <source>app.jobSearch</source>
+        <target>Job search</target>
+      </trans-unit>
+      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
+        <source>registration.confirmed</source>
+        <target>Congrats %username%, your account is now activated.</target>
+      </trans-unit>
+      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo">
+        <source>app.youCanContinueTo</source>
+        <target>You can continue to</target>
+      </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Profile</target>

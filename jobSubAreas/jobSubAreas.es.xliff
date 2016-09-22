@@ -17,9 +17,9 @@
         <source>Customs Clearance</source>
         <target state="translated">Permiso de aduana</target>
       </trans-unit>
-      <trans-unit id="9ccda2d50a1ee1b73ee1f048eb397aa8" resname="Equipment">
+      <trans-unit id="9ccda2d50a1ee1b73ee1f048eb397aa8" resname="Equipment" approved="yes">
         <source>Equipment</source>
-        <target>Equipment</target>
+        <target state="translated">Equipamiento</target>
       </trans-unit>
       <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
         <source>Finance</source>
@@ -41,9 +41,9 @@
         <source>Legal &amp; Insurance</source>
         <target state="translated">Leyes y seguros</target>
       </trans-unit>
-      <trans-unit id="fa94922feddd82ceabecc7df7e1d006e" resname="Oceanfreight / Seafreight">
+      <trans-unit id="fa94922feddd82ceabecc7df7e1d006e" resname="Oceanfreight / Seafreight" approved="yes">
         <source>Oceanfreight / Seafreight</source>
-        <target>Oceanfreight / Seafreight</target>
+        <target state="translated">Carga por océano/ Carga marítima</target>
       </trans-unit>
       <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="yes">
         <source>Operations</source>
@@ -53,9 +53,9 @@
         <source>Other</source>
         <target state="translated">Otro</target>
       </trans-unit>
-      <trans-unit id="8bab773ff663833b38f34cd38c401576" resname="Procurement">
+      <trans-unit id="8bab773ff663833b38f34cd38c401576" resname="Procurement" approved="yes">
         <source>Procurement</source>
-        <target>Procurement</target>
+        <target state="translated">Suministro</target>
       </trans-unit>
       <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
         <source>Project Cargo</source>

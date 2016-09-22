@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target state="translated">Para empresarios</target>
+        <target state="translated">Empresario</target>
       </trans-unit>
       <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn" approved="yes">
         <source>app.logIn</source>
@@ -64,6 +64,38 @@
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Imprimir</target>
+      </trans-unit>
+    <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
+        <source>app.footer.rowCandidates</source>
+        <target state="translated">Candidatos/as</target>
+      </trans-unit>
+      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="yes">
+        <source>app.footer.rowHome</source>
+        <target state="translated">Inicio</target>
+      </trans-unit>
+      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="yes">
+        <source>app.footer.rowJobs</source>
+        <target state="translated">Empleos</target>
+      </trans-unit>
+      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="yes">
+        <source>app.footer.rowCompanies</source>
+        <target state="translated">Empresas</target>
+      </trans-unit>
+      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
+        <source>app.footer.rowEmployers</source>
+        <target state="translated">Empresarios</target>
+      </trans-unit>
+      <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
+        <source>app.footer.introductionLabel</source>
+        <target state="translated">Lo que ofrecemos</target>
+      </trans-unit>
+      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
+        <source>app.footer.askHelpLabel</source>
+        <target state="translated">Necesitas ayuda?</target>
+      </trans-unit>
+      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
+        <source>app.blog</source>
+        <target state="translated">Blog</target>
       </trans-unit>
     </body>
   </file>

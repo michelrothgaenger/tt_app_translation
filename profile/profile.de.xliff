@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
-        <target state="translated">Herzlichen Glückwunsch, %username%. Das Benutzerkonto wurde erfolgreich bestätigt.</target>
+        <target state="translated">Herzlichen Glückwunsch, %username%. Sie haben Ihr Benutzerkonto erfolgreich bestätigt.</target>
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage" approved="yes">
         <source>app.metaDescriptionProfilePage</source>
-        <target state="translated">Legen Sie Ihr Profil an. Wir suchen für Sie die besten Stellen in Transport und Logistik.</target>
+        <target state="translated">Wir finden für Sie die besten Stellen in Transport und Logistik. Legen Sie noch heute Ihr Profil an.</target>
       </trans-unit>
       <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage" approved="yes">
         <source>app.metaKeywordsProfilePage</source>
@@ -703,7 +703,27 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
-        <target state="translated">Sehen Sie sich Ihre gespeicherten Stellenanzeigen an. Zur Vorbereitung auf das Vorstellungsgespräch können Sie auch alle deaktivierten Anzeigen weiterhin abrufen.</target>
+        <target state="translated">Behalten Sie interessante Stellenanzeigen im Blick.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
+        <source>app.profile.saved.jobs.description</source>
+        <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf das Vorstellungsgespräch vorbereiten.</target>
+      </trans-unit>
+    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.description</source>
+        <target state="translated">Verwalten Sie Ihre Auswahl interessanter Unternehmen.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
+        <source>app.profile.dashboard.profile.tile.description</source>
+        <target state="translated">Ihre Angaben helfen uns, die besten Jobs für Sie zu finden.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
+        <source>app.profile.dashboard.settings.tile.description</source>
+        <target state="translated">Verwalten Sie Ihre Kontoeinstellungen, wie E-Mail-Adresse und Passwort.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
+        <source>app.profile.saved.companies.description</source>
+        <target state="translated">Mit Transport behalten Sie interessante Unternehmen aus Transport und Logistik im Blick. Fügen Sie weitere Unternehmen hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen.</target>
       </trans-unit>
       </body>
   </file>

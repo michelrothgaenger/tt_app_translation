@@ -69,26 +69,6 @@
         <source>registration.email.message</source>
         <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
       </trans-unit>
-      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
-        <source>registration.confirmed</source>
-        <target>Congrats %username%, your account is now activated.</target>
-      </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo">
-        <source>app.youCanContinueTo</source>
-        <target>You can continue to</target>
-      </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile">
-        <source>app.profile</source>
-        <target>Profile</target>
-      </trans-unit>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
-        <source>app.services</source>
-        <target>Services</target>
-      </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
-        <source>app.jobSearch</source>
-        <target>Job search</target>
-      </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>
         <target>Adresse e-mail</target>

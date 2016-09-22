@@ -69,26 +69,6 @@
         <source>registration.email.message</source>
         <target state="translated">Hej %username%!&lt;br&gt;&lt;br&gt;For at afslutte aktiveringen af din konto, venligst klik på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Hilsen, TransportTalent.</target>
       </trans-unit>
-      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
-        <source>registration.confirmed</source>
-        <target>Tillykke %username%, din konto er nu aktiveret.</target>
-      </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
-        <source>app.youCanContinueTo</source>
-        <target state="translated">Du kan fortsætte til</target>
-      </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
-        <source>app.profile</source>
-        <target state="translated">Profil</target>
-      </trans-unit>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
-        <source>app.services</source>
-        <target>Services</target>
-      </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
-        <source>app.jobSearch</source>
-        <target state="translated">Jobsøgning</target>
-      </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>
         <target>E-mail</target>

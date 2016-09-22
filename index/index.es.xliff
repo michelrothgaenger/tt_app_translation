@@ -19,11 +19,11 @@
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated"><![CDATA[Encuentra empleos en <b>logística</b> y <b>transporte</b>]]></target>
+        <target state="translated">El portal líder para empleos en transport &amp; logística</target>
       </trans-unit>
       <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target state="translated">Se ponen más de 1.000 trabajos nuevos al mes</target>
+        <target state="translated">Juntamos profesionales trabajadores con talento con buscadores de personal de primer nivel</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
@@ -108,6 +108,14 @@
       <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
         <source>app.more</source>
         <target state="translated">Más</target>
+      </trans-unit>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
+        <source>app.index.companies.description</source>
+        <target state="translated">Averigua lo que están buscando y lo que están ofreciendo empresas de logística de primer nivel</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description" approved="yes">
+        <source>app.index.jobs.description</source>
+        <target state="translated">Mira quien está contratando hoy</target>
       </trans-unit>
     </body>
   </file>

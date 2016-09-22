@@ -5,6 +5,26 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+        <source>app.or</source>
+        <target state="translated">o</target>
+      </trans-unit>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services" approved="yes">
+        <source>app.services</source>
+        <target state="translated">Servicio</target>
+      </trans-unit>
+      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
+        <source>app.jobSearch</source>
+        <target state="translated">Busqueda de trabajo</target>
+      </trans-unit>
+      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
+        <source>registration.confirmed</source>
+        <target state="translated">Felicidades%username%, tu cuenta está activada ahora.</target>
+      </trans-unit>
+      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
+        <source>app.youCanContinueTo</source>
+        <target state="translated">Puedes seguir con</target>
+      </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Perfil</target>
@@ -233,9 +253,9 @@
         <source>app.contactInfo</source>
         <target>Contact info</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
-        <target>Title</target>
+        <target state="translated">Título</target>
       </trans-unit>
       <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName">
         <source>app.firstName</source>
@@ -517,9 +537,9 @@
         <source>app.requiresThisFieldToBeFilledToo</source>
         <target>requires this field to be filled too.</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target>select an option</target>
+        <target state="translated">Elige una opción</target>
       </trans-unit>
       <trans-unit id="cc629ce4431e7a8cab9560b6f1eb2b08" resname="app.visible">
         <source>app.visible</source>

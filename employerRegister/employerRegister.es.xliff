@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Mira nuestro don de logística y registrate</target>
+        <target state="translated">Mira nuestro talento de logística y registrate</target>
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
         <source>app.metaDescriptionEmployerRegisterPage</source>
@@ -17,17 +17,17 @@
         <source>app.metaKeywordsEmployerRegisterPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline">
+      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
-        <target>Set up your Transport Talent account</target>
+        <target state="translated">Abre tu cuenta en Transport Talent</target>
       </trans-unit>
-      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1">
+      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
-        <target><![CDATA[Create your free company profile here and get immediate access to top-tier talent.<br><br>]]></target>
+        <target state="translated">Create tu perfil de empresa gratuito y accede inmediatamente a los talentos de primer nivel.&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2">
+      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
-        <target>* Indicates required field.</target>
+        <target state="translated">* Demuestra el campo requerido.</target>
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
@@ -37,25 +37,25 @@
         <source>app.termsConditionsCheckbox</source>
         <target state="translated">Condiciones Generales de Contratación</target>
       </trans-unit>
-      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
+      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target>Please check this box if you want to proceed.</target>
+        <target state="translated">Por favor, examina esa caja si quieres proceder.</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
-        <target>Title</target>
+        <target state="translated">Título</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target>select an option</target>
+        <target state="translated">Elige una opción</target>
       </trans-unit>
-      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr">
+      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr" approved="yes">
         <source>app.mr</source>
-        <target>Mr.</target>
+        <target state="translated">Sr.</target>
       </trans-unit>
-      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms">
+      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms" approved="yes">
         <source>app.ms</source>
-        <target>Ms.</target>
+        <target state="translated">Sra.</target>
       </trans-unit>
       <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof" approved="yes">
         <source>app.prof</source>
@@ -65,37 +65,37 @@
         <source>app.dr</source>
         <target state="translated">Dr.</target>
       </trans-unit>
-      <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name">
+      <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name" approved="yes">
         <source>app.first_name</source>
-        <target>First name</target>
+        <target state="translated">Nombre</target>
       </trans-unit>
-      <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name">
+      <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name" approved="yes">
         <source>app.last_name</source>
-        <target>Last name</target>
+        <target state="translated">Apellidos</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target>nivel</target>
+        <target state="translated">nivel</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Correo electrónico</target>
       </trans-unit>
-      <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name">
+      <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name" approved="yes">
         <source>app.company_name</source>
-        <target>Company name</target>
+        <target state="translated">Nombre de empresa</target>
       </trans-unit>
-      <trans-unit id="53b1b6d15015b4a6324b47f5985926a1" resname="app.password">
+      <trans-unit id="53b1b6d15015b4a6324b47f5985926a1" resname="app.password" approved="yes">
         <source>app.password</source>
-        <target>Password</target>
+        <target state="translated">Contraseña</target>
       </trans-unit>
-      <trans-unit id="935ad3df35bb15f3b780f4f8f8384e3c" resname="app.password_confirmation">
+      <trans-unit id="935ad3df35bb15f3b780f4f8f8384e3c" resname="app.password_confirmation" approved="yes">
         <source>app.password_confirmation</source>
-        <target>Confirm password</target>
+        <target state="translated">Confirma la contraseña</target>
       </trans-unit>
-      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch">
+      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
-        <target/>
+        <target state="translated">Contraseña inválida</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>

@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
-        <target state="translated">Hier finden Sie Ihre gespeicherten Jobs. Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen.</target>
+        <target state="translated">Ihre gespeicherten Jobs</target>
       </trans-unit>
       <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete" approved="yes">
         <source>app.delete</source>
@@ -685,6 +685,26 @@
         <source>app.profileErrorMsg</source>
         <target state="translated">Die Berufserfahrung muss numerisch angegeben werden und zwischen 0 und 100 Jahren liegen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
+        <source>app.profile.dashboard.profile.tile.title</source>
+        <target state="translated">Profil</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
+        <source>app.profile.dashboard.settings.tile.title</source>
+        <target state="translated">Einstellungen</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-jobs.tile.title</source>
+        <target state="translated">Gespeicherte Jobs</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.title</source>
+        <target state="translated">Gespeicherte Unternehmen</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-job.tile.description</source>
+        <target state="translated">Sehen Sie sich Ihre gespeicherten Stellenanzeigen an. Zur Vorbereitung auf das Vorstellungsgespräch können Sie auch alle deaktivierten Anzeigen weiterhin abrufen.</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

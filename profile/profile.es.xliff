@@ -253,9 +253,9 @@
         <source>app.contactInfo</source>
         <target>Contact info</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
-        <target>Title</target>
+        <target state="translated">Título</target>
       </trans-unit>
       <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName">
         <source>app.firstName</source>
@@ -537,9 +537,9 @@
         <source>app.requiresThisFieldToBeFilledToo</source>
         <target>requires this field to be filled too.</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target>select an option</target>
+        <target state="translated">Elige una opción</target>
       </trans-unit>
       <trans-unit id="cc629ce4431e7a8cab9560b6f1eb2b08" resname="app.visible">
         <source>app.visible</source>

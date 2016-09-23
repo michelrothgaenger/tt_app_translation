@@ -13,9 +13,9 @@
         <source>app.landing.meta.keywords</source>
         <target/>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
-        <target>Check our logistics talent and register with us</target>
+        <target state="translated">Regístrate ahora y solicita por un empleo</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.landing.job.posted">
         <source>app.landing.job.posted</source>
@@ -33,9 +33,9 @@
         <source>app.landing.button.companyFollow</source>
         <target>Follow</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount" approved="yes">
         <source>app.landing.jobsCount</source>
-        <target>%count% job|%count% jobs</target>
+        <target state="translated">%count% empleo|%count% empleos</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143969" resname="app.landing.jobBox.levelsLabel">
         <source>app.landing.jobBox.levelsLabel</source>
@@ -49,219 +49,343 @@
         <source>app.landing.jobBox.citiesLabel</source>
         <target>Cities</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143966" resname="Job Locations in Germany" approved="yes">
         <source>Job Locations in Germany</source>
-        <target>Job Locations in Germany</target>
+        <target state="translated">Ubicación de empleos en Alemania</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143965" resname="Jobs in Frankfurt">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143965" resname="Jobs in Frankfurt" approved="yes">
           <source>Jobs in Frankfurt</source>
-          <target>Jobs in Frankfurt</target>
+          <target state="translated">Empleos en Fráncfort</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143964" resname="View all our jobs in Frankfurt">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143964" resname="View all our jobs in Frankfurt" approved="yes">
           <source>View all our jobs in Frankfurt</source>
-          <target>View all our jobs in Frankfurt</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Fráncfort</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143963" resname="Jobs in Hamburg">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143963" resname="Jobs in Hamburg" approved="yes">
           <source>Jobs in Hamburg</source>
-          <target>Jobs in Hamburg</target>
+          <target state="translated">Empleos en Hamburgo</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143962" resname="View all our jobs in Hamburg">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143962" resname="View all our jobs in Hamburg" approved="yes">
           <source>View all our jobs in Hamburg</source>
-          <target>View all our jobs in Hamburg</target>
+          <target state="translated">Mira todos los trabajos que ofrecemos en Hamburgo</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143961" resname="Jobs in Kempten">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143961" resname="Jobs in Kempten" approved="yes">
           <source>Jobs in Kempten</source>
-          <target>Jobs in Kempten</target>
+          <target state="translated">Empleos en Kempten</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143960" resname="View all our jobs in Kempten">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143960" resname="View all our jobs in Kempten" approved="yes">
           <source>View all our jobs in Kempten</source>
-          <target>View all our jobs in Kempten</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Kempten</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143959" resname="Jobs in Munich">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143959" resname="Jobs in Munich" approved="yes">
           <source>Jobs in Munich</source>
-          <target>Jobs in Munich</target>
+          <target state="translated">Empleos en Munich</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143958" resname="View all our jobs in Munich">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143958" resname="View all our jobs in Munich" approved="yes">
           <source>View all our jobs in Munich</source>
-          <target>View all our jobs in Munich</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Munich</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143957" resname="Jobs in Gütersloh">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143957" resname="Jobs in Gütersloh" approved="yes">
           <source>Jobs in Gütersloh</source>
-          <target>Jobs in Gütersloh</target>
+          <target state="translated">Empleos en Gütersloh</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143956" resname="View all our jobs in Gütersloh">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143956" resname="View all our jobs in Gütersloh" approved="yes">
           <source>View all our jobs in Gütersloh</source>
-          <target>View all our jobs in Gütersloh</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Gütersloh</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143955" resname="Jobs in Hanover">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143955" resname="Jobs in Hanover" approved="yes">
           <source>Jobs in Hanover</source>
-          <target>Jobs in Hanover</target>
+          <target state="translated">Empleos en Hánover</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143954" resname="View all our jobs in Hanover">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143954" resname="View all our jobs in Hanover" approved="yes">
           <source>View all our jobs in Hanover</source>
-          <target>View all our jobs in Hanover</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Hánover</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143953" resname="Jobs in Berlin">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143953" resname="Jobs in Berlin" approved="yes">
           <source>Jobs in Berlin</source>
-          <target>Jobs in Berlin</target>
+          <target state="translated">Empleos en Berlín</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143952" resname="View all our jobs in Berlin">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143952" resname="View all our jobs in Berlin" approved="yes">
           <source>View all our jobs in Berlin</source>
-          <target>View all our jobs in Berlin</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Berlín</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143951" resname="Jobs in Baden-Baden">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143951" resname="Jobs in Baden-Baden" approved="yes">
           <source>Jobs in Baden-Baden</source>
-          <target>Jobs in Baden-Baden</target>
+          <target state="translated">Empleos en Baden-Baden</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143950" resname="View all our jobs in Baden-Baden">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143950" resname="View all our jobs in Baden-Baden" approved="yes">
           <source>View all our jobs in Baden-Baden</source>
-          <target>View all our jobs in Baden-Baden</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Baden-Baden</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143949" resname="Jobs in Cologne">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143949" resname="Jobs in Cologne" approved="yes">
           <source>Jobs in Cologne</source>
-          <target>Jobs in Cologne</target>
+          <target state="translated">Empleos en Colónia</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143948" resname="View all our jobs in Cologne">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143948" resname="View all our jobs in Cologne" approved="yes">
           <source>View all our jobs in Cologne</source>
-          <target>View all our jobs in Cologne</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Colónia</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143947" resname="Jobs in Leipzig">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143947" resname="Jobs in Leipzig" approved="yes">
           <source>Jobs in Leipzig</source>
-          <target>View all our jobs in Leipzig</target>
+          <target state="translated">Mira todos los empleos que ofrecemos en Leipzig</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143946" resname="Job types in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143946" resname="Job types in Germany" approved="yes">
           <source>Job types in Germany</source>
-          <target>Job types in Germany</target>
+          <target state="translated">Tipos de trabajo en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143945" resname="Professionals jobs in Germany" approved="yes">
           <source>Professionals jobs in Germany</source>
-          <target>Professional jobs in Germany</target>
+          <target state="translated">Empleos profesionales en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143944" resname="View all our Professionals jobs in Germany" approved="yes">
           <source>View all our Professionals jobs in Germany</source>
-          <target>View all our Professional jobs in Germany</target>
+          <target state="translated">Mira todos los empleos profesionales que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143943" resname="Apprenticeships jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143943" resname="Apprenticeships jobs in Germany" approved="yes">
           <source>Apprenticeships jobs in Germany</source>
-          <target>Apprenticeship jobs in Germany</target>
+          <target state="translated">Trabajos de tipo formación profesional en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143942" resname="View all our Apprenticeships jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143942" resname="View all our Apprenticeships jobs in Germany" approved="yes">
           <source>View all our Apprenticeships jobs in Germany</source>
-          <target>View all our Apprenticeship jobs in Germany</target>
+          <target state="translated">Mira todas las formaciones que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143941" resname="Graduates jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143941" resname="Graduates jobs in Germany" approved="yes">
           <source>Graduates jobs in Germany</source>
-          <target>Graduates jobs in Germany</target>
+          <target state="translated">Trabajos con nivel académico en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143940" resname="View all our Graduates jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143940" resname="View all our Graduates jobs in Germany" approved="yes">
           <source>View all our Graduates jobs in Germany</source>
-          <target>View all our Graduates jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de nivel académico que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143939" resname="Students jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143939" resname="Students jobs in Germany" approved="yes">
           <source>Students jobs in Germany</source>
-          <target>Student jobs in Germany</target>
+          <target state="translated">Trabajos para estudiantes en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143938" resname="View all our Students jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143938" resname="View all our Students jobs in Germany" approved="yes">
           <source>View all our Students jobs in Germany</source>
-          <target>View all our Student jobs in Germany</target>
+          <target state="translated">Mira todos los empleos para estudiantes que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143937" resname="Internship jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143937" resname="Internship jobs in Germany" approved="yes">
           <source>Internship jobs in Germany</source>
-          <target>Internship jobs in Germany</target>
+          <target state="translated">Empleos de tipo Prácticas en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143936" resname="View all our Internship jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143936" resname="View all our Internship jobs in Germany" approved="yes">
           <source>View all our Internship jobs in Germany</source>
-          <target>View all our Internship jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo prácticas en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143935" resname="Management jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143935" resname="Management jobs in Germany" approved="yes">
           <source>Management jobs in Germany</source>
-          <target>Management jobs in Germany</target>
+          <target state="translated">Trabajos de tipo gerente en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143934" resname="View all our Management jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143934" resname="View all our Management jobs in Germany" approved="yes">
           <source>View all our Management jobs in Germany</source>
-          <target>View all our Management jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de nivel gerente que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143933" resname="Job categories in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143933" resname="Job categories in Germany" approved="yes">
           <source>Job categories in Germany</source>
-          <target>Job categories in Germany</target>
+          <target state="translated">Categorías de trabajo en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143932" resname="Supply Chain jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143932" resname="Supply Chain jobs in Germany" approved="yes">
           <source>Supply Chain jobs in Germany</source>
-          <target>Supply Chain jobs in Germany</target>
+          <target state="translated">Empleos de tipo Supply Chain en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143931" resname="View all our Supply Chain jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143931" resname="View all our Supply Chain jobs in Germany" approved="yes">
           <source>View all our Supply Chain jobs in Germany</source>
-          <target>View all our Supply Chain jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo Supply Chain que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143930" resname="Operations jobs in Germany" approved="yes">
           <source>Operations jobs in Germany</source>
-          <target>Operations jobs in Germany</target>
+          <target state="translated">Empleos de tipo empresarial en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143929" resname="View all our Operations jobs in Germany" approved="yes">
           <source>View all our Operations jobs in Germany</source>
-          <target>View all our Operations jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo empresarial que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143928" resname="IT jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143928" resname="IT jobs in Germany" approved="yes">
           <source>View all our IT jobs in Germany</source>
-          <target>View all our IT jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo informática que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143927" resname="Sales &amp; Marketing jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143927" resname="Sales &amp; Marketing jobs in Germany" approved="yes">
           <source>Sales &amp; Marketing jobs in Germany</source>
-          <target>Sales &amp; Marketing jobs in Germany</target>
+          <target state="translated">Trabajos de tipo Venta &amp; Marketing en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143926" resname="View all our Sales &amp; Marketing jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143926" resname="View all our Sales &amp; Marketing jobs in Germany" approved="yes">
           <source>View all our Sales &amp; Marketing jobs in Germany</source>
-          <target>View all our Sales &amp; Marketing jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo Venta &amp; Marketing que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143925" resname="Finance jobs in Germany" approved="yes">
           <source>Finance jobs in Germany</source>
-          <target>Finance jobs in Germany</target>
+          <target state="translated">Empleos de tipo financiero en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143924" resname="View all our Finance jobs in Germany" approved="yes">
           <source>View all our Finance jobs in Germany</source>
-          <target>View all our Finance jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo finanza que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143923" resname="HR jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143923" resname="HR jobs in Germany" approved="yes">
           <source>HR jobs in Germany</source>
-          <target>HR jobs in Germany</target>
+          <target state="translated">Empleos de tipo Recursos Humanos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143922" resname="View all our HR jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143922" resname="View all our HR jobs in Germany" approved="yes">
           <source>View all our HR jobs in Germany</source>
-          <target>View all our HR jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo Recursos Humanos que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143921" resname="Ocean Freight jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143921" resname="Ocean Freight jobs in Germany" approved="yes">
           <source>Ocean Freight jobs in Germany</source>
-          <target>Ocean Freight jobs in Germany</target>
+          <target state="translated">Empleos de tipo Carga por Océano en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143920" resname="View all our Ocean Freight jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143920" resname="View all our Ocean Freight jobs in Germany" approved="yes">
           <source>View all our Ocean Freight jobs in Germany</source>
-          <target>View all our Ocean Freight jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo Carga por Océano que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143919" resname="Customs jobs in Germany" approved="yes">
           <source>Customs jobs in Germany</source>
-          <target>Customs jobs in Germany</target>
+          <target state="translated">Empleos de tipo aduana en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143918" resname="View all our Customs jobs in Germany" approved="yes">
           <source>View all our Customs jobs in Germany</source>
-          <target>View all our Customs jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo aduana que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143917" resname="Air Freight jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143917" resname="Air Freight jobs in Germany" approved="yes">
           <source>Air Freight jobs in Germany</source>
-          <target>Air Freight jobs in Germany</target>
+          <target state="translated">Empleos de tipo Carga Aérea en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143916" resname="View all our Air Freight jobs in Germany">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143916" resname="View all our Air Freight jobs in Germany" approved="yes">
           <source>View all our Air Freight jobs in Germany</source>
-          <target>View all our Air Freight jobs in Germany</target>
+          <target state="translated">Mira todos los empleos de tipo Carga Aérea que ofrecemos en Alemania</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143915" resname="View all our jobs in Leipzig">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143915" resname="View all our jobs in Leipzig" approved="yes">
           <source>View all our jobs in Leipzig</source>
-          <target>View all our jobs in Leipzig</target>
+          <target state="translated">Mira todos los empleos en Leipzig</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143914" resname="View all our IT jobs in Germany">
           <source>View all our IT jobs in Germany</source>
           <target>View all our IT jobs in Germany</target>
         </trans-unit>
 
-    </body>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143846" resname="Job types in Hamburg" approved="yes">
+          <source>Job types in Hamburg</source>
+          <target state="translated">Tipos de empleo en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143845" resname="Professionals jobs in Hamburg" approved="yes">
+          <source>Professionals jobs in Hamburg</source>
+          <target state="translated">Empleos profesionales en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143844" resname="View all our Professionals jobs in Hamburg" approved="yes">
+          <source>View all our Professionals jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos profesionales que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143843" resname="Apprenticeships jobs in Hamburg" approved="yes">
+          <source>Apprenticeships jobs in Hamburg</source>
+          <target state="translated">Formaciones profesionales en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143842" resname="View all our Apprenticeships jobs in Hamburg" approved="yes">
+          <source>View all our Apprenticeships jobs in Hamburg</source>
+          <target state="translated">Mira todas las formaciones profesionales que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143841" resname="Graduates jobs in Hamburg" approved="yes">
+          <source>Graduates jobs in Hamburg</source>
+          <target state="translated">Empleos de nivel académico en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143840" resname="View all our Graduates jobs in Hamburg" approved="yes">
+          <source>View all our Graduates jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de nivel académico que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143839" resname="Students jobs in Hamburg" approved="yes">
+          <source>Students jobs in Hamburg</source>
+          <target state="translated">Empleos para estudiantes en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143838" resname="View all our Students jobs in Hamburg" approved="yes">
+          <source>View all our Students jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos para estudiantes que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143837" resname="Internship jobs in Hamburg" approved="yes">
+          <source>Internship jobs in Hamburg</source>
+          <target state="translated">Prácticas en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143836" resname="View all our Internship jobs in Hamburg" approved="yes">
+          <source>View all our Internship jobs in Hamburg</source>
+          <target state="translated">Mira todas las prácticas que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143835" resname="Management jobs in Hamburg" approved="yes">
+          <source>Management jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo gestión en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143834" resname="View all our Management jobs in Hamburg" approved="yes">
+          <source>View all our Management jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo gestión que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143833" resname="Job categories in Hamburg" approved="yes">
+          <source>Job categories in Hamburg</source>
+          <target state="translated">Categorias de empleo en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143832" resname="Supply Chain jobs in Hamburg" approved="yes">
+          <source>Supply Chain jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo Supply Chain en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143831" resname="View all our Supply Chain jobs in Hamburg" approved="yes">
+          <source>View all our Supply Chain jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo Supply Chain que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143830" resname="Operations jobs in Hamburg" approved="yes">
+          <source>Operations jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo empresarial en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143829" resname="View all our Operations jobs in Hamburg" approved="yes">
+          <source>View all our Operations jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo empresarial que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143827" resname="Sales &amp; Marketing jobs in Hamburg" approved="yes">
+          <source>Sales &amp; Marketing jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo Venta &amp; Marketing en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143826" resname="View all our Sales &amp; Marketing jobs in Hamburg" approved="yes">
+          <source>View all our Sales &amp; Marketing jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo Venta &amp; Marketing que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143825" resname="Finance jobs in Hamburg" approved="yes">
+          <source>Finance jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo finanzas en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143824" resname="View all our Finance jobs in Hamburg" approved="yes">
+          <source>View all our Finance jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo finanzas que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143823" resname="HR jobs in Hamburg" approved="yes">
+          <source>HR jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo Recursos Humanos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143822" resname="View all our HR jobs in Hamburg" approved="yes">
+          <source>View all our HR jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo Recursos Humanos que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143821" resname="Ocean Freight jobs in Hamburg" approved="yes">
+          <source>Ocean Freight jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo Carga marítima en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143820" resname="View all our Ocean Freight jobs in Hamburg" approved="yes">
+          <source>View all our Ocean Freight jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo Carga marítima en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143819" resname="Customs jobs in Hamburg" approved="yes">
+          <source>Customs jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo aduana en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143818" resname="View all our Customs jobs in Hamburg" approved="yes">
+          <source>View all our Customs jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo aduana que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143817" resname="Air Freight jobs in Hamburg" approved="yes">
+          <source>Air Freight jobs in Hamburg</source>
+          <target state="translated">Empleos de tipo Carga Aérea en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143816" resname="View all our Air Freight jobs in Hamburg" approved="yes">
+          <source>View all our Air Freight jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo Carga aérea que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143828" resname="IT jobs in Hamburg" approved="yes">
+          <source>View all our IT jobs in Hamburg</source>
+          <target state="translated">Mira todos los empleos de tipo informática que ofrecemos en Hamburgo</target>
+        </trans-unit>
+        </body>
   </file>
 </xliff>

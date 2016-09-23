@@ -89,6 +89,14 @@
         <source>app.header.language.selectLabel</source>
         <target state="translated">Sprache wählen</target>
       </trans-unit>
+    <trans-unit id="560d3041d629447aa0aebed7197b3b60" resname="app.header.userSubmenu.dashboard" approved="yes">
+        <source>app.header.userSubmenu.dashboard</source>
+        <target state="translated">Übersicht</target>
+      </trans-unit>
+      <trans-unit id="560d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.settings" approved="yes">
+        <source>app.header.userSubmenu.settings</source>
+        <target state="translated">Einstellungen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

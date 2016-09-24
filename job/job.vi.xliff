@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Dùng dấu hiệu đơn trên trên đầu hoặc điền vào tất cả các mục dưới đây.</target>
+        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Sử dụng các dấu hiệu đơn trên trên đầu hoặc điền vào các mục dưới đây.</target>
       </trans-unit>
       <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
         <source>app.job.section.popup.agreementFirstPart</source>
@@ -311,6 +311,54 @@
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Lưu và đến hồ sơ</target>
       </trans-unit>
-    </body>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle" approved="yes">
+        <source>app.section.main.referralButtonTitle</source>
+        <target state="translated">Đề nghị</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title" approved="yes">
+        <source>app.job.popup.referral.title</source>
+        <target state="translated">Đề nghị</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description" approved="yes">
+        <source>app.job.popup.refrral.description</source>
+        <target state="translated">Đề nghị công việc này và kiếm nhiều tiền</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
+        <source>app.job.popup.referral.reward</source>
+        <target state="translated">Phần thưởng</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
+        <source>app.job.popup.referral.shareOn</source>
+        <target state="translated">Chia sẻ trên</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
+        <source>app.job.popup.referral.copy</source>
+        <target state="translated">cô py</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
+        <source>app.job.popup.referral.gooLuck</source>
+        <target state="translated">Chúc may mắn!</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
+        <source>app.job.popup.referral.linkToReferrals</source>
+        <target state="translated">Ngài hãy xem tất cả các việc mà đã được giới thiệu đến bây giờ.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
+        <source>app.job.popup.referral.shareTitle</source>
+        <target state="translated">Chào, hãy xem thông tin quảng cáo "%tiêu đề%".</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
+        <source>app.job.referral.readMore</source>
+        <target state="translated">Đọc tiếp</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess" approved="yes">
+        <source>app.job.referral.readLess</source>
+        <target state="translated">Đọc ít hơn</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
+        <source>app.job.referral.explanationTitle</source>
+        <target state="translated">Một việc làm mới cho bạn Ngài và %phần thưởng% %tiền% cho Ngài</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

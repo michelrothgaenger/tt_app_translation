@@ -725,6 +725,54 @@
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Mit Transport behalten Sie interessante Unternehmen aus Transport und Logistik im Blick. Fügen Sie weitere Unternehmen hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen.</target>
       </trans-unit>
-      </body>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
+        <source>app.profile.referrals.sectionTitle</source>
+        <target state="translated">Empfehlungen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
+        <source>app.profile.referrals.sectionDescription</source>
+        <target state="translated">Hier sehen Sie alle Positionen, die Sie bisher empfohlen haben. Sie erhalten die nebenstehende Summe, wenn die Stelle mit einem Ihrer Kontakte besetzt wird.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
+        <source>app.profile.referrals.sharedOn</source>
+        <target state="translated">Geteilt auf</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward" approved="yes">
+        <source>app.profile.referrals.reward</source>
+        <target state="translated">Belohnung</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f65" resname="app.profile.referrals.reactions" approved="yes">
+        <source>app.profile.referrals.reactions</source>
+        <target state="translated">Reaktionen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink" approved="yes">
+        <source>app.profile.referrals.referralLink</source>
+        <target state="translated">Empfehlungslink</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed" approved="yes">
+        <source>app.profile.referrals.closed</source>
+        <target state="translated">Geschlossen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f68" resname="app.profile.referrals.pending" approved="yes">
+        <source>app.profile.referrals.pending</source>
+        <target state="translated">Offen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f69" resname="app.profile.referrals.accepted" approved="yes">
+        <source>app.profile.referrals.accepted</source>
+        <target state="translated">Angenommen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy" approved="yes">
+        <source>app.profile.referrals.button.copy</source>
+        <target state="translated">Kopieren</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
+        <source>app.profile.dashboard.referrals.tile.description</source>
+        <target state="translated">Helfen Sie anderen mit der Karriere und verdienen Sie Geld</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
+        <source>app.profile.dashboard.referrals.tile.title</source>
+        <target state="translated">Empfehlungen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

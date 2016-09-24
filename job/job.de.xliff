@@ -310,6 +310,58 @@
         <source>app.job.forward.button.close</source>
         <target state="translated">Schließen</target>
       </trans-unit>
-      </body>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle" approved="yes">
+        <source>app.section.main.referralButtonTitle</source>
+        <target state="translated">Empfehlen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title" approved="yes">
+        <source>app.job.popup.referral.title</source>
+        <target state="translated">Empfehlen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description" approved="yes">
+        <source>app.job.popup.refrral.description</source>
+        <target state="translated">Empfehlen Sie diesen Job und verdienen Sie Geld</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
+        <source>app.job.popup.referral.reward</source>
+        <target state="translated">Belohnung</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
+        <source>app.job.popup.referral.shareOn</source>
+        <target state="translated">Teilen auf</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
+        <source>app.job.popup.referral.copy</source>
+        <target state="translated">Kopieren</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
+        <source>app.job.popup.referral.gooLuck</source>
+        <target state="translated">Viel Erfolg!</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
+        <source>app.job.popup.referral.linkToReferrals</source>
+        <target state="translated">Hier sehen Sie alle Stellen, die Sie bisher empfohlen haben.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
+        <source>app.job.popup.referral.shareTitle</source>
+        <target state="translated">Hi, schau dir mal die Stellenanzeige "%title%" an.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
+        <source>app.job.referral.readMore</source>
+        <target state="translated">Mehr erfahren</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess" approved="yes">
+        <source>app.job.referral.readLess</source>
+        <target state="translated">Weniger anzeigen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
+        <source>app.job.referral.explanationTitle</source>
+        <target state="translated">Ein neuer Job für Ihren Freund und %reward% %currency% für Sie</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
+        <source>app.job.referral.explanation</source>
+        <target state="translated">Unterstützen Sie einen Freund bei der Stellensuche und erhalten Sie dafür eine Provision.&lt;br&gt;Ihr Freund bekommt einen Job, der ihn motiviert.&lt;br&gt; &lt;br&gt; &lt;br&gt; Werden Sie mit Transport Talent Referral selbst zum Headhunter&lt;br&gt; Empfehlen Sie Stellen über soziale und berufliche Netzwerke wie LinkedIn, Facebook, Twitter und XING oder schicken Sie direkt eine E-Mail an einen Kontakt. Machen Sie Ihr persönliches Netzwerk zu Geld und helfen Sie anderen mit ihrer Karriere – Transport Talent Referral macht es möglich.&lt;br&gt; &lt;br&gt; Empfehlen&lt;br&gt; Ein Job, der nicht zu Ihnen passt? Leiten Sie die Anzeige an jemanden mit dem passenden Profil weiter und erhalten Sie eine Belohnung für Ihre Unterstützung. Es hilft Ihrem Kontakt und Ihren Finanzen. &lt;br&gt; &lt;br&gt; Ohne Risiko: Sie müssen keinen Vertrag unterschreiben&lt;br&gt; &lt;br&gt; Und anonym: Wir geben Ihren Namen nicht an das jeweilige Unternehmen weiter.</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

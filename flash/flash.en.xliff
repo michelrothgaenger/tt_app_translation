@@ -21,6 +21,10 @@
           <source>app.flash.jobSaved</source>
           <target>Job has been saved to profile</target>
         </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard">
+          <source>app.flash.referral.linkCopiedToClipboard</source>
+          <target>Link copied to clipboard</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

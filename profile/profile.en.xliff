@@ -725,6 +725,54 @@
         <source>app.profile.saved.jobs.description</source>
         <target state="translated">Manage your job junt with Transport Talent – add and delete jobs as you see fit. Prepare for your job interview: Postings will still be available after deactivation by the employer.</target>
       </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle">
+        <source>app.profile.referrals.sectionTitle</source>
+        <target>Referrals</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription">
+        <source>app.profile.referrals.sectionDescription</source>
+        <target>Here you find all referrals for all the jobs you have ever made. Remember, once a job has been filled thanks to you, you will get rewarded with the amount you find next to recommended job.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn">
+        <source>app.profile.referrals.sharedOn</source>
+        <target>Shared on</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward">
+        <source>app.profile.referrals.reward</source>
+        <target>Reward</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f65" resname="app.profile.referrals.reactions">
+        <source>app.profile.referrals.reactions</source>
+        <target>Reactions</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink">
+        <source>app.profile.referrals.referralLink</source>
+        <target>Referral link</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed">
+        <source>app.profile.referrals.closed</source>
+        <target>Closed</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f68" resname="app.profile.referrals.pending">
+        <source>app.profile.referrals.pending</source>
+        <target>Pending</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f69" resname="app.profile.referrals.accepted">
+        <source>app.profile.referrals.accepted</source>
+        <target>Accepted</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy">
+        <source>app.profile.referrals.button.copy</source>
+        <target>Copy</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description">
+        <source>app.profile.dashboard.referrals.tile.description</source>
+        <target>Help your network to get a job and earn money</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title">
+        <source>app.profile.dashboard.referrals.tile.title</source>
+        <target>Referrals</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

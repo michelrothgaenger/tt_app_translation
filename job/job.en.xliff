@@ -358,23 +358,9 @@
         <source>app.job.referral.explanationTitle</source>
         <target>Connect your friends to jobs, earn %reward% %currency% and recognition</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
-        <target><![CDATA[
-            You get cash rewards and satisfaction for helping a friend.<br>
-            Your friends win by getting a job they love.<br>
-            <br>
-            <br>
-            With Transport Talent Referral, everyone can be a headhunter<br>
-            Recommend your friends and contacts to jobs directly to a friend via social and professional networks like LinkedIn, Facebook, Twitter and XING or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.<br>
-            <br>
-            Refer<br>
-            See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. It's good for them and it could be good for your personal finances.<br>
-            <br>
-            No risk for you - no need to sign a contract<br>
-            <br>
-            We protect your data and keep your name private for the companies. Anonymous.
-        ]]></target>
+        <target state="translated">You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook, Twitter and XING or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. It's good for them and it could be good for your personal finances.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</target>
       </trans-unit>
     </body>
   </file>

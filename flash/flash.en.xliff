@@ -25,6 +25,10 @@
           <source>app.flash.referral.linkCopiedToClipboard</source>
           <target>Link copied to clipboard</target>
         </trans-unit>
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error">
+          <source>app.flash.error</source>
+          <target>Error</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

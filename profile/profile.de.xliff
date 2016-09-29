@@ -681,8 +681,8 @@
         <source>Failed to resize image</source>
         <target state="translated">Größe konnte nicht angepasst werden</target>
       </trans-unit>
-    <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profileErrorMsg" approved="yes">
-        <source>app.profileErrorMsg</source>
+    <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.error.totalYearsExp" approved="yes">
+        <source>app.profile.error.totalYearsExp</source>
         <target state="translated">Die Berufserfahrung muss numerisch angegeben werden und zwischen 0 und 100 Jahren liegen</target>
       </trans-unit>
     <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
@@ -703,11 +703,11 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
-        <target state="translated">Behalten Sie interessante Stellenanzeigen im Blick.</target>
+        <target state="translated">Hier sehen Sie Ihre ausgewählten Stellen.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf das Vorstellungsgespräch vorbereiten.</target>
+        <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf Ihre Vorstellungsgespräche vorbereiten.</target>
       </trans-unit>
     <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
@@ -715,11 +715,11 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
-        <target state="translated">Ihre Angaben helfen uns, die besten Jobs für Sie zu finden.</target>
+        <target state="translated">Aktualisieren Sie Ihr Profil, um von führenden Arbeitgebern entdeckt zu werden.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Verwalten Sie Ihre Kontoeinstellungen, wie E-Mail-Adresse und Passwort.</target>
+        <target state="translated">Verwalten Sie Ihre Kontoeinstellungen, z.B. E-Mail-Adresse und Passwort.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>

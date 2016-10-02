@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
         <source>app.job.section.popup.description</source>
-        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Sử dụng các dấu hiệu đơn trên trên đầu hoặc điền vào các mục dưới đây.</target>
+        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Sử dụng các dấu hiệu đơn trên trên đầu hoặc điền vào mục dưới đây.</target>
       </trans-unit>
       <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
         <source>app.job.section.popup.agreementFirstPart</source>
@@ -359,6 +359,10 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Một việc làm mới cho bạn Ngài và %phần thưởng% %tiền% cho Ngài</target>
       </trans-unit>
-      </body>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
+        <source>app.job.referral.explanation</source>
+        <target state="translated">Hãy hỗ trợ một người bạn để tìm một công việc và nhận được một khoản hoa hồng. &lt;br&gt; Bạn Ngài có một công việc là động cơ thúc đẩy anh ta. &lt;br&gt; Hãy liên hệ với Transport Talent để tự giới thiệu bản thân với bộ phận tuyển dụng &lt;br&gt; Tư vấn trực tiếp việc làm qua các mạng xã hội và nghề nghiệp như LinkedIn, Facebook, Twitter và XING hoặc gửi trực tiếp email đến một địa chỉ liên lạc. Hãy kiếm tiền qua mạng cá nhân của Ngài và giúp đỡ người khác trong sự nghiệp của họ - Transport Talent Referal biến điều này thành sự thật. &lt;br&gt; &lt;br&gt; Tư vấn&lt;br&gt; Một công việc không phù hợp với Ngài? Chuyển thông tin quảng cáo cho người có hồ sơ thích hợp và nhận được một phần thưởng cho sự hỗ trợ của Ngài. Điều quan trọng là các quảng cáo được thực hiện qua các liên kết của Ngài. Chỉ khi đó chúng tôi có thể xác định các lời tư vấn rõ ràng và thanh toán hoa hồng sau khi ký kết hợp đồng. &lt;br&gt; &lt;br&gt; không có rủi ro: Ngài không phải ký bất kỳ hợp đồng nào.&lt;br&gt; &lt;br&gt;Và vô danh tính: Chúng tôi không chuyển tiếp tên của Ngài cho bất cứ công ty nào.</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

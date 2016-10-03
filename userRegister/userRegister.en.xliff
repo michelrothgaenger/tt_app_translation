@@ -101,6 +101,10 @@
         <source>app.userRegister.success</source>
         <target>Success</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d717b3e3" resname="app.userRegister.provideEmail">
+        <source>app.userRegister.provideEmail</source>
+        <target>Please provide Email</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

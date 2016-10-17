@@ -5,9 +5,115 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description">
+        <source>app.profile.settings.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description">
+        <source>app.profile.settings.tab.general.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description">
+        <source>app.profile.settings.tab.login.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.desciption">
+        <source>app.profile.settings.social-media.desciption</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption">
+        <source>app.profile.settings.rescue.desciption</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title">
+        <source>app.profile.settings.password.title</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel">
+        <source>app.profile.settings.password.newLabel</source>
+        <target>New Password</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel">
+        <source>app.profile.settings.password.confirmationLabel</source>
+        <target>Retype Password</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle">
+        <source>app.profile.settings.password.currentTitle</source>
+        <target>Current Password</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.password.currentLabel">
+        <source>app.profile.settings.password.currentLabel</source>
+        <target>Current Password</target>
+      </trans-unit>
+      <trans-unit id="2d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.passwordsDoNotMatch">
+        <source>app.profile.settings.passwordsDoNotMatch</source>
+        <target>Passwords do not match</target>
+      </trans-unit>
+      <trans-unit id="3d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.social-login.title">
+        <source>app.profile.settings.social-login.title</source>
+        <target>Login through social media</target>
+      </trans-unit>
+      <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title">
+        <source>app.profile.settings.rescue.title</source>
+        <target>Provide a rescue information</target>
+      </trans-unit>
+      <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail">
+        <source>app.profile.settings.rescue.1stEmail</source>
+        <target>Rescue email</target>
+      </trans-unit>
+      <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title">
+        <source>app.profile.settings.title</source>
+        <target>Settings</target>
+      </trans-unit>
+
+
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedin">
+        <source>app.signInWithLinkedin</source>
+        <target>Sign in with LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
+        <source>app.signInWithXing</source>
+        <target>Sign in with Xing</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+        <source>app.signInWithGoogle</source>
+        <target>Sign in with Google</target>
+      </trans-unit>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFacebook">
+        <source>app.signInWithFacebook</source>
+        <target>Sign in with Facebook</target>
+      </trans-unit>
+      <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active">
+        <source>app.profile.login.service.active</source>
+        <target>Active</target>
+      </trans-unit>
+      <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered">
+        <source>app.profile.login.service.notRegistered</source>
+        <target>Not registered</target>
+      </trans-unit>
+      <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable">
+        <source>app.profile.login.service.disable</source>
+        <target>Disable</target>
+      </trans-unit>
+      <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register">
+        <source>app.profile.login.service.register</source>
+        <target>Register</target>
+      </trans-unit>
+      <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title">
+        <source>app.profile.settings.tab.general.title</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title">
+        <source>app.profile.settings.tab.login.title</source>
+        <target>Login</target>
+      </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target>Profile</target>
+      </trans-unit>
+      <trans-unit id="b90a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.companyJobs.tile.title">
+        <source>app.profile.dashboard.companyJobs.tile.title</source>
+        <target>Jobs</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title">
         <source>app.profile.dashboard.settings.tile.title</source>
@@ -36,6 +142,18 @@
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
         <target state="translated">Manage your account settings, e.g. email address and password.</target>
+      </trans-unit>
+      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description">
+        <source>app.profile.dashboard.companyJobs.tile.description</source>
+        <target>Manage your company jobs</target>
+      </trans-unit>
+      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title">
+        <source>app.profile.dashboard.companyProfile.tile.title</source>
+        <target>Company profile</target>
+      </trans-unit>
+      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description">
+        <source>app.profile.dashboard.companyProfile.tile.description</source>
+        <target>Manage your company profile</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
         <source>app.or</source>

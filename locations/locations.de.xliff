@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -3641,9 +3641,9 @@
         <source>Japan</source>
         <target>Japan</target>
       </trans-unit>
-      <trans-unit id="ae54a5c026f31ada088992587d92cb3a" resname="China">
+      <trans-unit id="ae54a5c026f31ada088992587d92cb3a" resname="China" approved="yes">
         <source>China</source>
-        <target>China</target>
+        <target state="translated">VR China</target>
       </trans-unit>
       <trans-unit id="783c6baf8592ab8c2e7d03911ba1483f" resname="Syrian Arab Republic">
         <source>Syrian Arab Republic</source>

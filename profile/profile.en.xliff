@@ -891,6 +891,54 @@
         <source>app.profile.dashboard.referrals.tile.title</source>
         <target>Referrals</target>
       </trans-unit>
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title">
+        <source>app.profile.section.jobAlerts.title</source>
+        <target>JOB ALERTS</target>
+      </trans-unit>
+      <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle">
+        <source>app.profile.section.jobAlerts.createButtonTitle</source>
+        <target>CREATE JOB ALERT</target>
+      </trans-unit>
+      <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title">
+        <source>app.profile.section.jobAlerts.section.popup.title</source>
+        <target>SAVE ALERT</target>
+      </trans-unit>
+      <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note">
+        <source>app.profile.section.jobAlerts.section.popup.note</source>
+        <target>Please note: all fields signed with a (*) are mandatory.</target>
+      </trans-unit>
+      <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder">
+        <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
+        <target>Alert Title *</target>
+      </trans-unit>
+      <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue">
+        <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
+        <target>Period to sent *</target>
+      </trans-unit>
+      <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption">
+        <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
+        <target>Daily</target>
+      </trans-unit>
+      <trans-unit id="9d2332b8697b459aa30f318df509e210" resname="app.profile.section.jobAlerts.section.popup.weeklyOption">
+        <source>app.profile.section.jobAlerts.section.popup.weeklyOption</source>
+        <target>Weekly</target>
+      </trans-unit>
+      <trans-unit id="f0eccbbc9b944a9cac0ed4be45876ed5" resname="app.profile.section.jobAlerts.section.popup.monthlyOption">
+        <source>app.profile.section.jobAlerts.section.popup.monthlyOption</source>
+        <target>Monthly</target>
+      </trans-unit>
+      <trans-unit id="187021f89a8748ff903340b94621c6a4" resname="app.profile.section.jobAlerts.section.popup.saveButtonLabel">
+        <source>app.profile.section.jobAlerts.section.popup.saveButtonLabel</source>
+        <target>SAVE</target>
+      </trans-unit>
+      <trans-unit id="8cf9b47a88854c99bd22ac54becd214e" resname="app.profile.section.jobAlert.itemTitle">
+        <source>app.profile.section.jobAlert.itemTitle</source>
+        <target>Alert for</target>
+      </trans-unit>
+      <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel">
+        <source>app.profile.section.jobAlert.deleteButtonLabel</source>
+        <target>Delete</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize">
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
-        <target><![CDATA[&lt; 50]]></target>
+        <target><![CDATA[< 50]]></target>
       </trans-unit>
       <trans-unit id="edf0b0812fdb4b5289c5538d551b2406" resname="app.employerService.section.singleJobPost.employersLabel">
         <source>app.employerService.section.singleJobPost.employersLabel</source>
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize">
         <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
-        <target><![CDATA[&lt; 500]]></target>
+        <target><![CDATA[< 500]]></target>
       </trans-unit>
       <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size">
         <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
@@ -181,7 +181,7 @@
       </trans-unit>
       <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize">
         <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
-        <target><![CDATA[&gt; 500]]></target>
+        <target><![CDATA[> 500]]></target>
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo">
         <source>app.employerService.section.singleJobPost.vatInfo</source>
@@ -274,6 +274,46 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047559" resname="app.employerService.section.serviceBooking.section.inputs.submitValue">
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target>send inquiry</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
+        <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
+        <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr">
+        <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr">
+        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr">
+        <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr">
+        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr">
+        <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047008" resname="app.employerService.section.flatrate.1Addon.descr">
+        <source>app.employerService.section.flatrate.1Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047009" resname="app.employerService.section.flatrate.2Addon.descr">
+        <source>app.employerService.section.flatrate.2Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047010" resname="app.employerService.section.flatrate.3Addon.descr">
+        <source>app.employerService.section.flatrate.3Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
       </trans-unit>
     </body>
   </file>

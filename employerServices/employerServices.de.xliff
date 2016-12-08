@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
     <header>
@@ -11,27 +11,309 @@
       </trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage">
         <source>app.metaDescriptionServicesPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="a47850a6d8040df5f9d5e97259d22811" resname="app.metaKeywordsServicesPage">
         <source>app.metaKeywordsServicesPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="08f5ed19d0ff6b8c90b2653d71ae16c3" resname="app.servicesChooseHeadline">
         <source>app.servicesChooseHeadline</source>
-        <target>Wählen Sie aus unseren Services</target>
+        <target>Choose from our services</target>
       </trans-unit>
       <trans-unit id="f4f21ca95a1884ac1a1928bc2d3f57b0" resname="app.servicesChooseDesc1">
         <source>app.servicesChooseDesc1</source>
-        <target>Testen Sie unsere passiven und aktiven Services</target>
+        <target>Try our passive and active services</target>
       </trans-unit>
       <trans-unit id="77dc124d518c81eba75545993bd7d459" resname="app.servicesChooseDesc2">
         <source>app.servicesChooseDesc2</source>
-        <target>Finden Sie den Service, der am besten zu Ihnen passt. Wir unterstützen Sie nach Ihren Vorstellungen.</target>
+        <target>See what services apply best to your business model. Have us help you in every way you need us.</target>
       </trans-unit>
       <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
         <source>app.AllPricesAreExcludingVAT</source>
-        <target>*Alle Preise exklusive Mehrwertsteuer.</target>
+        <target>*All prices are excluding VAT.</target>
+      </trans-unit>
+      <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header">
+        <source>app.employerService.header</source>
+        <target>Why choose Transport Talent?</target>
+      </trans-unit>
+      <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description">
+        <source>app.employerService.description</source>
+        <target>We are a global recruitment portal dedicated to the logistics and transport industry. Unlike other companies, we combine industry expertise with innovative new targeting methods. In addition to publishing your job advert onsite, we offer a selection of add-ons which can be mixed and matched to suit your recruitment needs. We aim to make your hiring process as simple and streamlined as possible.</target>
+      </trans-unit>
+      <trans-unit id="a89efc83f6514fdbb74843b79b0bd76e" resname="app.employerService.section.choice.header">
+        <source>app.employerService.section.choice.header</source>
+        <target>Pick a posting that works for you</target>
+      </trans-unit>
+      <trans-unit id="bb6658c01b1f4a3aaeff58b75fa7b12b" resname="app.employerService.section.flatrate.buttonLabel">
+        <source>app.employerService.section.flatrate.buttonLabel</source>
+        <target>Subscription</target>
+      </trans-unit>
+      <trans-unit id="2a43d574827f4a3ea0fb3faf852d10b8" resname="app.employerService.section.flatrate.buttonDescription">
+        <source>app.employerService.section.flatrate.buttonDescription</source>
+        <target>Click here if you want to post more than 5 vacancies a year</target>
+      </trans-unit>
+      <trans-unit id="bbbd301add704ee884e5a660c36590cd" resname="app.employerService.section.singleJobPost.buttonLabel">
+        <source>app.employerService.section.singleJobPost.buttonLabel</source>
+        <target>Single Job Posting</target>
+      </trans-unit>
+      <trans-unit id="06188b180b8b4160a95c6375dad73001" resname="app.employerService.section.singleJobPost.buttonDescription">
+        <source>app.employerService.section.singleJobPost.buttonDescription</source>
+        <target>Click here if you want to post less than 5 vacancies a year</target>
+      </trans-unit>
+      <trans-unit id="e5db52f5760847129bc5dde08b082621" resname="app.employerService.section.flatrate.intro">
+        <source>app.employerService.section.flatrate.intro</source>
+        <target>
+            <![CDATA[<h2>
+                Flatrate Posting & Company Profile
+            </h2>
+            <p>
+                With the Company Profile & Unlimited Job Posting subscription you will have your very own career site on TransportTalent.com where you can communicate your story of what makes your company unique, right alongside all of your job postings. You can display photos from your offices, include company videos and statements from some of your employees. You will be able to post all of your open positions (automatically or manually - whatever you prefer).
+            </p>
+            <h3>
+                Attract New Talent
+            </h3>
+            <p>
+                Thousands of passive and active job seekers will see how great it is to work at your company, exposing your company to qualified candidates.
+            </p>
+            <ul>
+                <li>
+                    Post as many jobs on transporttalent.com as you want
+                </li>
+                <li>
+                    Automatic upload of all your jobs from your career page
+                </li>
+                <li>
+                    Get your own fully branded and visually engaging career homepage
+                </li>
+                <li>
+                    Expose all of your open positions to a highly targeted audience
+                </li>
+                <li>
+                    Up to 50 concurrent jobs
+                </li>
+            </ul>]]>
+        </target>
+      </trans-unit>
+      <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header">
+        <source>app.employerService.section.singleJobPost.header</source>
+        <target>Simple Pricing</target>
+      </trans-unit>
+      <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description">
+        <source>app.employerService.section.singleJobPost.description</source>
+        <target>We believe in simple pricing models. Our flat fee prices are easy to understand and predictable for you. No hidden fees and no surprises.</target>
+      </trans-unit>
+      <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1">
+        <source>app.employerService.section.singleJobPost.tableRow1</source>
+        <target>Applicable company size (by employees)</target>
+      </trans-unit>
+      <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2">
+        <source>app.employerService.section.singleJobPost.tableRow2</source>
+        <target>Positions online on TransportTalent.com</target>
+      </trans-unit>
+      <trans-unit id="2e0c93db58534d74bfafc3ee839638d2" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel">
+        <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel</source>
+        <target>Standard company profile</target>
+      </trans-unit>
+      <trans-unit id="723c5439e7d94a8081934e78e0e72575" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel">
+        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel</source>
+        <target>Personal account manager</target>
+      </trans-unit>
+      <trans-unit id="668acd417a8844c993be665fdcbccc93" resname="app.employerService.section.singleJobPost.automaticUploadLabel">
+        <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
+        <target>Automatic upload of all positions</target>
+      </trans-unit>
+      <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel">
+        <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
+        <target>Posting of all jobs on social media</target>
+      </trans-unit>
+      <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel">
+        <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
+        <target>Emails to relevant candidates</target>
+      </trans-unit>
+      <trans-unit id="2036ae0c5bce42fa9c7ef6dec7ecb22d" resname="app.employerService.section.singleJobPost.section.smallBusiness.size">
+        <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
+        <target>Small</target>
+      </trans-unit>
+      <trans-unit id="fbbffc27aff04c87bfb24c2de73ad067" resname="app.employerService.section.singleJobPost.businessLabel">
+        <source>app.employerService.section.singleJobPost.businessLabel</source>
+        <target>Business</target>
+      </trans-unit>
+      <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications">
+        <source>app.employerService.section.singleJobPost.businessSpecifications</source>
+        <target><![CDATA[<span>EUR/user/month*<br>(billed annually)</span>]]></target>
+      </trans-unit>
+      <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize">
+        <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
+        <target><![CDATA[< 50]]></target>
+      </trans-unit>
+      <trans-unit id="edf0b0812fdb4b5289c5538d551b2406" resname="app.employerService.section.singleJobPost.employersLabel">
+        <source>app.employerService.section.singleJobPost.employersLabel</source>
+        <target>employers</target>
+      </trans-unit>
+      <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
+        <source>app.employerService.detailsLabel</source>
+        <target>Details</target>
+      </trans-unit>
+      <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel">
+        <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
+        <target>Unlimited</target>
+      </trans-unit>
+      <trans-unit id="54a5bf0ccdd4453481c436cb7980cf1e" resname="app.employerService.section.singleJobPost.unlimitedPositonsDescription">
+        <source>app.employerService.section.singleJobPost.unlimitedPositonsDescription</source>
+        <target>Unlimited positions online on TransportTalent.com per year</target>
+      </trans-unit>
+      <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerService.section.singleJobPost.bookButtonLabel">
+        <source>app.employerService.section.singleJobPost.bookButtonLabel</source>
+        <target>Book</target>
+      </trans-unit>
+      <trans-unit id="68de58a434ad4902a96ab8efffa0858f" resname="app.employerService.section.singleJobPost.section.mediumBusiness.size">
+        <source>app.employerService.section.singleJobPost.section.mediumBusiness.size</source>
+        <target>Medium</target>
+      </trans-unit>
+      <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize">
+        <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
+        <target><![CDATA[< 500]]></target>
+      </trans-unit>
+      <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size">
+        <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
+        <target>Enterprise</target>
+      </trans-unit>
+      <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize">
+        <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
+        <target><![CDATA[> 500]]></target>
+      </trans-unit>
+      <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo">
+        <source>app.employerService.section.singleJobPost.vatInfo</source>
+        <target><![CDATA[* All products require an annual contract.<br>&nbsp;&nbsp;&nbsp;All prices on this page are excl. VAT. List prices for end customers in Western Europe. <br>&nbsp;&nbsp;&nbsp;A different scope of services and price applies to customers in other regions and personnel service providers.]]></target>
+      </trans-unit>
+      <trans-unit id="b89467924486452dbc26cde8e62c565b" resname="app.employerService.section.flatrate.addonsHeader">
+        <source>app.employerService.section.flatrate.addonsHeader</source>
+        <target>Add-ons</target>
+      </trans-unit>
+      <trans-unit id="e0be86572e2a483c92a57dbd62c81b1d" resname="app.employerService.section.flatrate.addonsDescription">
+        <source>app.employerService.section.flatrate.addonsDescription</source>
+        <target>To make your job-ad’s even more successful we offer a number of add-ons. Just click on "details" for more info about each. Below add-ons can be purchased for important positions where you wish to get extra attention to get them filled quickly.</target>
+      </trans-unit>
+      <trans-unit id="6733069c149745fd858a546168712fe3" resname="app.employerService.section.flatrate.firstAddonLabel">
+        <source>app.employerService.section.flatrate.firstAddonLabel</source>
+        <target>Social Media Booster*</target>
+      </trans-unit>
+      <trans-unit id="9be1a885b25645cdbf247a0fca8b9b46" resname="app.employerService.section.flatrate.priceInfo">
+        <source>app.employerService.section.flatrate.priceInfo</source>
+        <target>(billed per job)</target>
+      </trans-unit>
+      <trans-unit id="7ae06ae79ab24816bd30258f1b115be6" resname="app.employerService.section.flatrate.secondAddonLabel">
+        <source>app.employerService.section.flatrate.secondAddonLabel</source>
+        <target>Referral Campaign</target>
+      </trans-unit>
+      <trans-unit id="4fb35e7e89654d9382ac6ee0afabec3e" resname="app.employerService.section.flatrate.thirdAddonLabel">
+        <source>app.employerService.section.flatrate.thirdAddonLabel</source>
+        <target>Outreach to 8 Candidates**</target>
+      </trans-unit>
+      <trans-unit id="428acae114ea420dad21a92d4fae1507" resname="app.employerService.section.flatrate.note">
+        <source>app.employerService.section.flatrate.note</source>
+        <target>**All per job add-on services come with 75% money back guarantee if you do not receive at least two relevant applications.</target>
+      </trans-unit>
+      <trans-unit id="f61152b4b15246e8bab27a9ad8eaad22" resname="app.employerService.section.serviceBooking.header">
+        <source>app.employerService.section.serviceBooking.header</source>
+        <target>Service Booking</target>
+      </trans-unit>
+      <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title">
+        <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
+        <target>Recruitment Packages</target>
+      </trans-unit>
+      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel">
+        <source>app.employerService.section.serviceBooking.subtotalLabel</source>
+        <target>Subtotal:</target>
+      </trans-unit>
+      <trans-unit id="814f126d7d334198bf8e860abec6b105" resname="app.employerService.section.serviceBooking.section.addonProducts.title">
+        <source>app.employerService.section.serviceBooking.section.addonProducts.title</source>
+        <target>Add-on Products</target>
+      </trans-unit>
+      <trans-unit id="60a6cf8cd5fc4cf594d1d11aff42f4c2" resname="app.employerService.section.serviceBooking.section.addonProducts.brandedEmployerContentLabel">
+        <source>app.employerService.section.serviceBooking.section.addonProducts.brandedEmployerContentLabel</source>
+        <target>Branded Employer Content</target>
+      </trans-unit>
+      <trans-unit id="7bb553e039c84c6f814d75a9fd4663e5" resname="app.employerService.section.serviceBooking.section.addonProducts.perJobAdLabel">
+        <source>app.employerService.section.serviceBooking.section.addonProducts.perJobAdLabel</source>
+        <target>per job ad</target>
+      </trans-unit>
+      <trans-unit id="c9111746fc9049ce8b98dd013799b080" resname="app.employerService.section.serviceBooking.section.addonProducts.referralCampaignSetupLabel">
+        <source>app.employerService.section.serviceBooking.section.addonProducts.referralCampaignSetupLabel</source>
+        <target>Referral Campaign Set-up</target>
+      </trans-unit>
+      <trans-unit id="8ae7fe92c3494d4d8daf264994f8f6c9" resname="app.employerService.section.serviceBooking.section.addonProducts.candidateShortlisting">
+        <source>app.employerService.section.serviceBooking.section.addonProducts.candidateShortlisting</source>
+        <target>Candidate Shortlisting</target>
+      </trans-unit>
+      <trans-unit id="1a14770b833c45d2b6abe9b1a7dac99f" resname="app.employerService.section.serviceBooking.totalLabel">
+        <source>app.employerService.section.serviceBooking.totalLabel</source>
+        <target>Total:</target>
+      </trans-unit>
+      <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note">
+        <source>app.employerService.section.serviceBooking.note</source>
+        <target>Please note: all fields signed with a (*) are mandatory.</target>
+      </trans-unit>
+      <trans-unit id="354adf955fcf48158febe46502cb7f78" resname="app.employerService.section.serviceBooking.section.inputs.nameLabel">
+        <source>app.employerService.section.serviceBooking.section.inputs.nameLabel</source>
+        <target>Name*</target>
+      </trans-unit>
+      <trans-unit id="94257308b14f482f8c508a5a81dc353e" resname="app.employerService.section.serviceBooking.section.inputs.emailLabel">
+        <source>app.employerService.section.serviceBooking.section.inputs.emailLabel</source>
+        <target>Email address*</target>
+      </trans-unit>
+      <trans-unit id="3b9f8cdda0464bd4bdd1f900e2f59c08" resname="app.employerService.section.serviceBooking.section.inputs.phoneLabel">
+        <source>app.employerService.section.serviceBooking.section.inputs.phoneLabel</source>
+        <target>Phone no.*</target>
+      </trans-unit>
+      <trans-unit id="e897ab3f441f4d7e8fa955c600a1ce86" resname="app.employerService.section.serviceBooking.section.inputs.messageLabel">
+        <source>app.employerService.section.serviceBooking.section.inputs.messageLabel</source>
+        <target>Message</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047559" resname="app.employerService.section.serviceBooking.section.inputs.submitValue">
+        <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
+        <target>send inquiry</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
+        <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
+        <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr">
+        <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr">
+        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr">
+        <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr">
+        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr">
+        <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047008" resname="app.employerService.section.flatrate.1Addon.descr">
+        <source>app.employerService.section.flatrate.1Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047009" resname="app.employerService.section.flatrate.2Addon.descr">
+        <source>app.employerService.section.flatrate.2Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047010" resname="app.employerService.section.flatrate.3Addon.descr">
+        <source>app.employerService.section.flatrate.3Addon.descr</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
       </trans-unit>
     </body>
   </file>

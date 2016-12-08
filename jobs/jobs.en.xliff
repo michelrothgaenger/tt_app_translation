@@ -73,6 +73,10 @@
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Languages</target>
       </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3911" resname="app.jobs.searchForm.referrals" approved="yes">
+        <source>app.jobs.searchForm.referrals</source>
+        <target state="translated">Show referrals</target>
+      </trans-unit>
       <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel">
         <source>app.jobs.createJobAlertButtonLabel</source>
         <target>CREATE JOB ALERT</target>

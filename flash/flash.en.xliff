@@ -33,6 +33,14 @@
           <source>app.flash.oauthError</source>
           <target>Could not auth via %serviceName%, please try again</target>
         </trans-unit>
+        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs">
+          <source>app.flash.job.employer.cantEditJobs</source>
+          <target>You have no permissions to edit this job</target>
+        </trans-unit>
+        <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved">
+          <source>app.flash.job.employer.saved</source>
+          <target>Job has been saved</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

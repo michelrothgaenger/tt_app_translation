@@ -73,6 +73,10 @@
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Languages</target>
       </trans-unit>
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel">
+        <source>app.jobs.createJobAlertButtonLabel</source>
+        <target>CREATE JOB ALERT</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

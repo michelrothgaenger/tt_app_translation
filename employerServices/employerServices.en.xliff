@@ -327,6 +327,10 @@
         <source>app.employerService.popup.3package.desc</source>
         <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
       </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047014" resname="app.employerService.bookedMsg">
+        <source>app.employerService.bookedMsg</source>
+        <target>Service requested, we will get back to you soon</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -7,8 +7,8 @@
     <body>
       <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.employerService.meta.title">
         <source>app.employerService.meta.title</source>
-        <target>Pricing</target>
-      </trans-unit>
+        <target state="translated">Pricing</target>
+</trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage">
         <source>app.metaDescriptionServicesPage</source>
         <target/>
@@ -215,9 +215,9 @@
         <source>app.employerService.section.serviceBooking.section.addonProducts.brandedEmployerContentLabel</source>
         <target>Branded Employer Content</target>
       </trans-unit>
-      <trans-unit id="7bb553e039c84c6f814d75a9fd4663e5" resname="app.employerService.section.serviceBooking.section.addonProducts.perJobAdLabel">
+      <trans-unit id="7bb553e039c84c6f814d75a9fd4663e5" resname="app.employerService.section.serviceBooking.section.addonProducts.perJobAdLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.addonProducts.perJobAdLabel</source>
-        <target>per job ad</target>
+        <target state="translated">pro Stellenanzeige</target>
       </trans-unit>
       <trans-unit id="c9111746fc9049ce8b98dd013799b080" resname="app.employerService.section.serviceBooking.section.addonProducts.referralCampaignSetupLabel">
         <source>app.employerService.section.serviceBooking.section.addonProducts.referralCampaignSetupLabel</source>
@@ -231,17 +231,17 @@
         <source>app.employerService.section.serviceBooking.totalLabel</source>
         <target>Total:</target>
       </trans-unit>
-      <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note">
+      <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note" approved="yes">
         <source>app.employerService.section.serviceBooking.note</source>
-        <target>Please note: all fields signed with a (*) are mandatory.</target>
+        <target state="translated">Hinweis: Pflichtfelder sind mit * markiert.</target>
       </trans-unit>
-      <trans-unit id="354adf955fcf48158febe46502cb7f78" resname="app.employerService.section.serviceBooking.section.inputs.nameLabel">
+      <trans-unit id="354adf955fcf48158febe46502cb7f78" resname="app.employerService.section.serviceBooking.section.inputs.nameLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.nameLabel</source>
-        <target>Name*</target>
+        <target state="translated">Name*</target>
       </trans-unit>
-      <trans-unit id="94257308b14f482f8c508a5a81dc353e" resname="app.employerService.section.serviceBooking.section.inputs.emailLabel">
+      <trans-unit id="94257308b14f482f8c508a5a81dc353e" resname="app.employerService.section.serviceBooking.section.inputs.emailLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.emailLabel</source>
-        <target>Email address*</target>
+        <target state="translated">E-Mail-Adresse*</target>
       </trans-unit>
       <trans-unit id="3b9f8cdda0464bd4bdd1f900e2f59c08" resname="app.employerService.section.serviceBooking.section.inputs.phoneLabel">
         <source>app.employerService.section.serviceBooking.section.inputs.phoneLabel</source>
@@ -251,9 +251,9 @@
         <source>app.employerService.section.serviceBooking.section.inputs.messageLabel</source>
         <target>Message</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047559" resname="app.employerService.section.serviceBooking.section.inputs.submitValue">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047559" resname="app.employerService.section.serviceBooking.section.inputs.submitValue" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
-        <target>send inquiry</target>
+        <target state="translated">Anfrage absenden</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
         <source>app.employerService.section.singleJobPost.tableRow1.descr</source>

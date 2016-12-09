@@ -227,9 +227,9 @@
         <source>app.employerService.section.serviceBooking.section.addonProducts.candidateShortlisting</source>
         <target>Candidate Shortlisting</target>
       </trans-unit>
-      <trans-unit id="1a14770b833c45d2b6abe9b1a7dac99f" resname="app.employerService.section.serviceBooking.totalLabel">
+      <trans-unit id="1a14770b833c45d2b6abe9b1a7dac99f" resname="app.employerService.section.serviceBooking.totalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.totalLabel</source>
-        <target>Total:</target>
+        <target state="translated">Gesamt:</target>
       </trans-unit>
       <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note" approved="yes">
         <source>app.employerService.section.serviceBooking.note</source>
@@ -241,15 +241,15 @@
       </trans-unit>
       <trans-unit id="94257308b14f482f8c508a5a81dc353e" resname="app.employerService.section.serviceBooking.section.inputs.emailLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.emailLabel</source>
-        <target state="translated">E-Mail-Adresse*</target>
+        <target state="translated">E-Mail*</target>
       </trans-unit>
-      <trans-unit id="3b9f8cdda0464bd4bdd1f900e2f59c08" resname="app.employerService.section.serviceBooking.section.inputs.phoneLabel">
+      <trans-unit id="3b9f8cdda0464bd4bdd1f900e2f59c08" resname="app.employerService.section.serviceBooking.section.inputs.phoneLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.phoneLabel</source>
-        <target>Phone no.*</target>
+        <target state="translated">Telefon*</target>
       </trans-unit>
-      <trans-unit id="e897ab3f441f4d7e8fa955c600a1ce86" resname="app.employerService.section.serviceBooking.section.inputs.messageLabel">
+      <trans-unit id="e897ab3f441f4d7e8fa955c600a1ce86" resname="app.employerService.section.serviceBooking.section.inputs.messageLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.messageLabel</source>
-        <target>Message</target>
+        <target state="translated">Nachricht</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047559" resname="app.employerService.section.serviceBooking.section.inputs.submitValue" approved="yes">
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>

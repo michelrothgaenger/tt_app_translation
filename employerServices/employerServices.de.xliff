@@ -5,33 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
-        <source>app.services</source>
-        <target>Services</target>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.employerService.meta.title">
+        <source>app.employerService.meta.title</source>
+        <target>Pricing</target>
       </trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage">
         <source>app.metaDescriptionServicesPage</source>
         <target/>
-      </trans-unit>
-      <trans-unit id="a47850a6d8040df5f9d5e97259d22811" resname="app.metaKeywordsServicesPage">
-        <source>app.metaKeywordsServicesPage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="08f5ed19d0ff6b8c90b2653d71ae16c3" resname="app.servicesChooseHeadline">
-        <source>app.servicesChooseHeadline</source>
-        <target>Choose from our services</target>
-      </trans-unit>
-      <trans-unit id="f4f21ca95a1884ac1a1928bc2d3f57b0" resname="app.servicesChooseDesc1">
-        <source>app.servicesChooseDesc1</source>
-        <target>Try our passive and active services</target>
-      </trans-unit>
-      <trans-unit id="77dc124d518c81eba75545993bd7d459" resname="app.servicesChooseDesc2">
-        <source>app.servicesChooseDesc2</source>
-        <target>See what services apply best to your business model. Have us help you in every way you need us.</target>
-      </trans-unit>
-      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
-        <source>app.AllPricesAreExcludingVAT</source>
-        <target>*All prices are excluding VAT.</target>
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header">
         <source>app.employerService.header</source>

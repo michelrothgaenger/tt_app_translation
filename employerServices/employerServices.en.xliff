@@ -5,33 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services">
-        <source>app.services</source>
-        <target>Services</target>
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.employerService.meta.title">
+        <source>app.employerService.meta.title</source>
+        <target>Pricing</target>
       </trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage">
         <source>app.metaDescriptionServicesPage</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="a47850a6d8040df5f9d5e97259d22811" resname="app.metaKeywordsServicesPage">
-        <source>app.metaKeywordsServicesPage</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="08f5ed19d0ff6b8c90b2653d71ae16c3" resname="app.servicesChooseHeadline">
-        <source>app.servicesChooseHeadline</source>
-        <target>Choose from our services</target>
-      </trans-unit>
-      <trans-unit id="f4f21ca95a1884ac1a1928bc2d3f57b0" resname="app.servicesChooseDesc1">
-        <source>app.servicesChooseDesc1</source>
-        <target>Try our passive and active services</target>
-      </trans-unit>
-      <trans-unit id="77dc124d518c81eba75545993bd7d459" resname="app.servicesChooseDesc2">
-        <source>app.servicesChooseDesc2</source>
-        <target>See what services apply best to your business model. Have us help you in every way you need us.</target>
-      </trans-unit>
-      <trans-unit id="8bb1737ea9c90cd8c995c6458db8d7f8" resname="app.AllPricesAreExcludingVAT">
-        <source>app.AllPricesAreExcludingVAT</source>
-        <target>*All prices are excluding VAT.</target>
+        <target>Find the future candidates for your company</target>
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header">
         <source>app.employerService.header</source>
@@ -277,43 +257,43 @@
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
         <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>Our subscription packages are based on the total number of employees in your company, branch or region</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>Your jobs are online on TransportTalent.com and displayed to our global auidience</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>With our company profile you will be able to tell the audience about your company and display your open positions next to it</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr">
         <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>With a Medium or Enterprise account you will have access to your own account manager that can help you make the most of your subscription</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>We create a direct link to your career page on your website or your ATS so that all of your jobs will automatically get uploaded on transporttalent.com with any manual work form your side </target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr">
         <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>We post of all jobs on our social media channels (FB &amp; TW)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>We send out a direct email to make suitable candidates in our database aware of your position</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047008" resname="app.employerService.section.flatrate.1Addon.descr">
         <source>app.employerService.section.flatrate.1Addon.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>We advertise your open position up on relevant online media channels and target the audience that is just right for this position. All marketings costs are already included in the price.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047009" resname="app.employerService.section.flatrate.2Addon.descr">
         <source>app.employerService.section.flatrate.2Addon.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>We setup up an Referral Program on your behalf. You decide on the size of the referral fee you are willing to pay and if you’re able to fill your position through our Referral Programm we will assist you with the payout of the refferral fee to the person who referred the selected candidate.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047010" resname="app.employerService.section.flatrate.3Addon.descr">
         <source>app.employerService.section.flatrate.3Addon.descr</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</target>
+        <target>One of our experienced recruitment specialists will personally reach out to suitable candidates and motivate them to apply for the position. We will not limit ourselves to candidates from our own database but also do an external search of the market.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047011" resname="app.employerService.popup.1package.desc">
         <source>app.employerService.popup.1package.desc</source>

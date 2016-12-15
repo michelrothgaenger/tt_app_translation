@@ -5,17 +5,17 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.employerService.meta.title">
+      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.employerService.meta.title" approved="yes">
         <source>app.employerService.meta.title</source>
-        <target>Pricing</target>
+        <target state="translated">Pricing</target>
       </trans-unit>
-      <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage">
+      <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage" approved="yes">
         <source>app.metaDescriptionServicesPage</source>
-        <target>Find the future candidates for your company</target>
+        <target state="translated">Find the future candidates for your company</target>
       </trans-unit>
-      <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header">
+      <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
-        <target>Why choose Transport Talent?</target>
+        <target state="translated">Why choose Transport Talent?</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
@@ -25,13 +25,13 @@
         <source>app.employerService.section.choice.header</source>
         <target state="translated">Choose the package that fits your company</target>
       </trans-unit>
-      <trans-unit id="bb6658c01b1f4a3aaeff58b75fa7b12b" resname="app.employerService.section.flatrate.buttonLabel">
+      <trans-unit id="bb6658c01b1f4a3aaeff58b75fa7b12b" resname="app.employerService.section.flatrate.buttonLabel" approved="yes">
         <source>app.employerService.section.flatrate.buttonLabel</source>
-        <target>Subscription</target>
+        <target state="translated">Subscription</target>
       </trans-unit>
-      <trans-unit id="2a43d574827f4a3ea0fb3faf852d10b8" resname="app.employerService.section.flatrate.buttonDescription">
+      <trans-unit id="2a43d574827f4a3ea0fb3faf852d10b8" resname="app.employerService.section.flatrate.buttonDescription" approved="yes">
         <source>app.employerService.section.flatrate.buttonDescription</source>
-        <target>Click here if you want to post more than 5 vacancies a year</target>
+        <target state="translated">Click here if you want to post more than 5 vacancies a year</target>
       </trans-unit>
       <trans-unit id="bbbd301add704ee884e5a660c36590cd" resname="app.employerService.section.singleJobPost.buttonLabel">
         <source>app.employerService.section.singleJobPost.buttonLabel</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="e5db52f5760847129bc5dde08b082621" resname="app.employerService.section.flatrate.intro" approved="yes">
         <source>app.employerService.section.flatrate.intro</source>
-        <target state="translated">&lt;h2&gt; Unlimited Job Posting &amp; Company Profile &lt;/h2&gt; &lt;p&gt; With the Unlimited Job Posting &amp; Company Profile subscription you will have your very own career site on TransportTalent.com where you can communicate your story of what makes your company unique, right alongside all of your job postings. You can display photos from your offices, include company videos and statements from some of your employees. You will be able to post all of your open positions (automatically or manually - whatever you prefer). &lt;/p&gt; &lt;h3&gt; Choose the package that fits your company &lt;/h3&gt; &lt;p&gt; Our flat fee subscriptions gives you predictability and allows you to estimate spend and budget accordingly. Once you have chosen the package that fits the size and hiring needs of your company, you can post all of your open positions at a very competitive price per job posting. &lt;/p&gt;&lt;p&gt; All subscriptions allows you to create a dedicated company profile on the Transport Talent site. Here, you can communicate exactly what makes your company unique. &lt;/p&gt;&lt;p&gt; Advantages of our subscription packages:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; Post all your jobs on TransportTalent.com at a fixed flat rate &lt;/li&gt; &lt;li&gt; Expose your open positions to a curated audience of industry professionals &lt;/li&gt; &lt;li&gt; Get a fully branded and visually engaging company profile on Transport Talent &lt;/li&gt; &lt;li&gt; Buy add-ons that gives you even more exposure when needed &lt;/li&gt; &lt;/ul&gt;</target>
+        <target state="translated">&lt;h2&gt; Choose the plan that fits your company &lt;/h2&gt; &lt;p&gt; Our flat fee subscriptions gives you predictability and allows you to estimate spend and budget accordingly. Once you have chosen the package that fits the size and hiring needs of your company, you can post all of your open positions at a very competitive price per job posting. &lt;/p&gt;&lt;p&gt; All subscriptions allows you to create a dedicated company profile on the Transport Talent site. Here, you can communicate exactly what makes your company unique. &lt;/p&gt;</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header">
         <source>app.employerService.section.singleJobPost.header</source>

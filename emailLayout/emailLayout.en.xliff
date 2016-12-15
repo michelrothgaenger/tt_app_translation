@@ -85,9 +85,29 @@
         <source>app.emailLayout.jobAlertCreated.languagesLabel</source>
         <target>Languages:</target>
       </trans-unit>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.emailsLayout.applicationForwarded">
-        <source>app.emailsLayout.applicationForwarded</source>
-        <target><![CDATA[Dear %firstName%,<br><br>Your application for %jobTitle% has successfully been forwarded to %employer%. Please find attached the CV we handed in with your message. The application details have also been saved to your profile.<br><br><b>Your message to %companyName%:</b><br><br><i>%applicationMessage%</i><br><br><b>What happens next?</b><br><br>%companyName% will review your application and contact you directly in case of questions. You can keep track of your application status via your <a href="%profileUrl%">profile</a>. Please note that Transport Talent cannot provide information regarding your application status. All questions should be directed to %companyName%. The responsible contact person in the HR department is: %employerContact%. Once the application process is finished you will be notified about the results via email.<br><br>Thank you for using Transport Talent and good luck with your application.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.emailLayout.applicationForwarded">
+        <source>app.emailLayout.applicationForwarded</source>
+        <target><![CDATA[Dear %firstName%,<br><br>Your application for %jobTitle% has successfully been forwarded to %companyName%. Please find attached the CV we handed in with your message. The application details have also been saved to your profile.<br><br><b>Your message to %companyName%:</b><br><br><i>%applicationMessage%</i><br><br><b>What happens next?</b><br><br>%companyName% will review your application and contact you directly in case of questions. You can keep track of your application status via your <a href="%profileUrl%">profile</a>. Please note that Transport Talent cannot provide information regarding your application status. All questions should be directed to %companyName%. The responsible contact person in the HR department is: %employerContact%. Once the application process is finished you will be notified about the results via email.<br><br>Thank you for using Transport Talent and good luck with your application.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+      </trans-unit>
+      <trans-unit id="3cd0217ba4e24bc78ed1104ff5e0caa5" resname="app.emailLayout.passwordChanged.subject">
+        <source>app.emailLayout.passwordChanged.subject</source>
+        <target>Your password for Transport Talent has been changed</target>
+      </trans-unit>
+      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.emailLayout.inactivity.subject">
+        <source>app.emailLayout.inactivity.subject</source>
+        <target>Still interested in career opportunities?</target>
+      </trans-unit>
+      <trans-unit id="d4c6e0e965844bb093b741631e51c8be" resname="app.emailLayout.missingFields.subject">
+        <source>app.emailLayout.missingFields.subject</source>
+        <target>Help us find interesting positions for you</target>
+      </trans-unit>
+      <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.emailLayout.jobAlertDeleted.subject">
+        <source>app.emailLayout.jobAlertDeleted.subject</source>
+        <target>Your job alert has been deactived/deleted</target>
+      </trans-unit>
+      <trans-unit id="6800a3913639408a84c5018eb4855239" resname="app.emailLayout.jobAlertCreated.subject">
+        <source>app.emailLayout.jobAlertCreated.subject</source>
+        <target>Your job alert is active</target>
       </trans-unit>
     </body>
   </file>

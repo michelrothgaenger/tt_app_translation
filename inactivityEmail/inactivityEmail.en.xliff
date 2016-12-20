@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject">
+        <source>app.inactivityEmail.subject</source>
+        <target>Still interested in career opportunities?</target>
+      </trans-unit>
+      <trans-unit id="63eee8c047c24a8da1f3653875dabc82" resname="app.inactivityEmail">
+        <source>app.inactivityEmail</source>
+        <target><![CDATA[Dear %firstName%,<br><br>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:<br><br>%renderedJobs%<br><a href="%companiesUrl%">See who else is currently hiring</a><br><a href="%blogUrl%">Read our latest blog article: “[Title]”</a><br><br>Stay tuned by following us on <a href="www.facebook.com/transportTALENT/">Facebook</a>, <a href="www.twitter.com/transportTALENT/">Twitter</a>, or <a href="www.linkedin.com/company/transport-talent">LinkedIn</a>.<br><br>Please do not hesitate to contact us should you have any questions. We are always happy to help.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

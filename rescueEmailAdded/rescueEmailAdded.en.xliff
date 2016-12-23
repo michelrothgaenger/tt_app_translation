@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272001" resname="app.rescueEmailAdded.message">
+        <source>app.rescueEmailAdded.message</source>
+        <target><![CDATA[
+            <h1>Rescue email added</h1>
+            <p>Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.</p>
+            <br>
+            Best regards,<br>
+            The Transport Talent team.
+        ]]></target>
+      </trans-unit>
+      <trans-unit id="3f92b5f72e5e6b087d75954e4b272002" resname="app.rescueEmailAdded.subject">
+        <source>app.rescueEmailAdded.subject</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

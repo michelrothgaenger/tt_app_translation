@@ -53,10 +53,6 @@
         <source>app.employerService.section.singleJobPost.description</source>
         <target state="translated">Wir glauben an unkomplizierte Preismodelle. Unsere Flatrates sind einfach zu verstehen und berechenbar. Keine versteckten Kosten, keine Überraschungen.</target>
       </trans-unit>
-      <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow1</source>
-        <target state="translated">Unternehmensgröße (Zahl der Mitarbeiter)</target>
-      </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
         <target state="translated">Stellenanzeigen auf TransportTalent.com</target>
@@ -83,7 +79,7 @@
       </trans-unit>
       <trans-unit id="2036ae0c5bce42fa9c7ef6dec7ecb22d" resname="app.employerService.section.singleJobPost.section.smallBusiness.size">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
-        <target>Small</target>
+        <target>Basic</target>
       </trans-unit>
       <trans-unit id="fbbffc27aff04c87bfb24c2de73ad067" resname="app.employerService.section.singleJobPost.businessLabel">
         <source>app.employerService.section.singleJobPost.businessLabel</source>
@@ -91,11 +87,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target><![CDATA[<span>EUR/user/month*<br>(billed annually)</span>]]></target>
-      </trans-unit>
-      <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize">
-        <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
-        <target><![CDATA[< 50]]></target>
+        <target><![CDATA[<span>EUR/month*<br>(billed annually)</span>]]></target>
       </trans-unit>
       <trans-unit id="edf0b0812fdb4b5289c5538d551b2406" resname="app.employerService.section.singleJobPost.employersLabel">
         <source>app.employerService.section.singleJobPost.employersLabel</source>
@@ -119,19 +111,11 @@
       </trans-unit>
       <trans-unit id="68de58a434ad4902a96ab8efffa0858f" resname="app.employerService.section.singleJobPost.section.mediumBusiness.size">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.size</source>
-        <target>Medium</target>
-      </trans-unit>
-      <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
-        <target state="translated"><![CDATA[< 500]]></target>
+        <target>Advanced</target>
       </trans-unit>
       <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size">
         <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
         <target>Enterprise</target>
-      </trans-unit>
-      <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
-        <target state="translated"><![CDATA[> 500]]></target>
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo">
         <source>app.employerService.section.singleJobPost.vatInfo</source>

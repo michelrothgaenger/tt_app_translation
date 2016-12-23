@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1">
         <source>app.employerService.section.singleJobPost.tableRow1</source>
-        <target>Applicable company size (by employees)</target>
+        <target>Discount on 1 sourcing mandiate (normal price 6k EUR)</target>
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
@@ -83,7 +83,7 @@
       </trans-unit>
       <trans-unit id="2036ae0c5bce42fa9c7ef6dec7ecb22d" resname="app.employerService.section.singleJobPost.section.smallBusiness.size">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
-        <target>Small</target>
+        <target>Basic</target>
       </trans-unit>
       <trans-unit id="fbbffc27aff04c87bfb24c2de73ad067" resname="app.employerService.section.singleJobPost.businessLabel">
         <source>app.employerService.section.singleJobPost.businessLabel</source>
@@ -91,11 +91,11 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target><![CDATA[<span>EUR/user/month*<br>(billed annually)</span>]]></target>
+        <target><![CDATA[<span>EUR/month*<br>(billed annually)</span>]]></target>
       </trans-unit>
       <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize">
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
-        <target><![CDATA[< 50]]></target>
+        <target><![CDATA[10% off]]></target>
       </trans-unit>
       <trans-unit id="edf0b0812fdb4b5289c5538d551b2406" resname="app.employerService.section.singleJobPost.employersLabel">
         <source>app.employerService.section.singleJobPost.employersLabel</source>
@@ -109,6 +109,10 @@
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target>Unlimited</target>
       </trans-unit>
+      <trans-unit id="037dc1de9a4c456bb24a960c869bf360" resname="app.employerService.singleJobPost.smallBusinees.positionsNumber">
+        <source>app.employerService.singleJobPost.smallBusinees.positionsNumber</source>
+        <target>10</target>
+      </trans-unit>
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf1e" resname="app.employerService.section.singleJobPost.unlimitedPositonsDescription">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsDescription</source>
         <target>Unlimited positions online on TransportTalent.com per year</target>
@@ -119,11 +123,11 @@
       </trans-unit>
       <trans-unit id="68de58a434ad4902a96ab8efffa0858f" resname="app.employerService.section.singleJobPost.section.mediumBusiness.size">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.size</source>
-        <target>Medium</target>
+        <target>Advanced</target>
       </trans-unit>
       <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize">
         <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
-        <target><![CDATA[< 500]]></target>
+        <target><![CDATA[50% off]]></target>
       </trans-unit>
       <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size">
         <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
@@ -131,7 +135,7 @@
       </trans-unit>
       <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize">
         <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
-        <target><![CDATA[> 500]]></target>
+        <target><![CDATA[100% off]]></target>
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo">
         <source>app.employerService.section.singleJobPost.vatInfo</source>
@@ -227,7 +231,7 @@
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
         <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target>Our subscription packages are based on the total number of employees in your company, branch or region</target>
+        <target></target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>

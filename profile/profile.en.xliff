@@ -939,6 +939,10 @@
         <source>app.profile.section.jobAlert.deleteButtonLabel</source>
         <target>Delete</target>
       </trans-unit>
+      <trans-unit id="be38ccc621b04c4b8a32a0f44c329180" resname="app.profile.settings.language.label">
+        <source>app.profile.settings.language.label</source>
+        <target>Language</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

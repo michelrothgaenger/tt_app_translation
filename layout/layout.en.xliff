@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName">
+      <trans-unit id="ccface6894cf6f816ad6bd6fada11966" resname="app.metaForSocialsSiteName" approved="yes">
         <source>app.metaForSocialsSiteName</source>
-        <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry.</target>
+        <target state="translated">At Transport Talent, we are dedicated to creating a platform where transport and logistics professionals can confidentially connect with the best employers in the industry.</target>
       </trans-unit>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle">
+      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
-        <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry.</target>
+        <target state="translated">At Transport Talent, we are dedicated to creating a platform where transport and logistics professionals can confidentially connect with the best employers in the industry.</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription">
+      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
-        <target>At Transport Talent, we are dedicated to creating a platform where logistics and transport professionals can confidentially connect with the best employers in the industry.</target>
+        <target state="translated">At Transport Talent, we are dedicated to creating a platform where transport and logistics professionals can confidentially connect with the best employers in the industry.</target>
       </trans-unit>
       <trans-unit id="008e5d2b7c3475c4c13ce7d06e8d69f6" resname="app.metaKeywordsBase">
         <source>app.metaKeywordsBase</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase">
         <source>app.metaDescriptionBase</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText">
         <source>app.cookieShortText</source>

@@ -17,9 +17,9 @@
         <source>app.companyProfiles</source>
         <target>Meet the companies</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription" approved="yes">
         <source>app.employers.pageDescription</source>
-        <target>Find out what top logistics companies are looking for and what they have to offer</target>
+        <target state="translated">Find out what top transport and logistics companies are looking for and what they have to offer</target>
       </trans-unit>
       <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
         <source>app.noCompaniesFound</source>

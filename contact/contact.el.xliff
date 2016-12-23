@@ -13,37 +13,37 @@
         <source>app.contact.h1</source>
         <target state="translated">Επικοινωνία</target>
       </trans-unit>
-      <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title">
+      <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
-        <target>Email us</target>
+        <target state="translated">Για περισσότερες πληροφορίες στείλτε μας e-mail</target>
       </trans-unit>
-      <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name">
+      <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
-        <target>Name</target>
+        <target state="translated">Όνομα</target>
       </trans-unit>
-      <trans-unit id="e7967b9d2320c79ea67f243d2b441f45" resname="app.contact.section.email.email">
+      <trans-unit id="e7967b9d2320c79ea67f243d2b441f45" resname="app.contact.section.email.email" approved="yes">
         <source>app.contact.section.email.email</source>
-        <target>Email</target>
+        <target state="translated">E-mail</target>
       </trans-unit>
-      <trans-unit id="22780a31b6bcdc4ebc508ce4a0afdc38" resname="app.contact.section.email.subject">
+      <trans-unit id="22780a31b6bcdc4ebc508ce4a0afdc38" resname="app.contact.section.email.subject" approved="yes">
         <source>app.contact.section.email.subject</source>
-        <target>Subject</target>
+        <target state="translated">Αφορά</target>
       </trans-unit>
-      <trans-unit id="4296915edaceec1c657c1ecfc6ed759c" resname="app.contact.section.email.message">
+      <trans-unit id="4296915edaceec1c657c1ecfc6ed759c" resname="app.contact.section.email.message" approved="yes">
         <source>app.contact.section.email.message</source>
-        <target>Message</target>
+        <target state="translated">Μήνυμα</target>
       </trans-unit>
-      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel">
+      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel" approved="yes">
         <source>app.contact.section.email.buttonLabel</source>
-        <target>Send</target>
+        <target state="translated">Αποστολή</target>
       </trans-unit>
-      <trans-unit id="162b0f5f08b689b4f6145b49b0dc6ee4" resname="app.contact.section.email.thanksgiving">
+      <trans-unit id="162b0f5f08b689b4f6145b49b0dc6ee4" resname="app.contact.section.email.thanksgiving" approved="yes">
         <source>app.contact.section.email.thanksgiving</source>
-        <target>Thank you</target>
+        <target state="translated">Σας ευχαριστούμε</target>
       </trans-unit>
-      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus">
+      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
-        <target>You message has been sent! We will be in touch soon.</target>
+        <target state="translated">Το μήνυμά σας αποστάλθηκε! Θα επικοινωνήσουμε μαζί σας σύντομα.</target>
       </trans-unit>
       <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title">
         <source>app.contact.section.offices.title</source>
@@ -53,17 +53,17 @@
         <source>app.contact.section.offices.location</source>
         <target><![CDATA[<div><b>Germany:</b></div><div>Transport Talent</div><div>Bernstorfstrasse 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Denmark:</b></div><div>Transport Talent</div><div>Islands Brygge 77D</div><div>DK-2300 Copenhagen</div>]]></target>
       </trans-unit>
-      <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone">
+      <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
-        <target>Phone</target>
+        <target state="translated">Τηλέφωνο</target>
       </trans-unit>
       <trans-unit id="fa07d96306437e66b1078a48efaa3afe" resname="app.contact.section.offices.directions.title">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title">
+      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title" approved="yes">
         <source>app.contact.page.confirm.meta.title</source>
-        <target>Confirmation</target>
+        <target state="translated">Επιβεβαίωση</target>
       </trans-unit>
       <trans-unit id="efffd505a8f5a08b899b2f60206b9689" resname="app.contact.page.confirm.h1">
         <source>app.contact.page.confirm.h1</source>

@@ -71,10 +71,6 @@
         <source>app.signInWithLinkedin</source>
         <target>Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing">
-        <source>app.signInWithXing</source>
-        <target>Sign in with Xing</target>
-      </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
         <source>app.signInWithGoogle</source>
         <target>Sign in with Google</target>
@@ -305,15 +301,11 @@
       </trans-unit>
       <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc">
         <source>app.profileGroupImportDesc</source>
-        <target>Save time by importing existing data from your Xing or LinkedIn account.</target>
+        <target>Save time by importing existing data from your LinkedIn account.</target>
       </trans-unit>
       <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn">
         <source>app.importDataFromLinkedIn</source>
         <target>Import data from LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing">
-        <source>app.importDataFromXing</source>
-        <target>Import data from Xing</target>
       </trans-unit>
       <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle">
         <source>app.profileGroupPersonalTitle</source>

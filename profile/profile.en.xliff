@@ -947,6 +947,14 @@
         <source>app.employer.disabledField.companyInformation</source>
         <target>Company information editing is disabled unless your account is approved.</target>
       </trans-unit>
+      <trans-unit id="fd7be620eb1a4e81975c3dd237289e96" resname="app.profile.templates.optgroupRegionsLabel">
+        <source>app.profile.templates.optgroupRegionsLabel</source>
+        <target>Regions</target>
+      </trans-unit>
+      <trans-unit id="34b83f5d03b647399cc510c78f55ab00" resname="app.profile.templates.optgroupCountriesLabel">
+        <source>app.profile.templates.optgroupCountriesLabel</source>
+        <target>Countries</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

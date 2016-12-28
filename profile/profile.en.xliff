@@ -823,8 +823,8 @@
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.error.totalYearsExp">
-        <source>app.profile.error.totalYearsExp</source>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.errors.totalYearsExp">
+        <source>app.profile.errors.totalYearsExp</source>
         <target>Total years of Experience can be only numeric and be between 0 and 100</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
@@ -954,6 +954,146 @@
       <trans-unit id="34b83f5d03b647399cc510c78f55ab00" resname="app.profile.templates.optgroupCountriesLabel">
         <source>app.profile.templates.optgroupCountriesLabel</source>
         <target>Countries</target>
+      </trans-unit>
+      <trans-unit id="941a0a31ba124f729cb4e41569acf4b7" resname="app.profile.errors.missingLanguageLevel">
+        <source>app.profile.errors.missingLanguageLevel</source>
+        <target>Missing language level</target>
+      </trans-unit>
+      <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields">
+        <source>app.profile.errors.requiredFields</source>
+        <target>Required fields should not be empty</target>
+      </trans-unit>
+      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty">
+        <source>app.profile.errors.missingSpecialty</source>
+        <target>Missing specialty</target>
+      </trans-unit>
+      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty">
+        <source>app.profile.errors.emptySpecialty</source>
+        <target>Speciality should not be empty</target>
+      </trans-unit>
+      <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword">
+        <source>app.profile.errors.requiredFieldCurrentPassword</source>
+        <target>Current password is a required field</target>
+      </trans-unit>
+      <trans-unit id="fcc45cbc146043cea412edd3a51ea303" resname="app.profile.errors.invalidCurrentPassword">
+        <source>app.profile.errors.invalidCurrentPassword</source>
+        <target>Current password is invalid</target>
+      </trans-unit>
+      <trans-unit id="1d61a629c8534f4c874538a2211bbe10" resname="app.profile.errors.passwordIsNotMatch">
+        <source>app.profile.errors.passwordIsNotMatch</source>
+        <target>Passwords do not match</target>
+      </trans-unit>
+      <trans-unit id="dc58bba378c04c81b7fdd44392ece28f" resname="app.profile.errors.emailAlreadyExist">
+        <source>app.profile.errors.emailAlreadyExist</source>
+        <target>User with such email already exists</target>
+      </trans-unit>
+      <trans-unit id="abfedc13c19c4c6fb78d14e09a2cc041" resname="app.profile.errors.invalidRescueEmail">
+        <source>app.profile.errors.invalidRescueEmail</source>
+        <target>Invalid rescue email</target>
+      </trans-unit>
+      <trans-unit id="665da491d2d04e748c862df2f8acff2c" resname="app.profile.pendingMessages.newEmail">
+        <source>app.profile.pendingMessages.newEmail</source>
+        <target>New email is pending, check your inbox to confirm it</target>
+      </trans-unit>
+      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay">
+        <source>app.profile.errors.invalidBDay</source>
+        <target>The date of birthday is not valid</target>
+      </trans-unit>
+      <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName">
+        <source>app.profile.errors.requiredFieldFirstName</source>
+        <target>First name should not be empty</target>
+      </trans-unit>
+      <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName">
+        <source>app.profile.errors.requiredFieldLastName</source>
+        <target>Last name should not be empty</target>
+      </trans-unit>
+      <trans-unit id="da5c6ced137849d9b6009dc8acab6dbd" resname="app.profile.errors.missingRegion">
+        <source>app.profile.errors.missingRegion</source>
+        <target>Missing region</target>
+      </trans-unit>
+      <trans-unit id="19d87ba0d073497d8d8b5f52d71dbe25" resname="app.profile.errors.missingCountry">
+        <source>app.profile.errors.missingCountry</source>
+        <target>Missing country</target>
+      </trans-unit>
+      <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName">
+        <source>app.profile.errors.requiredFieldCompanyName</source>
+        <target>Company name should not be empty</target>
+      </trans-unit>
+      <trans-unit id="a872ee21285c4aa1a31d3baacb109f61" resname="app.profile.errors.invalidZip">
+        <source>app.profile.errors.invalidZip</source>
+        <target>Zip can be only numeric and not be less than 0</target>
+      </trans-unit>
+      <trans-unit id="5913b6b2eddd4293a781cde954552b53" resname="app.profile.errors.invalidSize">
+        <source>app.profile.errors.invalidSize</source>
+        <target>Size can be only numeric and not be less than 0</target>
+      </trans-unit>
+      <trans-unit id="0f95d32bc24e4e0f8b11c5200a7b08cf" resname="app.profile.errors.invalidTurnover">
+        <source>app.profile.errors.invalidTurnover</source>
+        <target>Annual turnover can be only numeric and not be less than 0</target>
+      </trans-unit>
+      <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion">
+        <source>app.profile.errors.requiredFieldCountryRegion</source>
+        <target>Country/region field should not be empty</target>
+      </trans-unit>
+      <trans-unit id="7757e0b228d048a4a738fc2a6badd24a" resname="app.profile.errors.exceededLimit">
+        <source>app.profile.errors.exceededLimit</source>
+        <target>You have exceeded the maximum number of characters</target>
+      </trans-unit>
+      <trans-unit id="d58ae52dffb0462485454c0937b4e050" resname="app.profile.errors.requiredFieldSkill">
+        <source>app.profile.errors.requiredFieldSkill</source>
+        <target>Skill name should not be empty</target>
+      </trans-unit>
+      <trans-unit id="7ea164943c7b4738a5fef1fefd7fd649" resname="app.profile.errors.requiredFieldQualification">
+        <source>app.profile.errors.requiredFieldQualification</source>
+        <target>Qualification/degree and level fields should not be empty</target>
+      </trans-unit>
+      <trans-unit id="58c0c488c3a94c7abdd91719ef7a4165" resname="app.profile.errors.requiredFieldsCompanyTitleJobTitle">
+        <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
+        <target>Company and job title fields should not be empty</target>
+      </trans-unit>
+      <trans-unit id="e44df22d0af94a6f944743a0d1d4a60e" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="1e11659cd4db4fb0be0e0343bd752259" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="19748d41f15c4e709ae09c62340dd31d" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="ee23854d1d724c2798edf82064f455e6" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="e77bc71995414b48aa5c9126cae0850a" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="eb19808b3cf24c9bb06e7490a8d3e98c" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="118bf3d83b8f47f39e7c2f9b23810706" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="8af335feed454298933ed1bc31db4f24" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="1970dd98469f49dcbc492247372313e2" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="d621886ed0a14e629ca9febc3c849c66" resname="">
+        <source></source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="b9fc977eb57e481eb31577bd1f96a09c" resname="">
+        <source></source>
+        <target></target>
       </trans-unit>
     </body>
   </file>

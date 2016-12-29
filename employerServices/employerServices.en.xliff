@@ -237,29 +237,29 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target>send inquiry</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target/>
+        <target state="translated">TEST SOURCING</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
-        <target>Your jobs are online on TransportTalent.com and displayed to our global auidience</target>
+        <target state="translated">Your jobs are online on TransportTalent.com and displayed to our global audience. Our Basic package comes with a limitation of maximum 10 jobs per year - all other packages are unlimited.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target>With our company profile you will be able to tell the audience about your company and display your open positions next to it</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target>With a Medium or Enterprise account you will have access to your own account manager that can help you make the most of your subscription</target>
+        <target state="translated">With an Advanced or Enterprise account you will have access to your own account manager that can help you make the most of your subscription</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target>We create a direct link to your career page on your website or your ATS so that all of your jobs will automatically get uploaded on transporttalent.com with any manual work form your side </target>
+        <target state="translated">We create a direct link to your career page on your website or your ATS so that all of your jobs will automatically get uploaded on transporttalent.com without any manual work form your side</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target>We post of all jobs on our social media channels (FB &amp; TW)</target>
+        <target state="translated">We post of all jobs on our social media channels (Facebook &amp; Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>

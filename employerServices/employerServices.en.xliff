@@ -53,9 +53,9 @@
         <source>app.employerService.section.singleJobPost.description</source>
         <target>We believe in simple pricing models. Our flat fee prices are easy to understand and predictable for you. No hidden fees and no surprises.</target>
       </trans-unit>
-      <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1">
+      <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow1</source>
-        <target>Discount on 1 sourcing mandiate (normal price 6k EUR)</target>
+        <target state="translated">Discount on your first sourcing mandiate</target>
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
@@ -157,21 +157,21 @@
         <source>app.employerService.section.flatrate.addonsDescription</source>
         <target>To make your job-ad’s even more successful we offer a number of add-ons. Just click on "details" for more info about each. Below add-ons can be purchased for important positions where you wish to get extra attention to get them filled quickly.</target>
       </trans-unit>
-      <trans-unit id="6733069c149745fd858a546168712fe3" resname="app.employerService.section.flatrate.firstAddonLabel">
+      <trans-unit id="6733069c149745fd858a546168712fe3" resname="app.employerService.section.flatrate.firstAddonLabel" approved="yes">
         <source>app.employerService.section.flatrate.firstAddonLabel</source>
-        <target>Social Media Booster*</target>
+        <target state="translated">Social Media Booster**</target>
       </trans-unit>
       <trans-unit id="9be1a885b25645cdbf247a0fca8b9b46" resname="app.employerService.section.flatrate.priceInfo">
         <source>app.employerService.section.flatrate.priceInfo</source>
         <target>(billed per job)</target>
       </trans-unit>
-      <trans-unit id="7ae06ae79ab24816bd30258f1b115be6" resname="app.employerService.section.flatrate.secondAddonLabel">
+      <trans-unit id="7ae06ae79ab24816bd30258f1b115be6" resname="app.employerService.section.flatrate.secondAddonLabel" approved="yes">
         <source>app.employerService.section.flatrate.secondAddonLabel</source>
-        <target>Referral Campaign</target>
+        <target state="translated">Referral Campaign**</target>
       </trans-unit>
-      <trans-unit id="4fb35e7e89654d9382ac6ee0afabec3e" resname="app.employerService.section.flatrate.thirdAddonLabel">
+      <trans-unit id="4fb35e7e89654d9382ac6ee0afabec3e" resname="app.employerService.section.flatrate.thirdAddonLabel" approved="yes">
         <source>app.employerService.section.flatrate.thirdAddonLabel</source>
-        <target>Outreach to 8 Candidates**</target>
+        <target state="translated">Outreach to Candidates**</target>
       </trans-unit>
       <trans-unit id="428acae114ea420dad21a92d4fae1507" resname="app.employerService.section.flatrate.note">
         <source>app.employerService.section.flatrate.note</source>
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr">
         <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>

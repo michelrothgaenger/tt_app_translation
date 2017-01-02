@@ -65,6 +65,10 @@
         <source>app.header.userSubmenu.savedCompanies</source>
         <target>Saved Companies</target>
       </trans-unit>
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts">
+        <source>app.header.userSubmenu.alerts</source>
+        <target>Job Alerts</target>
+      </trans-unit>
       <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle">
         <source>app.header.section.navigate.menuTitle</source>
         <target>Menu</target>

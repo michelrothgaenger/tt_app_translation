@@ -113,6 +113,10 @@
         <source>app.header.userSubmenu.companyProfile</source>
         <target>Company Profile</target>
       </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies">
+        <source>app.header.userSidemenu.companies</source>
+        <target>Companies</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

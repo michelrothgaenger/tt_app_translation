@@ -109,6 +109,14 @@
         <source>app.header.userSubmenu.companyProfile</source>
         <target state="translated">Unternehmensprofile</target>
       </trans-unit>
+    <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="yes">
+        <source>app.header.userSubmenu.alerts</source>
+        <target state="translated">Suchagenten</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies" approved="yes">
+        <source>app.header.userSidemenu.companies</source>
+        <target state="translated">Unternehmen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

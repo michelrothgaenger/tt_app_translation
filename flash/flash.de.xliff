@@ -37,6 +37,10 @@
           <source>app.flash.job.employer.saved</source>
           <target state="translated">Job wurde gespeichert</target>
         </trans-unit>
-    </body>
+    <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
+          <source>app.flash.oauthError</source>
+          <target state="translated">Authentifizierung über %serviceName% fehlgeschlagen, bitte versuchen Sie es erneut</target>
+        </trans-unit>
+        </body>
   </file>
 </xliff>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title">
+      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target>Información sobre nosotros</target>
+        <target state="translated">Transport Talent - Quienes somos</target>
       </trans-unit>
       <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>

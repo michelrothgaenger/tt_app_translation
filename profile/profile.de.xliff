@@ -913,7 +913,7 @@
       </trans-unit>
       <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
         <source>app.employer.disabledField.companyBranding</source>
-        <target state="translated">Das Firmen-Branding ist deaktiviert bis Ihr Konto bestätigt wurde.</target>
+        <target state="translated">Das Firmen-Branding ist erst verfügbar, wenn Ihr Konto bestätigt wurde.</target>
       </trans-unit>
       <trans-unit id="fd7be620eb1a4e81975c3dd237289e96" resname="app.profile.templates.optgroupRegionsLabel" approved="yes">
         <source>app.profile.templates.optgroupRegionsLabel</source>
@@ -1026,6 +1026,22 @@
       <trans-unit id="c6a654ab24ff4b7cbc57ebf18ddbb449" resname="app.employer.disabledField.companyInformation" approved="yes">
         <source>app.employer.disabledField.companyInformation</source>
         <target state="translated">Die Unternehmensinformationen sind deaktiviert bis Ihr Konto bestätigt wurde.</target>
+      </trans-unit>
+      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.description</source>
+        <target state="translated">Verwalten Sie Ihre Stellenanzeigen</target>
+      </trans-unit>
+      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.title</source>
+        <target state="translated">Unternehmensprofil</target>
+      </trans-unit>
+      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.description</source>
+        <target state="translated">Verwalten Sie Ihr Unternehmensprofil</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.errors.totalYearsExp" approved="yes">
+        <source>app.profile.errors.totalYearsExp</source>
+        <target state="translated">Die Berufserfahrung in Jahren kann nur numerisch sein und muss zwischen 0 und 100 liegen</target>
       </trans-unit>
       </body>
   </file>

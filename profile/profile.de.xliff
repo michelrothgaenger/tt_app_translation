@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc" approved="yes">
         <source>app.profileGroupImportDesc</source>
-        <target state="translated">Übernehmen Sie vorhandene Daten aus Ihrem Xing- oder LinkedIn-Profil.</target>
+        <target state="translated">Übernehmen Sie vorhandene Daten aus Ihrem LinkedIn-Profil.</target>
       </trans-unit>
       <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
@@ -858,6 +858,190 @@
       <trans-unit id="b90a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.companyJobs.tile.title" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.title</source>
         <target state="translated">Jobs</target>
+      </trans-unit>
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="yes">
+        <source>app.profile.section.jobAlerts.title</source>
+        <target state="translated">Suchagenten</target>
+      </trans-unit>
+      <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
+        <source>app.profile.section.jobAlerts.createButtonTitle</source>
+        <target state="translated">Suchagenten einrichten</target>
+      </trans-unit>
+      <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.title</source>
+        <target state="translated">Speichern</target>
+      </trans-unit>
+      <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.note</source>
+        <target state="translated">Hinweis: Pflichtfelder sind mit (*) markiert.</target>
+      </trans-unit>
+      <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
+        <target state="translated">Titel*</target>
+      </trans-unit>
+      <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
+        <target state="translated">Sendeintervall*</target>
+      </trans-unit>
+      <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
+        <target state="translated">Täglich</target>
+      </trans-unit>
+      <trans-unit id="9d2332b8697b459aa30f318df509e210" resname="app.profile.section.jobAlerts.section.popup.weeklyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.weeklyOption</source>
+        <target state="translated">Wöchentlich</target>
+      </trans-unit>
+      <trans-unit id="f0eccbbc9b944a9cac0ed4be45876ed5" resname="app.profile.section.jobAlerts.section.popup.monthlyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.monthlyOption</source>
+        <target state="translated">Monatlich</target>
+      </trans-unit>
+      <trans-unit id="187021f89a8748ff903340b94621c6a4" resname="app.profile.section.jobAlerts.section.popup.saveButtonLabel" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.saveButtonLabel</source>
+        <target state="translated">Speichern</target>
+      </trans-unit>
+      <trans-unit id="8cf9b47a88854c99bd22ac54becd214e" resname="app.profile.section.jobAlert.itemTitle" approved="yes">
+        <source>app.profile.section.jobAlert.itemTitle</source>
+        <target state="translated">Suchagenten für</target>
+      </trans-unit>
+      <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
+        <source>app.profile.section.jobAlert.deleteButtonLabel</source>
+        <target state="translated">Löschen</target>
+      </trans-unit>
+      <trans-unit id="be38ccc621b04c4b8a32a0f44c329180" resname="app.profile.settings.language.label" approved="yes">
+        <source>app.profile.settings.language.label</source>
+        <target state="translated">Sprache</target>
+      </trans-unit>
+      <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
+        <source>app.employer.disabledField.companyBranding</source>
+        <target state="translated">Das Firmen-Branding ist erst verfügbar, wenn Ihr Konto bestätigt wurde.</target>
+      </trans-unit>
+      <trans-unit id="fd7be620eb1a4e81975c3dd237289e96" resname="app.profile.templates.optgroupRegionsLabel" approved="yes">
+        <source>app.profile.templates.optgroupRegionsLabel</source>
+        <target state="translated">Regionen</target>
+      </trans-unit>
+      <trans-unit id="34b83f5d03b647399cc510c78f55ab00" resname="app.profile.templates.optgroupCountriesLabel" approved="yes">
+        <source>app.profile.templates.optgroupCountriesLabel</source>
+        <target state="translated">Länder</target>
+      </trans-unit>
+      <trans-unit id="941a0a31ba124f729cb4e41569acf4b7" resname="app.profile.errors.missingLanguageLevel" approved="yes">
+        <source>app.profile.errors.missingLanguageLevel</source>
+        <target state="translated">Fehlendes Sprachniveau</target>
+      </trans-unit>
+      <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields" approved="yes">
+        <source>app.profile.errors.requiredFields</source>
+        <target state="translated">Pflichtfelder dürfen nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty" approved="yes">
+        <source>app.profile.errors.missingSpecialty</source>
+        <target state="translated">Fehlendes Fachgebiet</target>
+      </trans-unit>
+      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty" approved="yes">
+        <source>app.profile.errors.emptySpecialty</source>
+        <target state="translated">Fachgebiet darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
+        <source>app.profile.errors.requiredFieldCurrentPassword</source>
+        <target state="translated">Aktuelles Passwort erforderlich</target>
+      </trans-unit>
+      <trans-unit id="fcc45cbc146043cea412edd3a51ea303" resname="app.profile.errors.invalidCurrentPassword" approved="yes">
+        <source>app.profile.errors.invalidCurrentPassword</source>
+        <target state="translated">Aktuelles Passwort ist ungültig</target>
+      </trans-unit>
+      <trans-unit id="1d61a629c8534f4c874538a2211bbe10" resname="app.profile.errors.passwordIsNotMatch" approved="yes">
+        <source>app.profile.errors.passwordIsNotMatch</source>
+        <target state="translated">Passwörter stimmen nicht überein</target>
+      </trans-unit>
+      <trans-unit id="dc58bba378c04c81b7fdd44392ece28f" resname="app.profile.errors.emailAlreadyExist" approved="yes">
+        <source>app.profile.errors.emailAlreadyExist</source>
+        <target state="translated">Es ist bereits ein Nutzer mit dieser E-Mail-Adresse vorhanden</target>
+      </trans-unit>
+      <trans-unit id="abfedc13c19c4c6fb78d14e09a2cc041" resname="app.profile.errors.invalidRescueEmail" approved="yes">
+        <source>app.profile.errors.invalidRescueEmail</source>
+        <target state="translated">Ungültige E-Mail-Adresse zur Wiederherstellung</target>
+      </trans-unit>
+      <trans-unit id="665da491d2d04e748c862df2f8acff2c" resname="app.profile.pendingMessages.newEmail" approved="yes">
+        <source>app.profile.pendingMessages.newEmail</source>
+        <target state="translated">Eine E-Mail wurde versandt – bitte prüfen Sie Ihr Postfach</target>
+      </trans-unit>
+      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay" approved="yes">
+        <source>app.profile.errors.invalidBDay</source>
+        <target state="translated">Ungültiges Geburtsdatum</target>
+      </trans-unit>
+      <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName" approved="yes">
+        <source>app.profile.errors.requiredFieldFirstName</source>
+        <target state="translated">Vorname darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName" approved="yes">
+        <source>app.profile.errors.requiredFieldLastName</source>
+        <target state="translated">Nachname darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="da5c6ced137849d9b6009dc8acab6dbd" resname="app.profile.errors.missingRegion" approved="yes">
+        <source>app.profile.errors.missingRegion</source>
+        <target state="translated">Fehlende Region</target>
+      </trans-unit>
+      <trans-unit id="19d87ba0d073497d8d8b5f52d71dbe25" resname="app.profile.errors.missingCountry" approved="yes">
+        <source>app.profile.errors.missingCountry</source>
+        <target state="translated">Fehlendes Land</target>
+      </trans-unit>
+      <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName" approved="yes">
+        <source>app.profile.errors.requiredFieldCompanyName</source>
+        <target state="translated">Unternehmensname darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="a872ee21285c4aa1a31d3baacb109f61" resname="app.profile.errors.invalidZip" approved="yes">
+        <source>app.profile.errors.invalidZip</source>
+        <target state="translated">Postleitzahl darf nur Zahlen enthalten und nicht kleiner als 0 sein</target>
+      </trans-unit>
+      <trans-unit id="5913b6b2eddd4293a781cde954552b53" resname="app.profile.errors.invalidSize" approved="yes">
+        <source>app.profile.errors.invalidSize</source>
+        <target state="translated">Größe darf nur Zahlen enthalten und nicht kleiner als 0 sein</target>
+      </trans-unit>
+      <trans-unit id="0f95d32bc24e4e0f8b11c5200a7b08cf" resname="app.profile.errors.invalidTurnover" approved="yes">
+        <source>app.profile.errors.invalidTurnover</source>
+        <target state="translated">Jahresumsatz darf nur Zahlen enthalten und nicht kleiner als 0 sein</target>
+      </trans-unit>
+      <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion" approved="yes">
+        <source>app.profile.errors.requiredFieldCountryRegion</source>
+        <target state="translated">Land/Region darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="7757e0b228d048a4a738fc2a6badd24a" resname="app.profile.errors.exceededLimit" approved="yes">
+        <source>app.profile.errors.exceededLimit</source>
+        <target state="translated">Sie haben die maximale Anzahl an Zeichen überschritten</target>
+      </trans-unit>
+      <trans-unit id="d58ae52dffb0462485454c0937b4e050" resname="app.profile.errors.requiredFieldSkill" approved="yes">
+        <source>app.profile.errors.requiredFieldSkill</source>
+        <target state="translated">Kompetenzen darf nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="7ea164943c7b4738a5fef1fefd7fd649" resname="app.profile.errors.requiredFieldQualification" approved="yes">
+        <source>app.profile.errors.requiredFieldQualification</source>
+        <target state="translated">Qualifikation/Abschluss und Niveau dürfen nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="58c0c488c3a94c7abdd91719ef7a4165" resname="app.profile.errors.requiredFieldsCompanyTitleJobTitle" approved="yes">
+        <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
+        <target state="translated">Unternehmen und Position dürfen nicht leer sein</target>
+      </trans-unit>
+      <trans-unit id="9c70e8111c124a8a96cfd89af10b664c" resname="app.employer.disabledField.companyAddress" approved="yes">
+        <source>app.employer.disabledField.companyAddress</source>
+        <target state="translated">Die Unternehmensadresse ist deaktiviert bis Ihr Konto bestätigt wurde.</target>
+      </trans-unit>
+      <trans-unit id="c6a654ab24ff4b7cbc57ebf18ddbb449" resname="app.employer.disabledField.companyInformation" approved="yes">
+        <source>app.employer.disabledField.companyInformation</source>
+        <target state="translated">Die Unternehmensinformationen sind deaktiviert bis Ihr Konto bestätigt wurde.</target>
+      </trans-unit>
+      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.description</source>
+        <target state="translated">Verwalten Sie Ihre Stellenanzeigen</target>
+      </trans-unit>
+      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.title</source>
+        <target state="translated">Unternehmensprofil</target>
+      </trans-unit>
+      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.description</source>
+        <target state="translated">Verwalten Sie Ihr Unternehmensprofil</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.errors.totalYearsExp" approved="yes">
+        <source>app.profile.errors.totalYearsExp</source>
+        <target state="translated">Die Berufserfahrung in Jahren kann nur numerisch sein und muss zwischen 0 und 100 liegen</target>
       </trans-unit>
       </body>
   </file>

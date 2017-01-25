@@ -681,6 +681,10 @@
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>
-    </body>
+    <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+        <source>app.signInWithGoogle</source>
+        <target state="translated">Inicia sessión con Google</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

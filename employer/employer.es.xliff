@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>
-        <target state="translated">Oficina principal</target>
+        <target state="translated">Oficina Central</target>
       </trans-unit>
       <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target state="translated">Guardar en página de perfil</target>
+        <target state="translated">Seguir</target>
       </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile" approved="yes">
         <source>app.goToNextCompanyProfile</source>
@@ -79,8 +79,36 @@
       </trans-unit>
     <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
         <source>app.employer.button.savedToProfile</source>
-        <target state="translated">Guardado en la página de perfil</target>
+        <target state="translated">Dejar de seguir</target>
       </trans-unit>
-      </body>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+        <source>app.employer.info.jobsOnline.title</source>
+        <target state="translated">Vacantes publicadas</target>
+      </trans-unit>
+      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
+        <source>app.employer.linkToJobsTitle</source>
+        <target state="translated">Ver todas las vacantes</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
+        <source>app.employer.currentJobs.title</source>
+        <target state="translated">Vacantes actuales en %company%</target>
+      </trans-unit>
+      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
+        <source>app.employer.info.jobsOnline.text</source>
+        <target state="translated">Actualmente hay %count% vacantes en %company%</target>
+      </trans-unit>
+      <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted" approved="yes">
+        <source>app.employer.jobBlock.posted</source>
+        <target state="translated">Publicado</target>
+      </trans-unit>
+      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50640" resname="app.employer.jobBlock.saved" approved="yes">
+        <source>app.employer.jobBlock.saved</source>
+        <target state="translated">Guardado</target>
+      </trans-unit>
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.employer.jobBlock.save" approved="yes">
+        <source>app.employer.jobBlock.save</source>
+        <target state="translated">Guardar</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -689,10 +689,6 @@
         <source>Failed to resize image</source>
         <target state="translated">Không thể thay đổi kích thước hình ảnh</target>
       </trans-unit>
-    <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.error.totalYearsExp" approved="yes">
-        <source>app.profile.error.totalYearsExp</source>
-        <target state="translated">Tổng số năm kinh nghiệm có thể chỉ bằng số và từ 0 đến 100</target>
-      </trans-unit>
     <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Transport Talent cho phép Ngài kiểm soát được các công ty thú vị từ lĩnh vực vận tải và kho vận. Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài.</target>

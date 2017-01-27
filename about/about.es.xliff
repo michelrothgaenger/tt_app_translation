@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title">
+      <trans-unit id="cd1c3ac9a92e7e583f0e4a5d136374e1" resname="app.about.meta.title" approved="yes">
         <source>app.about.meta.title</source>
-        <target>Información sobre nosotros</target>
+        <target state="translated">Transport Talent - Quienes somos</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="no">
         <source>app.about.meta.description</source>
-        <target state="translated">Somos un grupo internacional de expertos en el sector de  logística y transporte. Quién está detrás del nuevo sistema de busqueda de personal? Somos el equipo de Transport Talent.</target>
+        <target state="needs-translation">Somos un grupo internacional de expertos en el sector de  logística y transporte. Quién está detrás del nuevo sistema de busqueda de personal? Somos el equipo de Transport Talent.</target>
       </trans-unit>
       <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>

@@ -145,8 +145,8 @@
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
         <target>This field is required for post job later.</target>
       </trans-unit>
-      <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.postJobLaterButtonLabel">
-        <source>app.employerJobCRUD.postJobLaterButtonLabel</source>
+      <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.buttonLabel.postJobLater">
+        <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
         <target>POST JOB LATER</target>
       </trans-unit>
       <trans-unit id="696116bd088248978fc7c142ae6bf3e2" resname="app.employerJobCRUD.saveJobForLaterButtonLabel">
@@ -160,6 +160,18 @@
       <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime">
         <source>app.employerJobCRUD.labelFromTime</source>
         <target>at</target>
+      </trans-unit>
+      <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput">
+        <source>app.employerJobCRUD.labelAfterHourInput</source>
+        <target>h</target>
+      </trans-unit>
+      <trans-unit id="0e5bdbf1bedb43fd8133aa4edc9ecb66" resname="app.employerJobCRUD.disabledSelectOption">
+        <source>app.employerJobCRUD.disabledSelectOption</source>
+        <target>select an option</target>
+      </trans-unit>
+      <trans-unit id="523e6c14550747b69b5b9e2eb5bbe5ff" resname="app.employerJobCRUD.emptyRequiredInputsAlertMessage">
+        <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
+        <target>Please check fields again</target>
       </trans-unit>
     </body>
   </file>

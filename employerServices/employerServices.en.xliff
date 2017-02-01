@@ -73,13 +73,6 @@
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
         <target><![CDATA[10% off]]></target>
       </trans-unit>
-<<<<<<< HEAD
-=======
-      <trans-unit id="edf0b0812fdb4b5289c5538d551b2406" resname="app.employerService.section.singleJobPost.employersLabel">
-        <source>app.employerService.section.singleJobPost.employersLabel</source>
-        <target>employers</target>
-      </trans-unit>
->>>>>>> ecd88bd1498b6e3fb94af72b35dab177f2ce2414
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target>Unlimited</target>
@@ -220,8 +213,6 @@
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
         <target>Please put text here</target>
       </trans-unit>
-<<<<<<< HEAD
-=======
       <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title">
         <source>app.employerService.hiringSolutions.left.title</source>
         <target>Hiring Solutions</target>
@@ -262,7 +253,6 @@
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
         <target>Please put text here</target>
       </trans-unit>
->>>>>>> ecd88bd1498b6e3fb94af72b35dab177f2ce2414
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1">
               <source>app.employerService.h1</source>
               <target>Job posting solutions for the transport &amp; logistics industry</target>

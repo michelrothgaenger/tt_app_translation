@@ -69,10 +69,6 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="a46af6e2e74247eda9031ffaeaa6e710" resname="app.employerServicesHiringsolutions.detailsLabel">
-        <source>app.employerServicesHiringsolutions.detailsLabel</source>
-        <target></target>
-      </trans-unit>
       <trans-unit id="964c0f4a2f3f4b7cb4357cfe1d07d32c" resname="app.employerServicesHiringsolutions.section.singleJobPost.bookButtonLabel">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.bookButtonLabel</source>
         <target></target>
@@ -128,10 +124,6 @@
       <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr">
         <source>app.employerServicesHiringsolutions.packages.descr</source>
         <target>upon hire*</target>
-      </trans-unit>
-      <trans-unit id="482ffff268c643e49c34866308ebee14" resname="app.employerServicesHiringsolutions.packages.detailsLabel">
-        <source>app.employerServicesHiringsolutions.packages.detailsLabel</source>
-        <target>Details</target>
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
@@ -209,6 +201,78 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
         <target>Our pricing aims to be transparent and minimise your risk. That is why we divide the cost of our service into two parts: an up-front activation fee paired with a placement fee that is due only when the role is filled with a candidate provided by Transport Talent.</target>
       </trans-unit>
+      <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="131a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention">
+        <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retentionDescription">
+        <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retentionDescription</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerService.section.singleJobPost.tableRow11.descr">
+        <source>app.employerService.section.singleJobPost.tableRow11.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention">
+        <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription">
+        <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="925a3a99791c4c28971fad6a01e495ff" resname="app.employerService.section.singleJobPost.tableRow11.descr">
+        <source>app.employerService.section.singleJobPost.tableRow11.descr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title">
+        <source>app.employerServicesHiringsolutions.packages.second.title</source>
+        <target>RECRUTING</target>
+      </trans-unit>
+    <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1">
+        <source>app.employerServicesHiringsolutions.h1</source>
+        <target>Hiring solutions for the transport &amp; logistics industry</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

@@ -93,10 +93,6 @@
         <source>app.employerService.section.singleJobPost.employersLabel</source>
         <target state="translated">Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
-        <source>app.employerService.detailsLabel</source>
-        <target state="translated">Details</target>
-      </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target state="translated">Unlimited</target>

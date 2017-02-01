@@ -101,10 +101,6 @@
         <source>app.employerService.section.singleJobPost.employersLabel</source>
         <target>employers</target>
       </trans-unit>
-      <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
-        <source>app.employerService.detailsLabel</source>
-        <target>Details</target>
-      </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target>Unlimited</target>
@@ -293,6 +289,50 @@
         <source>app.employerService.bookedMsg</source>
         <target>Service requested, we will get back to you soon</target>
       </trans-unit>
+      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title">
+        <source>app.employerService.hiringSolutions.left.title</source>
+        <target>Hiring Solutions</target>
+      </trans-unit>
+      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr">
+        <source>app.employerService.hiringSolutions.left.descr</source>
+        <target>Our favorite and most helpful courses from around the web all in one place</target>
+      </trans-unit>
+      <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn">
+        <source>app.employerService.hiringSolutions.left.btn</source>
+        <target>See Offer</target>
+      </trans-unit>
+      <trans-unit id="953f03de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.title">
+        <source>app.employerService.hiringSolutions.right.title</source>
+        <target>LET US HELP YOU FIND THE BEST CANDIDATES</target>
+      </trans-unit>
+      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr">
+        <source>app.employerService.hiringSolutions.right.descr</source>
+        <target>Our favorite and most helpful courses from around the web all in one place</target>
+      </trans-unit>
+      <trans-unit id="953f05de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.btn">
+        <source>app.employerService.hiringSolutions.right.btn</source>
+        <target>See Offer</target>
+      </trans-unit>
+      <trans-unit id="953f06de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.free">
+        <source>app.employerService.section.singleJobPost.section.smallBusiness.free</source>
+        <target>Free</target>
+      </trans-unit>
+      <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr">
+        <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr">
+        <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr">
+        <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
+        <target>Please put text here</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1">
+              <source>app.employerService.h1</source>
+              <target>Job posting solutions for the transport &amp; logistics industry</target>
+          </trans-unit>
     </body>
   </file>
 </xliff>

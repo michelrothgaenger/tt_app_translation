@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
+        <source>app.employerService.detailsLabel</source>
+        <target state="translated">Details</target>
+      </trans-unit>
+      <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerService.section.singleJobPost.bookButtonLabel" approved="yes">
+              <source>app.employerService.section.singleJobPost.bookButtonLabel</source>
+              <target state="translated">Buchen</target>
+            </trans-unit>
+    </body>
+  </file>
+</xliff>

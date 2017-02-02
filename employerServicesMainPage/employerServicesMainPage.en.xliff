@@ -31,23 +31,23 @@
       </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
       <source>app.employerServiceMainPage.section.choice.header</source>
-      <target state="translated">Choose the package that fits your company</target>
+      <target state="translated">Job Posting Solutions</target>
     </trans-unit>
     <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
-      <target state="translated">Subscription</target>
+      <target state="translated">See job posting solutions </target>
     </trans-unit>
     <trans-unit id="08ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonDescription</source>
-      <target state="translated">Click here if you want to post more than 5 vacancies a year</target>
+      <target state="translated">Have all your vacancies online for a fixed annual price</target>
     </trans-unit>
-    <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel">
+    <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonLabel</source>
-      <target>Single Job Posting</target>
+      <target state="translated">see hiring solutions</target>
     </trans-unit>
-    <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription">
+    <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target>Click here if you want to post less than 5 vacancies a year</target>
+      <target state="translated">You need short term support by our sourcing and recruiting experts?</target>
     </trans-unit>
     <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
         <source>app.employerService.detailsLabel</source>
@@ -57,17 +57,17 @@
         <source>app.employerService.serviceBooking.thankYou</source>
         <target>Thank you</target>
     </trans-unit>
-    <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription">
+    <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
-        <target>Thank you very much we really appreciate it, you are our hero and a real human bean!</target>
+        <target state="translated">Thank you very much we really appreciate it! We will reach out to you short term.</target>
     </trans-unit>
     <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose">
         <source>app.employerService.serviceBooking.thankYouClose</source>
         <target>Close window</target>
     </trans-unit>
-    <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton">
+    <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
-        <target>Register now - it's free</target>
+        <target state="translated">Register now</target>
     </trans-unit>
     <trans-unit id="053f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpCTA">
         <source>app.employerServiceMainPage.signUpCTA</source>

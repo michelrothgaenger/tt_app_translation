@@ -151,7 +151,7 @@
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</target>
+        <target state="translated">Shortlisting</target>
       </trans-unit>
       <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
@@ -165,9 +165,9 @@
         <source>app.employerService.section.singleJobPost.tableRow11.descr</source>
         <target>Please put text here</target>
       </trans-unit>
-      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting">
+      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target>Please put text here</target>
+        <target state="translated">Recruiting</target>
       </trans-unit>
       <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>

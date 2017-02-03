@@ -9,8 +9,8 @@
         <source>app.home</source>
         <target>Home</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
-        <source>app.profile</source>
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.header.userSubmenu.profile" approved="yes">
+        <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profile</target>
       </trans-unit>
       <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
@@ -112,10 +112,6 @@
       <trans-unit id="260d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.companyProfile">
         <source>app.header.userSubmenu.companyProfile</source>
         <target>Company Profile</target>
-      </trans-unit>
-      <trans-unit id="260d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.profile">
-        <source>app.header.userSubmenu.profile</source>
-        <target>Profile</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies">
         <source>app.header.userSidemenu.companies</source>

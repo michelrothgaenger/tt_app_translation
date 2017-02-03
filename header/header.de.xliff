@@ -9,8 +9,8 @@
         <source>app.home</source>
         <target state="translated">Startseite</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
-        <source>app.profile</source>
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.header.userSubmenu.profile" approved="yes">
+        <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
       <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">

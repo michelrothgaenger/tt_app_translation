@@ -113,13 +113,25 @@
         <source>app.header.userSubmenu.companyProfile</source>
         <target>Company Profile</target>
       </trans-unit>
-      <trans-unit id="260d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.Profile">
-        <source>app.header.userSubmenu.Profile</source>
+      <trans-unit id="260d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.profile">
+        <source>app.header.userSubmenu.profile</source>
         <target>Profile</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies">
         <source>app.header.userSidemenu.companies</source>
         <target>Companies</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab81" resname="app.header.userSubmenu.services">
+        <source>app.header.userSubmenu.services</source>
+        <target>Services</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings">
+        <source>app.header.userSubmenu.jobPostings</source>
+        <target>Job postings</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions">
+        <source>app.header.userSubmenu.hiringSolutions</source>
+        <target>Hiring solutions</target>
       </trans-unit>
     </body>
   </file>

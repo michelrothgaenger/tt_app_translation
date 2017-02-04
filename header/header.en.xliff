@@ -129,6 +129,10 @@
         <source>app.header.userSubmenu.hiringSolutions</source>
         <target>Hiring solutions</target>
       </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs">
+        <source>app.header.userSubmenu.manageJobs</source>
+        <target>Manage jobs</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

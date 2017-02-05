@@ -157,6 +157,22 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target>send inquiry</target>
       </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin">
+        <source>app.employerService.popup.inputs.submitValueLoggedin</source>
+        <target>book packages</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.input.confirmRight">
+        <source>app.employerService.popup.input.confirmRight</source>
+        <target>I herewith confirm to have the right to post this request</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047561" resname="app.employerService.popup.input.confirmCost">
+        <source>app.employerService.popup.input.confirmCost</source>
+        <target>I herewith confirm the cost of</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047562" resname="app.employerService.popup.input.invoiceAdress">
+        <source>app.employerService.popup.input.invoiceAdress</source>
+        <target>Invoice goes to</target>
+      </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
         <target state="translated">Your jobs are online on TransportTalent.com and displayed to our global audience. Our Basic package comes with a limitation of maximum 10 jobs per year - all other packages are unlimited.</target>

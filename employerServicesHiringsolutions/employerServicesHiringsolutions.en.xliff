@@ -213,6 +213,10 @@
         <source>app.employerServicesHiringsolutions.meta.description</source>
         <target>Meta description for google</target>
     </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047015" resname="app.employerServicesHiringsolutions.packages.perHiredCandidate">
+        <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
+        <target>per hired candidate*</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

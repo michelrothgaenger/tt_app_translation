@@ -37,10 +37,6 @@
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel</source>
         <target state="translated">Standard-Unternehmensprofil</target>
       </trans-unit>
-      <trans-unit id="723c5439e7d94a8081934e78e0e72575" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel</source>
-        <target state="translated">Persönlicher Ansprechpartner</target>
-      </trans-unit>
       <trans-unit id="668acd417a8844c993be665fdcbccc93" resname="app.employerService.section.singleJobPost.automaticUploadLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
         <target state="translated">Automatischer Upload aller Stellen</target>
@@ -121,10 +117,6 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target state="translated">Anfrage absenden</target>
       </trans-unit>
-    <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow1</source>
-        <target state="translated">Rabatt auf Ihr erstes Mandat</target>
-      </trans-unit>
       <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
         <target state="translated">10% Rabatt</target>
@@ -145,10 +137,6 @@
         <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
         <target state="translated">100% Rabatt</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target state="translated">Probeakquise</target>
-      </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
         <target state="translated">Ihre Stellenanzeigen erreichen über TransportTalent.com weltweit Kandidaten. Unser Basic-Paket umfasst bis zu 10 Stellenanzeigen pro Jahr - alle anderen Pakete sind unbegrenzt.</target>
@@ -156,10 +144,6 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target state="translated">Präsentieren Sie Ihr Unternehmen mit dem Unternehmensprofil, welches neben Ihren offenen Positionen angezeigt wird</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">Holen Sie das Beste aus Ihrem Paket heraus: Als Advanced- oder Enterprise-Kunde profitieren Sie von einem persönlichen Kundenberater</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>

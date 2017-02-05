@@ -33,6 +33,10 @@
       <source>app.employerServiceMainPage.section.choice.header</source>
       <target state="translated">Job Posting Solutions</target>
     </trans-unit>
+      <trans-unit id="06ebaf7ef5911acd49151ec6438027d2" resname="app.employerServiceMainPage.hiringSolutions.header" approved="yes">
+      <source>app.employerServiceMainPage.hiringSolutions.header</source>
+      <target state="translated">Hiring Solutions</target>
+    </trans-unit>
     <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
       <target state="translated">See job posting solutions </target>

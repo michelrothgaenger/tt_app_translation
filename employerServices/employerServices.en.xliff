@@ -29,21 +29,25 @@
         <source>app.employerService.section.singleJobPost.description</source>
         <target>We believe in simple pricing models. Our flat fee prices are easy to understand and predictable for you. No hidden fees and no surprises.</target>
       </trans-unit>
-      <trans-unit id="97b83dfb0c254aeebd1678961c0a891c" resname="app.employerService.section.singleJobPost.tableRow1" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow1</source>
-        <target state="translated">Discount on your first sourcing mandiate</target>
-      </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
-        <target>Positions online on TransportTalent.com</target>
+        <target>Job postings per year</target>
       </trans-unit>
       <trans-unit id="2e0c93db58534d74bfafc3ee839638d2" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel</source>
-        <target>Standard company profile</target>
+        <target>Company profile</target>
       </trans-unit>
-      <trans-unit id="723c5439e7d94a8081934e78e0e72575" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel">
-        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel</source>
-        <target>Personal account manager</target>
+      <trans-unit id="2e0c11db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo">
+        <source>app.employerService.detailsTable.companyLogo</source>
+        <target>Company logo</target>
+      </trans-unit>
+      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr">
+        <source>app.employerService.detailsTable.companyLogo.descr</source>
+        <target>Company logo description</target>
+      </trans-unit>
+      <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel">
+        <source>app.employerService.detailsTable.allPostingsLabel</source>
+        <target>All postings</target>
       </trans-unit>
       <trans-unit id="668acd417a8844c993be665fdcbccc93" resname="app.employerService.section.singleJobPost.automaticUploadLabel">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
@@ -51,7 +55,15 @@
       </trans-unit>
       <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel">
         <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target>Posting of all jobs on social media</target>
+        <target>Shared on social channels</target>
+      </trans-unit>
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement">
+        <source>app.employerService.detailsTable.primePlacement</source>
+        <target>Prime placement</target>
+      </trans-unit>
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement.descr">
+        <source>app.employerService.detailsTable.primePlacement.descr</source>
+        <target>Prime placement description</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -145,10 +157,6 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target>send inquiry</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047001" resname="app.employerService.section.singleJobPost.tableRow1.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow1.descr</source>
-        <target state="translated">TEST SOURCING</target>
-      </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
         <target state="translated">Your jobs are online on TransportTalent.com and displayed to our global audience. Our Basic package comes with a limitation of maximum 10 jobs per year - all other packages are unlimited.</target>
@@ -156,10 +164,6 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target>With our company profile you will be able to tell the audience about your company and display your open positions next to it</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047004" resname="app.employerService.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">With an Advanced or Enterprise account you will have access to your own account manager that can help you make the most of your subscription</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>

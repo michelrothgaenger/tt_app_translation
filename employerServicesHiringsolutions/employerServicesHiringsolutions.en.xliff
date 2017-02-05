@@ -161,8 +161,8 @@
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
         <target state="translated">30 days</target>
       </trans-unit>
-      <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerService.section.singleJobPost.tableRow11.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.tableRow11.descr</source>
+      <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
         <target state="translated">FreeP</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
@@ -196,10 +196,6 @@
       <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription</source>
         <target state="translated">FreeO</target>
-      </trans-unit>
-      <trans-unit id="925a3a99791c4c28971fad6a01e495ff" resname="app.employerService.section.singleJobPost.tableRow11.descr">
-        <source>app.employerService.section.singleJobPost.tableRow11.descr</source>
-        <target>Please put text here</target>
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>

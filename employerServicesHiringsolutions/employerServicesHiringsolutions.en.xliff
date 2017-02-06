@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title">
+      <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.title</source>
-        <target>Hiring solutions</target>
+        <target state="translated">Recruitment Solutions</target>
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Once we have a list of potential candidates we will screen them through phone or video interviews and create a shortlist of people for you to interview.</target>
+        <target state="translated">Once we have a sign-off on the the shortlist from you, we will begin to schedule interviews on your behalf saving you significant administration time. </target>
       </trans-unit>
       <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro" approved="yes">
         <source>app.employerServicesHiringsolutions.intro</source>
-        <target state="translated">Receive a list of qualified candidates so you can focus on selecting the best</target>
+        <target state="translated">Focus on selecting the best</target>
       </trans-unit>
       <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
@@ -170,7 +170,7 @@ One of our recruitment consultants will support you throughout the process. We w
       </trans-unit>
       <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
-        <target state="translated">FreeP</target>
+        <target state="translated">We offer to conduct a new search in cases where your new hire leaves within the first few months, whether it was a decision by the candidate or you.</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
@@ -186,15 +186,15 @@ One of our recruitment consultants will support you throughout the process. We w
       </trans-unit>
       <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
-        <target state="translated">FreeK</target>
+        <target state="translated">We send a pre-hire assessment (or pre-employment assessment) test to the final candidate(s). The use of a valid assessment is an effective way to determine which applicants are the most qualified for a specific job based on their strengths and preferences and it is a good way to prepare for an interview.</target>
       </trans-unit>
       <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr</source>
-        <target state="translated">FreeL</target>
+        <target state="translated">We support you in the negotiation with your selected candidate and act as a more neutral party in this critical part of the process. </target>
       </trans-unit>
       <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr</source>
-        <target state="translated">FreeM</target>
+        <target state="translated">As the last step in the recruitment process we will conduct reference checks on the selected candidate to confirm information on the candidate's application form and resumes and gain greater insights into the candidate's skills, knowledge and abilities from someone who has actually observed the candidate perform.</target>
       </trans-unit>
       <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>

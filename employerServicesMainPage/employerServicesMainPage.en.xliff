@@ -13,45 +13,45 @@
         <source>app.employerServiceMainPage.meta.description</source>
         <target>Meta description for google</target>
       </trans-unit>
-      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header">
+      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="yes">
         <source>app.employerServiceMainPage.header</source>
-        <target>Why choose Transport Talent?</target>
+        <target state="translated">Why partner with Transport Talent?</target>
       </trans-unit>
-      <trans-unit id="03ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.description">
+      <trans-unit id="03ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.description" approved="yes">
         <source>app.employerServiceMainPage.description</source>
-        <target>We are a global recruitment portal dedicated to the transport and logistics industry. Unlike other companies, we combine industry expertise with innovative new targeting methods. In addition to publishing your job adverts onsite, we offer a selection of add-ons which can be mixed and matched to suit your recruitment needs. We aim to make your hiring process as simple and streamlined as possible.</target>
+        <target state="translated">We are a global job portal and recruitment company dedicated to the transport and logistics industry. We combine years of industry experience with innovative new targeting methods to reach the right candidates. We aim to make your hiring process as fast, cost effective and streamlined as possible.</target>
       </trans-unit>
-      <trans-unit id="04ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.title">
+      <trans-unit id="04ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.title" approved="yes">
         <source>app.employerServiceMainPage.solutions.title</source>
-        <target>See our solutions</target>
+        <target state="translated">Solutions and Pricing</target>
       </trans-unit>
-      <trans-unit id="05ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.description">
+      <trans-unit id="05ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.description" approved="yes">
         <source>app.employerServiceMainPage.solutions.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies ne</target>
+        <target state="translated">We have designed solutions that can meet your every need when looking for a new employee. With job postings you get your open position and your brand name exposed to a large audience of industry professionals. With our recruitment solutions one of our recruitment specialists will help you prepare a shortlist of candidates ready for interview within weeks.</target>
       </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
       <source>app.employerServiceMainPage.section.choice.header</source>
-      <target state="translated">Job Posting Solutions</target>
+      <target state="translated">Job Posting</target>
     </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d2" resname="app.employerServiceMainPage.hiringSolutions.header" approved="yes">
       <source>app.employerServiceMainPage.hiringSolutions.header</source>
-      <target state="translated">Hiring Solutions</target>
+      <target state="translated">Recruitment</target>
     </trans-unit>
     <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
-      <target state="translated">See job posting solutions </target>
+      <target state="translated">See job posting solutions</target>
     </trans-unit>
     <trans-unit id="08ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonDescription</source>
-      <target state="translated">Have all your vacancies online for a fixed annual price</target>
+      <target state="translated">Advertise all of your open positions up for a fixed annual price</target>
     </trans-unit>
     <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonLabel</source>
-      <target state="translated">see hiring solutions</target>
+      <target state="translated">see recruitment solutions</target>
     </trans-unit>
     <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target state="translated">You need short term support by our sourcing and recruiting experts?</target>
+      <target state="translated">Need help with a shortlist of candidates or full process recruiting services?</target>
     </trans-unit>
     <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
         <source>app.employerService.detailsLabel</source>
@@ -73,13 +73,13 @@
         <source>app.employerServiceMainPage.signUpButton</source>
         <target state="translated">Register now</target>
     </trans-unit>
-    <trans-unit id="053f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpCTA">
+    <trans-unit id="053f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpCTA" approved="yes">
         <source>app.employerServiceMainPage.signUpCTA</source>
-        <target>Register now to gain immediate access to a pool of select candidates</target>
+        <target state="translated">Register now and gain access to a pool of select candidates</target>
     </trans-unit>
-    <trans-unit id="063f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.h1">
+    <trans-unit id="063f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.h1" approved="yes">
         <source>app.employerServiceMainPage.h1</source>
-        <target>Job posting &amp; hiring solutions for the transport &amp; logistics industry</target>
+        <target state="translated">Hiring solutions for the transport &amp; logistics industry</target>
     </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel">
             <source>app.employerServiceMainPage.bookButtonLabel</source>

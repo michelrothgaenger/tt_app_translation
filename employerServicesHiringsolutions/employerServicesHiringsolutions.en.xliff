@@ -19,15 +19,15 @@
       </trans-unit>
       <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">The social world is where a lot of recruiting happens, so we push every job to our Facebook and Twitter pages. This puts your postings in front of people looking for work, even when they’re not actively searching, so you get all the exposure you possibly can.</target>
+        <target state="translated">We advertise your open position up on relevant online media channels and target the audience that is just right for this position. All marketings costs are already included in the price.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">A sourcing strategy will be formulated to fit the position and targeted profiles so that the best candidates from both active and passive talent pools will be found. Using our our industry knowledge, advanced search methodologies, technological tools and our passion for finding the right people for our customers we will search the market and create a long list of candidates.</target>
+        <target state="translated">One of our experienced recruitment specialists will personally reach out to suitable candidates and motivate them to apply for the position. We will not limit ourselves to candidates from our own database but also contact people who are not yet a member of TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">After having completed the process of sourcing job candidates, the next step is to screen the potential candidates to generate a short list.</target>
+        <target state="translated">Once we have a list of potential candidates we will screen them through phone or video interviews and create a shortlist of people for you to interview.</target>
       </trans-unit>
       <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
@@ -41,13 +41,13 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target>Please put text here</target>
       </trans-unit>
-      <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro">
+      <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro" approved="yes">
         <source>app.employerServicesHiringsolutions.intro</source>
-        <target>We bring your job to the right audience</target>
+        <target state="translated">The recruitment assistance you have been waiting for</target>
       </trans-unit>
-      <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2">
+      <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
-        <target><![CDATA[TransportTalent.com helps you to bring your job to the right audience. We concentrate on the transport & logistigs industry and know exactly where we can support you in the best way. We are just one brief away and can help you to set up targeted campaigs, find you the right fit for the job, and help you to screen the applicants for you.]]></target>
+        <target state="translated">Our recruitment solutions will help you gain speed and improve quality of the candidates that apply to your open positions. We will help you find the best applicants and get them through the hiring process faster.</target>
       </trans-unit>
       <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro">
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
-        <target state="translated">FreeJ</target>
+        <target state="translated">Once we have a list of potential  candidates we will screen them through phone or video interviews and create a shortlist of people for you to interview.</target>
       </trans-unit>
       <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
@@ -197,9 +197,9 @@
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription</source>
         <target state="translated">FreeO</target>
       </trans-unit>
-      <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title">
+      <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target>RECRUTING</target>
+        <target state="translated">RECRUITING</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1">
         <source>app.employerServicesHiringsolutions.h1</source>

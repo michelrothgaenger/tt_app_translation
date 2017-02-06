@@ -213,9 +213,9 @@
         <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
         <target>per hired candidate*</target>
     </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline">
+    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
-        <target>Hiring solutions subheadline</target>
+        <target state="translated">Reach thousands of job seekers every day when you post a job with Transport Talent</target>
     </trans-unit>
     </body>
   </file>

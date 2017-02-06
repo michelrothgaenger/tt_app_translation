@@ -41,9 +41,9 @@
         <source>app.employerService.detailsTable.companyLogo</source>
         <target>Company logo</target>
       </trans-unit>
-      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr">
+      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
         <source>app.employerService.detailsTable.companyLogo.descr</source>
-        <target>Company logo description</target>
+        <target state="translated">Increase the visibility and improve your employer brand by having your logo shown next to your job ad.</target>
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel">
         <source>app.employerService.detailsTable.allPostingsLabel</source>

@@ -41,9 +41,9 @@
         <source>app.employerService.detailsTable.companyLogo</source>
         <target>Company logo</target>
       </trans-unit>
-      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr">
+      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
         <source>app.employerService.detailsTable.companyLogo.descr</source>
-        <target>Company logo description</target>
+        <target state="translated">Increase the visibility and improve your employer brand by having your logo shown next to your job ad.</target>
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel">
         <source>app.employerService.detailsTable.allPostingsLabel</source>
@@ -61,9 +61,9 @@
         <source>app.employerService.detailsTable.primePlacement</source>
         <target>Prime placement</target>
       </trans-unit>
-      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr">
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target>Prime placement description</target>
+        <target state="translated">The prime placement displays your job prominently in the job search site. It is an effective way to extend the reach and gain more attention to your job ad.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>

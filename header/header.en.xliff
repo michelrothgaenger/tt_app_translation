@@ -125,9 +125,9 @@
         <source>app.header.userSubmenu.jobPostings</source>
         <target>Job postings</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
         <source>app.header.userSubmenu.hiringSolutions</source>
-        <target>Hiring solutions</target>
+        <target state="translated">Recruitment Solutions</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs">
         <source>app.header.userSubmenu.manageJobs</source>

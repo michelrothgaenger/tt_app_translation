@@ -125,9 +125,9 @@
         <source>app.employerService.section.serviceBooking.header</source>
         <target>Service Booking</target>
       </trans-unit>
-      <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title">
+      <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
-        <target>Recruitment Packages</target>
+        <target state="translated">Job Posting Solutions</target>
       </trans-unit>
       <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>

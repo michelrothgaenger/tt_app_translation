@@ -157,6 +157,10 @@
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
         <target state="translated">Wir machen passende Kandidaten aus unserer Datenbank per E-Mail auf Ihre Stelle aufmerksam</target>
       </trans-unit>
+    <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline" approved="yes">
+          <source>app.employerService.subheadline</source>
+          <target state="translated">Let us find the right people for you so you can focus on interviewing and selecting your new hire</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

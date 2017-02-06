@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
-        <target state="translated">Why choose Transport Talent?</target>
+        <target state="translated">Job posting made easy</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
-        <target state="translated">We are a global recruitment portal dedicated to the transport and logistics industry. Unlike other companies, we combine industry expertise with innovative new targeting methods. In addition to publishing your job adverts onsite, we offer a selection of add-ons which can be mixed and matched to suit your recruitment needs. We aim to make your hiring process as simple and streamlined as possible.</target>
+        <target state="translated">With our job posting solutions we will connect you with the most curated and fastest growing network of industry candidates available online. Every job posting on Transport Talent will get pushed to our social media channels for maximum exposure and reach.</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header">
         <source>app.employerService.section.singleJobPost.header</source>
@@ -229,9 +229,9 @@
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
         <target state="translated">EUR/month* (billed annually)</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
-              <target>Job posting solutions for the transport &amp; logistics industry</target>
+              <target state="translated">Job posting solutions</target>
           </trans-unit>
     </body>
   </file>

@@ -157,7 +157,7 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target>send inquiry</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin">
+      <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin">
         <source>app.employerService.popup.inputs.submitValueLoggedin</source>
         <target>book packages</target>
       </trans-unit>
@@ -233,6 +233,10 @@
               <source>app.employerService.h1</source>
               <target state="translated">Job posting solutions</target>
           </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline">
+          <source>app.employerService.subheadline</source>
+          <target>Job posting subheadline</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

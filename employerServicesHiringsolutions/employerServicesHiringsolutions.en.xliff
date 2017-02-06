@@ -213,6 +213,10 @@
         <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
         <target>per hired candidate*</target>
     </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline">
+        <source>app.employerServicesHiringsolutions.subheadline</source>
+        <target>Hiring solutions subheadline</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

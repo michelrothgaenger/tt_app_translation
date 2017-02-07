@@ -85,9 +85,9 @@
         <source>app.footer.rowEmployers</source>
         <target>Employers</target>
       </trans-unit>
-      <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel">
+      <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
         <source>app.footer.introductionLabel</source>
-        <target>Pricing</target>
+        <target state="translated">Hiring Solutions (Pricing)</target>
       </trans-unit>
       <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel">
         <source>app.footer.askHelpLabel</source>

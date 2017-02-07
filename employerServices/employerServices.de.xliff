@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
-        <target state="translated">Warum Transport Talent?</target>
+        <target state="translated">Ganz einfach Stellen veröffentlichen</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
-        <target state="translated">Wir sind ein internationales Recruitment-Portal für die Transport- und Logistikbranche. Unsere Branchenkompetenz und eine innovative Zielgruppenansprache zeichnen uns aus. Mit einer Reihe von Add-ons bieten wir Ihnen individuelle Anpassungsmöglichkeiten für die Veröffentlichung Ihrer Stellenanzeige. Das Ziel: Ihren Einstellungsprozess so unkompliziert wie möglich gestalten.</target>
+        <target state="translated">Mit unseren Angeboten für Stellenanzeigen bieten wir Ihnen direkten Zugang zum besten und am schnellsten wachsenden Online-Netzwerk für die Branche. Für maximale Reichweite wird jedes Stellenangebot auf Transport Talent auch über unsere Social-Media-Kanäle veröffentlicht.</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="yes">
         <source>app.employerService.section.singleJobPost.header</source>
@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
-        <target state="translated">Stellenanzeigen auf TransportTalent.com</target>
+        <target state="translated">Stellenanzeigen pro Jahr</target>
       </trans-unit>
       <trans-unit id="2e0c93db58534d74bfafc3ee839638d2" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel</source>
-        <target state="translated">Standard-Unternehmensprofil</target>
+        <target state="translated">Unternehmensprofil</target>
       </trans-unit>
       <trans-unit id="668acd417a8844c993be665fdcbccc93" resname="app.employerService.section.singleJobPost.automaticUploadLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target state="translated">Veröffentlichung aller Jobs über Social Media</target>
+        <target state="translated">Veröffentlichung über Social Media</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
-        <target state="translated">Recruitment-Pakete</target>
+        <target state="translated">Stellenanzeigen</target>
       </trans-unit>
       <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
@@ -159,8 +159,84 @@
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline" approved="yes">
           <source>app.employerService.subheadline</source>
-          <target state="translated">Let us find the right people for you so you can focus on interviewing and selecting your new hire</target>
+          <target state="translated">Wir finden passende Kandidaten für Sie, sodass Sie sich auf Vorstellungsgespräche und Auswahl konzentrieren können</target>
       </trans-unit>
-    </body>
+    <trans-unit id="2e0c11db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo" approved="yes">
+        <source>app.employerService.detailsTable.companyLogo</source>
+        <target state="translated">Unternehmenslogo</target>
+      </trans-unit>
+      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
+        <source>app.employerService.detailsTable.companyLogo.descr</source>
+        <target state="translated">Ihr Logo neben der Stellenanzeige sorgt für mehr Sichtbarkeit und stärkt Ihr Image als Arbeitgeber.</target>
+      </trans-unit>
+      <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel" approved="yes">
+        <source>app.employerService.detailsTable.allPostingsLabel</source>
+        <target state="translated">Alle Stellenanzeigen</target>
+      </trans-unit>
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement" approved="yes">
+        <source>app.employerService.detailsTable.primePlacement</source>
+        <target state="translated">Bevorzugte Platzierung</target>
+      </trans-unit>
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
+        <source>app.employerService.detailsTable.primePlacement.descr</source>
+        <target state="translated">Mit einer bevorzugten Platzierung wird Ihr Stellenangebot besonders hervorgehoben. So erzeugen Sie ganz einfach mehr Aufmerksamkeit für Ihre Stelle.</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="yes">
+        <source>app.employerService.popup.inputs.submitValueLoggedin</source>
+        <target state="translated">Pakete buchen</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.input.confirmRight" approved="yes">
+        <source>app.employerService.popup.input.confirmRight</source>
+        <target state="translated">Hiermit bestätige ich, dass ich berechtigt bin, die Anfrage zu stellen</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047561" resname="app.employerService.popup.input.confirmCost" approved="yes">
+        <source>app.employerService.popup.input.confirmCost</source>
+        <target state="translated">Hiermit bestätige ich die Kosten in Höhe von</target>
+      </trans-unit>
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047562" resname="app.employerService.popup.input.invoiceAdress" approved="yes">
+        <source>app.employerService.popup.input.invoiceAdress</source>
+        <target state="translated">Rechnungsempfänger</target>
+      </trans-unit>
+      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title" approved="yes">
+        <source>app.employerService.hiringSolutions.left.title</source>
+        <target state="translated">Recruiting-Lösungen</target>
+      </trans-unit>
+      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="yes">
+        <source>app.employerService.hiringSolutions.left.descr</source>
+        <target state="translated">Sie möchten Unterstützung bei der Shortlist oder einen kompletten Vermittlungsservice?</target>
+      </trans-unit>
+      <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn" approved="yes">
+        <source>app.employerService.hiringSolutions.left.btn</source>
+        <target state="translated">Angebote anzeigen</target>
+      </trans-unit>
+      <trans-unit id="953f03de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.title" approved="yes">
+        <source>app.employerService.hiringSolutions.right.title</source>
+        <target state="translated">MIT UNS FINDEN SIE DIE BESTEN KANDIDATEN</target>
+      </trans-unit>
+      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr" approved="yes">
+        <source>app.employerService.hiringSolutions.right.descr</source>
+        <target state="translated">Sie möchten Unterstützung bei der Shortlist oder einen kompletten Vermittlungsservice?</target>
+      </trans-unit>
+      <trans-unit id="953f05de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.btn" approved="yes">
+        <source>app.employerService.hiringSolutions.right.btn</source>
+        <target state="translated">Angebot anzeigen</target>
+      </trans-unit>
+      <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
+        <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
+        <target state="translated">EUR/Monat* (jährliche Abrechnung)</target>
+      </trans-unit>
+      <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
+        <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
+        <target state="translated">EUR/Monat* (jährliche Abrechnung)</target>
+      </trans-unit>
+      <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
+        <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
+        <target state="translated">EUR/Monat* (jährliche Abrechnung)</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
+              <source>app.employerService.h1</source>
+              <target state="translated">Stellenanzeigen</target>
+          </trans-unit>
+      </body>
   </file>
 </xliff>

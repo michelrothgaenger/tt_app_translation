@@ -223,6 +223,10 @@ One of our recruitment consultants will support you throughout the process. We w
         <source>app.employerServicesHiringsolutions.subheadline</source>
         <target state="translated">Reach thousands of job seekers every day when you post a job with Transport Talent</target>
     </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline">
+        <source>app.employerServicesHiringsolutions.popup.headline</source>
+        <target>Recruitment solutions</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

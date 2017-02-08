@@ -5,209 +5,221 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title">
+      <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.title</source>
-        <target>Hiring solutions</target>
+        <target state="translated">Recruitment-Angebote</target>
       </trans-unit>
-      <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr">
+      <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Wir unterstützen Sie bei der Formulierung Ihrer Anforderungen</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target>Please put text here</target>
       </trans-unit>
-      <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr">
+      <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Wir bewerben Ihre Stelle gezielt auf relevanten Social-Media-Kanälen bei der Gruppe potentieller Kandidaten für Ihre Position.</target>
       </trans-unit>
-      <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr">
+      <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Einer unserer erfahrenen Recruiter spricht passende Kandidaten an und motiviert Sie zur Bewerbung. Dabei beschränken wir uns nicht auf Kandidaten aus unserer eigenen Datenbank, sondern kontaktieren auch Personen außerhalb von TransportTalent.com.</target>
       </trans-unit>
-      <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr">
+      <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Sparen Sie wertvolle Zeit: Sobald Sie die Shortlist abgezeichnet haben, vereinbaren wir für Sie alle Vorstellungsgespräche.</target>
       </trans-unit>
-      <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr">
+      <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Waiting for input from Ulrich (A)</target>
       </trans-unit>
-      <trans-unit id="dd215962acf64658a9d4c075d3200317" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.descr">
+      <trans-unit id="dd215962acf64658a9d4c075d3200317" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Waiting for input from Ulrich (B)</target>
       </trans-unit>
       <trans-unit id="e32e182e461244b398a5c76468518024" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target>Please put text here</target>
       </trans-unit>
-      <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro">
+      <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro" approved="yes">
         <source>app.employerServicesHiringsolutions.intro</source>
-        <target>We bring your job to the right audience</target>
+        <target state="translated">Erreichen Sie nur die Besten</target>
       </trans-unit>
-      <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2">
+      <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
-        <target><![CDATA[TransportTalent.com helps you to bring your job to the right audience. We concentrate on the transport & logistigs industry and know exactly where we can support you in the best way. We are just one brief away and can help you to set up targeted campaigs, find you the right fit for the job, and help you to screen the applicants for you.]]></target>
+        <target state="translated">Mit den Recruitment-Angeboten von Transport Talent erhalten Sie eine Liste persönlich ausgewählter Kandidaten, die genau den Kriterien Ihrer offenen Position entsprechen. Einer unserer Recruitment-Berater begleitet Sie durch den gesamten Prozess. Wir recherchieren auf dem gesamten Markt und nutzen unser großes Netzwerk. Alle Bewerbungen werden geprüft und vorab ein Telefon- oder Videointerview mit den interessantesten Kandidaten geführt. So müssen Sie sich anschließend nur noch auf die persönlichen Vorstellungsgespräche und die Mitarbeiterauswahl konzentrieren. Wir kümmern uns um alles Andere.</target>
       </trans-unit>
-      <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro">
+      <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
-        <target><![CDATA[<strong>Targeted campaign</strong> to market the role, including social media strategy.<br><strong>A comprehensive search</strong> through own talent pool, our network partners, LinkedIn and other sources<br><strong>Rigorous pre-screening</strong> by our search team, yielding a high-caliber short list<br>]]></target>
+        <target state="translated">Wir legen Ihnen eine &lt;strong&gt;Liste qualifizierter Kandidaten&lt;/strong&gt;, basierend auf einer intensiven Marktrecherche, vor&lt;br&gt; Wir unterstützen Sie dabei, &lt;strong&gt;schneller die besten Kandidaten zu erreichen&lt;/strong&gt;&lt;br&gt; &lt;strong&gt;Laufende Unterstützung bei der Auswahl und Einstellung&lt;/strong&gt; des besten Kandidaten für Ihr Unternehmen&lt;br&gt; &lt;strong&gt;Assessment-Test vorab&lt;/strong&gt; sowie &lt;strong&gt;Prüfung der Referenzen&lt;/strong&gt;&lt;br&gt; Unterstützung bei der &lt;strong&gt;Gehaltsverhandlung&lt;/strong&gt;</target>
       </trans-unit>
-      <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title">
+      <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target>SHORTLISTING</target>
+        <target state="translated">SHORTLIST</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.packages.activationLabel">
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.packages.activationLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.activationLabel</source>
-        <target>Activation</target>
+        <target state="translated">Aktivierung</target>
       </trans-unit>
-      <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr">
+      <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.descr</source>
-        <target>upon hire*</target>
+        <target state="translated">bei Einstellung*</target>
       </trans-unit>
-      <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info">
+      <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target>Job description revision</target>
+        <target state="translated">Überarbeitung der Stellenausschreibung</target>
       </trans-unit>
-      <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info">
+      <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target>Job alert to matching candidates</target>
+        <target state="translated">E-Mail an passende Kandidaten (Suchagent)</target>
       </trans-unit>
-      <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info">
+      <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target>Social media campaign</target>
+        <target state="translated">Social-Media-Kampagne</target>
       </trans-unit>
-      <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info">
+      <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target>Sourcing by recruitment specialist</target>
+        <target state="translated">Akquise durch Recruiting-Spezialisten</target>
       </trans-unit>
-      <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info">
+      <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info</source>
-        <target>First round interviews</target>
+        <target state="translated">Erste Vorstellungsgespräche</target>
       </trans-unit>
-      <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info">
+      <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>
-        <target>Interview scheduling</target>
+        <target state="translated">Terminvereinbarung für Vorstellungsgespräche</target>
       </trans-unit>
-      <trans-unit id="6289e2556442407ea4e1369d3a90f062" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.info">
+      <trans-unit id="6289e2556442407ea4e1369d3a90f062" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.info</source>
-        <target>Pre-hire assessment</target>
+        <target state="translated">Assessment-Test vorab</target>
       </trans-unit>
-      <trans-unit id="e8cd6fa2486947ec8a6bb1b81009f95e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.info">
+      <trans-unit id="e8cd6fa2486947ec8a6bb1b81009f95e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.info</source>
-        <target>Negotiation support</target>
+        <target state="translated">Unterstützung bei Verhandlungen</target>
       </trans-unit>
-      <trans-unit id="0a4e817d674a4d17ada9aa47109c2f17" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info">
+      <trans-unit id="0a4e817d674a4d17ada9aa47109c2f17" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info</source>
-        <target>Reference checks</target>
+        <target state="translated">Prüfung der Referenzen</target>
       </trans-unit>
-      <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further">
+      <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target>*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions let’s connect by phone.</target>
+        <target state="translated">*Die obenstehenden Leistungen beziehen sich auf Positionen mit einem Jahresgehalt von bis zu EUR 60.000. Bitte wenden Sie sich für höherbezahlte Positionen telefonisch an uns.</target>
       </trans-unit>
-      <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle">
+      <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target>Job Posting Solutions</target>
+        <target state="translated">Stellenanzeigen</target>
       </trans-unit>
-      <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr">
+      <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
-        <target>Our favorite and most helpful courses from around the web all in one place</target>
+        <target state="translated">Veröffentlichen Sie alle offenen Positionen zu einem festen jährlichen Preis</target>
       </trans-unit>
-      <trans-unit id="76bde51190114195ae8595522349e854" resname="app.employerServicesHiringsolutions.ad.leftBtnLabel">
+      <trans-unit id="76bde51190114195ae8595522349e854" resname="app.employerServicesHiringsolutions.ad.leftBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftBtnLabel</source>
-        <target>See Offer</target>
+        <target state="translated">Angebot ansehen</target>
       </trans-unit>
-      <trans-unit id="cc3dfa18f31142f597da97ffbdd86f26" resname="app.employerServicesHiringsolutions.ad.rightTitle">
+      <trans-unit id="cc3dfa18f31142f597da97ffbdd86f26" resname="app.employerServicesHiringsolutions.ad.rightTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightTitle</source>
-        <target>Posting your jobs has never been easier</target>
+        <target state="translated">Stellenanzeigen veröffentlichen war noch nie einfacher</target>
       </trans-unit>
-      <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr">
+      <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target><![CDATA[Transport Talent is the fastest growing portal for jobs in transport & logistics. This is the where you place your job ad, if you want to reach job applicants with industry experience. Our cost effective subscriptions allows you to post all of your jobs at a low monthly cost, alongside a company profile that gives the job seekers an insight to what it is like to work at your company.]]></target>
+        <target state="translated">Transport Talent ist das am schnellsten wachsende Jobportal für Transport und Logistik. Wer Fachkräfte sucht, schaltet seine Stellenanzeige bei uns. Veröffentlichen Sie dank unserer kosteneffektiven Angebote alle offenen Positionen zu einem niedrigen monatlichen Preis. Ein Unternehmensprofil ist bereits im Preis enthalten: So erhalten die Kandidaten einen Eindruck von der Arbeit in Ihrem Unternehmen.</target>
       </trans-unit>
-      <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel">
+      <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
-        <target><![CDATA[See Products & Services]]></target>
+        <target state="translated">Produkte und Angebote ansehen</target>
       </trans-unit>
-      <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader">
+      <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
-        <target>What we offer</target>
+        <target state="translated">Was wir bieten</target>
       </trans-unit>
-      <trans-unit id="20e7d10f86ae4912a94d144252b46074" resname="app.employerServicesHiringsolutions.section.singleJobPost.header">
+      <trans-unit id="20e7d10f86ae4912a94d144252b46074" resname="app.employerServicesHiringsolutions.section.singleJobPost.header" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.header</source>
-        <target>Our pricing is transparent so you know exactly what to budget</target>
+        <target state="translated">Dank transparenter Preise können Sie genau kalkulieren</target>
       </trans-unit>
-      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr">
+      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target>Our pricing aims to be transparent and minimise your risk. That is why we divide the cost of our service into two parts: an up-front activation fee paired with a placement fee that is due only when the role is filled with a candidate provided by Transport Talent.</target>
+        <target state="translated">Wir bieten transparente Preis, um Ihr Risiko zu minimieren. Die Kosten gliedern sich daher in zwei Teile auf: Eine einmalige Aktivierungsgebühr sowie eine Vermittlungsgebühr, die nur dann fällig wird, wenn die Position mit einem Kandidaten von Transport Talent besetzt wird.</target>
       </trans-unit>
-      <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info">
+      <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
-        <target>Please put text here</target>
+        <target state="translated">Prüfung der Kandidaten und Shortlist</target>
       </trans-unit>
-      <trans-unit id="131a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info">
+      <trans-unit id="131a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
-        <target>Please put text here</target>
+        <target state="translated">Gewährleistungsgarantie</target>
       </trans-unit>
-      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting">
+      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target>Please put text here</target>
+        <target state="translated">Shortlist</target>
       </trans-unit>
-      <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications">
+      <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
-        <target>Please put text here</target>
+        <target state="translated">+ € 4.000 pro eingestelltem Kandidaten*</target>
       </trans-unit>
-      <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention">
+      <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
-        <target>Please put text here</target>
+        <target state="translated">30 Tage</target>
       </trans-unit>
       <trans-unit id="631a3a99791c4c28971fad6a01e49557" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retentionDescription">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retentionDescription</source>
         <target>Please put text here</target>
       </trans-unit>
-      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting">
+      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target>Please put text here</target>
+        <target state="translated">Recruiting</target>
       </trans-unit>
-      <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications">
+      <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
-        <target>Please put text here</target>
+        <target state="translated">+ 15% des Kandidatengehalts bei Einstellung*</target>
       </trans-unit>
-      <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr">
+      <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Sobald wir eine Liste potenzieller Kandidaten erstellt haben, wird diese durch Telefon- oder Videointerviews geprüft und eine Shortlist in Hinblick auf Vorstellungsgespräche angelegt.</target>
       </trans-unit>
-      <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr">
+      <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Wir schicken den Kandidaten auf der Shortlist einen Assessment-Test. Ein Assessment-Test ist ein valides Instrument, um die qualifiziertesten Bewerber für eine Position zu ermitteln. Dies geschieht basierend auf ihren Stärken und Präferenzen und ist gleichzeitig eine gute Vorbereitung auf das Vorstellungsgespräch.</target>
       </trans-unit>
-      <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr">
+      <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Wir unterstützen Sie bei der Verhandlung mit dem ausgewählten Kandidaten und fungieren bei diesem wichtigen Abschnitt als neutraler Vermittler.</target>
       </trans-unit>
-      <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr">
+      <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr</source>
-        <target>Please put text here</target>
+        <target state="translated">Die Prüfung der Referenzen ist unser letzter Schritt im Vermittlungsprozess. Wir kontrollieren die Angaben des Kandidaten und erhalten außerdem weitere Informationen zu seinen Fähigkeiten, Kenntnissen und Kompetenzen aus seinem unmittelbaren Arbeitsumfeld.</target>
       </trans-unit>
-      <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention">
+      <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
-        <target>Please put text here</target>
+        <target state="translated">90 Tage</target>
       </trans-unit>
-      <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription">
+      <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription</source>
-        <target>Please put text here</target>
+        <target state="translated">FreeO</target>
       </trans-unit>
-      <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title">
+      <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target>RECRUTING</target>
+        <target state="translated">RECRUTING</target>
       </trans-unit>
-    <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1">
+    <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
-        <target>Hiring solutions for the transport &amp; logistics industry</target>
+        <target state="translated">Recruitment-Angebote</target>
     </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description">
+    <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.description</source>
-        <target>Meta description for google</target>
+        <target state="translated">Meta description for google</target>
+    </trans-unit>
+    <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
+        <target state="translated">Verlässt Ihr neuer Mitarbeiter innerhalb des ersten Monats das Unternehmen, bieten wir Ihnen eine neue Suche an – egal, ob die Entscheidung von Ihnen oder dem Mitarbeiter getroffen wurde.</target>
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047015" resname="app.employerServicesHiringsolutions.packages.perHiredCandidate" approved="yes">
+        <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
+        <target state="translated">pro eingestelltem Kandidaten*</target>
+    </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
+        <source>app.employerServicesHiringsolutions.subheadline</source>
+        <target state="translated">Erreichen Sie mit Transport Talent täglich tausende Kandidaten</target>
     </trans-unit>
     </body>
   </file>

@@ -41,9 +41,9 @@
         <source>app.employerService.detailsTable.companyLogo</source>
         <target>Company logo</target>
       </trans-unit>
-      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr">
+      <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
         <source>app.employerService.detailsTable.companyLogo.descr</source>
-        <target>Company logo description</target>
+        <target state="translated">Increase the visibility and improve your employer brand by having your logo shown next to your job ad.</target>
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel">
         <source>app.employerService.detailsTable.allPostingsLabel</source>
@@ -61,9 +61,9 @@
         <source>app.employerService.detailsTable.primePlacement</source>
         <target>Prime placement</target>
       </trans-unit>
-      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr">
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target>Prime placement description</target>
+        <target state="translated">The prime placement displays your job prominently in the job search site. It is an effective way to extend the reach and gain more attention to your job ad.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -125,9 +125,9 @@
         <source>app.employerService.section.serviceBooking.header</source>
         <target>Service Booking</target>
       </trans-unit>
-      <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title">
+      <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
-        <target>Recruitment Packages</target>
+        <target state="translated">Job Posting Solutions</target>
       </trans-unit>
       <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
@@ -193,13 +193,13 @@
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
         <target>We send out a direct email to make suitable candidates in our database aware of your position</target>
       </trans-unit>
-      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title">
+      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title" approved="yes">
         <source>app.employerService.hiringSolutions.left.title</source>
-        <target>Hiring Solutions</target>
+        <target state="translated">Recruitment Solutions</target>
       </trans-unit>
-      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr">
+      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="yes">
         <source>app.employerService.hiringSolutions.left.descr</source>
-        <target>Our favorite and most helpful courses from around the web all in one place</target>
+        <target state="translated">Need help with a shortlist of candidates or full process recruiting services?</target>
       </trans-unit>
       <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn">
         <source>app.employerService.hiringSolutions.left.btn</source>
@@ -209,9 +209,9 @@
         <source>app.employerService.hiringSolutions.right.title</source>
         <target>LET US HELP YOU FIND THE BEST CANDIDATES</target>
       </trans-unit>
-      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr">
+      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr" approved="yes">
         <source>app.employerService.hiringSolutions.right.descr</source>
-        <target>Our favorite and most helpful courses from around the web all in one place</target>
+        <target state="translated">Need help with a shortlist of candidates or full process recruiting services?</target>
       </trans-unit>
       <trans-unit id="953f05de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.btn">
         <source>app.employerService.hiringSolutions.right.btn</source>
@@ -233,9 +233,9 @@
               <source>app.employerService.h1</source>
               <target state="translated">Job posting solutions</target>
           </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline" approved="yes">
           <source>app.employerService.subheadline</source>
-          <target>Job posting subheadline</target>
+          <target state="translated">Let us find the right people for you so you can focus on interviewing and selecting your new hire</target>
       </trans-unit>
     </body>
   </file>

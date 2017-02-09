@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.title</source>
-        <target state="translated">Recruitment-Angebote</target>
+        <target state="translated">Recruitment-Lösungen</target>
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Sparen Sie wertvolle Zeit: Sobald Sie die Shortlist abgezeichnet haben, vereinbaren wir für Sie alle Vorstellungsgespräche.</target>
+        <target state="translated">Sobald wir eine Liste mit potenziellen Kandidaten haben führen wir erste Telefon- und Videointerviews, um eine Shortlist für die Vorstellungsgespräche zu erstellen.</target>
       </trans-unit>
       <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
-        <target state="translated">Mit den Recruitment-Angeboten von Transport Talent erhalten Sie eine Liste persönlich ausgewählter Kandidaten, die genau den Kriterien Ihrer offenen Position entsprechen. Einer unserer Recruitment-Berater begleitet Sie durch den gesamten Prozess. Wir recherchieren auf dem gesamten Markt und nutzen unser großes Netzwerk. Alle Bewerbungen werden geprüft und vorab ein Telefon- oder Videointerview mit den interessantesten Kandidaten geführt. So müssen Sie sich anschließend nur noch auf die persönlichen Vorstellungsgespräche und die Mitarbeiterauswahl konzentrieren. Wir kümmern uns um alles Andere.</target>
+        <target state="translated">Mit den Recruitment-Lösungen von Transport Talent erhalten Sie eine Liste persönlich ausgewählter Kandidaten, die genau den Kriterien Ihrer offenen Position entsprechen. Einer unserer Recruitment-Berater begleitet Sie durch den gesamten Prozess. Wir recherchieren auf dem gesamten Markt und nutzen unser großes Netzwerk. Alle Bewerbungen werden geprüft und vorab ein Telefon- oder Videointerview mit den interessantesten Kandidaten geführt. So müssen Sie sich anschließend nur noch auf die persönlichen Vorstellungsgespräche und die Mitarbeiterauswahl konzentrieren. Wir kümmern uns um alles Andere.</target>
       </trans-unit>
       <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.descr</source>
-        <target state="translated">bei Einstellung*</target>
+        <target state="translated">des Jahresgehalts des Kandidaten bei Einstellung*</target>
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
@@ -103,11 +103,12 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Die obenstehenden Leistungen beziehen sich auf Positionen mit einem Jahresgehalt von bis zu EUR 60.000. Bitte wenden Sie sich für höherbezahlte Positionen telefonisch an uns.</target>
+        <target state="translated">*Die o.s. Leistungen beziehen sich auf Positionen mit einem Jahresgehalt bis zu EUR 60.000. Höherbezahlte Positionen auf Anfrage.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Stellenanzeigen</target>
+        <target state="translated">Stellen-
+anzeigen</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -175,7 +176,7 @@
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
-        <target state="translated">Sobald wir eine Liste potenzieller Kandidaten erstellt haben, wird diese durch Telefon- oder Videointerviews geprüft und eine Shortlist in Hinblick auf Vorstellungsgespräche angelegt.</target>
+        <target state="translated">Sparen Sie wertvolle Zeit: Sobald Sie die Shortlist abgezeichnet haben, vereinbaren wir für Sie alle Vorstellungsgespräche.</target>
       </trans-unit>
       <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
@@ -199,7 +200,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">RECRUTING</target>
+        <target state="translated">RECRUITING</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -220,6 +221,10 @@
     <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
         <target state="translated">Erreichen Sie mit Transport Talent täglich tausende Kandidaten</target>
+    </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
+        <source>app.employerServicesHiringsolutions.popup.headline</source>
+        <target state="translated">Recruiting-Lösungen</target>
     </trans-unit>
     </body>
   </file>

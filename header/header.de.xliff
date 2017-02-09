@@ -117,6 +117,22 @@
         <source>app.header.userSidemenu.companies</source>
         <target state="translated">Unternehmen</target>
       </trans-unit>
+    <trans-unit id="481e633d68244091a0d4e0e2f6acab81" resname="app.header.userSubmenu.services" approved="yes">
+        <source>app.header.userSubmenu.services</source>
+        <target state="translated">Services</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="yes">
+        <source>app.header.userSubmenu.jobPostings</source>
+        <target state="translated">Stellenanzeigen</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
+        <source>app.header.userSubmenu.hiringSolutions</source>
+        <target state="translated">Recruiting-Angebote</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs" approved="yes">
+        <source>app.header.userSubmenu.manageJobs</source>
+        <target state="translated">Stellenanzeigen verwalten</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

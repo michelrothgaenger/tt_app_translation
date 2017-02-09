@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
-        <target state="translated">Waiting for input from Ulrich (A)</target>
+        <target state="translated">After the shortlisting has been completed we will reach out to the hiring manager or HR at your company and conduct a calibration of the candidates on the list, matching them up against the criteria for the position. We determine together how they fit and decide if all should stay on the list and go on to the interview round. If necessary we go back and extend our search.</target>
       </trans-unit>
       <trans-unit id="dd215962acf64658a9d4c075d3200317" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.descr</source>
@@ -87,9 +87,9 @@ One of our recruitment consultants will support you throughout the process. We w
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
         <target>Sourcing by recruitment specialist</target>
       </trans-unit>
-      <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info">
+      <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info</source>
-        <target>First round interviews</target>
+        <target state="translated">Candidate Calibration</target>
       </trans-unit>
       <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>

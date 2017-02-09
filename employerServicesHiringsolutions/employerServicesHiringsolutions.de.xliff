@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Die obenstehenden Leistungen beziehen sich auf Positionen mit einem Jahresgehalt von bis zu EUR 60.000. Bitte wenden Sie sich für höherbezahlte Positionen telefonisch an uns.</target>
+        <target state="translated">*Die obenstehenden Leistungen beziehen sich auf Positionen mit einem Jahresgehalt von bis zu EUR 60.000.&lt;br /&gt;Bitte wenden Sie sich für höherbezahlte Positionen telefonisch an uns.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">RECRUTING</target>
+        <target state="translated">RECRUITING</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>

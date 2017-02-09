@@ -73,9 +73,9 @@
         <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
         <target>Basic</target>
       </trans-unit>
-      <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications">
+      <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target><![CDATA[<span>EUR/month*<br>(billed annually)</span>]]></target>
+        <target state="translated">&lt;span&gt;EUR/month*&lt;br&gt;(annual contract)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize">
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
@@ -215,15 +215,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/month* (billed annually)</target>
+        <target state="translated">EUR/month* (annual contract)</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/month* (billed annually)</target>
+        <target state="translated">EUR/month* (annual contract)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/month* (billed annually)</target>
+        <target state="translated">EUR/month* (annual contract)</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>

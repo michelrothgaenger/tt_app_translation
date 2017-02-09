@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.descr</source>
-        <target state="translated">bei Einstellung*</target>
+        <target state="translated">des Jahresgehalts bei Einstellung*</target>
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
@@ -103,11 +103,12 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Die obenstehenden Leistungen beziehen sich auf Positionen mit einem Jahresgehalt von bis zu EUR 60.000. Bitte wenden Sie sich für höherbezahlte Positionen telefonisch an uns.</target>
+        <target state="translated">*Die o.s. Leistungen beziehen sich auf Positionen mit einem Jahresgehalt bis zu EUR 60.000. Höherbezahlte Positionen auf Anfrage.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Stellenanzeigen</target>
+        <target state="translated">Stellen-
+anzeigen</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -171,7 +172,7 @@
       </trans-unit>
       <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
-        <target state="translated">+ 15% des Kandidatengehalts bei Einstellung*</target>
+        <target state="translated">+ 15% des Jahresgehalts bei Einstellung*</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -199,7 +200,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">RECRUTING</target>
+        <target state="translated">RECRUITING</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -211,7 +212,7 @@
     </trans-unit>
     <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
-        <target state="translated">Verlässt Ihr neuer Mitarbeiter innerhalb des ersten Monats das Unternehmen, bieten wir Ihnen eine neue Suche an – egal, ob die Entscheidung von Ihnen oder dem Mitarbeiter getroffen wurde.</target>
+        <target state="translated">Verlässt Ihr neuer Mitarbeiter innerhalb der Garantie das Unternehmen, bieten wir Ihnen eine neue Suche an – egal, ob die Entscheidung von Ihnen oder dem Mitarbeiter getroffen wurde.</target>
       </trans-unit>
       <trans-unit id="083f10de2c9e4c46934f27d72f047015" resname="app.employerServicesHiringsolutions.packages.perHiredCandidate" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>

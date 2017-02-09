@@ -53,10 +53,6 @@
         <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
         <target state="translated">Basic</target>
       </trans-unit>
-      <trans-unit id="fbbffc27aff04c87bfb24c2de73ad067" resname="app.employerService.section.singleJobPost.businessLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.businessLabel</source>
-        <target state="translated">Business</target>
-      </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
         <target state="translated">&lt;span&gt;EUR/Monat*&lt;br&gt;(jährliche Abrechnung)&lt;/span&gt;</target>

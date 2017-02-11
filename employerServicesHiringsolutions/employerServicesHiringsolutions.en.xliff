@@ -185,9 +185,9 @@
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
         <target state="translated">90 days</target>
       </trans-unit>
-      <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription" approved="yes">
-        <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retentionDescription</source>
-        <target state="translated">Retention guarantee</target>
+      <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription" approved="yes">
+        <source>app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription</source>
+        <target state="translated">Retention guarantee for %days% days</target>
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>

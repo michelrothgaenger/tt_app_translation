@@ -7,23 +7,23 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Mira nuestro don de logística y registrate</target>
+        <target state="translated">Accede al mejor talento y regístrate</target>
       </trans-unit>
       <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="translated">Empezar ahora</target>
+        <target state="translated">Empieza ahora</target>
       </trans-unit>
       <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta" approved="yes">
         <source>app.registerCta</source>
-        <target state="translated">Inicia la sessión y acaba con tu perfil para poder empezar a buscar lo perfecto para ti.&lt;br&gt;Inicia sessión con unos de tus perfiles de las medias sociales o rellena los campos de abajo.</target>
+        <target state="translated">Inicia la sesión y completa tu perfil para poder empezar a buscar oportunidades.&lt;br&gt;Inicia sesión con uno de tus perfiles en las redes sociales o rellena los campos de abajo.</target>
       </trans-unit>
       <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline" approved="yes">
         <source>app.certificateHeadline</source>
-        <target state="translated">Tomamos muy en serio tu privacidad. Infórmate como protegemos tus datos.</target>
+        <target state="translated">Nos tomamos muy en serio tu privacidad. Infórmate de cómo protegemos tus datos.</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target state="translated">Inicia sessión con LinkedIn</target>
+        <target state="translated">Inicia sesión con LinkedIn</target>
       </trans-unit>
       <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Inicia sessión con Google</target>
+        <target state="translated">Inicia sesión con Google</target>
       </trans-unit>
       <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target state="translated">Inicia sessión con Facebook</target>
+        <target state="translated">Inicia sesión con Facebook</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
@@ -47,15 +47,15 @@
       </trans-unit>
       <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target state="translated">Condiciones Generales de Contratación</target>
+        <target state="translated">Términos y condiciones generales de contratación</target>
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>
-        <target state="translated">Un correo electrónico ha sido enviado a %email%. Tienes que hacer un click en el link para activar tu cuenta.</target>
+        <target state="translated">Hemos enviado un correo electrónico a %email%. Deberás hacer click en el link para activar tu cuenta.</target>
       </trans-unit>
       <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
-        <target state="translated">Gracias por registrarte en Transport Talent!</target>
+        <target state="translated">¡Gracias por registrarte en Transport Talent!</target>
       </trans-unit>
       <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
@@ -63,11 +63,11 @@
       </trans-unit>
       <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target state="translated">Holai %firstname%,&lt;br&gt; &lt;br&gt; Tienes que irte a la siguiente página para finalizar la activación de tu cuenta &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
+        <target state="translated">Holai %firstname%,&lt;br&gt; &lt;br&gt; Tienes que ir a la siguiente página para finalizar la activación de tu cuenta &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target state="translated">Hola%firstname%,&lt;br&gt; &lt;br&gt; Tienes que irte a la página&lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; para finalizar la activación de tu cuenta. Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
+        <target state="translated">Hola%firstname%,&lt;br&gt; &lt;br&gt; Tienes que ir a la página&lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; para finalizar la activación de tu cuenta. Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>
@@ -95,7 +95,15 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit" approved="yes">
         <source>registration.submit</source>
-        <target state="translated">Registrar</target>
+        <target state="translated">Registrarte</target>
+      </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
+        <source>app.userRegister.success</source>
+        <target state="translated">Éxito</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d717b3e3" resname="app.userRegister.provideEmail" approved="yes">
+        <source>app.userRegister.provideEmail</source>
+        <target state="translated">Por favor introduce tu correo electrónico</target>
       </trans-unit>
     </body>
   </file>

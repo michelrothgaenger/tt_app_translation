@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate" approved="yes">
         <source>app.candidate</source>
-        <target state="translated">Candidato/a</target>
+        <target state="translated">Área del candidato</target>
       </trans-unit>
       <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
         <source>app.jobs</source>
-        <target state="translated">Empleos</target>
+        <target state="translated">Vacantes</target>
       </trans-unit>
       <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList" approved="yes">
         <source>app.employersList</source>
@@ -31,15 +31,15 @@
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target state="translated">Registrar</target>
+        <target state="translated">Registro</target>
       </trans-unit>
       <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer" approved="yes">
         <source>app.employer</source>
-        <target state="translated">Empresario</target>
+        <target state="translated">Empresa</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target state="translated">Empresario</target>
+        <target state="translated">Empresa</target>
       </trans-unit>
       <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn" approved="yes">
         <source>app.logIn</source>
@@ -47,11 +47,11 @@
       </trans-unit>
       <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
-        <target state="translated">Información sobre nosotros</target>
+        <target state="translated">Sobre nosotros</target>
       </trans-unit>
       <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target state="translated">Condiciones generales de contrato</target>
+        <target state="translated">Términos y condiciones</target>
       </trans-unit>
       <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target state="translated">Ponte en contacto con nosotros</target>
+        <target state="translated">Contacto</target>
       </trans-unit>
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
@@ -67,7 +67,7 @@
       </trans-unit>
     <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
         <source>app.footer.rowCandidates</source>
-        <target state="translated">Candidatos/as</target>
+        <target state="translated">Área del candidato</target>
       </trans-unit>
       <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="yes">
         <source>app.footer.rowHome</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="yes">
         <source>app.footer.rowJobs</source>
-        <target state="translated">Empleos</target>
+        <target state="translated">Vacantes</target>
       </trans-unit>
       <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="yes">
         <source>app.footer.rowCompanies</source>
@@ -83,15 +83,15 @@
       </trans-unit>
       <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
         <source>app.footer.rowEmployers</source>
-        <target state="translated">Empresarios</target>
+        <target state="translated">Área del cliente</target>
       </trans-unit>
       <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
         <source>app.footer.introductionLabel</source>
-        <target state="translated">Lo que ofrecemos</target>
+        <target state="translated">Servicios</target>
       </trans-unit>
       <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
         <source>app.footer.askHelpLabel</source>
-        <target state="translated">Necesitas ayuda?</target>
+        <target state="translated">Soporte</target>
       </trans-unit>
       <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
         <source>app.blog</source>

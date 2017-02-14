@@ -25,7 +25,7 @@
         <source>app.youCanContinueTo</source>
         <target state="translated">Puedes seguir con</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecdf" resname="app.profile" approved="yes">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Perfil</target>
       </trans-unit>
@@ -683,7 +683,7 @@
       </trans-unit>
     <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Inicia sessión con Google</target>
+        <target state="translated">Inicia sesión con Google</target>
       </trans-unit>
       </body>
   </file>

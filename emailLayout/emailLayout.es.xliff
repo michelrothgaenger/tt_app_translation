@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
-        <target state="translated">Información sobre nosotros</target>
+        <target state="translated">Sobre nosotros</target>
       </trans-unit>
       <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target state="translated">Condiciones generales de contrato</target>
+        <target state="translated">Términos y condiciones</target>
       </trans-unit>
       <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
         <source>app.contactUs</source>
-        <target state="translated">Ponte en contacto con nosotros</target>
+        <target state="translated">Contacto</target>
       </trans-unit>
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>

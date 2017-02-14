@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline" approved="yes">
         <source>app.loginHeadline</source>
-        <target state="translated">Bienvenido/a de vuelta.</target>
+        <target state="translated">Bienvenido/a de nuevo</target>
       </trans-unit>
       <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta" approved="yes">
         <source>app.loginCta</source>
-        <target state="translated">Añadimos empleos nuevos cada dia. Inicia la sessión y empieza a buscar.</target>
+        <target state="translated">Añadimos nuevas vacantes cada día. Inicia tu sesión y empieza a buscar.</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target state="translated">Inicia sessión con LinkedIn</target>
+        <target state="translated">Inicia sesión con LinkedIn</target>
       </trans-unit>
       <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
         <source>app.signInWithXing</source>
@@ -23,11 +23,11 @@
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Inicia sessión con Google</target>
+        <target state="translated">Inicia sesión con Google</target>
       </trans-unit>
       <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target state="translated">Inicia sessión con Facebook</target>
+        <target state="translated">Inicia sesión con Facebook</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
@@ -43,15 +43,15 @@
       </trans-unit>
       <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target state="translated">Has olvidado tu contraseña?</target>
+        <target state="translated">¿Has olvidado tu contraseña?</target>
       </trans-unit>
       <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
         <source>security.login.submit</source>
-        <target state="translated">Iniciar sessión</target>
+        <target state="translated">Iniciar sesión</target>
       </trans-unit>
       <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target state="translated">No estás registrado aún? Haz un click aquí y regístrate.</target>
+        <target state="translated">¿Aún no estás registrado? Haz un click aquí y regístrate.</target>
       </trans-unit>
     </body>
   </file>

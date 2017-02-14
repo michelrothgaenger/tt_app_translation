@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject" approved="yes">
+        <source>app.inactivityEmail.subject</source>
+        <target state="translated">Sind Sie noch interessiert and Stellenangeboten?</target>
+      </trans-unit>
+      <trans-unit id="63eee8c047c24a8da1f3653875dabc82" resname="app.inactivityEmail" approved="yes">
+        <source>app.inactivityEmail</source>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;sind Sie noch immer auf der Suche nach interessanten Stellen in der Transport und Logistik Branche? Wir haben bemerkt, dass Sie sich länger nicht bei Transport Talent angemeldet haben. Nachstehend haben wir eine interessante Stellen für Sie zusammengestellt:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;Sehen Sie welche Unternehmen aktuell noch einstellen&lt;/a&gt;&lt;br&gt;&lt;a href="%blogUrl%"&gt;Lesen Sie unseren aktuellen Blogartikel&lt;/a&gt;&lt;br&gt;&lt;br&gt;Folgen Sie uns auf &lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt;, or &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Zögern Sie nicht uns zu kontaktieren sollten Sie Fragen haben. Wir stehen Ihnen immer unterstützend zur Seite.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

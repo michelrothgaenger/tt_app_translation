@@ -35,15 +35,15 @@
       </trans-unit>
       <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target state="translated">Has olvidado tu contraseña?</target>
+        <target state="translated">¿Has olvidado tu contraseña?</target>
       </trans-unit>
       <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
         <source>security.login.submit</source>
-        <target state="translated">Iniciar sessión</target>
+        <target state="translated">Iniciar sesión</target>
       </trans-unit>
       <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target state="translated">No estás registrado aún? Haz un click aquí y regístrate.</target>
+        <target state="translated">¿Aún no estás registrado? Haz un click aquí y regístrate.</target>
       </trans-unit>
     </body>
   </file>

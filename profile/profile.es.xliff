@@ -961,6 +961,10 @@
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Gestiona tu perfil de empresa</target>
       </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
+        <source>app.profile.settings.description</source>
+        <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil.</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

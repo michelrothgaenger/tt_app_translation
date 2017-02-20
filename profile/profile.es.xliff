@@ -375,7 +375,7 @@
       </trans-unit>
       <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel" approved="yes">
         <source>app.profileInputTotalExperienceSpecialityLabel</source>
-        <target state="translated">¿Cuál es tu enfoque profesional?</target>
+        <target state="translated">¿Cuál es tu especialidad?</target>
       </trans-unit>
       <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle">
         <source>app.profileSectionCvTitle</source>
@@ -395,7 +395,7 @@
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target state="translated">Cargo</target>
+        <target state="translated">Área</target>
       </trans-unit>
       <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>

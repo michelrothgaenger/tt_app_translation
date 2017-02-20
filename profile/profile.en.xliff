@@ -21,9 +21,9 @@
         <source>app.profile.settings.social-media.desciption</source>
         <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+        <target state="translated"></target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title">
         <source>app.profile.settings.password.title</source>

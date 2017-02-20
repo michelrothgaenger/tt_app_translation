@@ -53,41 +53,41 @@
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
       <target state="translated">Externaliza tus procesos o compleméntalos</target>
     </trans-unit>
-    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
+    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
         <source>app.employerService.detailsLabel</source>
-        <target>Details</target>
+        <target state="translated">Detalles</target>
     </trans-unit>
-    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou">
+    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou" approved="yes">
         <source>app.employerService.serviceBooking.thankYou</source>
-        <target>Thank you</target>
+        <target state="translated">Gracias</target>
     </trans-unit>
     <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
-        <target state="translated">Thank you very much we really appreciate it! We will reach out to you short term.</target>
+        <target state="translated">¡Muchas gracias, le agradecemos su confianza! Nos pondremos en contacto con usted lo antes posible.</target>
     </trans-unit>
-    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose">
+    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="yes">
         <source>app.employerService.serviceBooking.thankYouClose</source>
-        <target>Close window</target>
+        <target state="translated">Cerrar ventana</target>
     </trans-unit>
     <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
-        <target state="translated">Register now</target>
+        <target state="translated">Regístrate ahora</target>
     </trans-unit>
     <trans-unit id="053f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpCTA" approved="yes">
         <source>app.employerServiceMainPage.signUpCTA</source>
-        <target state="translated">Register now and gain access to a pool of select candidates</target>
+        <target state="translated">Regístrese ahora y obtenga acceso al mejor talento</target>
     </trans-unit>
     <trans-unit id="063f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.h1" approved="yes">
         <source>app.employerServiceMainPage.h1</source>
         <target state="translated">Hiring Solutions</target>
     </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.bookButtonLabel</source>
-            <target>Book</target>
+            <target state="translated">Contrata</target>
           </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>
-            <target>Inquiry</target>
+            <target state="translated">Más información</target>
           </trans-unit>
     </body>
   </file>

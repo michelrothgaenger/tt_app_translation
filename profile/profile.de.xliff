@@ -1044,6 +1044,22 @@
         <source>app.profile.errors.totalYearsExp</source>
         <target state="translated">Die Berufserfahrung in Jahren kann nur numerisch sein und muss zwischen 0 und 100 liegen</target>
       </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
+        <source>app.profile.settings.description</source>
+        <target state="translated">Hier finden Sie alle Einstellungen rund um Ihr Profil bei Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
+        <source>app.profile.settings.tab.general.description</source>
+        <target state="translated">Ändern Sie hier Ihre Login-Daten und legen Sie die Spracheinstellungen fest.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
+        <source>app.profile.settings.tab.login.description</source>
+        <target state="translated">Für den Login mit anderen Accounts verknüpfen Sie hier Ihre Social-Media-Konten oder hinterlegen Sie eine E-Mail-Adresse zur Wiederherstellung.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.desciption" approved="yes">
+        <source>app.profile.settings.social-media.desciption</source>
+        <target state="translated">Fügen Sie einen Login über Social Media hinzu oder deaktivieren Sie vorhandene Verknüpfungen mit Nutzerkonten.</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="01ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.title">
+      <trans-unit id="01ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.title" approved="yes">
         <source>app.employerServiceMainPage.meta.title</source>
-        <target>Employer services</target>
+        <target state="translated">Servicios para empresas</target>
       </trans-unit>
       <trans-unit id="011baf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.description">
         <source>app.employerServiceMainPage.meta.description</source>
@@ -15,19 +15,19 @@
       </trans-unit>
       <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="yes">
         <source>app.employerServiceMainPage.header</source>
-        <target state="translated">Why partner with Transport Talent?</target>
+        <target state="translated">¿Por qué aliarse con Transport Talent?</target>
       </trans-unit>
       <trans-unit id="03ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.description" approved="yes">
         <source>app.employerServiceMainPage.description</source>
-        <target state="translated">We are a global job portal and recruitment company dedicated to the transport and logistics industry. We combine years of industry experience with innovative new targeting methods to reach the right candidates. We aim to make your hiring process as fast, cost effective and streamlined as possible.</target>
+        <target state="translated">Somos un portal de empleo global y una empresa de reclutamiento dedicada exclusivamente a la industria del transporte y la logística. Combinamos años de experiencia en la industria con nuevos e  innovadores métodos de especialización para llegar a los candidatos más adecuados. Nuestro objetivo es hacer que su proceso de contratación sea más rápido, rentable y eficiente.</target>
       </trans-unit>
       <trans-unit id="04ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.title" approved="yes">
         <source>app.employerServiceMainPage.solutions.title</source>
-        <target state="translated">Solutions and Pricing</target>
+        <target state="translated">Servicios y Tarifas</target>
       </trans-unit>
       <trans-unit id="05ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.description" approved="yes">
         <source>app.employerServiceMainPage.solutions.description</source>
-        <target state="translated">We have designed solutions that can meet your every need when looking for a new employee. With job postings you get your open position and your brand name exposed to a large audience of industry professionals. With our recruitment solutions one of our recruitment specialists will help you prepare a shortlist of candidates ready for interview within weeks.</target>
+        <target state="translated">Hemos diseñado una serie de soluciones específicas que pueden satisfacer todas sus necesidades de reclutamiento. Con la publicación de ofertas de trabajo no sólo gestionará sus vacantes sino que su imagen de marca llegará a una gran audiencia de profesionales del sector a nivel mundial. Con nuestras soluciones de reclutamiento, nuestro equipo de recursos humanos especialista en selección y atracción de talento, le ayudará a preparar un talent pool de candidatos adecuados y listos para ser entrevistados de manera inmediata.</target>
       </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
       <source>app.employerServiceMainPage.section.choice.header</source>
@@ -39,19 +39,19 @@
     </trans-unit>
     <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
-      <target state="translated">See job posting solutions</target>
+      <target state="translated">Publicación de ofertas</target>
     </trans-unit>
     <trans-unit id="08ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonDescription</source>
-      <target state="translated">Advertise all of your open positions up for a fixed annual price</target>
+      <target state="translated">Anuncie todas sus posiciones abiertas con una tarifa fija anual</target>
     </trans-unit>
     <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonLabel</source>
-      <target state="translated">see recruitment solutions</target>
+      <target state="translated">Reclutamiento y Selección</target>
     </trans-unit>
     <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target state="translated">Need help with a shortlist of candidates or full process recruiting services?</target>
+      <target state="translated">Externaliza tus procesos o compleméntalos</target>
     </trans-unit>
     <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
         <source>app.employerService.detailsLabel</source>

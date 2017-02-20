@@ -69,9 +69,9 @@
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
         <target state="translated">Correo electrónico a candidatos relevantes</target>
       </trans-unit>
-      <trans-unit id="2036ae0c5bce42fa9c7ef6dec7ecb22d" resname="app.employerService.section.singleJobPost.section.smallBusiness.size">
+      <trans-unit id="2036ae0c5bce42fa9c7ef6dec7ecb22d" resname="app.employerService.section.singleJobPost.section.smallBusiness.size" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.size</source>
-        <target>Basic</target>
+        <target state="translated">Basic</target>
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
@@ -85,9 +85,9 @@
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target state="translated">Ilimitado</target>
       </trans-unit>
-      <trans-unit id="037dc1de9a4c456bb24a960c869bf360" resname="app.employerService.singleJobPost.smallBusinees.positionsNumber">
+      <trans-unit id="037dc1de9a4c456bb24a960c869bf360" resname="app.employerService.singleJobPost.smallBusinees.positionsNumber" approved="yes">
         <source>app.employerService.singleJobPost.smallBusinees.positionsNumber</source>
-        <target>10</target>
+        <target state="translated">10</target>
       </trans-unit>
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf1e" resname="app.employerService.section.singleJobPost.unlimitedPositonsDescription" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsDescription</source>
@@ -97,17 +97,17 @@
         <source>app.employerService.section.singleJobPost.numberPositonsDescription</source>
         <target state="translated">vacantes online en TransportTalent.com por año</target>
       </trans-unit>
-      <trans-unit id="68de58a434ad4902a96ab8efffa0858f" resname="app.employerService.section.singleJobPost.section.mediumBusiness.size">
+      <trans-unit id="68de58a434ad4902a96ab8efffa0858f" resname="app.employerService.section.singleJobPost.section.mediumBusiness.size" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.size</source>
-        <target>Advanced</target>
+        <target state="translated">Advanced</target>
       </trans-unit>
       <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
         <target state="translated">50% de descuento</target>
       </trans-unit>
-      <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size">
+      <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
-        <target>Enterprise</target>
+        <target state="translated">Enterprise</target>
       </trans-unit>
       <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
@@ -125,9 +125,9 @@
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
         <target state="translated">Job Posting Solutions</target>
       </trans-unit>
-      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel">
+      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
-        <target>Subtotal:</target>
+        <target state="translated">Subtotal:</target>
       </trans-unit>
       <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note" approved="yes">
         <source>app.employerService.section.serviceBooking.note</source>

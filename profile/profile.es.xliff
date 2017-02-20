@@ -965,6 +965,96 @@
         <source>app.profile.settings.description</source>
         <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil.</target>
       </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
+        <source>app.profile.settings.tab.general.description</source>
+        <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil 2</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
+        <source>app.profile.settings.tab.login.description</source>
+        <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil 3</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.desciption" approved="yes">
+        <source>app.profile.settings.social-media.desciption</source>
+        <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil 4</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
+        <source>app.profile.settings.rescue.desciption</source>
+        <target state="translated">Crea tus propias alertas de empleo y recibirás las mejores vacantes adecuadas a tu perfil 5</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
+        <source>app.profile.settings.password.title</source>
+        <target state="translated">Contraseña</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel" approved="yes">
+        <source>app.profile.settings.password.newLabel</source>
+        <target state="translated">Nueva Contraseña</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel" approved="yes">
+        <source>app.profile.settings.password.confirmationLabel</source>
+        <target state="translated">Repite Contraseña</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle" approved="yes">
+        <source>app.profile.settings.password.currentTitle</source>
+        <target state="translated">Contraseña Actual</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.password.currentLabel" approved="yes">
+        <source>app.profile.settings.password.currentLabel</source>
+        <target state="translated">Contraseña Actual</target>
+      </trans-unit>
+      <trans-unit id="2d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.passwordsDoNotMatch" approved="yes">
+        <source>app.profile.settings.passwordsDoNotMatch</source>
+        <target state="translated">La contraseña no coincide</target>
+      </trans-unit>
+      <trans-unit id="3d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.social-login.title" approved="yes">
+        <source>app.profile.settings.social-login.title</source>
+        <target state="translated">Inicia sesión a través de las redes sociales</target>
+      </trans-unit>
+      <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title" approved="yes">
+        <source>app.profile.settings.rescue.title</source>
+        <target state="translated">Proporciona una información de rescate</target>
+      </trans-unit>
+      <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail" approved="yes">
+        <source>app.profile.settings.rescue.1stEmail</source>
+        <target state="translated">Correo electrónico de rescate</target>
+      </trans-unit>
+      <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
+        <source>app.profile.settings.title</source>
+        <target state="translated">Opciones</target>
+      </trans-unit>
+
+
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedin" approved="yes">
+        <source>app.signInWithLinkedin</source>
+        <target state="translated">Inicia sesión con LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFacebook" approved="yes">
+        <source>app.signInWithFacebook</source>
+        <target state="translated">Inicia sesión con Facebook</target>
+      </trans-unit>
+      <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
+        <source>app.profile.login.service.active</source>
+        <target state="translated">Activar</target>
+      </trans-unit>
+      <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered" approved="yes">
+        <source>app.profile.login.service.notRegistered</source>
+        <target state="translated">No registrado</target>
+      </trans-unit>
+      <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable" approved="yes">
+        <source>app.profile.login.service.disable</source>
+        <target state="translated">Inhabilitar</target>
+      </trans-unit>
+      <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
+        <source>app.profile.login.service.register</source>
+        <target state="translated">Registro</target>
+      </trans-unit>
+      <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title" approved="yes">
+        <source>app.profile.settings.tab.general.title</source>
+        <target state="translated">General</target>
+      </trans-unit>
+      <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title" approved="yes">
+        <source>app.profile.settings.tab.login.title</source>
+        <target state="translated">Acceder</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

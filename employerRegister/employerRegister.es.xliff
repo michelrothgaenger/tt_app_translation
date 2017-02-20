@@ -23,23 +23,23 @@
       </trans-unit>
       <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
-        <target state="translated">Create tu perfil de empresa gratuito y accede inmediatamente a los talentos de primer nivel.&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Crea tu perfil de empresa y accede inmediatamente al mejor talento.&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
-        <target state="translated">* Demuestra el campo requerido.</target>
+        <target state="translated">* Campo obligatorio</target>
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target state="translated">Estoy de acuerdo con</target>
+        <target state="translated">Estoy de acuerdo</target>
       </trans-unit>
       <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target state="translated">Términos y condiciones generales de contratación</target>
+        <target state="translated">Términos y Condiciones Generales de Contratación</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target state="translated">Por favor, examina esa caja si quieres proceder.</target>
+        <target state="translated">Por favor, rellene los campos si quiere seguir con el proceso..</target>
       </trans-unit>
       <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target state="translated">nivel</target>
+        <target state="translated">Cargo</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

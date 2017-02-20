@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
         <source>app.privacyPolicy</source>
-        <target>Protección de datos</target>
+        <target state="translated">Protección de datos</target>
       </trans-unit>
       <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>

@@ -131,7 +131,7 @@
       </trans-unit>
       <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName" approved="yes">
         <source>app.profileYourMentorName</source>
-        <target state="translated">Ginés</target>
+        <target state="translated">Svenja</target>
       </trans-unit>
       <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact" approved="yes">
         <source>app.contact</source>
@@ -375,7 +375,7 @@
       </trans-unit>
       <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel" approved="yes">
         <source>app.profileInputTotalExperienceSpecialityLabel</source>
-        <target state="translated">¿Cuál es tu enfoque profesional?</target>
+        <target state="translated">¿Cuál es tu especialidad?</target>
       </trans-unit>
       <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle">
         <source>app.profileSectionCvTitle</source>
@@ -395,7 +395,7 @@
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target state="translated">Cargo</target>
+        <target state="translated">Área</target>
       </trans-unit>
       <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
         <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
@@ -691,7 +691,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Transport Talent le permite tener seguir a las principales empresas del transporte y la logística. Añada empresas a su tablón o borrelas como mejor le parezca.</target>
+        <target state="translated">Transport Talent le permite tener seguir a las principales empresas del transporte y la logística. Añada empresas a su menú o borrelas como mejor le parezca.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
@@ -913,6 +913,54 @@
         <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
         <target state="translated">Los campos de empresa y nombre de la vacante no deben estar vacíos</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
+        <source>app.profile.dashboard.profile.tile.title</source>
+        <target state="translated">Perfil</target>
+      </trans-unit>
+      <trans-unit id="b90a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.companyJobs.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.title</source>
+        <target state="translated">Vacantes</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
+        <source>app.profile.dashboard.settings.tile.title</source>
+        <target state="translated">Opciones</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-jobs.tile.title</source>
+        <target state="translated">Vacantes guardadas</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.title</source>
+        <target state="translated">Empresas seguidas</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-job.tile.description</source>
+        <target state="translated">Aquí puedes ver tu listado de vacantes.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.description</source>
+        <target state="translated">Haz seguimiento a los compañías que más te interesen.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
+        <source>app.profile.dashboard.profile.tile.description</source>
+        <target state="translated">Mantén tu perfil actualizado y sé atractivo para los principales empleadores.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
+        <source>app.profile.dashboard.settings.tile.description</source>
+        <target state="translated">Administrar la configuración de tu cuenta, por ejemplo dirección de correo electrónico y contraseña.</target>
+      </trans-unit>
+      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.description</source>
+        <target state="translated">Gestiona las vacantes de tu empresa</target>
+      </trans-unit>
+      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.title</source>
+        <target state="translated">Perfil de compañía</target>
+      </trans-unit>
+      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.description</source>
+        <target state="translated">Gestiona tu perfil de empresa</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -101,6 +101,10 @@
         <source>app.signUp</source>
         <target state="translated">Register</target>
       </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30aa" resname="app.requiredErrorText">
+              <source>app.requiredErrorText</source>
+              <target>This field is required.</target>
+            </trans-unit>
     </body>
   </file>
 </xliff>

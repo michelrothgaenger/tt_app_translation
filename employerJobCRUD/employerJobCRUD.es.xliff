@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline">
+      <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline" approved="yes">
         <source>app.editJobHeadline</source>
-        <target>Edit your job</target>
+        <target state="translated">Editar vacante</target>
       </trans-unit>
-      <trans-unit id="0a9236eff0b2fa7e6c09e5706bd7204a" resname="app.postJobHeadline">
+      <trans-unit id="0a9236eff0b2fa7e6c09e5706bd7204a" resname="app.postJobHeadline" approved="yes">
         <source>app.postJobHeadline</source>
-        <target>Post your job</target>
+        <target state="translated">Publicar vacante</target>
       </trans-unit>
       <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
         <source>app.metaDescriptionEditJobPage</source>
@@ -29,13 +29,13 @@
         <source>app.metaKeywordsPostJobPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc">
+      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
-        <target>Fill in below the necessary information and save.</target>
+        <target state="translated">Complete abajo la información necesaria y guarde.</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.employerJobCRUD.buttonLabel.cancel">
+      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.employerJobCRUD.buttonLabel.cancel" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
-        <target>Abort and back to list</target>
+        <target state="translated">Cancelar y volver a la lista</target>
       </trans-unit>
       <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flashMessageYouCantEditJobs">
         <source>app.flashMessageYouCantEditJobs</source>
@@ -57,13 +57,13 @@
         <source>app.employerJobEdit.info.jobId</source>
         <target>Job ID:</target>
       </trans-unit>
-      <trans-unit id="9f999f8fcd194d4ca6a1e04e1721ce20" resname="app.employerJobEdit.buttonLabels.edit">
+      <trans-unit id="9f999f8fcd194d4ca6a1e04e1721ce20" resname="app.employerJobEdit.buttonLabels.edit" approved="yes">
         <source>app.employerJobEdit.buttonLabels.edit</source>
-        <target>EDIT</target>
+        <target state="translated">EDITAR</target>
       </trans-unit>
-      <trans-unit id="e70d6dd891de48d8822aff97c3d8dd5d" resname="app.email">
+      <trans-unit id="e70d6dd891de48d8822aff97c3d8dd5d" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Contact Email</target>
+        <target state="translated">Email de contacto</target>
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
@@ -73,105 +73,105 @@
         <source>app.url</source>
         <target>Url</target>
       </trans-unit>
-      <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary">
+      <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary" approved="yes">
         <source>app.salary</source>
-        <target>Salary</target>
+        <target state="translated">Salario</target>
       </trans-unit>
-      <trans-unit id="b285825bb4d88f9ae11ab7866cd0900d" resname="app.department">
+      <trans-unit id="b285825bb4d88f9ae11ab7866cd0900d" resname="app.department" approved="yes">
         <source>app.department</source>
-        <target>Department</target>
+        <target state="translated">Departamento</target>
       </trans-unit>
-      <trans-unit id="af0862700a3daf94a87d39563ec91fa3" resname="app.employmentType">
+      <trans-unit id="af0862700a3daf94a87d39563ec91fa3" resname="app.employmentType" approved="yes">
         <source>app.employmentType</source>
-        <target>Employment type</target>
+        <target state="translated">Tipo de contratación</target>
       </trans-unit>
       <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">Ciudad</target>
       </trans-unit>
-      <trans-unit id="ea2f42eddfe215a8a9411a05f31fde55" resname="app.state">
+      <trans-unit id="ea2f42eddfe215a8a9411a05f31fde55" resname="app.state" approved="yes">
         <source>app.state</source>
-        <target>State</target>
+        <target state="translated">Provincia</target>
       </trans-unit>
       <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
         <source>app.country</source>
         <target state="translated">País</target>
       </trans-unit>
-      <trans-unit id="3fe03121e3b58897a77dbf9d04406728" resname="app.contractTerm">
+      <trans-unit id="3fe03121e3b58897a77dbf9d04406728" resname="app.contractTerm" approved="yes">
         <source>app.contractTerm</source>
-        <target>Contract term</target>
+        <target state="translated">Tipo de contrato</target>
       </trans-unit>
-      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDescription">
+      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDescription" approved="yes">
         <source>app.jobDescription</source>
-        <target>Description</target>
+        <target state="translated">Descripción</target>
       </trans-unit>
       <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
         <source>app.save</source>
         <target state="translated">Guardar</target>
       </trans-unit>
-      <trans-unit id="410a3405465687e94320cdb8675b4f19" resname="app.postAnotherJob">
+      <trans-unit id="410a3405465687e94320cdb8675b4f19" resname="app.postAnotherJob" approved="yes">
         <source>app.postAnotherJob</source>
-        <target>Post another job</target>
+        <target state="translated">Publicar otra vacante</target>
       </trans-unit>
-      <trans-unit id="7cab6c0e9dcd49439b971605d33979c5" resname="app.employerJobCRUD.buttonLabel.unpublish">
+      <trans-unit id="7cab6c0e9dcd49439b971605d33979c5" resname="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
-        <target>Take offline</target>
+        <target state="translated">Mantener offline</target>
       </trans-unit>
-      <trans-unit id="e5ec522d2e864df0a9a9514559315c89" resname="app.employerJobCRUD.buttonLabel.publishJobNow">
+      <trans-unit id="e5ec522d2e864df0a9a9514559315c89" resname="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
-        <target>Publish job now</target>
+        <target state="translated">Publicar vacante ahora</target>
       </trans-unit>
-      <trans-unit id="e2326198ca8144a584bd9b903cad0241" resname="app.employerJobCRUD.buttonLabel.preview">
+      <trans-unit id="e2326198ca8144a584bd9b903cad0241" resname="app.employerJobCRUD.buttonLabel.preview" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.preview</source>
-        <target>Preview</target>
+        <target state="translated">Vista previa</target>
       </trans-unit>
-      <trans-unit id="e1945aa8232f4c0aa4e78c905c21cc12" resname="app.employerJobCRUD.buttonLabel.edit">
+      <trans-unit id="e1945aa8232f4c0aa4e78c905c21cc12" resname="app.employerJobCRUD.buttonLabel.edit" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.edit</source>
-        <target>Edit</target>
+        <target state="translated">Editar</target>
       </trans-unit>
-      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted">
+      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
         <source>app.flashMessageJobPosted</source>
-        <target>Your job has been posted.</target>
+        <target state="translated">Su vacante ha sido publicada.</target>
       </trans-unit>
-      <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel">
+      <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel" approved="yes">
         <source>app.employerJobCRUD.delimiterLabel</source>
-        <target>or later</target>
+        <target state="translated">o después</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe3024" resname="app.employerJobCRUD.requiredErrorText">
+      <trans-unit id="6680d24c091a48388818a0479cfe3024" resname="app.employerJobCRUD.requiredErrorText" approved="yes">
         <source>app.employerJobCRUD.requiredErrorText</source>
-        <target>This field is required.</target>
+        <target state="translated">Campo obligatorio.</target>
       </trans-unit>
-      <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText">
+      <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
-        <target>This field is required for post job later.</target>
+        <target state="translated">Este campo es necesario para publicar posteriormente.</target>
       </trans-unit>
-      <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.buttonLabel.postJobLater">
+      <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
-        <target>POST JOB LATER</target>
+        <target state="translated">PUBLICAR VACANTE DESPUÉS</target>
       </trans-unit>
-      <trans-unit id="696116bd088248978fc7c142ae6bf3e2" resname="app.employerJobCRUD.saveJobForLaterButtonLabel">
+      <trans-unit id="696116bd088248978fc7c142ae6bf3e2" resname="app.employerJobCRUD.saveJobForLaterButtonLabel" approved="yes">
         <source>app.employerJobCRUD.saveJobForLaterButtonLabel</source>
-        <target>SAVE FOR LATER</target>
+        <target state="translated">GUARDAR PARA MÁS TARDE</target>
       </trans-unit>
-      <trans-unit id="7c967134d70f42cd9acbac1af636d435" resname="app.employerJobCRUD.labelFromDate">
+      <trans-unit id="7c967134d70f42cd9acbac1af636d435" resname="app.employerJobCRUD.labelFromDate" approved="yes">
         <source>app.employerJobCRUD.labelFromDate</source>
-        <target>From</target>
+        <target state="translated">Desde</target>
       </trans-unit>
-      <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime">
+      <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime" approved="yes">
         <source>app.employerJobCRUD.labelFromTime</source>
-        <target>at</target>
+        <target state="translated">en</target>
       </trans-unit>
       <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput">
         <source>app.employerJobCRUD.labelAfterHourInput</source>
         <target>h</target>
       </trans-unit>
-      <trans-unit id="0e5bdbf1bedb43fd8133aa4edc9ecb66" resname="app.employerJobCRUD.disabledSelectOption">
+      <trans-unit id="0e5bdbf1bedb43fd8133aa4edc9ecb66" resname="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
-        <target>select an option</target>
+        <target state="translated">elige una opción</target>
       </trans-unit>
-      <trans-unit id="523e6c14550747b69b5b9e2eb5bbe5ff" resname="app.employerJobCRUD.emptyRequiredInputsAlertMessage">
+      <trans-unit id="523e6c14550747b69b5b9e2eb5bbe5ff" resname="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
-        <target>Please check fields again</target>
+        <target state="translated">Por favor compruebe los campos</target>
       </trans-unit>
     </body>
   </file>

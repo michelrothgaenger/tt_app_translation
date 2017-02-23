@@ -37,10 +37,6 @@
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target state="translated">Cancelar y volver a la lista</target>
       </trans-unit>
-      <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flashMessageYouCantEditJobs">
-        <source>app.flashMessageYouCantEditJobs</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flashMessageJobSaved">
         <source>app.flashMessageJobSaved</source>
         <target>Job has been saved.</target>

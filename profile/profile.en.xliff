@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
-        <target state="translated"></target>
+        <target state="translated"/>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title">
         <source>app.profile.settings.password.title</source>
@@ -887,9 +887,9 @@
         <source>app.profile.section.jobAlerts.title</source>
         <target>JOB ALERTS</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr">
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
         <source>app.profile.section.jobAlerts.descr</source>
-        <target>descr</target>
+        <target state="translated">Want to be notified about new job postings? Set up one or more job alerts with your own criteria and we will send you an email when there are new positions avaible.</target>
       </trans-unit>
       <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>

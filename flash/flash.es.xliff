@@ -45,10 +45,6 @@
           <source>app.flash.job.employer.saved</source>
           <target>Job has been saved</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted">
-                <source>app.flashMessageJobPosted</source>
-                <target>Your job has been posted</target>
-              </trans-unit>
 <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
         <source>app.flashMessageJobPosted</source>
         <target state="translated">Su vacante ha sido publicada</target>

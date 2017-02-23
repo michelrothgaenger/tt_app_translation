@@ -129,10 +129,6 @@
         <source>app.employerJobCRUD.buttonLabel.edit</source>
         <target>Edit</target>
       </trans-unit>
-      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted">
-        <source>app.flashMessageJobPosted</source>
-        <target>Your job has been posted.</target>
-      </trans-unit>
       <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel">
         <source>app.employerJobCRUD.delimiterLabel</source>
         <target>or later</target>

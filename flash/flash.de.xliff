@@ -41,6 +41,10 @@
           <source>app.flash.oauthError</source>
           <target state="translated">Authentifizierung über %serviceName% fehlgeschlagen – bitte versuchen Sie es erneut</target>
         </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
+                <source>app.flashMessageJobPosted</source>
+                <target state="translated">Ihre Anzeige wurde veröffentlicht</target>
+              </trans-unit>
         </body>
   </file>
 </xliff>

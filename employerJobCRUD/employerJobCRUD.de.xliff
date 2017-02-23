@@ -129,10 +129,7 @@
         <source>app.employerJobCRUD.buttonLabel.edit</source>
         <target state="translated">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
-        <source>app.flashMessageJobPosted</source>
-        <target state="translated">Ihre Anzeige wurde veröffentlicht.</target>
-      </trans-unit>
+
       <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel" approved="yes">
         <source>app.employerJobCRUD.delimiterLabel</source>
         <target state="translated">oder geplant</target>

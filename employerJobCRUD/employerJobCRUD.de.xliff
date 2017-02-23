@@ -37,14 +37,6 @@
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target state="translated">Abbrechen und zurück zur Liste</target>
       </trans-unit>
-      <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flashMessageYouCantEditJobs">
-        <source>app.flashMessageYouCantEditJobs</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flashMessageJobSaved" approved="yes">
-        <source>app.flashMessageJobSaved</source>
-        <target state="translated">Anzeige wurde gespeichert.</target>
-      </trans-unit>
       <trans-unit id="32d746f64e514fcbbc3731e4395b1a13" resname="app.employerJobEdit.info.title" approved="yes">
         <source>app.employerJobEdit.info.title</source>
         <target state="translated">Stellenanzeigen</target>
@@ -129,10 +121,7 @@
         <source>app.employerJobCRUD.buttonLabel.edit</source>
         <target state="translated">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
-        <source>app.flashMessageJobPosted</source>
-        <target state="translated">Ihre Anzeige wurde veröffentlicht.</target>
-      </trans-unit>
+
       <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel" approved="yes">
         <source>app.employerJobCRUD.delimiterLabel</source>
         <target state="translated">oder geplant</target>

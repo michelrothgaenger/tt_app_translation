@@ -213,6 +213,14 @@
         <source>app.employerServicesHiringsolutions.popup.headline</source>
         <target state="translated">Recruitment Solutions</target>
     </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr">
+        <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
+        <target>Lorem ipsum</target>
+    </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr">
+        <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
+        <target>Lorem upsum</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

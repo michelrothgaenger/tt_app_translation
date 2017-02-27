@@ -233,6 +233,18 @@
           <source>app.employerService.subheadline</source>
           <target state="translated">Let us find the right people for you so you can focus on interviewing and selecting your new hire</target>
       </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047001" resname="app.employerService.popup.smallBusiness.descr">
+          <source>app.employerService.popup.smallBusiness.descr</source>
+          <target>Lorem ipsum</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047002" resname="app.employerService.popup.mediumBusiness.descr">
+          <source>app.employerService.popup.mediumBusiness.descr</source>
+          <target>Lorem ipsum</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047003" resname="app.employerService.popup.enterprise.descr">
+          <source>app.employerService.popup.enterprise.descr</source>
+          <target>Lorem ipsum</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

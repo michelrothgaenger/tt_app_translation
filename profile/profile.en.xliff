@@ -5,33 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+        <target state="translated">Change your account settings below.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+        <target state="translated">Change your login credentials and choose your language.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
         <source>app.profile.settings.tab.login.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+        <target state="translated">To use an existing account for login, add one of your social media accounts. Add a recovery email in case you forget your login details for Transport Talent. All changes must be confirmed with your current password.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</target>
+        <target state="translated">Add a login via social media or deactivate existing accounts.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
-        <target state="translated"/>
+        <target state="translated">Enter a rescue email to be able to restore your login credentials.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
         <source>app.profile.settings.password.title</source>
-        <target>Password</target>
+        <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel">
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel" approved="yes">
         <source>app.profile.settings.password.newLabel</source>
-        <target>New Password</target>
+        <target state="translated">New Password</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel">
         <source>app.profile.settings.password.confirmationLabel</source>

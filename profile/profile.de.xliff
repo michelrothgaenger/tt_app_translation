@@ -860,17 +860,17 @@
         <source>app.profile.section.jobAlerts.title</source>
         <target state="translated">Suchagenten</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr">
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
       <source>app.profile.section.jobAlerts.descr</source>
-      <target>descr</target>
+      <target state="translated">Sie möchten über neue Stellenanzeigen informiert werden? Legen Sie einen oder mehrere Suchagenten an und wir benachrichtigen Sie per E-Mail.</target>
     </trans-unit>
       <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
-        <target state="translated">Suchagenten einrichten</target>
+        <target state="translated">SUCHAGENTEN EINRICHTEN</target>
       </trans-unit>
       <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.title</source>
-        <target state="translated">Speichern</target>
+        <target state="translated">SUCHAGENTEN SPEICHERN</target>
       </trans-unit>
       <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.note</source>

@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target state="translated">Akquise durch Personalberater</target>
+        <target state="translated">Gezielte Akquise durch Personalberater</target>
       </trans-unit>
       <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info</source>
@@ -99,8 +99,7 @@
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Stellen-
-anzeigen</target>
+        <target state="translated">Stellenanzeigen</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -120,7 +119,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
-        <target state="translated">Produkte und Angebote ansehen</target>
+        <target state="translated">Produkte und Services ansehen</target>
       </trans-unit>
       <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
@@ -196,7 +195,7 @@ anzeigen</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.description</source>
-        <target state="translated">With Transport Talent you get your open positions exposed to a large audience of transport and logistics professionals.</target>
+        <target state="translated">Gestalten Sie Ihren Einstellungsprozess schnell, kostengünstig und zielführend – mit Transport Talent.</target>
     </trans-unit>
     <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
@@ -213,6 +212,14 @@ anzeigen</target>
     <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>
         <target state="translated">Recruiting-Lösungen</target>
+    </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
+        <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
+        <target state="translated">Optimierte Stellenbeschreibung, erhöhte Reichweite durch Social Media, Akquise über persönliche Kandidatenansprache und -auswahl.</target>
+    </trans-unit>
+    <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
+        <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
+        <target state="translated">Das komplette Recruiting-Paket mit optimierter Stellenbeschreibung, erhöhter Reichweite durch Social Media, persönliche Kandidatenansprache und sorgfältige Auswahl, Unterstützung bei den Verhandlungen, Referenz-Check und Gewährleistungsgarantie.</target>
     </trans-unit>
     </body>
   </file>

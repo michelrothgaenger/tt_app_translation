@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
     <header>
@@ -15,23 +15,23 @@
       </trans-unit>
       <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
         <source>app.metaDescriptionEditJobPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage">
         <source>app.metaKeywordsEditJobPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage">
+      <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage" approved="yes">
         <source>app.metaDescriptionPostJobPage</source>
-        <target></target>
+        <target state="translated">Advertise your open positions and hire the best.</target>
       </trans-unit>
-      <trans-unit id="7b9853f0fcedebf27dd7deb3ab6922f6" resname="app.metaKeywordsPostJobPage">
+      <trans-unit id="7b9853f0fcedebf27dd7deb3ab6922f6" resname="app.metaKeywordsPostJobPage" approved="yes">
         <source>app.metaKeywordsPostJobPage</source>
-        <target></target>
+        <target state="translated">Transport, Logistics, shipping, cargo, positions, jobs, openings, edit, posting, create, publish, advertise, hire, candidate, vacancy</target>
       </trans-unit>
-      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc">
+      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
-        <target>Fill in below the necessary information and save.</target>
+        <target state="translated">Fill in below the necessary information and save.</target>
       </trans-unit>
       <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.employerJobCRUD.buttonLabel.cancel">
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="d8d8ad649fb240ff8a874f7420cabc4f" resname="app.employerJobEdit.info.description">
         <source>app.employerJobEdit.info.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="5158e8e600ef4dc38be50a88e254748d" resname="app.employerJobEdit.info.jobId">
         <source>app.employerJobEdit.info.jobId</source>

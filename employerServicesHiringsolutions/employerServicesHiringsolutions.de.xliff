@@ -49,10 +49,22 @@
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
         <target state="translated">SHORTLIST</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.packages.activationLabel" approved="yes">
-        <source>app.employerServicesHiringsolutions.packages.activationLabel</source>
-        <target state="translated">Aktivierung</target>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
+        <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
+        <target state="translated">€ 1.000 Aktivierung</target>
       </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
+        <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
+        <target state="translated">€ 1.500 Aktivierung</target>
+      </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
+                <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
+                <target state="translated">+ € 4.000 pro eingestelltem Kandidaten*</target>
+            </trans-unit>
+            <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
+                <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
+                <target state="translated">+ 15% des Jahresgehalts des Kandidaten bei Einstellung*</target>
+            </trans-unit>
       <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.descr</source>
         <target state="translated">des Jahresgehalts des Kandidaten bei Einstellung*</target>

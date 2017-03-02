@@ -13,13 +13,13 @@
         <source>app.postJobHeadline</source>
         <target>Post your job</target>
       </trans-unit>
-      <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
+      <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage" approved="yes">
         <source>app.metaDescriptionEditJobPage</source>
-        <target/>
+        <target state="translated">Edit your job postings and find the best candidates from the transport and logistics industry.</target>
       </trans-unit>
-      <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage">
+      <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage" approved="yes">
         <source>app.metaKeywordsEditJobPage</source>
-        <target/>
+        <target state="translated">Transport, Logistis, positions, jobs, opening, vacancy, posting, candidate, professional, hire, edit, publish, change</target>
       </trans-unit>
       <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage" approved="yes">
         <source>app.metaDescriptionPostJobPage</source>

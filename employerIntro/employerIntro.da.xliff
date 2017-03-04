@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target state="translated">For Virksomheder</target>
+        <target state="translated">Virksomhed</target>
       </trans-unit>
       <trans-unit id="0190071e49cbb691dac26111fced3989" resname="app.metaDescriptionForEmployersPage" approved="yes">
         <source>app.metaDescriptionForEmployersPage</source>
@@ -19,15 +19,15 @@
       </trans-unit>
       <trans-unit id="fe999410ce82ee09c8fc68305884388b" resname="app.introductionSourcingHeadline" approved="yes">
         <source>app.introductionSourcingHeadline</source>
-        <target state="translated">Få fat i de bedste talenter inden for logistik og transport</target>
+        <target state="translated">Få fat i de bedste talenter inden for transport og logistik</target>
       </trans-unit>
       <trans-unit id="5d8d2fb3c62261372e17c7c2fdb42bc5" resname="app.introductionSourcingDesc" approved="yes">
         <source>app.introductionSourcingDesc</source>
-        <target state="translated">Opret din virksomhedsprofil nu og få adgang til en stor gruppe af specialister inden for logistik og transport</target>
+        <target state="translated">Opret din virksomhedsprofil nu og få adgang til specialister</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
-        <target state="translated">Opret en profil nu - det koster ikke noget</target>
+        <target state="translated">Opret en profil nu - det er gratis</target>
       </trans-unit>
       <trans-unit id="43659ddb3018253519f323cf7e7f0d2b" resname="app.readOn" approved="yes">
         <source>app.readOn</source>
@@ -85,9 +85,9 @@
         <source>app.introductionHowWeAreDifferentItem1Headline</source>
         <target state="translated">Et talentnetværk af specialister inden for logistisk og transport</target>
       </trans-unit>
-      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc" approved="yes">
+      <trans-unit id="edf5e0ee3e6f1174427c2ddf9a1d8a0e" resname="app.introductionHowWeAreDifferentItem1Desc" approved="no">
         <source>app.introductionHowWeAreDifferentItem1Desc</source>
-        <target state="translated">Vi har branchens største netværk af fagfolk og specialister indenfor logistik og transport, der passivt søger nye muligheder. Vores dybdegående medlems profiler og godkendelsesprocess gør det muligt for os at målrette vores søgning efter profiler der passer specifikt til din åbne stilling.</target>
+        <target state="needs-translation">Vi har branchens største netværk af fagfolk og specialister indenfor logistik og transport, der passivt søger nye muligheder. Vores dybdegående medlems profiler og godkendelsesprocess gør det muligt for os at målrette vores søgning efter profiler der passer specifikt til din åbne stilling.</target>
       </trans-unit>
       <trans-unit id="75bfae405d71c9fd9821593a2472e945" resname="app.introductionHowWeAreDifferentItem2Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem2Headline</source>
@@ -107,15 +107,15 @@
       </trans-unit>
       <trans-unit id="a75a61a0a6609e635b1fe8060ea7ee62" resname="app.introductionHowWeAreDifferentItem4Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem4Headline</source>
-        <target state="translated">Fokus på logistik</target>
+        <target state="translated">Fokus på transport og logistik</target>
       </trans-unit>
-      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc" approved="yes">
+      <trans-unit id="ae1b3f399fc354a6dd20527e8a13584d" resname="app.introductionHowWeAreDifferentItem4Desc" approved="no">
         <source>app.introductionHowWeAreDifferentItem4Desc</source>
-        <target state="translated">Vi har taget en strategisk beslutning der gør at vi udelukkende fokusere på rekruttering af fagfolk og specialister indenfor logistik og transport. Vi har tilbragt det meste af vores karrierer i logistikbranchen og har en tro på at vores viden og passion for lige netop denne industri gør det muligt for os at løse vores kunders udfordringer med at finde de rette ansatte.</target>
+        <target state="needs-translation">Vi har taget en strategisk beslutning der gør at vi udelukkende fokusere på rekruttering af fagfolk og specialister indenfor logistik og transport. Vi har tilbragt det meste af vores karrierer i logistikbranchen og har en tro på at vores viden og passion for lige netop denne industri gør det muligt for os at løse vores kunders udfordringer med at finde de rette ansatte.</target>
       </trans-unit>
       <trans-unit id="a1c4331ccbd6a4ba0dce23b6319cdbb7" resname="app.introductionHowWeAreDifferentItem5Headline" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Headline</source>
-        <target state="translated">Partnerskab</target>
+        <target state="translated">Partnerskabs mentalitet</target>
       </trans-unit>
       <trans-unit id="327474a37168a8f86b8d6f966db43215" resname="app.introductionHowWeAreDifferentItem5Desc" approved="yes">
         <source>app.introductionHowWeAreDifferentItem5Desc</source>

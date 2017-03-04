@@ -13,13 +13,13 @@
         <source>app.metaKeywordsIndexPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
+      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="no">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">Bliv headhuntet til dit næste job i  &lt;b&gt;Logistik&lt;/b&gt; og &lt;b&gt;Transport&lt;/b&gt;</target>
+        <target state="needs-translation">Bliv headhuntet til dit næste job i  &lt;b&gt;Logistik&lt;/b&gt; og &lt;b&gt;Transport&lt;/b&gt;</target>
       </trans-unit>
       <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target state="translated">Over 1,000 nye jobs hver måned</target>
+        <target state="translated">Ram den rigtige målgruppe i dag</target>
       </trans-unit>
       <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
-        <target state="translated">Featured Jobs</target>
+        <target state="translated">Fremhævede jobs</target>
       </trans-unit>
       <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
         <source>app.level</source>
@@ -79,11 +79,11 @@
       </trans-unit>
       <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn" approved="yes">
         <source>app.featuredJobsRegisterBtn</source>
-        <target state="translated">Opret og se mere</target>
+        <target state="translated">Opret og læs mere</target>
       </trans-unit>
       <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target state="translated">Søg featured jobs</target>
+        <target state="translated">Søg fremhævede jobs</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
@@ -104,6 +104,14 @@
       <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
         <source>app.more</source>
         <target state="translated">Mere</target>
+      </trans-unit>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
+        <source>app.index.companies.description</source>
+        <target state="translated">Lær hvad de førende transport- og logistikvirksomheder søger, og hvad de har at tilbyde</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description" approved="yes">
+        <source>app.index.jobs.description</source>
+        <target state="translated">Se hvem der ansætter i dag</target>
       </trans-unit>
     </body>
   </file>

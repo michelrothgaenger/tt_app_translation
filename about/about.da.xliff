@@ -9,9 +9,9 @@
         <source>app.about.meta.title</source>
         <target state="needs-translation">Transport Talent - Om os</target>
       </trans-unit>
-      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description">
+      <trans-unit id="db79c845b466aa4947a43097202b4775" resname="app.about.meta.description" approved="yes">
         <source>app.about.meta.description</source>
-        <target/>
+        <target state="translated">Vi er en international gruppe af eksperter fra transport &amp; logistik industrien? Hvem står bag dette nye Rekrutterings firma? Vi er teamet bag Transport Talent.</target>
       </trans-unit>
       <trans-unit id="ad280db50b3e5c91b740426f01dfdd2d" resname="app.about.meta.keywords" approved="yes">
         <source>app.about.meta.keywords</source>
@@ -21,13 +21,13 @@
         <source>app.about.h1</source>
         <target state="translated">Om os</target>
       </trans-unit>
-      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="yes">
+      <trans-unit id="d5f9ddceeace87ce536f5aa5c0d20712" resname="app.about.section.about.title" approved="no">
         <source>app.about.section.about.title</source>
-        <target state="translated">Hos Transport Talent er vores mål at skabe en platform hvor fok der arbejder i logistik og transport sektoren kan få kontakt til de bedste arbejdsgivere i industrien</target>
+        <target state="needs-translation">Hos Transport Talent er vores mål at skabe en platform hvor fok der arbejder i logistik og transport sektoren kan få kontakt til de bedste arbejdsgivere i industrien</target>
       </trans-unit>
-      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description" approved="yes">
+      <trans-unit id="2241702e38ad8605834132d727b1e2ce" resname="app.about.section.about.description" approved="no">
         <source>app.about.section.about.description</source>
-        <target state="translated">Transport Talent blev skabt med et ønske om at forbedre og innovere den måde rekruttering i logistic og transportsektoren foregår i dag. Jobsøgende der er er medlem på TransportTalent.com kan aktivt søge på stillinger, følge virksomheder der interesserer dem og læse interessante og industrispecifikke artikler. Arbejdsgivere kan optimere den måde de rekruterer på, og engagere sig med talenter i industrien ved at benytte den mest fokuserede gruppe af logistik og transport eksperter. . TransportTalent.com er grundlagt af Ulrich Nissen og Michel Rothgaenger som begge har en lang ledeses- og HR baggrund fra nogle af verdens største logistik og shippingvirksomheder.</target>
+        <target state="needs-translation">Transport Talent blev skabt med et ønske om at forbedre og innovere den måde rekruttering i logistic og transportsektoren foregår i dag. Jobsøgende der er er medlem på TransportTalent.com kan aktivt søge på stillinger, følge virksomheder der interesserer dem og læse interessante og industrispecifikke artikler. Arbejdsgivere kan optimere den måde de rekruterer på, og engagere sig med talenter i industrien ved at benytte den mest fokuserede gruppe af logistik og transport eksperter. . TransportTalent.com er grundlagt af Ulrich Nissen og Michel Rothgaenger som begge har en lang ledeses- og HR baggrund fra nogle af verdens største logistik og shippingvirksomheder.</target>
       </trans-unit>
       <trans-unit id="fffea579b8665451844ddd6d29383efe" resname="app.about.section.about.office.title" approved="yes">
         <source>app.about.section.about.office.title</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="e0e2d6f639645955d7a1735bc4502f23" resname="app.about.section.team.ulrich.description" approved="yes">
         <source>app.about.section.team.ulrich.description</source>
-        <target state="translated">Ulrich har arbejdet med Executive Search og Rekruttering med fokus på logistisk og transportsektoren i de sidste mange år. Før dette arbejdede han for to globale logistikselskaber hvor han ledende stillinger i Europa, Asien, USA og Syd Amerika.</target>
+        <target state="translated">Ulrich har arbejdet med Executive Search og Rekruttering med fokus på logistisk og transportsektoren i de sidste mange år. Før dette arbejdede han for to globale logistikselskaber hvor han havde ledende stillinger i Europa, Asien, USA og Syd Amerika.</target>
       </trans-unit>
       <trans-unit id="17e3105f4183c1dd5b5c7b0fae99d4a9" resname="app.about.section.team.michel.position" approved="yes">
         <source>app.about.section.team.michel.position</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="734b69d2412d607576c8eba91e3ae48f" resname="app.about.section.team.svenja.description" approved="yes">
         <source>app.about.section.team.svenja.description</source>
-        <target state="translated">Svenja er en dygtig generalist der kom ind i logistik og transportsektoren fra den akademiske side. Hendes erfaring fra administration af et respekteret privat universitet i Hamborg der udelukkende fokusere på logistik-uddanelser, og fra andre kundeorienterede roller har givet hende den baggrund hendes supportrolle i Transport Talent.</target>
+        <target state="translated">Svenja er en dygtig generalist der kom ind i logistik og transportsektoren med en mere akademiske tilgang. Hendes erfaring fra administration af et respekteret privat universitet i Hamborg der udelukkende fokusere på logistik-uddanelser, og fra andre kundeorienterede roller har givet hende den baggrund hendes supportrolle i Transport Talent.</target>
       </trans-unit>
     </body>
   </file>

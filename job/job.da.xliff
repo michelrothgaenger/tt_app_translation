@@ -73,9 +73,9 @@
         <source>app.job.section.left.rowQtyEmployeesTitle</source>
         <target state="translated">Antal ansatte</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>Ansatte</target>
+        <target state="translated">ansatte</target>
       </trans-unit>
       <trans-unit id="deac209e318dd16d18b27ae66da2a3de" resname="app.job.section.left.infoStatus" approved="yes">
         <source>app.job.section.left.infoStatus</source>

@@ -57,9 +57,9 @@
         <source>app.email</source>
         <target>Contact Email</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
+      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
-        <target>Job title</target>
+        <target state="translated">Jobtitel</target>
       </trans-unit>
       <trans-unit id="e5ebdbf3f963f720e053f19d06e3825c" resname="app.url">
         <source>app.url</source>
@@ -77,17 +77,17 @@
         <source>app.employmentType</source>
         <target>Employment type</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city">
+      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
         <source>app.city</source>
-        <target>City</target>
+        <target state="translated">By</target>
       </trans-unit>
       <trans-unit id="ea2f42eddfe215a8a9411a05f31fde55" resname="app.state">
         <source>app.state</source>
         <target>State</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country">
+      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
         <source>app.country</source>
-        <target>Country</target>
+        <target state="translated">Land</target>
       </trans-unit>
       <trans-unit id="3fe03121e3b58897a77dbf9d04406728" resname="app.contractTerm">
         <source>app.contractTerm</source>
@@ -97,9 +97,9 @@
         <source>app.jobDescription</source>
         <target>Description</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save">
+      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
         <source>app.save</source>
-        <target>Save</target>
+        <target state="translated">Gem</target>
       </trans-unit>
       <trans-unit id="410a3405465687e94320cdb8675b4f19" resname="app.postAnotherJob">
         <source>app.postAnotherJob</source>

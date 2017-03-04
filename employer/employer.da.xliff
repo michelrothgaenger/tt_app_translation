@@ -29,9 +29,9 @@
         <source>app.numberOfEmployees</source>
         <target state="translated">Antal ansatte</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>Ansatte</target>
+        <target state="translated">ansatte</target>
       </trans-unit>
       <trans-unit id="01d014540975cf74b4520237ce7d1001" resname="app.notAvailable" approved="yes">
         <source>app.notAvailable</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target state="translated">Gem til profilsiden</target>
+        <target state="translated">Følg</target>
       </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbeb" resname="app.goToNextCompanyProfile" approved="yes">
         <source>app.goToNextCompanyProfile</source>
@@ -79,8 +79,36 @@
       </trans-unit>
     <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
         <source>app.employer.button.savedToProfile</source>
-        <target state="translated">Gemt til profilsiden</target>
+        <target state="translated">Unfollow</target>
       </trans-unit>
-      </body>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+        <source>app.employer.info.jobsOnline.title</source>
+        <target state="translated">Jobs online</target>
+      </trans-unit>
+      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
+        <source>app.employer.info.jobsOnline.text</source>
+        <target state="translated">Der er lige nu %count% job fra %virksomhed%|Der er lige nu %count% jobs fra %virksomhed%</target>
+      </trans-unit>
+      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
+        <source>app.employer.linkToJobsTitle</source>
+        <target state="translated">Se alle jobs</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
+        <source>app.employer.currentJobs.title</source>
+        <target state="translated">Nuværende jobs fra %virksomhed%</target>
+      </trans-unit>
+      <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted" approved="yes">
+        <source>app.employer.jobBlock.posted</source>
+        <target state="translated">Posted</target>
+      </trans-unit>
+      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50640" resname="app.employer.jobBlock.saved" approved="yes">
+        <source>app.employer.jobBlock.saved</source>
+        <target state="translated">Gemt</target>
+      </trans-unit>
+      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.employer.jobBlock.save" approved="yes">
+        <source>app.employer.jobBlock.save</source>
+        <target state="translated">Gemt</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

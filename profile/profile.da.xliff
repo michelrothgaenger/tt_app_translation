@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="95d6f0b4dba606f52836553c4eec4544" resname="app.passwordWasSuccesfullyChanged" approved="yes">
         <source>app.passwordWasSuccesfullyChanged</source>
-        <target state="translated">Adgangskode er nu ændret!</target>
+        <target state="translated">Kodeord er nu ændret!</target>
       </trans-unit>
       <trans-unit id="36fd50091a280376f3ab239c94e793ab" resname="app.yourProfile" approved="yes">
         <source>app.yourProfile</source>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc" approved="yes">
         <source>app.profileGroupImportDesc</source>
-        <target state="translated">Spar tid ved at importere eksisterende oplysninger fra din LinkedIn-konto .</target>
+        <target state="translated">Spar tid ved at importere eksisterende oplysninger fra din LinkedIn-konto. Kun din nuværende stilling vil bliver overført fra LinkedIn.</target>
       </trans-unit>
       <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
-        <target state="translated">Find dine gemte jobs nedenfor. Tilføj og slet som du vil.</target>
+        <target state="translated">Dine gemte jobs</target>
       </trans-unit>
       <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete" approved="yes">
         <source>app.delete</source>
@@ -347,7 +347,7 @@
       </trans-unit>
       <trans-unit id="dbe59661037b91285e11ba29e81c79ce" resname="app.profileInputGeneralSalutationLabel" approved="yes">
         <source>app.profileInputGeneralSalutationLabel</source>
-        <target state="translated"/>
+        <target state="translated">Titel</target>
       </trans-unit>
       <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
@@ -677,9 +677,387 @@
         <source>File upload aborted</source>
         <target state="translated">File upload aborted</target>
       </trans-unit>
-      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image">
+      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
-        <target>Failed to resize image</target>
+        <target state="translated">Kunne ikke omdanne størrelsen på billedet</target>
+      </trans-unit>
+    <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
+        <source>app.profile.settings.description</source>
+        <target state="translated">Ændre dine indstillinger nedenfor.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
+        <source>app.profile.settings.tab.general.description</source>
+        <target state="translated">Ændre dine login-oplysninger og vælg dit foretrukne sprog.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
+        <source>app.profile.settings.tab.login.description</source>
+        <target state="translated">For at bruge en eksisterende konto til login skal du tilføje en af dine sociale media konti. Tilføj et back-up email hvis du nu skulle glemme dine log-in detaljer Transport Talent. Alle ændringer skal bekræftes med din nuværende kodeord.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
+        <source>app.profile.settings.social-media.description</source>
+        <target state="translated">Tilføj et login via sociale medier eller deaktivere eksisterende konti.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
+        <source>app.profile.settings.rescue.desciption</source>
+        <target state="translated">Indtast en back-up email for at kunne gendanne dine loginoplysninger.</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
+        <source>app.profile.settings.password.title</source>
+        <target state="translated">Kodeord</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel" approved="yes">
+        <source>app.profile.settings.password.newLabel</source>
+        <target state="translated">Nyt Kodeord</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel" approved="yes">
+        <source>app.profile.settings.password.confirmationLabel</source>
+        <target state="translated">Gentag Kodeord</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle" approved="yes">
+        <source>app.profile.settings.password.currentTitle</source>
+        <target state="translated">Nuværende Kodeord</target>
+      </trans-unit>
+      <trans-unit id="1d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.password.currentLabel" approved="yes">
+        <source>app.profile.settings.password.currentLabel</source>
+        <target state="translated">Nuværende Kodeord</target>
+      </trans-unit>
+      <trans-unit id="2d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.passwordsDoNotMatch" approved="yes">
+        <source>app.profile.settings.passwordsDoNotMatch</source>
+        <target state="translated">Kodeord er ikke korrekt</target>
+      </trans-unit>
+      <trans-unit id="3d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.social-login.title" approved="yes">
+        <source>app.profile.settings.social-login.title</source>
+        <target state="translated">Login via social media</target>
+      </trans-unit>
+      <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title" approved="yes">
+        <source>app.profile.settings.rescue.title</source>
+        <target state="translated">Oplys back-up information</target>
+      </trans-unit>
+      <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail" approved="yes">
+        <source>app.profile.settings.rescue.1stEmail</source>
+        <target state="translated">Back-up email</target>
+      </trans-unit>
+      <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
+        <source>app.profile.settings.title</source>
+        <target state="translated">Indstillinger</target>
+      </trans-unit>
+
+
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedin" approved="yes">
+        <source>app.signInWithLinkedin</source>
+        <target state="translated">Sing in med LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+        <source>app.signInWithGoogle</source>
+        <target state="translated">Sign in med Google</target>
+      </trans-unit>
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFacebook" approved="yes">
+        <source>app.signInWithFacebook</source>
+        <target state="translated">Sign in med Facebook</target>
+      </trans-unit>
+      <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
+        <source>app.profile.login.service.active</source>
+        <target state="translated">Aktiv</target>
+      </trans-unit>
+      <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered" approved="yes">
+        <source>app.profile.login.service.notRegistered</source>
+        <target state="translated">Ikke registreret</target>
+      </trans-unit>
+      <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable" approved="yes">
+        <source>app.profile.login.service.disable</source>
+        <target state="translated">Deaktiver</target>
+      </trans-unit>
+      <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
+        <source>app.profile.login.service.register</source>
+        <target state="translated">Registrer</target>
+      </trans-unit>
+      <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title" approved="yes">
+        <source>app.profile.settings.tab.general.title</source>
+        <target state="translated">Generelt</target>
+      </trans-unit>
+      <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title" approved="yes">
+        <source>app.profile.settings.tab.login.title</source>
+        <target state="translated">Login</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
+        <source>app.profile.dashboard.profile.tile.title</source>
+        <target state="translated">Profil</target>
+      </trans-unit>
+      <trans-unit id="b90a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.companyJobs.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.title</source>
+        <target state="translated">Jobs</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
+        <source>app.profile.dashboard.settings.tile.title</source>
+        <target state="translated">Indstillinger</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-jobs.tile.title</source>
+        <target state="translated">Gemte jobs</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.title</source>
+        <target state="translated">Gemte virksomheder</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-job.tile.description</source>
+        <target state="translated">Her kan du se dine shortlisted jobs.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+        <source>app.profile.dashboard.saved-companies.tile.description</source>
+        <target state="translated">Hold styr på på virksomheder du er interesseret i.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
+        <source>app.profile.dashboard.profile.tile.description</source>
+        <target state="translated">Sørg for at din profil er up to date så virksomhederne kan få øje på dig.</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
+        <source>app.profile.dashboard.settings.tile.description</source>
+        <target state="translated">Manage dine kontoindstillinger, f.eks. emailadresse og kodeord.</target>
+      </trans-unit>
+      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyJobs.tile.description</source>
+        <target state="translated">Manage dine virksomhedsjobs</target>
+      </trans-unit>
+      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.title</source>
+        <target state="translated">Virksomhedsprofil</target>
+      </trans-unit>
+      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
+        <source>app.profile.dashboard.companyProfile.tile.description</source>
+        <target state="translated">Manage din virksomhedsprofil</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.errors.totalYearsExp" approved="yes">
+        <source>app.profile.errors.totalYearsExp</source>
+        <target state="translated">Total antal års erfaring kan kun være numerisk og være mellem 0 og 100</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
+        <source>app.profile.saved.companies.description</source>
+        <target state="translated">Transport Talent gør det muligt for dig at huske på interessante virksomheder fra transport og logistikbranchen. Tilføj virksomheder til din oversigt eller slet dem hvis du ønsker.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
+        <source>app.profile.saved.jobs.description</source>
+        <target state="translated">Administrer dit job jagt med Transport Talent - du kan tilføje og slette job som du ønsker det. Jobopslag  vil stadig være til rådighed efter deaktivering af arbejdsgiveren, så du kan forberede dig til interviews.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
+        <source>app.profile.referrals.sectionTitle</source>
+        <target state="translated">Henvisninger</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
+        <source>app.profile.referrals.sectionDescription</source>
+        <target state="translated">Her finder du alle henvisninger til alle de stillinger du har anbefalet til dit netværk. Husk at når en stilling er blevet besat takket være dig, vil få blive belønnet med det beløb du kan se ved siden af det anbefalede job.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
+        <source>app.profile.referrals.sharedOn</source>
+        <target state="translated">Delt på</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward" approved="yes">
+        <source>app.profile.referrals.reward</source>
+        <target state="translated">Belønning</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f65" resname="app.profile.referrals.reactions" approved="yes">
+        <source>app.profile.referrals.reactions</source>
+        <target state="translated">Reaktioner</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink" approved="yes">
+        <source>app.profile.referrals.referralLink</source>
+        <target state="translated">Henvisningslink</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed" approved="yes">
+        <source>app.profile.referrals.closed</source>
+        <target state="translated">Lukket</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f68" resname="app.profile.referrals.pending" approved="yes">
+        <source>app.profile.referrals.pending</source>
+        <target state="translated">Verserende</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f69" resname="app.profile.referrals.accepted" approved="yes">
+        <source>app.profile.referrals.accepted</source>
+        <target state="translated">Accepteret</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy" approved="yes">
+        <source>app.profile.referrals.button.copy</source>
+        <target state="translated">Kopi</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
+        <source>app.profile.dashboard.referrals.tile.description</source>
+        <target state="translated">Hjælp dit netværk med at få et job og tjen penge</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
+        <source>app.profile.dashboard.referrals.tile.title</source>
+        <target state="translated">Henvisninger</target>
+      </trans-unit>
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="yes">
+        <source>app.profile.section.jobAlerts.title</source>
+        <target state="translated">JOB ALERTS</target>
+      </trans-unit>
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
+        <source>app.profile.section.jobAlerts.descr</source>
+        <target state="translated">Ønsker du at få en påmindelse om nye jobopslag? Opret en flere alerts med dine egne kriterier så vi kan sende dig en e-mail når der er nye ledige stillinger.</target>
+      </trans-unit>
+      <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
+        <source>app.profile.section.jobAlerts.createButtonTitle</source>
+        <target state="translated">OPRET JOB ALERT</target>
+      </trans-unit>
+      <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.title</source>
+        <target state="translated">GEM ALERT</target>
+      </trans-unit>
+      <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.note</source>
+        <target state="translated">Bemærk venligst: alle felter med en (*) er obligatoriske.</target>
+      </trans-unit>
+      <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
+        <target state="translated">Alert Titel *</target>
+      </trans-unit>
+      <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
+        <target state="translated">Tid til at sende *</target>
+      </trans-unit>
+      <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
+        <target state="translated">Dagligt</target>
+      </trans-unit>
+      <trans-unit id="9d2332b8697b459aa30f318df509e210" resname="app.profile.section.jobAlerts.section.popup.weeklyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.weeklyOption</source>
+        <target state="translated">Ugentligt</target>
+      </trans-unit>
+      <trans-unit id="f0eccbbc9b944a9cac0ed4be45876ed5" resname="app.profile.section.jobAlerts.section.popup.monthlyOption" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.monthlyOption</source>
+        <target state="translated">Månedligt</target>
+      </trans-unit>
+      <trans-unit id="187021f89a8748ff903340b94621c6a4" resname="app.profile.section.jobAlerts.section.popup.saveButtonLabel" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.saveButtonLabel</source>
+        <target state="translated">GEM</target>
+      </trans-unit>
+      <trans-unit id="8cf9b47a88854c99bd22ac54becd214e" resname="app.profile.section.jobAlert.itemTitle" approved="yes">
+        <source>app.profile.section.jobAlert.itemTitle</source>
+        <target state="translated">Alert for</target>
+      </trans-unit>
+      <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
+        <source>app.profile.section.jobAlert.deleteButtonLabel</source>
+        <target state="translated">Slet</target>
+      </trans-unit>
+      <trans-unit id="be38ccc621b04c4b8a32a0f44c329180" resname="app.profile.settings.language.label" approved="yes">
+        <source>app.profile.settings.language.label</source>
+        <target state="translated">Sprog</target>
+      </trans-unit>
+      <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
+        <source>app.employer.disabledField.companyBranding</source>
+        <target state="translated">Virksomhedsbranding editing er deaktiveret medmindre din konto er godkendt.</target>
+      </trans-unit>
+      <trans-unit id="9c70e8111c124a8a96cfd89af10b664c" resname="app.employer.disabledField.companyAddress" approved="yes">
+        <source>app.employer.disabledField.companyAddress</source>
+        <target state="translated">Virksomhedsadresse redigering er deaktiveret medmindre din konto er godkendt.</target>
+      </trans-unit>
+      <trans-unit id="c6a654ab24ff4b7cbc57ebf18ddbb449" resname="app.employer.disabledField.companyInformation" approved="yes">
+        <source>app.employer.disabledField.companyInformation</source>
+        <target state="translated">Virksomhedsoplysninger redigering er deaktiveret medmindre din konto er godkendt.</target>
+      </trans-unit>
+      <trans-unit id="fd7be620eb1a4e81975c3dd237289e96" resname="app.profile.templates.optgroupRegionsLabel" approved="yes">
+        <source>app.profile.templates.optgroupRegionsLabel</source>
+        <target state="translated">Regioner</target>
+      </trans-unit>
+      <trans-unit id="34b83f5d03b647399cc510c78f55ab00" resname="app.profile.templates.optgroupCountriesLabel" approved="yes">
+        <source>app.profile.templates.optgroupCountriesLabel</source>
+        <target state="translated">Lande</target>
+      </trans-unit>
+      <trans-unit id="941a0a31ba124f729cb4e41569acf4b7" resname="app.profile.errors.missingLanguageLevel" approved="yes">
+        <source>app.profile.errors.missingLanguageLevel</source>
+        <target state="translated">Manglende sprogniveau</target>
+      </trans-unit>
+      <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields" approved="yes">
+        <source>app.profile.errors.requiredFields</source>
+        <target state="translated">Påkrævede felter bør ikke være tomme</target>
+      </trans-unit>
+      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty" approved="yes">
+        <source>app.profile.errors.missingSpecialty</source>
+        <target state="translated">Manglende speciale</target>
+      </trans-unit>
+      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty" approved="yes">
+        <source>app.profile.errors.emptySpecialty</source>
+        <target state="translated">Speciale bør ikke være tomt</target>
+      </trans-unit>
+      <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
+        <source>app.profile.errors.requiredFieldCurrentPassword</source>
+        <target state="translated">Nuværende kodeord er et påkrævet felt</target>
+      </trans-unit>
+      <trans-unit id="fcc45cbc146043cea412edd3a51ea303" resname="app.profile.errors.invalidCurrentPassword" approved="yes">
+        <source>app.profile.errors.invalidCurrentPassword</source>
+        <target state="translated">Nuværende kodeord er ikke gyldigt</target>
+      </trans-unit>
+      <trans-unit id="1d61a629c8534f4c874538a2211bbe10" resname="app.profile.errors.passwordIsNotMatch" approved="yes">
+        <source>app.profile.errors.passwordIsNotMatch</source>
+        <target state="translated">Kodeord matcher ikke</target>
+      </trans-unit>
+      <trans-unit id="dc58bba378c04c81b7fdd44392ece28f" resname="app.profile.errors.emailAlreadyExist" approved="yes">
+        <source>app.profile.errors.emailAlreadyExist</source>
+        <target state="translated">En bruger med denne email eksistere allerede</target>
+      </trans-unit>
+      <trans-unit id="abfedc13c19c4c6fb78d14e09a2cc041" resname="app.profile.errors.invalidRescueEmail" approved="yes">
+        <source>app.profile.errors.invalidRescueEmail</source>
+        <target state="translated">Ikke gyldig back-up email</target>
+      </trans-unit>
+      <trans-unit id="665da491d2d04e748c862df2f8acff2c" resname="app.profile.pendingMessages.newEmail" approved="yes">
+        <source>app.profile.pendingMessages.newEmail</source>
+        <target state="translated">Ny email endnu ikke godkendt - check din inbox for at bekræfte den</target>
+      </trans-unit>
+      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay" approved="yes">
+        <source>app.profile.errors.invalidBDay</source>
+        <target state="translated">Fødselsdato er ikke gyldig</target>
+      </trans-unit>
+      <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName" approved="yes">
+        <source>app.profile.errors.requiredFieldFirstName</source>
+        <target state="translated">Fornavn kan ikke være tom</target>
+      </trans-unit>
+      <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName" approved="yes">
+        <source>app.profile.errors.requiredFieldLastName</source>
+        <target state="translated">Efternavn kan ikke være tom</target>
+      </trans-unit>
+      <trans-unit id="da5c6ced137849d9b6009dc8acab6dbd" resname="app.profile.errors.missingRegion" approved="yes">
+        <source>app.profile.errors.missingRegion</source>
+        <target state="translated">Manglende region</target>
+      </trans-unit>
+      <trans-unit id="19d87ba0d073497d8d8b5f52d71dbe25" resname="app.profile.errors.missingCountry" approved="yes">
+        <source>app.profile.errors.missingCountry</source>
+        <target state="translated">Manglende land</target>
+      </trans-unit>
+      <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName" approved="yes">
+        <source>app.profile.errors.requiredFieldCompanyName</source>
+        <target state="translated">Virksomhedsnavn kan ikke være tom</target>
+      </trans-unit>
+      <trans-unit id="a872ee21285c4aa1a31d3baacb109f61" resname="app.profile.errors.invalidZip" approved="yes">
+        <source>app.profile.errors.invalidZip</source>
+        <target state="translated">Postnummer skal være nummerisk</target>
+      </trans-unit>
+      <trans-unit id="5913b6b2eddd4293a781cde954552b53" resname="app.profile.errors.invalidSize" approved="yes">
+        <source>app.profile.errors.invalidSize</source>
+        <target state="translated">Størrelse kan kun være nummerisk og ikke mindre end 0</target>
+      </trans-unit>
+      <trans-unit id="0f95d32bc24e4e0f8b11c5200a7b08cf" resname="app.profile.errors.invalidTurnover" approved="yes">
+        <source>app.profile.errors.invalidTurnover</source>
+        <target state="translated">Årlig omsætning skal være numerisk og kan ikke være mindre end 0</target>
+      </trans-unit>
+      <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion" approved="yes">
+        <source>app.profile.errors.requiredFieldCountryRegion</source>
+        <target state="translated">Land/region feltet kan ikke være tomt</target>
+      </trans-unit>
+      <trans-unit id="7757e0b228d048a4a738fc2a6badd24a" resname="app.profile.errors.exceededLimit" approved="yes">
+        <source>app.profile.errors.exceededLimit</source>
+        <target state="translated">Du har overskreddet det maksimale antal af tegn</target>
+      </trans-unit>
+      <trans-unit id="d58ae52dffb0462485454c0937b4e050" resname="app.profile.errors.requiredFieldSkill" approved="yes">
+        <source>app.profile.errors.requiredFieldSkill</source>
+        <target state="translated">Færdigheder kan ikke være tom</target>
+      </trans-unit>
+      <trans-unit id="7ea164943c7b4738a5fef1fefd7fd649" resname="app.profile.errors.requiredFieldQualification" approved="yes">
+        <source>app.profile.errors.requiredFieldQualification</source>
+        <target state="translated">Kvalifikationer og niveau kan ikke være tom</target>
+      </trans-unit>
+      <trans-unit id="58c0c488c3a94c7abdd91719ef7a4165" resname="app.profile.errors.requiredFieldsCompanyTitleJobTitle" approved="yes">
+        <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
+        <target state="translated">Virksomhedsnavn og job titel kan ikke være tom</target>
       </trans-unit>
     </body>
   </file>

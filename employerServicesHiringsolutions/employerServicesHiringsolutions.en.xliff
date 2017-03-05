@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions please contact us.</target>
+        <target state="translated">*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions please &lt;a target=blank href=&quot;%contactUrl%&quot;&gt;contact us&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>

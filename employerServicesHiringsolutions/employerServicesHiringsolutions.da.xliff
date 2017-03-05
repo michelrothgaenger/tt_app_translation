@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Ovenstående dækker priser for stillinger med en årlig løn på op til DKK 450.000. For stillinger over dette niveau venligst kontakt os et tilbud.</target>
+        <target state="translated">*Ovenstående dækker priser for stillinger med en årlig løn på op til DKK 450.000. For stillinger over dette niveau venligst &lt;a target=blank href=&quot;%contactUrl%&quot;&gt;kontakt os&lt;/a&gt; et tilbud.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>

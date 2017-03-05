@@ -47,19 +47,19 @@
       </trans-unit>
       <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
-        <target state="translated">Vi er et international firma. Disse er vores kontorer:</target>
+        <target state="translated">Vi er en international virksomhed. Disse er vores kontorer:</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location" approved="yes">
+      <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location" approved="no">
         <source>app.contact.section.offices.location</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Denmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Copenhagen&lt;/div&gt;</target>
+        <target state="needs-translation">&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Denmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Copenhagen&lt;/div&gt;</target>
       </trans-unit>
       <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target state="translated">Telefon</target>
       </trans-unit>
-      <trans-unit id="fa07d96306437e66b1078a48efaa3afe" resname="app.contact.section.offices.directions.title">
+      <trans-unit id="fa07d96306437e66b1078a48efaa3afe" resname="app.contact.section.offices.directions.title" approved="yes">
         <source>app.contact.section.offices.directions.title</source>
-        <target>Directions</target>
+        <target state="translated">Her finder du os</target>
       </trans-unit>
       <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title">
         <source>app.contact.page.confirm.meta.title</source>

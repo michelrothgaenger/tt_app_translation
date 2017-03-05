@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="da" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3f6765c843a517aa042ae011230aa976" resname="Geneva">
+      <trans-unit id="3f6765c843a517aa042ae011230aa976" resname="Geneva" approved="yes">
         <source>Geneva</source>
-        <target>Geneve</target>
+        <target state="translated">Geneve</target>
       </trans-unit>
       <trans-unit id="fcfff492e00727b63cf5dff9f59bc2a4" resname="Stockholm">
         <source>Stockholm</source>

@@ -79,27 +79,27 @@
       </trans-unit>
     <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
         <source>app.employer.button.savedToProfile</source>
-        <target state="translated">Unfollow</target>
+        <target state="translated">Følg ikke</target>
       </trans-unit>
       <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
         <source>app.employer.info.jobsOnline.title</source>
-        <target state="translated">Jobs online</target>
+        <target state="translated">Stillinger online</target>
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>
-        <target state="translated">Der er lige nu %count% job fra %virksomhed%|Der er lige nu %count% jobs fra %virksomhed%</target>
+        <target state="translated">Der er lige nu %count% stilling fra %virksomhed%|Der er lige nu %count% stillinger fra %virksomhed%</target>
       </trans-unit>
       <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
         <source>app.employer.linkToJobsTitle</source>
-        <target state="translated">Se alle jobs</target>
+        <target state="translated">Se alle stillinger</target>
       </trans-unit>
       <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
         <source>app.employer.currentJobs.title</source>
-        <target state="translated">Nuværende jobs fra %virksomhed%</target>
+        <target state="translated">Nuværende stillinger fra %virksomhed%</target>
       </trans-unit>
       <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted" approved="yes">
         <source>app.employer.jobBlock.posted</source>
-        <target state="translated">Posted</target>
+        <target state="translated">Opslået</target>
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50640" resname="app.employer.jobBlock.saved" approved="yes">
         <source>app.employer.jobBlock.saved</source>

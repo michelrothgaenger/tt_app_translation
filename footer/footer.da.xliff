@@ -9,9 +9,9 @@
         <source>app.candidate</source>
         <target state="translated">Kandidat</target>
       </trans-unit>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
         <source>app.jobs</source>
-        <target>Jobs</target>
+        <target state="translated">Stillinger</target>
       </trans-unit>
       <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList" approved="yes">
         <source>app.employersList</source>
@@ -64,6 +64,38 @@
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
         <source>app.imprint</source>
         <target>Imprint</target>
+      </trans-unit>
+    <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
+        <source>app.footer.rowCandidates</source>
+        <target state="translated">Kandidater</target>
+      </trans-unit>
+      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="yes">
+        <source>app.footer.rowHome</source>
+        <target state="translated">Hjem</target>
+      </trans-unit>
+      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="yes">
+        <source>app.footer.rowJobs</source>
+        <target state="translated">Jobs</target>
+      </trans-unit>
+      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="yes">
+        <source>app.footer.rowCompanies</source>
+        <target state="translated">Virksomheder</target>
+      </trans-unit>
+      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
+        <source>app.footer.rowEmployers</source>
+        <target state="translated">Virksomheder</target>
+      </trans-unit>
+      <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
+        <source>app.footer.introductionLabel</source>
+        <target state="translated">Produkter &amp; Priser</target>
+      </trans-unit>
+      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
+        <source>app.footer.askHelpLabel</source>
+        <target state="translated">Brug for hjælp?</target>
+      </trans-unit>
+      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
+        <source>app.blog</source>
+        <target state="translated">Blog</target>
       </trans-unit>
     </body>
   </file>

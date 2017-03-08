@@ -101,6 +101,22 @@
         <source>app.userRegister.provideEmail</source>
         <target>Please provide Email</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder">
+        <source>app.specialties.placeholder</source>
+        <target>Enter specialty...</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder">
+        <source>app.salutations.placeholder</source>
+        <target>Choose salutation...</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder">
+        <source>app.jobCategories.placeholder</source>
+        <target>Enter job category...</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder">
+        <source>app.locations.placeholder</source>
+        <target>Enter location...</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

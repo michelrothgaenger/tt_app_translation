@@ -105,6 +105,14 @@
         <source>app.userRegister.provideEmail</source>
         <target state="translated">Por favor introduce tu correo electrónico</target>
       </trans-unit>
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+          <source>app.forgotPassword</source>
+          <target state="translated">¿Has olvidado tu contraseña?</target>
+        </trans-unit>
+        <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
+          <source>app.notRegisteredCta</source>
+          <target state="translated">¿Aún no estás registrado? Haz un click aquí y regístrate.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

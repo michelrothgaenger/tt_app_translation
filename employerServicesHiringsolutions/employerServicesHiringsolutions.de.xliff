@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">€ 1.000 Aktivierung*</target>
+        <target state="translated">€ 1.000 Aktivierung</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
@@ -115,11 +115,12 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Die o.s. Leistungen beziehen sich auf Positionen mit einem Jahresgehalt bis zu EUR 60.000. Höherbezahlte Positionen &lt;a target=blank href=&quot;%contactUrl%&quot;&gt;auf Anfrage&lt;/a&gt;.</target>
+        <target state="translated">*Die o.s. Leistungen beziehen sich auf Positionen mit einem Jahresgehalt bis zu EUR 60.000. Höherbezahlte Positionen &lt;a target=blank href="%contactUrl%"&gt;auf Anfrage&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Stellenanzeigen</target>
+        <target state="translated">Stellen-
+anzeigen</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -127,7 +128,7 @@
       </trans-unit>
       <trans-unit id="76bde51190114195ae8595522349e854" resname="app.employerServicesHiringsolutions.ad.leftBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftBtnLabel</source>
-        <target state="translated">Angebot ansehen</target>
+        <target state="translated">Mehr erfahren</target>
       </trans-unit>
       <trans-unit id="cc3dfa18f31142f597da97ffbdd86f26" resname="app.employerServicesHiringsolutions.ad.rightTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightTitle</source>
@@ -139,7 +140,7 @@
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
-        <target state="translated">Produkte und Services ansehen</target>
+        <target state="translated">Mehr erfahren</target>
       </trans-unit>
       <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
@@ -239,7 +240,7 @@
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Das komplette Recruiting-Paket mit optimierter Stellenbeschreibung, erhöhter Reichweite durch Social Media, persönliche Kandidatenansprache und sorgfältige Auswahl, Unterstützung bei den Verhandlungen, Referenz-Check und Gewährleistungsgarantie.</target>
+        <target state="translated">Im Rahmen des Recruiting-Pakets unterstützen wir Sie bei der Optimierung Ihrer Stellenbeschreibung, sorgen für eine erhöhte Reichweite über Social Media und recherchieren die passendsten Kandidaten für Sie. Wir führen vorab einen Assessment-Test durch, prüfen die Referenzen und stehen Ihnen für die Verhandlungen mit Kandidaten beratend zur Seite. Mit Buchung des Pakets berechnen wir Ihnen eine Aktivierungsgebühr von € 1.000. Bei erfolgreicher Vermittlung eines Kandidaten durch Transport Talent wird darüber hinaus eine Gebühr von € 4.000 fällig.</target>
     </trans-unit>
     </body>
   </file>

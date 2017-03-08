@@ -25,13 +25,9 @@
         <source>app.signInWithLinkedIn</source>
         <target state="translated">Anmelden mit LinkedIn</target>
       </trans-unit>
-      <trans-unit id="c39e59d0880d691804fe0dfff4b92279" resname="app.signInWithXing" approved="yes">
-        <source>app.signInWithXing</source>
-        <target state="translated">Login mit Xing</target>
-      </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Login mit Google</target>
+        <target state="translated">Anmelden mit Google</target>
       </trans-unit>
       <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
@@ -105,6 +101,14 @@
         <source>app.userRegister.provideEmail</source>
         <target state="translated">Bitte E-Mail angeben</target>
       </trans-unit>
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+          <source>app.forgotPassword</source>
+          <target state="translated">Passwort vergessen?</target>
+        </trans-unit>
+        <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
+          <source>app.notRegisteredCta</source>
+          <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

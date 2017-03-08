@@ -117,6 +117,26 @@
         <source>app.locations.placeholder</source>
         <target>Enter location...</target>
       </trans-unit>
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+              <source>app.notRegisteredCta</source>
+              <target>Not registered yet? Click here to register.</target>
+            </trans-unit>
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+        <source>app.forgotPassword</source>
+        <target>Forgot password?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170005" resname="app.userRegister.signUpWithFB">
+        <source>app.userRegister.signUpWithFB</source>
+        <target>Sign up with Facebook</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170006" resname="app.userRegister.signUpWithGoogle">
+        <source>app.userRegister.signUpWithGoogle</source>
+        <target>Sign up with Google</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn">
+        <source>app.userRegister.signUpWithLinkedIn</source>
+        <target>Sign up with Linkedin</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

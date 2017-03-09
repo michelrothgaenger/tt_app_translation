@@ -77,6 +77,10 @@
         <source>app.noCompaniesFound</source>
         <target>Ingen virksomheder fundet</target>
       </trans-unit>
-    </body>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription" approved="yes">
+        <source>app.employers.pageDescription</source>
+        <target state="translated">Lær mere omkring de førende transport- og logistikvirksomheder og hvad de kan tilbyde</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -215,15 +215,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">kr/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">kr/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">kr/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -247,7 +247,7 @@
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047010" resname="app.employerService.currencySign" approved="yes">
           <source>app.employerService.currencySign</source>
-          <target state="translated">kr.</target>
+          <target state="translated">DKK</target>
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>

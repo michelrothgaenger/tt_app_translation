@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
-        <target state="translated">Vi gør jobannoncering nemt</target>
+        <target state="translated">Ram den rigtige målgruppe</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/måned*&lt;br&gt;(annual contract)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;DKK/måned*&lt;br&gt;(annual contract)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="yes">
         <source>app.employerService.popup.inputs.submitValueLoggedin</source>
-        <target state="translated">book pakker</target>
+        <target state="translated">Vælg din prispakke</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.input.confirmRight" approved="yes">
         <source>app.employerService.popup.input.confirmRight</source>
@@ -215,15 +215,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/måned* (årlig kontrakt)</target>
+        <target state="translated">DKK/måned* (årlig kontrakt)</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>

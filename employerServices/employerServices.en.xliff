@@ -245,6 +245,34 @@
           <source>app.employerService.popup.enterprise.descr</source>
           <target state="translated">Unlimited job postings and prime placement on TransportTalent.com, employer branding (profile and logo), increased reach via social media, emails to relevant candidates, and automatic upload of all positions.</target>
       </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
+          <source>app.employerService.enterprise.price</source>
+          <target state="translated">450</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
+          <source>app.employerService.advanced.price</source>
+          <target state="translated">250</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
+          <source>app.employerService.basic.price</source>
+          <target state="translated">50</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
+          <source>app.employerService.enterprise.price.full</source>
+          <target state="translated">5400</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
+          <source>app.employerService.advanced.price.full</source>
+          <target state="translated">3000</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
+          <source>app.employerService.basic.price.full</source>
+          <target state="translated">600</target>
+      </trans-unit>
+      <trans-unit id="113f10de2c9e4c46934f27d72f047010" resname="app.employerService.currencySign" approved="yes">
+          <source>app.employerService.currencySign</source>
+          <target state="translated">€</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

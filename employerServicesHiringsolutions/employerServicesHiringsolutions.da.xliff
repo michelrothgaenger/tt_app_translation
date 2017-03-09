@@ -51,19 +51,19 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">Opstartspris: 5.000 kr.</target>
+        <target state="translated">Opstartspris: DKK 5.000</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
                 <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-                <target state="translated">Opstartspris: 10.000 kr.</target>
+                <target state="translated">Opstartspris: DKK 10.000</target>
               </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
-          <target state="translated">+ 25.000 kr. per ansat kandidat*</target>
+          <target state="translated">+ DKK 25.000 per ansat kandidat*</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-          <target state="translated">+ 30.000 kr. per ansat kandidat*</target>
+          <target state="translated">+ DKK 30.000 per ansat kandidat*</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Ovenstående dækker priser for stillinger med en årlig løn på op til 450.000 kr. For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"&gt;kontakt os&lt;/a&gt; et tilbud.</target>
+        <target state="translated">*Ovenstående dækker priser for stillinger med en årlig løn på op til DKK 450.000. For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"&gt;kontakt os&lt;/a&gt; et tilbud.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
-        <target state="translated">+ 25.000 kr. per ansat kandidat*</target>
+        <target state="translated">+ DKK 25.000 per ansat kandidat*</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
-        <target state="translated">+ 30.000 kr. per ansatte kandidat*</target>
+        <target state="translated">+ DKK 30.000 per ansatte kandidat*</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -235,11 +235,11 @@
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Med Recruitment Lite hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering via sociale medier, foretager en komplet søgning af markedet og præsentere jer for shortlist på 3-5 kandidater der er klar til at blive interviewet af jer. Vores priser og betingelser for denne service er 5.000 kr. i Aktivering som betales ved opstart af søgningen, og et succes-baseret fee på 25.000 kr. der først betales når i har udvalgt og underskrevet med jeres nye foretrukne kandidat.</target>
+        <target state="translated">Med Recruitment Lite hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering via sociale medier, foretager en komplet søgning af markedet og præsentere jer for shortlist på 3-5 kandidater der er klar til at blive interviewet af jer. Vores priser og betingelser for denne service er DKK 5.000 ved opstart af søgningen, og et succes-baseret fee på DKK 25.000 der først betales når i har udvalgt og underskrevet med jeres nye foretrukne kandidat.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Med Recruitment Premium hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering rækkevidde via sociale medier og foretager en udvidet søgning af markedet for at finde de helt rigtige kandidater. Vi gennemfører personlighedstest og referencetagning samt supportere jer i lønforhandlingen med kandidaten. Pris og betingelser denne service er 10.000 kr. i Aktivering som betales ved opstart af søgningen, samt et succes-baseret fee på 30.000 kr. som først skal betales når i har udvalgt den endelige kandidat og har underskrift på ansættelseskontrakten.</target>
+        <target state="translated">Med Recruitment Premium hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering rækkevidde via sociale medier og foretager en udvidet søgning af markedet for at finde de helt rigtige kandidater. Vi gennemfører personlighedstest og referencetagning samt supportere jer i lønforhandlingen med kandidaten. Pris og betingelser denne service er DKK 10.000 ved opstart af søgningen, samt et succes-baseret fee på DKK 30.000 som først skal betales når i har udvalgt den endelige kandidat og har underskrift på ansættelseskontrakten.</target>
     </trans-unit>
     </body>
   </file>

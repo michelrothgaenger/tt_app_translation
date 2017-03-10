@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel" approved="yes">
         <source>app.employerService.detailsTable.allPostingsLabel</source>
-        <target state="translated">Alle jobopslag</target>
+        <target state="translated">Alle stillingsopslag</target>
       </trans-unit>
       <trans-unit id="668acd417a8844c993be665fdcbccc93" resname="app.employerService.section.singleJobPost.automaticUploadLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
-        <target state="translated">Jobopslag</target>
+        <target state="translated">Jobannoncering</target>
       </trans-unit>
       <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
@@ -227,7 +227,7 @@
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
-              <target state="translated">Jobopslag</target>
+              <target state="translated">Jobannoncering</target>
           </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline" approved="yes">
           <source>app.employerService.subheadline</source>

@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="translated">SHORTLISTING</target>
+        <target state="translated">RECRUITMENT LITE</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target>*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions please &lt;a target=blank href=&quot;%contactUrl%&quot;&gt;contact us&lt;/a&gt;.</target>
+        <target>*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -211,7 +211,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">RECRUITING</target>
+        <target state="translated">RECRUITMENT PREMIUM</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>

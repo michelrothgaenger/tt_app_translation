@@ -61,9 +61,9 @@
         <source>app.jobTitle</source>
         <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="e5ebdbf3f963f720e053f19d06e3825c" resname="app.url">
+      <trans-unit id="e5ebdbf3f963f720e053f19d06e3825c" resname="app.url" approved="yes">
         <source>app.url</source>
-        <target>Url</target>
+        <target state="translated">URL</target>
       </trans-unit>
       <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary" approved="yes">
         <source>app.salary</source>
@@ -150,9 +150,9 @@
         <source>app.employerJobCRUD.labelFromTime</source>
         <target state="translated">um</target>
       </trans-unit>
-      <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput">
+      <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput" approved="yes">
         <source>app.employerJobCRUD.labelAfterHourInput</source>
-        <target>h</target>
+        <target state="translated">h</target>
       </trans-unit>
       <trans-unit id="0e5bdbf1bedb43fd8133aa4edc9ecb66" resname="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>

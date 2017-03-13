@@ -334,7 +334,7 @@
         <target>Fill in as much as you feel comfortable with. If we think we need more information we will let you know.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170055" resname="app.userRegister.step6.generalHeader">
-        <source>app.userRegister.step5.generalHeader</source>
+        <source>app.userRegister.step6.generalHeader</source>
         <target>General</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170056" resname="app.userRegister.step6.photoHeader">
@@ -431,7 +431,7 @@
         <target>Place of Residence</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170081" resname="form.salutationLabel">
-        <source>formsalutationLabel</source>
+        <source>form.salutationLabel</source>
         <target>Salutation</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170082" resname="form.salaryLabel">

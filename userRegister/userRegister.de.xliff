@@ -107,7 +107,7 @@
         </trans-unit>
         <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
           <source>app.notRegisteredCta</source>
-          <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
+          <target state="translated">Noch nicht registriert? Für die Anmeldung hier klicken.</target>
         </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
@@ -137,6 +137,10 @@
         <source>app.userRegister.signUpWithLinkedIn</source>
         <target state="translated">Mit LinkedIn anmelden</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
+        <source>app.userRegister.popup.signUpAgreement</source>
+        <target state="translated">Mit der Anmeldung akzeptiere ich die allgemeinen Geschäftsbedingungen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

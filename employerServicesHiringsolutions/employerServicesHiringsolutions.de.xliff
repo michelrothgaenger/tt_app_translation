@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
-        <target state="translated">Die Recruiting-Lösungen von Transport Talent richten sich an Unternehmen, die sich bei der Suche nach passenden Kandidaten unterstützen lassen und den Einstellungsprozess beschleunigen möchten. Unabhängig von der Größe Ihres Unternehmens und Ihrer Position: Unsere Personalberater finden Ihren neuen Mitarbeiter.</target>
+        <target state="translated">Die Recruiting-Llösungen von Transport Talent richten sich an alle Unternehmen aus Transport und Logistik, die sich bei der Suche nach passenden Kandidaten unterstützen lassen und den Einstellungsprozess beschleunigen möchten.</target>
       </trans-unit>
       <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
@@ -47,15 +47,15 @@
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="translated">RECRUITMENT LITE</target>
+        <target state="translated">Recruitment Lite</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">€ 1.000 Aktivierung</target>
+        <target state="translated">Aktivierung: € 1.000</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-        <target state="translated">€ 2.000 Aktivierung</target>
+        <target state="translated">Aktivierung: € 2.000</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
                 <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
@@ -144,7 +144,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
-        <target state="translated">Was wir tun</target>
+        <target state="translated">Unsere Services</target>
       </trans-unit>
       <trans-unit id="20e7d10f86ae4912a94d144252b46074" resname="app.employerServicesHiringsolutions.section.singleJobPost.header" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.header</source>
@@ -152,7 +152,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Wir bieten transparente Preis, um Ihr Risiko zu minimieren. Die Kosten gliedern sich daher in zwei Teile auf: Eine einmalige Aktivierungsgebühr sowie eine Vermittlungsgebühr, die nur dann fällig wird, wenn die Position mit einem Kandidaten von Transport Talent besetzt wird.</target>
+        <target state="translated">Unsere Preise sind so transparent wie möglich gehalten, um Ihr Risiko zu minimieren. Die Kosten gliedern sich in zwei Teile auf: eine einmalige Aktivierungsgebühr sowie eine Vermittlungsgebühr, die nur dann fällig wird, wenn die Position mit einem Kandidaten von Transport Talent besetzt wird.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -164,7 +164,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">RECRUITMENT LITE</target>
+        <target state="translated">Recruitment Lite</target>
       </trans-unit>
       <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
@@ -176,7 +176,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="translated">Recruiting</target>
+        <target state="translated">Recruitment Premium</target>
       </trans-unit>
       <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
@@ -208,7 +208,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">RECRUITMENT PREMIUM</target>
+        <target state="translated">Recruitment Premium</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -228,7 +228,7 @@ anzeigen</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
-        <target state="translated">Erreichen Sie mit Transport Talent täglich tausende Kandidaten</target>
+        <target state="translated">Erreichen Sie mit Ihren Stellenanzeigen auf Transport Talent täglich die besten Kandidaten aus Transport und Logistik</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>
@@ -240,7 +240,7 @@ anzeigen</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Im Rahmen des Recruiting-Pakets unterstützen wir Sie bei der Optimierung Ihrer Stellenbeschreibung, sorgen für eine erhöhte Reichweite über Social Media und recherchieren die passendsten Kandidaten für Sie. Wir führen vorab einen Assessment-Test durch, prüfen die Referenzen und stehen Ihnen für die Verhandlungen mit Kandidaten beratend zur Seite. Mit Buchung des Pakets berechnen wir Ihnen eine Aktivierungsgebühr von € 1.000. Bei erfolgreicher Vermittlung eines Kandidaten durch Transport Talent wird darüber hinaus eine Gebühr von € 4.000 fällig.</target>
+        <target state="translated">Mit Recruitment Premium unterstützen wir Sie bei der Optimierung Ihrer Stellenbeschreibung, sorgen für eine erhöhte Reichweite über Social Media und recherchieren die passendsten Kandidaten für Sie. Wir führen vorab einen Assessment-Test durch, prüfen die Referenzen und stehen Ihnen für die Verhandlungen mit Kandidaten beratend zur Seite. Mit Buchung des Pakets berechnen wir Ihnen eine Aktivierungsgebühr von € 1.000. Bei erfolgreicher Vermittlung eines Kandidaten durch Transport Talent wird darüber hinaus eine Gebühr von € 4.000 fällig.</target>
     </trans-unit>
     </body>
   </file>

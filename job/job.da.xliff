@@ -291,7 +291,7 @@
       </trans-unit>
       <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
-        <target state="translated">Denne jobannonce er kontrolleret af %virksomhed_navn%. For den videre ansøgningsprocess sender vi dig nu videre til virksomhedens hjemmeside.</target>
+        <target state="translated">Denne jobannonce er kontrolleret af %company_name%. For den videre ansøgningsprocess sender vi dig nu videre til virksomhedens hjemmeside.</target>
       </trans-unit>
       <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>

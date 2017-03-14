@@ -1064,6 +1064,10 @@
         <source>app.profile.settings.rescue.desciption</source>
         <target state="translated">Geben Sie eine E-Mail zur Wiederherstellung der Login-Daten für das Konto ein.</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Anrede auswählen...</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

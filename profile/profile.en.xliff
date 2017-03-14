@@ -1055,6 +1055,254 @@
         <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
         <target>Company and job title fields should not be empty</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.profile.editor.shortSummary">
+        <source>app.profile.editor.shortSummary</source>
+        <target>Short summary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText">
+        <source>app.profile.editor.shortSummaryText</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque tenetur quam aspernatur corporis at explicabo nulla dolore, necessitatibus doloremque exercitationem sequi dolorem architecto.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience">
+        <source>app.profile.editor.experience</source>
+        <target>Experience</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel">
+        <source>app.profile.editor.specialityLabel</source>
+        <target>What is your speciality?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton">
+        <source>app.profile.linkedinImportDataButton</source>
+        <target>Import data from LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats">
+        <source>app.profile.editor.congrats</source>
+        <target>Congrats! You've successfully connected your linkedin account with Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV">
+        <source>app.profile.editor.DeleteCV</source>
+        <target>Delete CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1">
+        <source>app.profile.editor.cvSuccesPart1</source>
+        <target>You've successfully imported</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2">
+        <source>app.profile.editor.cvSuccesPart2</source>
+        <target>as your CV.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload">
+        <source>app.profile.editor.fileUpload</source>
+        <target>Upload file</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170097" resname="app.profile.editor.cvRestriction">
+        <source>app.profile.editor.cvRestriction</source>
+        <target>The file must be a PDF and not larger than 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170098" resname="app.profile.editor.personalProfile">
+        <source>app.profile.editor.personalProfile</source>
+        <target>Personal profile</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.profile.editor.fillMaximumInformation">
+        <source>app.profile.editor.fillMaximumInformation</source>
+        <target>Fill in as much as you feel comfortable with. If we think we need more information we will let you know.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.profile.editor.generalHeader">
+        <source>app.profile.editor.generalHeader</source>
+        <target>General</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170101" resname="app.profile.editor.photoHeader">
+        <source>app.profile.editor.photoHeader</source>
+        <target>Photo</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170102" resname="app.profile.editor.photoFieldsTitle">
+        <source>app.profile.editor.photoFieldsTitle</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque distinctio excepturi rem, voluptatibus aliquid libero fugit ad cumque illum enim illo, at. Error, nobis.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170103" resname="app.profile.editor.editPhoto">
+        <source>app.profile.editor.editPhoto</source>
+        <target>Edit photo</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170104" resname="app.profile.editor.deletePhoto">
+        <source>app.profile.editor.deletePhoto</source>
+        <target>Delete</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170105" resname="app.profile.editor.photoPixelsMinimum">
+        <source>app.profile.editor.photoPixelsMinimum</source>
+        <target>At least 150 x 150 pixel.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170106" resname="app.profile.editor.photoNotLarger">
+        <source>app.profile.editor.photoNotLarger</source>
+        <target>The file must not be larger than 1 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700107" resname="app.profile.editor.jobPreferences">
+        <source>app.profile.editor.jobPreferences</source>
+        <target>Job preferences</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170108" resname="app.profile.editor.jobPreferencesText">
+        <source>app.profile.editor.jobPreferencesText</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque tenetur quam aspernatur corporis at explicabo nulla dolore, necessitatibus doloremque exercitationem sequi dolorem architecto.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories">
+        <source>app.profile.editor.preferedJobCategories</source>
+        <target>Prefered job categories</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170110" resname="app.profile.editor.chooseCategoryLabel">
+        <source>app.profile.editor.chooseCategoryLabel</source>
+        <target>Choose the job category</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations">
+        <source>app.profile.editor.preferedLocations</source>
+        <target><![CDATA[Prefered regions & countries]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170112" resname="app.profile.editor.preferedLocationsLabel">
+        <source>app.profile.editor.preferedLocationsLabel</source>
+        <target>Choose prefered regions/countries/cities</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations">
+        <source>app.profile.editor.salaryExpectations</source>
+        <target>Salary expectations</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170124" resname="app.profile.editor.profileEdit">
+        <source>app.profile.editor.profileEdit</source>
+        <target>Edit profile</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader">
+        <source>app.profile.editor.profileEditionHeader</source>
+        <target>Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for Linkedin you might already find some data here.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel">
+        <source>app.profile.editor.experienceLabel</source>
+        <target>Total years of experience do you have?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder">
+        <source>app.profile.editor.experiencePlaceholder</source>
+        <target>Years</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader">
+        <source>app.profile.editor.connectToLinkedInHeader</source>
+        <target>Connect to linkedin</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel">
+        <source>app.profile.editor.residenceLabel</source>
+        <target>Place of Residence</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170119" resname="app.profile.editor.salutationLabel">
+        <source>app.profile.editor.salutationLabel</source>
+        <target>Salutation</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel">
+        <source>app.profile.editor.salaryLabel</source>
+        <target>Salary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder">
+        <source>app.profile.editor.salaryPlaceholder</source>
+        <target>Enter your salary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170122" resname="app.profile.editor.currencyLabel">
+        <source>app.profile.editor.currencyLabel</source>
+        <target>Currency</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608123" resname="app.profile.editor.locationPlaceholder">
+        <source>app.profile.editor.locationPlaceholder</source>
+        <target>Enter a Location</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170125" resname="app.profile.editor.CvHeader">
+        <source>app.profile.editor.CvHeader</source>
+        <target>CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170126" resname="app.profile.dashboard.congratulationsHeader">
+        <source>app.profile.dashboard.congratulationsHeader</source>
+        <target>Congratulations %firstName% %lastName%!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170127" resname="app.profile.dashboard.congratulationsText">
+        <source>app.profile.dashboard.congratulationsText</source>
+        <target>You made it. Your profile is now full with all the information. And if we find something we think would be worth filling in later, we'll drop you a line.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170149" resname="app.profile.profileVM.profileHeader">
+        <source>app.profile.profileVM.profileHeader</source>
+        <target>Profile</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText">
+        <source>app.profile.profileVM.profileHeaderText</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita earum pariatur deleniti fugiat, eligendi corrupti facere, explicabo. Voluptatem inventore in corporis, tempora consequuntur id.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader">
+        <source>app.profile.profileVM.summaryHeader</source>
+        <target>Summary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText">
+        <source>app.profile.profileVM.experienceText</source>
+        <target>You have %count% year of experience|You have %count% years of experience</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText">
+        <source>app.profile.profileVM.noExperienceText</source>
+        <target>You did not specify your experience</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader">
+        <source>app.profile.profileVM.specealityHeader</source>
+        <target>Your speciality is</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn">
+        <source>app.profile.profileVM.connectedToLinkedIn</source>
+        <target>Connected to LinkedIn?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT">
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <target>You've successfully connected your linkedin account with Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv">
+        <source>app.profile.profileVM.successCv</source>
+        <target>Your CV is</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday">
+        <source>app.profile.profileVM.birthday</source>
+        <target>Birthday:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence">
+        <source>app.profile.profileVM.placeOfResidence</source>
+        <target>Place of Residence:</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608142" resname="app.profile.editor.enterLocation">
+        <source>app.profile.editor.enterLocation</source>
+        <target>Enter a Location</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder">
+        <source>app.salutations.placeholder</source>
+        <target>Choose salutation...</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText">
+        <source>app.profile.profileVM.noSpecialtiesText</source>
+        <target>You have no specialties specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader">
+        <source>app.profile.profileVM.CvHeader</source>
+        <target>CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV">
+        <source>app.profile.profileVM.noCV</source>
+        <target>No CV uploaded</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence">
+        <source>app.profile.profileVM.noResidence</source>
+        <target>Residence is not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday">
+        <source>app.profile.profileVM.noBirthday</source>
+        <target>Birthday is not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories">
+        <source>app.profile.profileVM.noPreferredCategories</source>
+        <target>Preferred categories are not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations">
+        <source>app.profile.profileVM.noPreferredLocations</source>
+        <target>Preferred locations are not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary">
+        <source>app.profile.profileVM.noSalary</source>
+        <target>Salary is not specified</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

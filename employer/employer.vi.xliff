@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>
-        <target state="translated">Hiện tại có%tiêu đề% công việc từ công ty%công ty% | Hiện tại có%tiêu đề%việc làm từ%công ty%</target>
+        <target state="translated">Hiện tại có %count% công việc từ công ty %company% | Hiện tại có %count% việc làm từ %company%</target>
       </trans-unit>
       <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
         <source>app.employer.linkToJobsTitle</source>
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
         <source>app.employer.currentJobs.title</source>
-        <target state="translated">Công việc hiện tại của % công ty%</target>
+        <target state="translated">Công việc hiện tại của %company%</target>
       </trans-unit>
       <trans-unit id="fb1d9e8049997f43c1ce9f3d296dfbe5" resname="app.employer.jobBlock.posted" approved="yes">
         <source>app.employer.jobBlock.posted</source>

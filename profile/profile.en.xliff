@@ -315,9 +315,9 @@
         <source>app.profileGroupSummaryTitle</source>
         <target>Short summary</target>
       </trans-unit>
-      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc">
+      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc" approved="yes">
         <source>app.profileGroupSummaryDesc</source>
-        <target>Please give us a short summary of your professional focus. What sort of industry knowledge do you have? What are you an expert in?</target>
+        <target state="translated">Please give us a short summary of your professional focus and expertise. What sort of industry knowledge do you have? What are you an expert in?</target>
       </trans-unit>
       <trans-unit id="521d5680045a7b50b5a40021ebe78638" resname="app.profileGroupExperienceTitle">
         <source>app.profileGroupExperienceTitle</source>
@@ -833,15 +833,15 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Manage your job junt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
+        <target state="translated">Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle">
         <source>app.profile.referrals.sectionTitle</source>
         <target>Referrals</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
         <source>app.profile.referrals.sectionDescription</source>
-        <target>Here you find all referrals for all the jobs you have ever made. Remember, once a job has been filled thanks to you, you will get rewarded with the amount you find next to recommended job.</target>
+        <target state="translated">Here you find all referrals you have ever made. Remember, once a job has been filled with a candidate that you put forward, you will get rewarded with the amount you find next to recommended job.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn">
         <source>app.profile.referrals.sharedOn</source>
@@ -889,7 +889,7 @@
       </trans-unit>
       <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
         <source>app.profile.section.jobAlerts.descr</source>
-        <target state="translated">Want to be notified about new job postings? Set up one or more job alerts with your own criteria and we will send you an email when there are new positions avaible.</target>
+        <target state="translated">Want to be notified about new job postings? Set up one or more job alerts with your own criteria and we will send you an email when there are new positions available.</target>
       </trans-unit>
       <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
@@ -967,13 +967,13 @@
         <source>app.profile.errors.requiredFields</source>
         <target>Required fields should not be empty</target>
       </trans-unit>
-      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty">
+      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty" approved="yes">
         <source>app.profile.errors.missingSpecialty</source>
-        <target>Missing specialty</target>
+        <target state="translated">Missing area of expertise</target>
       </trans-unit>
-      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty">
+      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty" approved="yes">
         <source>app.profile.errors.emptySpecialty</source>
-        <target>Speciality should not be empty</target>
+        <target state="translated">Area of expertise should not be empty</target>
       </trans-unit>
       <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword">
         <source>app.profile.errors.requiredFieldCurrentPassword</source>
@@ -999,9 +999,9 @@
         <source>app.profile.pendingMessages.newEmail</source>
         <target>New email is pending, check your inbox to confirm it</target>
       </trans-unit>
-      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay">
+      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay" approved="yes">
         <source>app.profile.errors.invalidBDay</source>
-        <target>The date of birthday is not valid</target>
+        <target state="translated">The date of birth is not valid</target>
       </trans-unit>
       <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName">
         <source>app.profile.errors.requiredFieldFirstName</source>
@@ -1067,17 +1067,17 @@
         <source>app.profile.editor.experience</source>
         <target>Experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
         <source>app.profile.editor.specialityLabel</source>
-        <target>What is your speciality?</target>
+        <target state="translated">What is your area of expertise?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton">
         <source>app.profile.linkedinImportDataButton</source>
         <target>Import data from LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats">
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target>Congrats! You've successfully connected your linkedin account with Transport Talent.</target>
+        <target state="needs-translation">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV">
         <source>app.profile.editor.DeleteCV</source>
@@ -1171,17 +1171,17 @@
         <source>app.profile.editor.profileEditionHeader</source>
         <target>Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for Linkedin you might already find some data here.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel" approved="yes">
         <source>app.profile.editor.experienceLabel</source>
-        <target>Total years of experience do you have?</target>
+        <target state="translated">Years of professional experience?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder">
         <source>app.profile.editor.experiencePlaceholder</source>
         <target>Years</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader">
+      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader" approved="no">
         <source>app.profile.editor.connectToLinkedInHeader</source>
-        <target>Connect to linkedin</target>
+        <target state="needs-translation">Connect to LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel">
         <source>app.profile.editor.residenceLabel</source>
@@ -1239,17 +1239,17 @@
         <source>app.profile.profileVM.noExperienceText</source>
         <target>You did not specify your experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader">
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
         <source>app.profile.profileVM.specealityHeader</source>
-        <target>Your speciality is</target>
+        <target state="translated">Your area of expertise is</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn">
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target>Connected to LinkedIn?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT">
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="no">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
-        <target>You've successfully connected your linkedin account with Transport Talent.</target>
+        <target state="needs-translation">You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv">
         <source>app.profile.profileVM.successCv</source>
@@ -1271,9 +1271,9 @@
         <source>app.salutations.placeholder</source>
         <target>Choose salutation...</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText">
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
         <source>app.profile.profileVM.noSpecialtiesText</source>
-        <target>You have no specialties specified</target>
+        <target state="translated">You have no areas of expertise specified</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader">
         <source>app.profile.profileVM.CvHeader</source>

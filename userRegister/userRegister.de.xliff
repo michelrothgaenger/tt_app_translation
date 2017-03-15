@@ -141,6 +141,126 @@
         <source>app.userRegister.popup.signUpAgreement</source>
         <target state="translated">Mit der Anmeldung akzeptiere ich die allgemeinen Geschäftsbedingungen</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader" approved="yes">
+        <source>app.userRegister.popup.registerHeader</source>
+        <target state="translated">Registrieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding" approved="yes">
+        <source>app.userRegister.popup.emailProviding</source>
+        <target state="translated">Jetzt hier einfach mit der E-Mail-Adresse registrieren.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170010" resname="app.userRegister.popup.email.placeholder" approved="yes">
+        <source>app.userRegister.popup.email.placeholder</source>
+        <target state="translated">Ihre E-Mail-Adresse</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170011" resname="app.userRegister.popup.emailConfirmation" approved="yes">
+        <source>app.userRegister.popup.emailConfirmation</source>
+        <target state="translated">Nach Erhalt Ihrer Registrierung schicken wir Ihnen zur Bestätigung eine E-Mail.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170012" resname="app.userRegister.popup.registerButton" approved="yes">
+        <source>app.userRegister.popup.registerButton</source>
+        <target state="translated">Jetzt registrieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170013" resname="app.userRegister.popup.login" approved="yes">
+        <source>app.userRegister.popup.login</source>
+        <target state="translated">Sie haben bereits ein Nutzerkonto? Klicken Sie hier, um sich einzuloggen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170014" resname="app.userRegister.popup.loginToBook" approved="yes">
+        <source>app.userRegister.popup.loginToBook</source>
+        <target state="translated">Loggen Sie sich ein, um Buchungen zu tätigen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170070" resname="app.userRegister.popup.loginHeader" approved="yes">
+        <source>app.userRegister.popup.loginHeader</source>
+        <target state="translated">Login</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170015" resname="app.userRegister.popup.loginButton" approved="yes">
+        <source>app.userRegister.popup.loginButton</source>
+        <target state="translated">Login</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
+        <source>app.userRegister.step2.greeting</source>
+        <target state="translated">Schön, dass Sie dabei sind. Bitte richten Sie im nächsten Schritt Ihr Profil ein, damit wir Sie bestmöglich bei der Stellensuche unterstützen können. Wir führen Sie durch den gesamten Prozess.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome" approved="yes">
+        <source>app.userRegister.step2.welcome</source>
+        <target state="translated">Willkommen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170018" resname="app.userRegister.step2.contactDetails" approved="yes">
+        <source>app.userRegister.step2.contactDetails"</source>
+        <target state="translated">Allgemeine Informationen – Kontaktdaten</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170019" resname="app.userRegister.step2.contactName" approved="yes">
+        <source>app.userRegister.step2.contactName</source>
+        <target state="translated">Beginnen wir den einfachen Dingen: Wie heißen Sie und wie können wir Sie erreichen?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170020" resname="app.userRegister.step2.agreementPart1" approved="yes">
+        <source>app.userRegister.step2.agreementPart1</source>
+        <target state="translated">Mit meiner Registrierung akzeptiere ich die</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170021" resname="app.userRegister.step2.agreementPart2" approved="yes">
+        <source>app.userRegister.step2.agreementPart2</source>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton" approved="yes">
+        <source>app.userRegister.step2.signUpButton</source>
+        <target state="translated">Registrieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting" approved="yes">
+        <source>app.userRegister.step3.greeting</source>
+        <target state="translated">Sehr gut, Sie haben es geschafft!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170024" resname="app.userRegister.step3.waitForMore" approved="yes">
+        <source>app.userRegister.step3.waitForMore</source>
+        <target state="translated">Einen Moment noch: Wenn Sie mögen, können Sie hier weitere Angaben machen:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170025" resname="app.userRegister.step3.profileFilling" approved="yes">
+        <source>app.userRegister.step3.profileFilling</source>
+        <target state="translated">Füllen Sie Ihr Profil aus.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170026" resname="app.userRegister.step3.lookAroundOrContinue" approved="yes">
+        <source>app.userRegister.step3.lookAroundOrContinue</source>
+        <target state="translated">Schauen Sie sich um oder vervollständigen Sie Ihr Profil. So können wir Ihre Kenntnisse mit den Anforderungen der einzelnen Stellen abgleichen. Sie können jederzeit unterbrechen und die Eingabe zu einem späteren Zeitpunkt fortsetzen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170027" resname="app.userRegister.step3.continueProfileFilling" approved="yes">
+        <source>app.userRegister.step3.continueProfileFilling</source>
+        <target state="translated">Profil ausfüllen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170028" resname="app.userRegister.step3.lookAround" approved="yes">
+        <source>app.userRegister.step3.lookAround</source>
+        <target state="translated">Überspringen und umsehen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170029" resname="app.userRegister.step4.stepSummary" approved="yes">
+        <source>app.userRegister.step4.stepSummary</source>
+        <target state="translated">Schritt 1/4: Zusammenfassung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170030" resname="app.userRegister.step4.shortCV" approved="yes">
+        <source>app.userRegister.step4.shortCV</source>
+        <target state="translated">Zusammen mit Ihren Kontaktdaten ist dies für uns der wichtigste Teil des Profils: eine kurze Zusammenfassung sowie Ihr aktueller Lebenslauf. Natürlich können Sie die Angaben auch später noch jederzeit aktualisieren.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170032" resname="app.userRegister.step4.shortSummary" approved="yes">
+        <source>app.userRegister.step4.shortSummary</source>
+        <target state="translated">Kurze Zusammenfassung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170033" resname="app.userRegister.step4.experience" approved="yes">
+        <source>app.userRegister.step4.experience</source>
+        <target state="translated">Erfahrungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
+        <source>app.userRegister.steps.backButton</source>
+        <target state="translated">&lt; Zurück</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170036" resname="app.userRegister.steps.saveProceedButton" approved="yes">
+        <source>app.userRegister.steps.saveProceedButton</source>
+        <target state="translated">Speichern und fortfahren &gt;</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170037" resname="app.userRegister.step4.shortSummaryText" approved="yes">
+        <source>app.userRegister.step4.shortSummaryText</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
+        <source>app.userRegister.step4.specialityLabel</source>
+        <target state="translated">Was ist Ihr Fachgebiet?</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

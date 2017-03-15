@@ -145,9 +145,9 @@
         <source>app.userRegister.popup.registerHeader</source>
         <target>Register</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding">
+      <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding" approved="yes">
         <source>app.userRegister.popup.emailProviding</source>
-        <target>Resister here by simply providing your email address.</target>
+        <target state="translated">Register here by simply providing your email address.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170010" resname="app.userRegister.popup.email.placeholder">
         <source>app.userRegister.popup.email.placeholder</source>
@@ -177,9 +177,9 @@
         <source>app.userRegister.popup.loginButton</source>
         <target>Login</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting">
+      <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
-        <target>Great to have you on board. Now it's time to setup your profile so we can help you and yourpossible future employer to find the best matching job for your future. We'll lead you through the entire process.</target>
+        <target state="translated">Great to have you on board. Now it's time to setup your profile so we can help you and your possible future employer to find the best matching job for your future. We'll lead you through the entire process.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome">
         <source>app.userRegister.step2.welcome</source>

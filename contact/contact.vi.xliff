@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="efffd505a8f5a08b899b2f60206b9689" resname="app.contact.page.confirm.h1" approved="yes">
         <source>app.contact.page.confirm.h1</source>
-        <target state="translated">Cảm ơn, % Chức vụ %% Họ và tên %</target>
+        <target state="translated">Cảm ơn, %title% %fullName%</target>
       </trans-unit>
       <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>

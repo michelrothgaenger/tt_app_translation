@@ -19,11 +19,11 @@
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target state="translated">Register</target>
+        <target state="translated">Sign up</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target>Sign in</target>
+        <target state="translated">Log in</target>
       </trans-unit>
       <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies">
         <source>app.findCompanies</source>
@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target state="translated">Employer</target>
+        <target state="translated">Employers</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog">
         <source>app.blog</source>

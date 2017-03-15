@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>
-        <target state="translated">Der er lige nu %count% job from %company%|There are currently %count% jobs from %company%</target>
+        <target state="translated">Der er lige nu %count% stillinger fra %company%|Der er lige nu %count% stillinger fra %company%</target>
       </trans-unit>
       <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
         <source>app.employer.linkToJobsTitle</source>

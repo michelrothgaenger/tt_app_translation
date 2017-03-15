@@ -23,19 +23,19 @@
       </trans-unit>
       <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
         <source>app.findCompanies</source>
-        <target state="translated">Find virksomheder</target>
+        <target state="translated">Find virksomhed</target>
       </trans-unit>
       <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
-        <target state="translated">Find Stillinger</target>
+        <target state="translated">Søg stilling</target>
       </trans-unit>
       <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
         <target state="translated">Kandidat</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="no">
         <source>app.forEmployers</source>
-        <target state="translated">For virksomheder</target>
+        <target state="needs-translation">For virksomheder</target>
       </trans-unit>
     <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="yes">
         <source>app.blog</source>
@@ -59,15 +59,15 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs" approved="yes">
         <source>app.header.userSubmenu.savedJobs</source>
-        <target state="translated">Gemte Stillinger</target>
+        <target state="translated">Gemte stillinger</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies" approved="yes">
         <source>app.header.userSubmenu.savedCompanies</source>
-        <target state="translated">Gemte Virksomheder</target>
+        <target state="translated">Gemte virksomheder</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="yes">
         <source>app.header.userSubmenu.alerts</source>
-        <target state="translated">Job Alerts</target>
+        <target state="translated">Job agent</target>
       </trans-unit>
       <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle" approved="yes">
         <source>app.header.section.navigate.menuTitle</source>
@@ -75,7 +75,7 @@
       </trans-unit>
       <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label" approved="yes">
         <source>app.header.searchForm.label</source>
-        <target state="translated">Søg Jobs</target>
+        <target state="translated">Søg job</target>
       </trans-unit>
       <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder" approved="yes">
         <source>app.header.searchForm.termPlaceholder</source>
@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="802d0d39e09b422b9428ceac2ddb82bd" resname="app.header.searchForm.submitValue" approved="yes">
         <source>app.header.searchForm.submitValue</source>
-        <target state="translated">SEARCH</target>
+        <target state="translated">Søg</target>
       </trans-unit>
       <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel" approved="yes">
         <source>app.header.language.selectLabel</source>

@@ -292,7 +292,7 @@
       </trans-unit>
       <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
-        <target state="translated">.Quảng cáo việc làm này sẽ được trả lời bởi %công ty_tên%. Chúng tôi sẽ chuyển tiếp đến trang mạng của công ty cho quá trình đăng ký việc làm.</target>
+        <target state="translated">Quảng cáo việc làm này sẽ được trả lời bởi %company_name%. Chúng tôi sẽ chuyển tiếp đến trang mạng của công ty cho quá trình đăng ký việc làm.</target>
       </trans-unit>
       <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>
@@ -345,7 +345,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>
-        <target state="translated">Chào, hãy xem thông tin quảng cáo "%tiêu đề%".</target>
+        <target state="translated">Chào, hãy xem thông tin quảng cáo "%title%".</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
         <source>app.job.referral.readMore</source>
@@ -357,7 +357,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
         <source>app.job.referral.explanationTitle</source>
-        <target state="translated">Một việc làm mới cho bạn Ngài và %phần thưởng% %tiền% cho Ngài</target>
+        <target state="translated">Một việc làm mới cho bạn Ngài và %reward% %currency% cho Ngài</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>

@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding" approved="yes">
         <source>app.userRegister.popup.emailProviding</source>
-        <target state="translated">Register here by simply providing your email address.</target>
+        <target state="translated">Create a free profile by simply providing your email address.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170010" resname="app.userRegister.popup.email.placeholder">
         <source>app.userRegister.popup.email.placeholder</source>
@@ -157,29 +157,29 @@
         <source>app.userRegister.popup.emailConfirmation</source>
         <target>When we receive your registration we will send you an email asking you to confirm.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170012" resname="app.userRegister.popup.registerButton">
+      <trans-unit id="382ba41746874fac96eb5077d7170012" resname="app.userRegister.popup.registerButton" approved="yes">
         <source>app.userRegister.popup.registerButton</source>
-        <target>Register now</target>
+        <target state="translated">Create a free profile</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170013" resname="app.userRegister.popup.login">
         <source>app.userRegister.popup.login</source>
         <target>Already registered? Click here to login.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170014" resname="app.userRegister.popup.loginToBook">
+      <trans-unit id="382ba41746874fac96eb5077d7170014" resname="app.userRegister.popup.loginToBook" approved="yes">
         <source>app.userRegister.popup.loginToBook</source>
-        <target>You need to sign in first before you can book our services.</target>
+        <target state="translated">You need to sign in first to get access to all jobs and services on the site.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170070" resname="app.userRegister.popup.loginHeader">
+      <trans-unit id="382ba41746874fac96eb5077d7170070" resname="app.userRegister.popup.loginHeader" approved="yes">
         <source>app.userRegister.popup.loginHeader</source>
-        <target>Login</target>
+        <target state="translated">Log in</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170015" resname="app.userRegister.popup.loginButton">
+      <trans-unit id="382ba41746874fac96eb5077d7170015" resname="app.userRegister.popup.loginButton" approved="yes">
         <source>app.userRegister.popup.loginButton</source>
-        <target>Login</target>
+        <target state="translated">Log in</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Great to have you on board. Now it's time to setup your profile so we can help you and your possible future employer to find the best matching job for your future. We'll lead you through the entire process.</target>
+        <target state="translated">Great to have you on board. Now it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome">
         <source>app.userRegister.step2.welcome</source>
@@ -201,25 +201,25 @@
         <source>app.userRegister.step2.agreementPart2</source>
         <target><![CDATA[terms & conditions]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton">
+      <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton" approved="yes">
         <source>app.userRegister.step2.signUpButton</source>
-        <target>SIGN UP</target>
+        <target state="translated">Sign up</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting">
+      <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting" approved="yes">
         <source>app.userRegister.step3.greeting</source>
-        <target><![CDATA[Great! That's it, you're done]]></target>
+        <target state="translated">Great! First part done.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170024" resname="app.userRegister.step3.waitForMore">
+      <trans-unit id="382ba41746874fac96eb5077d7170024" resname="app.userRegister.step3.waitForMore" approved="yes">
         <source>app.userRegister.step3.waitForMore</source>
-        <target><![CDATA[But wait - if you are willing there will be more:]]></target>
+        <target state="translated">Invest just a few more minutes in your future career:</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170025" resname="app.userRegister.step3.profileFilling">
         <source>app.userRegister.step3.profileFilling</source>
         <target>Fill in your profile.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170026" resname="app.userRegister.step3.lookAroundOrContinue">
+      <trans-unit id="382ba41746874fac96eb5077d7170026" resname="app.userRegister.step3.lookAroundOrContinue" approved="yes">
         <source>app.userRegister.step3.lookAroundOrContinue</source>
-        <target>You can now go and take a look around. Or you proceed and fill in your profile. It will help us to match you against the vacancies the companies on Transport Talent offer. You can always stop and proceed at a later time.</target>
+        <target state="translated">Take a look around or continue filling in your profile</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170027" resname="app.userRegister.step3.continueProfileFilling">
         <source>app.userRegister.step3.continueProfileFilling</source>
@@ -233,9 +233,9 @@
         <source>app.userRegister.step4.stepSummary</source>
         <target><![CDATA[Step 1/4: Summary]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170030" resname="app.userRegister.step4.shortCV">
+      <trans-unit id="382ba41746874fac96eb5077d7170030" resname="app.userRegister.step4.shortCV" approved="yes">
         <source>app.userRegister.step4.shortCV</source>
-        <target>Next to your contact details this is the most crucial part for your profile with us: A short summary of you and current CV. And if you ever think you have new information at hand you can always update it.</target>
+        <target state="translated">Want to get headhunted and get the best out of Transport Talent? Make sure to complete the last part of your profile.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170032" resname="app.userRegister.step4.shortSummary">
         <source>app.userRegister.step4.shortSummary</source>
@@ -245,9 +245,9 @@
         <source>app.userRegister.step4.experience</source>
         <target>Experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target>What is your speciality?</target>
+        <target state="translated">What is your area of expertise?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton">
         <source>app.userRegister.steps.backButton</source>
@@ -269,29 +269,29 @@
         <source>app.userRegister.step5.stepImportLinkedIn</source>
         <target><![CDATA[Step 2/4: Import Your Profile from LinkedIn]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport">
+      <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target>You can save a lot of time and effort by using our importer. We connect to your profile and import all the information we can.</target>
+        <target state="translated">Let us help you save some time and effort by using our importer. We connect to your profile and import all the information we can.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader">
         <source>app.userRegister.step5.importDataHeader</source>
         <target>Import your data</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart">
+      <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
-        <target>Now comes the fun part - import your data you already have provided with LinkedIn. It'll be a simple click and could save you and us considerable work.</target>
+        <target state="translated">Import data from your LinkedIn profile. It'll be a simple click and will save you time.  </target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader">
+      <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="no">
         <source>app.userRegister.connectToLinkedInHeader</source>
-        <target>Connect to linkedin</target>
+        <target state="needs-translation">Connect to LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170044" resname="app.userRegister.step5.stepImportDataButton">
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target>Import data from LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170045" resname="app.userRegister.step5.congrats">
+      <trans-unit id="382ba41746874fac96eb5077d7170045" resname="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target>Congrats! You've successfully connected your linkedin account with Transport Talent.</target>
+        <target state="needs-translation">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170077" resname="app.userRegister.step5.CvHeader">
         <source>app.userRegister.step5.CvHeader</source>
@@ -321,9 +321,9 @@
         <source>app.userRegister.step6.stepPersonalData</source>
         <target>Step 3/4 Personal Data</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170052" resname="app.userRegister.step6.dataFilling">
+      <trans-unit id="382ba41746874fac96eb5077d7170052" resname="app.userRegister.step6.dataFilling" approved="yes">
         <source>app.userRegister.step6.dataFilling</source>
-        <target>It's your personal data we would like you to fill in. If you've used the importer for LinkedIn you might already have some data here.</target>
+        <target state="translated">If you've used the importer from LinkedIn you might already have some data here. Otherwise please fill it in manually.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170053" resname="app.userRegister.step6.personalProfile">
         <source>app.userRegister.step6.personalProfile</source>
@@ -366,9 +366,9 @@
         <source>app.userRegister.step7.stepYourPreferences</source>
         <target>Step 4/4: Your Preferences</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor">
+      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
         <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
-        <target>Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for LinkedIn/Xing you might already find some data here.</target>
+        <target state="translated">Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for LinkedIn you might already find some data here.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences">
         <source>app.userRegister.step7.jobPreferences</source>
@@ -386,13 +386,13 @@
         <source>app.userRegister.step7.chooseCategoryLabel</source>
         <target>Choose the job category</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations">
+      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="no">
         <source>app.userRegister.step7.preferedLocations</source>
-        <target><![CDATA[Prefered regions & countries]]></target>
+        <target state="needs-translation">Preferred regions &amp; countries</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel" approved="yes">
         <source>app.userRegister.step7.preferedLocationsLabel</source>
-        <target>Choose prefered regions/countries/cities</target>
+        <target state="translated">Choose preferred regions/countries/cities</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step7.salaryExpectations">
         <source>app.userRegister.step7.salaryExpectations</source>
@@ -450,9 +450,9 @@
         <source>form.currencyLabel</source>
         <target>Currency</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170076" resname="form.experienceLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170076" resname="form.experienceLabel" approved="yes">
         <source>form.experiencemLabel</source>
-        <target>Total years of experience do you have?</target>
+        <target state="translated">Years of professional experience?</target>
       </trans-unit>
     </body>
   </file>

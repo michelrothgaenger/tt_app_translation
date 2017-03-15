@@ -11,7 +11,7 @@
       </trans-unit>
     <trans-unit id="39141f898aea59e2ce9332f5297f1668" approved="yes">
         <source><![CDATA[app.welcomeEmailSubjectUser]]></source>
-        <target>Chào mừng đến với Transport Talent, %tên%!</target>
+        <target>Chào mừng đến với Transport Talent, %firstname%!</target>
       </trans-unit>
       </body>
   </file>

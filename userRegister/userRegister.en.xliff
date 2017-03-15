@@ -454,6 +454,10 @@
         <source>form.experiencemLabel</source>
         <target state="translated">Years of professional experience?</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170086" resname="app.userRegister.flash.confirmEmail.confirmationTokenNotFound">
+        <source>app.userRegister.flash.confirmEmail.confirmationTokenNotFound</source>
+        <target>User with such confirmation token does not exist</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

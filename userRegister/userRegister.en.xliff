@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Check our transport and logistics talent and register with us</target>
+        <target state="translated">To check out all the career opportunities within transport and logistics sign up for a free account </target>
       </trans-unit>
       <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
         <source>app.registration</source>
@@ -57,13 +57,13 @@
         <source>registration.email.subject</source>
         <target>Welcome %username%!</target>
       </trans-unit>
-      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message">
+      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
+        <target state="translated">Hi %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message">
+      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
+        <target state="translated">Hi %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
         <source>form.email</source>
@@ -101,21 +101,21 @@
         <source>app.userRegister.provideEmail</source>
         <target>Please provide Email</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
-        <target>Enter specialty...</target>
+        <target state="translated">Enter area of expertise</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder">
         <source>app.salutations.placeholder</source>
         <target>Choose salutation...</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="yes">
         <source>app.jobCategories.placeholder</source>
-        <target>Enter job category...</target>
+        <target state="translated">Enter job category</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>
-        <target>Enter location...</target>
+        <target state="translated">Enter location...</target>
       </trans-unit>
       <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
         <source>app.notRegisteredCta</source>

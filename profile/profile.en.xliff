@@ -1139,25 +1139,25 @@
         <source>app.profile.editor.jobPreferences</source>
         <target>Job preferences</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170108" resname="app.profile.editor.jobPreferencesText">
+      <trans-unit id="382ba41746874fac96eb5077d7170108" resname="app.profile.editor.jobPreferencesText" approved="yes">
         <source>app.profile.editor.jobPreferencesText</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque tenetur quam aspernatur corporis at explicabo nulla dolore, necessitatibus doloremque exercitationem sequi dolorem architecto.</target>
+        <target state="translated">Please let us know where you want to work and what you expect, so we can approach you with relevant positions.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories">
+      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories" approved="yes">
         <source>app.profile.editor.preferedJobCategories</source>
-        <target>Prefered job categories</target>
+        <target state="translated">Preferred job categories</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170110" resname="app.profile.editor.chooseCategoryLabel">
         <source>app.profile.editor.chooseCategoryLabel</source>
         <target>Choose the job category</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations">
+      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations" approved="yes">
         <source>app.profile.editor.preferedLocations</source>
-        <target><![CDATA[Prefered regions & countries]]></target>
+        <target state="translated">Preferred regions &amp; countries</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170112" resname="app.profile.editor.preferedLocationsLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170112" resname="app.profile.editor.preferedLocationsLabel" approved="yes">
         <source>app.profile.editor.preferedLocationsLabel</source>
-        <target>Choose prefered regions/countries/cities</target>
+        <target state="translated">Choose preferred regions/countries/cities</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations">
         <source>app.profile.editor.salaryExpectations</source>

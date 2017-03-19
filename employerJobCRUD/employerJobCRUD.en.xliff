@@ -161,6 +161,26 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target>Please check fields again</target>
       </trans-unit>
+        <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title">
+          <source>app.profile.employer.jobs.title</source>
+          <target>%company% jobs</target>
+        </trans-unit>
+        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029a" resname="app.profile.employer.jobs.description">
+          <source>app.profile.employer.jobs.description</source>
+          <target>Find below your company job listings</target>
+        </trans-unit>
+        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title">
+          <source>app.profile.employer.jobs.meta.title</source>
+          <target>%company% jobs</target>
+        </trans-unit>
+        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029b" resname="app.profile.employer.job.add">
+          <source>app.profile.employer.job.add</source>
+          <target>Add a job</target>
+        </trans-unit>
+        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished">
+          <source>app.jobs.searchForm.unpublished</source>
+          <target>Show unpublished</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

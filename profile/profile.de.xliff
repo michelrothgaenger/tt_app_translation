@@ -1245,6 +1245,70 @@ Max. Größe: 15 MB</target>
         <source>app.profile.profileVM.experienceText</source>
         <target state="translated">Sie haben %count% Jahr Berufserfahrung|Sie haben %count% Jahre Berufserfahrung</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText" approved="yes">
+        <source>app.profile.profileVM.noExperienceText</source>
+        <target state="translated">Sie haben keine Berufserfahrung angegeben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
+        <source>app.profile.profileVM.specealityHeader</source>
+        <target state="translated">Ihr Fachgebiet ist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
+        <source>app.profile.profileVM.connectedToLinkedIn</source>
+        <target state="translated">Mit LinkedIn verbunden?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv" approved="yes">
+        <source>app.profile.profileVM.successCv</source>
+        <target state="translated">Ihr Lebenslauf ist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
+        <source>app.profile.profileVM.birthday</source>
+        <target state="translated">Geburtstag:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
+        <source>app.profile.profileVM.placeOfResidence</source>
+        <target state="translated">Wohnort:</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608142" resname="app.profile.editor.enterLocation" approved="yes">
+        <source>app.profile.editor.enterLocation</source>
+        <target state="translated">Geben Sie einen Ort ein</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
+        <source>app.profile.profileVM.noSpecialtiesText</source>
+        <target state="translated">Sie haben noch keine Fachgebiete angegeben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader" approved="yes">
+        <source>app.profile.profileVM.CvHeader</source>
+        <target state="translated">Lebenslauf</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV" approved="yes">
+        <source>app.profile.profileVM.noCV</source>
+        <target state="translated">Kein Lebenslauf vorhanden</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence" approved="yes">
+        <source>app.profile.profileVM.noResidence</source>
+        <target state="translated">Wohnort fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday" approved="yes">
+        <source>app.profile.profileVM.noBirthday</source>
+        <target state="translated">Geburtsdatum fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories" approved="yes">
+        <source>app.profile.profileVM.noPreferredCategories</source>
+        <target state="translated">Bevorzugte Tätigkeitsfelder fehlen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations" approved="yes">
+        <source>app.profile.profileVM.noPreferredLocations</source>
+        <target state="translated">Bevorzugte Arbeitsorte fehlen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary" approved="yes">
+        <source>app.profile.profileVM.noSalary</source>
+        <target state="translated">Gehaltsvorstellungen fehlen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

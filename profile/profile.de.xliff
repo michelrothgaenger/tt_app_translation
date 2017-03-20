@@ -1096,6 +1096,10 @@
         <source>app.profile.editor.DeleteCV</source>
         <target state="translated">Lebenslauf löschen</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
+        <source>app.profile.editor.cvSuccesPart1</source>
+        <target state="translated">Import erfolgreich</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

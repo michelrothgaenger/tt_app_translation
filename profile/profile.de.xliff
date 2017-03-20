@@ -1068,6 +1068,247 @@
         <source>app.salutations.placeholder</source>
         <target state="translated">Anrede auswählen...</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.profile.editor.shortSummary" approved="yes">
+        <source>app.profile.editor.shortSummary</source>
+        <target state="translated">Zusammenfassung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
+        <source>app.profile.editor.shortSummaryText</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
+        <source>app.profile.editor.experience</source>
+        <target state="translated">Erfahrung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
+        <source>app.profile.editor.specialityLabel</source>
+        <target state="translated">Was ist Ihr Fachgebiet?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
+        <source>app.profile.linkedinImportDataButton</source>
+        <target state="translated">Daten aus LinkedIn importieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
+        <source>app.profile.editor.congrats</source>
+        <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV" approved="yes">
+        <source>app.profile.editor.DeleteCV</source>
+        <target state="translated">Lebenslauf löschen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
+        <source>app.profile.editor.cvSuccesPart1</source>
+        <target state="translated">Sie haben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2" approved="yes">
+        <source>app.profile.editor.cvSuccesPart2</source>
+        <target state="translated">erfolgreich als Lebenslauf importiert.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload" approved="yes">
+        <source>app.profile.editor.fileUpload</source>
+        <target state="translated">Datei hochladen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170097" resname="app.profile.editor.cvRestriction" approved="yes">
+        <source>app.profile.editor.cvRestriction</source>
+        <target state="translated">Dateiformat: PDF
+Max. Größe: 15 MB</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170098" resname="app.profile.editor.personalProfile" approved="yes">
+        <source>app.profile.editor.personalProfile</source>
+        <target state="translated">Persönliches Profil</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.profile.editor.fillMaximumInformation" approved="yes">
+        <source>app.profile.editor.fillMaximumInformation</source>
+        <target state="translated">Geben Sie das an, womit Sie sich wohlfühlen. Wir kontaktieren Sie, wenn wir weitere Informationen benötigen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.profile.editor.generalHeader" approved="yes">
+        <source>app.profile.editor.generalHeader</source>
+        <target state="translated">Allgemein</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170101" resname="app.profile.editor.photoHeader" approved="yes">
+        <source>app.profile.editor.photoHeader</source>
+        <target state="translated">Foto</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170102" resname="app.profile.editor.photoFieldsTitle" approved="yes">
+        <source>app.profile.editor.photoFieldsTitle</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170103" resname="app.profile.editor.editPhoto" approved="yes">
+        <source>app.profile.editor.editPhoto</source>
+        <target state="translated">Foto bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170104" resname="app.profile.editor.deletePhoto" approved="yes">
+        <source>app.profile.editor.deletePhoto</source>
+        <target state="translated">Löschen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170105" resname="app.profile.editor.photoPixelsMinimum" approved="yes">
+        <source>app.profile.editor.photoPixelsMinimum</source>
+        <target state="translated">Min. 150 x 150 Pixel.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170106" resname="app.profile.editor.photoNotLarger" approved="yes">
+        <source>app.profile.editor.photoNotLarger</source>
+        <target state="translated">Dateigröße darf 1 MB nicht überschreiten.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700107" resname="app.profile.editor.jobPreferences" approved="yes">
+        <source>app.profile.editor.jobPreferences</source>
+        <target state="translated">Persönliche Rahmenbedingungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170108" resname="app.profile.editor.jobPreferencesText" approved="yes">
+        <source>app.profile.editor.jobPreferencesText</source>
+        <target state="translated">Bitte nennen Sie uns Ihre Vorstellungen, damit wir Ihnen passende Stellen vorschlagen können.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories" approved="yes">
+        <source>app.profile.editor.preferedJobCategories</source>
+        <target state="translated">Bevorzugte Tätigkeitsfelder</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170110" resname="app.profile.editor.chooseCategoryLabel" approved="yes">
+        <source>app.profile.editor.chooseCategoryLabel</source>
+        <target state="translated">Wählen Sie einen Bereich</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations" approved="yes">
+        <source>app.profile.editor.preferedLocations</source>
+        <target state="translated">Bevorzugte Arbeitsorte</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170112" resname="app.profile.editor.preferedLocationsLabel" approved="yes">
+        <source>app.profile.editor.preferedLocationsLabel</source>
+        <target state="translated">Wählen Sie Regionen, Länder oder Städte</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations" approved="yes">
+        <source>app.profile.editor.salaryExpectations</source>
+        <target state="translated">Gehaltsvorstellungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170124" resname="app.profile.editor.profileEdit" approved="yes">
+        <source>app.profile.editor.profileEdit</source>
+        <target state="translated">Profil bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel" approved="yes">
+        <source>app.profile.editor.experienceLabel</source>
+        <target state="translated">Berufserfahrung in Jahren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder" approved="yes">
+        <source>app.profile.editor.experiencePlaceholder</source>
+        <target state="translated">Jahre</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader" approved="yes">
+        <source>app.profile.editor.connectToLinkedInHeader</source>
+        <target state="translated">Mit LinkedIn verbinden</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel" approved="yes">
+        <source>app.profile.editor.residenceLabel</source>
+        <target state="translated">Wohnort</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170119" resname="app.profile.editor.salutationLabel" approved="yes">
+        <source>app.profile.editor.salutationLabel</source>
+        <target state="translated">Anrede</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
+        <source>app.profile.editor.salaryLabel</source>
+        <target state="translated">Gehalt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder" approved="yes">
+        <source>app.profile.editor.salaryPlaceholder</source>
+        <target state="translated">Geben Sie Ihr Gehalt ein</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170122" resname="app.profile.editor.currencyLabel" approved="yes">
+        <source>app.profile.editor.currencyLabel</source>
+        <target state="translated">Währung</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608123" resname="app.profile.editor.locationPlaceholder" approved="yes">
+        <source>app.profile.editor.locationPlaceholder</source>
+        <target state="translated">Geben Sie einen Ort ein</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170125" resname="app.profile.editor.CvHeader" approved="yes">
+        <source>app.profile.editor.CvHeader</source>
+        <target state="translated">Lebenslauf</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170126" resname="app.profile.dashboard.congratulationsHeader" approved="yes">
+        <source>app.profile.dashboard.congratulationsHeader</source>
+        <target state="translated">Glückwunsch, %firstName% %lastName%!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170127" resname="app.profile.dashboard.congratulationsText" approved="yes">
+        <source>app.profile.dashboard.congratulationsText</source>
+        <target state="translated">Sie haben es geschafft. Ihr Profil enthält nun alle wichtigen Angaben. Wir melden uns bei Ihnen, sollten wir weitere Informationen benötigen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170149" resname="app.profile.profileVM.profileHeader" approved="yes">
+        <source>app.profile.profileVM.profileHeader</source>
+        <target state="translated">Profil</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
+        <source>app.profile.profileVM.profileHeaderText</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
+        <source>app.profile.profileVM.summaryHeader</source>
+        <target state="translated">Übersicht</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText" approved="yes">
+        <source>app.profile.profileVM.experienceText</source>
+        <target state="translated">Sie haben %count% Jahr Berufserfahrung|Sie haben %count% Jahre Berufserfahrung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText" approved="yes">
+        <source>app.profile.profileVM.noExperienceText</source>
+        <target state="translated">Sie haben keine Berufserfahrung angegeben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
+        <source>app.profile.profileVM.specealityHeader</source>
+        <target state="translated">Ihr Fachgebiet ist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
+        <source>app.profile.profileVM.connectedToLinkedIn</source>
+        <target state="translated">Mit LinkedIn verbunden?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv" approved="yes">
+        <source>app.profile.profileVM.successCv</source>
+        <target state="translated">Ihr Lebenslauf ist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
+        <source>app.profile.profileVM.birthday</source>
+        <target state="translated">Geburtstag:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
+        <source>app.profile.profileVM.placeOfResidence</source>
+        <target state="translated">Wohnort:</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608142" resname="app.profile.editor.enterLocation" approved="yes">
+        <source>app.profile.editor.enterLocation</source>
+        <target state="translated">Geben Sie einen Ort ein</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
+        <source>app.profile.profileVM.noSpecialtiesText</source>
+        <target state="translated">Sie haben noch keine Fachgebiete angegeben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader" approved="yes">
+        <source>app.profile.profileVM.CvHeader</source>
+        <target state="translated">Lebenslauf</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV" approved="yes">
+        <source>app.profile.profileVM.noCV</source>
+        <target state="translated">Kein Lebenslauf vorhanden</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence" approved="yes">
+        <source>app.profile.profileVM.noResidence</source>
+        <target state="translated">Wohnort fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday" approved="yes">
+        <source>app.profile.profileVM.noBirthday</source>
+        <target state="translated">Geburtsdatum fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories" approved="yes">
+        <source>app.profile.profileVM.noPreferredCategories</source>
+        <target state="translated">Bevorzugte Tätigkeitsfelder fehlen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations" approved="yes">
+        <source>app.profile.profileVM.noPreferredLocations</source>
+        <target state="translated">Bevorzugte Arbeitsorte fehlen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary" approved="yes">
+        <source>app.profile.profileVM.noSalary</source>
+        <target state="translated">Gehaltsvorstellungen fehlen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

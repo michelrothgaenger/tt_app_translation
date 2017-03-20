@@ -77,6 +77,10 @@
         <source>app.contact.meta.description</source>
         <target state="translated">Transport Talent ist das führende Stellenportal für Transport und Logistik. Nehmen Sie Kontakt mit uns auf, wenn wir Sie bei Ihrem nächsten Karriereschritt oder dem Besetzen von Vakanzen unterstützen können.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="58ed23f937b325f3cda5e34270d54b3a" resname="app.contact.meta.keywords" approved="yes">
+        <source>app.contact.meta.keywords</source>
+        <target state="translated">transport, logistik, Stellen, anzeige, job, position, Vakanz, besetzen, personal, Vermittlung, Karriere, headhunter, Börse, portal, Kontakt, kundenservice</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

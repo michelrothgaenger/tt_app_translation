@@ -1068,6 +1068,38 @@
         <source>app.salutations.placeholder</source>
         <target state="translated">Anrede auswählen...</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.profile.editor.shortSummary" approved="yes">
+        <source>app.profile.editor.shortSummary</source>
+        <target state="translated">Zusammenfassung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
+        <source>app.profile.editor.shortSummaryText</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
+        <source>app.profile.editor.experience</source>
+        <target state="translated">Erfahrung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
+        <source>app.profile.editor.specialityLabel</source>
+        <target state="translated">Was ist Ihr Fachgebiet?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
+        <source>app.profile.linkedinImportDataButton</source>
+        <target state="translated">Daten aus LinkedIn importieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
+        <source>app.profile.editor.congrats</source>
+        <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV" approved="yes">
+        <source>app.profile.editor.DeleteCV</source>
+        <target state="translated">Lebenslauf löschen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
+        <source>app.profile.editor.cvSuccesPart1</source>
+        <target state="translated">Import erfolgreich</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

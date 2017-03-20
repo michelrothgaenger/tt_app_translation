@@ -1098,7 +1098,15 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
         <source>app.profile.editor.cvSuccesPart1</source>
-        <target state="translated">Import erfolgreich</target>
+        <target state="translated">Sie haben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2" approved="yes">
+        <source>app.profile.editor.cvSuccesPart2</source>
+        <target state="translated">erfolgreich als Lebenslauf importiert.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload" approved="yes">
+        <source>app.profile.editor.fileUpload</source>
+        <target state="translated">Datei hochladen</target>
       </trans-unit>
       </body>
   </file>

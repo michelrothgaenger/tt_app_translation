@@ -5,33 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="912d59cdf1d3f551fae21f6f0062258f" resname="Europe">
+      <trans-unit id="912d59cdf1d3f551fae21f6f0062258f" resname="Europe" approved="yes">
         <source>Europe</source>
-        <target>Europe</target>
+        <target state="translated">Europe</target>
       </trans-unit>
-      <trans-unit id="5ffec2d87ab548202f8b549af380913a" resname="North America">
+      <trans-unit id="5ffec2d87ab548202f8b549af380913a" resname="North America" approved="yes">
         <source>North America</source>
-        <target>North America</target>
+        <target state="translated">North America</target>
       </trans-unit>
-      <trans-unit id="dfcd11e5c9131eb8e5f970e5e4ee5a53" resname="Latin America">
+      <trans-unit id="dfcd11e5c9131eb8e5f970e5e4ee5a53" resname="Latin America" approved="yes">
         <source>Latin America</source>
-        <target>Latin America</target>
+        <target state="translated">Latin America</target>
       </trans-unit>
-      <trans-unit id="f5cd262901883dff68d06b215fb0f28e" resname="Africa">
+      <trans-unit id="f5cd262901883dff68d06b215fb0f28e" resname="Africa" approved="yes">
         <source>Africa</source>
-        <target>Africa</target>
+        <target state="translated">Africa</target>
       </trans-unit>
-      <trans-unit id="158b06e50632e27d494593ba389ef918" resname="Middle East">
+      <trans-unit id="158b06e50632e27d494593ba389ef918" resname="Middle East" approved="yes">
         <source>Middle East</source>
-        <target>Middle East</target>
+        <target state="translated">Middle East</target>
       </trans-unit>
-      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf802f4c" resname="Asia Pacific">
+      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf802f4c" resname="Asia Pacific" approved="yes">
         <source>Asia Pacific</source>
-        <target>Asia Pacific</target>
+        <target state="translated">Asia Pacific</target>
       </trans-unit>
-      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf800001" resname="Asia">
+      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf800001" resname="Asia" approved="yes">
         <source>Asia</source>
-        <target>Asia Pacific</target>
+        <target state="translated">Asia Pacific</target>
       </trans-unit>
     </body>
   </file>

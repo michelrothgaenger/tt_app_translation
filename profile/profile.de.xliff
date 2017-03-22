@@ -439,7 +439,7 @@
       </trans-unit>
       <trans-unit id="6d001aac1f87d905d5308a04683ec636" resname="app.profileInputPreferredJobCategoriesJobCategoryLabel" approved="yes">
         <source>app.profileInputPreferredJobCategoriesJobCategoryLabel</source>
-        <target state="translated">Wählen Sie einen Bereich</target>
+        <target state="translated">Geben Sie die Bereiche an, in denen Sie arbeiten möchten (Seefracht, Finanzen, Personal etc.)</target>
       </trans-unit>
       <trans-unit id="0dd0f537414cd92a4200d773c8f63e3a" resname="app.profileSectionPreferredCountriesTitle" approved="yes">
         <source>app.profileSectionPreferredCountriesTitle</source>
@@ -1239,7 +1239,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
-        <target state="translated">Zusammenfassung</target>
+        <target state="translated">Übersicht</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText" approved="yes">
         <source>app.profile.profileVM.experienceText</source>

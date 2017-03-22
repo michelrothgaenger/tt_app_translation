@@ -5,29 +5,33 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="912d59cdf1d3f551fae21f6f0062258f" resname="Europe">
+      <trans-unit id="912d59cdf1d3f551fae21f6f0062258f" resname="Europe" approved="yes">
         <source>Europe</source>
-        <target>Европа</target>
+        <target state="translated">Европа</target>
       </trans-unit>
-      <trans-unit id="5ffec2d87ab548202f8b549af380913a" resname="North America">
+      <trans-unit id="5ffec2d87ab548202f8b549af380913a" resname="North America" approved="yes">
         <source>North America</source>
-        <target>Северная Америка</target>
+        <target state="translated">Северная Америка</target>
       </trans-unit>
-      <trans-unit id="dfcd11e5c9131eb8e5f970e5e4ee5a53" resname="Latin America">
+      <trans-unit id="dfcd11e5c9131eb8e5f970e5e4ee5a53" resname="Latin America" approved="yes">
         <source>Latin America</source>
-        <target>Латинская Америка</target>
+        <target state="translated">Латинская Америка</target>
       </trans-unit>
-      <trans-unit id="f5cd262901883dff68d06b215fb0f28e" resname="Africa">
+      <trans-unit id="f5cd262901883dff68d06b215fb0f28e" resname="Africa" approved="yes">
         <source>Africa</source>
-        <target>Африка</target>
+        <target state="translated">Африка</target>
       </trans-unit>
-      <trans-unit id="158b06e50632e27d494593ba389ef918" resname="Middle East">
+      <trans-unit id="158b06e50632e27d494593ba389ef918" resname="Middle East" approved="yes">
         <source>Middle East</source>
-        <target>Ближний Восток</target>
+        <target state="translated">Ближний Восток</target>
       </trans-unit>
-      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf802f4c" resname="Asia Pacific">
+      <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf802f4c" resname="Asia Pacific" approved="yes">
         <source>Asia Pacific</source>
-        <target>Азиатско-тихоокеанский регион</target>
+        <target state="translated">Азия</target>
+      </trans-unit>
+    <trans-unit id="2ebc1f6a39f03ec89f2b4bfdaf800001" resname="Asia" approved="yes">
+        <source>Asia</source>
+        <target state="translated">Азия</target>
       </trans-unit>
     </body>
   </file>

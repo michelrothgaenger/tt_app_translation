@@ -1303,6 +1303,10 @@
         <source>app.profile.profileVM.noSalary</source>
         <target>Salary is not specified</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder">
+        <source>app.profile.editor.birthdayPlaceholder</source>
+        <target>DD/MM/YYYY</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

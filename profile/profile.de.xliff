@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
         <source>app.profile.editor.shortSummaryText</source>
-        <target state="translated"/>
+        <target state="translated">Ihr Profil ist der Ausgangspunkt für unsere Services. Je mehr Informationen wir haben desto besser können wir Sie bei Ihrer Stellensuche unterstützen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
         <source>app.profile.editor.experience</source>
@@ -1235,7 +1235,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated"/>
+        <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Sie können jederzeit Änderungen vornehmen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
@@ -1309,6 +1309,14 @@ Max. Größe: 15 MB</target>
         <source>app.profile.profileVM.noSalary</source>
         <target state="translated">Gehaltsvorstellungen fehlen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
+        <source>app.profile.editor.birthdayPlaceholder</source>
+        <target state="translated">TT/MM/JJJJ</target>
+      </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader" approved="yes">
+        <source>app.profile.editor.profileEditionHeader</source>
+        <target state="translated">Wir möchten Ihnen möglichst passende Stellen vorschlagen. Bitte nennen Sie uns Ihre Vorstellungen von Ihrer nächsten Stelle. Wenn Sie Ihr LinkedIn-Profil hinterlegt haben, wurden hier ggf. Informationen übernommen.</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

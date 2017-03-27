@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
-        <target state="translated">Daten von LinkedIn importieren</target>
+        <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
       <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing" approved="yes">
         <source>app.importDataFromXing</source>
@@ -591,7 +591,7 @@
       </trans-unit>
       <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file..." approved="yes">
         <source>Select a file...</source>
-        <target state="translated">Wähle eine Datei aus...</target>
+        <target state="translated">Wählen Sie eine Datei aus...</target>
       </trans-unit>
       <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="yes">
         <source>Please adjust selection to your image</source>
@@ -1074,7 +1074,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
         <source>app.profile.editor.shortSummaryText</source>
-        <target state="translated"/>
+        <target state="translated">Ihr Profil ist der Ausgangspunkt für unsere Services. Je mehr Informationen wir haben desto besser können wir Sie bei Ihrer Stellensuche unterstützen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
         <source>app.profile.editor.experience</source>
@@ -1086,7 +1086,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
         <source>app.profile.linkedinImportDataButton</source>
-        <target state="translated">Daten aus LinkedIn importieren</target>
+        <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
         <source>app.profile.editor.congrats</source>
@@ -1235,7 +1235,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated"/>
+        <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Sie können jederzeit Änderungen vornehmen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
@@ -1309,6 +1309,14 @@ Max. Größe: 15 MB</target>
         <source>app.profile.profileVM.noSalary</source>
         <target state="translated">Gehaltsvorstellungen fehlen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
+        <source>app.profile.editor.birthdayPlaceholder</source>
+        <target state="translated">TT/MM/JJJJ</target>
+      </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader" approved="yes">
+        <source>app.profile.editor.profileEditionHeader</source>
+        <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Wenn Sie Ihr LinkedIn-Profil verknüpft haben, wurden ggf. Informationen übernommen.</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

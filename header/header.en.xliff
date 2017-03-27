@@ -13,9 +13,9 @@
         <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
-        <target>Sign Out</target>
+        <target state="translated">Sign out</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
@@ -29,9 +29,9 @@
         <source>app.findCompanies</source>
         <target>Find companies</target>
       </trans-unit>
-      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs">
+      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
-        <target>Find Jobs</target>
+        <target state="translated">Find jobs</target>
       </trans-unit>
       <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>

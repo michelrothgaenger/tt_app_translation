@@ -1059,9 +1059,9 @@
         <source>app.profile.editor.shortSummary</source>
         <target>Short summary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText">
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
         <source>app.profile.editor.shortSummaryText</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque tenetur quam aspernatur corporis at explicabo nulla dolore, necessitatibus doloremque exercitationem sequi dolorem architecto.</target>
+        <target state="translated">Your profile is the central point for our services. The more accurate it is the better we can support you with your career.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience">
         <source>app.profile.editor.experience</source>
@@ -1223,9 +1223,9 @@
         <source>app.profile.profileVM.profileHeader</source>
         <target>Profile</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText">
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita earum pariatur deleniti fugiat, eligendi corrupti facere, explicabo. Voluptatem inventore in corporis, tempora consequuntur id.</target>
+        <target state="translated">Your profile information helps us find interesting job offers for you. You can come back at any time to make changes.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader">
         <source>app.profile.profileVM.summaryHeader</source>

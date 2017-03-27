@@ -13,13 +13,13 @@
         <source>app.employerServiceMainPage.meta.description</source>
         <target>Meta description for google</target>
       </trans-unit>
-      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="yes">
+      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="no">
         <source>app.employerServiceMainPage.header</source>
-        <target state="translated">¿Por qué aliarse con Transport Talent?</target>
+        <target state="needs-translation">¿POR QUÉ UNIRSE A TRANSPORT TALENT?</target>
       </trans-unit>
       <trans-unit id="03ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.description" approved="yes">
         <source>app.employerServiceMainPage.description</source>
-        <target state="translated">Somos un portal de empleo global y una firma de selección dedicada exclusivamente a la industria del transporte y la logística. Combinamos años de experiencia en la industria con nuevos e  innovadores métodos de especialización para llegar a los candidatos más adecuados. Nuestro objetivo es hacer que su proceso de contratación sea más rápido, rentable y eficiente.</target>
+        <target state="translated">Somos un portal de empleo global y un equipo de selección especializado y dedicado exclusivamente a la industria del transporte y la logística. Combinamos años de experiencia en la industria con nuevos e innovadores métodos de especialización para llegar a los mejores candidatos.  Nuestro objetivo es hacer que su proceso de contratación sea más rápido, rentable y eficiente.</target>
       </trans-unit>
       <trans-unit id="04ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.title" approved="yes">
         <source>app.employerServiceMainPage.solutions.title</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="05ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.description" approved="yes">
         <source>app.employerServiceMainPage.solutions.description</source>
-        <target state="translated">Hemos diseñado una serie de soluciones específicas que pueden satisfacer todas sus necesidades de reclutamiento. Con la publicación de ofertas de trabajo no sólo gestionará sus vacantes sino que su imagen de marca llegará a una gran audiencia de profesionales del sector a nivel mundial. Con nuestras soluciones de reclutamiento, nuestro equipo de recursos humanos especialista en selección y atracción de talento, le ayudará a preparar un talent pool de candidatos adecuados y listos para ser entrevistados de manera inmediata.</target>
+        <target state="translated">Hemos diseñado una serie de soluciones específicas para satisfacer todas sus necesidades de reclutamiento. Con la publicación de ofertas de empleo en TransporTalent, podrá gestionar sus vacantes de forma rápida y eficaz. En Tranport Talent podrá posicionar su empresa con imagen de marca al presentarse a  la gran audiencia de profesionales del sector a nivel mundial. Nuestras soluciones de reclutamiento y nuestro equipo  especialistas en selección y atracción de talento le ayudarán a preparar un talent pool de los mejores candidatos listos para ser entrevistados de forma inmediata.</target>
       </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
       <source>app.employerServiceMainPage.section.choice.header</source>
@@ -51,7 +51,7 @@
     </trans-unit>
     <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target state="translated">Externalice sus procesos o compleméntelos accediendo al mejor talento</target>
+      <target state="translated">Externalice sus procesos o compleméntelos accediendo al mejor talento.</target>
     </trans-unit>
     <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
         <source>app.employerService.detailsLabel</source>
@@ -63,11 +63,11 @@
     </trans-unit>
     <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
-        <target state="translated">¡Muchas gracias, le agradecemos su confianza! Nos pondremos en contacto con usted lo antes posible.</target>
+        <target state="translated">¡Muchas gracias por su interés en nuestros servicios!  Nuestro equipo de consultores especializados se pondrá en contacto con usted en las próximas 24 horas.</target>
     </trans-unit>
     <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="yes">
         <source>app.employerService.serviceBooking.thankYouClose</source>
-        <target state="translated">Cerrar ventana</target>
+        <target state="translated">Cerrar</target>
     </trans-unit>
     <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
@@ -83,7 +83,7 @@
     </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.bookButtonLabel</source>
-            <target state="translated">Contrata</target>
+            <target state="translated">Contratar</target>
           </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>

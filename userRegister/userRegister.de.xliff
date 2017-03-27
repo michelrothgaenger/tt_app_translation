@@ -255,15 +255,15 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170037" resname="app.userRegister.step4.shortSummaryText" approved="yes">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated"/>
+        <target state="translated">Angaben zu Ihrer Berufserfahrung helfen uns, passende Stellen für Sie zu finden.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">Was ist Ihr Fachgebiet?</target>
+        <target state="translated">Was sind Ihre Fachgebiete?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepImportLinkedIn" approved="yes">
         <source>app.userRegister.step5.stepImportLinkedIn</source>
-        <target state="translated">Schritt 2/4: Importieren Sie Daten aus LinkedIn</target>
+        <target state="translated">Schritt 2/4: Soziale Netzwerke und Lebenslauf</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
@@ -271,7 +271,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
-        <target state="translated">Übernehmen Sie Daten aus Ihrem LinkedIn-Profil. Ein einfacher Klick genügt.</target>
+        <target state="translated">Hinterlegen Sie Ihr LinkedIn-Profil in Ihrem Account.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="yes">
         <source>app.userRegister.connectToLinkedInHeader</source>
@@ -316,7 +316,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170052" resname="app.userRegister.step6.dataFilling" approved="yes">
         <source>app.userRegister.step6.dataFilling</source>
-        <target state="translated">Wenn Sie Daten aus LinkedIn übernommen haben, finden Sie hier ggf. schon einige Einträge. Bitte füllen Sie die übrigen Felder manuell aus.</target>
+        <target state="translated">Wenn Sie Ihr LinkedIn-Profil hinterlegt haben, finden Sie hier ggf. schon einige Einträge. Bitte füllen Sie die übrigen Felder manuell aus.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170053" resname="app.userRegister.step6.personalProfile" approved="yes">
         <source>app.userRegister.step6.personalProfile</source>
@@ -324,7 +324,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170054" resname="app.userRegister.step6.fillMaximumInformation" approved="yes">
         <source>app.userRegister.step6.fillMaximumInformation</source>
-        <target state="translated">Geben Sie das an, womit Sie sich wohlfühlen. Wir kontaktieren Sie, wenn wir weitere Informationen benötigen.</target>
+        <target state="translated">Geben Sie nur das an, womit Sie sich wohlfühlen. Wir kontaktieren Sie, wenn wir weitere Informationen benötigen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170055" resname="app.userRegister.step6.generalHeader" approved="yes">
         <source>app.userRegister.step6.generalHeader</source>
@@ -361,7 +361,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
         <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
-        <target state="translated"/>
+        <target state="translated">Nennen Sie uns Ihre Vorstellungen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
         <source>app.userRegister.step7.jobPreferences</source>
@@ -369,7 +369,7 @@ Max. Größe: 15 MB</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step7.jobPreferencesText" approved="yes">
         <source>app.userRegister.step7.jobPreferencesText</source>
-        <target state="translated"/>
+        <target state="translated">Je genauer wir Ihre Vorstellungen kennen desto passender sind unsere Stellenangebote für Sie.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step7.preferedJobCategories" approved="yes">
         <source>app.userRegister.step7.preferedJobCategories</source>
@@ -451,6 +451,10 @@ Max. Größe: 15 MB</target>
         <source>app.userRegister.flash.confirmEmail.confirmationTokenNotFound</source>
         <target state="translated">Es existiert kein Nutzer mit diesem Confirmation Token</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
+        <source>app.userRegister.step5.savingTimeByImport</source>
+        <target state="translated">Unterstützen Sie unseren Vermittlungsprozess mit zusätzlichen Informationen.</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

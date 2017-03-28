@@ -303,9 +303,9 @@
         <source>app.profileGroupImportDesc</source>
         <target>Save time by importing existing data from your LinkedIn account.</target>
       </trans-unit>
-      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn">
+      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
-        <target>Import data from LinkedIn</target>
+        <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle">
         <source>app.profileGroupPersonalTitle</source>
@@ -1071,9 +1071,9 @@
         <source>app.profile.editor.specialityLabel</source>
         <target state="translated">What is your area of expertise?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton">
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
         <source>app.profile.linkedinImportDataButton</source>
-        <target>Import data from LinkedIn</target>
+        <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
@@ -1191,9 +1191,9 @@
         <source>app.profile.editor.salutationLabel</source>
         <target>Salutation</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
         <source>app.profile.editor.salaryLabel</source>
-        <target>Salary</target>
+        <target state="translated">Annual salary</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder">
         <source>app.profile.editor.salaryPlaceholder</source>

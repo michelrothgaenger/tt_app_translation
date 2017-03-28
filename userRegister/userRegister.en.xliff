@@ -434,13 +434,13 @@
         <source>form.salutationLabel</source>
         <target>Salutation</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170082" resname="form.salaryLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170082" resname="form.salaryLabel" approved="yes">
         <source>form.salaryLabel</source>
-        <target>Salary</target>
+        <target state="translated">Annual salary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170083" resname="form.salaryPlaceholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170083" resname="form.salaryPlaceholder" approved="yes">
         <source>form.salaryPlaceholder</source>
-        <target>Enter your salary</target>
+        <target state="translated">Enter your salary</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170084" resname="form.experiencePlaceholder">
         <source>form.experiencePlaceholder</source>

@@ -406,6 +406,10 @@
         <source>form.birthdayLabel</source>
         <target>Birthday</target>
       </trans-unit>
+      <trans-unit id="1d602f68a209e7ad43d255223c273211" resname="app.userRegister.step6.birthdayPlaceholder">
+        <source>app.userRegister.step6.birthdayPlaceholder</source>
+        <target>DD/MM/YYYY</target>
+      </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170071" resname="form.firstNamePlaceholder">
         <source>form.firstNamePlaceholder</source>
         <target>Your first name</target>

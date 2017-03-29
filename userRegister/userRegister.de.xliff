@@ -455,6 +455,10 @@ Max. Größe: 15 MB</target>
         <source>app.userRegister.step5.savingTimeByImport</source>
         <target state="translated">Unterstützen Sie unseren Vermittlungsprozess mit zusätzlichen Informationen.</target>
       </trans-unit>
+        <trans-unit id="1d602f68a209e7ad43d255223c273211" resname="app.userRegister.step6.birthdayPlaceholder">
+          <source>app.userRegister.step6.birthdayPlaceholder</source>
+          <target>TT/MM/JJJJ</target>
+        </trans-unit>
       </body>
   </file>
 </xliff>

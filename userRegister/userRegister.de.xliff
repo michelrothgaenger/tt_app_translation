@@ -139,7 +139,7 @@
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>
-        <target state="translated">Mit der Anmeldung akzeptiere ich die Allgemeinen Geschäftsbedingungen</target>
+        <target state="translated"><![CDATA[Mit der Anmeldung akzeptiere ich die <a target="_blank" href="%termsUrl%">Allgemeinen Geschäftsbedingungen</a>]]></target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader" approved="yes">
         <source>app.userRegister.popup.registerHeader</source>

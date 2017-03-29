@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement">
         <source>app.userRegister.popup.signUpAgreement</source>
-        <target><![CDATA[By signing up I agree to the terms & conditions]]></target>
+        <target><![CDATA[By signing up I agree to the <a target="_blank" href="%termsUrl%">terms & conditions</a>]]></target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader">
         <source>app.userRegister.popup.registerHeader</source>

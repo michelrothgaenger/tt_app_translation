@@ -303,9 +303,9 @@
         <source>app.profileGroupImportDesc</source>
         <target>Save time by importing existing data from your LinkedIn account.</target>
       </trans-unit>
-      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn">
+      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
         <source>app.importDataFromLinkedIn</source>
-        <target>Import data from LinkedIn</target>
+        <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle">
         <source>app.profileGroupPersonalTitle</source>
@@ -1059,9 +1059,9 @@
         <source>app.profile.editor.shortSummary</source>
         <target>Short summary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText">
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.profile.editor.shortSummaryText" approved="yes">
         <source>app.profile.editor.shortSummaryText</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti atque tenetur quam aspernatur corporis at explicabo nulla dolore, necessitatibus doloremque exercitationem sequi dolorem architecto.</target>
+        <target state="translated">Your profile is the central point for our services. The more accurate it is the better we can support you with your career.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience">
         <source>app.profile.editor.experience</source>
@@ -1071,9 +1071,9 @@
         <source>app.profile.editor.specialityLabel</source>
         <target state="translated">What is your area of expertise?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton">
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
         <source>app.profile.linkedinImportDataButton</source>
-        <target>Import data from LinkedIn</target>
+        <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
@@ -1191,9 +1191,9 @@
         <source>app.profile.editor.salutationLabel</source>
         <target>Salutation</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel">
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
         <source>app.profile.editor.salaryLabel</source>
-        <target>Salary</target>
+        <target state="translated">Annual salary</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder">
         <source>app.profile.editor.salaryPlaceholder</source>
@@ -1223,9 +1223,9 @@
         <source>app.profile.profileVM.profileHeader</source>
         <target>Profile</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText">
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita earum pariatur deleniti fugiat, eligendi corrupti facere, explicabo. Voluptatem inventore in corporis, tempora consequuntur id.</target>
+        <target state="translated">Your profile information helps us find interesting job offers for you. You can come back at any time to make changes.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader">
         <source>app.profile.profileVM.summaryHeader</source>

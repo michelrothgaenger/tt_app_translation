@@ -73,10 +73,6 @@
           <source>app.employerServicesHiringsolutions.recruiting.shortPrice</source>
           <target state="translated">2.000</target>
       </trans-unit>
-      <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
-        <source>app.employerServicesHiringsolutions.packages.descr</source>
-        <target state="translated">of candidate's salary upon hire*</target>
-      </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
         <target state="translated">Job description revision</target>
@@ -165,10 +161,6 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
         <target state="translated">Shortlisting</target>
       </trans-unit>
-      <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
-        <target state="translated">+ € 4.000 per hired candidate*</target>
-      </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
         <target state="translated">30 days</target>
@@ -180,10 +172,6 @@
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
         <target state="translated">Recruiting</target>
-      </trans-unit>
-      <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
-        <target state="translated">+ € 5.000 per hired candidate*</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -220,10 +208,6 @@
     <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.description</source>
         <target state="translated">Make your hiring process fast, cost effective and streamlined – with Transport Talent.</target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047015" resname="app.employerServicesHiringsolutions.packages.perHiredCandidate" approved="yes">
-        <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
-        <target state="translated">per hired candidate*</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>

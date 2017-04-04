@@ -13,14 +13,6 @@
         <source>app.registration</source>
         <target>Get Started</target>
       </trans-unit>
-      <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta">
-        <source>app.registerCta</source>
-        <target><![CDATA[Sign in and complete your profile so that we can start matching.<br>Sign in using one of your social media profiles, or by filling out your information below.]]></target>
-      </trans-unit>
-      <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline">
-        <source>app.certificateHeadline</source>
-        <target>We take your privacy seriously. Please read our privacy policy to learn more about how we protect your data.</target>
-      </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
         <source>app.signInWithLinkedIn</source>
         <target>Sign in with LinkedIn</target>
@@ -88,10 +80,6 @@
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
         <source>fos_user.password.mismatch</source>
         <target/>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit">
-        <source>registration.submit</source>
-        <target>Register</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success">
         <source>app.userRegister.success</source>
@@ -341,11 +329,6 @@
         <source>app.userRegister.step6.photoHeader</source>
         <target>Photo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170057" resname="app.userRegister.step6.photoFieldsTitle">
-        <source>app.userRegister.step6.photoFieldsTitle</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque distinctio excepturi rem, voluptatibus aliquid libero fugit ad cumque illum enim illo, at. Error, nobis.</target>
-      </trans-unit>
-
       <trans-unit id="382ba41746874fac96eb5077d7170058" resname="app.userRegister.step5.editPhoto">
         <source>app.userRegister.step5.editPhoto</source>
         <target>Edit photo</target>

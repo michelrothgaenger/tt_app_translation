@@ -5,17 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="8901004935fd26f5aa2a04724dbd6a73" resname="app.candidate">
-        <source>app.candidate</source>
-        <target>Кандидат</target>
-      </trans-unit>
       <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
         <source>app.jobs</source>
         <target>Вакансии</target>
-      </trans-unit>
-      <trans-unit id="1c6bbafc73a42cdae3d302536d5c71b3" resname="app.employersList">
-        <source>app.employersList</source>
-        <target>Companies</target>
       </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecd0" resname="app.profile">
         <source>app.profile</source>
@@ -33,17 +25,9 @@
         <source>app.signUp</source>
         <target>Зарегистрироваться</target>
       </trans-unit>
-      <trans-unit id="d9f5d94ad5942b7cfdfa457bab8a7718" resname="app.employer">
-        <source>app.employer</source>
-        <target>Employer</target>
-      </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
         <source>app.forEmployers</source>
         <target>Для работодателей</target>
-      </trans-unit>
-      <trans-unit id="91ad501a34080eb1d41932bd251ebe86" resname="app.logIn">
-        <source>app.logIn</source>
-        <target>Войти</target>
       </trans-unit>
       <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
         <source>app.aboutUs</source>

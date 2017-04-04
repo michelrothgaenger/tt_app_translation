@@ -13,14 +13,6 @@
         <source>app.registration</source>
         <target state="translated">Registrierung</target>
       </trans-unit>
-      <trans-unit id="18373afca58a2b772fab135c5480c8f6" resname="app.registerCta" approved="yes">
-        <source>app.registerCta</source>
-        <target state="translated"><![CDATA[Melden Sie sich an und vervollständigen Sie Ihr Profil, damit wir uns für Sie auf die Suche machen können.<br>Melden Sie sich mit einem Ihrer Social-Media-Profile an oder nutzen Sie die untenstehenden Felder.]]></target>
-      </trans-unit>
-      <trans-unit id="ec17ee6826270facc9316aca2bc30a5f" resname="app.certificateHeadline" approved="yes">
-        <source>app.certificateHeadline</source>
-        <target state="translated">Wir nehmen Datenschutz ernst! Lesen Sie unsere Datenschutzerklärung, um mehr darüber zu erfahren, wie wir Ihre Daten schützen.</target>
-      </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
         <target state="translated">Anmelden mit LinkedIn</target>
@@ -88,10 +80,6 @@
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch" approved="yes">
         <source>fos_user.password.mismatch</source>
         <target state="translated">Die Passwörter stimmen nicht überein.</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d717b3e5" resname="registration.submit" approved="yes">
-        <source>registration.submit</source>
-        <target state="translated">Registrieren</target>
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
@@ -334,11 +322,6 @@ Max. Größe: 15 MB</target>
         <source>app.userRegister.step6.photoHeader</source>
         <target state="translated">Foto</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170057" resname="app.userRegister.step6.photoFieldsTitle" approved="yes">
-        <source>app.userRegister.step6.photoFieldsTitle</source>
-        <target state="translated"/>
-      </trans-unit>
-
       <trans-unit id="382ba41746874fac96eb5077d7170058" resname="app.userRegister.step5.editPhoto" approved="yes">
         <source>app.userRegister.step5.editPhoto</source>
         <target state="translated">Foto bearbeiten</target>

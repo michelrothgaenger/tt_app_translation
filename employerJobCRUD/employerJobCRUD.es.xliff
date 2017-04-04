@@ -13,22 +13,6 @@
         <source>app.postJobHeadline</source>
         <target state="translated">Publicar vacante</target>
       </trans-unit>
-      <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage">
-        <source>app.metaDescriptionEditJobPage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage">
-        <source>app.metaKeywordsEditJobPage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage">
-        <source>app.metaDescriptionPostJobPage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="7b9853f0fcedebf27dd7deb3ab6922f6" resname="app.metaKeywordsPostJobPage">
-        <source>app.metaKeywordsPostJobPage</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
         <target state="translated">Complete abajo la información necesaria y guarde.</target>
@@ -49,10 +33,6 @@
         <source>app.employerJobEdit.info.jobId</source>
         <target>Job ID:</target>
       </trans-unit>
-      <trans-unit id="9f999f8fcd194d4ca6a1e04e1721ce20" resname="app.employerJobEdit.buttonLabels.edit" approved="yes">
-        <source>app.employerJobEdit.buttonLabels.edit</source>
-        <target state="translated">EDITAR</target>
-      </trans-unit>
       <trans-unit id="e70d6dd891de48d8822aff97c3d8dd5d" resname="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Email de contacto</target>
@@ -60,10 +40,6 @@
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target state="translated">Puesto</target>
-      </trans-unit>
-      <trans-unit id="e5ebdbf3f963f720e053f19d06e3825c" resname="app.url">
-        <source>app.url</source>
-        <target>Url</target>
       </trans-unit>
       <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary" approved="yes">
         <source>app.salary</source>

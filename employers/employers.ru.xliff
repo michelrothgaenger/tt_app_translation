@@ -5,73 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="31f1aad35261785882296872771af05c" resname="app.companies">
-        <source>app.companies</source>
-        <target>Companies</target>
-      </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
-        <source>app.in</source>
-        <target>in</target>
-      </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
         <source>app.companyProfiles</source>
         <target>Meet the companies</target>
-      </trans-unit>
-      <trans-unit id="e084029fa5e809d993a533ed3d40aa9c" resname="app.employersPageSearchCta">
-        <source>app.employersPageSearchCta</source>
-        <target>Narrow your search results by using the filters.</target>
-      </trans-unit>
-      <trans-unit id="314d3037d5fd012a3c0a727bc49a9e3a" resname="app.yourSearch">
-        <source>app.yourSearch</source>
-        <target>Что</target>
-      </trans-unit>
-      <trans-unit id="4467a82fadf6fe3b16f74e9faa32bd8f" resname="app.e.g.Company">
-        <source>app.e.g.Company</source>
-        <target>напр. Компания</target>
-      </trans-unit>
-      <trans-unit id="37182ed3c37c4adbdfbbfabe074381e2" resname="app.allCountries">
-        <source>app.allCountries</source>
-        <target>All countries</target>
-      </trans-unit>
-      <trans-unit id="c566b121d3f8c1dfd7232c61c845d9aa" resname="app.allIndustries">
-        <source>app.allIndustries</source>
-        <target>All industries</target>
-      </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
-        <source>app.search</source>
-        <target>Поиск</target>
-      </trans-unit>
-      <trans-unit id="2ba1a533274dbcde5fc2b559cbb2a70c" resname="app.browseCompanies">
-        <source>app.browseCompanies</source>
-        <target>Companies that match your search</target>
-      </trans-unit>
-      <trans-unit id="3905407ab4918c976f6407c8d3bcbbd6" resname="app.jobsListed">
-        <source>app.jobsListed</source>
-        <target>Jobs listed</target>
-      </trans-unit>
-      <trans-unit id="008ab430b7b6b562194bddf319bb61a4" resname="app.offices">
-        <source>app.offices</source>
-        <target>Офисы</target>
-      </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
-        <source>app.companySize</source>
-        <target>Размер компании</target>
-      </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
-        <source>app.employees_lowercase</source>
-        <target>employees</target>
-      </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
-        <source>app.mainActivities</source>
-        <target>Main Activities</target>
-      </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
-        <source>app.website</source>
-        <target>Веб-сайт</target>
-      </trans-unit>
-      <trans-unit id="1a143d4a4afb8bc46fa9fbbdad2498d2" resname="app.findOutMore">
-        <source>app.findOutMore</source>
-        <target>Find out more</target>
       </trans-unit>
       <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
         <source>app.noCompaniesFound</source>

@@ -9,14 +9,6 @@
         <source>app.registeredTitle</source>
         <target>Thank you!</target>
       </trans-unit>
-      <trans-unit id="fae4cdb5306a5ffb47600d6b4825c4a8" resname="app.metaDescriptionRegisteredPage">
-        <source>app.metaDescriptionRegisteredPage</source>
-        <target></target>
-      </trans-unit>
-      <trans-unit id="2cb653006da0f773b2ca83345584ae32" resname="app.metaKeywordsRegisteredPage">
-        <source>app.metaKeywordsRegisteredPage</source>
-        <target></target>
-      </trans-unit>
       <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg">
         <source>app.registeredMsg</source>
         <target>Thank you, %firstName%! We will get back to you soon.</target>

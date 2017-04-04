@@ -9,10 +9,6 @@
         <source>app.metaDescriptionIndexPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
-        <source>app.metaKeywordsIndexPage</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
         <target state="translated">Connecting talents with opportunities</target>
@@ -21,65 +17,9 @@
         <source>app.indexSecondTitle</source>
         <target state="needs-translation">Det globale karrierenetværk for transport- og logistikbranchen</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
-        <source>app.signUpNow</source>
-        <target state="translated">Opret en profil nu - det koster ikke noget</target>
-      </trans-unit>
-      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2" approved="yes">
-        <source>app.searchJobs2</source>
-        <target state="translated">Søg jobs</target>
-      </trans-unit>
-      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks" approved="yes">
-        <source>app.howItWorks</source>
-        <target state="translated">Hvordan det virker</target>
-      </trans-unit>
-      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc" approved="yes">
-        <source>app.howItWorksDesc</source>
-        <target state="translated">Vi vil gerne lære dig at kende. Jo mere vi ved om dine kvalifikationer og præferencer, jo hurtigere kan vi matche dig med dit drømmejob .</target>
-      </trans-unit>
-      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start" approved="yes">
-        <source>app.start</source>
-        <target state="translated">Opret din profil</target>
-      </trans-unit>
-      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1" approved="yes">
-        <source>app.howItWorksStep1</source>
-        <target state="translated">Registrer dig og opret en profil der fremhæver din erfaring og ambitioner . Vores team vil gennemgå dine oplysninger og begynde at søge efter en stilling der matcher dine ønsker.</target>
-      </trans-unit>
-      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive" approved="yes">
-        <source>app.receive</source>
-        <target state="translated">Søg på jobs</target>
-      </trans-unit>
-      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2" approved="yes">
-        <source>app.howItWorksStep2</source>
-        <target state="translated">Gennemgå vores job portal med tusindvis af ledige stillinger i alle på alle niveauer. Hvis du finder en interessant stilling kan du søge direkte hos virksomheden. Hvis du ikke er på udkig efter en ny udfordring lige nu, men blot gerne vil holde dig orienteret så lad vores team af eksperter tage hånd om det. Vi kontakter dig når vi har fundet en mulighed der passer til din profil.</target>
-      </trans-unit>
-      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply" approved="yes">
-        <source>app.apply</source>
-        <target state="translated">Bliv matched</target>
-      </trans-unit>
-      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3" approved="yes">
-        <source>app.howItWorksStep3</source>
-        <target state="translated">Læn dig tilbage og vent på at du modtager vores anbefalinger til jobs du kan søge på. Vores antal af ledige stillinger er konstant voksende, og vores team af eksperter er aktivt på udkig efter en mulighed der matcher din profil.</target>
-      </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
         <target state="translated">Stillinger i Danmark</target>
-      </trans-unit>
-      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
-        <source>app.level</source>
-        <target state="translated">Niveau</target>
-      </trans-unit>
-      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category" approved="yes">
-        <source>app.category</source>
-        <target state="translated">Kategori</target>
-      </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
-        <source>app.new</source>
-        <target state="translated">ny</target>
-      </trans-unit>
-      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn" approved="yes">
-        <source>app.featuredJobsRegisterBtn</source>
-        <target state="translated">Opret og læs mere</target>
       </trans-unit>
       <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
@@ -92,18 +32,6 @@
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
         <target state="translated">Se alle virksomheder</target>
-      </trans-unit>
-      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch" approved="yes">
-        <source>app.getMoreFromYourJobSearch</source>
-        <target state="translated">Få mere ud af din job søgning</target>
-      </trans-unit>
-      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles" approved="yes">
-        <source>app.allArticles</source>
-        <target state="translated">Alle artikler</target>
-      </trans-unit>
-      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
-        <source>app.more</source>
-        <target state="translated">Mere</target>
       </trans-unit>
     <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
         <source>app.index.companies.description</source>

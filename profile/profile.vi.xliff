@@ -9,10 +9,6 @@
         <source>app.or</source>
         <target state="translated">hoặc</target>
       </trans-unit>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services" approved="yes">
-        <source>app.services</source>
-        <target state="translated">Dịch vụ</target>
-      </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
         <target state="translated">Tìm việc làm</target>
@@ -28,14 +24,6 @@
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Hồ sơ cá nhân</target>
-      </trans-unit>
-      <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage" approved="yes">
-        <source>app.metaDescriptionProfilePage</source>
-        <target state="translated">Tạo hồ sơ của Ngài. Chúng tôi sẽ tìm kiếm những vị trí tốt nhất trong lĩnh vực vận tải và kho vận</target>
-      </trans-unit>
-      <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage" approved="yes">
-        <source>app.metaKeywordsProfilePage</source>
-        <target state="translated">Vận tải, kho vận, vận tải đường dài, ứng viên, người tìm việc, người sử dụng, tài năng, bị động, tìm kiếm, vị trí, thay đổi, người chủ lao động, săn nhân lực, nhân lực, kết nối</target>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText" approved="yes">
         <source>app.profileInputCvUploadBtnText</source>
@@ -53,162 +41,6 @@
         <source>app.fileUploaded</source>
         <target state="translated">Tải dữ liệu!</target>
       </trans-unit>
-      <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline" approved="yes">
-        <source>app.employerProfileHeadline</source>
-        <target state="translated">Thiết lập tài khoản công ty của bạn</target>
-      </trans-unit>
-      <trans-unit id="e6b7681a5f46ea7e6d7d1b8f72038555" resname="app.employerProfileHeadlineDesc1" approved="yes">
-        <source>app.employerProfileHeadlineDesc1</source>
-        <target state="translated">Xây dựng hồ sơ công ty</target>
-      </trans-unit>
-      <trans-unit id="266b7956ae8a7e3dd9963b3e226e8af2" resname="app.employerProfileHeadlineDesc2" approved="yes">
-        <source>app.employerProfileHeadlineDesc2</source>
-        <target state="translated">Tạo hồ sơ công ty miễn phí của bạn ở đây. Nó là cơ sở cho việc sử dụng các dịch vụ khác của chúng tôi. &lt;br&gt; Hãy chắc chắn rằng các ứng cử viên tốt nhất hiểu đúng của công ty Ngài.</target>
-      </trans-unit>
-      <trans-unit id="b1d15343dc7b7e8893c536d1f9c8a4fb" resname="app.employerProfileHeadlineDesc3" approved="yes">
-        <source>app.employerProfileHeadlineDesc3</source>
-        <target state="translated">* Nêu ra phần yêu cầu.</target>
-      </trans-unit>
-      <trans-unit id="95d6f0b4dba606f52836553c4eec4544" resname="app.passwordWasSuccesfullyChanged" approved="yes">
-        <source>app.passwordWasSuccesfullyChanged</source>
-        <target state="translated">Mật khẩu đã được thay đổi thành công!</target>
-      </trans-unit>
-      <trans-unit id="36fd50091a280376f3ab239c94e793ab" resname="app.yourProfile" approved="yes">
-        <source>app.yourProfile</source>
-        <target state="translated">Hồ sơ của tôi</target>
-      </trans-unit>
-      <trans-unit id="39dd0de49006e89eca0e2d7d48a29c77" resname="app.savedJobs" approved="yes">
-        <source>app.savedJobs</source>
-        <target state="translated">Công việc đã lưu</target>
-      </trans-unit>
-      <trans-unit id="527352d8f5b359c5e008fae203e1b4c3" resname="app.savedCompanies" approved="yes">
-        <source>app.savedCompanies</source>
-        <target state="translated">Doanh nghiệp đã lưu</target>
-      </trans-unit>
-      <trans-unit id="b1bfd64755462b0434361a1dc8063cd8" resname="app.myProfileCta1" approved="yes">
-        <source>app.myProfileCta1</source>
-        <target state="translated">Lập hồ sơ người sử dụng của Ngài</target>
-      </trans-unit>
-      <trans-unit id="c8b94f2798e55aba98e492e8da52033d" resname="app.profileYourProfileStatusIs" approved="yes">
-        <source>app.profileYourProfileStatusIs</source>
-        <target state="translated">Tình trạng hồ sơ của Ngài</target>
-      </trans-unit>
-      <trans-unit id="e2d597fd4ff9f91106311cda60985bfc" resname="app.profileNavigationListItemStatus" approved="yes">
-        <source>app.profileNavigationListItemStatus</source>
-        <target state="translated">Tình trạng</target>
-      </trans-unit>
-      <trans-unit id="9a152564a6171a477d6c5e03841e8d91" resname="app.profileNavigationListItemBasic" approved="yes">
-        <source>app.profileNavigationListItemBasic</source>
-        <target state="translated">Thông tin cơ bản</target>
-      </trans-unit>
-      <trans-unit id="78393da8b6b3c414644e6ef393affb6d" resname="app.profileNavigationListItemPersonal" approved="yes">
-        <source>app.profileNavigationListItemPersonal</source>
-        <target state="translated">Thông tin cá nhân</target>
-      </trans-unit>
-      <trans-unit id="aaf4703e88a1979aa300eeaf7164256a" resname="app.profileNavigationListItemExperience" approved="yes">
-        <source>app.profileNavigationListItemExperience</source>
-        <target state="translated">Kinh nghiệm chuyên môn</target>
-      </trans-unit>
-      <trans-unit id="357703f5a7f509c69fdfdb8260df4f33" resname="app.profileNavigationListItemPreferences" approved="yes">
-        <source>app.profileNavigationListItemPreferences</source>
-        <target state="translated">Sở thích nghề nghiệp</target>
-      </trans-unit>
-      <trans-unit id="5cb97f8975d81da0c4533d5ed10f096b" resname="app.profileNavigationListItemCertificates" approved="yes">
-        <source>app.profileNavigationListItemCertificates</source>
-        <target state="translated">Văn bằng</target>
-      </trans-unit>
-      <trans-unit id="25b2140cae5cac9532aecfb2a9ecf55d" resname="app.profileNavigationListItemLanguages" approved="yes">
-        <source>app.profileNavigationListItemLanguages</source>
-        <target state="translated">ngôn ngữ</target>
-      </trans-unit>
-      <trans-unit id="9301b3ec39dcfaf383019143bfc1c2ed" resname="app.profileNavigationListItemSummary" approved="yes">
-        <source>app.profileNavigationListItemSummary</source>
-        <target state="translated">Tải hồ sơ</target>
-      </trans-unit>
-      <trans-unit id="f7decfe7efae360563786fe90dea1295" resname="app.profileYourMentorDesc" approved="yes">
-        <source>app.profileYourMentorDesc</source>
-        <target state="translated">Liên hệ cá nhân và người tư vấn của Ngài tại TT</target>
-      </trans-unit>
-      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName" approved="yes">
-        <source>app.profileYourMentorName</source>
-        <target state="translated">Svenja</target>
-      </trans-unit>
-      <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact" approved="yes">
-        <source>app.contact</source>
-        <target state="translated">Liên hệ</target>
-      </trans-unit>
-      <trans-unit id="1793adcc813a48118a0d473775d2b8ec" resname="app.profileProfileHasBeenApproved" approved="yes">
-        <source>app.profileProfileHasBeenApproved</source>
-        <target state="translated">Hồ sơ của Ngài đã được kiểm tra và phê duyệt</target>
-      </trans-unit>
-      <trans-unit id="716c6e2fab7553e9b985abd85177f534" resname="app.profileProfileHasNotBeenApproved" approved="yes">
-        <source>app.profileProfileHasNotBeenApproved</source>
-        <target state="translated">Cảm ơn bạn đã hoàn thành hồ sơ của Ngài. Dữ liệu của Ngài sẽ được chấp thuận.</target>
-      </trans-unit>
-      <trans-unit id="e97519fcb258156f7e80004f534736a4" resname="app.profileGroupBasicTitle" approved="yes">
-        <source>app.profileGroupBasicTitle</source>
-        <target state="translated">Nền tảng</target>
-      </trans-unit>
-      <trans-unit id="cb062093b86976fff61dbbb44e7a179b" resname="app.profileGroupImportTitle" approved="yes">
-        <source>app.profileGroupImportTitle</source>
-        <target state="translated">Nhập dữ liệu của Ngài</target>
-      </trans-unit>
-      <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc" approved="yes">
-        <source>app.profileGroupImportDesc</source>
-        <target state="translated">Tiết kiệm thời gian bằng cách nhập dữ liệu hiện có từ Xing hoặc tài khoản LinkedIn.</target>
-      </trans-unit>
-      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
-        <source>app.importDataFromLinkedIn</source>
-        <target state="translated">Nhập dữ liệu từ LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing" approved="yes">
-        <source>app.importDataFromXing</source>
-        <target state="translated">Nhập dữ liệu từ Xing</target>
-      </trans-unit>
-      <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle" approved="yes">
-        <source>app.profileGroupPersonalTitle</source>
-        <target state="translated">Hồ sơ cá nhân</target>
-      </trans-unit>
-      <trans-unit id="cc112cd355a390029a02970d1d107e09" resname="app.profileGroupSummaryTitle" approved="yes">
-        <source>app.profileGroupSummaryTitle</source>
-        <target state="translated">Tóm tắt ngắn</target>
-      </trans-unit>
-      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc" approved="yes">
-        <source>app.profileGroupSummaryDesc</source>
-        <target state="translated">Vui lòng cho chúng tôi một bản tóm tắt ngắn về chuyên môn của Ngài. Ngài có những kiến thức về ngành công nghiệp nào? Ngài là chuyên gia trong lĩnh vực nào?</target>
-      </trans-unit>
-      <trans-unit id="521d5680045a7b50b5a40021ebe78638" resname="app.profileGroupExperienceTitle" approved="yes">
-        <source>app.profileGroupExperienceTitle</source>
-        <target state="translated">Điền vào các chi tiết kinh nghiệm chuyên môn để hoàn thành hồ sơ của Ngài.</target>
-      </trans-unit>
-      <trans-unit id="286aac929bdf6fe9bfd2a6caf15682ec" resname="app.profileGroupPreferencesTitle" approved="yes">
-        <source>app.profileGroupPreferencesTitle</source>
-        <target state="translated">Lĩnh vực ưu tiên làm việc của Ngài là gì?</target>
-      </trans-unit>
-      <trans-unit id="0bec007a2366bf6deba5b26b45ac0f61" resname="app.profileGroupSkillsTitle" approved="yes">
-        <source>app.profileGroupSkillsTitle</source>
-        <target state="translated">Kỹ năng</target>
-      </trans-unit>
-      <trans-unit id="00d56e286c521018057d2e9965f08e74" resname="app.profileGroupSkillsDesc" approved="yes">
-        <source>app.profileGroupSkillsDesc</source>
-        <target state="translated">Người của việc nhóm, khơi dậy động lực hay rộng hơn - thế mạnh của Ngài là gì? Hãy cho chúng tôi về các kỹ năng của Ngài.</target>
-      </trans-unit>
-      <trans-unit id="a3c8f3120627053615eba7cd218509c0" resname="app.profileGroupEducationsTitle" approved="yes">
-        <source>app.profileGroupEducationsTitle</source>
-        <target state="translated">Đào tạo</target>
-      </trans-unit>
-      <trans-unit id="2bcef9e98a42aaf3cbf5412d5f6c14c4" resname="app.profileGroupCertificatesTitle" approved="yes">
-        <source>app.profileGroupCertificatesTitle</source>
-        <target state="translated">Văn bằng</target>
-      </trans-unit>
-      <trans-unit id="69e76f2e8024c2935738dc426b0f69e5" resname="app.profileGroupCertificatesDesc" approved="yes">
-        <source>app.profileGroupCertificatesDesc</source>
-        <target state="translated">Ngài có các bằng cấp khác được xác nhận không? Có thể là ngôn ngữ và kỹ năng phần mềm, các khóa đào tạo chuyên nghiệp hoặc tương tự.</target>
-      </trans-unit>
-      <trans-unit id="ee762f40f1d7b905439796d375ae52e2" resname="app.profileGroupLanguagesTitle" approved="yes">
-        <source>app.profileGroupLanguagesTitle</source>
-        <target state="translated">Ngôn ngữ</target>
-      </trans-unit>
       <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
         <target state="translated">Các công việc đã lưu của Ngài</target>
@@ -225,10 +57,6 @@
         <source>app.profileSavedCompaniesCta</source>
         <target state="translated">Xem công ty đã lưu của Ngài dưới đây. Thêm và xóa như thấy phù hợp.</target>
       </trans-unit>
-      <trans-unit id="9c0cfdf74d56de16ebdb326d53ce2056" resname="app.view" approved="yes">
-        <source>app.view</source>
-        <target state="translated">Xem</target>
-      </trans-unit>
       <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
         <target state="translated">Tìm kiếm công ty mới</target>
@@ -240,14 +68,6 @@
       <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
         <target state="translated">Công khai tiểu sử</target>
-      </trans-unit>
-      <trans-unit id="a12f25dddf4a0bbd4bf605b73247f557" resname="app.profileInputPhotoEditBtnText" approved="yes">
-        <source>app.profileInputPhotoEditBtnText</source>
-        <target state="translated">Chỉnh sửa hình ảnh</target>
-      </trans-unit>
-      <trans-unit id="3204f2b258a021a769c829f54d49f2fc" resname="app.profileInputPhotoDesc" approved="yes">
-        <source>app.profileInputPhotoDesc</source>
-        <target state="translated">Ít nhất là 150 x 150 pixel. &lt;br&gt; Các tập tin không được lớn hơn 1 MB.</target>
       </trans-unit>
       <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo" approved="yes">
         <source>app.contactInfo</source>
@@ -325,69 +145,17 @@
         <source>app.about</source>
         <target state="translated">Trong khoảng</target>
       </trans-unit>
-      <trans-unit id="f39e4f5ca41062af19cc9e01f6e54947" resname="app.profileInputBasicFirstNameLabel" approved="yes">
-        <source>app.profileInputBasicFirstNameLabel</source>
-        <target state="translated">Tên</target>
-      </trans-unit>
-      <trans-unit id="899a525e10c0f8a5abd44f9936e708c4" resname="app.profileInputBasicLastNameLabel" approved="yes">
-        <source>app.profileInputBasicLastNameLabel</source>
-        <target state="translated">Họ</target>
-      </trans-unit>
       <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
         <target state="translated">Địa chỉ Email</target>
-      </trans-unit>
-      <trans-unit id="610a3ad06b4c5cdc5757408e4fb7a9ad" resname="app.profileInputBasicPhoneLabel" approved="yes">
-        <source>app.profileInputBasicPhoneLabel</source>
-        <target state="translated">Điện thoại</target>
-      </trans-unit>
-      <trans-unit id="309d1465f679150894fec620c414411e" resname="app.profileSectionGeneralTitle" approved="yes">
-        <source>app.profileSectionGeneralTitle</source>
-        <target state="translated">Tổng thể</target>
-      </trans-unit>
-      <trans-unit id="dbe59661037b91285e11ba29e81c79ce" resname="app.profileInputGeneralSalutationLabel" approved="yes">
-        <source>app.profileInputGeneralSalutationLabel</source>
-        <target state="translated">Lời chào</target>
       </trans-unit>
       <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target state="translated">Sinh nhật</target>
       </trans-unit>
-      <trans-unit id="8cccca58a6789b7fd9e55202fe7fd754" resname="app.profileInputGeneralCountryLabel" approved="yes">
-        <source>app.profileInputGeneralCountryLabel</source>
-        <target state="translated">Nước</target>
-      </trans-unit>
-      <trans-unit id="4cfb2e6e104f714c30f5e462e228f182" resname="app.profileInputGeneralCityLabel" approved="yes">
-        <source>app.profileInputGeneralCityLabel</source>
-        <target state="translated">Thành phố</target>
-      </trans-unit>
-      <trans-unit id="cc62e1465f9ff470128db8866d1b664b" resname="app.profileSectionPhotoTitle" approved="yes">
-        <source>app.profileSectionPhotoTitle</source>
-        <target state="translated">Ảnh</target>
-      </trans-unit>
       <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target state="translated">Kinh nghiệm</target>
-      </trans-unit>
-      <trans-unit id="a3f75e26705f7083bbd7dfd7799ffcfd" resname="app.profileInputTotalExperienceYearsLabel" approved="yes">
-        <source>app.profileInputTotalExperienceYearsLabel</source>
-        <target state="translated">Ngài có bao nhiêu năm kinh nghiệm chuyên môn trong lĩnh vực kho vận?</target>
-      </trans-unit>
-      <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel" approved="yes">
-        <source>app.profileInputTotalExperienceSpecialityLabel</source>
-        <target state="translated">Chuyên môn chính của Ngài là gì?</target>
-      </trans-unit>
-      <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle" approved="yes">
-        <source>app.profileSectionCvTitle</source>
-        <target state="translated">Hồ sơ lý lịch</target>
-      </trans-unit>
-      <trans-unit id="44d49c9afdc9663cd85aa49363f3e4c1" resname="app.profileSectionProfessionalExperienceItemsTitle" approved="yes">
-        <source>app.profileSectionProfessionalExperienceItemsTitle</source>
-        <target state="translated">Kinh nghiệm tích lũy</target>
-      </trans-unit>
-      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
-        <source>app.company</source>
-        <target state="translated">Doanh nghiệp</target>
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
@@ -397,121 +165,13 @@
         <source>app.position</source>
         <target state="translated">Lĩnh vực làm việc</target>
       </trans-unit>
-      <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
-        <target state="translated">Trợ lý</target>
-      </trans-unit>
-      <trans-unit id="e1ce674fc6305778cf466087186e5bb0" resname="app.startDate" approved="yes">
-        <source>app.startDate</source>
-        <target state="translated">Ngày bắt đầu</target>
-      </trans-unit>
-      <trans-unit id="1a565c5d3d7c970fbd3450c06b41c6dc" resname="app.endDate" approved="yes">
-        <source>app.endDate</source>
-        <target state="translated">Ngày kết thúc</target>
-      </trans-unit>
-      <trans-unit id="d1b0bed41fb46c1a1095300b6e2c24eb" resname="app.profileInputProfessionalExperienceBusinessAreaLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceBusinessAreaLabel</source>
-        <target state="translated">Phạm vi làm việc</target>
-      </trans-unit>
-      <trans-unit id="d1bd8445fa3752ae0fae733b49b337e8" resname="app.profileInputProfessionalExperienceSubareaLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceSubareaLabel</source>
-        <target state="translated">Vùng phụ</target>
-      </trans-unit>
-      <trans-unit id="e6b3715da196add0f128b90f7ca87a46" resname="app.profileSectionPreferredEmploymentTypesTitle" approved="yes">
-        <source>app.profileSectionPreferredEmploymentTypesTitle</source>
-        <target state="translated">Loại việc làm ưa thích</target>
-      </trans-unit>
-      <trans-unit id="00cd19b3af29a2a7b822ca52b68bbe93" resname="app.profileSectionPreferredEmploymentTypesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredEmploymentTypesItemsTitle</source>
-        <target state="translated">Loại công việc đã từng làm</target>
-      </trans-unit>
-      <trans-unit id="cfa367939efe3b861e1132ad7f8cbb99" resname="app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel" approved="yes">
-        <source>app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel</source>
-        <target state="translated">Chọn loại công việc của Ngài</target>
-      </trans-unit>
-      <trans-unit id="48083c2fbe0dcb975ed0c5e8f9ef26e3" resname="app.profileSectionPreferredJobCategoriesTitle" approved="yes">
-        <source>app.profileSectionPreferredJobCategoriesTitle</source>
-        <target state="translated">Loại công việc ưa thích</target>
-      </trans-unit>
-      <trans-unit id="60a828f2a5c0adf52ab3bae08df5bc51" resname="app.profileSectionPreferredJobCategoriesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredJobCategoriesItemsTitle</source>
-        <target state="translated">Công việc đã từng làm</target>
-      </trans-unit>
-      <trans-unit id="6d001aac1f87d905d5308a04683ec636" resname="app.profileInputPreferredJobCategoriesJobCategoryLabel" approved="yes">
-        <source>app.profileInputPreferredJobCategoriesJobCategoryLabel</source>
-        <target state="translated">Chọn một ngành nghề</target>
-      </trans-unit>
-      <trans-unit id="0dd0f537414cd92a4200d773c8f63e3a" resname="app.profileSectionPreferredCountriesTitle" approved="yes">
-        <source>app.profileSectionPreferredCountriesTitle</source>
-        <target state="translated">Khu vực và các nước ưu tiên</target>
-      </trans-unit>
-      <trans-unit id="8cd376d3f470c713d7d5f1741d0c477f" resname="app.profileSectionPreferredCountriesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredCountriesItemsTitle</source>
-        <target state="translated">Vùng và nước đã lưu</target>
-      </trans-unit>
-      <trans-unit id="54be6a3d70ada57c69d1c41495ea80f0" resname="app.profileInputPreferredCountriesCountryLabel" approved="yes">
-        <source>app.profileInputPreferredCountriesCountryLabel</source>
-        <target state="translated">Chọn khu vực và các nước ưa thích của Ngài</target>
-      </trans-unit>
-      <trans-unit id="2e77ab9717e5d4ba70be91a848340d5d" resname="app.profileInputPreferredCountriesCityLabel" approved="yes">
-        <source>app.profileInputPreferredCountriesCityLabel</source>
-        <target state="translated">Chọn thành phố ưa thích của Ngài</target>
-      </trans-unit>
-      <trans-unit id="b6aaaefcfab3eed9b61292bb4a3a238e" resname="app.profileSectionSkillsItemsTitle" approved="yes">
-        <source>app.profileSectionSkillsItemsTitle</source>
-        <target state="translated">Kỹ năng đã lưu</target>
-      </trans-unit>
-      <trans-unit id="fe617f9c11592f4b65bc5c157f6aeb80" resname="app.profileInputSkillsSkillLabel" approved="yes">
-        <source>app.profileInputSkillsSkillLabel</source>
-        <target state="translated">Kỹ năng của Ngài là gì?</target>
-      </trans-unit>
-      <trans-unit id="6a1c8e5ef90e2feafd38d320eea4d587" resname="app.profileSectionEducationsItemsTitle" approved="yes">
-        <source>app.profileSectionEducationsItemsTitle</source>
-        <target state="translated">Lưu học vấn</target>
-      </trans-unit>
-      <trans-unit id="a442311473694d44a8e9c5aaaec4cb42" resname="app.profileInputEducationsSkillLabel" approved="yes">
-        <source>app.profileInputEducationsSkillLabel</source>
-        <target state="translated">Trình độ chuyên môn/chức danh của Ngài là gì?</target>
-      </trans-unit>
-      <trans-unit id="3182502d1d0767c32d19ea967ba80284" resname="app.profileInputEducationsGraduationYearLabel" approved="yes">
-        <source>app.profileInputEducationsGraduationYearLabel</source>
-        <target state="translated">Năm tốt nghiệp</target>
-      </trans-unit>
-      <trans-unit id="21b1efae29bdfa51e13878e7624f5ca8" resname="app.profileInputEducationsEducationLevelLabel" approved="yes">
-        <source>app.profileInputEducationsEducationLevelLabel</source>
-        <target state="translated">Thứ bậc</target>
-      </trans-unit>
-      <trans-unit id="9c64c3e4efddde37c12d6e88745d4a33" resname="app.profileInputEducationsCountryLabel" approved="yes">
-        <source>app.profileInputEducationsCountryLabel</source>
-        <target state="translated">Nước</target>
-      </trans-unit>
-      <trans-unit id="1f38113f24e3ae6fdecd4e4a0b27579f" resname="app.profileSectionCertificatesItemsTitle" approved="yes">
-        <source>app.profileSectionCertificatesItemsTitle</source>
-        <target state="translated">Lưu văn bằng</target>
-      </trans-unit>
-      <trans-unit id="97b7947048bb2a930440f987b1dbb63f" resname="app.profileInputCertificatesCertificateTitleLabel" approved="yes">
-        <source>app.profileInputCertificatesCertificateTitleLabel</source>
-        <target state="translated">Chức danh của văn bằng</target>
-      </trans-unit>
-      <trans-unit id="8deef46319fcad48e67f19449f9ef103" resname="app.profileSectionLanguagesItemsTitle" approved="yes">
-        <source>app.profileSectionLanguagesItemsTitle</source>
-        <target state="translated">Lưu ngôn ngữ</target>
-      </trans-unit>
-      <trans-unit id="297d78b96fb06aa26bf5a19264ded431" resname="app.profileInputLanguagesLanguageLabel" approved="yes">
-        <source>app.profileInputLanguagesLanguageLabel</source>
-        <target state="translated">Ngôn ngữ</target>
-      </trans-unit>
-      <trans-unit id="d61c24484b9050ccca7cef0e96ff6b4c" resname="app.profileInputLanguagesLevelLabel" approved="yes">
-        <source>app.profileInputLanguagesLevelLabel</source>
-        <target state="translated">Thứ bậc</target>
-      </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
-        <target state="translated">Hồ sơ đã được công ty công khai.</target>
+        <target state="translated">Hồ sơ đã được công ty công khai</target>
       </trans-unit>
       <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
-        <target state="translated">Hồ sơ chưa được công ty công khai.</target>
+        <target state="translated">Hồ sơ chưa được công ty công khai</target>
       </trans-unit>
       <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
@@ -529,33 +189,9 @@
         <source>app.thisFieldMustBeFilled</source>
         <target state="translated">Phải điền vào ô này!</target>
       </trans-unit>
-      <trans-unit id="622b6debae93effab30cb6fb66fb146b" resname="app.pleaseInputDateInFormatDdMmYyyy" approved="yes">
-        <source>app.pleaseInputDateInFormatDdMmYyyy</source>
-        <target state="translated">Vui lòng nhập ngày ở định dạng dd/mm/yyyy.</target>
-      </trans-unit>
-      <trans-unit id="afc55d471e84cfd3f406c8dba530b41d" resname="app.requiresThisFieldToBeFilledToo" approved="yes">
-        <source>app.requiresThisFieldToBeFilledToo</source>
-        <target state="translated">Cũng điền vào yêu cầu ở ô này.</target>
-      </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target state="translated">Ngài hãy chọn một</target>
-      </trans-unit>
-      <trans-unit id="cc629ce4431e7a8cab9560b6f1eb2b08" resname="app.visible" approved="yes">
-        <source>app.visible</source>
-        <target state="translated">Có thể nhìn thấy</target>
-      </trans-unit>
-      <trans-unit id="7b5b7ca11c24bc8f465b6f8a9ceea2d6" resname="app.hidden" approved="yes">
-        <source>app.hidden</source>
-        <target state="translated">Ẩn</target>
-      </trans-unit>
-      <trans-unit id="393549677ebf5b4f95ce37ec6e91b910" resname="app.male">
-        <source>app.male</source>
-        <target>male</target>
-      </trans-unit>
-      <trans-unit id="1f41ba6747474b41d56b04b5374a9fd9" resname="app.female">
-        <source>app.female</source>
-        <target>female</target>
       </trans-unit>
       <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
         <source>app.add</source>

@@ -105,10 +105,6 @@
         <source>app.header.userSubmenu.jobs</source>
         <target state="translated">Jobs</target>
       </trans-unit>
-      <trans-unit id="260d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.companyProfile" approved="yes">
-        <source>app.header.userSubmenu.companyProfile</source>
-        <target state="translated">Unternehmensprofile</target>
-      </trans-unit>
     <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="yes">
         <source>app.header.userSubmenu.alerts</source>
         <target state="translated">Suchagenten</target>

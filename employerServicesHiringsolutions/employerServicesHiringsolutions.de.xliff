@@ -73,10 +73,6 @@
           <source>app.employerServicesHiringsolutions.recruiting.shortPrice</source>
           <target state="translated">2.000</target>
       </trans-unit>
-      <trans-unit id="f95f69ed83d84258959dff3e71166b52" resname="app.employerServicesHiringsolutions.packages.descr" approved="yes">
-        <source>app.employerServicesHiringsolutions.packages.descr</source>
-        <target state="translated">des Jahresgehalts des Kandidaten bei Einstellung*</target>
-      </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
         <target state="translated">Überarbeitung der Stellenausschreibung</target>
@@ -166,10 +162,6 @@ anzeigen</target>
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
         <target state="translated">Recruitment Lite</target>
       </trans-unit>
-      <trans-unit id="331a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.shortlistingSpecifications</source>
-        <target state="translated">+ € 4.000 pro eingestelltem Kandidaten*</target>
-      </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
         <target state="translated">30 Tage</target>
@@ -177,10 +169,6 @@ anzeigen</target>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
         <target state="translated">Recruitment Premium</target>
-      </trans-unit>
-      <trans-unit id="831a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.recruitingSpecifications</source>
-        <target state="translated">+ € 5.000 pro eingestelltem Kandidaten</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -222,10 +210,6 @@ anzeigen</target>
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
         <target state="translated">Verlässt Ihr neuer Mitarbeiter innerhalb der Garantie das Unternehmen, bieten wir Ihnen eine neue Suche an – egal, ob die Entscheidung von Ihnen oder dem Mitarbeiter getroffen wurde.</target>
       </trans-unit>
-      <trans-unit id="083f10de2c9e4c46934f27d72f047015" resname="app.employerServicesHiringsolutions.packages.perHiredCandidate" approved="yes">
-        <source>app.employerServicesHiringsolutions.packages.perHiredCandidate</source>
-        <target state="translated">pro eingestelltem Kandidaten*</target>
-    </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
         <target state="translated">Erreichen Sie mit Ihren Stellenanzeigen auf Transport Talent täglich die besten Kandidaten aus Transport und Logistik</target>

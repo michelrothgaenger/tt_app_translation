@@ -113,10 +113,6 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target state="translated">Anfrage absenden</target>
       </trans-unit>
-      <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
-        <target state="translated">10% Rabatt</target>
-      </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf360" resname="app.employerService.singleJobPost.smallBusinees.positionsNumber" approved="yes">
         <source>app.employerService.singleJobPost.smallBusinees.positionsNumber</source>
         <target state="translated">10</target>
@@ -124,14 +120,6 @@
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf11" resname="app.employerService.section.singleJobPost.numberPositonsDescription" approved="yes">
         <source>app.employerService.section.singleJobPost.numberPositonsDescription</source>
         <target state="translated">Stellen im Jahr online auf TransportTalent.com</target>
-      </trans-unit>
-      <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
-        <target state="translated">50% Rabatt</target>
-      </trans-unit>
-      <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
-        <target state="translated">100% Rabatt</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>

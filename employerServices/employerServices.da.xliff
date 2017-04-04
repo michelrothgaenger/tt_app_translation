@@ -77,10 +77,6 @@
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
         <target state="translated">&lt;span&gt;DKK/måned*&lt;br&gt;(12 måneders binding)&lt;/span&gt;</target>
       </trans-unit>
-      <trans-unit id="1aba6c53102a46eb8e07daf396dbdf10" resname="app.employerService.section.singleJobPost.section.smallBusinees.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.smallBusinees.employersSize</source>
-        <target state="translated">10% af prisen</target>
-      </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
         <target state="translated">Ubegrænset</target>
@@ -101,17 +97,9 @@
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.size</source>
         <target state="translated">Advanced</target>
       </trans-unit>
-      <trans-unit id="476c469ea4b14fdb8c6f571943371917" resname="app.employerService.section.singleJobPost.section.mediumBusinees.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.mediumBusinees.employersSize</source>
-        <target state="translated">50% af prisen</target>
-      </trans-unit>
       <trans-unit id="24ef219e48f540b385ce93868f9bdc68" resname="app.employerService.section.singleJobPost.section.enterprise.size" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.size</source>
         <target state="translated">Enterprise</target>
-      </trans-unit>
-      <trans-unit id="7b8fc35b32ab485fb9cfc519433dd4ae" resname="app.employerService.section.singleJobPost.section.enterprise.employersSize" approved="yes">
-        <source>app.employerService.section.singleJobPost.section.enterprise.employersSize</source>
-        <target state="translated">100% af prisen</target>
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo" approved="yes">
         <source>app.employerService.section.singleJobPost.vatInfo</source>

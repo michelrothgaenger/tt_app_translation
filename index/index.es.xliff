@@ -5,16 +5,8 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.index.posted" approved="yes">
-        <source>app.index.posted</source>
-        <target state="translated">Publicado</target>
-      </trans-unit>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
         <source>app.metaDescriptionIndexPage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="dc47936601b459c99089b3ade0b0de61" resname="app.metaKeywordsIndexPage">
-        <source>app.metaKeywordsIndexPage</source>
         <target/>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
@@ -25,65 +17,9 @@
         <source>app.indexSecondTitle</source>
         <target state="translated">We connect talented professionals with top recruiters</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
-        <source>app.signUpNow</source>
-        <target state="translated">Regístrate ahora - es gratuito</target>
-      </trans-unit>
-      <trans-unit id="c8b42bf41d6a8526a89d7891c8ae1e8e" resname="app.searchJobs2" approved="yes">
-        <source>app.searchJobs2</source>
-        <target state="translated">Buscar vacantes</target>
-      </trans-unit>
-      <trans-unit id="61bf28ff67306e04a444186dd5540a07" resname="app.howItWorks" approved="yes">
-        <source>app.howItWorks</source>
-        <target state="translated">Cómo funciona</target>
-      </trans-unit>
-      <trans-unit id="9170f7986413c34c337dc1ab6fe7bffb" resname="app.howItWorksDesc" approved="yes">
-        <source>app.howItWorksDesc</source>
-        <target state="translated">Nos gustaría conocerte. Cúanto más sepamos de tus cualificaciones y preferéncias, más rápido te podemos templar con un trabajo adecuado.</target>
-      </trans-unit>
-      <trans-unit id="80cc01c211a2c766b0503e8d4e740e4e" resname="app.start" approved="yes">
-        <source>app.start</source>
-        <target state="translated">Crear tu perfil</target>
-      </trans-unit>
-      <trans-unit id="14bc90aa752321069a67eb176b2014c7" resname="app.howItWorksStep1" approved="yes">
-        <source>app.howItWorksStep1</source>
-        <target state="translated">Regístrate y create un perfil destacando tus experiencias laborales así como las metas en tu carrera profesional. Nuestro equipo se mirará toda la información y empezará a buscar el puesto adecuado.</target>
-      </trans-unit>
-      <trans-unit id="85571c0cb2a63743f395df4b193aa8eb" resname="app.receive" approved="yes">
-        <source>app.receive</source>
-        <target state="translated">Buscar trabajos</target>
-      </trans-unit>
-      <trans-unit id="f0245ca6dd4c7498046173771bb473f1" resname="app.howItWorksStep2" approved="yes">
-        <source>app.howItWorksStep2</source>
-        <target state="translated">Mira en nuestra cartelera de empleos. Allí se encuentran miles de ofertas de empleo con diferentes niveles de experiencia. Si encuentras algo que te guste, puedes mandar tu currículum directamente allí. Si no buscas un nuevo empleo por el momento, déjaselo a nuestro equipo de expertos. Te avisarémos en cuanto tengamos una oportunidad excelente para ti.</target>
-      </trans-unit>
-      <trans-unit id="4a4cc70739ae8813b3cc5ef430aff9e8" resname="app.apply" approved="yes">
-        <source>app.apply</source>
-        <target state="translated">Acoplarse</target>
-      </trans-unit>
-      <trans-unit id="7e0ae415949e2d9fce2b6591cf72786f" resname="app.howItWorksStep3" approved="yes">
-        <source>app.howItWorksStep3</source>
-        <target state="translated">Relájate y recibe propuestas de trabajo de alta calidad. Nuestra lista de ofertas está creciendo constantemente. El equipo de expertos está buscando ofertas de trabajo que encajan con tu perfil. Tu empleo nuevo y perfecto ya está en camino.</target>
-      </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
         <target state="translated">Empleos destacados</target>
-      </trans-unit>
-      <trans-unit id="86f8ad9be3afef6d0797dfd4eadcd051" resname="app.level" approved="yes">
-        <source>app.level</source>
-        <target state="translated">Nivel</target>
-      </trans-unit>
-      <trans-unit id="f095a339e882cff11c5d3c071635a34c" resname="app.category" approved="yes">
-        <source>app.category</source>
-        <target state="translated">Categoría</target>
-      </trans-unit>
-      <trans-unit id="64934ff836542bdd595884539b4055fc" resname="app.new" approved="yes">
-        <source>app.new</source>
-        <target state="translated">Nuevo</target>
-      </trans-unit>
-      <trans-unit id="27f1103610b03f31028f67a65027ed91" resname="app.featuredJobsRegisterBtn" approved="yes">
-        <source>app.featuredJobsRegisterBtn</source>
-        <target state="translated">Regístrate ahora para ver más</target>
       </trans-unit>
       <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
@@ -96,18 +32,6 @@
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
         <target state="translated">Ver todas las empresas</target>
-      </trans-unit>
-      <trans-unit id="5e1a54d3f8a0511b1a53f16a8b1aefe3" resname="app.getMoreFromYourJobSearch" approved="yes">
-        <source>app.getMoreFromYourJobSearch</source>
-        <target state="translated">Mejora tu búsqueda</target>
-      </trans-unit>
-      <trans-unit id="c2a64453e9ccd3dcaa8f2add72e17b0a" resname="app.allArticles" approved="yes">
-        <source>app.allArticles</source>
-        <target state="translated">Todos los artículos</target>
-      </trans-unit>
-      <trans-unit id="86b75b6e875ed0fab728bbe05d91b79a" resname="app.more" approved="yes">
-        <source>app.more</source>
-        <target state="translated">Más</target>
       </trans-unit>
     <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
         <source>app.index.companies.description</source>

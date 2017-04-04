@@ -13,10 +13,6 @@
         <source>app.job.meta.description</source>
         <target state="translated">Hãy xem quảng cáo việc làm phù hợp trong lĩnh vực kho vận và vận tải.</target>
       </trans-unit>
-      <trans-unit id="3102e3a435fdb9cce55c9f7fb36c267b" resname="app.job.meta.keywords" approved="yes">
-        <source>app.job.meta.keywords</source>
-        <target state="translated">Sự nghiệp, việc làm, vị trí, chức danh, vận tải, kho vận, vận tải đường dài, vận tải biển, vận tải hàng không, đơn xin việc, ứng viên, tìm kiếm, quảng cáo, đăng tin, yêu cầu.</target>
-      </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
         <target state="translated">Công việc này sẽ được ẩn!</target>
@@ -77,10 +73,6 @@
         <source>app.employees_lowercase</source>
         <target state="translated">Nhân viên</target>
       </trans-unit>
-      <trans-unit id="deac209e318dd16d18b27ae66da2a3de" resname="app.job.section.left.infoStatus" approved="yes">
-        <source>app.job.section.left.infoStatus</source>
-        <target state="translated">Không có sẵn</target>
-      </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>
         <target state="translated">Trụ sở chính</target>
@@ -125,10 +117,6 @@
         <source>app.job.section.popup.linkedinButtonTitle</source>
         <target state="translated">Đăng nhập với LinkedIn</target>
       </trans-unit>
-      <trans-unit id="d5201b5b2e56754acbba97723395801c" resname="app.job.section.popup.xingButtonTitle" approved="yes">
-        <source>app.job.section.popup.xingButtonTitle</source>
-        <target state="translated">Đăng nhập với Xing</target>
-      </trans-unit>
       <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle" approved="yes">
         <source>app.job.section.popup.googleButtonTitle</source>
         <target state="translated">Đăng nhập với Google</target>
@@ -136,10 +124,6 @@
       <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle" approved="yes">
         <source>app.job.section.popup.facebookButtonTitle</source>
         <target state="translated">Đăng nhập với Facebook</target>
-      </trans-unit>
-      <trans-unit id="8b38effcf1e37d3344a236b748f5a0c6" resname="app.section.popup.forgotLinkTitle" approved="yes">
-        <source>app.section.popup.forgotLinkTitle</source>
-        <target state="translated">Quên mật khẩu?</target>
       </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
@@ -165,30 +149,6 @@
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Hủy</target>
       </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg" approved="yes">
-        <source>app.jobSavedMsg</source>
-        <target state="translated">.Công việc lưu trữ trong hồ sơ cá nhân</target>
-      </trans-unit>
-    <trans-unit id="2baae59c22544d538839b3b781263a0c" resname="app.job.section.popup.headTitle" approved="yes">
-        <source>app.job.section.popup.headTitle</source>
-        <target state="translated">Hãy bắt đầu và đăng ký</target>
-      </trans-unit>
-      <trans-unit id="cdc819a116274c72b273d413b45c7eff" resname="app.job.section.popup.description" approved="yes">
-        <source>app.job.section.popup.description</source>
-        <target state="translated">Con đường nhanh nhất để tìm một công việc mới trong kho vận và vận tải đường thủy. Sử dụng các dấu hiệu đơn trên trên đầu hoặc điền vào mục dưới đây.</target>
-      </trans-unit>
-      <trans-unit id="3f3ab505beed41e4bcde943d48c82ac7" resname="app.job.section.popup.agreementFirstPart" approved="yes">
-        <source>app.job.section.popup.agreementFirstPart</source>
-        <target state="translated">Đăng ký bằng cách Tôi đồng ý với</target>
-      </trans-unit>
-      <trans-unit id="ca97369b19c64a178a9ac6cdddff0d90" resname="app.job.section.popup.agreementSecondPart" approved="yes">
-        <source>app.job.section.popup.agreementSecondPart</source>
-        <target state="translated">Điều khoản &amp; điều kiện</target>
-      </trans-unit>
-      <trans-unit id="6c3a179fa5ba45b7b34b918722b52725" resname="app.section.popup.registrationLinkTitle" approved="yes">
-        <source>app.section.popup.registrationLinkTitle</source>
-        <target state="translated">Hoặc đến trang đăng ký</target>
-      </trans-unit>
       <trans-unit id="cdfaa950c2ca43869c70f48df6f9f2b3" resname="app.job.section.popup.networksTitle" approved="yes">
         <source>app.job.section.popup.networksTitle</source>
         <target state="translated">Sử dụng một trong những mạng sau để đăng ký cho công việc này.</target>
@@ -203,8 +163,7 @@
       </trans-unit>
       <trans-unit id="fa1ff0db275e438baa584f7eb20071c7" resname="app.job.section.popup.checkText" approved="yes">
         <source>app.job.section.popup.checkText</source>
-        <target state="translated">Tôi chính thức cung cấp các dữ liệu của tôi để có thể được lưu trữ trên transporttalent.com
-  Sao chép → ↵ ... "" '' ---</target>
+        <target state="translated">Tôi chính thức cung cấp các dữ liệu của tôi để có thể được lưu trữ trên transporttalent.com</target>
       </trans-unit>
       <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>
@@ -270,18 +229,6 @@
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
         <target state="translated">Đóng cửa sổ</target>
       </trans-unit>
-    <trans-unit id="6a959fcb966a4f91bd6131b9ee0d190f" resname="app.job.section.popup.usernamePlaceholder" approved="yes">
-        <source>app.job.section.popup.usernamePlaceholder</source>
-        <target state="translated">Thư điện tử</target>
-      </trans-unit>
-      <trans-unit id="b13ca9756ec64b3faacc979937d43aef" resname="app.job.section.popup.passwordPlaceholder" approved="yes">
-        <source>app.job.section.popup.passwordPlaceholder</source>
-        <target state="translated">Mật khẩu</target>
-      </trans-unit>
-      <trans-unit id="186dafcd9583425bafcd8b26938403a7" resname="app.section.popup.signInLabel" approved="yes">
-        <source>app.section.popup.signInLabel</source>
-        <target state="translated">Đăng ký</target>
-      </trans-unit>
       <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>
         <target state="translated">Hướng dẫn</target>
@@ -298,15 +245,6 @@
         <source>app.job.forward.button.ok</source>
         <target state="translated">Tiếp tục</target>
       </trans-unit>
-      <trans-unit id="d762216f072747c289135fd6733497e7" resname="app.job.forward.button.cancel" approved="yes">
-        <source>app.job.forward.button.cancel</source>
-        <target state="translated">Quay lại với .Transport Talent</target>
-      </trans-unit>
-      <trans-unit id="800f71a83fe44f9694b88d108c338cdd" resname="app.job.forward.button.close" approved="yes">
-        <source>app.job.forward.button.close</source>
-        <target state="translated">Đóng</target>
-      </trans-unit>
-
     <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Lưu và đến hồ sơ</target>

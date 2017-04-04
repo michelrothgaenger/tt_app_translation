@@ -13,10 +13,6 @@
         <source>app.metaDescriptionExpiredPage</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="ec5f98a796dda6de648468a6b448dc12" resname="app.metaKeywordsExpiredPage">
-        <source>app.metaKeywordsExpiredPage</source>
-        <target></target>
-      </trans-unit>
       <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
         <source>app.jobExpiredPageDesc</source>
         <target><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>

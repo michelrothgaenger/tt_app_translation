@@ -13,10 +13,6 @@
         <source>app.job.meta.description</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="3102e3a435fdb9cce55c9f7fb36c267b" resname="app.job.meta.keywords">
-        <source>app.job.meta.keywords</source>
-        <target/>
-      </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status">
         <source>app.job.section.top.status</source>
         <target>This job is hidden!</target>
@@ -77,10 +73,6 @@
         <source>app.employees_lowercase</source>
         <target state="translated">εργαζόμενοι</target>
       </trans-unit>
-      <trans-unit id="deac209e318dd16d18b27ae66da2a3de" resname="app.job.section.left.infoStatus">
-        <source>app.job.section.left.infoStatus</source>
-        <target>Not available</target>
-      </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>
         <target state="translated">Κυρία έδρα</target>
@@ -125,10 +117,6 @@
         <source>app.job.section.popup.linkedinButtonTitle</source>
         <target>Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="d5201b5b2e56754acbba97723395801c" resname="app.job.section.popup.xingButtonTitle">
-        <source>app.job.section.popup.xingButtonTitle</source>
-        <target>Sign in with Xing</target>
-      </trans-unit>
       <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle">
         <source>app.job.section.popup.googleButtonTitle</source>
         <target>Sign in with Google</target>
@@ -136,10 +124,6 @@
       <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle">
         <source>app.job.section.popup.facebookButtonTitle</source>
         <target>Sign in with Facebook</target>
-      </trans-unit>
-      <trans-unit id="8b38effcf1e37d3344a236b748f5a0c6" resname="app.section.popup.forgotLinkTitle">
-        <source>app.section.popup.forgotLinkTitle</source>
-        <target/>
       </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title">
         <source>app.job.section.popup.title</source>
@@ -164,10 +148,6 @@
       <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target>Cancel</target>
-      </trans-unit>
-      <trans-unit id="438aa8066793f57d23ec9ef89bb52b55" resname="app.jobSavedMsg">
-        <source>app.jobSavedMsg</source>
-        <target/>
       </trans-unit>
     </body>
   </file>

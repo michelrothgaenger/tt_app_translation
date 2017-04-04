@@ -13,22 +13,6 @@
         <source>app.postJobHeadline</source>
         <target>Post your job</target>
       </trans-unit>
-      <trans-unit id="9bfcc39be2fb39006b0ec50adc81684b" resname="app.metaDescriptionEditJobPage" approved="yes">
-        <source>app.metaDescriptionEditJobPage</source>
-        <target state="translated">Edit your job postings and find the best candidates from the transport and logistics industry.</target>
-      </trans-unit>
-      <trans-unit id="edf62d389d2dc25d6c48478c77c76102" resname="app.metaKeywordsEditJobPage" approved="yes">
-        <source>app.metaKeywordsEditJobPage</source>
-        <target state="translated">Transport, Logistis, positions, jobs, opening, vacancy, posting, candidate, professional, hire, edit, publish, change</target>
-      </trans-unit>
-      <trans-unit id="610a3897905d3d21f9d99fe578d1d122" resname="app.metaDescriptionPostJobPage" approved="yes">
-        <source>app.metaDescriptionPostJobPage</source>
-        <target state="translated">Advertise your open positions and hire the best.</target>
-      </trans-unit>
-      <trans-unit id="7b9853f0fcedebf27dd7deb3ab6922f6" resname="app.metaKeywordsPostJobPage" approved="yes">
-        <source>app.metaKeywordsPostJobPage</source>
-        <target state="translated">Transport, Logistics, shipping, cargo, positions, jobs, openings, edit, posting, create, publish, advertise, hire, candidate, vacancy</target>
-      </trans-unit>
       <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
         <target state="translated">Fill in below the necessary information and save.</target>
@@ -49,10 +33,6 @@
         <source>app.employerJobEdit.info.jobId</source>
         <target>Job ID:</target>
       </trans-unit>
-      <trans-unit id="9f999f8fcd194d4ca6a1e04e1721ce20" resname="app.employerJobEdit.buttonLabels.edit">
-        <source>app.employerJobEdit.buttonLabels.edit</source>
-        <target>EDIT</target>
-      </trans-unit>
       <trans-unit id="e70d6dd891de48d8822aff97c3d8dd5d" resname="app.email">
         <source>app.email</source>
         <target>Contact Email</target>
@@ -60,10 +40,6 @@
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
         <source>app.jobTitle</source>
         <target>Job title</target>
-      </trans-unit>
-      <trans-unit id="e5ebdbf3f963f720e053f19d06e3825c" resname="app.url">
-        <source>app.url</source>
-        <target>Url</target>
       </trans-unit>
       <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary">
         <source>app.salary</source>

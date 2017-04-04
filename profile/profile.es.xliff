@@ -9,10 +9,6 @@
         <source>app.or</source>
         <target state="translated">o</target>
       </trans-unit>
-      <trans-unit id="fbebaf7ef5911acd49151ec6438027d1" resname="app.services" approved="yes">
-        <source>app.services</source>
-        <target state="translated">Servicio</target>
-      </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
         <target state="translated">Busqueda de trabajo</target>
@@ -28,14 +24,6 @@
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Perfil</target>
-      </trans-unit>
-      <trans-unit id="471f519d66c7d31c841eb2792990289c" resname="app.metaDescriptionProfilePage">
-        <source>app.metaDescriptionProfilePage</source>
-        <target/>
-      </trans-unit>
-      <trans-unit id="02dac35a51c2427428568a4c12ec13d6" resname="app.metaKeywordsProfilePage">
-        <source>app.metaKeywordsProfilePage</source>
-        <target/>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText" approved="yes">
         <source>app.profileInputCvUploadBtnText</source>
@@ -53,162 +41,6 @@
         <source>app.fileUploaded</source>
         <target state="translated">¡Archivo subido!</target>
       </trans-unit>
-      <trans-unit id="2151d9973e264cac1d329db9bc31de4e" resname="app.employerProfileHeadline" approved="yes">
-        <source>app.employerProfileHeadline</source>
-        <target state="translated">Configura tu cuenta de empresa</target>
-      </trans-unit>
-      <trans-unit id="e6b7681a5f46ea7e6d7d1b8f72038555" resname="app.employerProfileHeadlineDesc1" approved="yes">
-        <source>app.employerProfileHeadlineDesc1</source>
-        <target state="translated">Crea tu perfil de empresa</target>
-      </trans-unit>
-      <trans-unit id="266b7956ae8a7e3dd9963b3e226e8af2" resname="app.employerProfileHeadlineDesc2" approved="yes">
-        <source>app.employerProfileHeadlineDesc2</source>
-        <target state="translated">Crea tu perfil de empresa gratis aquí. Es la base para utilizar nuestros servicios. Asegúrate de que los mejores candidatos tienen una visión atractiva de tu empresa.</target>
-      </trans-unit>
-      <trans-unit id="b1d15343dc7b7e8893c536d1f9c8a4fb" resname="app.employerProfileHeadlineDesc3" approved="yes">
-        <source>app.employerProfileHeadlineDesc3</source>
-        <target state="translated">* Campo obligatorio</target>
-      </trans-unit>
-      <trans-unit id="95d6f0b4dba606f52836553c4eec4544" resname="app.passwordWasSuccesfullyChanged" approved="yes">
-        <source>app.passwordWasSuccesfullyChanged</source>
-        <target state="translated">¡La contraseña se ha cambiado correctamente!</target>
-      </trans-unit>
-      <trans-unit id="36fd50091a280376f3ab239c94e793ab" resname="app.yourProfile" approved="yes">
-        <source>app.yourProfile</source>
-        <target state="translated">Mi perfil</target>
-      </trans-unit>
-      <trans-unit id="39dd0de49006e89eca0e2d7d48a29c77" resname="app.savedJobs" approved="yes">
-        <source>app.savedJobs</source>
-        <target state="translated">Vacantes guardadas</target>
-      </trans-unit>
-      <trans-unit id="527352d8f5b359c5e008fae203e1b4c3" resname="app.savedCompanies" approved="yes">
-        <source>app.savedCompanies</source>
-        <target state="translated">Companías guardadas</target>
-      </trans-unit>
-      <trans-unit id="b1bfd64755462b0434361a1dc8063cd8" resname="app.myProfileCta1" approved="yes">
-        <source>app.myProfileCta1</source>
-        <target state="translated">Crea tu perfil de usuario</target>
-      </trans-unit>
-      <trans-unit id="c8b94f2798e55aba98e492e8da52033d" resname="app.profileYourProfileStatusIs" approved="yes">
-        <source>app.profileYourProfileStatusIs</source>
-        <target state="translated">El status de tu perfil es</target>
-      </trans-unit>
-      <trans-unit id="e2d597fd4ff9f91106311cda60985bfc" resname="app.profileNavigationListItemStatus">
-        <source>app.profileNavigationListItemStatus</source>
-        <target>Status</target>
-      </trans-unit>
-      <trans-unit id="9a152564a6171a477d6c5e03841e8d91" resname="app.profileNavigationListItemBasic" approved="yes">
-        <source>app.profileNavigationListItemBasic</source>
-        <target state="translated">Información básica</target>
-      </trans-unit>
-      <trans-unit id="78393da8b6b3c414644e6ef393affb6d" resname="app.profileNavigationListItemPersonal" approved="yes">
-        <source>app.profileNavigationListItemPersonal</source>
-        <target state="translated">Perfil Personal</target>
-      </trans-unit>
-      <trans-unit id="aaf4703e88a1979aa300eeaf7164256a" resname="app.profileNavigationListItemExperience" approved="yes">
-        <source>app.profileNavigationListItemExperience</source>
-        <target state="translated">Experiencia Profesional</target>
-      </trans-unit>
-      <trans-unit id="357703f5a7f509c69fdfdb8260df4f33" resname="app.profileNavigationListItemPreferences" approved="yes">
-        <source>app.profileNavigationListItemPreferences</source>
-        <target state="translated">Preferencias laborales</target>
-      </trans-unit>
-      <trans-unit id="5cb97f8975d81da0c4533d5ed10f096b" resname="app.profileNavigationListItemCertificates" approved="yes">
-        <source>app.profileNavigationListItemCertificates</source>
-        <target state="translated">Certificados</target>
-      </trans-unit>
-      <trans-unit id="25b2140cae5cac9532aecfb2a9ecf55d" resname="app.profileNavigationListItemLanguages" approved="yes">
-        <source>app.profileNavigationListItemLanguages</source>
-        <target state="translated">Idiomas</target>
-      </trans-unit>
-      <trans-unit id="9301b3ec39dcfaf383019143bfc1c2ed" resname="app.profileNavigationListItemSummary" approved="yes">
-        <source>app.profileNavigationListItemSummary</source>
-        <target state="translated">Subir CV</target>
-      </trans-unit>
-      <trans-unit id="f7decfe7efae360563786fe90dea1295" resname="app.profileYourMentorDesc" approved="yes">
-        <source>app.profileYourMentorDesc</source>
-        <target state="translated">Su contacto personal y mentor en TT</target>
-      </trans-unit>
-      <trans-unit id="aa5796ab6fee9825cdaa5cc51965b9ec" resname="app.profileYourMentorName" approved="yes">
-        <source>app.profileYourMentorName</source>
-        <target state="translated">Svenja</target>
-      </trans-unit>
-      <trans-unit id="87a24ec25e417e6587a613d38f28375c" resname="app.contact" approved="yes">
-        <source>app.contact</source>
-        <target state="translated">Contacto</target>
-      </trans-unit>
-      <trans-unit id="1793adcc813a48118a0d473775d2b8ec" resname="app.profileProfileHasBeenApproved" approved="yes">
-        <source>app.profileProfileHasBeenApproved</source>
-        <target state="translated">Se ha comprobado y aprobado el status de tu perfil.</target>
-      </trans-unit>
-      <trans-unit id="716c6e2fab7553e9b985abd85177f534" resname="app.profileProfileHasNotBeenApproved" approved="yes">
-        <source>app.profileProfileHasNotBeenApproved</source>
-        <target state="translated">Gracias por completar tu perfil. Tus datos serán aprobados.</target>
-      </trans-unit>
-      <trans-unit id="e97519fcb258156f7e80004f534736a4" resname="app.profileGroupBasicTitle" approved="yes">
-        <source>app.profileGroupBasicTitle</source>
-        <target state="translated">Básico</target>
-      </trans-unit>
-      <trans-unit id="cb062093b86976fff61dbbb44e7a179b" resname="app.profileGroupImportTitle" approved="yes">
-        <source>app.profileGroupImportTitle</source>
-        <target state="translated">Importar tus datos</target>
-      </trans-unit>
-      <trans-unit id="e9f7e5f2f365760125c198a61c9083cd" resname="app.profileGroupImportDesc" approved="yes">
-        <source>app.profileGroupImportDesc</source>
-        <target state="translated">Ahorra tiempo al importar datos existentes de tu cuenta de Xing o de LinkedIn.</target>
-      </trans-unit>
-      <trans-unit id="3b5349a6fbc8a9095252b7cfa4d0e073" resname="app.importDataFromLinkedIn" approved="yes">
-        <source>app.importDataFromLinkedIn</source>
-        <target state="translated">Importar datos de LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="e091f73bfda5d65d333341c09054504d" resname="app.importDataFromXing">
-        <source>app.importDataFromXing</source>
-        <target>Import data from Xing</target>
-      </trans-unit>
-      <trans-unit id="4822274c0fe255e1742119209859f061" resname="app.profileGroupPersonalTitle" approved="yes">
-        <source>app.profileGroupPersonalTitle</source>
-        <target state="translated">Perfil Personal</target>
-      </trans-unit>
-      <trans-unit id="cc112cd355a390029a02970d1d107e09" resname="app.profileGroupSummaryTitle" approved="yes">
-        <source>app.profileGroupSummaryTitle</source>
-        <target state="translated">Breve resumen</target>
-      </trans-unit>
-      <trans-unit id="4f8da3ec1687af406e41d9fc1bb855db" resname="app.profileGroupSummaryDesc" approved="yes">
-        <source>app.profileGroupSummaryDesc</source>
-        <target state="translated">Por favor haznos un breve resumen de tu trayectoria profesional. ¿Qué tipo de conocimiento de la industria tienes? ¿En qué eres un experto?</target>
-      </trans-unit>
-      <trans-unit id="521d5680045a7b50b5a40021ebe78638" resname="app.profileGroupExperienceTitle" approved="yes">
-        <source>app.profileGroupExperienceTitle</source>
-        <target state="translated">Rellena los detalles de tu experiencia profesional para completar tu perfil.</target>
-      </trans-unit>
-      <trans-unit id="286aac929bdf6fe9bfd2a6caf15682ec" resname="app.profileGroupPreferencesTitle" approved="yes">
-        <source>app.profileGroupPreferencesTitle</source>
-        <target state="translated">¿Cuál es tu área favorita de empleo?</target>
-      </trans-unit>
-      <trans-unit id="0bec007a2366bf6deba5b26b45ac0f61" resname="app.profileGroupSkillsTitle" approved="yes">
-        <source>app.profileGroupSkillsTitle</source>
-        <target state="translated">Habilidades</target>
-      </trans-unit>
-      <trans-unit id="00d56e286c521018057d2e9965f08e74" resname="app.profileGroupSkillsDesc" approved="yes">
-        <source>app.profileGroupSkillsDesc</source>
-        <target state="translated">Trabajador en equipo, motivador o enfocado a resultados...etc  - ¿cuáles son sus puntos fuertes? Háblanos de tus habilidades.</target>
-      </trans-unit>
-      <trans-unit id="a3c8f3120627053615eba7cd218509c0" resname="app.profileGroupEducationsTitle" approved="yes">
-        <source>app.profileGroupEducationsTitle</source>
-        <target state="translated">Formación</target>
-      </trans-unit>
-      <trans-unit id="2bcef9e98a42aaf3cbf5412d5f6c14c4" resname="app.profileGroupCertificatesTitle" approved="yes">
-        <source>app.profileGroupCertificatesTitle</source>
-        <target state="translated">Títulos</target>
-      </trans-unit>
-      <trans-unit id="69e76f2e8024c2935738dc426b0f69e5" resname="app.profileGroupCertificatesDesc" approved="yes">
-        <source>app.profileGroupCertificatesDesc</source>
-        <target state="translated">¿Tienes alguna cualificación adicional para la cual recibiste un certificado? Esto podría ser habilidades de lenguaje y software, formación profesional o similares.</target>
-      </trans-unit>
-      <trans-unit id="ee762f40f1d7b905439796d375ae52e2" resname="app.profileGroupLanguagesTitle" approved="yes">
-        <source>app.profileGroupLanguagesTitle</source>
-        <target state="translated">Idiomas</target>
-      </trans-unit>
       <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
         <target state="translated">Tus vacantes guardadas</target>
@@ -225,10 +57,6 @@
         <source>app.profileSavedCompaniesCta</source>
         <target state="translated">A continuación verás tus empresas guardadas. Agrega y elimina como mejor te parezca.</target>
       </trans-unit>
-      <trans-unit id="9c0cfdf74d56de16ebdb326d53ce2056" resname="app.view" approved="yes">
-        <source>app.view</source>
-        <target state="translated">Ver</target>
-      </trans-unit>
       <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
         <target state="translated">Buscar nuevas empresas</target>
@@ -240,14 +68,6 @@
       <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
         <target state="translated">Publicar Perfil</target>
-      </trans-unit>
-      <trans-unit id="a12f25dddf4a0bbd4bf605b73247f557" resname="app.profileInputPhotoEditBtnText" approved="yes">
-        <source>app.profileInputPhotoEditBtnText</source>
-        <target state="translated">Editar Foto</target>
-      </trans-unit>
-      <trans-unit id="3204f2b258a021a769c829f54d49f2fc" resname="app.profileInputPhotoDesc" approved="yes">
-        <source>app.profileInputPhotoDesc</source>
-        <target state="translated">Mínimo 150 x 150 píxeles. &lt;br&gt; El archivo no debe tener más de 1 MB.</target>
       </trans-unit>
       <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo" approved="yes">
         <source>app.contactInfo</source>
@@ -325,69 +145,17 @@
         <source>app.about</source>
         <target state="translated">Descripción de la empresa</target>
       </trans-unit>
-      <trans-unit id="f39e4f5ca41062af19cc9e01f6e54947" resname="app.profileInputBasicFirstNameLabel" approved="yes">
-        <source>app.profileInputBasicFirstNameLabel</source>
-        <target state="translated">Nombre</target>
-      </trans-unit>
-      <trans-unit id="899a525e10c0f8a5abd44f9936e708c4" resname="app.profileInputBasicLastNameLabel" approved="yes">
-        <source>app.profileInputBasicLastNameLabel</source>
-        <target state="translated">Apellidos</target>
-      </trans-unit>
       <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel">
         <source>app.profileInputBasicEmailLabel</source>
         <target>Email</target>
-      </trans-unit>
-      <trans-unit id="610a3ad06b4c5cdc5757408e4fb7a9ad" resname="app.profileInputBasicPhoneLabel" approved="yes">
-        <source>app.profileInputBasicPhoneLabel</source>
-        <target state="translated">Teléfono</target>
-      </trans-unit>
-      <trans-unit id="309d1465f679150894fec620c414411e" resname="app.profileSectionGeneralTitle">
-        <source>app.profileSectionGeneralTitle</source>
-        <target>General</target>
-      </trans-unit>
-      <trans-unit id="dbe59661037b91285e11ba29e81c79ce" resname="app.profileInputGeneralSalutationLabel" approved="yes">
-        <source>app.profileInputGeneralSalutationLabel</source>
-        <target state="translated">Saludo</target>
       </trans-unit>
       <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target state="translated">Cumpleaños</target>
       </trans-unit>
-      <trans-unit id="8cccca58a6789b7fd9e55202fe7fd754" resname="app.profileInputGeneralCountryLabel" approved="yes">
-        <source>app.profileInputGeneralCountryLabel</source>
-        <target state="translated">País</target>
-      </trans-unit>
-      <trans-unit id="4cfb2e6e104f714c30f5e462e228f182" resname="app.profileInputGeneralCityLabel" approved="yes">
-        <source>app.profileInputGeneralCityLabel</source>
-        <target state="translated">Ciudad</target>
-      </trans-unit>
-      <trans-unit id="cc62e1465f9ff470128db8866d1b664b" resname="app.profileSectionPhotoTitle" approved="yes">
-        <source>app.profileSectionPhotoTitle</source>
-        <target state="translated">Foto</target>
-      </trans-unit>
       <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target state="translated">Experiencia</target>
-      </trans-unit>
-      <trans-unit id="a3f75e26705f7083bbd7dfd7799ffcfd" resname="app.profileInputTotalExperienceYearsLabel" approved="yes">
-        <source>app.profileInputTotalExperienceYearsLabel</source>
-        <target state="translated">¿Cuántos años de experiencia profesional tienes en la industria de la logística o del transporte?</target>
-      </trans-unit>
-      <trans-unit id="389577b83b47ea2c7bfc18eab252fb1a" resname="app.profileInputTotalExperienceSpecialityLabel" approved="yes">
-        <source>app.profileInputTotalExperienceSpecialityLabel</source>
-        <target state="translated">¿Cuál es tu especialidad?</target>
-      </trans-unit>
-      <trans-unit id="16198a7ac962701bdcc15f535f2ca5ae" resname="app.profileSectionCvTitle">
-        <source>app.profileSectionCvTitle</source>
-        <target>CV</target>
-      </trans-unit>
-      <trans-unit id="44d49c9afdc9663cd85aa49363f3e4c1" resname="app.profileSectionProfessionalExperienceItemsTitle" approved="yes">
-        <source>app.profileSectionProfessionalExperienceItemsTitle</source>
-        <target state="translated">Experiencias guardadas</target>
-      </trans-unit>
-      <trans-unit id="646453cc1f3a0ddb06788358da309acc" resname="app.company" approved="yes">
-        <source>app.company</source>
-        <target state="translated">Empresa</target>
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
@@ -397,117 +165,9 @@
         <source>app.position</source>
         <target state="translated">Área</target>
       </trans-unit>
-      <trans-unit id="a1ec6c8784cb375001b331e927005035" resname="app.profileInputProfessionalExperienceTeamsizeLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceTeamsizeLabel</source>
-        <target state="translated">Personal a cargo</target>
-      </trans-unit>
-      <trans-unit id="e1ce674fc6305778cf466087186e5bb0" resname="app.startDate" approved="yes">
-        <source>app.startDate</source>
-        <target state="translated">Fecha de inicio</target>
-      </trans-unit>
-      <trans-unit id="1a565c5d3d7c970fbd3450c06b41c6dc" resname="app.endDate" approved="yes">
-        <source>app.endDate</source>
-        <target state="translated">Fecha de fin</target>
-      </trans-unit>
-      <trans-unit id="d1b0bed41fb46c1a1095300b6e2c24eb" resname="app.profileInputProfessionalExperienceBusinessAreaLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceBusinessAreaLabel</source>
-        <target state="translated">Área de negocio</target>
-      </trans-unit>
-      <trans-unit id="d1bd8445fa3752ae0fae733b49b337e8" resname="app.profileInputProfessionalExperienceSubareaLabel" approved="yes">
-        <source>app.profileInputProfessionalExperienceSubareaLabel</source>
-        <target state="translated">Subárea</target>
-      </trans-unit>
-      <trans-unit id="e6b3715da196add0f128b90f7ca87a46" resname="app.profileSectionPreferredEmploymentTypesTitle" approved="yes">
-        <source>app.profileSectionPreferredEmploymentTypesTitle</source>
-        <target state="translated">Tipo de empleos preferidos</target>
-      </trans-unit>
-      <trans-unit id="00cd19b3af29a2a7b822ca52b68bbe93" resname="app.profileSectionPreferredEmploymentTypesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredEmploymentTypesItemsTitle</source>
-        <target state="translated">Tipo de empleos guardados</target>
-      </trans-unit>
-      <trans-unit id="cfa367939efe3b861e1132ad7f8cbb99" resname="app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel" approved="yes">
-        <source>app.profileInputPreferredEmploymentTypesJobEmploymentTypeLabel</source>
-        <target state="translated">Elige tu tipo de empleo</target>
-      </trans-unit>
-      <trans-unit id="48083c2fbe0dcb975ed0c5e8f9ef26e3" resname="app.profileSectionPreferredJobCategoriesTitle" approved="yes">
-        <source>app.profileSectionPreferredJobCategoriesTitle</source>
-        <target state="translated">Categorías de empleo preferidas</target>
-      </trans-unit>
-      <trans-unit id="60a828f2a5c0adf52ab3bae08df5bc51" resname="app.profileSectionPreferredJobCategoriesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredJobCategoriesItemsTitle</source>
-        <target state="translated">Categorías de empleo guardadas</target>
-      </trans-unit>
-      <trans-unit id="6d001aac1f87d905d5308a04683ec636" resname="app.profileInputPreferredJobCategoriesJobCategoryLabel" approved="yes">
-        <source>app.profileInputPreferredJobCategoriesJobCategoryLabel</source>
-        <target state="translated">Elige una categoría de empleo</target>
-      </trans-unit>
-      <trans-unit id="0dd0f537414cd92a4200d773c8f63e3a" resname="app.profileSectionPreferredCountriesTitle" approved="yes">
-        <source>app.profileSectionPreferredCountriesTitle</source>
-        <target state="translated">Regiones y países preferidos</target>
-      </trans-unit>
-      <trans-unit id="8cd376d3f470c713d7d5f1741d0c477f" resname="app.profileSectionPreferredCountriesItemsTitle" approved="yes">
-        <source>app.profileSectionPreferredCountriesItemsTitle</source>
-        <target state="translated">Regiones y países guardados</target>
-      </trans-unit>
-      <trans-unit id="54be6a3d70ada57c69d1c41495ea80f0" resname="app.profileInputPreferredCountriesCountryLabel" approved="yes">
-        <source>app.profileInputPreferredCountriesCountryLabel</source>
-        <target state="translated">Elige tus regiones y países preferidos</target>
-      </trans-unit>
-      <trans-unit id="2e77ab9717e5d4ba70be91a848340d5d" resname="app.profileInputPreferredCountriesCityLabel" approved="yes">
-        <source>app.profileInputPreferredCountriesCityLabel</source>
-        <target state="translated">Elige tu ciudad preferida</target>
-      </trans-unit>
-      <trans-unit id="b6aaaefcfab3eed9b61292bb4a3a238e" resname="app.profileSectionSkillsItemsTitle" approved="yes">
-        <source>app.profileSectionSkillsItemsTitle</source>
-        <target state="translated">Habilidades guardadas</target>
-      </trans-unit>
-      <trans-unit id="fe617f9c11592f4b65bc5c157f6aeb80" resname="app.profileInputSkillsSkillLabel" approved="yes">
-        <source>app.profileInputSkillsSkillLabel</source>
-        <target state="translated">¿Cuáles son tus habilidades?</target>
-      </trans-unit>
-      <trans-unit id="6a1c8e5ef90e2feafd38d320eea4d587" resname="app.profileSectionEducationsItemsTitle" approved="yes">
-        <source>app.profileSectionEducationsItemsTitle</source>
-        <target state="translated">Formación guardada</target>
-      </trans-unit>
-      <trans-unit id="a442311473694d44a8e9c5aaaec4cb42" resname="app.profileInputEducationsSkillLabel" approved="yes">
-        <source>app.profileInputEducationsSkillLabel</source>
-        <target state="translated">¿Cuál es tu formación?</target>
-      </trans-unit>
-      <trans-unit id="3182502d1d0767c32d19ea967ba80284" resname="app.profileInputEducationsGraduationYearLabel" approved="yes">
-        <source>app.profileInputEducationsGraduationYearLabel</source>
-        <target state="translated">Licenciado/Graduado</target>
-      </trans-unit>
-      <trans-unit id="21b1efae29bdfa51e13878e7624f5ca8" resname="app.profileInputEducationsEducationLevelLabel" approved="yes">
-        <source>app.profileInputEducationsEducationLevelLabel</source>
-        <target state="translated">Nivel</target>
-      </trans-unit>
-      <trans-unit id="9c64c3e4efddde37c12d6e88745d4a33" resname="app.profileInputEducationsCountryLabel" approved="yes">
-        <source>app.profileInputEducationsCountryLabel</source>
-        <target state="translated">País</target>
-      </trans-unit>
-      <trans-unit id="1f38113f24e3ae6fdecd4e4a0b27579f" resname="app.profileSectionCertificatesItemsTitle" approved="yes">
-        <source>app.profileSectionCertificatesItemsTitle</source>
-        <target state="translated">Formación guardada</target>
-      </trans-unit>
-      <trans-unit id="97b7947048bb2a930440f987b1dbb63f" resname="app.profileInputCertificatesCertificateTitleLabel" approved="yes">
-        <source>app.profileInputCertificatesCertificateTitleLabel</source>
-        <target state="translated">Título de la formación</target>
-      </trans-unit>
-      <trans-unit id="8deef46319fcad48e67f19449f9ef103" resname="app.profileSectionLanguagesItemsTitle" approved="yes">
-        <source>app.profileSectionLanguagesItemsTitle</source>
-        <target state="translated">Idiomas guardados</target>
-      </trans-unit>
-      <trans-unit id="297d78b96fb06aa26bf5a19264ded431" resname="app.profileInputLanguagesLanguageLabel" approved="yes">
-        <source>app.profileInputLanguagesLanguageLabel</source>
-        <target state="translated">Idiomas</target>
-      </trans-unit>
-      <trans-unit id="d61c24484b9050ccca7cef0e96ff6b4c" resname="app.profileInputLanguagesLevelLabel" approved="yes">
-        <source>app.profileInputLanguagesLevelLabel</source>
-        <target state="translated">Nivel</target>
-      </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
-        <target state="translated">Perfil de empresa publicado.</target>
+        <target state="translated">Perfil de empresa publicado</target>
       </trans-unit>
       <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
@@ -529,25 +189,9 @@
         <source>app.thisFieldMustBeFilled</source>
         <target state="translated">¡Este campo debe ser completado!</target>
       </trans-unit>
-      <trans-unit id="622b6debae93effab30cb6fb66fb146b" resname="app.pleaseInputDateInFormatDdMmYyyy" approved="yes">
-        <source>app.pleaseInputDateInFormatDdMmYyyy</source>
-        <target state="translated">Por favor introduzca la fecha en el formato dd/mm/aaaa.</target>
-      </trans-unit>
-      <trans-unit id="afc55d471e84cfd3f406c8dba530b41d" resname="app.requiresThisFieldToBeFilledToo" approved="yes">
-        <source>app.requiresThisFieldToBeFilledToo</source>
-        <target state="translated">Campo obligatorio.</target>
-      </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target state="translated">Elige una opción</target>
-      </trans-unit>
-      <trans-unit id="cc629ce4431e7a8cab9560b6f1eb2b08" resname="app.visible">
-        <source>app.visible</source>
-        <target>Visible</target>
-      </trans-unit>
-      <trans-unit id="7b5b7ca11c24bc8f465b6f8a9ceea2d6" resname="app.hidden" approved="yes">
-        <source>app.hidden</source>
-        <target state="translated">Invisible</target>
       </trans-unit>
       <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
         <source>app.add</source>
@@ -685,10 +329,6 @@
         <source>app.signInWithGoogle</source>
         <target state="translated">Inicia sesión con Google</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f6d" resname="app.profile.errors.totalYearsExp" approved="yes">
-        <source>app.profile.errors.totalYearsExp</source>
-        <target state="translated">Total de años de experiencia puede ser sólo numérica y estar entre 0 y 100</target>
-      </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Transport Talent le permite tener seguir a las principales empresas del transporte y la logística. Añada empresas a su menú o borrelas como mejor le parezca.</target>
@@ -813,29 +453,9 @@
         <source>app.employer.disabledField.companyInformation</source>
         <target state="translated">La edición de la información de la empresa está desactivada hasta que su cuenta sea aprobada.</target>
       </trans-unit>
-      <trans-unit id="fd7be620eb1a4e81975c3dd237289e96" resname="app.profile.templates.optgroupRegionsLabel" approved="yes">
-        <source>app.profile.templates.optgroupRegionsLabel</source>
-        <target state="translated">Regiones</target>
-      </trans-unit>
-      <trans-unit id="34b83f5d03b647399cc510c78f55ab00" resname="app.profile.templates.optgroupCountriesLabel" approved="yes">
-        <source>app.profile.templates.optgroupCountriesLabel</source>
-        <target state="translated">Paises</target>
-      </trans-unit>
-      <trans-unit id="941a0a31ba124f729cb4e41569acf4b7" resname="app.profile.errors.missingLanguageLevel" approved="yes">
-        <source>app.profile.errors.missingLanguageLevel</source>
-        <target state="translated">Falta el nivel de idioma</target>
-      </trans-unit>
       <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields" approved="yes">
         <source>app.profile.errors.requiredFields</source>
         <target state="translated">Los campos obligatorios no deben estar vacíos</target>
-      </trans-unit>
-      <trans-unit id="1d822eb41c4d47f2a620b887fd6a1fca" resname="app.profile.errors.missingSpecialty" approved="yes">
-        <source>app.profile.errors.missingSpecialty</source>
-        <target state="translated">Falta la especialidad</target>
-      </trans-unit>
-      <trans-unit id="af4e40b87a2243c9afea8cf3b23c2e1b" resname="app.profile.errors.emptySpecialty" approved="yes">
-        <source>app.profile.errors.emptySpecialty</source>
-        <target state="translated">La especialidad no debe estar vacía</target>
       </trans-unit>
       <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
         <source>app.profile.errors.requiredFieldCurrentPassword</source>
@@ -861,10 +481,6 @@
         <source>app.profile.pendingMessages.newEmail</source>
         <target state="translated">Nuevo correo electrónico pendiente, comprueba tu bandeja de entrada para confirmarlo</target>
       </trans-unit>
-      <trans-unit id="6adbc02097824fefbda8b5c5ee33d733" resname="app.profile.errors.invalidBDay" approved="yes">
-        <source>app.profile.errors.invalidBDay</source>
-        <target state="translated">La fecha de cumpleaños no es válida</target>
-      </trans-unit>
       <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName" approved="yes">
         <source>app.profile.errors.requiredFieldFirstName</source>
         <target state="translated">El nombre no debe estar vacío</target>
@@ -872,14 +488,6 @@
       <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName" approved="yes">
         <source>app.profile.errors.requiredFieldLastName</source>
         <target state="translated">El apellido no debe estar vacío</target>
-      </trans-unit>
-      <trans-unit id="da5c6ced137849d9b6009dc8acab6dbd" resname="app.profile.errors.missingRegion" approved="yes">
-        <source>app.profile.errors.missingRegion</source>
-        <target state="translated">Falta la región</target>
-      </trans-unit>
-      <trans-unit id="19d87ba0d073497d8d8b5f52d71dbe25" resname="app.profile.errors.missingCountry" approved="yes">
-        <source>app.profile.errors.missingCountry</source>
-        <target state="translated">Falta el país</target>
       </trans-unit>
       <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName" approved="yes">
         <source>app.profile.errors.requiredFieldCompanyName</source>
@@ -900,22 +508,6 @@
       <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion" approved="yes">
         <source>app.profile.errors.requiredFieldCountryRegion</source>
         <target state="translated">El campo País/Región no debe estar vacío</target>
-      </trans-unit>
-      <trans-unit id="7757e0b228d048a4a738fc2a6badd24a" resname="app.profile.errors.exceededLimit" approved="yes">
-        <source>app.profile.errors.exceededLimit</source>
-        <target state="translated">Ha superado el número máximo de caracteres</target>
-      </trans-unit>
-      <trans-unit id="d58ae52dffb0462485454c0937b4e050" resname="app.profile.errors.requiredFieldSkill" approved="yes">
-        <source>app.profile.errors.requiredFieldSkill</source>
-        <target state="translated">El nombre de la habilidad no debe estar vacío</target>
-      </trans-unit>
-      <trans-unit id="7ea164943c7b4738a5fef1fefd7fd649" resname="app.profile.errors.requiredFieldQualification" approved="yes">
-        <source>app.profile.errors.requiredFieldQualification</source>
-        <target state="translated">Los campos de formación y nivel no deben estar vacíos</target>
-      </trans-unit>
-      <trans-unit id="58c0c488c3a94c7abdd91719ef7a4165" resname="app.profile.errors.requiredFieldsCompanyTitleJobTitle" approved="yes">
-        <source>app.profile.errors.requiredFieldsCompanyTitleJobTitle</source>
-        <target state="translated">Los campos de empresa y nombre de la vacante no deben estar vacíos</target>
       </trans-unit>
     <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
@@ -1024,16 +616,6 @@
       <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
         <target state="translated">Opciones</target>
-      </trans-unit>
-
-
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedin" approved="yes">
-        <source>app.signInWithLinkedin</source>
-        <target state="translated">Inicia sesión con LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFacebook" approved="yes">
-        <source>app.signInWithFacebook</source>
-        <target state="translated">Inicia sesión con Facebook</target>
       </trans-unit>
       <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
         <source>app.profile.login.service.active</source>

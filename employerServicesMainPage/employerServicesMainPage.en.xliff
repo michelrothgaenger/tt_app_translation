@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="01ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.title">
+      <trans-unit id="01ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.title" approved="yes">
         <source>app.employerServiceMainPage.meta.title</source>
-        <target>Employer services</target>
+        <target state="translated">Employer services</target>
       </trans-unit>
       <trans-unit id="011baf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.description" approved="yes">
         <source>app.employerServiceMainPage.meta.description</source>
@@ -53,21 +53,21 @@
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
       <target state="translated">Do you need help to find and recruit the right employees?  </target>
     </trans-unit>
-    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel">
+    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
         <source>app.employerService.detailsLabel</source>
-        <target>Details</target>
+        <target state="translated">Details</target>
     </trans-unit>
-    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou">
+    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou" approved="yes">
         <source>app.employerService.serviceBooking.thankYou</source>
-        <target>Thank you</target>
+        <target state="translated">Thank you</target>
     </trans-unit>
     <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
         <target state="translated">Thank you very much we really appreciate it! We will reach out to you short term.</target>
     </trans-unit>
-    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose">
+    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="yes">
         <source>app.employerService.serviceBooking.thankYouClose</source>
-        <target>Close window</target>
+        <target state="translated">Close window</target>
     </trans-unit>
     <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
@@ -81,13 +81,13 @@
         <source>app.employerServiceMainPage.h1</source>
         <target state="translated">Hiring Solutions</target>
     </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.bookButtonLabel</source>
-            <target>Book</target>
+            <target state="translated">Book</target>
           </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>
-            <target>Inquiry</target>
+            <target state="translated">Inquiry</target>
           </trans-unit>
     </body>
   </file>

@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
         <source>app.findCompanies</source>
-        <target state="translated">Buscar empresas</target>
+        <target state="translated">Empresas</target>
       </trans-unit>
       <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85173" resname="app.header.mainSearchForm.term.placeholder" approved="yes">
         <source>app.header.mainSearchForm.term.placeholder</source>
-        <target state="translated">Palabra clave ej. freight</target>
+        <target state="translated">Palabra clave, por ej., freight</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder" approved="yes">
         <source>app.header.mainSearchForm.location.placeholder</source>

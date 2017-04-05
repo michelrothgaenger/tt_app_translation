@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target state="translated">Estoy de acuerdo</target>
+        <target state="translated">Estoy de acuerdo con los</target>
       </trans-unit>
       <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target state="translated">Términos y Condiciones Generales de Contratación</target>
+        <target state="translated">los Términos y Condiciones Generales de Contratación</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target state="translated">Correo electrónico</target>
+        <target state="translated">También puedes escribirnos al correo electrónico: info@transporttalent.com</target>
       </trans-unit>
       <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name" approved="yes">
         <source>app.company_name</source>

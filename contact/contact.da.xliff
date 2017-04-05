@@ -73,6 +73,10 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Din anmodning er blevet indsendt og vil blive taget i betragtning så hurtigt som muligt.</target>
       </trans-unit>
+    <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
+        <source>app.contact.meta.description</source>
+        <target state="translated">Transport Talent er den førende job og karriereportal indenfor transport- og logistikbranchen. Skriv til os hvis du ønsker hjælp til at komme videre med din karriere eller hvis din virksomhed har brug for hjælp til at finde de rigtige kandidater til jeres ledige stillinger.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -157,9 +157,9 @@
           <source>app.jobs.searchForm.unpublished</source>
           <target state="translated">Show unpublished</target>
         </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward">
+        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
           <source>app.reward</source>
-          <target>Reward</target>
+          <target state="translated">Reward</target>
         </trans-unit>
     </body>
   </file>

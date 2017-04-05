@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
-        <target state="translated">Guardado en el perfil</target>
+        <target state="translated">Guardado en tu perfil</target>
       </trans-unit>
       <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
-        <target state="translated">Guardar en tu perfil</target>
+        <target state="translated">Guardar en mi perfil</target>
       </trans-unit>
       <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
@@ -111,15 +111,15 @@
       </trans-unit>
       <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus" approved="yes">
         <source>app.job.section.left.savedStatus</source>
-        <target state="translated">Guardado en el perfil</target>
+        <target state="translated">Guardado en tu perfil</target>
       </trans-unit>
       <trans-unit id="0ae66cb2386defb5925830068c4a7ade" resname="app.job.section.left.nonSavedStatus" approved="yes">
         <source>app.job.section.left.nonSavedStatus</source>
-        <target state="translated">Guardar en tu perfil</target>
+        <target state="translated">Guardar en mi perfil</target>
       </trans-unit>
       <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
-        <target state="translated">Imprimir empleo</target>
+        <target state="translated">IMPRIMIR VACANTE</target>
       </trans-unit>
       <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle" approved="yes">
         <source>app.job.section.popup.linkedinButtonTitle</source>

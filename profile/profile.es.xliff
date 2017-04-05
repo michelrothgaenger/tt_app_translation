@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
-        <target state="translated">AQUI PUEDES VER TUS EMPRESAS GUARDADAS. AGREGA Y ELIMINA COMO PREFIERAS.</target>
+        <target state="translated">A CONTINUACIÓN VERÁS TUS EMPRESAS GUARDADAS.</target>
       </trans-unit>
       <trans-unit id="9c0cfdf74d56de16ebdb326d53ce2056" resname="app.view" approved="yes">
         <source>app.view</source>
@@ -691,7 +691,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Transport Talent te permite seguir a las principales empresas del transporte y la logística. Añade empresas a tu menú o elimínalas como desees.</target>
+        <target state="translated">Con Transport Talent ya puedes seguir a las principales empresas del sector transporte y logística. Añade o elimina empresas en tu perfil con un solo clic.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
@@ -739,7 +739,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
-        <target state="translated">Ayuda a tu red a conseguir trabajo y gana dinero</target>
+        <target state="translated">Ayuda a tu red de contactos a conseguir un empleo a través de Tranpot Talent y recibe tu honorario si la operación se lleva a cabo con éxito.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
@@ -943,15 +943,15 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
-        <target state="translated">Haz seguimiento a los compañías que más te interesen.</target>
+        <target state="translated">Sigue a las empresas de tu interés.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
-        <target state="translated">Mantén tu perfil actualizado y sé atractivo para los principales empleadores.</target>
+        <target state="translated">Mantén tu perfil actualizado y atractivo para los principales empleadores del sector.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Administrar la configuración de tu cuenta, por ejemplo dirección de correo electrónico y contraseña.</target>
+        <target state="translated">Administra tu cuenta en Transport Talent: Configura tus datos, actualiza tu dirección de correo o restablece tu contraseña.</target>
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
@@ -967,7 +967,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
-        <target state="translated">Administra tu perfil</target>
+        <target state="translated">Administra tus datos de acceso.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
@@ -995,7 +995,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel" approved="yes">
         <source>app.profile.settings.password.confirmationLabel</source>
-        <target state="translated">Repite Contraseña</target>
+        <target state="translated">Repite tu Contraseña</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle" approved="yes">
         <source>app.profile.settings.password.currentTitle</source>
@@ -1015,7 +1015,7 @@
       </trans-unit>
       <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title" approved="yes">
         <source>app.profile.settings.rescue.title</source>
-        <target state="translated">Proporciona una información de rescate</target>
+        <target state="translated">PROPORCIONA UNA INFORMACIÓN DE RESCATE DE TU CUENTA</target>
       </trans-unit>
       <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail" approved="yes">
         <source>app.profile.settings.rescue.1stEmail</source>
@@ -1023,7 +1023,7 @@
       </trans-unit>
       <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
-        <target state="translated">Opciones</target>
+        <target state="translated">Tu acceso</target>
       </trans-unit>
 
 
@@ -1049,7 +1049,7 @@
       </trans-unit>
       <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
         <source>app.profile.login.service.register</source>
-        <target state="translated">Registro</target>
+        <target state="translated">REGÍSTRATE</target>
       </trans-unit>
       <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title" approved="yes">
         <source>app.profile.settings.tab.general.title</source>

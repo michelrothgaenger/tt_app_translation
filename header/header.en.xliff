@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home">
+      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="yes">
         <source>app.home</source>
-        <target>Home</target>
+        <target state="translated">Home</target>
       </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01" resname="app.header.userSubmenu.profile" approved="yes">
         <source>app.header.userSubmenu.profile</source>
@@ -25,9 +25,9 @@
         <source>app.signIn</source>
         <target state="translated">Log in</target>
       </trans-unit>
-      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies">
+      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
         <source>app.findCompanies</source>
-        <target>Find companies</target>
+        <target state="translated">Find companies</target>
       </trans-unit>
       <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
         <source>app.findJobs</source>
@@ -41,93 +41,93 @@
         <source>app.forEmployers</source>
         <target state="translated">Employers</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="yes">
         <source>app.blog</source>
-        <target>Blog</target>
+        <target state="translated">Blog</target>
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85173" resname="app.header.mainSearchForm.term.placeholder" approved="yes">
         <source>app.header.mainSearchForm.term.placeholder</source>
         <target state="translated">Keyword e.g. freight</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder" approved="yes">
         <source>app.header.mainSearchForm.location.placeholder</source>
-        <target>Location</target>
+        <target state="translated">Location</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton" approved="yes">
         <source>app.header.mainSearchForm.searchButton</source>
-        <target>Search</target>
+        <target state="translated">Search</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs" approved="yes">
         <source>app.header.userSubmenu.savedJobs</source>
-        <target>Saved Jobs</target>
+        <target state="translated">Saved Jobs</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies" approved="yes">
         <source>app.header.userSubmenu.savedCompanies</source>
-        <target>Saved Companies</target>
+        <target state="translated">Saved Companies</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="yes">
         <source>app.header.userSubmenu.alerts</source>
-        <target>Job Alerts</target>
+        <target state="translated">Job Alerts</target>
       </trans-unit>
-      <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle">
+      <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle" approved="yes">
         <source>app.header.section.navigate.menuTitle</source>
-        <target>Menu</target>
+        <target state="translated">Menu</target>
       </trans-unit>
-      <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label">
+      <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label" approved="yes">
         <source>app.header.searchForm.label</source>
-        <target>Search Jobs</target>
+        <target state="translated">Search Jobs</target>
       </trans-unit>
-      <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder">
+      <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder" approved="yes">
         <source>app.header.searchForm.termPlaceholder</source>
-        <target>e.g. Coordinator</target>
+        <target state="translated">e.g. Coordinator</target>
       </trans-unit>
-      <trans-unit id="5081f721787143918e8b3571a4176b50" resname="app.header.searchForm.locationPlaceholder">
+      <trans-unit id="5081f721787143918e8b3571a4176b50" resname="app.header.searchForm.locationPlaceholder" approved="yes">
         <source>app.header.searchForm.locationPlaceholder</source>
-        <target>e.g. Hamburg, Germany</target>
+        <target state="translated">e.g. Hamburg, Germany</target>
       </trans-unit>
-      <trans-unit id="802d0d39e09b422b9428ceac2ddb82bd" resname="app.header.searchForm.submitValue">
+      <trans-unit id="802d0d39e09b422b9428ceac2ddb82bd" resname="app.header.searchForm.submitValue" approved="yes">
         <source>app.header.searchForm.submitValue</source>
-        <target>SEARCH</target>
+        <target state="translated">SEARCH</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel" approved="yes">
         <source>app.header.language.selectLabel</source>
-        <target>Select language</target>
+        <target state="translated">Select language</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b60" resname="app.header.userSubmenu.dashboard">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b60" resname="app.header.userSubmenu.dashboard" approved="yes">
         <source>app.header.userSubmenu.dashboard</source>
-        <target>Dashboard</target>
+        <target state="translated">Dashboard</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.settings">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.settings" approved="yes">
         <source>app.header.userSubmenu.settings</source>
-        <target>Settings</target>
+        <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.referrals">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.referrals" approved="yes">
         <source>app.header.userSubmenu.referrals</source>
-        <target>Referrals</target>
+        <target state="translated">Referrals</target>
       </trans-unit>
-      <trans-unit id="160d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.jobs">
+      <trans-unit id="160d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.jobs" approved="yes">
         <source>app.header.userSubmenu.jobs</source>
-        <target>Jobs</target>
+        <target state="translated">Jobs</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies" approved="yes">
         <source>app.header.userSidemenu.companies</source>
-        <target>Companies</target>
+        <target state="translated">Companies</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab81" resname="app.header.userSubmenu.services">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab81" resname="app.header.userSubmenu.services" approved="yes">
         <source>app.header.userSubmenu.services</source>
-        <target>Services</target>
+        <target state="translated">Services</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="yes">
         <source>app.header.userSubmenu.jobPostings</source>
-        <target>Job postings</target>
+        <target state="translated">Job postings</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
         <source>app.header.userSubmenu.hiringSolutions</source>
         <target state="translated">Recruitment Solutions</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs" approved="yes">
         <source>app.header.userSubmenu.manageJobs</source>
-        <target>Manage jobs</target>
+        <target state="translated">Manage jobs</target>
       </trans-unit>
     </body>
   </file>

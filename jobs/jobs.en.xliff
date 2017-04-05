@@ -77,9 +77,9 @@
         <source>app.jobs.searchForm.referrals</source>
         <target state="translated">Show referrals</target>
       </trans-unit>
-      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel">
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel" approved="yes">
         <source>app.jobs.createJobAlertButtonLabel</source>
-        <target>CREATE JOB ALERT</target>
+        <target state="translated">CREATE JOB ALERT</target>
       </trans-unit>
     </body>
   </file>

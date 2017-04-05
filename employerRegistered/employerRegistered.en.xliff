@@ -9,9 +9,9 @@
         <source>app.registeredTitle</source>
         <target state="translated">Thank you for registering at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg">
+      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>
-        <target>Thank you, %firstName%! We will get back to you soon.</target>
+        <target state="translated">Thank you, %firstName%! We will get back to you soon.</target>
       </trans-unit>
     </body>
   </file>

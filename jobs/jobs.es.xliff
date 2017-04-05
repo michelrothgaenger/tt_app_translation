@@ -39,11 +39,11 @@
       </trans-unit>
       <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound" approved="yes">
         <source>app.noJobsFound</source>
-        <target state="translated">Ningún empleo encontrado</target>
+        <target state="translated">Ninguna vacante de empleo encontrada.</target>
       </trans-unit>
     <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>
-        <target state="translated">Palabra clave ej. freight</target>
+        <target state="translated">Palabra clave, por ej., freight</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3996" resname="app.jobs.searchForm.filterTitle" approved="yes">
         <source>app.jobs.searchForm.filterTitle</source>
@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel" approved="yes">
         <source>app.jobs.createJobAlertButtonLabel</source>
-        <target state="translated">Crear una alerta de empleo</target>
+        <target state="translated">CREA UNA ALERTA</target>
       </trans-unit>
     </body>
   </file>

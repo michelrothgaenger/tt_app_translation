@@ -27,15 +27,15 @@
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
-        <target state="translated">Guardado en el perfil</target>
+        <target state="translated">Guardado en tu perfil</target>
       </trans-unit>
       <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
-        <target state="translated">Guardar en el perfil</target>
+        <target state="translated">Guardar en mi perfil</target>
       </trans-unit>
       <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
-        <target state="translated">Ofrecido a ti exclusivamente por</target>
+        <target state="translated">Te lo ofrece exclusivamente</target>
       </trans-unit>
       <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title" approved="yes">
         <source>app.job.section.main.title</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="1ff1545de3de9327b327f069fee94eb0" resname="app.job.section.main.openMapLinkTitle" approved="yes">
         <source>app.job.section.main.openMapLinkTitle</source>
-        <target state="translated">Mirar el mapa</target>
+        <target state="translated">Ver mapa</target>
       </trans-unit>
       <trans-unit id="e6479c1be0073526f728437442e0ad9d" resname="app.section.main.applyButtonTitle" approved="yes">
         <source>app.section.main.applyButtonTitle</source>
@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
-        <target state="translated">Ver más empleos en</target>
+        <target state="translated">VER MÁS VACANTES DE</target>
       </trans-unit>
       <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs" approved="yes">
         <source>app.section.left.headlineSimilarJobs</source>
@@ -99,19 +99,19 @@
       </trans-unit>
       <trans-unit id="f3cd81f9d260ccb3d7b9fb0db434e82b" resname="app.section.left.linkSimilarJobsTitle" approved="yes">
         <source>app.section.left.linkSimilarJobsTitle</source>
-        <target state="translated">Enseñame más trabajos como éste</target>
+        <target state="translated">ENSÉÑAME MÁS VACANTES COMO ÉSTA</target>
       </trans-unit>
       <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus" approved="yes">
         <source>app.job.section.left.savedStatus</source>
-        <target state="translated">Guardado en el perfil</target>
+        <target state="translated">Guardado en tu perfil</target>
       </trans-unit>
       <trans-unit id="0ae66cb2386defb5925830068c4a7ade" resname="app.job.section.left.nonSavedStatus" approved="yes">
         <source>app.job.section.left.nonSavedStatus</source>
-        <target state="translated">Guardar en el perfil</target>
+        <target state="translated">Guardar en mi perfil</target>
       </trans-unit>
       <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
-        <target state="translated">Imprimir empleo</target>
+        <target state="translated">IMPRIMIR VACANTE</target>
       </trans-unit>
       <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle" approved="yes">
         <source>app.job.section.popup.linkedinButtonTitle</source>
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="80d3b156e2ad47789fd5e3834597ceae" resname="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleSecondPart</source>
-        <target state="translated">Cerrar esta ventana.</target>
+        <target state="translated">Cerrar esta ventana</target>
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
-        <target state="translated">Esta vacante es de %company_name%. Vamos a redirigirte a la página web de la empresa para completar el proceso de solicitud.</target>
+        <target state="translated">Esta vacante es de %company_name%. Vamos a redirigirte a su página web para completar el proceso de solicitud.</target>
       </trans-unit>
       <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>

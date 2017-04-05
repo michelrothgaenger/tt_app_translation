@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="e539d5e0a4f8c3f1e1049c46a99aeb6f" resname="app.loginHeadline" approved="yes">
         <source>app.loginHeadline</source>
-        <target state="translated">Bienvenido/a de nuevo</target>
+        <target state="translated">Hola de nuevo</target>
       </trans-unit>
       <trans-unit id="dcd0f7385fd76832f1dc210acb0e0d8d" resname="app.loginCta" approved="yes">
         <source>app.loginCta</source>
-        <target state="translated">Añadimos nuevas vacantes cada día. Inicia tu sesión y empieza a buscar.</target>
+        <target state="translated">Añadimos nuevas vacantes cada día. Inicia sesión y empieza a buscar.</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
-        <target state="translated">¿Aún no estás registrado? Haz un click aquí y regístrate.</target>
+        <target state="translated">¿Aún no estás registrado? Haz click aquí y regístrate.</target>
       </trans-unit>
     </body>
   </file>

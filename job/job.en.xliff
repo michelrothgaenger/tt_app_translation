@@ -250,53 +250,53 @@
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Save job and go to profile</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle" approved="yes">
         <source>app.section.main.referralButtonTitle</source>
         <target state="translated">Recommend</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title" approved="yes">
         <source>app.job.popup.referral.title</source>
-        <target>Recommend</target>
+        <target state="translated">Recommend</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description" approved="yes">
         <source>app.job.popup.refrral.description</source>
-        <target>Recommend this job and earn money</target>
+        <target state="translated">Recommend this job and earn money</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
         <source>app.job.popup.referral.reward</source>
-        <target>Reward</target>
+        <target state="translated">Reward</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
         <source>app.job.popup.referral.shareOn</source>
-        <target>Share this on</target>
+        <target state="translated">Share this on</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
         <source>app.job.popup.referral.copy</source>
-        <target>Copy</target>
+        <target state="translated">Copy</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
         <source>app.job.popup.referral.gooLuck</source>
-        <target>Good luck to you!</target>
+        <target state="translated">Good luck to you!</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
         <source>app.job.popup.referral.linkToReferrals</source>
-        <target>Here you will find this and all the other referral you have made.</target>
+        <target state="translated">Here you will find this and all the other referral you have made.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>
-        <target>Hi, checkout job "%title%".</target>
+        <target state="translated">Hi, checkout job "%title%".</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
         <source>app.job.referral.readMore</source>
-        <target>Read more</target>
+        <target state="translated">Read more</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess" approved="yes">
         <source>app.job.referral.readLess</source>
-        <target>Read less</target>
+        <target state="translated">Read less</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
         <source>app.job.referral.explanationTitle</source>
-        <target>Connect your friends to jobs, earn %reward% %currency% and recognition</target>
+        <target state="translated">Connect your friends to jobs, earn %reward% %currency% and recognition</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>

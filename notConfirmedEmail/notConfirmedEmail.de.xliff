@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.notConfirmedEmail.subject" approved="yes">
         <source>app.notConfirmedEmail.subject</source>
-        <target state="translated">Your account is still not confirmed</target>
+        <target state="translated">Ihr Nutzerkonto wurde noch nicht bestätigt</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.notConfirmedEmail" approved="yes">
         <source>app.notConfirmedEmail</source>
-        <target state="translated">Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your acc using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Hallo %title% %lastname%,&lt;br&gt;&lt;br&gt; bitte bestätigen Sie Ihr Nutzerkonto bei Transport Talent über folgenden Link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen&lt;br&gt;&lt;br&gt;Ihr Transport-Talent-Team</target>
       </trans-unit>
     <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" approved="no" restype="x-gettext-domain-header"><ns0:source/><ns0:target state="translated">Project-Id-Version: PACKAGE VERSION
 Report-Msgid-Bugs-To: 
@@ -32,6 +32,30 @@ PO-Revision-Date: 2017-04-05 14:08+0000
 Last-Translator: Weblate Admin &lt;admin@example.com&gt;
 Language-Team: English &lt;http://wl.transporttalent.com/projects/transport-talent/notconfirmedemail/en/&gt;
 Language: en
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: ENCODING
+Plural-Forms: nplurals=2; plural=n != 1;
+X-Generator: Weblate 2.13-dev
+</ns0:target></ns0:trans-unit><ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" approved="no" restype="x-gettext-domain-header"><ns0:source/><ns0:target state="translated">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2017-04-05 16:13+0200
+PO-Revision-Date: 2017-04-05 14:13+0000
+Last-Translator: Svenja &lt;svenja.steckstor@transporttalent.com&gt;
+Language-Team: German &lt;http://wl.transporttalent.com/projects/transport-talent/notconfirmedemail/de/&gt;
+Language: de
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: ENCODING
+Plural-Forms: nplurals=2; plural=n != 1;
+X-Generator: Weblate 2.13-dev
+</ns0:target></ns0:trans-unit><ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" approved="no" restype="x-gettext-domain-header"><ns0:source></ns0:source><ns0:target state="translated">Project-Id-Version: PACKAGE VERSION
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2017-04-05 16:15+0200
+PO-Revision-Date: 2017-04-05 14:15+0000
+Last-Translator: Svenja &lt;svenja.steckstor@transporttalent.com&gt;
+Language-Team: German &lt;http://wl.transporttalent.com/projects/transport-talent/notconfirmedemail/de/&gt;
+Language: de
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: ENCODING

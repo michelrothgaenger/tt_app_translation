@@ -49,9 +49,9 @@
         <source>app.employer.button.savedToProfile</source>
         <target state="translated">Nicht mehr folgen</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="no">
         <source>app.employer.info.jobsOnline.title</source>
-        <target state="translated">Jobs online</target>
+        <target state="needs-translation">Jobs online</target>
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>

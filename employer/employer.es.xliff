@@ -9,9 +9,9 @@
         <source>app.companyProfile</source>
         <target state="translated">Perfil de empresa</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="no">
         <source>app.employerInformation</source>
-        <target state="translated">Información de empresa</target>
+        <target state="needs-translation">Información del empleador</target>
       </trans-unit>
       <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
-        <target state="translated">Actividades principales</target>
+        <target state="translated">Actividad principal</target>
       </trans-unit>
       <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>
-        <target state="translated">Actualmente hay %count% vacantes en %company%</target>
+        <target state="translated">Actualmente hay %count% vacante en %company%|Actualmente hay %count% vacantes en %company%</target>
       </trans-unit>
     </body>
   </file>

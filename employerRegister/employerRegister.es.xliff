@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="no">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="needs-translation">Registrarse</target>
+        <target state="translated">Registrarse</target>
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage" approved="no">
         <source>app.metaDescriptionEmployerRegisterPage</source>

@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
-        <target state="translated">Mándanos un correo electrónico para obtener más información</target>
+        <target state="translated">Envíanos un correo electrónico para obtener más información</target>
       </trans-unit>
       <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
@@ -71,7 +71,11 @@
       </trans-unit>
       <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
-        <target state="translated">Tu solicitud ha sido transmitida con éxito y será atendida lo antes posible.</target>
+        <target state="translated">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
+      </trans-unit>
+    <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
+        <source>app.contact.meta.description</source>
+        <target state="translated">Transport Talent es el portal de empleo líder en el sector del transporte y la logística. Póngase en contacto con nosotros si desea dar el próximo salto en su carrera o si cree que podemos ayudarle a encontrar los mejores talentos en su proceso de contratación.</target>
       </trans-unit>
     </body>
   </file>

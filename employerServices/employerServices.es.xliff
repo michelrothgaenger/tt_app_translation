@@ -13,21 +13,21 @@
         <source>app.metaDescriptionServicesPage</source>
         <target state="translated">Encuentre los mejores candidatos para su empresa</target>
       </trans-unit>
-      <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
+      <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="no">
         <source>app.employerService.header</source>
-        <target state="translated">Job posting made easy</target>
+        <target state="needs-translation">Llega a la audiencia que buscas</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
-        <target state="translated">Publique sus vacantes en Transport Talent y conéctese a la más amplia red de candidatos del sector transporte y logística. Y no solo en nuestra web: Transport Talent promocionará cada una de sus oferta de trabajo en sus canales y redes sociales para obtener la máxima difusión y alcance de su anuncio.</target>
+        <target state="translated">Publique sus vacantes en Transport Talent y entre en contacto con la más amplia y pujante red de candidatos del sector transporte y logística. Además, Transport Talent promocionará cada una de sus vacantes en nuestros canales y redes sociales para obtener la máxima difusión y alcance.</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="yes">
         <source>app.employerService.section.singleJobPost.header</source>
-        <target state="translated">Simple Pricing</target>
+        <target state="translated">Elija su tarifa</target>
       </trans-unit>
       <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="yes">
         <source>app.employerService.section.singleJobPost.description</source>
-        <target state="translated">Nuestro sencillo modelo de tarifas fijas es fácil de entender y previsible. Sin costes ocultos. Sin sorpresas.</target>
+        <target state="translated">Elija la tarifa que mejor se adapte a sus necesidades y publique todas sus vacantes por un coste fijo mensual.</target>
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2</source>

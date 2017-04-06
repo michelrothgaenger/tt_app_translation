@@ -5,10 +5,6 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
-        <source>app.jobs</source>
-        <target>Θέσεις εργασίας</target>
-      </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aecd0" resname="app.profile">
         <source>app.profile</source>
         <target>Λογαριασμός</target>

@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
-        <target state="translated">Tu mensaje ha sido enviado. Nos pondremos en contacto contigo lo antes posible.</target>
+        <target state="translated">Tu mensaje ha sido enviado. Nos pondremos en contacto contigo en breve.</target>
       </trans-unit>
       <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
@@ -69,9 +69,9 @@
         <source>app.contact.page.confirm.h1</source>
         <target state="translated">Gracias %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
+      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="no">
         <source>app.contact.page.confirm.description</source>
-        <target state="translated">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
+        <target state="needs-translation">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
       </trans-unit>
     <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
         <source>app.contact.meta.description</source>

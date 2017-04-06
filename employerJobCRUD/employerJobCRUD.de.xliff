@@ -21,13 +21,9 @@
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target state="translated">Abbrechen und zurück zur Liste</target>
       </trans-unit>
-      <trans-unit id="32d746f64e514fcbbc3731e4395b1a13" resname="app.employerJobEdit.info.title" approved="yes">
-        <source>app.employerJobEdit.info.title</source>
+      <trans-unit id="32d746f64e514fcbbc3731e4395b1a13" resname="app.employerJobEdit.info.postTitle" approved="yes">
+        <source>app.employerJobEdit.info.postTitle</source>
         <target state="translated">Stellenanzeigen</target>
-      </trans-unit>
-      <trans-unit id="d8d8ad649fb240ff8a874f7420cabc4f" resname="app.employerJobEdit.info.description">
-        <source>app.employerJobEdit.info.description</source>
-        <target/>
       </trans-unit>
       <trans-unit id="5158e8e600ef4dc38be50a88e254748d" resname="app.employerJobEdit.info.jobId" approved="yes">
         <source>app.employerJobEdit.info.jobId</source>

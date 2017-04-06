@@ -21,10 +21,6 @@
         <source>app.employerLoginCta</source>
         <target state="translated">Nếu Ngài đã có tài khoản, xin vui lòng tiếp tục.</target>
       </trans-unit>
-      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username" approved="yes">
-        <source>security.login.username</source>
-        <target state="translated">Tên tài khoản</target>
-      </trans-unit>
       <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Mật khẩu</target>

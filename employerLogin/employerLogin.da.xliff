@@ -21,10 +21,6 @@
         <source>app.employerLoginCta</source>
         <target state="translated">Hvis du allerede har en konto kan du blot fortsætte.</target>
       </trans-unit>
-      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username">
-        <source>security.login.username</source>
-        <target>Brugernavn</target>
-      </trans-unit>
       <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Adgangskode</target>

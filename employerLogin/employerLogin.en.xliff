@@ -21,9 +21,9 @@
         <source>app.employerLoginCta</source>
         <target state="translated">If you already have an account please proceed.</target>
       </trans-unit>
-      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username" approved="yes">
-        <source>security.login.username</source>
-        <target state="translated">Username</target>
+      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="app.employerLogin.email.placeholder" approved="yes">
+        <source>app.employerLogin.email.placeholder</source>
+        <target state="translated">Email</target>
       </trans-unit>
       <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>

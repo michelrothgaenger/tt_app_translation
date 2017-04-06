@@ -21,10 +21,6 @@
         <source>app.employerLoginCta</source>
         <target state="translated">Si ya tienes una cuenta, continua por favor.</target>
       </trans-unit>
-      <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="security.login.username" approved="yes">
-        <source>security.login.username</source>
-        <target state="translated">Nombre de usuario</target>
-      </trans-unit>
       <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Contraseña</target>

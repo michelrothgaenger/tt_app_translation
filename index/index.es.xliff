@@ -25,9 +25,9 @@
         <source>app.searchFeaturedJobs</source>
         <target state="translated">Buscar empleos destacados</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="no">
         <source>app.companyProfiles</source>
-        <target state="translated">Seguir empresas</target>
+        <target state="needs-translation">Sigue a las empresas</target>
       </trans-unit>
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>

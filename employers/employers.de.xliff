@@ -25,9 +25,9 @@
         <source>app.employers.various</source>
         <target state="translated">Diverse</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.employers.company.jobsOnline" approved="yes">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.employers.company.jobsOnline" approved="no">
         <source>app.employers.company.jobsOnline</source>
-        <target state="translated">%count% Job online|%count% Jobs online</target>
+        <target state="needs-translation">%count% Job online|%count% Jobs online</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143112" resname="app.employers.button.companySave" approved="yes">
         <source>app.employers.button.companySave</source>

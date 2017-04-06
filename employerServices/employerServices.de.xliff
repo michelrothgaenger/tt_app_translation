@@ -57,9 +57,9 @@
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
         <target state="translated">&lt;span&gt;EUR/Monat*&lt;br&gt;(Jahresvertrag)&lt;/span&gt;</target>
       </trans-unit>
-      <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
+      <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="no">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
-        <target state="translated">Unlimited</target>
+        <target state="needs-translation">Unlimited</target>
       </trans-unit>
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf1e" resname="app.employerService.section.singleJobPost.unlimitedPositonsDescription" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsDescription</source>

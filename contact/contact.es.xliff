@@ -69,9 +69,9 @@
         <source>app.contact.page.confirm.h1</source>
         <target state="translated">Gracias %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="no">
+      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
-        <target state="needs-translation">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
+        <target state="translated">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
       </trans-unit>
     <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
         <source>app.contact.meta.description</source>

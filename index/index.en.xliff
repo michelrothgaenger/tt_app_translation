@@ -41,6 +41,38 @@
         <source>app.index.jobs.description</source>
         <target state="translated">See who’s hiring today</target>
       </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title">
+        <source>app.index.signupCTA.candidates.title</source>
+        <target>Candidates</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle">
+        <source>app.index.signupCTA.candidates.ctaTitle</source>
+        <target>Get personalized job alerts</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription">
+        <source>app.index.signupCTA.candidates.ctaDescription</source>
+        <target>Fill out our 4-minute career profile, and get personalized job alerts in your inbox from companies working on social, environmental, and cultural innovation. No fluff - we'll only send job opportunities that are relevant to you, personally curated by our team.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button">
+        <source>app.index.signupCTA.candidates.button</source>
+        <target>I want to get hired</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title">
+        <source>app.index.signupCTA.employers.title</source>
+        <target>Employers</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle">
+        <source>app.index.signupCTA.employers.ctaTitle</source>
+        <target>Connect with top candidates</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription">
+        <source>app.index.signupCTA.employers.ctaDescription</source>
+        <target>Your time is valuable, and you should be spending it connecting with highly-vetted finalists. We launch your search, manage all communication with candidates, and guarantee a final list of 3-6 people that match your ideal candidate profile within 6 weeks.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button">
+        <source>app.index.signupCTA.employers.button</source>
+        <target>I want to hire</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

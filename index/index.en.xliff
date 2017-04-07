@@ -49,9 +49,9 @@
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target>Get personalized job alerts</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
-        <target>Fill out our 4-minute career profile, and get personalized job alerts in your inbox from companies working on social, environmental, and cultural innovation. No fluff - we'll only send job opportunities that are relevant to you, personally curated by our team.</target>
+        <target state="translated">Fill out our 4-minute career profile, and get personalized job alerts in your inbox. No fluff - we'll only send you job opportunities that are relevant to you, personally curated by our team.</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button">
         <source>app.index.signupCTA.candidates.button</source>

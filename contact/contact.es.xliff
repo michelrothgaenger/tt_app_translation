@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location" approved="yes">
         <source>app.contact.section.offices.location</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;España:&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Paseo de Castellana 40, 8ª Planta&lt;/div&gt;&lt;div&gt;28046 Madrid&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dinamarca:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Kronprinsessegade 46E&lt;/div&gt;&lt;div&gt;DK-1306 Copenhagen&lt;/div&gt;</target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;España:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Paseo de Castellana 40, 8ª Planta&lt;/div&gt;&lt;div&gt;28046 Madrid&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Dinamarca:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Kronprinsessegade 46E&lt;/div&gt;&lt;div&gt;DK-1306 Copenhagen&lt;/div&gt;</target>
       </trans-unit>
       <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
@@ -69,9 +69,9 @@
         <source>app.contact.page.confirm.h1</source>
         <target state="translated">Gracias %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="no">
+      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
-        <target state="needs-translation">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
+        <target state="translated">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
       </trans-unit>
     <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
         <source>app.contact.meta.description</source>

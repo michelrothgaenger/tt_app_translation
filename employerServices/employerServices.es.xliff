@@ -153,29 +153,29 @@
         <source>app.employerService.popup.input.confirmCost</source>
         <target state="needs-translation">Acepto la tarifa de</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047562" resname="app.employerService.popup.input.invoiceAdress" approved="no">
+      <trans-unit id="953f4dde2c9e4c46934f27d72f047562" resname="app.employerService.popup.input.invoiceAdress" approved="yes">
         <source>app.employerService.popup.input.invoiceAdress</source>
-        <target state="needs-translation">Destinatario de la factura</target>
+        <target state="translated">Factura a nombre de</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047002" resname="app.employerService.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">Sus vacantes se publican en TranportTalent.com para nuestra audiencia global. Nuestra tarifa BASIC tiene un límite de 10 publicaciones anuales. Los packs ADVANCED y ENTERPRISE son ilimitados.</target>
+        <target state="translated">Sus vacantes se publican en TranportTalent.com y son vistos por candidatos en todo el mundo. Nuestra tarifa BASIC tiene un límite de 10 publicaciones anuales. Los packs ADVANCED y ENTERPRISE son ilimitados.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047003" resname="app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Presente a su empresa por medio del Perfil de Empresa y haga así sus anuncios aún más atractivos para el público</target>
+        <target state="translated">Al crear su Perfil de Empresa, éste aparecerá junto a sus vacantes completando la información contenida en su anuncio</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">Creamos un enlace directo en su propio Portal de Empleo o en su aplicación ATS de modo que sus anuncios aparezcan publicados automáticamente en transporttalent.com.</target>
+        <target state="translated">Creamos un enlace directo en su propio Portal de Empleo o en su aplicación ATS de modo que sus anuncios aparezcan publicados automáticamente en TransportTalent.com</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Publicamos todas sus vacantes en nuestros canales y redes sociales (Facebook y Twitter).</target>
+        <target state="translated">Publicamos todas sus vacantes en nuestros canales y redes sociales (Facebook y Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
-        <target state="translated">Anunciamos su vacante por correo electrónico directo a los candidatos más interesantes y cuyo perfil coincida con los requerimientos de su oferta de empleo.</target>
+        <target state="translated">Contactamos directamente via correo electrónico con los candidatos cuyo perfil coincida con los requerimientos de su oferta de empleo</target>
       </trans-unit>
       <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title" approved="yes">
         <source>app.employerService.hiringSolutions.left.title</source>
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="yes">
         <source>app.employerService.hiringSolutions.left.descr</source>
-        <target state="translated">Nosotros nos ocupamos de sus necesidades de reclutamiento para que usted pueda atender a su negocio.</target>
+        <target state="translated">Déjelo en nuestras manos: Nos ocupamos de su proceso de reclutamiento inicial para que usted pueda centrarse en atender a su negocio</target>
       </trans-unit>
       <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn" approved="yes">
         <source>app.employerService.hiringSolutions.left.btn</source>
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="no">
               <source>app.employerService.h1</source>
-              <target state="needs-translation">Job Posting Solutions</target>
+              <target state="needs-translation">Soluciones de Contratación</target>
           </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047015" resname="app.employerService.subheadline" approved="yes">
           <source>app.employerService.subheadline</source>

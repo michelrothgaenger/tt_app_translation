@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target state="translated">Garantizamos que tus datos están seguros, si inicias la sesión con Transport Talent.</target>
+        <target state="translated">Al acceder a TransportTalent con su clave de acceso garantizamos que sus datos están seguros.</target>
       </trans-unit>
       <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="yes">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="83ebc9c3548796961f42eafdf53b8f5c" resname="app.transportTalentMaySetAndAccessCookiesOnYourComputer" approved="yes">
         <source>app.transportTalentMaySetAndAccessCookiesOnYourComputer</source>
-        <target state="translated">TransportTalent puede establecer y acceder a las cookies en el ordenador de un usario. Una cookie es una pequeño paquete de datos, que a menudo incluye un identificador único anónimo, el cual se envía al navegador desde un sitio web y se almacena en el disco duro de su ordenador. Cada sitio web puede enviar sus propias cookies al navegador si la configuración de preferencias del mismo lo permite. Para proteger la privacidad del usuario, el navegador solo permitirá que un sitio web tenga acceso a las cookies que ya le han enviado. El usuario puede elegir si acepta o no las cookies.  En caso dei no aceptar las cookies de TransportTalent, es posible que algunos de nuestros servicios no estén disponibles para el mismo.</target>
+        <target state="translated">TransportTalent puede establecer y acceder a las cookies en el ordenador de un usuario. Una cookie es una pequeño paquete de datos, que a menudo incluye un identificador único anónimo, el cual se envía al navegador desde un sitio web y se almacena en el disco duro de su ordenador. Cada sitio web puede enviar sus propias cookies al navegador si la configuración de preferencias del mismo lo permite. Para proteger la privacidad del usuario, el navegador solo permitirá que un sitio web tenga acceso a las cookies que ya le han enviado. El usuario puede elegir si acepta o no las cookies.  En caso dei no aceptar las cookies de TransportTalent, es posible que algunos de nuestros servicios no estén disponibles para el mismo.</target>
       </trans-unit>
       <trans-unit id="f14578af892f26eb30247918a05863d0" resname="app.transportTalentUsesGoogleAnalyticsTaggingToCollectDataOnWebsiteActivity" approved="yes">
         <source>app.transportTalentUsesGoogleAnalyticsTaggingToCollectDataOnWebsiteActivity</source>
@@ -75,11 +75,11 @@
       </trans-unit>
       <trans-unit id="912003ecccc42b9a1b38dd1c728eedfb" resname="app.whenYouRegisterWithTransportTalentUploadCv" approved="yes">
         <source>app.whenYouRegisterWithTransportTalentUploadCv</source>
-        <target state="translated">Cuando te registras en TransportTalent, subes un CV, configuras una alerta de trabajo, entras en una competición o compras un producto o servicio, te pedimos información personal como tu nombre, fecha de nacimiento, datos de contacto y otros detalles. Una vez que te registras en TransportTalent y aceptas nuestros Términos y Condiciones, no eres anónimo para nosotros. Podemos utilizar la información que nos proporcionas para informarte sobre nuestros propios productos y servicios, y podemos comunicarnos contigo para informarte de cambios en el sitio o en los productos o servicios de TransportTalent que utilices.</target>
+        <target state="translated">Cuando se registra en TransportTalent, sube un CV, configura una alerta de trabajo, entra en una competición o compra un producto o servicio, le pedimos información personal como su nombre, fecha de nacimiento, sus datos de contacto y otros detalles. Una vez que se registra en TransportTalent y acepta nuestros Términos y Condiciones, no es anónimo para nosotros. Podemos utilizar la información que nos proporciona para informarle sobre nuestros propios productos y servicios, y podemos comunicarnos con usted para informarle de cambios en el sitio o en los productos o servicios de TransportTalent que utilice.</target>
       </trans-unit>
       <trans-unit id="16e2a226a858c86554b136deb712ff17" resname="app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent" approved="yes">
         <source>app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent</source>
-        <target state="translated">No revelamos información sobre sus visitas individuales al sitio web de Transport Talent, o información personal que nos proporciones, como nombre y datos de contacto personales, a menos que nos haya dado su permiso o creamos que la ley lo requiere. Podemos guardar y compartir información agregada con nuestros clientes. Además, si ingresa su información en una página de registro de marca compartida o en una página de solicitud de trabajo, por ejemplo, una página de registro de empresa como cliente de TransportTalent, la información que proporciona se convierte en propiedad de TransportTalent y del cliente. TransportTalent no se hace responsable de la información que el cliente recibe.</target>
+        <target state="translated">No revelamos información sobre sus visitas individuales al sitio web de Transport Talent, o información personal que nos proporcione, como nombre y datos de contacto personales, a menos que nos haya dado su permiso o creamos que la ley lo requiere. Podemos guardar y compartir información agregada con nuestros clientes. Además, si ingresa su información en una página de registro de marca compartida o en una página de solicitud de trabajo, por ejemplo, una página de registro de empresa como cliente de TransportTalent, la información que proporciona se convierte en propiedad de TransportTalent y del cliente. TransportTalent no se hace responsable de la información que el cliente recibe.</target>
       </trans-unit>
       <trans-unit id="9f42344e2ed2b3d0fb47dde3569a8363" resname="app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou" approved="yes">
         <source>app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou</source>
@@ -103,15 +103,15 @@
       </trans-unit>
       <trans-unit id="5ba525f1fcfe63e6aa4c5ff19419e134" resname="app.youMayAmendYourPersonalDetailsAtAnyTimeIfYouWish" approved="yes">
         <source>app.youMayAmendYourPersonalDetailsAtAnyTimeIfYouWish</source>
-        <target state="translated">Puedes corregir tus datos personales siempre que lo desees. Lo puedes hacer en "mi perfil" en nuestra página web.</target>
+        <target state="translated">Puede modificar sus datos personales siempre que lo desee accediendo a "mi perfil" en nuestra web.</target>
       </trans-unit>
       <trans-unit id="33c003961ba2d55ab43767748ddb8689" resname="app.youMayUnsubscribeFromAnyEmploymentOrPromotionalInformation" approved="yes">
         <source>app.youMayUnsubscribeFromAnyEmploymentOrPromotionalInformation</source>
-        <target state="translated">Puedes darte de baja de una vacante o de la información promocional que te enviamos:</target>
+        <target state="translated">Puede darse de baja de una vacante o de la información promocional que le enviamos:</target>
       </trans-unit>
       <trans-unit id="8cf0d6d912b08de29c451c0b4a446544" resname="app.usingTheUnsubscribeFunctionAtTheBottomOfTheEmail" approved="yes">
         <source>app.usingTheUnsubscribeFunctionAtTheBottomOfTheEmail</source>
-        <target state="translated">1. Usando la función "dar de baja" al pie del correo electrónico que te enviemos;</target>
+        <target state="translated">1. Usando la función "dar de baja" al pie del correo electrónico que le enviemos;</target>
       </trans-unit>
       <trans-unit id="1ffa9dff003ffc94dec6183a16b1dcca" resname="app.amendingYourAccountDetailsInMyProfilePage" approved="yes">
         <source>app.amendingYourAccountDetailsInMyProfilePage</source>
@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target state="translated">Si tienes cualquier pregunta, duda o quieres hacer un comentario sobre TransportTalent o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
+        <target state="translated">Si tiene cualquier duda o desea hacer un comentario sobre TransportTalent o sobre nuestra web, le rogamos que nos lo comunique a:</target>
       </trans-unit>
       <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>

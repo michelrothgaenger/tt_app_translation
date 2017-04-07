@@ -154,9 +154,9 @@
           <source>app.profile.employer.job.add</source>
           <target state="translated">Añadir vacante</target>
         </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished" approved="no">
+        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished" approved="yes">
           <source>app.jobs.searchForm.unpublished</source>
-          <target state="needs-translation">Mostrar las no publicadas</target>
+          <target state="translated">Mostrar las no publicadas</target>
         </trans-unit>
     </body>
   </file>

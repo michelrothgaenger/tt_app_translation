@@ -5,49 +5,49 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved" approved="yes">
           <source>app.flash.companyUnsaved</source>
-          <target>Company has been removed from profile</target>
+          <target state="translated">La empresa ha sido eliminada del perfil</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved" approved="yes">
           <source>app.flash.companySaved</source>
-          <target>Company has been saved to profile</target>
+          <target state="translated">La empresa ha sido guardada en el perfil</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved" approved="yes">
           <source>app.flash.jobUnsaved</source>
-          <target>Job has been removed from profile</target>
+          <target state="translated">La vacante ha sido eliminada del perfil</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved" approved="yes">
           <source>app.flash.jobSaved</source>
-          <target>Job has been saved to profile</target>
+          <target state="translated">La vacante ha sido guardada en el perfil</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
-          <target>Link copied to clipboard</target>
+          <target state="translated">Vínculo copiado</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error">
+        <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error" approved="yes">
           <source>app.flash.error</source>
-          <target>Error</target>
+          <target state="translated">Error</target>
         </trans-unit>
-        <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError">
+        <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
-          <target>Could not auth via %serviceName%, please try again</target>
+          <target state="translated">Autentificación via %serviceName% fallida, por favor inténtelo de nuevo</target>
         </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs">
+        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>
-          <target>You have no permissions to edit this job</target>
+          <target state="translated">No tiene los permisos necesarios para editar esta vacante</target>
         </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs">
+        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs" approved="yes">
           <source>app.flash.job.employer.cantPostJobs</source>
-          <target>You have no permissions to post jobs</target>
+          <target state="translated">No tiene permiso para publicar vacantes</target>
         </trans-unit>
-        <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved">
+        <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved" approved="yes">
           <source>app.flash.job.employer.saved</source>
-          <target>Job has been saved</target>
+          <target state="translated">La vacante ha sido guardada</target>
         </trans-unit>
 <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
         <source>app.flashMessageJobPosted</source>
-        <target state="translated">Su vacante ha sido publicada</target>
+        <target state="translated">La vacante ha sido publicada</target>
       </trans-unit>
     </body>
   </file>

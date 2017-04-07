@@ -25,9 +25,9 @@
         <source>app.thisAgreementIsMadeBetween</source>
         <target state="translated">Este acuerdo es de aplicación entre usted y Transport Talent ApS, cuya oficina registrada es</target>
       </trans-unit>
-      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="no">
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>
-        <target state="needs-translation">Transport Talent, Islands Brygge 77D, 4 TH, Copenhague DK-2300, Dinamarca</target>
+        <target state="translated">Transport Talent, Islands Brygge 77D, 4 TH, Copenhague DK-2300, Dinamarca</target>
       </trans-unit>
       <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices" approved="yes">
         <source>app.theServices</source>
@@ -197,13 +197,13 @@
         <source>app.thisAgreementShallBeGovernedByTheLawsDenmark</source>
         <target state="translated">Este Acuerdo se regirá por las leyes de Dinamarca y usted se someterá a la jurisdicción exclusiva de los tribunales daneses.</target>
       </trans-unit>
-      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="no">
+      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="yes">
         <source>app.contactTransportTalent</source>
-        <target state="needs-translation">Contactar a TransportTalent</target>
+        <target state="translated">Contactar a TransportTalent</target>
       </trans-unit>
       <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target state="translated">Si tienes cualquier pregunta, duda o quieres hacer un comentario sobre TransportTalent o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
+        <target state="translated">Si tiene cualquier duda o desea hacer un comentario sobre TransportTalent o sobre nuestra web, le rogamos que nos lo comunique a:</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

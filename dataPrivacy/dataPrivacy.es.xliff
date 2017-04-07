@@ -77,29 +77,29 @@
         <source>app.whenYouRegisterWithTransportTalentUploadCv</source>
         <target state="translated">Cuando te registras en TransportTalent, subes un CV, configuras una alerta de trabajo, entras en una competición o compras un producto o servicio, te pedimos información personal como tu nombre, fecha de nacimiento, datos de contacto y otros detalles. Una vez que te registras en TransportTalent y aceptas nuestros Términos y Condiciones, no eres anónimo para nosotros. Podemos utilizar la información que nos proporcionas para informarte sobre nuestros propios productos y servicios, y podemos comunicarnos contigo para informarte de cambios en el sitio o en los productos o servicios de TransportTalent que utilices.</target>
       </trans-unit>
-      <trans-unit id="16e2a226a858c86554b136deb712ff17" resname="app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent" approved="no">
+      <trans-unit id="16e2a226a858c86554b136deb712ff17" resname="app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent" approved="yes">
         <source>app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent</source>
-        <target state="needs-translation">No revelamos información sobre sus visitas individuales al sitio de TransportTalent, o información personal que nos proporciones, como tu nombre y datos de contacto personales, a menos que  nos hayas dado tu permiso o creamos que la ley lo requiere. Podemos registrar y compartir información agregada con nuestros clientes. Además, si ingresas tu información en una página de registro de marca compartida o en una página de solicitud de trabajo, por ejemplo, una página de registro de empresa como cliente de TransportTalent, la información que proporcionas se convierte en propiedad de TransportTalent y del cliente. TransportTalent no se hace responsable de la información que el cliente recibe.</target>
+        <target state="translated">No revelamos información sobre sus visitas individuales al sitio web de Transport Talent, o información personal que nos proporciones, como nombre y datos de contacto personales, a menos que nos haya dado su permiso o creamos que la ley lo requiere. Podemos guardar y compartir información agregada con nuestros clientes. Además, si ingresa su información en una página de registro de marca compartida o en una página de solicitud de trabajo, por ejemplo, una página de registro de empresa como cliente de TransportTalent, la información que proporciona se convierte en propiedad de TransportTalent y del cliente. TransportTalent no se hace responsable de la información que el cliente recibe.</target>
       </trans-unit>
-      <trans-unit id="9f42344e2ed2b3d0fb47dde3569a8363" resname="app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou" approved="no">
+      <trans-unit id="9f42344e2ed2b3d0fb47dde3569a8363" resname="app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou" approved="yes">
         <source>app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou</source>
-        <target state="needs-translation">TransportTalent puede enviar información fiable y personal suya a otros clientes, en caso de que:</target>
+        <target state="translated">TransportTalent puede enviar información fiable y personal suya a otros clientes, en caso de que:</target>
       </trans-unit>
-      <trans-unit id="f23da61189ef21c0a92dad106620731e" resname="app.weHaveYourConsentToShareTheInformation" approved="no">
+      <trans-unit id="f23da61189ef21c0a92dad106620731e" resname="app.weHaveYourConsentToShareTheInformation" approved="yes">
         <source>app.weHaveYourConsentToShareTheInformation</source>
-        <target state="needs-translation">1. Tengamos su aprobación de compartir la información;</target>
+        <target state="translated">1. Tengamos su aprobación de compartir la información;</target>
       </trans-unit>
-      <trans-unit id="2f807ab5a61b08050948e26899fba35f" resname="app.weNeedToShareYourInformationToProvideTheServiceYouHaveRequested" approved="no">
+      <trans-unit id="2f807ab5a61b08050948e26899fba35f" resname="app.weNeedToShareYourInformationToProvideTheServiceYouHaveRequested" approved="yes">
         <source>app.weNeedToShareYourInformationToProvideTheServiceYouHaveRequested</source>
-        <target state="needs-translation">2. Necesitemos compartir su información para dar el servicio que ha solicitado;</target>
+        <target state="translated">2. Necesitemos compartir su información para dar el servicio que ha solicitado;</target>
       </trans-unit>
-      <trans-unit id="8d5cff33c6f6202717d28efa444fcc8d" resname="app.weNeedToSendTheInformationToCompaniesWhoWork" approved="no">
+      <trans-unit id="8d5cff33c6f6202717d28efa444fcc8d" resname="app.weNeedToSendTheInformationToCompaniesWhoWork" approved="yes">
         <source>app.weNeedToSendTheInformationToCompaniesWhoWork</source>
-        <target state="needs-translation">3. Necesitemos enviar la información a las empresas que trabajan en nombre de TransportTalent para proporcionarle un producto o servicio (a menos que se indique lo contrario, estas empresas no tienen el derecho de usar la información de identificación personal que les proporcionamos más allá de lo que sea necesario para ayudarnos); respondemos a citaciones, órdenes judiciales o procesos legales.</target>
+        <target state="translated">3. Necesitemos enviar la información a las empresas que trabajan en nombre de TransportTalent para proporcionarle un producto o servicio (a menos que se indique lo contrario, estas empresas no tienen el derecho de usar la información de identificación personal que les proporcionamos más allá de lo que sea necesario para ayudarnos); respondemos a citaciones, órdenes judiciales o procesos legales.</target>
       </trans-unit>
-      <trans-unit id="719302b30f1c5d719ef9d9871d84a946" resname="app.otherWaysOfEnsuringYourPrivacy" approved="no">
+      <trans-unit id="719302b30f1c5d719ef9d9871d84a946" resname="app.otherWaysOfEnsuringYourPrivacy" approved="yes">
         <source>app.otherWaysOfEnsuringYourPrivacy</source>
-        <target state="needs-translation">Otros métodos para asegurar tu privacidad:</target>
+        <target state="translated">Otros métodos para asegurar su privacidad:</target>
       </trans-unit>
       <trans-unit id="5ba525f1fcfe63e6aa4c5ff19419e134" resname="app.youMayAmendYourPersonalDetailsAtAnyTimeIfYouWish" approved="yes">
         <source>app.youMayAmendYourPersonalDetailsAtAnyTimeIfYouWish</source>
@@ -113,25 +113,25 @@
         <source>app.usingTheUnsubscribeFunctionAtTheBottomOfTheEmail</source>
         <target state="translated">1. Usando la función "dar de baja" al pie del correo electrónico que te enviemos;</target>
       </trans-unit>
-      <trans-unit id="1ffa9dff003ffc94dec6183a16b1dcca" resname="app.amendingYourAccountDetailsInMyProfilePage" approved="no">
+      <trans-unit id="1ffa9dff003ffc94dec6183a16b1dcca" resname="app.amendingYourAccountDetailsInMyProfilePage" approved="yes">
         <source>app.amendingYourAccountDetailsInMyProfilePage</source>
-        <target state="needs-translation">2. Cambiando los detalles de su cuenta en "mi perfil" en nuestra página web;</target>
+        <target state="translated">2. Cambiando los detalles de su cuenta en "mi perfil" en nuestra web;</target>
       </trans-unit>
       <trans-unit id="15f29bd51d63aa23b17a8e73ab7bfdec" resname="app.contactingUsOn" approved="yes">
         <source>app.contactingUsOn</source>
         <target state="translated">3. Contactando con nosotros:</target>
       </trans-unit>
-      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="no">
+      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="yes">
         <source>app.contactTransportTalent</source>
-        <target state="needs-translation">Contactar a TransportTalent</target>
+        <target state="translated">Contactar a TransportTalent</target>
       </trans-unit>
       <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
         <target state="translated">Si tienes cualquier pregunta, duda o quieres hacer un comentario sobre TransportTalent o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
       </trans-unit>
-      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="no">
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>
-        <target state="needs-translation">Transport Talent, Islands Brygge 77D, 4 TH, Copenhague DK-2300, Dinamarca</target>
+        <target state="translated">Transport Talent, Islands Brygge 77D, 4 TH, Copenhague DK-2300, Dinamarca</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

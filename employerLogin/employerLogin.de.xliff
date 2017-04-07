@@ -37,6 +37,10 @@
         <source>app.notRegisteredCta</source>
         <target state="translated">Noch nicht registriert? Hier klicken, um das jetzt zu tun.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="app.employerLogin.email.placeholder" approved="yes">
+        <source>app.employerLogin.email.placeholder</source>
+        <target state="translated">E-Mail</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

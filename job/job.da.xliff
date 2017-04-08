@@ -113,18 +113,6 @@
         <source>app.section.left.linkPrintTitle</source>
         <target>Print job</target>
       </trans-unit>
-      <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle">
-        <source>app.job.section.popup.linkedinButtonTitle</source>
-        <target>Log ind med LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle">
-        <source>app.job.section.popup.googleButtonTitle</source>
-        <target>Log ind with Google</target>
-      </trans-unit>
-      <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle">
-        <source>app.job.section.popup.facebookButtonTitle</source>
-        <target>Log ind med Facebook</target>
-      </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target state="translated">Ansøg nu</target>
@@ -133,14 +121,6 @@
         <source>app.job.section.popup.jobTitle</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage" approved="yes">
-        <source>app.job.section.popup.succesMessage</source>
-        <target state="translated">Fil er blevet uploadet!</target>
-      </trans-unit>
-      <trans-unit id="b533a4527cfa050dfeb3a3370c97eef1" resname="app.job.section.popup.checkBoxRequiredMsg" approved="yes">
-        <source>app.job.section.popup.checkBoxRequiredMsg</source>
-        <target state="translated">Check venligst dette felt, hvis du vil fortsætte.</target>
-      </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
         <target state="translated">Ansøg nu</target>
@@ -148,22 +128,6 @@
       <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Annuler</target>
-      </trans-unit>
-      <trans-unit id="cdfaa950c2ca43869c70f48df6f9f2b3" resname="app.job.section.popup.networksTitle" approved="yes">
-        <source>app.job.section.popup.networksTitle</source>
-        <target state="translated">Brug en af følgende netværk til at søge dette job.</target>
-      </trans-unit>
-      <trans-unit id="6a1a842148334618bfb3411d814d3a09" resname="app.job.section.popup.uploadCVButtonLabel" approved="yes">
-        <source>app.job.section.popup.uploadCVButtonLabel</source>
-        <target state="translated">Klik for at uploade dit CV</target>
-      </trans-unit>
-      <trans-unit id="a9f92b7c478e4ae2bb0f38fd3fb05f9f" resname="app.job.section.popup.noteSizeCV" approved="yes">
-        <source>app.job.section.popup.noteSizeCV</source>
-        <target state="translated">Note: Dit CV kan ikke være større end 1 MB</target>
-      </trans-unit>
-      <trans-unit id="fa1ff0db275e438baa584f7eb20071c7" resname="app.job.section.popup.checkText" approved="yes">
-        <source>app.job.section.popup.checkText</source>
-        <target state="translated">Jeg giver hermed min formelle godkendelse til at de data jeg har leveret også kan gemmes på transporttalent.com</target>
       </trans-unit>
       <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>

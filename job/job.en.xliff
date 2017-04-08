@@ -114,18 +114,6 @@
         <source>app.section.left.linkPrintTitle</source>
         <target state="translated">Print job</target>
       </trans-unit>
-      <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle" approved="yes">
-        <source>app.job.section.popup.linkedinButtonTitle</source>
-        <target state="translated">Sign in with LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle" approved="yes">
-        <source>app.job.section.popup.googleButtonTitle</source>
-        <target state="translated">Sign in with Google</target>
-      </trans-unit>
-      <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle" approved="yes">
-        <source>app.job.section.popup.facebookButtonTitle</source>
-        <target state="translated">Sign in with Facebook</target>
-      </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target state="translated">Apply now</target>
@@ -134,14 +122,6 @@
         <source>app.job.section.popup.jobTitle</source>
         <target state="translated">Job</target>
       </trans-unit>
-      <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage" approved="yes">
-        <source>app.job.section.popup.succesMessage</source>
-        <target state="translated">File uploaded!</target>
-      </trans-unit>
-      <trans-unit id="b533a4527cfa050dfeb3a3370c97eef1" resname="app.job.section.popup.checkBoxRequiredMsg" approved="yes">
-        <source>app.job.section.popup.checkBoxRequiredMsg</source>
-        <target state="translated">Please check this box if you want to proceed.</target>
-      </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
         <target state="translated">Apply now</target>
@@ -149,22 +129,6 @@
       <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Cancel</target>
-      </trans-unit>
-      <trans-unit id="cdfaa950c2ca43869c70f48df6f9f2b3" resname="app.job.section.popup.networksTitle" approved="yes">
-        <source>app.job.section.popup.networksTitle</source>
-        <target state="translated">Use one of the following networks to apply for this job.</target>
-      </trans-unit>
-      <trans-unit id="6a1a842148334618bfb3411d814d3a09" resname="app.job.section.popup.uploadCVButtonLabel" approved="yes">
-        <source>app.job.section.popup.uploadCVButtonLabel</source>
-        <target state="translated">Click to upload your CV</target>
-      </trans-unit>
-      <trans-unit id="a9f92b7c478e4ae2bb0f38fd3fb05f9f" resname="app.job.section.popup.noteSizeCV" approved="yes">
-        <source>app.job.section.popup.noteSizeCV</source>
-        <target state="translated">Note: Your CV must not be bigger than 1 MB</target>
-      </trans-unit>
-      <trans-unit id="fa1ff0db275e438baa584f7eb20071c7" resname="app.job.section.popup.checkText" approved="yes">
-        <source>app.job.section.popup.checkText</source>
-        <target state="translated">I hereby give my formal approval that the data here supplied can also be stored on transporttalent.com</target>
       </trans-unit>
       <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>
@@ -301,6 +265,10 @@
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
         <target state="translated">You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
+        <source>app.job.section.popup.apply.cvTitle</source>
+        <target state="translated">CV</target>
       </trans-unit>
     </body>
   </file>

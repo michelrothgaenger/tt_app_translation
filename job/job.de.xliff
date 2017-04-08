@@ -114,18 +114,6 @@
         <source>app.section.left.linkPrintTitle</source>
         <target state="translated">Job drucken</target>
       </trans-unit>
-      <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle" approved="yes">
-        <source>app.job.section.popup.linkedinButtonTitle</source>
-        <target state="translated">Anmelden mit LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle" approved="yes">
-        <source>app.job.section.popup.googleButtonTitle</source>
-        <target state="translated">Anmelden mit Google</target>
-      </trans-unit>
-      <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle" approved="yes">
-        <source>app.job.section.popup.facebookButtonTitle</source>
-        <target state="translated">Anmelden mit Facebook</target>
-      </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target state="translated">Jetzt bewerben</target>
@@ -133,14 +121,6 @@
       <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle" approved="yes">
         <source>app.job.section.popup.jobTitle</source>
         <target state="translated">Stellenanzeige</target>
-      </trans-unit>
-      <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage" approved="yes">
-        <source>app.job.section.popup.succesMessage</source>
-        <target state="translated">Datei hochgeladen!</target>
-      </trans-unit>
-      <trans-unit id="b533a4527cfa050dfeb3a3370c97eef1" resname="app.job.section.popup.checkBoxRequiredMsg" approved="yes">
-        <source>app.job.section.popup.checkBoxRequiredMsg</source>
-        <target state="translated">Bitte aktivieren Sie dieses Kästchen, um fortzufahren.</target>
       </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
@@ -213,22 +193,6 @@
       <trans-unit id="fdee157f696f413586e28032c4883794" resname="app.job.section.popup.section.page3.closeButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
         <target state="translated">Fenster schließen</target>
-      </trans-unit>
-      <trans-unit id="cdfaa950c2ca43869c70f48df6f9f2b3" resname="app.job.section.popup.networksTitle" approved="yes">
-        <source>app.job.section.popup.networksTitle</source>
-        <target state="translated">Nutzen Sie eines der folgenden Netzwerke für die Bewerbung.</target>
-      </trans-unit>
-      <trans-unit id="6a1a842148334618bfb3411d814d3a09" resname="app.job.section.popup.uploadCVButtonLabel" approved="yes">
-        <source>app.job.section.popup.uploadCVButtonLabel</source>
-        <target state="translated">Lebenslauf hinzufügen</target>
-      </trans-unit>
-      <trans-unit id="a9f92b7c478e4ae2bb0f38fd3fb05f9f" resname="app.job.section.popup.noteSizeCV" approved="yes">
-        <source>app.job.section.popup.noteSizeCV</source>
-        <target state="translated">Hinweis: Der Lebenslauf darf eine Größe von 1 MB nicht überschreiten</target>
-      </trans-unit>
-      <trans-unit id="fa1ff0db275e438baa584f7eb20071c7" resname="app.job.section.popup.checkText" approved="yes">
-        <source>app.job.section.popup.checkText</source>
-        <target state="translated">Ich stimme zu, dass meine hier zur Verfügung gestellten Daten auch auf transporttalent.com gespeichert werden</target>
       </trans-unit>
     <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>

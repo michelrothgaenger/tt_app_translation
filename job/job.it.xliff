@@ -113,18 +113,6 @@
         <source>app.section.left.linkPrintTitle</source>
         <target>Print job</target>
       </trans-unit>
-      <trans-unit id="df02962c76e3fbb6164ed423aea304c8" resname="app.job.section.popup.linkedinButtonTitle">
-        <source>app.job.section.popup.linkedinButtonTitle</source>
-        <target>Sign in with LinkedIn</target>
-      </trans-unit>
-      <trans-unit id="3ffe3ebef897ab10f024124b981e0c74" resname="app.job.section.popup.googleButtonTitle">
-        <source>app.job.section.popup.googleButtonTitle</source>
-        <target>Sign in with Google</target>
-      </trans-unit>
-      <trans-unit id="2e733ffd6ef96996e9d2d083340e257f" resname="app.job.section.popup.facebookButtonTitle">
-        <source>app.job.section.popup.facebookButtonTitle</source>
-        <target>Sign in with Facebook</target>
-      </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title">
         <source>app.job.section.popup.title</source>
         <target>Get matched</target>
@@ -132,14 +120,6 @@
       <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle">
         <source>app.job.section.popup.jobTitle</source>
         <target>Job</target>
-      </trans-unit>
-      <trans-unit id="0bafef1c3356374f57a7773393a528b2" resname="app.job.section.popup.succesMessage">
-        <source>app.job.section.popup.succesMessage</source>
-        <target>File uploaded!</target>
-      </trans-unit>
-      <trans-unit id="b533a4527cfa050dfeb3a3370c97eef1" resname="app.job.section.popup.checkBoxRequiredMsg">
-        <source>app.job.section.popup.checkBoxRequiredMsg</source>
-        <target>Please check this box if you want to proceed.</target>
       </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle">
         <source>app.job.section.popup.applyButtonTitle</source>

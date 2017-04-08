@@ -33,14 +33,6 @@
         <source>app.seeAllCompanies</source>
         <target state="translated">Alle Unternehmen ansehen</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143116" resname="app.index.companies.description" approved="yes">
-        <source>app.index.companies.description</source>
-        <target state="translated">Finden Sie heraus, was führende Transport- und Logistikunternehmen suchen und anbieten</target>
-      </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143117" resname="app.index.jobs.description" approved="yes">
-        <source>app.index.jobs.description</source>
-        <target state="translated">Aktuelle Stellenangebote in Ihrem Land</target>
-      </trans-unit>
     <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
         <target state="translated">Kandidaten</target>

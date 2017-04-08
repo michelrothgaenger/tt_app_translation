@@ -46,9 +46,17 @@
           <target state="translated">Job has been saved</target>
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
-                <source>app.flashMessageJobPosted</source>
-                <target state="translated">Your job has been posted</target>
-              </trans-unit>
+          <source>app.flashMessageJobPosted</source>
+          <target state="translated">Your job has been posted</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa811" resname="app.flash.cv.upload.error.general">
+          <source>app.flash.cv.upload.error.general</source>
+          <target>Error while uploading CV</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType">
+          <source>app.flash.cv.upload.error.wrongType</source>
+          <target>The file must be a PDF</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

@@ -9,9 +9,9 @@
         <source>app.companyProfile</source>
         <target state="translated">Perfil de empresa</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="no">
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
         <source>app.employerInformation</source>
-        <target state="needs-translation">Información del empleador</target>
+        <target state="translated">Sobre el empleador</target>
       </trans-unit>
       <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>

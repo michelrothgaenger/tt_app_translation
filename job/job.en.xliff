@@ -10,9 +10,9 @@
         <source>app.job.meta.title</source>
         <target state="translated">Job</target>
       </trans-unit>
-      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
+      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
-        <target/>
+        <target state="translated">Look for suitable job offers from logistics and transport</target>
       </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>

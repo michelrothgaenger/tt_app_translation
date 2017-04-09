@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
-        <target/>
+        <target state="translated">Get into our network and find the best positions in transport and logistics with Transport Talent.</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
@@ -33,37 +33,37 @@
         <source>app.seeAllCompanies</source>
         <target state="translated">See all companies</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
-        <target>Candidates</target>
+        <target state="translated">Candidates</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
         <source>app.index.signupCTA.candidates.ctaTitle</source>
-        <target>Get personalized job alerts</target>
+        <target state="translated">Get personalized job alerts</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
         <target state="translated">Fill out our 4-minute career profile, and get personalized job alerts in your inbox. No fluff - we'll only send you job opportunities that are relevant to you, personally curated by our team.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>
-        <target>I want to get hired</target>
+        <target state="translated">I want to get hired</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
         <source>app.index.signupCTA.employers.title</source>
-        <target>Employers</target>
+        <target state="translated">Employers</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
         <source>app.index.signupCTA.employers.ctaTitle</source>
-        <target>Connect with top candidates</target>
+        <target state="translated">Connect with top candidates</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
         <source>app.index.signupCTA.employers.ctaDescription</source>
-        <target>Your time is valuable, and you should be spending it connecting with highly-vetted finalists. We launch your search, manage all communication with candidates, and guarantee a final list of 3-6 people that match your ideal candidate profile within 6 weeks.</target>
+        <target state="translated">Your time is valuable, and you should be spending it connecting with highly-vetted finalists. We launch your search, manage all communication with candidates, and guarantee a final list of 3-6 people that match your ideal candidate profile within 6 weeks.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
         <source>app.index.signupCTA.employers.button</source>
-        <target>I want to hire</target>
+        <target state="translated">I want to hire</target>
       </trans-unit>
     </body>
   </file>

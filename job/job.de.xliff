@@ -6,9 +6,9 @@
     </header>
     <body>
 
-      <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="no">
+      <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
-        <target state="needs-translation">Job</target>
+        <target state="translated">Job</target>
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
@@ -265,6 +265,10 @@
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
         <target state="translated">Unterstützen Sie einen Freund bei der Stellensuche und erhalten Sie dafür eine Provision.&lt;br&gt;Ihr Freund bekommt einen Job, der ihn motiviert.&lt;br&gt; &lt;br&gt; &lt;br&gt; Werden Sie mit Transport Talent Referral selbst zum Headhunter&lt;br&gt; Empfehlen Sie Stellen über soziale und berufliche Netzwerke wie LinkedIn, Facebook und Twitter oder schicken Sie direkt eine E-Mail an einen Kontakt. Machen Sie Ihr persönliches Netzwerk zu Geld und helfen Sie anderen mit ihrer Karriere – Transport Talent Referral macht es möglich.&lt;br&gt; &lt;br&gt; Empfehlen&lt;br&gt; Ein Job, der nicht zu Ihnen passt? Leiten Sie die Anzeige an jemanden mit dem passenden Profil weiter und erhalten Sie eine Belohnung für Ihre Unterstützung. Wichtig ist, dass die Bewerbung über den von Ihnen geteilten Link erfolgt. Nur so können wir die Empfehlung eindeutig zuordnen und nach Vertragsabschluss die Provision auszahlen. &lt;br&gt; &lt;br&gt; Ohne Risiko: Sie müssen keinen Vertrag unterschreiben.&lt;br&gt; &lt;br&gt; Und anonym: Wir geben Ihren Namen nicht an das jeweilige Unternehmen weiter.</target>
+      </trans-unit>
+    <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
+        <source>app.job.section.popup.apply.cvTitle</source>
+        <target state="translated">Lebenslauf</target>
       </trans-unit>
     </body>
   </file>

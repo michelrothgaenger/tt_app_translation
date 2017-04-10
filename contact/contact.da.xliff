@@ -33,9 +33,9 @@
         <source>app.contact.section.email.message</source>
         <target state="translated">Besked</target>
       </trans-unit>
-      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel">
+      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel" approved="yes">
         <source>app.contact.section.email.buttonLabel</source>
-        <target>Send</target>
+        <target state="translated">Send</target>
       </trans-unit>
       <trans-unit id="162b0f5f08b689b4f6145b49b0dc6ee4" resname="app.contact.section.email.thanksgiving" approved="yes">
         <source>app.contact.section.email.thanksgiving</source>
@@ -61,9 +61,9 @@
         <source>app.contact.section.offices.directions.title</source>
         <target state="translated">Her finder du os</target>
       </trans-unit>
-      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title">
+      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title" approved="yes">
         <source>app.contact.page.confirm.meta.title</source>
-        <target>Bekræftelse</target>
+        <target state="translated">Bekræftelse</target>
       </trans-unit>
       <trans-unit id="efffd505a8f5a08b899b2f60206b9689" resname="app.contact.page.confirm.h1" approved="yes">
         <source>app.contact.page.confirm.h1</source>

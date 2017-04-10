@@ -118,9 +118,9 @@
         <source>app.employerJobCRUD.labelFromDate</source>
         <target state="translated">Desde</target>
       </trans-unit>
-      <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime" approved="no">
+      <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime" approved="yes">
         <source>app.employerJobCRUD.labelFromTime</source>
-        <target state="needs-translation">a</target>
+        <target state="translated">a</target>
       </trans-unit>
       <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput" approved="yes">
         <source>app.employerJobCRUD.labelAfterHourInput</source>

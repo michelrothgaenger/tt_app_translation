@@ -102,9 +102,9 @@
         <source>app.employerJobCRUD.requiredErrorText</source>
         <target state="translated">Campo obligatorio.</target>
       </trans-unit>
-      <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="no">
+      <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
-        <target state="needs-translation">Este campo es necesario para una publicación futura.</target>
+        <target state="translated">Este campo es necesario para una publicación en el futuro.</target>
       </trans-unit>
       <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
@@ -138,17 +138,17 @@
         <source>app.employerJobEdit.info.editTitle</source>
         <target state="translated">Editar vacante</target>
       </trans-unit>
-      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title" approved="no">
+      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title" approved="yes">
           <source>app.profile.employer.jobs.title</source>
-          <target state="needs-translation">vacantes en %company%</target>
+          <target state="translated">vacantes en %company%</target>
         </trans-unit>
         <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029a" resname="app.profile.employer.jobs.description" approved="yes">
           <source>app.profile.employer.jobs.description</source>
           <target state="translated">A continuación encuentras tu lista de vacantes</target>
         </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title" approved="no">
+        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title" approved="yes">
           <source>app.profile.employer.jobs.meta.title</source>
-          <target state="needs-translation">vacantes en %company%</target>
+          <target state="translated">vacantes en %company%</target>
         </trans-unit>
         <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029b" resname="app.profile.employer.job.add" approved="yes">
           <source>app.profile.employer.job.add</source>

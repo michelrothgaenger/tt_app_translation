@@ -191,7 +191,7 @@
       </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target state="translated">Elige una opción</target>
+        <target state="translated">Elija una opción</target>
       </trans-unit>
       <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
         <source>app.add</source>
@@ -327,7 +327,7 @@
       </trans-unit>
     <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Inicia sesión con Google</target>
+        <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
@@ -640,6 +640,10 @@
       <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title" approved="yes">
         <source>app.profile.settings.tab.login.title</source>
         <target state="translated">Acceder</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Tratamiento...</target>
       </trans-unit>
       </body>
   </file>

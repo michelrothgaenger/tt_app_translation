@@ -5,25 +5,25 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
-        <target/>
+        <target state="translated">Únete a nuestra red y encuentra los mejores puestos en Transporte y Logística.</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">The leading portal for transport &amp; logistics jobs</target>
+        <target state="translated">Conectamos a los mejores talentos con las ofertas más atractivas</target>
       </trans-unit>
       <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target state="translated">We connect talented professionals with top recruiters</target>
+        <target state="translated">El portal líder para profesionales del Transporte y la Logística</target>
       </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
-        <target state="translated">Empleos destacados</target>
+        <target state="translated">Las mejores ofertas</target>
       </trans-unit>
       <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target state="translated">Buscar empleos destacados</target>
+        <target state="translated">Ver todas las ofertas</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
@@ -32,6 +32,38 @@
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
         <target state="translated">Ver todas las empresas</target>
+      </trans-unit>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
+        <source>app.index.signupCTA.candidates.title</source>
+        <target state="translated">Candidatos</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
+        <source>app.index.signupCTA.candidates.ctaTitle</source>
+        <target state="translated">Te enviamos recomendaciones personalizadas</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+        <source>app.index.signupCTA.candidates.ctaDescription</source>
+        <target state="translated">Crea tu perfil en solo 4 minutos y comienza a recibir alertas de empleo individuales en tu buzón de correo.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
+        <source>app.index.signupCTA.candidates.button</source>
+        <target state="translated">Busco empleo</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
+        <source>app.index.signupCTA.employers.title</source>
+        <target state="translated">Empresas</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
+        <source>app.index.signupCTA.employers.ctaTitle</source>
+        <target state="translated">Llega a los mejores</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
+        <source>app.index.signupCTA.employers.ctaDescription</source>
+        <target state="translated">Su tiempo es valioso - hable solo con los mejores candidatos. Nos ocupamos de la adquisición y preselección de 3 a 6 candidatos en base a sus perfiles. En un tiempo no superior a 6 semanas le enviamos una lista con los mejores candidatos para cubrir su vacante.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
+        <source>app.index.signupCTA.employers.button</source>
+        <target state="translated">Busco nuevos empleados</target>
       </trans-unit>
     </body>
   </file>

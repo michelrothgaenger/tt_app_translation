@@ -23,7 +23,7 @@
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
-          <target state="translated">Vínculo copiado</target>
+          <target state="translated">Enlace copiado</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error" approved="yes">
           <source>app.flash.error</source>
@@ -31,7 +31,7 @@
         </trans-unit>
         <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
-          <target state="translated">Autentificación via %serviceName% fallida, por favor inténtelo de nuevo</target>
+          <target state="translated">Autentificación via %serviceName% fallida - por favor, inténtelo de nuevo</target>
         </trans-unit>
         <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>
@@ -49,6 +49,14 @@
         <source>app.flashMessageJobPosted</source>
         <target state="translated">La vacante ha sido publicada</target>
       </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa811" resname="app.flash.cv.upload.error.general" approved="yes">
+          <source>app.flash.cv.upload.error.general</source>
+          <target state="translated">Se ha producido un error al subir el CV</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType" approved="yes">
+          <source>app.flash.cv.upload.error.wrongType</source>
+          <target state="translated">EL archivo ha de ser un PDF</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

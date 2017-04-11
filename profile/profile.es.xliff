@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
-        <target state="translated">Ayuda a tus conocidos a conseguir un empleo y gana dinero.</target>
+        <target state="translated">Ayuda a otros a conseguir un nuevo puesto de trabajo y gana dinero.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="fcc45cbc146043cea412edd3a51ea303" resname="app.profile.errors.invalidCurrentPassword" approved="yes">
         <source>app.profile.errors.invalidCurrentPassword</source>
-        <target state="translated">La contraseña actual no es válida.</target>
+        <target state="translated">La contraseña actual no es válida</target>
       </trans-unit>
       <trans-unit id="1d61a629c8534f4c874538a2211bbe10" resname="app.profile.errors.passwordIsNotMatch" approved="yes">
         <source>app.profile.errors.passwordIsNotMatch</source>

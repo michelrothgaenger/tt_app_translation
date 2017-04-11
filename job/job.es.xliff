@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
-        <target state="translated"/>
+        <target state="translated">Encuentra las mejores ofertas en Transporte y Logística</target>
       </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
-        <target state="translated">La vacante está oculta</target>
+        <target state="translated">¡La vacante ha sido desactivada!</target>
       </trans-unit>
       <trans-unit id="ec82f3174547d54d8971c896d23df122" resname="app.job.section.top.button.title" approved="yes">
         <source>app.job.section.top.button.title</source>
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="80d3b156e2ad47789fd5e3834597ceae" resname="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleSecondPart</source>
-        <target state="translated">Cerrar esta ventana</target>
+        <target state="translated">Cerrar ventana.</target>
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
@@ -231,7 +231,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
         <source>app.job.popup.referral.shareOn</source>
-        <target state="translated">Compartir en</target>
+        <target state="translated">Compártelo en</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
         <source>app.job.popup.referral.copy</source>
@@ -243,27 +243,31 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
         <source>app.job.popup.referral.linkToReferrals</source>
-        <target state="translated">Aquí encontrarás ésta y todas las otras referencias que hayas hecho.</target>
+        <target state="translated">Aquí encuentras todas las vacantes que has recomendado.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>
-        <target state="translated">Hola, ojea esta vacante "%title%".</target>
+        <target state="translated">Hola, echa un vistazo a la vacante "%title%".</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
         <source>app.job.referral.readMore</source>
-        <target state="translated">Leer más</target>
+        <target state="translated">Más información</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess" approved="yes">
         <source>app.job.referral.readLess</source>
-        <target state="translated">Leer menos</target>
+        <target state="translated">Mostrar menos</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
         <source>app.job.referral.explanationTitle</source>
-        <target state="translated">Recomienda a tus amigos para nuestras vacantes , gana %reward% %currency% y obtén prestigio</target>
+        <target state="translated">Recomienda nuestras vacantes a tus amigos y gana %reward% %currency%</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
         <target state="translated">Recibe recompensas y la satisfacción de ayudar a un amigo. &lt;br&gt; Tus amigos conseguirán su trabajo soñado. &lt;br&gt; &lt;br&gt; &lt;br&gt; Referenciando talento, todo el mundo puede ser un headhunter &lt;br&gt; Recomienda empleos directamente a un amigo a través de redes sociales y profesionales como LinkedIn, Facebook y Twitter o envia un correo electrónico directamente a un amigo o contacto. Transport Talent Referral puede ser una excelente manera de ganar dinero extra con su red personal mientras ayuda a las personas a encontrar su próximo trabajo. &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; ¿Ve una oportunidad que no es para usted? Remítase a las personas que conoce. Sólo asegúrate de que la inscripción se realiza a través del enlace que compartes. De esta manera sabemos quién ganó la recompensa. Una vez que tu contacto haya firmado su nuevo contrato de trabajo se te abonará la cantidad. &lt;br&gt; &lt;br&gt; No hay riesgo para ti ni necesidad de firmar un contrato &lt;br&gt; &lt;br&gt; Protegemos tus datos y mantenemos tu nombre en privado para las empresas.</target>
+      </trans-unit>
+    <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
+        <source>app.job.section.popup.apply.cvTitle</source>
+        <target state="translated">CV</target>
       </trans-unit>
     </body>
   </file>

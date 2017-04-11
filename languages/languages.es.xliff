@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" target-language="es" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="64db1254fb5a143536cea757f5ef920c" resname="Abkhazian">
+      <trans-unit id="64db1254fb5a143536cea757f5ef920c" resname="Abkhazian" approved="yes">
         <source>Abkhazian</source>
-        <target>Abkhazian</target>
+        <target state="translated">Abkazian</target>
       </trans-unit>
-      <trans-unit id="eaf45172e57fd92a51dfc88f9808c540" resname="Afar">
+      <trans-unit id="eaf45172e57fd92a51dfc88f9808c540" resname="Afar" approved="yes">
         <source>Afar</source>
-        <target>Afar</target>
+        <target state="translated">Afar</target>
       </trans-unit>
       <trans-unit id="170d296d4201ee1af7a8867e9b0ca3a7" resname="Afrikaans">
         <source>Afrikaans</source>

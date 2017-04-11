@@ -15,15 +15,15 @@
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
-        <target state="translated">Alcance a la audiencia que busca</target>
+        <target state="translated">Llega a tu público objetivo</target>
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
-        <target state="translated">Publique sus vacantes en Transport Talent y entre en contacto con la más amplia y pujante red de candidatos del sector transporte y logística. Además, en Transport Talent promocionaremos cada una de sus vacantes en nuestros canales y redes sociales para obtener la máxima difusión y alcance.</target>
+        <target state="translated">Publique sus vacantes en Transport Talent y entre en contacto con la más amplia y pujante red de candidatos del sector transporte y de la logística. En Transport Talent promocionamos sus vacantes en nuestros canales y redes sociales para obtener la máxima difusión y alcance.</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="yes">
         <source>app.employerService.section.singleJobPost.header</source>
-        <target state="translated">Elija su tarifa</target>
+        <target state="translated">Su tarifa</target>
       </trans-unit>
       <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="yes">
         <source>app.employerService.section.singleJobPost.description</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
         <source>app.employerService.detailsTable.companyLogo.descr</source>
-        <target state="translated">Publicar el logo de empresa junto a la vacante aumentará la visibilidad del anuncio y reforzará la imagen de su empresa.</target>
+        <target state="translated">Mostrar el logo de empresa junto a la vacante aumenta la visibilidad del anuncio y refuerza la imagen corporativa.</target>
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel" approved="yes">
         <source>app.employerService.detailsTable.allPostingsLabel</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">La publicación destacada muestra su vacante de forma preferente en la plataforma y es la mejor estrategia para ser visto con total seguridad.</target>
+        <target state="translated">La publicación destacada muestra su vacante de forma preferente en la plataforma y es la mejor estrategia para ser visto por el público objetivo.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -103,19 +103,19 @@
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo" approved="yes">
         <source>app.employerService.section.singleJobPost.vatInfo</source>
-        <target state="translated">* Todos los productos requieren un contrato anual.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Las tarifas en esta web se aplican exclusivamente a clientes en España y no incluyen IVA. Si eres cliente fuera del territorio español y o proveedores de servicios de personal pregunta por nuestros otros servicios y tarifas.</target>
+        <target state="translated">* Todos los productos requieren un contrato anual.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Las tarifas en nuestra web se aplican a clientes en España y no incluyen IVA. Si eres cliente fuera del territorio español y o un proveedor de servicios de personal pregunta por nuestros otros servicios y tarifas.</target>
       </trans-unit>
       <trans-unit id="f61152b4b15246e8bab27a9ad8eaad22" resname="app.employerService.section.serviceBooking.header" approved="yes">
         <source>app.employerService.section.serviceBooking.header</source>
-        <target state="translated">Contratar nuestros servicios</target>
+        <target state="translated">Nuestros servicios</target>
       </trans-unit>
       <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
         <target state="translated">Ofertas de empleo</target>
       </trans-unit>
-      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="no">
+      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
-        <target state="needs-translation">Subtotal:</target>
+        <target state="translated">Subtotal:</target>
       </trans-unit>
       <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note" approved="yes">
         <source>app.employerService.section.serviceBooking.note</source>

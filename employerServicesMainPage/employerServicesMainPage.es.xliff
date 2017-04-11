@@ -29,9 +29,9 @@
         <source>app.employerServiceMainPage.solutions.description</source>
         <target state="translated">Hemos diseñado una serie de soluciones específicas para satisfacer sus necesidades de reclutamiento. Con la publicación de ofertas de empleo en Transport Talent podrá promocionar su empresa y presentarse a la gran audiencia de profesionales del sector a nivel mundial. Si lo desea, nuestro equipo de especialistas en selección y atracción de talento le ayudarán a confeccionar las listas con los mejores candidatos.</target>
       </trans-unit>
-      <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
+      <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="no">
       <source>app.employerServiceMainPage.section.choice.header</source>
-      <target state="translated">Job Posting</target>
+      <target state="needs-translation">Job Posting</target>
     </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d2" resname="app.employerServiceMainPage.hiringSolutions.header" approved="yes">
       <source>app.employerServiceMainPage.hiringSolutions.header</source>

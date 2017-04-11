@@ -7,23 +7,23 @@
     <body>
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
-        <target state="translated">Imprimir</target>
+        <target state="translated">Aviso legal</target>
       </trans-unit>
       <trans-unit id="12038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint.meta.title" approved="yes">
         <source>app.imprint.meta.title</source>
-        <target state="translated">Imprimir</target>
+        <target state="translated">Aviso legal</target>
       </trans-unit>
-      <trans-unit id="51773ee0a1cc6df8df023ebfc7a3c5da" resname="app.metaDescriptionImprintPage">
+      <trans-unit id="51773ee0a1cc6df8df023ebfc7a3c5da" resname="app.metaDescriptionImprintPage" approved="yes">
         <source>app.metaDescriptionImprintPage</source>
-        <target/>
+        <target state="translated">¿A la búsqueda de un nuevo empleo en logística? ¿O deseas publicar una oferta de empleo? ¡Habla con nosotros! En Transport Talent estaremos encantados de ayudarte.</target>
       </trans-unit>
       <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="yes">
         <source>app.imprintHeadline</source>
-        <target state="translated">Responsable por las paginas de internet de Transport Talent ApS</target>
+        <target state="translated">Responsable de la web de Transport Talent ApS</target>
       </trans-unit>
       <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg" approved="yes">
         <source>app.imprintMsg</source>
-        <target state="translated">&lt;b&gt;Nombre y dirección&lt;/b&gt;&lt;br&gt;&lt;span&gt;Transport Talent ApS&lt;br&gt;Islands Brygge 77D, 4 TH&lt;br&gt;DK-2300 Copenhague&lt;br&gt;Dinamarca&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Director gerente&lt;/b&gt;&lt;br&gt;&lt;span&gt;Ulrich Nissen&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Tu contacto con Transport Talent&lt;/b&gt;&lt;br&gt;&lt;span&gt;info@transporttalent.com&lt;br&gt;+49 40 53 799 1400&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;número de identificación a efectos del IVA&lt;/b&gt;&lt;br&gt;&lt;span&gt;CVR: 37 39 50 48&lt;/span&gt;</target>
+        <target state="translated">&lt;b&gt;Nombre y dirección&lt;/b&gt;&lt;br&gt;&lt;span&gt;Transport Talent ApS&lt;br&gt;Islands Brygge 77D, 4 TH&lt;br&gt;DK-2300 Copenhague&lt;br&gt;Dinamarca&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Director gerente&lt;/b&gt;&lt;br&gt;&lt;span&gt;Ulrich Nissen&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Contacto&lt;/b&gt;&lt;br&gt;&lt;span&gt;info@transporttalent.com&lt;br&gt;+49 40 53 799 1400&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Número de identificación a efectos fiscales&lt;/b&gt;&lt;br&gt;&lt;span&gt;CVR: 37 39 50 48&lt;/span&gt;</target>
       </trans-unit>
     </body>
   </file>

@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
-        <target state="translated">Accede a tu cuenta</target>
+        <target state="translated">Iniciar Sesión</target>
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
-        <target state="translated">Área de la empresa</target>
+        <target state="translated">Empresas</target>
       </trans-unit>
       <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
-        <target state="translated">Imprimir</target>
+        <target state="translated">Aviso legal</target>
       </trans-unit>
     <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
         <source>app.footer.rowCandidates</source>
@@ -61,17 +61,17 @@
         <source>app.footer.rowCompanies</source>
         <target state="translated">Empresas</target>
       </trans-unit>
-      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="no">
+      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
         <source>app.footer.rowEmployers</source>
-        <target state="needs-translation">Empleadores</target>
+        <target state="translated">Empresas</target>
       </trans-unit>
       <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
         <source>app.footer.introductionLabel</source>
         <target state="translated">Servicios y Precios</target>
       </trans-unit>
-      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="no">
+      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
         <source>app.footer.askHelpLabel</source>
-        <target state="needs-translation">Ayuda</target>
+        <target state="translated">Ayuda</target>
       </trans-unit>
       <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
         <source>app.blog</source>

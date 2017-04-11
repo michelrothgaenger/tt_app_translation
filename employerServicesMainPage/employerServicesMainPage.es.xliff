@@ -7,19 +7,19 @@
     <body>
       <trans-unit id="01ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.title" approved="yes">
         <source>app.employerServiceMainPage.meta.title</source>
-        <target state="translated">Servicios para empresas</target>
+        <target state="translated">Ofertas para empresas</target>
       </trans-unit>
-      <trans-unit id="011baf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.description">
+      <trans-unit id="011baf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.meta.description" approved="yes">
         <source>app.employerServiceMainPage.meta.description</source>
-        <target>Meta description for google</target>
+        <target state="translated">Accede al mejor talento en industria y logística: Transport Talent ofrece soluciones individuales y económicas para ayudar a las empresas en sus actividades de reclutamiento.</target>
       </trans-unit>
-      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="no">
+      <trans-unit id="02ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.header" approved="yes">
         <source>app.employerServiceMainPage.header</source>
-        <target state="needs-translation">¿POR QUÉ UNIRSE A TRANSPORT TALENT?</target>
+        <target state="translated">Sobre Transport Talent</target>
       </trans-unit>
       <trans-unit id="03ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.description" approved="yes">
         <source>app.employerServiceMainPage.description</source>
-        <target state="translated">Somos un portal de empleo global y un equipo de selección especializado y dedicado exclusivamente a la industria del transporte y la logística. Combinamos años de experiencia en la industria con nuevos e innovadores métodos de especialización para llegar a los mejores candidatos.  Nuestro objetivo es hacer que su proceso de contratación sea más rápido, rentable y eficiente.</target>
+        <target state="translated">Somos un portal de empleo global y un equipo de selección especializado dedicado exclusivamente a la industria del transporte y de la logística. Combinamos años de experiencia en la industria con nuevos e innovadores métodos de especialización para llegar a los mejores candidatos. Nuestro objetivo es hacer que su proceso de contratación sea más rápido, rentable y eficiente.</target>
       </trans-unit>
       <trans-unit id="04ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.title" approved="yes">
         <source>app.employerServiceMainPage.solutions.title</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="05ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.solutions.description" approved="yes">
         <source>app.employerServiceMainPage.solutions.description</source>
-        <target state="translated">Hemos diseñado una serie de soluciones específicas para satisfacer todas sus necesidades de reclutamiento. Con la publicación de ofertas de empleo en TransporTalent, podrá gestionar sus vacantes de forma rápida y eficaz. En Tranport Talent podrá posicionar su empresa con imagen de marca al presentarse a  la gran audiencia de profesionales del sector a nivel mundial. Nuestras soluciones de reclutamiento y nuestro equipo  especialistas en selección y atracción de talento le ayudarán a preparar un talent pool de los mejores candidatos listos para ser entrevistados de forma inmediata.</target>
+        <target state="translated">Hemos diseñado una serie de soluciones específicas para satisfacer sus necesidades de reclutamiento. Con la publicación de ofertas de empleo en Transport Talent podrá promocionar su empresa y presentarse a la gran audiencia de profesionales del sector a nivel mundial. Si lo desea, nuestro equipo de especialistas en selección y atracción de talento le ayudarán a confeccionar las listas con los mejores candidatos.</target>
       </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.choice.header" approved="yes">
       <source>app.employerServiceMainPage.section.choice.header</source>
@@ -35,23 +35,23 @@
     </trans-unit>
       <trans-unit id="06ebaf7ef5911acd49151ec6438027d2" resname="app.employerServiceMainPage.hiringSolutions.header" approved="yes">
       <source>app.employerServiceMainPage.hiringSolutions.header</source>
-      <target state="translated">Recruitment</target>
+      <target state="translated">Reclutamiento</target>
     </trans-unit>
     <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
-      <target state="translated">Publicación de ofertas</target>
+      <target state="translated">Más información</target>
     </trans-unit>
     <trans-unit id="08ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonDescription</source>
-      <target state="translated">Publique todas sus vacantes con una tarifa fija anual</target>
+      <target state="translated">Publique todas sus vacantes por una tarifa fija anual</target>
     </trans-unit>
     <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonLabel</source>
-      <target state="translated">Reclutamiento y Selección</target>
+      <target state="translated">Más información</target>
     </trans-unit>
     <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target state="translated">Externalice sus procesos o compleméntelos accediendo al mejor talento.</target>
+      <target state="translated">A su disposición para ayudarle a cubrir las vacantes</target>
     </trans-unit>
     <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
         <source>app.employerService.detailsLabel</source>
@@ -63,7 +63,7 @@
     </trans-unit>
     <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
-        <target state="translated">¡Muchas gracias por su interés en nuestros servicios!  Nuestro equipo de consultores especializados se pondrá en contacto con usted en las próximas 24 horas.</target>
+        <target state="translated">¡Muchas gracias por su interés en nuestros servicios! Nuestro equipo de consultores se pondrá en contacto con usted a la mayor brevedad.</target>
     </trans-unit>
     <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="yes">
         <source>app.employerService.serviceBooking.thankYouClose</source>
@@ -71,15 +71,15 @@
     </trans-unit>
     <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
-        <target state="translated">Regístrese ahora</target>
+        <target state="translated">Registrarse ahora</target>
     </trans-unit>
     <trans-unit id="053f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpCTA" approved="yes">
         <source>app.employerServiceMainPage.signUpCTA</source>
-        <target state="translated">Regístrese ahora y obtenga acceso al mejor talento</target>
+        <target state="translated">Regístrese ahora y acceda al mejor talent pool</target>
     </trans-unit>
     <trans-unit id="063f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.h1" approved="yes">
         <source>app.employerServiceMainPage.h1</source>
-        <target state="translated">Hiring Solutions</target>
+        <target state="translated">Soluciones de reclutamiento</target>
     </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.bookButtonLabel</source>
@@ -87,8 +87,12 @@
           </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>
-            <target state="translated">Más información</target>
+            <target state="translated">Consulta</target>
           </trans-unit>
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c8" resname="app.employerServicesMainPage.fillRequireInputsFlashMessage" approved="yes">
+      <source>app.employerServicesMainPage.fillRequireInputsFlashMessage</source>
+      <target state="translated">Por favor rellene los campos obligatorios</target>
+    </trans-unit>
     </body>
   </file>
 </xliff>

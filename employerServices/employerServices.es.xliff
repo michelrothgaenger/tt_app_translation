@@ -113,9 +113,9 @@
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
         <target state="translated">Ofertas de empleo</target>
       </trans-unit>
-      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
+      <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="no">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>
-        <target state="translated">Subtotal:</target>
+        <target state="needs-translation">Subtotal:</target>
       </trans-unit>
       <trans-unit id="ca4b58c943b8468a80150ac76c8a5a72" resname="app.employerService.section.serviceBooking.note" approved="yes">
         <source>app.employerService.section.serviceBooking.note</source>

@@ -97,9 +97,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target state="translated">TransportTalent no promete el funcionamiento completo, ininterrumpido o libre de errores del Sitio Web y / o de los Servicios. Queda excluida toda responsabilidad de TransportTalent, sus directores o empleados derivados de cualquier pérdida derivada de su uso o incapacidad de utilizar el Sitio Web y / o los Servicios, siempre que sea conforme a la ley.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="no">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="needs-translation">Empieza ahora</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm" approved="yes">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>
@@ -199,11 +199,11 @@
       </trans-unit>
       <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="yes">
         <source>app.contactTransportTalent</source>
-        <target state="translated">Contactar a TransportTalent</target>
+        <target state="translated">Contactar a Transport Talent</target>
       </trans-unit>
       <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target state="translated">Si tiene cualquier duda o desea hacer un comentario sobre TransportTalent o sobre nuestra web, le rogamos que nos lo comunique a:</target>
+        <target state="translated">Si tienes cualquier duda o deseas hacer un comentario sobre Transport Talent o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

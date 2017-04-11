@@ -777,6 +777,82 @@
         <source>app.profile.profileVM.profileHeader</source>
         <target state="translated">Perfil</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
+        <source>app.profile.profileVM.profileHeaderText</source>
+        <target state="translated">Nos basamos en las informaciones de tu perfil para enviarte las vacantes que mejor encajan con las mismas. Recuerda que puedes actualizar tus informaciones siempre que lo desees.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
+        <source>app.profile.profileVM.summaryHeader</source>
+        <target state="translated">Resumen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText" approved="yes">
+        <source>app.profile.profileVM.experienceText</source>
+        <target state="translated">Tienes %count% año de experiencia laboral|Tienes %count% años de experiencia laboral</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText" approved="yes">
+        <source>app.profile.profileVM.noExperienceText</source>
+        <target state="translated">No has introducido tu experiencia laboral</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
+        <source>app.profile.profileVM.specealityHeader</source>
+        <target state="translated">Tu especialidad es</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
+        <source>app.profile.profileVM.connectedToLinkedIn</source>
+        <target state="translated">Conectado a LinkedIn?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <target state="translated">Tus cuentas de LinkedIn y Transpiro Talent están conectadas correctamente.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv" approved="yes">
+        <source>app.profile.profileVM.successCv</source>
+        <target state="translated">Tu CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
+        <source>app.profile.profileVM.birthday</source>
+        <target state="translated">Fecha de nacimiento:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
+        <source>app.profile.profileVM.placeOfResidence</source>
+        <target state="translated">Lugar de residencia:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
+        <source>app.profile.profileVM.noSpecialtiesText</source>
+        <target state="translated">No has especificado una especialidad</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader" approved="yes">
+        <source>app.profile.profileVM.CvHeader</source>
+        <target state="translated">CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV" approved="yes">
+        <source>app.profile.profileVM.noCV</source>
+        <target state="translated">No has subido tu CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence" approved="yes">
+        <source>app.profile.profileVM.noResidence</source>
+        <target state="translated">No has especificado tu lugar de residencia</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday" approved="yes">
+        <source>app.profile.profileVM.noBirthday</source>
+        <target state="translated">No has especificado tu fecha de nacimiento</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories" approved="yes">
+        <source>app.profile.profileVM.noPreferredCategories</source>
+        <target state="translated">No has especificado tu tipo de actividad preferida</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations" approved="yes">
+        <source>app.profile.profileVM.noPreferredLocations</source>
+        <target state="translated">No has especificado dónde preferirías trabajar</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary" approved="yes">
+        <source>app.profile.profileVM.noSalary</source>
+        <target state="translated">No has especificado tu expectativa salarial</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
+        <source>app.profile.editor.birthdayPlaceholder</source>
+        <target state="translated">DD/MM/AAAA</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

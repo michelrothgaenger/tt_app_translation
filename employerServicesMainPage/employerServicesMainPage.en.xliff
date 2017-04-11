@@ -89,9 +89,9 @@
       <source>app.employerServiceMainPage.inquiryButtonLabel</source>
       <target state="translated">Inquiry</target>
     </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c8" resname="app.employerServicesMainPage.fillRequireInputsFlashMessage">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c8" resname="app.employerServicesMainPage.fillRequireInputsFlashMessage" approved="yes">
       <source>app.employerServicesMainPage.fillRequireInputsFlashMessage</source>
-      <target>Please fill in required fields</target>
+      <target state="translated">Please fill in required fields</target>
     </trans-unit>
     </body>
   </file>

@@ -13,30 +13,6 @@
         <source>app.notConfirmedEmail</source>
         <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt; Por favor activa tu cuenta en este enlace: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Tu equipo de Transport Talent</target>
       </trans-unit>
-    <ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" approved="no" restype="x-gettext-domain-header"><ns0:source/><ns0:target state="translated">Project-Id-Version: PACKAGE VERSION
-Report-Msgid-Bugs-To: 
-POT-Creation-Date: 2017-04-11 12:51+0200
-PO-Revision-Date: 2017-04-11 10:51+0000
-Last-Translator: Yolanda &lt;yolanda@lovedesign.es&gt;
-Language-Team: Spanish &lt;http://wl.transporttalent.com/projects/transport-talent/notconfirmedemail/es/&gt;
-Language: es
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: ENCODING
-Plural-Forms: nplurals=2; plural=n != 1;
-X-Generator: Weblate 2.13-dev
-</ns0:target></ns0:trans-unit><ns0:trans-unit xmlns:ns0="urn:oasis:names:tc:xliff:document:1.1" xml:space="preserve" approved="no" restype="x-gettext-domain-header"><ns0:source></ns0:source><ns0:target state="translated">Project-Id-Version: PACKAGE VERSION
-Report-Msgid-Bugs-To: 
-POT-Creation-Date: 2017-04-11 12:52+0200
-PO-Revision-Date: 2017-04-11 10:52+0000
-Last-Translator: Yolanda &lt;yolanda@lovedesign.es&gt;
-Language-Team: Spanish &lt;http://wl.transporttalent.com/projects/transport-talent/notconfirmedemail/es/&gt;
-Language: es
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: ENCODING
-Plural-Forms: nplurals=2; plural=n != 1;
-X-Generator: Weblate 2.13-dev
-</ns0:target></ns0:trans-unit></body>
+    </body>
   </file>
 </xliff>

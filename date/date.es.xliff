@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="132b14ed90524d3eb69b6cd45d75107b" resname="diff.ago.minute" approved="yes">
         <source>diff.ago.minute</source>
-        <target state="translated">hace %count% min.|hace %count% min.</target>
+        <target state="translated">hace %count% min.|hace %count% minutos</target>
       </trans-unit>
       <trans-unit id="736f2d03f00443e393e5203498473f55" resname="diff.in.minute" approved="yes">
         <source>diff.in.minute</source>
-        <target state="translated">en %count% min.|en %count% min.</target>
+        <target state="translated">en %count% min.|en %count% minutos</target>
       </trans-unit>
       <trans-unit id="4fdec4fa4591410c8a68a92e6e2bfe7c" resname="diff.ago.second" approved="yes">
         <source>diff.ago.second</source>

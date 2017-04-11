@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Regístrate gratis y accede a todas las vacantes en Transporte y Logística</target>
+        <target state="translated">Regístrate gratis y accede a todas las vacantes en transporte y logística</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="no">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="needs-translation">Empieza ahora</target>
+        <target state="translated">Registrarse</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
@@ -97,9 +97,9 @@
           <source>app.notRegisteredCta</source>
           <target state="translated">¿Aún no te has registrado? Haz click aquí.</target>
         </trans-unit>
-    <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="no">
+    <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
-        <target state="needs-translation">Tu especialidad</target>
+        <target state="translated">Dinos cual es tu especialidad</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder" approved="yes">
         <source>app.salutations.placeholder</source>
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170019" resname="app.userRegister.step2.contactName" approved="yes">
         <source>app.userRegister.step2.contactName</source>
-        <target state="translated">Para empezar, dinos tu nombre y cómo podemos entrar en contacto contigo.</target>
+        <target state="translated">Para empezar, dinos tu nombre y cómo podemos ponernos en contacto contigo.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170020" resname="app.userRegister.step2.agreementPart1" approved="yes">
         <source>app.userRegister.step2.agreementPart1</source>
@@ -361,9 +361,9 @@
         <source>app.userRegister.step7.preferedJobCategories</source>
         <target state="translated">Tipos de trabajo preferidos</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="no">
+      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
         <source>app.userRegister.step7.chooseCategoryLabel</source>
-        <target state="needs-translation">Elige tu tipo de trabajo</target>
+        <target state="translated">Selecciona</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
         <source>app.userRegister.step7.preferedLocations</source>
@@ -377,9 +377,9 @@
         <source>app.userRegister.step7.salaryExpectations</source>
         <target state="translated">Expectativas salariales</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="no">
+      <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="yes">
         <source>form.locationPlaceholder</source>
-        <target state="needs-translation">Lugar</target>
+        <target state="translated">Indica un lugar</target>
       </trans-unit>
       <trans-unit id="dd602f68a209e7ad43d255223c273280" resname="form.birthdayLabel" approved="yes">
         <source>form.birthdayLabel</source>

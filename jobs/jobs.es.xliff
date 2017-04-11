@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound" approved="yes">
         <source>app.noJobsFound</source>
-        <target state="translated">Ninguna vacante de empleo encontrada.</target>
+        <target state="translated">No se han encontrado vacantes</target>
       </trans-unit>
     <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>

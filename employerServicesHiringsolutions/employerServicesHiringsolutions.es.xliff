@@ -73,9 +73,9 @@
           <source>app.employerServicesHiringsolutions.recruiting.shortPrice</source>
           <target state="translated">2.000</target>
       </trans-unit>
-      <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="no">
+      <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target state="needs-translation">Revisión de la descripción del puesto</target>
+        <target state="translated">Revisión de la descripción del puesto</target>
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
@@ -85,9 +85,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
         <target state="translated">Promoción en Redes Sociales</target>
       </trans-unit>
-      <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="no">
+      <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target state="needs-translation">Abastecimiento externo por medio de un especialista en RH</target>
+        <target state="translated">Abastecimiento externo por medio de un especialista en RH</target>
       </trans-unit>
       <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info</source>
@@ -113,9 +113,9 @@
         <source>app.employerServicesHiringsolutions.further</source>
         <target state="translated">*Esta es la tarifa para puestos con salarios anuales hasta 40.000 EUR. Para posiciones de nivel superior, póngase en contacto con nosotros.</target>
       </trans-unit>
-      <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="no">
+      <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="needs-translation">Soluciones de contratación</target>
+        <target state="translated">Job Posting</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -159,7 +159,7 @@
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="no">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="needs-translation">Shortlisting</target>
+        <target state="needs-translation">Reclutamiento Lite</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>

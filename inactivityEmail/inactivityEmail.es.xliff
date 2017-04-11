@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject" approved="yes">
         <source>app.inactivityEmail.subject</source>
-        <target state="translated">¿Sigues interesado en nuevas oportunidades profesionales?</target>
+        <target state="translated">¿Sigues interesado en recibir ofertas de empleo?</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dabc82" resname="app.inactivityEmail" approved="yes">
         <source>app.inactivityEmail</source>
-        <target state="translated">Estimado %firstName%, &lt;br&gt; &lt;br&gt; ¿Sigue buscando posiciones interesantes de la industria del transporte y la logística? Hemos notado que no has utilizado / conectado a Transport Talent durante algún tiempo. A continuación hemos recopilado algunas vacantes interesantes para ti: &lt;br&gt; &lt;br&gt;%renderedJobs% &lt;br&gt; &lt;a href="%companiesUrl%"&gt; Averigua quién más está contratando actualmente &lt;/a&gt; &lt;br&gt; &lt;a href = "%blogUrl%"&gt; Lea nuestro último artículo de blog: "[Título]" &lt;/a&gt; &lt;br&gt; &lt;br&gt; Siguenos atentamente en &lt;a href="www.facebook.com/transportTALENT/"&gt; Facebook &lt; / A&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt; Twitter &lt;/a&gt;, o &lt;a href="www.linkedin.com/company/transport-talent"&gt; LinkedIn &lt;/a&gt;. &lt;br&gt; &lt;br&gt; Por favor, no dudes en ponerse en contacto con nosotros si tienes alguna pregunta. Siempre estaremos encantados de ayudarte. &lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt; &lt;br&gt; Tu equipo en Transport Talent</target>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;¿Sigues interesado en conocer las nuevas vacantes en transporte y logística? Te hemos echado de menos en Transport Talent durante algún tiempo. Hemos recopilado algunas vacantes interesantes para ti, que esperamos puedan interesarte:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;Averigua quién más está contratando actualmente&lt;/a&gt;&lt;br&gt;&lt;a href = "%blogUrl%"&gt; Lee el artículo más reciente de nuestro blog: "[Título]"&lt;/a&gt;&lt;br&gt;&lt;br&gt;Síguenos en &lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt; Twitter&lt;/a&gt;, o &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;. &lt;br&gt;&lt;br&gt; Por favor, no dudes en ponerse en contacto con nosotros si tienes alguna pregunta. Estaremos encantados de ayudarte. &lt;br&gt; &lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Tu equipo de Transport Talent</target>
       </trans-unit>
     </body>
   </file>

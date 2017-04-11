@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target state="translated">Busqueda de trabajo</target>
+        <target state="translated">Búsqueda de empleo</target>
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
@@ -31,15 +31,15 @@
       </trans-unit>
       <trans-unit id="a87f2096c83c51e33a2c4dd60756b7fa" resname="app.deleteCV" approved="yes">
         <source>app.deleteCV</source>
-        <target state="translated">Borrar CV</target>
+        <target state="translated">Eliminar CV</target>
       </trans-unit>
       <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements" approved="yes">
         <source>app.profileInputCvRequirements</source>
-        <target state="translated">El archivo debe ser un PDF no mayor de 15 MB.</target>
+        <target state="translated">El archivo ha de ser un PDF menor de 15 MB.</target>
       </trans-unit>
       <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
-        <target state="translated">¡Archivo subido!</target>
+        <target state="translated">¡Hecho!</target>
       </trans-unit>
       <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
-        <target state="translated">A CONTINUACIÓN VERÁS TUS EMPRESAS GUARDADAS.</target>
+        <target state="translated">Aquí verás la lista de empresas a las que sigues. Puedes añadir o eliminar vacantes para ajustar tus resultados de búsqueda.</target>
       </trans-unit>
       <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn" approved="yes">
         <source>app.profileUnpublishBtn</source>
-        <target state="translated">Anular publicación de perfil</target>
+        <target state="translated">Desactivar perfil</target>
       </trans-unit>
       <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo" approved="yes">
         <source>app.contactInfo</source>
-        <target state="translated">Información de Contacto</target>
+        <target state="translated">Información de contacto</target>
       </trans-unit>
       <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
-        <target state="translated">Marca de la empresa</target>
+        <target state="translated">Logo e imagen de la empresa</target>
       </trans-unit>
       <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress" approved="yes">
         <source>app.companyAddress</source>
@@ -123,11 +123,11 @@
       </trans-unit>
       <trans-unit id="8b7414575e9ad122011f7ad15d2e525d" resname="app.postcodeZipCode" approved="yes">
         <source>app.postcodeZipCode</source>
-        <target state="translated">Código Postal</target>
+        <target state="translated">Código postal</target>
       </trans-unit>
       <trans-unit id="4d1b2379496ca88f3b176739c9d30107" resname="app.companyInformation" approved="yes">
         <source>app.companyInformation</source>
-        <target state="translated">Información de la empresa</target>
+        <target state="translated">Sobre la empresa</target>
       </trans-unit>
       <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
@@ -143,11 +143,11 @@
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
         <source>app.about</source>
-        <target state="translated">Descripción de la empresa</target>
+        <target state="translated">Sobre la empresa</target>
       </trans-unit>
-      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel">
+      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
       <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
-        <target state="translated">Experiencia</target>
+        <target state="translated">Experiencia laboral</target>
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
-        <target state="translated">Perfil de empresa borrado</target>
+        <target state="translated">Perfil de empresa eliminado</target>
       </trans-unit>
       <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete" approved="yes">
         <source>app.complete</source>
-        <target state="translated">Completado</target>
+        <target state="translated">Completo</target>
       </trans-unit>
       <trans-unit id="b05920dc2269a201e652f992869c771e" resname="app.sectionName" approved="yes">
         <source>app.sectionName</source>
@@ -187,11 +187,11 @@
       </trans-unit>
       <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled" approved="yes">
         <source>app.thisFieldMustBeFilled</source>
-        <target state="translated">Este campo debe ser completado.</target>
+        <target state="translated">Rellena este campo.</target>
       </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target state="translated">Elige una opción</target>
+        <target state="translated">Elije una opción</target>
       </trans-unit>
       <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
         <source>app.add</source>
@@ -211,11 +211,11 @@
       </trans-unit>
       <trans-unit id="f36f6f2cd3869cfa52e04011d4201302" resname="app.profileInputCertificateUploadBtnText" approved="yes">
         <source>app.profileInputCertificateUploadBtnText</source>
-        <target state="translated">Subir archivo</target>
+        <target state="translated">Añadir archivo</target>
       </trans-unit>
       <trans-unit id="7038eac66e387c3b3a0834d786a88757" resname="Insert Image" approved="yes">
         <source>Insert Image</source>
-        <target state="translated">Insertar Imagen</target>
+        <target state="translated">Insertar imagen</target>
       </trans-unit>
       <trans-unit id="1f98842c354dc496970446bce14f4c50" resname="Upload Image" approved="yes">
         <source>Upload Image</source>
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use" approved="yes">
         <source>Crop and Use</source>
-        <target state="translated">Guardar</target>
+        <target state="translated">Editar y guardar</target>
       </trans-unit>
       <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here" approved="yes">
         <source>Drop your file here</source>
@@ -243,23 +243,23 @@
       </trans-unit>
       <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image" approved="yes">
         <source>Please select or upload an image</source>
-        <target state="translated">Por favor, seleccione o cargue una imagen</target>
+        <target state="translated">Por favor, selecciona o carga una foto</target>
       </trans-unit>
       <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close" approved="yes">
         <source>Close</source>
-        <target state="translated">Cancelar</target>
+        <target state="translated">Cerrar</target>
       </trans-unit>
       <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !" approved="yes">
         <source>Crop &amp; Use !</source>
-        <target state="translated">Guardar</target>
+        <target state="translated">Recortar y guardar</target>
       </trans-unit>
       <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
-        <target state="translated">El archivo subido supera el tamaño máximo.</target>
+        <target state="translated">El archivo subido supera el tamaño máximo permitido.</target>
       </trans-unit>
       <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
-        <target state="translated">El archivo subido supera el tamaño máximo.</target>
+        <target state="translated">El archivo subido supera el tamaño máximo permitido.</target>
       </trans-unit>
       <trans-unit id="f8fe8cba1625eaf8e5c253b041d57dbd" resname="The uploaded file was only partially uploaded" approved="yes">
         <source>The uploaded file was only partially uploaded</source>
@@ -267,23 +267,23 @@
       </trans-unit>
       <trans-unit id="298883b17e36ee3a18d73e835c0b44fc" resname="No file was uploaded" approved="yes">
         <source>No file was uploaded</source>
-        <target state="translated">Ningun archivo fue subido</target>
+        <target state="translated">Ningún archivo subido</target>
       </trans-unit>
       <trans-unit id="2384d693d9af53b4727c092af7570a19" resname="Missing a temporary folder" approved="yes">
         <source>Missing a temporary folder</source>
-        <target state="translated">Falta una carpeta temporal</target>
+        <target state="translated">Una carpeta temporal no ha podido ser encontrada</target>
       </trans-unit>
       <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk" approved="yes">
         <source>Failed to write file to disk</source>
-        <target state="translated">Error al escribir el archivo en el disco</target>
+        <target state="translated">El archivo no ha podido ser guardado</target>
       </trans-unit>
       <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
-        <target state="translated">Una extensión PHP detuvo la subida del archivo</target>
+        <target state="translated">Una extensión de PHP detuvo la subida del archivo</target>
       </trans-unit>
       <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
-        <target state="translated">El archivo subido supera el tamaño máximo.</target>
+        <target state="translated">El archivo supera el tamaño máximo permitido.</target>
       </trans-unit>
       <trans-unit id="893885e44a5f16e816de6ee752688a88" resname="File is too big" approved="yes">
         <source>File is too big</source>
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="6dc13bc79a9736e9f927d747c4c45650" resname="Image exceeds maximum width" approved="yes">
         <source>Image exceeds maximum width</source>
-        <target state="translated">La imagen supera el ancho máximo</target>
+        <target state="translated">La imagen supera el ancho máximo permitido</target>
       </trans-unit>
       <trans-unit id="24f04a559e89cf47678a96c202456683" resname="Image requires a minimum width (%min%)" approved="yes">
         <source>Image requires a minimum width (%min%)</source>
@@ -311,7 +311,7 @@
       </trans-unit>
       <trans-unit id="99ba00fe99cde16ff7c70743546365ed" resname="Image exceeds maximum height" approved="yes">
         <source>Image exceeds maximum height</source>
-        <target state="translated">La imagen supera la altura máxima</target>
+        <target state="translated">La imagen supera la altura máxima permitida</target>
       </trans-unit>
       <trans-unit id="f720415de33c5861318b8539c2d7968d" resname="Image requires a minimum height (%min%)" approved="yes">
         <source>Image requires a minimum height (%min%)</source>
@@ -323,27 +323,27 @@
       </trans-unit>
       <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
-        <target state="translated">Error al cambiar el tamaño de la imagen</target>
+        <target state="translated">Error al ajustar el tamaño de la imagen</target>
       </trans-unit>
     <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Inicia sesión con Google</target>
+        <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Con Transport Talent ya puedes seguir a las principales empresas del sector transporte y logística. Añade o elimina empresas en tu perfil con un solo clic.</target>
+        <target state="translated">Con Transport Talent ya puedes seguir a las principales empresas del sector Transporte y Logística. Añade o elimina empresas en tu perfil con un solo clic.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Administra tus vacantes con Transport Talent: agrega y elimina vacantes como prefieras. Los avisos seguirán disponibles después de la desactivación por parte del empleador para permitirte prepararte para las entrevistas.</target>
+        <target state="translated">Administra tus vacantes con Transport Talent: agrega y elimina vacantes como desees. Los avisos seguirán disponibles después de la desactivación por parte del empleador para permitirte prepararte para las entrevistas.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
-        <target state="translated">REFERENCIAS</target>
+        <target state="translated">Recomendaciones</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
         <source>app.profile.referrals.sectionDescription</source>
-        <target state="translated">Aquí encontrarás tus referencias para las vacantes. Recuerda: una vez que una vacante se ha cerrado gracias a tu referencia, serás recompensado con la cantidad indicada junto a la vacante.</target>
+        <target state="translated">Aquí encuentras tus recomendaciones para las vacantes. Recuerda: una vez que una vacante haya sido cubierta gracias a tu recomendación obtendrás la recompensa indicada junto a la vacante.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
@@ -359,7 +359,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink" approved="yes">
         <source>app.profile.referrals.referralLink</source>
-        <target state="translated">Enlace de referencia</target>
+        <target state="translated">Enlace de recomendación</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed" approved="yes">
         <source>app.profile.referrals.closed</source>
@@ -375,43 +375,43 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy" approved="yes">
         <source>app.profile.referrals.button.copy</source>
-        <target state="translated">Copia</target>
+        <target state="translated">Copiar</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
-        <target state="translated">Ayuda a tu red de contactos a conseguir un empleo a través de Tranpot Talent y recibe tu honorario si la operación se lleva a cabo con éxito.</target>
+        <target state="translated">Ayuda a tus conocidos a conseguir un empleo y gana dinero.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
-        <target state="translated">REFERENCIAS</target>
+        <target state="translated">Recomendaciones</target>
       </trans-unit>
       <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="yes">
         <source>app.profile.section.jobAlerts.title</source>
-        <target state="translated">ALERTAS DE EMPLEO</target>
+        <target state="translated">Alertas de empleo</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr">
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
               <source>app.profile.section.jobAlerts.descr</source>
-              <target>descr</target>
+              <target state="translated">¿Quieres que te avisemos cuando nos entren nuevas ofertas de empleo? Programa tus agentes de búsqueda y te enviaremos alertas a tu email.</target>
             </trans-unit>
       <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
-        <target state="translated">CREA UNA ALERTA</target>
+        <target state="translated">CREA UNA ALERTA DE EMPLEO</target>
       </trans-unit>
       <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.title</source>
-        <target state="translated">GUARDA TU ALERTA</target>
+        <target state="translated">GUARDAR ALERTA</target>
       </trans-unit>
       <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.note</source>
-        <target state="translated">Todos los campos marcados con un (*) son obligatorios.</target>
+        <target state="translated">Los campos marcados con un (*) son obligatorios.</target>
       </trans-unit>
       <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
-        <target state="translated">Título de la alerta</target>
+        <target state="translated">Nombre de la alerta*</target>
       </trans-unit>
       <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
-        <target state="translated">Frecuencia de envío</target>
+        <target state="translated">Frecuencia de envío*</target>
       </trans-unit>
       <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
         <source>app.profile.section.jobAlert.deleteButtonLabel</source>
-        <target state="translated">Borrar</target>
+        <target state="translated">Eliminar</target>
       </trans-unit>
       <trans-unit id="be38ccc621b04c4b8a32a0f44c329180" resname="app.profile.settings.language.label" approved="yes">
         <source>app.profile.settings.language.label</source>
@@ -443,19 +443,19 @@
       </trans-unit>
       <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
         <source>app.employer.disabledField.companyBranding</source>
-        <target state="translated">La edición de la marca de la compañía está desactivada hasta que su cuenta sea aprobada.</target>
+        <target state="translated">Podrá editar la imagen de marca de la empresa una vez que su cuenta haya sido confirmada.</target>
       </trans-unit>
       <trans-unit id="9c70e8111c124a8a96cfd89af10b664c" resname="app.employer.disabledField.companyAddress" approved="yes">
         <source>app.employer.disabledField.companyAddress</source>
-        <target state="translated">La edición de la dirección de la empresa está desactivada hasta que se apruebe su cuenta.</target>
+        <target state="translated">Podrá editar la dirección una vez que su cuenta haya sido confirmada.</target>
       </trans-unit>
       <trans-unit id="c6a654ab24ff4b7cbc57ebf18ddbb449" resname="app.employer.disabledField.companyInformation" approved="yes">
         <source>app.employer.disabledField.companyInformation</source>
-        <target state="translated">La edición de la información de la empresa está desactivada hasta que su cuenta sea aprobada.</target>
+        <target state="translated">Podrá editar la información sobre su empresa una vez que su cuenta haya sido confirmada.</target>
       </trans-unit>
       <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields" approved="yes">
         <source>app.profile.errors.requiredFields</source>
-        <target state="translated">Los campos obligatorios no deben estar vacíos</target>
+        <target state="translated">Hay campos obligatorios vacíos</target>
       </trans-unit>
       <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
         <source>app.profile.errors.requiredFieldCurrentPassword</source>
@@ -471,7 +471,7 @@
       </trans-unit>
       <trans-unit id="dc58bba378c04c81b7fdd44392ece28f" resname="app.profile.errors.emailAlreadyExist" approved="yes">
         <source>app.profile.errors.emailAlreadyExist</source>
-        <target state="translated">Ya existe un usuario con ese correo electrónico</target>
+        <target state="translated">Ya existe un usuario con ese mismo correo electrónico</target>
       </trans-unit>
       <trans-unit id="abfedc13c19c4c6fb78d14e09a2cc041" resname="app.profile.errors.invalidRescueEmail" approved="yes">
         <source>app.profile.errors.invalidRescueEmail</source>
@@ -479,31 +479,31 @@
       </trans-unit>
       <trans-unit id="665da491d2d04e748c862df2f8acff2c" resname="app.profile.pendingMessages.newEmail" approved="yes">
         <source>app.profile.pendingMessages.newEmail</source>
-        <target state="translated">Nuevo correo electrónico pendiente, comprueba tu bandeja de entrada para confirmarlo</target>
+        <target state="translated">Te hemos enviado un email. Por favor comprueba tu bandeja de entrada</target>
       </trans-unit>
       <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName" approved="yes">
         <source>app.profile.errors.requiredFieldFirstName</source>
-        <target state="translated">El nombre no debe estar vacío</target>
+        <target state="translated">Añade tu nombre</target>
       </trans-unit>
       <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName" approved="yes">
         <source>app.profile.errors.requiredFieldLastName</source>
-        <target state="translated">El apellido no debe estar vacío</target>
+        <target state="translated">Añade tu apellido</target>
       </trans-unit>
       <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName" approved="yes">
         <source>app.profile.errors.requiredFieldCompanyName</source>
-        <target state="translated">El nombre de la empresa no debe estar vacío</target>
+        <target state="translated">Añade el nombre de empresa</target>
       </trans-unit>
       <trans-unit id="a872ee21285c4aa1a31d3baacb109f61" resname="app.profile.errors.invalidZip" approved="yes">
         <source>app.profile.errors.invalidZip</source>
-        <target state="translated">El Código Postal puede ser sólo numérico y no ser inferior a 0</target>
+        <target state="translated">El código postal solo puede ser numérico y superior a 0</target>
       </trans-unit>
       <trans-unit id="5913b6b2eddd4293a781cde954552b53" resname="app.profile.errors.invalidSize" approved="yes">
         <source>app.profile.errors.invalidSize</source>
-        <target state="translated">El tamaño puede ser sólo numérico y no debe ser inferior a 0</target>
+        <target state="translated">El tamaño solo puede ser numérico y superior a 0</target>
       </trans-unit>
       <trans-unit id="0f95d32bc24e4e0f8b11c5200a7b08cf" resname="app.profile.errors.invalidTurnover" approved="yes">
         <source>app.profile.errors.invalidTurnover</source>
-        <target state="translated">El volumen de negocios anual puede ser sólo numérico y no debe ser inferior a 0</target>
+        <target state="translated">El volumen de negocio anual solo puede ser numérico y superior a 0</target>
       </trans-unit>
       <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion" approved="yes">
         <source>app.profile.errors.requiredFieldCountryRegion</source>
@@ -527,7 +527,7 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.title</source>
-        <target state="translated">Empresas seguidas</target>
+        <target state="translated">Empresas que sigues</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
@@ -551,7 +551,7 @@
       </trans-unit>
       <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.title</source>
-        <target state="translated">Perfil de compañía</target>
+        <target state="translated">Perfil de empresa</target>
       </trans-unit>
       <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.description</source>
@@ -559,23 +559,23 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
-        <target state="translated">Administra tus datos de acceso.</target>
+        <target state="translated">Configura aquí toda la información de tu perfil en Transport Talent.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
-        <target state="translated">Configura tu cuenta</target>
+        <target state="translated">Configura el acceso a tu cuenta y elige tu idioma.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">Completa tus datos</target>
+        <target state="translated">Puedes acceder por medio de otras cuentas que ya tengas en redes sociales. Añade un email de recuperación en el caso de que olvides tus datos de acceso a Transport Talent y necesites reactivarlos.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
-        <target state="translated">Regístrate o completa tu perfil con tus redes sociales</target>
+        <target state="translated">Añade o desactiva una cuenta en una red social con la que acceder a Transport Talent.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
-        <target state="translated">Facilítanos tus datos por si olvidas tu contraseña</target>
+        <target state="translated">Facilítanos un email a donde enviar tus datos en el caso de olvides tu contraseña.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
         <source>app.profile.settings.password.title</source>
@@ -587,31 +587,31 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel" approved="yes">
         <source>app.profile.settings.password.confirmationLabel</source>
-        <target state="translated">Repite tu Contraseña</target>
+        <target state="translated">Repetir contraseña</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle" approved="yes">
         <source>app.profile.settings.password.currentTitle</source>
-        <target state="translated">Contraseña Actual</target>
+        <target state="translated">Contraseña actual</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.password.currentLabel" approved="yes">
         <source>app.profile.settings.password.currentLabel</source>
-        <target state="translated">Contraseña Actual</target>
+        <target state="translated">Contraseña actual</target>
       </trans-unit>
       <trans-unit id="2d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.passwordsDoNotMatch" approved="yes">
         <source>app.profile.settings.passwordsDoNotMatch</source>
-        <target state="translated">La contraseña no coincide</target>
+        <target state="translated">Las contraseñas no coinciden</target>
       </trans-unit>
       <trans-unit id="3d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.social-login.title" approved="yes">
         <source>app.profile.settings.social-login.title</source>
-        <target state="translated">Inicia sesión a través de las redes sociales</target>
+        <target state="translated">Inicia sesión a través de una red social</target>
       </trans-unit>
       <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title" approved="yes">
         <source>app.profile.settings.rescue.title</source>
-        <target state="translated">PROPORCIONA UNA INFORMACIÓN DE RESCATE DE TU CUENTA</target>
+        <target state="translated">Pregunta de rescate de acceso</target>
       </trans-unit>
       <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail" approved="yes">
         <source>app.profile.settings.rescue.1stEmail</source>
-        <target state="translated">Correo electrónico de rescate</target>
+        <target state="translated">Email de rescate</target>
       </trans-unit>
       <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
         <source>app.profile.login.service.active</source>
-        <target state="translated">Activar</target>
+        <target state="translated">Activado</target>
       </trans-unit>
       <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered" approved="yes">
         <source>app.profile.login.service.notRegistered</source>
@@ -627,11 +627,11 @@
       </trans-unit>
       <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable" approved="yes">
         <source>app.profile.login.service.disable</source>
-        <target state="translated">Inhabilitar</target>
+        <target state="translated">Desactivar</target>
       </trans-unit>
       <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
         <source>app.profile.login.service.register</source>
-        <target state="translated">REGÍSTRATE</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title" approved="yes">
         <source>app.profile.settings.tab.general.title</source>
@@ -639,7 +639,143 @@
       </trans-unit>
       <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title" approved="yes">
         <source>app.profile.settings.tab.login.title</source>
-        <target state="translated">Acceder</target>
+        <target state="translated">Iniciar sesión</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Tratamiento...</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
+        <source>app.profile.editor.experience</source>
+        <target state="translated">Experiencia</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
+        <source>app.profile.editor.specialityLabel</source>
+        <target state="translated">¿Cual es tu especialidad?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
+        <source>app.profile.linkedinImportDataButton</source>
+        <target state="translated">Conectar con LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
+        <source>app.profile.editor.congrats</source>
+        <target state="translated">¡Felicidades! Tu cuenta de LinkedIn está ahora conectada a la de Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV" approved="yes">
+        <source>app.profile.editor.DeleteCV</source>
+        <target state="translated">Eliminar CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
+        <source>app.profile.editor.cvSuccesPart1</source>
+        <target state="translated">Tu CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2" approved="yes">
+        <source>app.profile.editor.cvSuccesPart2</source>
+        <target state="translated">ha sido importado con éxito.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload" approved="yes">
+        <source>app.profile.editor.fileUpload</source>
+        <target state="translated">Subir archivo</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170097" resname="app.profile.editor.cvRestriction" approved="yes">
+        <source>app.profile.editor.cvRestriction</source>
+        <target state="translated">El archivo ha de ser un PDF y no sobrepasar los 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.profile.editor.generalHeader" approved="yes">
+        <source>app.profile.editor.generalHeader</source>
+        <target state="translated">General</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170101" resname="app.profile.editor.photoHeader" approved="yes">
+        <source>app.profile.editor.photoHeader</source>
+        <target state="translated">Foto</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170103" resname="app.profile.editor.editPhoto" approved="yes">
+        <source>app.profile.editor.editPhoto</source>
+        <target state="translated">Editar foto</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170104" resname="app.profile.editor.deletePhoto" approved="yes">
+        <source>app.profile.editor.deletePhoto</source>
+        <target state="translated">Eliminar</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170105" resname="app.profile.editor.photoPixelsMinimum" approved="yes">
+        <source>app.profile.editor.photoPixelsMinimum</source>
+        <target state="translated">150 x 150 píxeles mínimo.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170106" resname="app.profile.editor.photoNotLarger" approved="yes">
+        <source>app.profile.editor.photoNotLarger</source>
+        <target state="translated">El archivo no ha de sobrepasar los 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories" approved="yes">
+        <source>app.profile.editor.preferedJobCategories</source>
+        <target state="translated">Actividad laboral preferida</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations" approved="yes">
+        <source>app.profile.editor.preferedLocations</source>
+        <target state="translated">Región o país preferido</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations" approved="yes">
+        <source>app.profile.editor.salaryExpectations</source>
+        <target state="translated">Expectativa salarial</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170124" resname="app.profile.editor.profileEdit" approved="yes">
+        <source>app.profile.editor.profileEdit</source>
+        <target state="translated">Editar perfil</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader" approved="yes">
+        <source>app.profile.editor.profileEditionHeader</source>
+        <target state="translated">Le proponemos vacantes interesantes en base a su perfil. Si ha vinculado su perfil de LinkedIn, es posible que la información ya nos haya sido transferida.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel" approved="yes">
+        <source>app.profile.editor.experienceLabel</source>
+        <target state="translated">Experiencia laboral en años</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder" approved="yes">
+        <source>app.profile.editor.experiencePlaceholder</source>
+        <target state="translated">Años</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader" approved="yes">
+        <source>app.profile.editor.connectToLinkedInHeader</source>
+        <target state="translated">Conectar con LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel" approved="yes">
+        <source>app.profile.editor.residenceLabel</source>
+        <target state="translated">Lugar de residencia</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170119" resname="app.profile.editor.salutationLabel" approved="yes">
+        <source>app.profile.editor.salutationLabel</source>
+        <target state="translated">Tratamiento</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
+        <source>app.profile.editor.salaryLabel</source>
+        <target state="translated">Salario anual</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder" approved="yes">
+        <source>app.profile.editor.salaryPlaceholder</source>
+        <target state="translated">Introduzca su salario anual</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170122" resname="app.profile.editor.currencyLabel" approved="yes">
+        <source>app.profile.editor.currencyLabel</source>
+        <target state="translated">Divisa</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608123" resname="app.profile.editor.locationPlaceholder" approved="yes">
+        <source>app.profile.editor.locationPlaceholder</source>
+        <target state="translated">Introduzca una localidad</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170125" resname="app.profile.editor.CvHeader" approved="yes">
+        <source>app.profile.editor.CvHeader</source>
+        <target state="translated">CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170126" resname="app.profile.dashboard.congratulationsHeader" approved="yes">
+        <source>app.profile.dashboard.congratulationsHeader</source>
+        <target state="translated">¡Felicidades, %firstName% %lastName%!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170127" resname="app.profile.dashboard.congratulationsText" approved="yes">
+        <source>app.profile.dashboard.congratulationsText</source>
+        <target state="translated">¡Hecho! Tu perfil está completo. Nos pondremos en contacto contigo si necesitáramos más información.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170149" resname="app.profile.profileVM.profileHeader" approved="yes">
+        <source>app.profile.profileVM.profileHeader</source>
+        <target state="translated">Perfil</target>
       </trans-unit>
       </body>
   </file>

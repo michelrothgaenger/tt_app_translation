@@ -125,6 +125,14 @@
         <source>app.header.userSubmenu.manageJobs</source>
         <target state="translated">Управление вакансиями</target>
       </trans-unit>
-    </body>
+    <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
+        <source>app.header.userSubmenu.hiringSolutions</source>
+        <target state="translated">Кадровые решения</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="yes">
+        <source>app.header.userSubmenu.jobPostings</source>
+        <target state="translated">Размещение вакансий</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

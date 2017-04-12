@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
-        <target>Положения и условия</target>
+        <target state="translated">Положения и условия</target>
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>

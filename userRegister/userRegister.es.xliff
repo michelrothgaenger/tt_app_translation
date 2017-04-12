@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Regístrate gratis y accede a todas las vacantes en transporte y logística</target>
+        <target state="translated">Regístrate gratis y accede a todas las vacantes en nuestro pool de Transporte y Logística</target>
       </trans-unit>
       <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="translated">Registrarse</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target state="translated">Estoy de acuerdo con los</target>
+        <target state="translated">Acepto los</target>
       </trans-unit>
       <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>

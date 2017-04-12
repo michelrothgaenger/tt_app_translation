@@ -543,7 +543,7 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Administra tu cuenta en Transport Talent: Configura tus datos, actualiza tu dirección de correo o restablece tu contraseña.</target>
+        <target state="translated">Administra tu cuenta: Configura tus datos, actualiza tu dirección de email o restablece tu contraseña.</target>
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
@@ -559,7 +559,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
-        <target state="translated">Configura aquí toda la información de tu perfil en Transport Talent.</target>
+        <target state="translated">Configura aquí la información de tu perfil en Transport Talent.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">Puedes acceder por medio de otras cuentas que ya tengas en redes sociales. Añade un email de recuperación en el caso de que olvides tus datos de acceso a Transport Talent y necesites reactivarlos.</target>
+        <target state="translated">Para acceder por medio de otras cuentas de tus redes sociales, danos un email de recuperación para el caso de que olvides tus datos de acceso a Transport Talent y necesites recuperarlos.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
-        <target state="translated">Facilítanos un email a donde enviar tus datos en el caso de olvides tu contraseña.</target>
+        <target state="translated">Facilítanos un email a donde enviar tus datos en el caso de que olvides tu contraseña.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
         <source>app.profile.settings.password.title</source>

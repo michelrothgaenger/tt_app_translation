@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile" approved="yes">
         <source>app.companyProfile</source>
-        <target>Company profile</target>
+        <target state="translated">Профиль компании</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation">
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
         <source>app.employerInformation</source>
-        <target>Employer information</target>
+        <target state="translated">Информация о компании</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
+      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
-        <target>Number of employees</target>
+        <target state="translated">Количество работников</target>
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
         <source>app.employees_lowercase</source>

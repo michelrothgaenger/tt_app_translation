@@ -105,9 +105,9 @@
         <source>app.salutations.placeholder</source>
         <target state="translated">Tratamiento</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="no">
+      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="yes">
         <source>app.jobCategories.placeholder</source>
-        <target state="needs-translation">Clase de empleo</target>
+        <target state="translated">Categoría</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>

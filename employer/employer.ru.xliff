@@ -17,33 +17,53 @@
         <source>app.numberOfEmployees</source>
         <target state="translated">Количество работников</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>employees</target>
+        <target state="translated">работников</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>
-        <target>Headquarter</target>
+        <target state="translated">Головной офис</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
+      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
-        <target>Offices/Countries</target>
+        <target state="translated">Офисы/Страны</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
-        <target>Main Activities</target>
+        <target state="translated">Главный вид деятельности</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Веб-сайт</target>
+        <target state="translated">Веб-сайт</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
+      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="yes">
         <source>app.noCompanyDescription</source>
-        <target>Company description unavailable</target>
+        <target state="translated">Нет описания компании</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target>Сохранить в профиль</target>
+        <target state="translated">Подписаться</target>
+      </trans-unit>
+    <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
+        <source>app.employer.button.savedToProfile</source>
+        <target state="translated">Отписаться</target>
+      </trans-unit>
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+        <source>app.employer.info.jobsOnline.title</source>
+        <target state="translated">Работ на сайте</target>
+      </trans-unit>
+      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
+        <source>app.employer.info.jobsOnline.text</source>
+        <target state="translated">На данный момент на сайте %count% работа от %company%|На данный момент на сайте %count% работы от %company%|На данный момент на сайте %count% работ от %company%</target>
+      </trans-unit>
+      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
+        <source>app.employer.linkToJobsTitle</source>
+        <target state="translated">Просмотреть все работы</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
+        <source>app.employer.currentJobs.title</source>
+        <target state="translated">Актуальные вакансии от %company%</target>
       </trans-unit>
     </body>
   </file>

@@ -21,9 +21,9 @@
         <source>app.contactUs</source>
         <target state="translated">Связаться с нами</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
+      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
         <source>app.imprint</source>
-        <target>Imprint</target>
+        <target state="translated">Импринт</target>
       </trans-unit>
     </body>
   </file>

@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
-        <target state="translated">¡La vacante ha sido desactivada!</target>
+        <target state="translated">¡Esta oferta ha sido desactivada!</target>
       </trans-unit>
       <trans-unit id="ec82f3174547d54d8971c896d23df122" resname="app.job.section.top.button.title" approved="yes">
         <source>app.job.section.top.button.title</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate" approved="yes">
         <source>app.job.postDate</source>
-        <target state="translated">Publicado</target>
+        <target state="translated">Publicado desde</target>
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
-        <target state="translated">Te lo ofrece exclusivamente</target>
+        <target state="translated">Una oferta exclusiva de</target>
       </trans-unit>
       <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title" approved="yes">
         <source>app.job.section.main.title</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="c29cd64c748dc240d346db1583b0f65b" resname="app.job.section.main.rowTypeTitle" approved="yes">
         <source>app.job.section.main.rowTypeTitle</source>
-        <target state="translated">Área</target>
+        <target state="translated">Experiencia</target>
       </trans-unit>
       <trans-unit id="0f9cc44b1edf0a99f6ebf522670bbc59" resname="app.job.section.main.rowLevelTitle" approved="yes">
         <source>app.job.section.main.rowLevelTitle</source>
@@ -59,11 +59,11 @@
       </trans-unit>
       <trans-unit id="e6479c1be0073526f728437442e0ad9d" resname="app.section.main.applyButtonTitle" approved="yes">
         <source>app.section.main.applyButtonTitle</source>
-        <target state="translated">Solicitar ahora</target>
+        <target state="translated">Aplicar ahora</target>
       </trans-unit>
       <trans-unit id="5918fb127493df996af2f0b474ce3196" resname="app.job.section.left.title" approved="yes">
         <source>app.job.section.left.title</source>
-        <target state="translated">Información general</target>
+        <target state="translated">Sobre la empresa</target>
       </trans-unit>
       <trans-unit id="7f7803fafe6e0838823614ea63d9e1e7" resname="app.job.section.left.rowQtyEmployeesTitle" approved="yes">
         <source>app.job.section.left.rowQtyEmployeesTitle</source>
@@ -75,23 +75,23 @@
       </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>
-        <target state="translated">Oficinas Centrales</target>
+        <target state="translated">Oficina Central</target>
       </trans-unit>
       <trans-unit id="32409995f251db763a370dfbbb017788" resname="app.job.section.left.rowOfficesTitle" approved="yes">
         <source>app.job.section.left.rowOfficesTitle</source>
-        <target state="translated">Oficinas/Países</target>
+        <target state="translated">Presencia/Países</target>
       </trans-unit>
       <trans-unit id="048081eed06d612bbb1783c4e00c4e15" resname="app.job.section.left.rowIndustiesTitle" approved="yes">
         <source>app.job.section.left.rowIndustiesTitle</source>
-        <target state="translated">Actividades principales</target>
+        <target state="translated">Actividad principal</target>
       </trans-unit>
       <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle" approved="yes">
         <source>app.job.section.left.rowWebsiteTitle</source>
-        <target state="translated">Página web</target>
+        <target state="translated">Web de empresa</target>
       </trans-unit>
       <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
-        <target state="translated">VER MÁS VACANTES DE</target>
+        <target state="translated">Ver más ofertas de</target>
       </trans-unit>
       <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs" approved="yes">
         <source>app.section.left.headlineSimilarJobs</source>
@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="f3cd81f9d260ccb3d7b9fb0db434e82b" resname="app.section.left.linkSimilarJobsTitle" approved="yes">
         <source>app.section.left.linkSimilarJobsTitle</source>
-        <target state="translated">ENSÉÑAME MÁS VACANTES COMO ÉSTA</target>
+        <target state="translated">Más ofertas como ésta</target>
       </trans-unit>
       <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus" approved="yes">
         <source>app.job.section.left.savedStatus</source>
@@ -111,19 +111,19 @@
       </trans-unit>
       <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
-        <target state="translated">IMPRIMIR VACANTE</target>
+        <target state="translated">Imprimir vacante</target>
       </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
-        <target state="translated">Solicitar ahora</target>
+        <target state="translated">Aplicar ahora</target>
       </trans-unit>
       <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle" approved="yes">
         <source>app.job.section.popup.jobTitle</source>
-        <target state="translated">Vacante</target>
+        <target state="translated">Oferta de empleo</target>
       </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
-        <target state="translated">Solicitar ahora</target>
+        <target state="translated">Aplicar ahora</target>
       </trans-unit>
       <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
@@ -131,11 +131,11 @@
       </trans-unit>
       <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>
-        <target state="translated">Nota: sólo tramitaremos las solicitudes si el perfil de usuario está completo.</target>
+        <target state="translated">Aviso: sólo tramitamos solicitudes si el perfil de usuario está completo.</target>
       </trans-unit>
       <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
-        <target state="translated">Las solicitudes con CV por regla general tienen más éxito. Por ello, antes de seguir con la solicitud, te recomendamos subir tu CV.</target>
+        <target state="translated">No has subido aún tu CV. Completa tu perfil antes de enviar una solicitud de empleo.</target>
       </trans-unit>
       <trans-unit id="8849884335f447a8abb2e64bfa85bb36" resname="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleFirstPart</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
-        <target state="translated">Por favor, si quieres solicitar esta vacante, haz click en el botón de abajo. Vamos a pasar tu perfil a la empresa.</target>
+        <target state="translated">Al hacer clic en "aplicar ahora" se le enviarán los datos de tu perfil a la empresa de tu interés.</target>
       </trans-unit>
       <trans-unit id="eab879d7c6fe42e08ca13b1048cc3d81" resname="app.job.section.popup.section.page1.goToProfileMsg" approved="yes">
         <source>app.job.section.popup.section.page1.goToProfileMsg</source>
@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="9b4ff1be89b040ad9b9ce59ed629e6c8" resname="app.job.section.popup.section.page1.helpMsg" approved="yes">
         <source>app.job.section.popup.section.page1.helpMsg</source>
-        <target state="translated">Por favor, ponte en contacto con nosotros siempre que quieras. Estamos encantados de poder ayudarte.</target>
+        <target state="translated">Ponte en contacto con nosotros siempre que lo desees. Estaremos encantados de poder ayudarte.</target>
       </trans-unit>
       <trans-unit id="bf5d7d751494405bb63171ab81060282" resname="app.job.section.popup.section.page1.helpHeadLine" approved="yes">
         <source>app.job.section.popup.section.page1.helpHeadLine</source>
@@ -163,11 +163,11 @@
       </trans-unit>
       <trans-unit id="2c5728b5389742e6836b61d31c4273be" resname="app.job.section.popup.section.page1.helpButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page1.helpButtonTitle</source>
-        <target state="translated">Pónte en contacto con nosotros</target>
+        <target state="translated">Enviar</target>
       </trans-unit>
       <trans-unit id="dde15a4072b846f1be7e0633ac131edc" resname="app.job.section.popup.section.page2.title" approved="yes">
         <source>app.job.section.popup.section.page2.title</source>
-        <target state="translated">Por favor, escribe el mensaje que será enviado junto con tu perfil.</target>
+        <target state="translated">Redacta ahora un mensaje que será enviado junto a tu perfil.</target>
       </trans-unit>
       <trans-unit id="f64ee3f9959447649fa2f7b505c2f7c1" resname="app.job.section.popup.section.page2.headline" approved="yes">
         <source>app.job.section.popup.section.page2.headline</source>
@@ -175,7 +175,7 @@
       </trans-unit>
       <trans-unit id="8e34351f8a384a4ab146c5cf3aec825e" resname="app.job.section.popup.section.page2.errorMessage" approved="yes">
         <source>app.job.section.popup.section.page2.errorMessage</source>
-        <target state="translated">Por favor, escribe un mensaje para continuar.</target>
+        <target state="translated">Redacta un mensaje antes de continuar.</target>
       </trans-unit>
       <trans-unit id="289094d739b74d7ea253b2e59d71816d" resname="app.job.section.popup.section.page2.sendButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page2.sendButtonTitle</source>
@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="889d9255b8b14474a5299aeee7899d49" resname="app.job.section.popup.section.page3.description" approved="yes">
         <source>app.job.section.popup.section.page3.description</source>
-        <target state="translated">La empresa se pondrá en contacto contigo directamente.</target>
+        <target state="translated">La empresa a la que has enviado tu solicitud de empleo se pondrá en contacto contigo directamente.</target>
       </trans-unit>
       <trans-unit id="fdee157f696f413586e28032c4883794" resname="app.job.section.popup.section.page3.closeButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
@@ -195,15 +195,15 @@
       </trans-unit>
       <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>
-        <target state="translated">Por favor, toma nota</target>
+        <target state="translated">Aviso</target>
       </trans-unit>
       <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
         <source>app.job.forward.headline</source>
-        <target state="translated">Ahora vas a ser redirigido</target>
+        <target state="translated">Ahora serás redirigido</target>
       </trans-unit>
       <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
-        <target state="translated">Esta vacante es de %company_name%. Vamos a redirigirte a su página web para completar el proceso de solicitud.</target>
+        <target state="translated">Esta oferta de empleo es de %company_name%. Vamos a redirigirte a su web para completar el proceso de solicitud.</target>
       </trans-unit>
       <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
-        <target state="translated">Recibe recompensas y la satisfacción de ayudar a un amigo. &lt;br&gt; Tus amigos conseguirán su trabajo soñado. &lt;br&gt; &lt;br&gt; &lt;br&gt; Referenciando talento, todo el mundo puede ser un headhunter &lt;br&gt; Recomienda empleos directamente a un amigo a través de redes sociales y profesionales como LinkedIn, Facebook y Twitter o envia un correo electrónico directamente a un amigo o contacto. Transport Talent Referral puede ser una excelente manera de ganar dinero extra con su red personal mientras ayuda a las personas a encontrar su próximo trabajo. &lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt; ¿Ve una oportunidad que no es para usted? Remítase a las personas que conoce. Sólo asegúrate de que la inscripción se realiza a través del enlace que compartes. De esta manera sabemos quién ganó la recompensa. Una vez que tu contacto haya firmado su nuevo contrato de trabajo se te abonará la cantidad. &lt;br&gt; &lt;br&gt; No hay riesgo para ti ni necesidad de firmar un contrato &lt;br&gt; &lt;br&gt; Protegemos tus datos y mantenemos tu nombre en privado para las empresas.</target>
+        <target state="translated">Ayuda a personas de tu red de contactos a encontrar empleo y llévate tu recompensa.&lt;br&gt;Tus amigos te lo agradecerán.&lt;br&gt;&lt;br&gt;&lt;br&gt;Tú también puedes ser un Headhunter.&lt;br&gt;Recomienda una oferta de trabajo directamente a otros a través de redes sociales y profesionales como LinkedIn, Facebook y Twitter o envía un correo electrónico directamente a la persona que creas que podría estar interesado en el puesto. Transport Talent Referral puede convertirse en una excelente manera de que te ganes un dinero extra a la vez que ayudas a tus conocidos a encontrar su próximo trabajo.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;¿Ves una oferta interesante, pero no para tí? Envíala a tus conocidos, amigos o colegas. Importante: Asegúrate de que tu contacto usa tu enlace a la hora de enviar su solicitud. Solo así podremos saber que se trata de una recomendación tuya. En el caso de que la persona que has recomendado firme su nuevo contrato de trabajo para ese puesto, se te abonará la gratificación indicada.&lt;br&gt;&lt;br&gt;Protegemos tus datos: Tu recomendación es anónima para las empresas y sin riesgos por tu parte.</target>
       </trans-unit>
     <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
         <source>app.job.section.popup.apply.cvTitle</source>

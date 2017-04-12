@@ -7,19 +7,19 @@
     <body>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved" approved="yes">
           <source>app.flash.companyUnsaved</source>
-          <target state="translated">La empresa ha sido eliminada del perfil</target>
+          <target state="translated">Empresa eliminada del perfil</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved" approved="yes">
           <source>app.flash.companySaved</source>
-          <target state="translated">La empresa ha sido guardada en el perfil</target>
+          <target state="translated">Empresa guardada en el perfil</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved" approved="yes">
           <source>app.flash.jobUnsaved</source>
-          <target state="translated">La vacante ha sido eliminada del perfil</target>
+          <target state="translated">Vacante eliminada del perfil</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved" approved="yes">
           <source>app.flash.jobSaved</source>
-          <target state="translated">La vacante ha sido guardada en el perfil</target>
+          <target state="translated">Vacante guardada en el perfil</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
@@ -31,7 +31,7 @@
         </trans-unit>
         <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
-          <target state="translated">Autentificación via %serviceName% fallida - por favor, inténtelo de nuevo</target>
+          <target state="translated">Autenticación via %serviceName% fallida - por favor, inténtelo de nuevo</target>
         </trans-unit>
         <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>

@@ -39,23 +39,23 @@
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>
-        <target state="translated">Te hemos enviado un correo a %email%. Para activar tu cuenta, deberás hacer click en el link que te enviamos.</target>
+        <target state="translated">Te hemos enviado un correo a %email%. Para activar tu cuenta, deberás hacer clic en el enlace que te enviamos.</target>
       </trans-unit>
       <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
-        <target state="translated">¡Gracias por registrarte en Transport Talent!</target>
+        <target state="translated">¡Gracias por unirte a Transport Talent!</target>
       </trans-unit>
       <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
-        <target state="translated">Te damos la bienvenida!</target>
+        <target state="translated">¡Te damos la bienvenida!</target>
       </trans-unit>
       <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target state="translated">Hola %firstname%,&lt;br&gt; &lt;br&gt; para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
+        <target state="translated">Hola %firstname%,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target state="translated">Hola %firstname%,&lt;br&gt; &lt;br&gt;para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Director gerente&lt;br&gt;</target>
+        <target state="translated">Hola %firstname%,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos, &lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>
@@ -95,7 +95,7 @@
         </trans-unit>
         <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
           <source>app.notRegisteredCta</source>
-          <target state="translated">¿Aún no te has registrado? Haz click aquí.</target>
+          <target state="translated">¿Aún no te has registrado? Haz clic aquí.</target>
         </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
@@ -103,11 +103,11 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder" approved="yes">
         <source>app.salutations.placeholder</source>
-        <target state="translated">Tratamiento...</target>
+        <target state="translated">Tratamiento</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="yes">
+      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="no">
         <source>app.jobCategories.placeholder</source>
-        <target state="translated">Clase de empleo</target>
+        <target state="needs-translation">Clase de empleo</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>
@@ -115,27 +115,27 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170005" resname="app.userRegister.signUpWithFB" approved="yes">
         <source>app.userRegister.signUpWithFB</source>
-        <target state="translated">Acceder con Facebook</target>
+        <target state="translated">Iniciar sesión con Facebook</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170006" resname="app.userRegister.signUpWithGoogle" approved="yes">
         <source>app.userRegister.signUpWithGoogle</source>
-        <target state="translated">Acceder con Google</target>
+        <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn" approved="yes">
         <source>app.userRegister.signUpWithLinkedIn</source>
-        <target state="translated">Acceder con LinkedIn</target>
+        <target state="translated">Iniciar sesión con LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>
-        <target state="translated">Al registrarme acepto los &lt;a target="_blank" href="%termsUrl%"&gt;Términos y Condiciones&lt;/a&gt;</target>
+        <target state="translated">Al registrarme acepto los &lt;a target="_blank" href="%termsUrl%"&gt;Términos y Condiciones Generales&lt;/a&gt;</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader" approved="yes">
         <source>app.userRegister.popup.registerHeader</source>
-        <target state="translated">Registrarse</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding" approved="yes">
         <source>app.userRegister.popup.emailProviding</source>
-        <target state="translated">Crea tu perfil gratis - tan solo necesitamos tu dirección de correo electrónico.</target>
+        <target state="translated">Crea tu perfil gratis - tan solo dinos tu dirección de email.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170010" resname="app.userRegister.popup.email.placeholder" approved="yes">
         <source>app.userRegister.popup.email.placeholder</source>
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170011" resname="app.userRegister.popup.emailConfirmation" approved="yes">
         <source>app.userRegister.popup.emailConfirmation</source>
-        <target state="translated">Recibirás un correo de confirmación de tu registro.</target>
+        <target state="translated">Recibirás un correo de confirmación de tu registro en Transport Talent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170012" resname="app.userRegister.popup.registerButton" approved="yes">
         <source>app.userRegister.popup.registerButton</source>
@@ -151,19 +151,19 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170013" resname="app.userRegister.popup.login" approved="yes">
         <source>app.userRegister.popup.login</source>
-        <target state="translated">¿Ya estás registrado? Accede aquí a tu cuenta.</target>
+        <target state="translated">¿Ya tienes una cuenta? Inicia sesión</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170014" resname="app.userRegister.popup.loginToBook" approved="yes">
         <source>app.userRegister.popup.loginToBook</source>
-        <target state="translated">Entra con tu clave para acceder a todos nuestros servicios y ver todas las vacantes.</target>
+        <target state="translated">Entra ya para acceder a todos nuestros servicios.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170070" resname="app.userRegister.popup.loginHeader" approved="yes">
         <source>app.userRegister.popup.loginHeader</source>
-        <target state="translated">Entrar</target>
+        <target state="translated">Inicia Sesión</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170015" resname="app.userRegister.popup.loginButton" approved="yes">
         <source>app.userRegister.popup.loginButton</source>
-        <target state="translated">Entrar</target>
+        <target state="translated">Inicia Sesión</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>

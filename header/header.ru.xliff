@@ -9,10 +9,6 @@
         <source>app.home</source>
         <target state="translated">Главная</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01" resname="app.header.userSubmenu.profile">
-        <source>app.profile</source>
-        <target>Профиль</target>
-      </trans-unit>
       <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
         <target state="translated">Выйти</target>

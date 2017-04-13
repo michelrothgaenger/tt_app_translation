@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>или</target>
+        <target state="translated">или</target>
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
         <source>app.jobSearch</source>
@@ -325,6 +325,14 @@
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>
-    </body>
+    <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+        <source>app.signInWithGoogle</source>
+        <target state="translated">Войти через Google</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Выберите приветствие...</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

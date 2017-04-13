@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
-        <target>Check our logistics talent and register with us</target>
+        <target state="translated">Зарегистрируйтесь сейчас</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount" approved="yes">
         <source>app.landing.jobsCount</source>
-        <target>%count% job|%count% jobs</target>
+        <target state="translated">%count% вакансия|%count% вакансии|%count%  вакансий</target>
       </trans-unit>
     </body>
   </file>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
@@ -137,9 +137,9 @@
         <source>app.annualTurnover</source>
         <target>Annual turnover</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Веб-сайт</target>
+        <target state="translated">Веб-сайт</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about">
         <source>app.about</source>
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
         <source>app.position</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg">
         <source>app.employerPublishedFlashMsg</source>

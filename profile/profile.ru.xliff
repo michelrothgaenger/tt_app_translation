@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
-        <target>или</target>
+        <target state="translated">или</target>
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
         <source>app.jobSearch</source>
@@ -21,9 +21,9 @@
         <source>app.youCanContinueTo</source>
         <target>You can continue to</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Профиль</target>
+        <target state="translated">Профиль</target>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
         <source>app.profileInputCvUploadBtnText</source>
@@ -137,9 +137,9 @@
         <source>app.annualTurnover</source>
         <target>Annual turnover</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target>Веб-сайт</target>
+        <target state="translated">Веб-сайт</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about">
         <source>app.about</source>
@@ -163,7 +163,7 @@
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
         <source>app.position</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg">
         <source>app.employerPublishedFlashMsg</source>
@@ -325,6 +325,14 @@
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>
-    </body>
+    <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+        <source>app.signInWithGoogle</source>
+        <target state="translated">Войти через Google</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Выберите приветствие...</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

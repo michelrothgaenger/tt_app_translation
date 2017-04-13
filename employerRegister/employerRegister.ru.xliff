@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
         <source>app.metaDescriptionEmployerRegisterPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline">
         <source>app.employerRegisterHeadline</source>
@@ -25,13 +25,13 @@
         <source>app.employerRegisterDesc2</source>
         <target>* Indicates required field.</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>I agree to the</target>
+        <target state="translated">Я согласен с</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Положениям и Условиями</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
         <source>app.checkBoxRequiredMsg</source>
@@ -45,13 +45,13 @@
         <source>app.selectAnOption</source>
         <target>select an option</target>
       </trans-unit>
-      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr">
+      <trans-unit id="65fe3567070c624b9e1be66b9f7bf356" resname="app.mr" approved="yes">
         <source>app.mr</source>
-        <target>Mr.</target>
+        <target state="translated">Г-н.</target>
       </trans-unit>
-      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms">
+      <trans-unit id="06315321df616031063ee0aa4f654148" resname="app.ms" approved="yes">
         <source>app.ms</source>
-        <target>Ms.</target>
+        <target state="translated">Г-жа</target>
       </trans-unit>
       <trans-unit id="fda12563984679e43ac1a26c61a23f42" resname="app.prof">
         <source>app.prof</source>
@@ -91,11 +91,11 @@
       </trans-unit>
       <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch">
         <source>app.password.mismatch</source>
-        <target></target>
+        <target/>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target>Зарегистрироваться</target>
+        <target state="translated">Зарегистрироваться</target>
       </trans-unit>
     </body>
   </file>

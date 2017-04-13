@@ -9,10 +9,6 @@
         <source>app.home</source>
         <target state="translated">Главная</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01" resname="app.header.userSubmenu.profile">
-        <source>app.profile</source>
-        <target>Профиль</target>
-      </trans-unit>
       <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>
         <target state="translated">Выйти</target>
@@ -107,7 +103,7 @@
       </trans-unit>
       <trans-unit id="560d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.referrals" approved="yes">
         <source>app.header.userSubmenu.referrals</source>
-        <target state="translated">Рефералы</target>
+        <target state="translated">Рекомендации</target>
       </trans-unit>
       <trans-unit id="160d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.jobs" approved="yes">
         <source>app.header.userSubmenu.jobs</source>
@@ -125,6 +121,14 @@
         <source>app.header.userSubmenu.manageJobs</source>
         <target state="translated">Управление вакансиями</target>
       </trans-unit>
-    </body>
+    <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
+        <source>app.header.userSubmenu.hiringSolutions</source>
+        <target state="translated">Кадровые решения</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="yes">
+        <source>app.header.userSubmenu.jobPostings</source>
+        <target state="translated">Публикация вакансий</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

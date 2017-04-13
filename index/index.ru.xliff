@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
         <source>app.metaDescriptionIndexPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
         <source>app.theFastestWayToFindNewJobIn</source>
@@ -25,9 +25,9 @@
         <source>app.searchFeaturedJobs</source>
         <target>Search featured jobs</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target>Meet the companies</target>
+        <target state="translated">Знакомьтесь с компаниями</target>
       </trans-unit>
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
         <source>app.seeAllCompanies</source>

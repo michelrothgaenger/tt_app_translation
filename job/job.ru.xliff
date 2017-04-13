@@ -131,7 +131,7 @@
       </trans-unit>
     <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>
-        <target state="translated">Совет: Мы отправляем только заявки с заполненным профилем.</target>
+        <target state="translated">Обратите внимание: Мы отправляем только заявки с заполненным профилем.</target>
       </trans-unit>
       <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
-        <target state="translated">Пожалуйста, нажмите на кнопку внизу, если вы хотите отправить резюме на эту вакансию.  Мы представим Ваш профиль компании.</target>
+        <target state="translated">Пожалуйста, нажмите на кнопку внизу, если вы хотите откликнуться на эту вакансию.  Мы представим Ваш профиль компании.</target>
       </trans-unit>
       <trans-unit id="eab879d7c6fe42e08ca13b1048cc3d81" resname="app.job.section.popup.section.page1.goToProfileMsg" approved="yes">
         <source>app.job.section.popup.section.page1.goToProfileMsg</source>
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
         <source>app.job.popup.referral.linkToReferrals</source>
-        <target state="translated">Здесь Вы найдете данную и все другие Ваши реферальные вакансии.</target>
+        <target state="translated">Здесь Вы найдете данную и все другие Ваши рекомендованные вакансии.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>

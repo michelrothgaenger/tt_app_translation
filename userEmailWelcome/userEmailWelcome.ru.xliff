@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser">
+      <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser" approved="yes">
         <source>app.email.welcomeUser</source>
-        <target></target>
+        <target state="translated">Добро пожаловать в Transport Talent! Вот несколько советов, которые помогут Вам начать работу:&lt;br&gt; &lt;br&gt; &lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%profile%"&gt;1. Помогите нам найти идеальную вакансию для Вас&lt;/a&gt;&lt;br&gt; &lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Заполните свой профиль, чтобы помочь команде Transport Talent найти для Вас лучшие возможности для карьерного роста.&lt;/span&gt;&lt;br&gt; &lt;/div&gt; &lt;/div&gt; &lt;br&gt; &lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%searchjobs%"&gt;2. Найдите вакансии&lt;/a&gt;&lt;br&gt; &lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Ищите вакансии на нашем комплексном портале вакансий, насчитывающем более 6000 вакансий в области транспорта, логистики и системе управления цепями поставок. Вы также можете  Browse jobs on our comprehensive job portal with more than 6,000 jobs within transport, logistics and supply chain management. You can also receive notifications about new positions via email. Just set up a</target>
       </trans-unit>
     <trans-unit id="39141f898aea59e2ce9332f5297f1668" approved="yes">
         <source><![CDATA[app.welcomeEmailSubjectUser]]></source>

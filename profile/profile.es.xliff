@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
-        <target state="translated">Felicidades %username%, tu cuenta ya está activada.</target>
+        <target state="translated">¡ Felicidades %username%! Tu cuenta ya está activada.</target>
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
-        <target state="translated">Aquí verás la lista de empresas a las que sigues. Puedes añadir o eliminar vacantes para ajustar tus resultados de búsqueda.</target>
+        <target state="translated">Tus empresas que sigues.</target>
       </trans-unit>
       <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
-        <target state="translated">Logo e imagen de la empresa</target>
+        <target state="translated">Identidad Corporativa</target>
       </trans-unit>
       <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress" approved="yes">
         <source>app.companyAddress</source>
@@ -131,7 +131,7 @@
       </trans-unit>
       <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
         <source>app.companySize</source>
-        <target state="translated">Tamaño de la empresa</target>
+        <target state="translated">Tamaño</target>
       </trans-unit>
       <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover" approved="yes">
         <source>app.annualTurnover</source>
@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target state="translated">Web</target>
+        <target state="translated">Sitio web</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
         <source>app.about</source>
@@ -159,11 +159,11 @@
       </trans-unit>
       <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
-        <target state="translated">Puesto</target>
+        <target state="translated">Puesto/Posición</target>
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
         <source>app.position</source>
-        <target state="translated">Área</target>
+        <target state="translated">Área de actividad</target>
       </trans-unit>
       <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
-        <target state="translated">Perfil de empresa eliminado</target>
+        <target state="translated">Perfil de empresa desactivado</target>
       </trans-unit>
       <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
@@ -187,7 +187,7 @@
       </trans-unit>
       <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled" approved="yes">
         <source>app.thisFieldMustBeFilled</source>
-        <target state="translated">Rellena este campo.</target>
+        <target state="translated">Este campo es obligatorio.</target>
       </trans-unit>
       <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image" approved="yes">
         <source>Please select or upload an image</source>
-        <target state="translated">Por favor, selecciona o carga una foto</target>
+        <target state="translated">Selecciona o carga una foto</target>
       </trans-unit>
       <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close" approved="yes">
         <source>Close</source>
@@ -331,11 +331,11 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Con Transport Talent ya puedes seguir a las principales empresas del sector Transporte y Logística. Añade o elimina empresas en tu perfil con un solo clic.</target>
+        <target state="translated">Sigue a las principales empresas del sector Transporte y Logística. Añade o elimina empresas en tu perfil como prefieras.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Administra tus vacantes con Transport Talent: agrega y elimina vacantes como desees. Los avisos seguirán disponibles después de la desactivación por parte del empleador para permitirte prepararte para las entrevistas.</target>
+        <target state="translated">Organiza tu búsqueda de empleo con Transport Talent: añade y elimina vacantes a tu lista. Los avisos seguirán disponibles después de la desactivación por parte del empleador para que puedas prepararte para las entrevistas.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
@@ -343,7 +343,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
         <source>app.profile.referrals.sectionDescription</source>
-        <target state="translated">Aquí encuentras tus recomendaciones para las vacantes. Recuerda: una vez que una vacante haya sido cubierta gracias a tu recomendación obtendrás la recompensa indicada junto a la vacante.</target>
+        <target state="translated">Aquí encuentras tus recomendaciones para las vacantes. Recuerda: en el caso de que una vacante se cubra gracias a tu recomendación te corresponderá la recompensa indicada junto a la vacante.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
-        <target state="translated">Ayuda a otros a conseguir un nuevo puesto de trabajo y gana dinero</target>
+        <target state="translated">Ayuda a otros a conseguir un puesto de trabajo y gana dinero</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
@@ -531,19 +531,19 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
-        <target state="translated">Aquí puedes ver tu listado de vacantes.</target>
+        <target state="translated">Tu listado de vacantes.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
-        <target state="translated">Sigue a las empresas de tu interés.</target>
+        <target state="translated">Tu listado de empresas.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
-        <target state="translated">Mantén tu perfil actualizado y atractivo para los principales empleadores del sector.</target>
+        <target state="translated">Recuerda mantener tu perfil atractivo y actual para no pasar desapercibido a los empleadores del sector.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Administra tu cuenta: Configura tus datos, actualiza tu dirección de email o restablece tu contraseña.</target>
+        <target state="translated">Administra tu cuenta:&lt;br&gt;Aquí puedes, p. ej., configurar y actualizar tus datos o restablecer tu contraseña.</target>
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>

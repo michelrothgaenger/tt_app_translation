@@ -31,27 +31,27 @@
       </trans-unit>
       <trans-unit id="16b4c0a32417451bb230baf7ee01bd24" resname="diff.ago.hour" approved="yes">
         <source>diff.ago.hour</source>
-        <target state="translated">%count% hour ago|%count% hours ago</target>
+        <target state="translated">%count% час назад|%count% часа назад|%count% часов назад</target>
       </trans-unit>
       <trans-unit id="422163fdcf8c4d7b8640e86bdb128b4f" resname="diff.in.hour" approved="yes">
         <source>diff.in.hour</source>
-        <target state="translated">in %count% hour|in %count% hours</target>
+        <target state="translated">через %count% час|через %count% часа|через %count% часов</target>
       </trans-unit>
       <trans-unit id="0a1150cbef1c48589a27eb311daeff23" resname="diff.ago.month" approved="yes">
         <source>diff.ago.month</source>
-        <target state="translated">%count% month ago|%count% months ago</target>
+        <target state="translated">%count% месяц назад|%count% месяца назад|%count% месяцев назад</target>
       </trans-unit>
       <trans-unit id="196cd1c50ec9413187e30a5aef740716" resname="diff.in.month" approved="yes">
         <source>diff.in.month</source>
-        <target state="translated">in %count% month|in %count% months</target>
+        <target state="translated">через %count% месяц|через %count% месяца|через %count% месяцев</target>
       </trans-unit>
       <trans-unit id="7adf693270424393956c717526a95261" resname="diff.ago.year" approved="yes">
         <source>diff.ago.year</source>
-        <target state="translated">%count% year ago|%count% years ago</target>
+        <target state="translated">%count% год назад|%count% года назад|%count% лет назад</target>
       </trans-unit>
       <trans-unit id="d3207fc5d3f6467c829f8002ad431a42" resname="diff.in.year" approved="yes">
         <source>diff.in.year</source>
-        <target state="translated">in %count% year|in %count% years</target>
+        <target state="translated">через %count% год|через %count% года|через %count% лет</target>
       </trans-unit>
     </body>
   </file>

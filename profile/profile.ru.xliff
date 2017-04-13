@@ -21,9 +21,9 @@
         <source>app.youCanContinueTo</source>
         <target>You can continue to</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
         <source>app.profile</source>
-        <target>Профиль</target>
+        <target state="translated">Профиль</target>
       </trans-unit>
       <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
         <source>app.profileInputCvUploadBtnText</source>

@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target state="translated">Hola %firstname%,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos, &lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
+        <target state="translated">Estimado usuario,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic en el siguiente enlace: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>
@@ -105,9 +105,9 @@
         <source>app.salutations.placeholder</source>
         <target state="translated">Tratamiento</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="no">
+      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="yes">
         <source>app.jobCategories.placeholder</source>
-        <target state="needs-translation">Clase de empleo</target>
+        <target state="translated">Categoría</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>
@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">¡Encantados de tenerte a bordo! Completa tu perfil para que podamos ayudarte de forma efectiva a encontrar las vacantes más interesantes para ti. Tan solo te tomará unos minutos.</target>
+        <target state="translated">¡Estamos encantados de tenerte a bordo! Completa tu perfil para que podamos ser más efectivos a la hora de mostrarte las vacantes que mejor encajen contigo. Tan solo te llevará unos minutos.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
@@ -187,11 +187,11 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170021" resname="app.userRegister.step2.agreementPart2" approved="yes">
         <source>app.userRegister.step2.agreementPart2</source>
-        <target state="translated">términos y condiciones</target>
+        <target state="translated">Términos y Condiciones</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton" approved="yes">
         <source>app.userRegister.step2.signUpButton</source>
-        <target state="translated">Registrarse</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting" approved="yes">
         <source>app.userRegister.step3.greeting</source>
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170024" resname="app.userRegister.step3.waitForMore" approved="yes">
         <source>app.userRegister.step3.waitForMore</source>
-        <target state="translated">Ahora solo unos minutos más:</target>
+        <target state="translated">Te pedimos ahora unos pocos minutos más:</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170025" resname="app.userRegister.step3.profileFilling" approved="yes">
         <source>app.userRegister.step3.profileFilling</source>
@@ -207,7 +207,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170026" resname="app.userRegister.step3.lookAroundOrContinue" approved="yes">
         <source>app.userRegister.step3.lookAroundOrContinue</source>
-        <target state="translated">Ahora darte una vuelta por la web o continuar completando tu perfil.</target>
+        <target state="translated">Ahora date una vuelta por la web o continúa completando tu perfil.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170027" resname="app.userRegister.step3.continueProfileFilling" approved="yes">
         <source>app.userRegister.step3.continueProfileFilling</source>
@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170030" resname="app.userRegister.step4.shortCV" approved="yes">
         <source>app.userRegister.step4.shortCV</source>
-        <target state="translated">¿Deseas que te contactemos ofreciéndote vacantes que puedan interesarte? Completa ahora la última parte de tu perfil.</target>
+        <target state="translated">¿Deseas que te contactemos con vacantes que puedan interesarte? Completa entonces la última parte de tu perfil y asegúrate de que lo mantienes actualizado.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170032" resname="app.userRegister.step4.shortSummary" approved="yes">
         <source>app.userRegister.step4.shortSummary</source>
@@ -243,7 +243,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170037" resname="app.userRegister.step4.shortSummaryText" approved="yes">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Dinos cual es tu punto fuerte, para así poder ayudarte mejor.</target>
+        <target state="translated">Cuéntanos sobre tí, tus cualidades, y lo que consideres relevante para que podamos ayudarte de forma más efectiva.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target state="translated">Ayúdanos a ayudarte con información más detallada sobre tu perfil profesional.</target>
+        <target state="translated">Ayúdanos a ayudarte: con información más detallada sobre tu perfil.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
@@ -263,19 +263,19 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
-        <target state="translated">Conecta tu perfil en LinkedIn.</target>
+        <target state="translated">Conecta tu cuenta con tu perfil en LinkedIn.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="yes">
         <source>app.userRegister.connectToLinkedInHeader</source>
-        <target state="translated">Conectar con LinkedIn</target>
+        <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170044" resname="app.userRegister.step5.stepImportDataButton" approved="yes">
         <source>app.userRegister.step5.stepImportDataButton</source>
-        <target state="translated">Conectar con LinkedIn</target>
+        <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170045" resname="app.userRegister.step5.congrats" approved="yes">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">¡Felicidades! Tu perfil de LinkedIn ya está conectado a TransportTalent.</target>
+        <target state="translated">¡Perfecto! Tu perfil de LinkedIn ya está conectado a TransportTalent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170077" resname="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>
@@ -315,7 +315,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170054" resname="app.userRegister.step6.fillMaximumInformation" approved="yes">
         <source>app.userRegister.step6.fillMaximumInformation</source>
-        <target state="translated">Contesta solo a las preguntas que desees y con las que te sientas cómodo. Si creemos necesitar más información nos pondremos en contacto contigo.</target>
+        <target state="translated">Contesta solo a las preguntas con las que te sientas cómodo. Si creemos necesitar información más detallada nos pondremos en contacto contigo.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170055" resname="app.userRegister.step6.generalHeader" approved="yes">
         <source>app.userRegister.step6.generalHeader</source>
@@ -351,7 +351,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
         <source>app.userRegister.step7.jobPreferences</source>
-        <target state="translated">Marco personal / Condicionantes personales</target>
+        <target state="translated">Marco personal</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step7.jobPreferencesText" approved="yes">
         <source>app.userRegister.step7.jobPreferencesText</source>
@@ -371,7 +371,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel" approved="yes">
         <source>app.userRegister.step7.preferedLocationsLabel</source>
-        <target state="translated">Tus regiones, países o ciudades preferidas</target>
+        <target state="translated">Regiones, países o ciudades donde te gustaría trabajar</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step7.salaryExpectations" approved="yes">
         <source>app.userRegister.step7.salaryExpectations</source>
@@ -399,7 +399,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170073" resname="form.emailPlaceholder" approved="yes">
         <source>form.emailPlaceholder</source>
-        <target state="translated">Tu correo electrónico</target>
+        <target state="translated">Tu email</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170074" resname="form.passwordPlaceholder" approved="yes">
         <source>form.passwordPlaceholder</source>
@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170075" resname="form.passwordRepeatPlaceholder" approved="yes">
         <source>form.passwordRepeatPlaceholder</source>
-        <target state="translated">Repetir contraseña</target>
+        <target state="translated">Repite tu contraseña</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170078" resname="form.residenceLabel" approved="yes">
         <source>form.residenceLabel</source>

@@ -97,9 +97,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target>TransportTalent does not promise full, uninterrupted or error free operation of the Website and/or the Services. All liability of TransportTalent, its directors or employees howsoever arising for any loss whatsoever arising from your use of or inability to use the Website and/or the Services is excluded, insofar as it is possible to do so in law.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target>Get Started</target>
+        <target state="translated">Давайте начнем</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>

@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>
-        <target state="translated">Регистрируясь, я соглашаюсь с &lt;a target="_blank" href="%termsUrl%"&gt;условиями и положениями/a&gt;</target>
+        <target state="translated">Регистрируясь, я соглашаюсь с &lt;a target="_blank" href="%termsUrl%"&gt;условиями и положениями&lt;/a&gt;</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader" approved="yes">
         <source>app.userRegister.popup.registerHeader</source>

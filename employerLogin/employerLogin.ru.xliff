@@ -25,9 +25,9 @@
         <source>security.login.password</source>
         <target>Пароль</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target>Forgot password?</target>
+        <target state="translated">Забыли пароль?</target>
       </trans-unit>
       <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit">
         <source>security.login.submit</source>

@@ -25,13 +25,13 @@
         <source>app.employerRegisterDesc2</source>
         <target>* Indicates required field.</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
-        <target>I agree to the</target>
+        <target state="translated">Я согласен с</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
-        <target><![CDATA[Terms & Conditions]]></target>
+        <target state="translated">Положениям и Условиями</target>
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg">
         <source>app.checkBoxRequiredMsg</source>

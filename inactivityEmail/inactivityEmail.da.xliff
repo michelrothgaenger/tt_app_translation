@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject">
+      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject" approved="yes">
         <source>app.inactivityEmail.subject</source>
-        <target>Still interested in career opportunities?</target>
+        <target state="translated">Stadig interesseret i nye karrieremuligheder?</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dabc82" resname="app.inactivityEmail">
         <source>app.inactivityEmail</source>

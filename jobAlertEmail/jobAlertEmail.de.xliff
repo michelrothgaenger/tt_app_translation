@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="b7f1f33df7ac42edaa13095cefa9a8c7" resname="app.jobAlertEmail.jobAlertDeleted" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;Ihr Job Agent wurde deaktiviert. Wir hoffen, Sie haben die Position gefunden nach der Sie gesucht haben. Sie können jederzeit einen weiteren Agenten in Ihrem &lt;a href="%jobAlertsUrl%"&gt;Profil&lt;/a&gt; anlegen. Bitte lassen Sie uns wissen, wenn wir unseren Job Agenten verbessern können, um Sie bei Ihrer Suche optimal unterstützen zu können.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;Ihr Suchagent "%title%" wurde deaktiviert. Wir hoffen, Sie haben die Position gefunden, nach der Sie gesucht haben. Sie können jederzeit einen weiteren Agenten in Ihrem &lt;a href="%jobAlertsUrl%"&gt;Profil&lt;/a&gt; anlegen. Bitte lassen Sie uns wissen, wenn wir unseren Suchagenten verbessern können, um Sie bei Ihrer Suche optimal zu unterstützen.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport-Talent-Team</target>
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>

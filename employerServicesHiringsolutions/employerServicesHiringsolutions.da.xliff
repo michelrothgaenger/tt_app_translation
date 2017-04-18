@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="cc3dfa18f31142f597da97ffbdd86f26" resname="app.employerServicesHiringsolutions.ad.rightTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightTitle</source>
-        <target state="translated">Jobannoncering har aldirg været nemmere</target>
+        <target state="translated">Jobannoncering har aldrig været nemmere</target>
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
@@ -139,15 +139,15 @@
       </trans-unit>
       <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
-        <target state="translated">VORES LØSNINGER</target>
+        <target state="translated">Vores løsninger</target>
       </trans-unit>
       <trans-unit id="20e7d10f86ae4912a94d144252b46074" resname="app.employerServicesHiringsolutions.section.singleJobPost.header" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.header</source>
         <target state="translated">Enkle og gennemskuelige priser så i ved hvad i skal budgettere med</target>
       </trans-unit>
-      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
+      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="no">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
+        <target state="needs-translation">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -157,9 +157,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
         <target state="translated">Fastholdelsesgaranti</target>
       </trans-unit>
-      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
+      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="no">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">Recruitment Lite</target>
+        <target state="needs-translation">Recruitment Lite</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
@@ -169,9 +169,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
         <target state="translated">Hvis jeres nye medarbejder falder fra inden for de første måneder så tilbyder vi at finde en ny til jer uden beregning.</target>
       </trans-unit>
-      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
+      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="no">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="translated">Recruitment Premium</target>
+        <target state="needs-translation">Recruitment Premium</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -209,9 +209,9 @@
         <source>app.employerServicesHiringsolutions.meta.description</source>
         <target state="translated">Gør din ansættelsesproces hurtig, omkostningseffektiv og strømlinet - med Transport Talent.</target>
     </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
+    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="no">
         <source>app.employerServicesHiringsolutions.subheadline</source>
-        <target state="translated">Få fat i de bedste fagfolk indenfor transport- og logistik til jeres ledige stillinger</target>
+        <target state="needs-translation">Få fat i de bedste fagfolk indenfor transport- og logistik til jeres ledige stillinger</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>

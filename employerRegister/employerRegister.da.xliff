@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
+      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="no">
         <source>app.register</source>
-        <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
+        <target state="needs-translation">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
       </trans-unit>
-      <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
+      <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage" approved="yes">
         <source>app.metaDescriptionEmployerRegisterPage</source>
-        <target/>
+        <target state="translated">Find de bedste fagfolk fra transport- og logistikbranchen med vores målrettede rekrutterings- og annonceringsservices.</target>
       </trans-unit>
       <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
-        <target state="translated">Opret en gratisk virksomhedsprofil her og få adgang til de bedste talenter i industrien.&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Opret en gratis virksomhedsprofil og få adgang til de bedste talenter i industrien.&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target state="translated">Udfyld venligst dette felt, hvis du vil fortsætte .</target>
+        <target state="translated">Udfyld venligst dette felt, hvis du vil fortsætte.</target>
       </trans-unit>
       <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
@@ -53,9 +53,9 @@
         <source>app.last_name</source>
         <target state="translated">Efternavn</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="no">
         <source>app.position</source>
-        <target state="translated">Niveau</target>
+        <target state="needs-translation">Niveau</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
         <source>app.email</source>
@@ -81,6 +81,10 @@
         <source>app.signUp</source>
         <target state="translated">Opret</target>
       </trans-unit>
+    <trans-unit id="6680d24c091a48388818a0479cfe30aa" resname="app.requiredErrorText" approved="yes">
+              <source>app.requiredErrorText</source>
+              <target state="translated">Dette felt er påkrævet.</target>
+            </trans-unit>
     </body>
   </file>
 </xliff>

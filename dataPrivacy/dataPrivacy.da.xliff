@@ -129,9 +129,9 @@
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
         <target state="translated">Hvis du har spørgsmål, bekymringer eller kommentarer til TransportTalent eller denne hjemmeside, så kontakt os:</target>
       </trans-unit>
-      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>
-        <target><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
+        <target state="translated"><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

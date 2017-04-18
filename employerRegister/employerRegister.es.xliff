@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">Registrarme</target>
+        <target state="translated">Regístrate</target>
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage" approved="yes">
         <source>app.metaDescriptionEmployerRegisterPage</source>
-        <target state="translated">Entra en Transport Talent y encuentra a los mejores candidatos en Transporte y Logística.</target>
+        <target state="translated">Entra en Transport Talent y encuentra a los mejores candidatos en transporte, logística y cadena de suministro.</target>
       </trans-unit>
       <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target state="translated">Por favor, rellena los campos obligatorios para continuar.</target>
+        <target state="translated">Por favor, rellena los campos obligatorios.</target>
       </trans-unit>
       <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>

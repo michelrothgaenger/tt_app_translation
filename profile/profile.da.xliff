@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
-        <target state="translated">A PHP extension stopped the file upload</target>
+        <target state="translated">En PHP extension stoppede file upload</target>
       </trans-unit>
       <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
@@ -317,9 +317,9 @@
         <source>Image requires a minimum height (%min%)</source>
         <target state="translated">Billeder skal have en minimum højde (%min%)</target>
       </trans-unit>
-      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted" approved="no">
+      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted" approved="yes">
         <source>File upload aborted</source>
-        <target state="needs-translation">File upload aborted</target>
+        <target state="translated">File upload afbrudt</target>
       </trans-unit>
       <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
@@ -807,7 +807,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
         <source>app.profile.profileVM.connectedToLinkedIn</source>
-        <target state="translated">Forbundet til LinkedIn</target>
+        <target state="translated">Connected til LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
         <source>app.profile.profileVM.connectLinkedInToTT</source>

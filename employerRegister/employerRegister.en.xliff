@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
         <source>app.register</source>
-        <target state="translated">check our transport and logistics talent and register with us</target>
+        <target state="translated">Employer registration</target>
       </trans-unit>
       <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage" approved="yes">
         <source>app.metaDescriptionEmployerRegisterPage</source>
@@ -53,9 +53,9 @@
         <source>app.last_name</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="no">
         <source>app.position</source>
-        <target state="translated">Level</target>
+        <target state="needs-translation">Level</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>

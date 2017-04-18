@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="ru" datatype="plaintext" original="file.ext">
     <header>
@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
@@ -133,9 +133,9 @@
         <source>app.termsPageAddress</source>
         <target>Transport Talent, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Электронная почта</target>
       </trans-unit>
     </body>
   </file>

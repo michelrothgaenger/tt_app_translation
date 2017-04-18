@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="no">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target state="needs-translation">Fremhævede virksomheder</target>
+        <target state="translated">Fremhævede virksomheder</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
+      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound" approved="yes">
         <source>app.noCompaniesFound</source>
-        <target>Ingen virksomheder fundet</target>
+        <target state="translated">Ingen virksomheder fundet</target>
       </trans-unit>
     <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription" approved="yes">
         <source>app.employers.pageDescription</source>

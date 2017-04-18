@@ -9,9 +9,9 @@
         <source>app.register</source>
         <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="no">
         <source>app.registration</source>
-        <target state="translated">Kom igang</target>
+        <target state="needs-translation">Kom igang</target>
       </trans-unit>
       <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
         <source>app.signInWithLinkedIn</source>

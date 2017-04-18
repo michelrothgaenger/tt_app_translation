@@ -77,6 +77,18 @@
         <source>Warehousing &amp; Distribution</source>
         <target state="translated">Lager &amp; Distribution</target>
       </trans-unit>
+    <trans-unit id="58bbcb44e57f458d90d1cb5c3b87f7bb" resname="Oceanfreight/Seafreight" approved="yes">
+        <source>Oceanfreight/Seafreight</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="af71d7f95abd42a38bc8bf018344b35f" resname="Manufacturing" approved="yes">
+        <source>Manufacturing</source>
+        <target state="translated"/>
+      </trans-unit>
+      <trans-unit id="deffd10b6f7844deb47012667fa4b283" resname="Consulting" approved="yes">
+        <source>Consulting</source>
+        <target state="translated"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

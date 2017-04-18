@@ -85,6 +85,10 @@
         <source>app.jobs.alert.editCreate.noTitleError</source>
         <target state="translated">Job Alert title can not be empty</target>
       </trans-unit>
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="yes">
+        <source>app.jobs.selectAutocompleteItem</source>
+        <target state="translated">Please, choose item from the list to continue!</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -11,48 +11,7 @@
       </trans-unit>
       <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser" approved="yes">
         <source>app.email.welcomeUser</source>
-        <target state="translated">Hi %firstname%,&lt;br&gt;
-&lt;/div&gt;
-&lt;br&gt;
-Welcome to Transport Talent! A few tips to help you get started:&lt;br&gt;
-&lt;br&gt;
-&lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%profile%"&gt;1.
-Complete your profile and get headhunted &lt;/a&gt;&lt;br&gt;
-&lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Your
-profile is not 100% complete yet — a complete profile will help the
-Transport Talent recruitment to find and headhunt you for the right
-career opportunities.&lt;/span&gt;&lt;br&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%searchjobs%"&gt;2.
-Start browsing jobs and employers&lt;/a&gt;&lt;br&gt;
-&lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Start
-searching for job opportunities by using our comprehensive job portal
-or learn more about the top employers in the industry in our company
-profile directory.&lt;/span&gt;&lt;br&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a
-href="http://blog.transporttalent.com"&gt;3. Stay up to date&lt;/a&gt;&lt;br&gt;
-&lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Check
-back in with us on a regular basis and read our blog with interesting
-articles about career advice, explore employers and general market
-information.&lt;/span&gt;&lt;br&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;br&gt;
-&lt;form action="input_button.htm"&gt;
-&lt;p&gt;&lt;input name="Verweis" value="Complete your profile"
-onclick="self.location.href='%profile%'" type="button"&gt; &lt;/p&gt;
-&lt;/form&gt;
-&lt;br&gt;
-Thanks for being a part of the Transport Talent community— &lt;br&gt;
-&lt;br&gt;
-Ulrich Nissen&lt;br&gt;
-Managing Director, Transport Talent&lt;br&gt;
-&lt;br&gt;</target>
+        <target state="translated">Welcome to Transport Talent! Here are a few tips to help you get started:&lt;br&gt; &lt;br&gt; &lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%profile%"&gt;1. Get headhunted &lt;/a&gt;&lt;br&gt; &lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Complete your profile to help the Transport Talent team find the best career opportunities for you.&lt;/span&gt;&lt;br&gt; &lt;/div&gt; &lt;/div&gt; &lt;br&gt; &lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%searchjobs%"&gt;2. Find jobs&lt;/a&gt;&lt;br&gt; &lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Browse jobs on our comprehensive job portal with more than 6.000 jobs within transport, logistics and supply chain management. You can also receive notifications about new positions via email. Just set up a &lt;a href="%jobAlertUrl%"&gt;job alert&lt;/a&gt; with your own specifications and we will keep you posted.&lt;/span&gt;&lt;br&gt; &lt;/div&gt; &lt;/div&gt; &lt;br&gt; &lt;div style="text-align: left; font-weight: bold;"&gt;&lt;a href="%blogUrl%"&gt;3. Stay up to date&lt;/a&gt;&lt;br&gt; &lt;div style="margin-left: 40px;"&gt;&lt;span style="font-weight: normal;"&gt;Read our blog with interesting articles on career topics, such as &lt;a href="%blogUrl%/common-interview-questions-for-transport-and-logistics-jobs"&gt;“Common Interview Questions for Transport and Logistics Jobs”&lt;/a&gt;.&lt;/span&gt;&lt;br&gt; &lt;/div&gt; &lt;/div&gt; &lt;br&gt; &lt;form action="input_button.htm"&gt; &lt;p&gt;&lt;input name="Verweis" value="Complete your profile" onclick="self.location.href='%profile%'" type="button"&gt; &lt;/p&gt; &lt;/form&gt; &lt;br&gt;Thanks for being part of the Transport Talent community. Please do not hesitate to contact us if you need any further information.&lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;Ulrich Nissen&lt;br&gt;CEO at Transport Talent&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
     </body>
   </file>

@@ -45,17 +45,17 @@
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
         <target state="translated">En af vores rekrutteringskonsulenter vil supportere dig gennem hele processen og vil foretage en omfattende søgning af markedet. Alle ansøgere vil blive screenet og de mest relevante interviewet før vi præsentere dig for en liste af håndplukkede kandidater, der matcher kriterierne for din ledige stilling.</target>
       </trans-unit>
-      <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="no">
+      <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="needs-translation">Recruitment Lite</target>
+        <target state="translated">Recruitment Lite</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="no">
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="needs-translation">Opstartspris: DKK 5.000</target>
+        <target state="translated">Opstartspris: DKK 5.000</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="no">
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
                 <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-                <target state="needs-translation">Opstartspris: DKK 10.000</target>
+                <target state="translated">Opstartspris: DKK 10.000</target>
               </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
@@ -145,9 +145,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.header</source>
         <target state="translated">Enkle og gennemskuelige priser så i ved hvad i skal budgettere med</target>
       </trans-unit>
-      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="no">
+      <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="needs-translation">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
+        <target state="translated">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -157,9 +157,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
         <target state="translated">Fastholdelsesgaranti</target>
       </trans-unit>
-      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="no">
+      <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="needs-translation">Recruitment Lite</target>
+        <target state="translated">Recruitment Lite</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
@@ -169,9 +169,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
         <target state="translated">Hvis jeres nye medarbejder falder fra inden for de første måneder så tilbyder vi at finde en ny til jer uden beregning.</target>
       </trans-unit>
-      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="no">
+      <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="needs-translation">Recruitment Premium</target>
+        <target state="translated">Recruitment Premium</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -209,9 +209,9 @@
         <source>app.employerServicesHiringsolutions.meta.description</source>
         <target state="translated">Gør din ansættelsesproces hurtig, omkostningseffektiv og strømlinet - med Transport Talent.</target>
     </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="no">
+    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
-        <target state="needs-translation">Få fat i de bedste fagfolk indenfor transport- og logistik til jeres ledige stillinger</target>
+        <target state="translated">Få fat i de bedste fagfolk indenfor transport- og logistik til jeres ledige stillinger</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>

@@ -57,6 +57,14 @@
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">Dateiformat muss PDF sein</target>
         </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="yes">
+          <source>app.flash.unsubscribed</source>
+          <target state="translated">Abmelden</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
+          <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
+          <target state="translated">Es ist nicht möglich, sich von Sicherheits-E-Mails abzumelden, da diese sehr wichtig sind um Ihr Konto sicher zu halten</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

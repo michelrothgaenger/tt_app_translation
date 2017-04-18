@@ -85,9 +85,9 @@
           <source>app.notRegisteredCta</source>
           <target state="translated">Ikke registreret endnu? Klik her for at registrere.</target>
         </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target>Glemt din adgangskode?</target>
+        <target state="translated">Glemt din adgangskode?</target>
       </trans-unit>
     </body>
   </file>

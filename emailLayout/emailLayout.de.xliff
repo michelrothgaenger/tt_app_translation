@@ -25,6 +25,22 @@
         <source>app.imprint</source>
         <target state="translated">Impressum</target>
       </trans-unit>
+    <trans-unit id="72038d4be7b2234d28b315923a8f3ad0" resname="app.emailLayout.mailingAddress.title" approved="yes">
+        <source>app.emailLayout.mailingAddress.title</source>
+        <target state="translated">Unsere E-Mail-Adresse lautet:</target>
+      </trans-unit>
+      <trans-unit id="72038d4be7b2234d28b315923a8f3ad1" resname="app.emailLayout.copyright" approved="yes">
+        <source>app.emailLayout.copyright</source>
+        <target state="translated">Copyright © %year% Transport Talent ApS, alle Rechte vorbehalten.</target>
+      </trans-unit>
+      <trans-unit id="72038d4be7b2234d28b315923a8f3ad2" resname="app.emailLayout.wantToUnsubscribe" approved="yes">
+        <source>app.emailLayout.wantToUnsubscribe</source>
+        <target state="translated">Sie möchten solche Nachrichten nicht mehr von uns erhalten?</target>
+      </trans-unit>
+      <trans-unit id="72038d4be7b2234d28b315923a8f3ad3" resname="app.emailLayout.unsubscribeLinkTitle" approved="yes">
+        <source>app.emailLayout.unsubscribeLinkTitle</source>
+        <target state="translated">Abmelden</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

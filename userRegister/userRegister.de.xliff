@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170061" resname="app.userRegister.step6.photoNotLarger" approved="yes">
         <source>app.userRegister.step6.photoNotLarger</source>
-        <target state="translated">Dateigröße darf 1 MB nicht überschreiten.</target>
+        <target state="translated">Dateigröße darf 15 MB nicht überschreiten.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step7.stepYourPreferences" approved="yes">
         <source>app.userRegister.step7.stepYourPreferences</source>

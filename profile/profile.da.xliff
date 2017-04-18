@@ -223,7 +223,7 @@
       </trans-unit>
       <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use" approved="yes">
         <source>Crop and Use</source>
-        <target state="translated">Busker og brug</target>
+        <target state="translated">Beskær og brug</target>
       </trans-unit>
       <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here" approved="yes">
         <source>Drop your file here</source>
@@ -237,9 +237,9 @@
         <source>Select a file...</source>
         <target state="translated">Vælg en fil...</target>
       </trans-unit>
-      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="no">
+      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="yes">
         <source>Please adjust selection to your image</source>
-        <target state="needs-translation">Please adjust selection to your image</target>
+        <target state="translated">Juster valg til dit billede</target>
       </trans-unit>
       <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image" approved="yes">
         <source>Please select or upload an image</source>
@@ -251,11 +251,11 @@
       </trans-unit>
       <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !" approved="yes">
         <source>Crop &amp; Use !</source>
-        <target state="translated">Tilret &amp; Brug  !</target>
+        <target state="translated">Beskær &amp; brug !</target>
       </trans-unit>
       <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
-        <target state="translated">Den uploaded fil overstiger den maksimale størrelse.</target>
+        <target state="translated">Den uploadede fil overstiger den maksimale størrelse.</target>
       </trans-unit>
       <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
@@ -273,13 +273,13 @@
         <source>Missing a temporary folder</source>
         <target state="translated">Mangler en midlertidig mappe</target>
       </trans-unit>
-      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk" approved="no">
+      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk" approved="yes">
         <source>Failed to write file to disk</source>
-        <target state="needs-translation">Failed to write file to disk</target>
+        <target state="translated">Kunne ikke gemme filen på disken</target>
       </trans-unit>
-      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload">
+      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
-        <target>A PHP extension stopped the file upload</target>
+        <target state="translated">A PHP extension stopped the file upload</target>
       </trans-unit>
       <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
@@ -387,7 +387,7 @@
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Sign in med Google</target>
+        <target state="translated">Log ind med Google</target>
       </trans-unit>
       <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
         <source>app.profile.login.service.active</source>
@@ -399,7 +399,7 @@
       </trans-unit>
       <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable" approved="yes">
         <source>app.profile.login.service.disable</source>
-        <target state="translated">Deaktiver</target>
+        <target state="translated">De-aktiver</target>
       </trans-unit>
       <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
         <source>app.profile.login.service.register</source>
@@ -435,7 +435,7 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
-        <target state="translated">Her kan du se dine shortlisted jobs.</target>
+        <target state="translated">Her kan du se dine shortlistede jobs.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
@@ -443,11 +443,11 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
-        <target state="translated">Sørg for at din profil er up to date så virksomhederne kan få øje på dig.</target>
+        <target state="translated">Sørg for at din profil er opdateret så virksomhederne kan få øje på dig.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Manage dine kontoindstillinger, f.eks. emailadresse og kodeord.</target>
+        <target state="translated">Manage dine kontoindstillinger, fx emailadresse og kodeord.</target>
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
@@ -517,21 +517,21 @@
         <source>app.profile.dashboard.referrals.tile.title</source>
         <target state="translated">Henvisninger</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="no">
+      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="yes">
         <source>app.profile.section.jobAlerts.title</source>
-        <target state="needs-translation">JOB ALERTS</target>
+        <target state="translated">JOBAGENT</target>
       </trans-unit>
       <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
         <source>app.profile.section.jobAlerts.descr</source>
-        <target state="translated">Ønsker du at få en påmindelse om nye jobopslag? Opret en flere alerts med dine egne kriterier så vi kan sende dig en e-mail når der er nye ledige stillinger.</target>
+        <target state="translated">Ønsker du at få en påmindelse om nye jobopslag? Opret en flere jobagenter med dine egne kriterier så vi kan sende dig en e-mail når der er nye ledige stillinger.</target>
       </trans-unit>
       <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
-        <target state="translated">OPRET JOB ALERT</target>
+        <target state="translated">OPRET JOBAGENT</target>
       </trans-unit>
       <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.title</source>
-        <target state="translated">GEM ALERT</target>
+        <target state="translated">GEM JOBAGENT</target>
       </trans-unit>
       <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.note</source>
@@ -539,11 +539,11 @@
       </trans-unit>
       <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
-        <target state="translated">Alert Titel *</target>
+        <target state="translated">Jobagent Titel *</target>
       </trans-unit>
       <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
-        <target state="translated">Tid til at sende *</target>
+        <target state="translated">Notifikationsfrekvens *</target>
       </trans-unit>
       <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
@@ -563,7 +563,7 @@
       </trans-unit>
       <trans-unit id="8cf9b47a88854c99bd22ac54becd214e" resname="app.profile.section.jobAlert.itemTitle" approved="yes">
         <source>app.profile.section.jobAlert.itemTitle</source>
-        <target state="translated">Alert for</target>
+        <target state="translated">Agent til</target>
       </trans-unit>
       <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
         <source>app.profile.section.jobAlert.deleteButtonLabel</source>
@@ -575,7 +575,7 @@
       </trans-unit>
       <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
         <source>app.employer.disabledField.companyBranding</source>
-        <target state="translated">Virksomhedsbranding editing er deaktiveret medmindre din konto er godkendt.</target>
+        <target state="translated">Virksomhedsbranding redigering er deaktiveret medmindre din konto er godkendt.</target>
       </trans-unit>
       <trans-unit id="9c70e8111c124a8a96cfd89af10b664c" resname="app.employer.disabledField.companyAddress" approved="yes">
         <source>app.employer.disabledField.companyAddress</source>
@@ -643,40 +643,228 @@
       </trans-unit>
     <trans-unit id="353ef4c948ee40bfa43927921f960482" resname="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
-        <target state="translated"/>
+        <target state="translated">ÆNDRE JOBAGENT</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
         <source>app.profile.editor.experience</source>
-        <target state="translated"/>
+        <target state="translated">Erfaring</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
         <source>app.profile.editor.specialityLabel</source>
-        <target state="translated"/>
+        <target state="translated">Hvor er din ekspertise?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
         <source>app.profile.linkedinImportDataButton</source>
-        <target state="translated"/>
+        <target state="translated">Connect med LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
         <source>app.profile.editor.congrats</source>
-        <target state="translated"/>
+        <target state="translated">Tillykke! Du har nu connected din LinkedIn-konto til Transport Talent.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
-        <target state="translated"/>
+        <target state="translated">Slet CV</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
         <source>app.profile.editor.cvSuccesPart1</source>
-        <target state="translated"/>
+        <target state="translated">Du har nu importeret</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2" approved="yes">
         <source>app.profile.editor.cvSuccesPart2</source>
-        <target state="translated"/>
+        <target state="translated">som dit CV.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload" approved="yes">
         <source>app.profile.editor.fileUpload</source>
-        <target state="translated"></target>
+        <target state="translated">Upload fil</target>
       </trans-unit>
-      </body>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d001" resname="app.signInWithLinkedin" approved="yes">
+        <source>app.signInWithLinkedin</source>
+        <target state="translated">Log ind med Linkedin</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d002" resname="app.signInWithFacebook" approved="yes">
+        <source>app.signInWithFacebook</source>
+        <target state="translated">Log ind med Facebook</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170097" resname="app.profile.editor.cvRestriction" approved="yes">
+        <source>app.profile.editor.cvRestriction</source>
+        <target state="translated">Filen skal være en PDF og ikke større end 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.profile.editor.generalHeader" approved="yes">
+        <source>app.profile.editor.generalHeader</source>
+        <target state="translated">Generel</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170101" resname="app.profile.editor.photoHeader" approved="yes">
+        <source>app.profile.editor.photoHeader</source>
+        <target state="translated">Billede</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170103" resname="app.profile.editor.editPhoto" approved="yes">
+        <source>app.profile.editor.editPhoto</source>
+        <target state="translated">Rediger billede</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170104" resname="app.profile.editor.deletePhoto" approved="yes">
+        <source>app.profile.editor.deletePhoto</source>
+        <target state="translated">Slet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170105" resname="app.profile.editor.photoPixelsMinimum" approved="yes">
+        <source>app.profile.editor.photoPixelsMinimum</source>
+        <target state="translated">Mindst 150 x 150 pixel.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170106" resname="app.profile.editor.photoNotLarger" approved="yes">
+        <source>app.profile.editor.photoNotLarger</source>
+        <target state="translated">Filen må ikke være større end 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories" approved="yes">
+        <source>app.profile.editor.preferedJobCategories</source>
+        <target state="translated">Foretrukne jobkategorier</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations" approved="yes">
+        <source>app.profile.editor.preferedLocations</source>
+        <target state="translated">Foretrukne regioner og lande</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations" approved="yes">
+        <source>app.profile.editor.salaryExpectations</source>
+        <target state="translated">Lønforventninger</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170124" resname="app.profile.editor.profileEdit" approved="yes">
+        <source>app.profile.editor.profileEdit</source>
+        <target state="translated">Rediger profil</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader" approved="yes">
+        <source>app.profile.editor.profileEditionHeader</source>
+        <target state="translated">Fortæl os, hvilken slags jobs du søger, og i hvilken del af verden. Hvis du har importeret dine data fra Linkedin så kan du allerede finde nogle af dine data her.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel" approved="yes">
+        <source>app.profile.editor.experienceLabel</source>
+        <target state="translated">Antal års erhvervserfaring?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder" approved="yes">
+        <source>app.profile.editor.experiencePlaceholder</source>
+        <target state="translated">År</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader" approved="yes">
+        <source>app.profile.editor.connectToLinkedInHeader</source>
+        <target state="translated">Forbind til LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel" approved="yes">
+        <source>app.profile.editor.residenceLabel</source>
+        <target state="translated">Bopæl</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170119" resname="app.profile.editor.salutationLabel" approved="yes">
+        <source>app.profile.editor.salutationLabel</source>
+        <target state="translated">Title</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
+        <source>app.profile.editor.salaryLabel</source>
+        <target state="translated">Årlig løn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder" approved="yes">
+        <source>app.profile.editor.salaryPlaceholder</source>
+        <target state="translated">Indtast din løn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170122" resname="app.profile.editor.currencyLabel" approved="yes">
+        <source>app.profile.editor.currencyLabel</source>
+        <target state="translated">Valuta</target>
+      </trans-unit>
+      <trans-unit id="5351aae16cf99cb2a1cd701770608123" resname="app.profile.editor.locationPlaceholder" approved="yes">
+        <source>app.profile.editor.locationPlaceholder</source>
+        <target state="translated">Indtast din lokation</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170125" resname="app.profile.editor.CvHeader" approved="yes">
+        <source>app.profile.editor.CvHeader</source>
+        <target state="translated">CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170126" resname="app.profile.dashboard.congratulationsHeader" approved="yes">
+        <source>app.profile.dashboard.congratulationsHeader</source>
+        <target state="translated">Tillykke %firstName% %lastName%!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170127" resname="app.profile.dashboard.congratulationsText" approved="yes">
+        <source>app.profile.dashboard.congratulationsText</source>
+        <target state="translated">Du gjorde det. Din profil er nu opdateret med alle oplysninger. Hvis vi falder over noget vi mener ville være at uddybe skal vi nok tage fat i dig.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170149" resname="app.profile.profileVM.profileHeader" approved="yes">
+        <source>app.profile.profileVM.profileHeader</source>
+        <target state="translated">Profil</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
+        <source>app.profile.profileVM.profileHeaderText</source>
+        <target state="translated">Dine profil oplysninger hjælper os med at finde frem til de meste interessante jobtilbud for dig. Du kan til enhver tid vende tilbage til din profil og lave de ændringer du ønsker.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
+        <source>app.profile.profileVM.summaryHeader</source>
+        <target state="translated">Resume</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText" approved="yes">
+        <source>app.profile.profileVM.experienceText</source>
+        <target state="translated">Du har %count% års erfaring|Du har %count% års erfaring</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText" approved="yes">
+        <source>app.profile.profileVM.noExperienceText</source>
+        <target state="translated">Du har ikke angivet din erfaring</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
+        <source>app.profile.profileVM.specealityHeader</source>
+        <target state="translated">Dit fagområde er</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
+        <source>app.profile.profileVM.connectedToLinkedIn</source>
+        <target state="translated">Forbundet til LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <target state="translated">Du har oprettet forbindelse mellem din LinkedIn-konto og Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv" approved="yes">
+        <source>app.profile.profileVM.successCv</source>
+        <target state="translated">Dit CV er</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
+        <source>app.profile.profileVM.birthday</source>
+        <target state="translated">Fødselsdag:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
+        <source>app.profile.profileVM.placeOfResidence</source>
+        <target state="translated">Bopæl:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+        <source>app.salutations.placeholder</source>
+        <target state="translated">Vælg titel....</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
+        <source>app.profile.profileVM.noSpecialtiesText</source>
+        <target state="translated">Du har ikke angivet dine ekspertiseområder</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader" approved="yes">
+        <source>app.profile.profileVM.CvHeader</source>
+        <target state="translated">CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV" approved="yes">
+        <source>app.profile.profileVM.noCV</source>
+        <target state="translated">Ingen CV uploaded</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence" approved="yes">
+        <source>app.profile.profileVM.noResidence</source>
+        <target state="translated">Bopæl er ikke angivet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday" approved="yes">
+        <source>app.profile.profileVM.noBirthday</source>
+        <target state="translated">Fødselsdag er ikke angivet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories" approved="yes">
+        <source>app.profile.profileVM.noPreferredCategories</source>
+        <target state="translated">Ønskede kategorier er ikke angivet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations" approved="yes">
+        <source>app.profile.profileVM.noPreferredLocations</source>
+        <target state="translated">Foretrukne lokationer er ikke angivet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary" approved="yes">
+        <source>app.profile.profileVM.noSalary</source>
+        <target state="translated">Løn er ikke angivet</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
+        <source>app.profile.editor.birthdayPlaceholder</source>
+        <target state="translated">DD/MM/YYYY</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

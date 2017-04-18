@@ -9,21 +9,21 @@
         <source>app.signIn</source>
         <target state="translated">Log ind</target>
       </trans-unit>
-      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="yes">
+      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="no">
         <source>app.metaDescriptionEmployerLoginPage</source>
-        <target state="translated">Log ind for at finde de fremtidige profiler til din virksomhed</target>
+        <target state="needs-translation">Log ind for at finde de fremtidige profiler til din virksomhed</target>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="yes">
+      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="no">
         <source>app.employerLoginHeadline</source>
-        <target state="translated">Dejligt at have dig tilbage.</target>
+        <target state="needs-translation">Dejligt at have dig tilbage.</target>
       </trans-unit>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
+      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="no">
         <source>app.employerLoginCta</source>
-        <target state="translated">Hvis du allerede har en konto kan du blot fortsætte.</target>
+        <target state="needs-translation">Hvis du allerede har en konto kan du blot fortsætte.</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
+      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="no">
         <source>security.login.password</source>
-        <target state="translated">Adgangskode</target>
+        <target state="needs-translation">Adgangskode</target>
       </trans-unit>
       <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
         <source>app.forgotPassword</source>
@@ -33,10 +33,14 @@
         <source>security.login.submit</source>
         <target>Log ind</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="no">
         <source>app.notRegisteredCta</source>
-        <target state="translated">Ikke registreret endnu? Klik her for at registrere.</target>
+        <target state="needs-translation">Ikke registreret endnu? Klik her for at registrere.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="app.employerLogin.email.placeholder" approved="yes">
+        <source>app.employerLogin.email.placeholder</source>
+        <target state="translated">Email</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

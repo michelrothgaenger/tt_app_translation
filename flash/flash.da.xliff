@@ -7,55 +7,55 @@
     <body>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved" approved="yes">
           <source>app.flash.companyUnsaved</source>
-          <target state="translated">Company has been removed from profile</target>
+          <target state="translated">Virksomheden er blevet fjernet fra profilen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved" approved="yes">
           <source>app.flash.companySaved</source>
-          <target state="translated">Company has been saved to profile</target>
+          <target state="translated">Virksomheden er blevet gemt til profil</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved" approved="yes">
           <source>app.flash.jobUnsaved</source>
-          <target state="translated">Job has been removed from profile</target>
+          <target state="translated">Job er blevet fjernet fra profilen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved" approved="yes">
           <source>app.flash.jobSaved</source>
-          <target state="translated">Job has been saved to profile</target>
+          <target state="translated">Job er blevet gemt til profilen</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
-          <target state="translated">Link copied to clipboard</target>
+          <target state="translated">Link kopieret til clipboard</target>
         </trans-unit>
         <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error" approved="yes">
           <source>app.flash.error</source>
-          <target state="translated">Error</target>
+          <target state="translated">Fejl</target>
         </trans-unit>
         <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
-          <target state="translated">Could not auth via %serviceName%, please try again</target>
+          <target state="translated">Kunne ikke auth via %serviceName%, prøv venligst igen</target>
         </trans-unit>
         <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>
-          <target state="translated">You have no permissions to edit this job</target>
+          <target state="translated">Du har ikke rettigheder til at redigere dette job</target>
         </trans-unit>
         <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs" approved="yes">
           <source>app.flash.job.employer.cantPostJobs</source>
-          <target state="translated">You have no permissions to post jobs</target>
+          <target state="translated">Du har ikke rettigheder til at opslå stillinger</target>
         </trans-unit>
         <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved" approved="yes">
           <source>app.flash.job.employer.saved</source>
-          <target state="translated">Job has been saved</target>
+          <target state="translated">Jobbet er blevet gemt</target>
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
           <source>app.flashMessageJobPosted</source>
-          <target state="translated">Your job has been posted</target>
+          <target state="translated">Dit job er nu slået op</target>
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa811" resname="app.flash.cv.upload.error.general" approved="yes">
           <source>app.flash.cv.upload.error.general</source>
-          <target state="translated">Error while uploading CV</target>
+          <target state="translated">Fejl under upload af CV</target>
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType" approved="yes">
           <source>app.flash.cv.upload.error.wrongType</source>
-          <target state="translated">The file must be a PDF</target>
+          <target state="translated">Denne fil skal være en PDF</target>
         </trans-unit>
     </body>
   </file>

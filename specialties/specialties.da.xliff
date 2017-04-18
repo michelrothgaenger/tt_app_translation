@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
         <source>Project Cargo</source>
-        <target state="translated">Projektgods</target>
+        <target state="translated">Projektlast</target>
       </trans-unit>
       <trans-unit id="569cfa311dfdfa035b1e7d4b38dc9ca0" resname="Rail" approved="yes">
         <source>Rail</source>
@@ -79,15 +79,15 @@
       </trans-unit>
     <trans-unit id="58bbcb44e57f458d90d1cb5c3b87f7bb" resname="Oceanfreight/Seafreight" approved="yes">
         <source>Oceanfreight/Seafreight</source>
-        <target state="translated"/>
+        <target state="translated">Søfragt</target>
       </trans-unit>
       <trans-unit id="af71d7f95abd42a38bc8bf018344b35f" resname="Manufacturing" approved="yes">
         <source>Manufacturing</source>
-        <target state="translated"/>
+        <target state="translated">Produktion</target>
       </trans-unit>
       <trans-unit id="deffd10b6f7844deb47012667fa4b283" resname="Consulting" approved="yes">
         <source>Consulting</source>
-        <target state="translated"></target>
+        <target state="translated">Consulting</target>
       </trans-unit>
     </body>
   </file>

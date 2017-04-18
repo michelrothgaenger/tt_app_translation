@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.notConfirmedEmail.subject" approved="yes">
         <source>app.notConfirmedEmail.subject</source>
-        <target state="translated">Tu cuenta no ha sido confirmada</target>
+        <target state="translated">La cuenta no ha sido confirmada</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.notConfirmedEmail" approved="yes">
         <source>app.notConfirmedEmail</source>

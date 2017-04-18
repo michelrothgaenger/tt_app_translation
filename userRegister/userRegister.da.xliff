@@ -81,9 +81,9 @@
         <source>fos_user.password.mismatch</source>
         <target state="translated">Kodeordene er ikke ens</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="no">
+      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
           <source>app.notRegisteredCta</source>
-          <target state="needs-translation">Ikke registreret endnu? Klik her for at registrere.</target>
+          <target state="translated">Ikke registreret endnu? Klik her for at registrere.</target>
         </trans-unit>
       <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>

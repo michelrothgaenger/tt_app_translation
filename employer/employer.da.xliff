@@ -25,33 +25,33 @@
         <source>app.headquater</source>
         <target state="translated">Hovedkvarter</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="no">
+      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
-        <target state="needs-translation">Kontorer/Lande</target>
+        <target state="translated">Kontorer/Lande</target>
       </trans-unit>
       <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
         <target state="translated">Primære aktiviteter</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="no">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target state="needs-translation">Hjemmeside</target>
+        <target state="translated">Hjemmeside</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="no">
+      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="yes">
         <source>app.noCompanyDescription</source>
-        <target state="needs-translation">Virksomhedsbeskrivelse er ikke tilgængelig</target>
+        <target state="translated">Virksomhedsbeskrivelse er ikke tilgængelig</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="no">
+      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
-        <target state="needs-translation">Følg</target>
+        <target state="translated">Følg</target>
       </trans-unit>
     <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
         <source>app.employer.button.savedToProfile</source>
         <target state="translated">Følg ikke</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="no">
+      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
         <source>app.employer.info.jobsOnline.title</source>
-        <target state="needs-translation">Stillinger online</target>
+        <target state="translated">Stillinger online</target>
       </trans-unit>
       <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>

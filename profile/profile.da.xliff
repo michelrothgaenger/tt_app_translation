@@ -85,9 +85,9 @@
         <source>app.lastName</source>
         <target state="translated">Efternavn</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
       <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
         <source>app.phone</source>

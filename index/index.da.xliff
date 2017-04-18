@@ -25,9 +25,9 @@
         <source>app.searchFeaturedJobs</source>
         <target state="needs-translation">Søg nye stillinger</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="no">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target state="needs-translation">Fremhævede virksomheder</target>
+        <target state="translated">Fremhævede virksomheder</target>
       </trans-unit>
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="no">
         <source>app.seeAllCompanies</source>

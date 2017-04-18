@@ -13,17 +13,17 @@
         <source>app.metaDescriptionImprintPage</source>
         <target state="translated">Leder du efter et nyt job i transport og logistik eller vil har du brug for en stillingsannonce for at finde en ny medarbejder? Kontakt os! Talent Talent teamet står til din rådighed.</target>
       </trans-unit>
-      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="no">
+      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="yes">
         <source>app.imprintHeadline</source>
-        <target state="needs-translation">Ansvarlig for internetsider hos Transport Talent ApS</target>
+        <target state="translated">Ansvarlig for internetsider hos Transport Talent ApS</target>
       </trans-unit>
       <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg">
         <source>app.imprintMsg</source>
         <target><![CDATA[<b>Name and address</b><br>Transport Talent ApS<br>Islands Brygge 77D, 4 TH<br>DK-2300 Copenhagen<br>Denmark<br><br><b>Managing Director</b><br>Ulrich Nissen<br><br><b>Your contact to Transport Talent</b><br>info@transporttalent.com<br>+49 40 53 799 1400<br><br><b>Value-added tax identification number</b><br>CVR: 37 39 50 48]]></target>
       </trans-unit>
-      <trans-unit id="12038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint.meta.title">
+      <trans-unit id="12038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint.meta.title" approved="yes">
         <source>app.imprint.meta.title</source>
-        <target>Imprint</target>
+        <target state="translated">Imprint</target>
       </trans-unit>
     </body>
   </file>

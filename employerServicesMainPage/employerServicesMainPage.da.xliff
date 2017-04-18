@@ -37,37 +37,37 @@
       <source>app.employerServiceMainPage.hiringSolutions.header</source>
       <target state="translated">Rekruttering</target>
     </trans-unit>
-    <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="no">
+    <trans-unit id="07ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonLabel</source>
-      <target state="needs-translation">Læs mere</target>
+      <target state="translated">Læs mere</target>
     </trans-unit>
     <trans-unit id="08ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.flatrate.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.flatrate.buttonDescription</source>
       <target state="translated">Annoncer alle dine ledige stillinger til en fast årlig pris</target>
     </trans-unit>
-    <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="no">
+    <trans-unit id="09ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonLabel" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonLabel</source>
-      <target state="needs-translation">Læs mere</target>
+      <target state="translated">Læs mere</target>
     </trans-unit>
-    <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="no">
+    <trans-unit id="10ebaf7ef5911acd49151ec6438027d1" resname="app.employerServiceMainPage.section.singleJobPost.buttonDescription" approved="yes">
       <source>app.employerServiceMainPage.section.singleJobPost.buttonDescription</source>
-      <target state="needs-translation">Har i brug for hjælp til finde og rekruttere de rigtige medarbejdere?</target>
+      <target state="translated">Har i brug for hjælp til finde og rekruttere de rigtige medarbejdere?</target>
     </trans-unit>
-    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="no">
+    <trans-unit id="3b12225a9c5b4eaba2b455dc1a868d77" resname="app.employerService.detailsLabel" approved="yes">
         <source>app.employerService.detailsLabel</source>
-        <target state="needs-translation">Se detaljer</target>
+        <target state="translated">Se detaljer</target>
     </trans-unit>
-    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou" approved="no">
+    <trans-unit id="013f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYou" approved="yes">
         <source>app.employerService.serviceBooking.thankYou</source>
-        <target state="needs-translation">Tak</target>
+        <target state="translated">Tak</target>
     </trans-unit>
     <trans-unit id="023f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouDescription" approved="yes">
         <source>app.employerService.serviceBooking.thankYouDescription</source>
         <target state="translated">Mange tak, vi sætter pris på jeres interesse! Vi kontakter jer snarest.</target>
     </trans-unit>
-    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="no">
+    <trans-unit id="033f10de2c9e4c46934f27d72f047014" resname="app.employerService.serviceBooking.thankYouClose" approved="yes">
         <source>app.employerService.serviceBooking.thankYouClose</source>
-        <target state="needs-translation">Luk vindue</target>
+        <target state="translated">Luk vindue</target>
     </trans-unit>
     <trans-unit id="043f10de2c9e4c46934f27d72f047014" resname="app.employerServiceMainPage.signUpButton" approved="yes">
         <source>app.employerServiceMainPage.signUpButton</source>
@@ -85,9 +85,9 @@
             <source>app.employerServiceMainPage.bookButtonLabel</source>
             <target>Book</target>
           </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="no">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>
-            <target state="needs-translation">Forespørgsel</target>
+            <target state="translated">Forespørgsel</target>
           </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c8" resname="app.employerServicesMainPage.fillRequireInputsFlashMessage" approved="yes">
       <source>app.employerServicesMainPage.fillRequireInputsFlashMessage</source>

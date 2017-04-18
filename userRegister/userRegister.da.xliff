@@ -9,21 +9,21 @@
         <source>app.register</source>
         <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="no">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="needs-translation">Kom igang</target>
+        <target state="translated">Kom igang</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
-        <target>Log ind med LinkedIn</target>
+        <target state="translated">Log ind med LinkedIn</target>
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Sign in med Google</target>
+        <target state="translated">Log ind med Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
-        <target>Log ind med Facebook</target>
+        <target state="translated">Log ind med Facebook</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
@@ -57,9 +57,9 @@
         <source>registration.email.message</source>
         <target state="translated">Hej %username%!&lt;br&gt;&lt;br&gt;For at afslutte aktiveringen af din konto, venligst klik på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Hilsen, TransportTalent.</target>
       </trans-unit>
-      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
+      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>
-        <target>E-mail</target>
+        <target state="translated">E-mail</target>
       </trans-unit>
       <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName" approved="yes">
         <source>form.firstName</source>
@@ -69,13 +69,13 @@
         <source>form.lastName</source>
         <target state="translated">Efternavn</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password">
+      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password" approved="yes">
         <source>form.password</source>
-        <target>Adgangskode</target>
+        <target state="translated">Adgangskode</target>
       </trans-unit>
-      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation">
+      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation" approved="yes">
         <source>form.password_confirmation</source>
-        <target>Gentag adgangskode</target>
+        <target state="translated">Gentag adgangskode</target>
       </trans-unit>
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
         <source>fos_user.password.mismatch</source>
@@ -85,9 +85,9 @@
           <source>app.notRegisteredCta</source>
           <target state="translated">Ikke registreret endnu? Klik her for at registrere.</target>
         </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword">
+      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
-        <target>Glemt din adgangskode?</target>
+        <target state="translated">Glemt din adgangskode?</target>
       </trans-unit>
     </body>
   </file>

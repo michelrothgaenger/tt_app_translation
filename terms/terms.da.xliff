@@ -25,9 +25,9 @@
         <source>app.thisAgreementIsMadeBetween</source>
         <target state="translated">Denne aftale er indgået mellem dig og Transport Talent ApS hjemsted</target>
       </trans-unit>
-      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
+      <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress" approved="yes">
         <source>app.termsPageAddress</source>
-        <target><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
+        <target state="translated"><![CDATA[<br>Islands Brygge 77D, 4 TH<br>Copenhagen DK-2300<br>Denmark]]></target>
       </trans-unit>
       <trans-unit id="6a3dae1074cae9850d53697781a696e1" resname="app.theServices" approved="yes">
         <source>app.theServices</source>
@@ -97,9 +97,9 @@
         <source>app.transportTalentDoesNotPromiseFullUninterrupted</source>
         <target state="translated">TransportTalent lover ikke fuld, uafbrudt eller fejlfri drift af webstedet og / eller Tjenesterne. Ethvert ansvar af TransportTalent, dets ledelse eller medarbejdere uanset hvordan de opstår for tab, der måtte opstå fra din brug af eller manglende evne til at bruge hjemmesiden og / eller Tjenesterne er udelukket, så vidt det er muligt at gøre det i loven.</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="no">
+      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
         <source>app.registration</source>
-        <target state="needs-translation">Kom igang</target>
+        <target state="translated">Kom igang</target>
       </trans-unit>
       <trans-unit id="87d2e767b807dd2fb68628ae0ccc8f81" resname="app.whereYouAreAskedToCompleteRegistrationForm" approved="yes">
         <source>app.whereYouAreAskedToCompleteRegistrationForm</source>

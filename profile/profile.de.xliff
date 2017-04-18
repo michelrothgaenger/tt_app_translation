@@ -854,6 +854,18 @@
         <source>app.profile.editor.profileEditionHeader</source>
         <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Wenn Sie Ihr LinkedIn-Profil verknüpft haben, wurden ggf. Informationen übernommen.</target>
       </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d001" resname="app.signInWithLinkedin" approved="yes">
+        <source>app.signInWithLinkedin</source>
+        <target state="translated">Anmelden mit LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d002" resname="app.signInWithFacebook" approved="yes">
+        <source>app.signInWithFacebook</source>
+        <target state="translated">Anmelden mit Facebook</target>
+      </trans-unit>
+      <trans-unit id="353ef4c948ee40bfa43927921f960482" resname="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
+        <target state="translated">SUCHAGENTEN BEARBEITEN</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

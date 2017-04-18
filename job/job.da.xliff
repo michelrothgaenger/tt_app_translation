@@ -9,9 +9,9 @@
         <source>app.job.meta.title</source>
         <target state="translated">Transport Talent - Job</target>
       </trans-unit>
-      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
+      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
-        <target>Job</target>
+        <target state="translated">Søg efter passende jobtilbud fra logistik- og transportvirksomheder</target>
       </trans-unit>
       <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
-        <target state="translated">Bragt til dig af</target>
+        <target state="translated">Leveret til dig af</target>
       </trans-unit>
       <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title" approved="yes">
         <source>app.job.section.main.title</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target state="translated">ansatte</target>
+        <target state="translated">medarbejdere</target>
       </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>

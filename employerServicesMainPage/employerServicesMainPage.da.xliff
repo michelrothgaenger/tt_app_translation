@@ -81,9 +81,9 @@
         <source>app.employerServiceMainPage.h1</source>
         <target state="translated">Rekrutteringsløsninger</target>
     </trans-unit>
-    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel">
+    <trans-unit id="e7d4023ab0964006ac8720fcc29933c6" resname="app.employerServiceMainPage.bookButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.bookButtonLabel</source>
-            <target>Book</target>
+            <target state="translated">Bestil</target>
           </trans-unit>
     <trans-unit id="e7d4023ab0964006ac8720fcc29933c7" resname="app.employerServiceMainPage.inquiryButtonLabel" approved="yes">
             <source>app.employerServiceMainPage.inquiryButtonLabel</source>

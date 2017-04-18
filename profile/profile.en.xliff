@@ -541,6 +541,10 @@
         <source>app.profile.section.jobAlerts.section.popup.title</source>
         <target state="translated">SAVE ALERT</target>
       </trans-unit>
+      <trans-unit id="353ef4c948ee40bfa43927921f960482" resname="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
+        <target state="translated">EDIT ALERT</target>
+      </trans-unit>
       <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.note</source>
         <target state="translated">Please note: all fields signed with a (*) are mandatory.</target>

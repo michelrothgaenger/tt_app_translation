@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
-        <target state="translated">Transport Talent - Job</target>
+        <target state="translated">Job</target>
       </trans-unit>
       <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
@@ -21,9 +21,9 @@
         <source>app.job.section.top.button.title</source>
         <target state="translated">Tilbage til søgeresultater</target>
       </trans-unit>
-      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate">
+      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate" approved="yes">
         <source>app.job.postDate</source>
-        <target>Posted</target>
+        <target state="translated">Posted</target>
       </trans-unit>
       <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
@@ -85,9 +85,9 @@
         <source>app.job.section.left.rowIndustiesTitle</source>
         <target state="translated">Hovedaktiviteter</target>
       </trans-unit>
-      <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle">
+      <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle" approved="yes">
         <source>app.job.section.left.rowWebsiteTitle</source>
-        <target>Website</target>
+        <target state="translated">Website</target>
       </trans-unit>
       <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
@@ -109,17 +109,17 @@
         <source>app.job.section.left.nonSavedStatus</source>
         <target state="translated">Gem til profil</target>
       </trans-unit>
-      <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle">
+      <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
-        <target>Print job</target>
+        <target state="translated">Print job</target>
       </trans-unit>
       <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target state="translated">Ansøg nu</target>
       </trans-unit>
-      <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle">
+      <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle" approved="yes">
         <source>app.job.section.popup.jobTitle</source>
-        <target>Job</target>
+        <target state="translated">Job</target>
       </trans-unit>
       <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
@@ -261,9 +261,9 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Forbind dine venner til jobs, tjen %reward% %currency% og anerkendelse</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="no">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
-        <target state="needs-translation">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral  er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
+        <target state="translated">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral  er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
         <source>app.job.section.popup.apply.cvTitle</source>

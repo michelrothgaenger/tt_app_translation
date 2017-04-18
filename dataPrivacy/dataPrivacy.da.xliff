@@ -121,13 +121,13 @@
         <source>app.contactingUsOn</source>
         <target>Contacting us on:</target>
       </trans-unit>
-      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent">
+      <trans-unit id="c8e8044e63987095598e2af98dc07fce" resname="app.contactTransportTalent" approved="yes">
         <source>app.contactTransportTalent</source>
-        <target>Contact TransportTalent</target>
+        <target state="translated">Kontakt Transport Talent</target>
       </trans-unit>
-      <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent">
+      <trans-unit id="29294b566f0e198aceb89ad80cd6df14" resname="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
+        <target state="translated">Hvis du har spørgsmål, bekymringer eller kommentarer til TransportTalent eller denne hjemmeside, så kontakt os:</target>
       </trans-unit>
       <trans-unit id="c678f1bcbdbfbab09efb7ce871e1f9e9" resname="app.termsPageAddress">
         <source>app.termsPageAddress</source>

@@ -81,6 +81,14 @@
         <source>app.jobs.createJobAlertButtonLabel</source>
         <target state="translated">SUCHAGENTEN ANLEGEN</target>
       </trans-unit>
+    <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb01" resname="app.jobs.alert.editCreate.noTitleError" approved="yes">
+        <source>app.jobs.alert.editCreate.noTitleError</source>
+        <target state="translated">Bitte geben Sie eine Bezeichnung ein</target>
+      </trans-unit>
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="yes">
+        <source>app.jobs.selectAutocompleteItem</source>
+        <target state="translated">Bitte wählen Sie ein Element der Liste, um fortzufahren</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -261,6 +261,14 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Forbind dine venner til jobs, tjen %reward% %currency% og anerkendelse</target>
       </trans-unit>
-      </body>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="no">
+        <source>app.job.referral.explanation</source>
+        <target state="needs-translation">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral  er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
+        <source>app.job.section.popup.apply.cvTitle</source>
+        <target state="translated">CV</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -9,13 +9,13 @@
         <source>app.jobs</source>
         <target state="translated">Stillinger</target>
       </trans-unit>
-      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
+      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for" approved="yes">
         <source>app.for</source>
-        <target>for</target>
+        <target state="translated">for</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="no">
+      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
         <source>app.in</source>
-        <target state="needs-translation">i</target>
+        <target state="translated">i</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
         <source>app.search</source>

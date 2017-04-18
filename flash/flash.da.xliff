@@ -57,6 +57,14 @@
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">Denne fil skal være en PDF</target>
         </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="yes">
+          <source>app.flash.unsubscribed</source>
+          <target state="translated">Afmeldt</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
+          <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
+          <target state="translated">Ikke muligt at afmelde sikkerheds emails, de opstår først efter dine handlinger og det er meget vigtigt at din konto er sikker</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

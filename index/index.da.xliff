@@ -5,33 +5,65 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
-        <target/>
+        <target state="translated">Transport Talent er den førende karriereportal for fagfolk indenfor transport og logistik. Tag det næste skridt mod dit nye job og opret en gratis profil i dag!</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">Connecting talents with opportunities</target>
+        <target state="translated">Vi forbinder talenter med jobmuligheder</target>
       </trans-unit>
       <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="no">
         <source>app.indexSecondTitle</source>
         <target state="needs-translation">Det globale karrierenetværk for transport- og logistikbranchen</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
+      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="no">
         <source>app.featuredJobs</source>
-        <target state="translated">Stillinger i Danmark</target>
+        <target state="needs-translation">Stillinger i Danmark</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="no">
         <source>app.searchFeaturedJobs</source>
-        <target state="translated">Søg nye stillinger</target>
+        <target state="needs-translation">Søg nye stillinger</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="no">
         <source>app.companyProfiles</source>
-        <target state="translated">Fremhævede virksomheder</target>
+        <target state="needs-translation">Fremhævede virksomheder</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
+      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="no">
         <source>app.seeAllCompanies</source>
-        <target state="translated">Se alle virksomheder</target>
+        <target state="needs-translation">Se alle virksomheder</target>
+      </trans-unit>
+    <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
+        <source>app.index.signupCTA.candidates.title</source>
+        <target state="translated">Kandidater</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
+        <source>app.index.signupCTA.candidates.ctaTitle</source>
+        <target state="translated">Opret en jobagent og modtag personlige anbefalinger</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+        <source>app.index.signupCTA.candidates.ctaDescription</source>
+        <target state="translated">Udfyld vores karriereprofil og en jobagent, og modtag personlige jobanbefalinger i din indbakke. Vi sender dig kun jobs der er relevante for dig, udvalgt af vores rekrutteringsteam baseret på din karriereprofil.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
+        <source>app.index.signupCTA.candidates.button</source>
+        <target state="translated">Jeg søger job</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
+        <source>app.index.signupCTA.employers.title</source>
+        <target state="translated">Virksomheder</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
+        <source>app.index.signupCTA.employers.ctaTitle</source>
+        <target state="translated">Kom i kontakt med kandidater</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
+        <source>app.index.signupCTA.employers.ctaDescription</source>
+        <target state="translated">Vi ved at jeres tid er kostbar, og sørger for at i kan bruge den på at mødes med de bedst egnede kandidater til jeres ledige stilling. Vi igangsætter en grundig søgning efter egnede kandidater, administrere al kommunikation med disse, og garanterer en endelig liste af 3-5 personer, der matcher jeres krav til jeres fremtidige medarbejder inden for 6 uger.</target>
+      </trans-unit>
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
+        <source>app.index.signupCTA.employers.button</source>
+        <target state="translated">Jeg søger en ny medarbejder</target>
       </trans-unit>
     </body>
   </file>

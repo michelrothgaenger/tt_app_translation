@@ -9,9 +9,9 @@
         <source>app.profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="no">
         <source>app.signOut</source>
-        <target state="translated">Log ud</target>
+        <target state="needs-translation">Log ud</target>
       </trans-unit>
       <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
         <source>app.signIn</source>
@@ -45,37 +45,37 @@
         <source>app.imprint</source>
         <target state="translated">Imprint</target>
       </trans-unit>
-    <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
+    <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="no">
         <source>app.footer.rowCandidates</source>
-        <target state="translated">Kandidater</target>
+        <target state="needs-translation">Kandidater</target>
       </trans-unit>
-      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="yes">
+      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="no">
         <source>app.footer.rowHome</source>
-        <target state="translated">Hjem</target>
+        <target state="needs-translation">Hjem</target>
       </trans-unit>
-      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="yes">
+      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="no">
         <source>app.footer.rowJobs</source>
-        <target state="translated">Søg job</target>
+        <target state="needs-translation">Søg job</target>
       </trans-unit>
-      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="yes">
+      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="no">
         <source>app.footer.rowCompanies</source>
-        <target state="translated">Virksomheder</target>
+        <target state="needs-translation">Virksomheder</target>
       </trans-unit>
-      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
+      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="no">
         <source>app.footer.rowEmployers</source>
-        <target state="translated">Virksomheder</target>
+        <target state="needs-translation">Virksomheder</target>
       </trans-unit>
       <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
         <source>app.footer.introductionLabel</source>
         <target state="translated">Produkter &amp; Priser</target>
       </trans-unit>
-      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
+      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="no">
         <source>app.footer.askHelpLabel</source>
-        <target state="translated">Brug for hjælp?</target>
+        <target state="needs-translation">Brug for hjælp?</target>
       </trans-unit>
-      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
+      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="no">
         <source>app.blog</source>
-        <target state="translated">Blog</target>
+        <target state="needs-translation">Blog</target>
       </trans-unit>
     </body>
   </file>

@@ -9,9 +9,9 @@
         <source>app.registeredTitle</source>
         <target state="translated">Tak fordi du oprettede en profil på Transport Talent</target>
       </trans-unit>
-      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
+      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="no">
         <source>app.registeredMsg</source>
-        <target state="translated">Tak for det, %firstName%! Vi kontakter dig hurtigst muligt.</target>
+        <target state="needs-translation">Tak for det, %firstName%! Vi kontakter dig hurtigst muligt.</target>
       </trans-unit>
     </body>
   </file>

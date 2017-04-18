@@ -13,17 +13,17 @@
         <source>Graduates</source>
         <target state="translated">Graduatepositioner</target>
       </trans-unit>
-      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship">
+      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship" approved="yes">
         <source>Internship</source>
-        <target>Internship</target>
+        <target state="translated">Elev</target>
       </trans-unit>
       <trans-unit id="fe4dbcab9b910577e5035e97ac068dae" resname="Management" approved="yes">
         <source>Management</source>
         <target state="translated">Ledelse</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
+      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="no">
         <source>Other</source>
-        <target state="translated">Andre</target>
+        <target state="needs-translation">Andre</target>
       </trans-unit>
       <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals" approved="yes">
         <source>Professionals</source>

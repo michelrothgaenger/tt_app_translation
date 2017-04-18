@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="39141f898aea59e2ce9332f5297f1668" approved="yes">
         <source><![CDATA[app.welcomeEmailSubjectUser]]></source>
-        <target><![CDATA[Welcome to Transport Talent, %firstname%!]]></target>
+        <target>Welcome to Transport Talent</target>
       </trans-unit>
       <trans-unit id="39141f898aea59e2ce9332f5297f1669" resname="app.email.welcomeUser" approved="yes">
         <source>app.email.welcomeUser</source>

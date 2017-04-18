@@ -205,9 +205,9 @@
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
         <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Электронная почта</target>
       </trans-unit>
     </body>
   </file>

@@ -73,9 +73,9 @@
         <source>app.contactInfo</source>
         <target>Contact info</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>
-        <target>Title</target>
+        <target state="translated">Обращение</target>
       </trans-unit>
       <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName">
         <source>app.firstName</source>
@@ -85,9 +85,9 @@
         <source>app.lastName</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">Электронная почта</target>
       </trans-unit>
       <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
         <source>app.phone</source>
@@ -189,9 +189,9 @@
         <source>app.thisFieldMustBeFilled</source>
         <target>This field must be filled!</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
-        <target>select an option</target>
+        <target state="translated">Выберите вариант</target>
       </trans-unit>
       <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add">
         <source>app.add</source>

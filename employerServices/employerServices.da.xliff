@@ -21,13 +21,13 @@
         <source>app.employerService.description</source>
         <target state="translated">Med vores målrettede løsninger for jobannoncering forbinder vi dig med et udvalgt og hastigt voksende netværk af kandidater inden for transport og logistik. Alle jobopslag på Transport Talent bliver også vist på vores social media kanaler.</target>
       </trans-unit>
-      <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="no">
+      <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="yes">
         <source>app.employerService.section.singleJobPost.header</source>
-        <target state="needs-translation">Vælg din prispakke</target>
+        <target state="translated">Vælg din prispakke</target>
       </trans-unit>
-      <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="no">
+      <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="yes">
         <source>app.employerService.section.singleJobPost.description</source>
-        <target state="needs-translation">Vælg den pakke der passer bedst til jeres behov og annoncer alle jeres ledige stillinger for et fast månedligt beløb.</target>
+        <target state="translated">Vælg den pakke der passer bedst til jeres behov og annoncer alle jeres ledige stillinger for et fast månedligt beløb.</target>
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
@@ -141,9 +141,9 @@
         <source>app.employerService.section.serviceBooking.section.inputs.submitValue</source>
         <target state="translated">send forespørgsel</target>
       </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="no">
+      <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="yes">
         <source>app.employerService.popup.inputs.submitValueLoggedin</source>
-        <target state="needs-translation">Vælg din prispakke</target>
+        <target state="translated">Vælg din prispakke</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047560" resname="app.employerService.popup.input.confirmRight" approved="yes">
         <source>app.employerService.popup.input.confirmRight</source>
@@ -177,29 +177,29 @@
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>
         <target state="translated">Vi sender en email direkte til egnede kandidater i vores database og gør dem opmærksom på jeres ledige stilling</target>
       </trans-unit>
-      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title" approved="no">
+      <trans-unit id="953f00de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.title" approved="yes">
         <source>app.employerService.hiringSolutions.left.title</source>
-        <target state="needs-translation">Rekruttering</target>
+        <target state="translated">Rekruttering</target>
       </trans-unit>
-      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="no">
+      <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="yes">
         <source>app.employerService.hiringSolutions.left.descr</source>
-        <target state="needs-translation">Lad os håndtere jeres rekruttering så i kan holde fokus på jeres forretning. </target>
+        <target state="translated">Lad os håndtere jeres rekruttering så i kan holde fokus på jeres forretning. </target>
       </trans-unit>
-      <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn" approved="no">
+      <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn" approved="yes">
         <source>app.employerService.hiringSolutions.left.btn</source>
-        <target state="needs-translation">Læs mere</target>
+        <target state="translated">Læs mere</target>
       </trans-unit>
       <trans-unit id="953f03de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.title" approved="yes">
         <source>app.employerService.hiringSolutions.right.title</source>
         <target state="translated">Leder i efter nye talenter til jeres virksomhed?</target>
       </trans-unit>
-      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr" approved="no">
+      <trans-unit id="953f04de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.descr" approved="yes">
         <source>app.employerService.hiringSolutions.right.descr</source>
-        <target state="needs-translation">Med vores rekrutteringsløsninger vil i opnå en bedre kvalitet af de kandidater i har at vælge imellem samtidig med at vil opleve en kortere leveringstid. Vi opnår dette ved at strømline og styre det meste af rekrutteringsprocessen så i blot skal fokusere på at interviewe og vælge den rigtige kandidat til jeres virksomhed.</target>
+        <target state="translated">Med vores rekrutteringsløsninger vil i opnå en bedre kvalitet af de kandidater i har at vælge imellem samtidig med at vil opleve en kortere leveringstid. Vi opnår dette ved at strømline og styre det meste af rekrutteringsprocessen så i blot skal fokusere på at interviewe og vælge den rigtige kandidat til jeres virksomhed.</target>
       </trans-unit>
-      <trans-unit id="953f05de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.btn" approved="no">
+      <trans-unit id="953f05de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.right.btn" approved="yes">
         <source>app.employerService.hiringSolutions.right.btn</source>
-        <target state="needs-translation">Læs mere</target>
+        <target state="translated">Læs mere</target>
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>

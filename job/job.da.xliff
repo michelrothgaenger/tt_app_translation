@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="dde15a4072b846f1be7e0633ac131edc" resname="app.job.section.popup.section.page2.title" approved="yes">
         <source>app.job.section.popup.section.page2.title</source>
-        <target state="translated">Skriv en besked der kan blive send sammen med din profil.</target>
+        <target state="translated">Skriv en besked der kan blive sendt sammen med din profil.</target>
       </trans-unit>
       <trans-unit id="f64ee3f9959447649fa2f7b505c2f7c1" resname="app.job.section.popup.section.page2.headline" approved="yes">
         <source>app.job.section.popup.section.page2.headline</source>
@@ -213,6 +213,34 @@
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Gem job og gå til profilen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle" approved="yes">
+        <source>app.section.main.referralButtonTitle</source>
+        <target state="translated">Anbefal</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title" approved="yes">
+        <source>app.job.popup.referral.title</source>
+        <target state="translated">Anbefal</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description" approved="yes">
+        <source>app.job.popup.refrral.description</source>
+        <target state="translated">Anbefal dette job og tjen penge</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
+        <source>app.job.popup.referral.reward</source>
+        <target state="translated">Belønning</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
+        <source>app.job.popup.referral.shareOn</source>
+        <target state="translated">Del dette på</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
+        <source>app.job.popup.referral.copy</source>
+        <target state="translated">Kopi</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
+        <source>app.job.popup.referral.gooLuck</source>
+        <target state="translated">Held og lykke!</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

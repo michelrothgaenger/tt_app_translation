@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile" approved="yes">
         <source>app.companyProfile</source>
-        <target>Virksomhedsprofil</target>
+        <target state="translated">Virksomhedsprofil</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="no">
+      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
         <source>app.employerInformation</source>
-        <target state="needs-translation">Arbejdsgiverinformation</target>
+        <target state="translated">Arbejdsgiverinformation</target>
       </trans-unit>
       <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
@@ -21,9 +21,9 @@
         <source>app.employees_lowercase</source>
         <target state="translated">medarbejdere</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>
-        <target>Hovedkvarter</target>
+        <target state="translated">Hovedkvarter</target>
       </trans-unit>
       <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="no">
         <source>app.officesCountries</source>

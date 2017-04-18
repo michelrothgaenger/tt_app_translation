@@ -93,17 +93,17 @@
         <source>app.phone</source>
         <target state="translated">Telefon</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="no">
+      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
         <source>app.country</source>
-        <target state="needs-translation">Land</target>
+        <target state="translated">Land</target>
       </trans-unit>
       <trans-unit id="5ca132321275d682bd4f1da5769d15f5" resname="app.region">
         <source>app.region</source>
         <target>Region</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="no">
+      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
         <source>app.city</source>
-        <target state="needs-translation">By</target>
+        <target state="translated">By</target>
       </trans-unit>
       <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
@@ -137,9 +137,9 @@
         <source>app.annualTurnover</source>
         <target state="translated">Årlig omsætning</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="no">
+      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
         <source>app.website</source>
-        <target state="needs-translation">Hjemmeside</target>
+        <target state="translated">Hjemmeside</target>
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
         <source>app.about</source>
@@ -197,9 +197,9 @@
         <source>app.add</source>
         <target state="translated">Tilføj</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="no">
+      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
         <source>app.save</source>
-        <target state="needs-translation">Gem</target>
+        <target state="translated">Gem</target>
       </trans-unit>
       <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel" approved="yes">
         <source>app.cancel</source>

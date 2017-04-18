@@ -37,17 +37,17 @@
         <source>Intermodal</source>
         <target state="translated">Intermodal</target>
       </trans-unit>
-      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT">
+      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT" approved="yes">
         <source>IT</source>
-        <target>IT</target>
+        <target state="translated">IT</target>
       </trans-unit>
       <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance" approved="yes">
         <source>Legal &amp; Insurance</source>
         <target state="translated">Juridisk og Forsikring</target>
       </trans-unit>
-      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="no">
+      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="yes">
         <source>Operations</source>
-        <target state="needs-translation">Operation</target>
+        <target state="translated">Operation</target>
       </trans-unit>
       <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
         <source>Project Cargo</source>

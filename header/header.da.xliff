@@ -5,29 +5,29 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="yes">
+      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home" approved="no">
         <source>app.home</source>
-        <target state="translated">Hjem</target>
+        <target state="needs-translation">Hjem</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
+      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="no">
         <source>app.signOut</source>
-        <target state="translated">Log ud</target>
+        <target state="needs-translation">Log ud</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="no">
         <source>app.signUp</source>
-        <target state="translated">Opret</target>
+        <target state="needs-translation">Opret</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
+      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="no">
         <source>app.signIn</source>
-        <target state="translated">Log ind</target>
+        <target state="needs-translation">Log ind</target>
       </trans-unit>
-      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="yes">
+      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies" approved="no">
         <source>app.findCompanies</source>
-        <target state="translated">Find virksomhed</target>
+        <target state="needs-translation">Find virksomhed</target>
       </trans-unit>
-      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="yes">
+      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs" approved="no">
         <source>app.findJobs</source>
-        <target state="translated">Søg stilling</target>
+        <target state="needs-translation">Søg stilling</target>
       </trans-unit>
       <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
@@ -37,9 +37,9 @@
         <source>app.forEmployers</source>
         <target state="needs-translation">For virksomheder</target>
       </trans-unit>
-    <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="yes">
+    <trans-unit id="93d7ab5f657c642120a0be2bb0a85174" resname="app.blog" approved="no">
         <source>app.blog</source>
-        <target state="translated">Blog</target>
+        <target state="needs-translation">Blog</target>
       </trans-unit>
       <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01" resname="app.header.userSubmenu.profile" approved="yes">
         <source>app.header.userSubmenu.profile</source>
@@ -47,79 +47,79 @@
       </trans-unit>
       <trans-unit id="93d7ab5f657c642120a0be2bb0a85173" resname="app.header.mainSearchForm.term.placeholder" approved="yes">
         <source>app.header.mainSearchForm.term.placeholder</source>
-        <target state="translated">Keyword fx fragt</target>
+        <target state="translated">Keyword fx søfragt</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85172" resname="app.header.mainSearchForm.location.placeholder" approved="no">
         <source>app.header.mainSearchForm.location.placeholder</source>
-        <target state="translated">Lokation</target>
+        <target state="needs-translation">Lokation</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85171" resname="app.header.mainSearchForm.searchButton" approved="no">
         <source>app.header.mainSearchForm.searchButton</source>
-        <target state="translated">Søg</target>
+        <target state="needs-translation">Søg</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85170" resname="app.header.userSubmenu.savedJobs" approved="no">
         <source>app.header.userSubmenu.savedJobs</source>
-        <target state="translated">Gemte stillinger</target>
+        <target state="needs-translation">Gemte stillinger</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85169" resname="app.header.userSubmenu.savedCompanies" approved="no">
         <source>app.header.userSubmenu.savedCompanies</source>
-        <target state="translated">Gemte virksomheder</target>
+        <target state="needs-translation">Gemte virksomheder</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="yes">
+      <trans-unit id="93d7ab5f657c642120a0be2bb0a85150" resname="app.header.userSubmenu.alerts" approved="no">
         <source>app.header.userSubmenu.alerts</source>
-        <target state="translated">Job agent</target>
+        <target state="needs-translation">Job agent</target>
       </trans-unit>
-      <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle" approved="yes">
+      <trans-unit id="64ac2651ce144836875f575aec41de61" resname="app.header.section.navigate.menuTitle" approved="no">
         <source>app.header.section.navigate.menuTitle</source>
-        <target state="translated">Menu</target>
+        <target state="needs-translation">Menu</target>
       </trans-unit>
-      <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label" approved="yes">
+      <trans-unit id="f7b9bb5843ed4414b737372b460f5fc4" resname="app.header.searchForm.label" approved="no">
         <source>app.header.searchForm.label</source>
-        <target state="translated">Søg job</target>
+        <target state="needs-translation">Søg job</target>
       </trans-unit>
-      <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder" approved="yes">
+      <trans-unit id="cda4abff9f884d3991b0c4b59bb2f6e2" resname="app.header.searchForm.termPlaceholder" approved="no">
         <source>app.header.searchForm.termPlaceholder</source>
-        <target state="translated">fx Koordinator</target>
+        <target state="needs-translation">fx Koordinator</target>
       </trans-unit>
       <trans-unit id="5081f721787143918e8b3571a4176b50" resname="app.header.searchForm.locationPlaceholder" approved="yes">
         <source>app.header.searchForm.locationPlaceholder</source>
-        <target state="translated">fx Hamborg, Tyskland</target>
+        <target state="translated">fx København, Danmark</target>
       </trans-unit>
       <trans-unit id="802d0d39e09b422b9428ceac2ddb82bd" resname="app.header.searchForm.submitValue" approved="yes">
         <source>app.header.searchForm.submitValue</source>
-        <target state="translated">Søg</target>
+        <target state="translated">SØG</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel" approved="yes">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b6d" resname="app.header.language.selectLabel" approved="no">
         <source>app.header.language.selectLabel</source>
-        <target state="translated">Vælg sprog</target>
+        <target state="needs-translation">Vælg sprog</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b60" resname="app.header.userSubmenu.dashboard" approved="yes">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b60" resname="app.header.userSubmenu.dashboard" approved="no">
         <source>app.header.userSubmenu.dashboard</source>
-        <target state="translated">Dashboard</target>
+        <target state="needs-translation">Dashboard</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.settings" approved="yes">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b61" resname="app.header.userSubmenu.settings" approved="no">
         <source>app.header.userSubmenu.settings</source>
-        <target state="translated">Indstillinger</target>
+        <target state="needs-translation">Indstillinger</target>
       </trans-unit>
-      <trans-unit id="560d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.referrals" approved="yes">
+      <trans-unit id="560d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.referrals" approved="no">
         <source>app.header.userSubmenu.referrals</source>
-        <target state="translated">Henvisninger</target>
+        <target state="needs-translation">Henvisninger</target>
       </trans-unit>
-      <trans-unit id="160d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.jobs" approved="yes">
+      <trans-unit id="160d3041d629447aa0aebed7197b3b62" resname="app.header.userSubmenu.jobs" approved="no">
         <source>app.header.userSubmenu.jobs</source>
-        <target state="translated">Stillinger</target>
+        <target state="needs-translation">Stillinger</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies" approved="yes">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab80" resname="app.header.userSidemenu.companies" approved="no">
         <source>app.header.userSidemenu.companies</source>
-        <target state="translated">Virksomheder</target>
+        <target state="needs-translation">Virksomheder</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab81" resname="app.header.userSubmenu.services" approved="yes">
         <source>app.header.userSubmenu.services</source>
-        <target state="translated">Ydelser</target>
+        <target state="translated">Services</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="yes">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab82" resname="app.header.userSubmenu.jobPostings" approved="no">
         <source>app.header.userSubmenu.jobPostings</source>
-        <target state="translated">Stillingsopslag</target>
+        <target state="needs-translation">Stillingsopslag</target>
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab83" resname="app.header.userSubmenu.hiringSolutions" approved="yes">
         <source>app.header.userSubmenu.hiringSolutions</source>
@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab84" resname="app.header.userSubmenu.manageJobs" approved="yes">
         <source>app.header.userSubmenu.manageJobs</source>
-        <target state="translated">Administrere stilinger</target>
+        <target state="translated">Administrer stillinger</target>
       </trans-unit>
     </body>
   </file>

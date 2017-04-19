@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>
-        <target state="translated">Cảm ơn, %tên%! Chúng tôi sẽ sớm thông tin.</target>
+        <target state="translated">Cảm ơn, %firstName%! Chúng tôi sẽ sớm thông tin.</target>
       </trans-unit>
     </body>
   </file>

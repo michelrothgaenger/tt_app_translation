@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
-        <target state="translated">* Campo obligatorio</target>
+        <target state="translated">Los campos marcados con * son obligatorios,</target>
       </trans-unit>
       <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
-        <target state="translated">Por favor, rellena los campos obligatorios.</target>
+        <target state="translated">Haz clic en la casilla para proseguir.</target>
       </trans-unit>
       <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
         <source>app.title</source>

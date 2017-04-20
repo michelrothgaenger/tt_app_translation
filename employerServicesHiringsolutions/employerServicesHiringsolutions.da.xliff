@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">Vi hjælper jer med at formulere jeres behov</target>
+        <target state="translated">Vores priser er baseret på erfaringsniveau og det budgetterede lønniveau af positionen under den antagelse at jo mere specialiseret og erfaren en person der er brug for, jo fære kandidater er tilgængelige.</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Vi sender emails direkte til egnede kandidater i vores database omkring jeres ledige stilling</target>
+        <target state="translated">Vi taler med den ansættende leder og / eller den HR ansvarlige for at forstå jeres kultur, mission, stillingen, og den ideelle kandidat. Vi bruger hvad vi har lært til at promovere og præsentere jeres rolle på en måde der vil tiltrække de rigtige kandidater.</target>
       </trans-unit>
       <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">En af vores erfarne rekrutteringseksperter vil personligt tage kontakt til egnede kandidater og motivere dem til at søge på jeres stilling. Vi begrænser os ikke til kun at kontakte kandidater fra vores egne database men tager også kontakt til mulige kandidater der endnu har lavet en profil på TransportTalent.com.</target>
+        <target state="translated">En af vores erfarne rekrutteringseksperter vil igangsætte en omfattende search og vil personligt tage kontakt til egnede kandidater og motivere dem til at søge på jeres stilling. Vi begrænser os ikke til kun at kontakte kandidater fra vores egne database men tager også kontakt til mulige kandidater der endnu har lavet en profil på TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="translated">Recruitment Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-          <target state="translated">+ € 5.000 per ansat kandidat*</target>
+          <target state="translated">+ € 6.000 per ansat kandidat*</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
@@ -75,15 +75,15 @@
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target state="translated">Gennemgang af jobbeskrivelse</target>
+        <target state="translated">Årlig lønniveau</target>
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Notifikation til matchende kandidater</target>
+        <target state="translated">Profil analyse af virksomheden og rollen</target>
       </trans-unit>
       <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target state="translated">Social media kampagne</target>
+        <target state="translated">Promovering af rollen</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
@@ -111,11 +111,13 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Ovenstående dækker priser for stillinger med en årlig løn på op til EUR 60.000. For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"&gt;kontakt os&lt;/a&gt; et tilbud.</target>
+        <target state="translated">*Junior dækker priser for stillinger med en årlig løn på op til EUR 60.000. 
+** Senior dækker priser for stillinger med en årlig løn på mellem EUR 60.000 - 80.000 
+For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"&gt;kontakt os&lt;/a&gt; et tilbud.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Annoncering</target>
+        <target state="translated">Job Annoncering</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -147,7 +149,7 @@
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
+        <target state="translated">Vores priserpakker har til formål at være så simple og gennemskuelige som muligt og med mindst mulig risiko for jer. Vi har derfor delt dem op i to dele: et opstarts-fee når vi sætter opgaven igang og et successbaseret ansættelses fee når i har har valgt jeres nye medarbejder og har skrevet under på ansættelseskontrakten.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -159,11 +161,11 @@
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">Recruitment Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
-        <target state="translated">30 dage</target>
+        <target state="translated">90 dage</target>
       </trans-unit>
       <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
@@ -171,7 +173,7 @@
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="translated">Recruitment Premium</target>
+        <target state="translated">Senior</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -199,7 +201,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">Recruitment Premium</target>
+        <target state="translated">Senior</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -219,11 +221,11 @@
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Med Recruitment Lite hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering via sociale medier, foretager en komplet søgning af markedet og præsentere jer for shortlist på 3-5 kandidater der er klar til at blive interviewet af jer. Vores priser og betingelser for denne service er € 1.000 ved opstart af søgningen, og et succes-baseret fee på € 4.000 der først betales når i har udvalgt og underskrevet med jeres nye foretrukne kandidat.</target>
+        <target state="translated">Med vores rekrutteringsløsning til Junior personale starter vi med at tale med den ansættende leder og / eller HR for at forstå jeres virksomhed, kulturen og den ledige stilling samt den ideelle kandidat. Vi benyttet det vi har lært fra denne samtale til at præsentere jeres rolle på en måde der vil tiltrække de rigtige kandidater. Vi bruger sociale medier til at få budskabet ud til et bredt publikum samtidig med at vi igangsætter en fuld søgning af markedet. Dette resultere i vi præsentere en liste på 3-5 motiverede kandidater klar til at blive interviewet af jer. Vores priser og betalingsbetingelser for denne service er et Aktiverings fee på € 1.000 samt et succes baseret fee på € 4,000 skyldes kun, når du har valgt og underskrevet med din foretrukne kandidat.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Med Recruitment Premium hjælper vi jer med at optimere jeres jobannonce, sikre en øget eksponering rækkevidde via sociale medier og foretager en udvidet søgning af markedet for at finde de helt rigtige kandidater. Vi gennemfører personlighedstest og referencetagning samt supportere jer i lønforhandlingen med kandidaten. Pris og betingelser denne service er € 1.000 ved opstart af søgningen, samt et succes-baseret fee på € 4.000 som først skal betales når i har udvalgt den endelige kandidat og har underskrift på ansættelseskontrakten.</target>
+        <target state="translated">Med vores rekrutteringløsning til de specialiststillinger hvor mere erfaring er påkrævet investerer vi så meget tid som muligt i en dialog med jeres ledelse og HR for at opnå den størst mulige indsigt i jeres virksomhedskultur,  mission og vision, samt hvad de forventninger i har til hvad den ønskede kandidat skal levere i rollen i de første 12 måneder. En af vores senior konsulenter med support fra en research assistent vil foretage en fuld søgning af markedet. Vi vil sende jer ugentlige opdateringer på processen indtil vi præsentere en liste på 3-5 motiverede kandidater der er klar til at blive interviewet af jer. Priser og betalingsbetingelser for denne service er € 2.000 i aktiverings fee der skal betales ved opstart af opgaven, samet et successbaseret fee på € 6,000 ved ansættelse af den udvalgte kandidat.</target>
     </trans-unit>
     </body>
   </file>

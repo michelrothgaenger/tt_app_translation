@@ -11,19 +11,19 @@
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">We support you in formulating your requirements</target>
+        <target state="translated">Our pricing is based on the seniority and salary level of the position with the assumption that the more specialised and experienced the person needs to be the fewer candidates are available in the market.</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">We send out emails to make suitable candidates in our database aware of your position</target>
+        <target state="translated">We talk with the hiring manager and/or the HR responsible in order to understand your culture, mission, open position, and target candidate. We use what we have learned to present your role in a way that will attract the right candidates.</target>
       </trans-unit>
       <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">We advertise your open position up on relevant online media channels and target the audience that is just right for this position. All marketings costs are already included in the price.</target>
+        <target state="translated">We share your role in our extended network and we advertise it up on relevant online media channels and target the audience that is just right for this position. All marketing costs are already included in the price.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">One of our experienced recruitment specialists will personally reach out to suitable candidates and motivate them to apply for the position. We will not limit ourselves to candidates from our own database but also contact people who are not yet a member of TransportTalent.com.</target>
+        <target state="translated">One of our experienced recruitment specialists will initiate a search of the market and will personally reach out to suitable candidates and motivate them to apply for the position. We will not limit ourselves to candidates from our own database but also contact people who are not yet a member of TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
@@ -79,11 +79,11 @@
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Job alert to matching candidates</target>
+        <target state="translated">Scoping the role </target>
       </trans-unit>
       <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target state="translated">Social media campaign</target>
+        <target state="translated">Promoting the role</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
@@ -111,11 +111,13 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Above covers the pricing for positions with annual salaries up to EUR 60.000. For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
+        <target state="translated">*Junior covers the pricing for positions with annual salaries up to EUR 60.000. 
+** Experienced covers the pricing for positions with annual salaries between EUR 60.000 - 80.000
+For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Job Posting Solutions</target>
+        <target state="translated">Job Advertisement Solutions</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -131,7 +133,7 @@
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target state="translated"><![CDATA[Transport Talent is the fastest growing portal for jobs in transport & logistics. This is the where you place your job ad, if you want to reach job applicants with industry experience. Our cost effective subscriptions allows you to post all of your jobs at a low monthly cost, alongside a company profile that gives the job seekers an insight to what it is like to work at your company.]]></target>
+        <target state="translated">Transport Talent is the fastest growing portal for jobs in transport &amp; logistics. This is the where you place your job ad, if you want to reach job applicants with industry experience. Our cost effective subscriptions allows you to advertise all of your jobs at a low annual cost, alongside a company profile that gives the job seekers an insight to what it is like to work at your company.</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
@@ -147,7 +149,7 @@
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Our pricing packages are designed to be as transparent as possible and with a minimum risk on your side. We have divided them up in two parts:  an up-front activation when we start the search paired with a placement fee that is due only when the role is filled with a candidate provided by Transport Talent.</target>
+        <target state="translated">Our pricing packages are designed to be as transparent as possible and with a minimum risk on your side. We have divided them up in two parts: an up-front activation when we start the search paired with a success based placement fee that is due only when the role is filled with a candidate provided by Transport Talent.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -219,11 +221,11 @@
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">With our shortlisting solution we will help you optimise your job-ad, ensure increased reach via social media, conduct a full search of the market and shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 1.000 in Activation fee due upon starting the search, and a success fee of € 4.000 due only when you have selected and signed with your preferred candidate.  </target>
+        <target state="translated">With our recruitment solution for Junior staff we will talk with the hiring manager and/or HR to understand your company culture, the open position in question and the ideal target candidate. We will use what we have learned to present your role in a way that will attract the right candidates. We use social media channels to get the message out to a wide audience while conducting a full search at the same time. In the end we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 1.000 in Activation fee due upon starting the search, and a Success fee of € 4.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">With Recruitment Premium we will assist you to optimise your job advertisement, ensure increased reach via social media and do a search to locate the right type of candidates. We will conduct pre-hire assessment and reference checks and support with the negotiation. The pricing and payment conditions for this service is € 1.000 in Activation fee due upon starting the search, and a success fee of € 4.000 due only when you have selected and signed with your preferred candidate.</target>
+        <target state="translated">With our recruitment solution for positions where a more experienced and senior person is needed we will spend as much time as needed talking with your management and HR to fully understand your company culture, your mission and vision, what the key expectations of the role is within the first 12 months and the ideal target candidate. We will dedicate a senior recruiter with the support of a researcher to do a full search of the market. You will receive weekly updates on our progress and in the end we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 2.000 in Activation fee due upon starting the search, and a Success fee of € 6.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
     </body>
   </file>

@@ -11,19 +11,19 @@
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">Wir unterstützen Sie bei der Formulierung Ihrer Anforderungen</target>
+        <target state="translated">Unsere Preise orientieren sich an der Gehaltsklasse und den damit einhergehenden Anforderungen der Position: Je anspruchsvoller das gesuchte Profil, desto weniger Kandidaten fallen grundsätzlich in das Raster und machen die Recherche entsprechend aufwendiger.</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Per E-Mail machen wir passende Kandidaten aus unserer Datenbank auf Ihre Position aufmerksam</target>
+        <target state="translated">Der ideale Kandidat entspricht nicht nur dem Stellenprofil, sondern identifiziert sich auch mit Ihrer Unternehmenskultur. Im Gespräch mit Ihrer Personalabteilung möchten wir daher Ihr Unternehmen kennenlernen und die Anforderungen an die ausgeschriebene Stelle genau verstehen. So stellen wir sicher, dass wir bei der Akquise die richtigen Kandidaten erreichen.</target>
       </trans-unit>
       <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">Wir bewerben Ihre Stelle gezielt auf relevanten Social-Media-Kanälen bei der Gruppe potentieller Kandidaten für Ihre Position.</target>
+        <target state="translated">Wir bewerben Ihre Stelle in unserem Netzwerk sowie über relevante Social-Media-Kanäle bei der Zielgruppe für Ihre Position. Alle Marketingkosten sind bereits im Preis enthalten.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">Einer unserer erfahrenen Personalberater spricht passende Kandidaten an und motiviert Sie zur Bewerbung. Dabei beschränken wir uns nicht auf Kandidaten aus unserer eigenen Datenbank, sondern kontaktieren auch Personen außerhalb von TransportTalent.com.</target>
+        <target state="translated">Einer unserer erfahrenen Personalberater recherchiert passende Kandidaten und motiviert Sie zur Bewerbung. Dabei beschränken wir uns nicht auf Kandidaten aus unserer eigenen Datenbank, sondern kontaktieren auch Personen außerhalb von TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="translated">Recruitment Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
@@ -63,7 +63,7 @@
             </trans-unit>
             <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
                 <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-                <target state="translated">+ € 5.000 pro eingestelltem Kandidaten*</target>
+                <target state="translated">+ € 6.000 pro eingestelltem Kandidaten*</target>
             </trans-unit>
 <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
@@ -75,15 +75,15 @@
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target state="translated">Überarbeitung der Stellenausschreibung</target>
+        <target state="translated">Gehaltsstufe</target>
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">E-Mail an passende Kandidaten (Suchagent)</target>
+        <target state="translated">Erstellen eines Kandidatenprofils</target>
       </trans-unit>
       <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target state="translated">Social-Media-Kampagne</target>
+        <target state="translated">Bewerben der Position</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
@@ -111,7 +111,9 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Die o.s. Leistungen beziehen sich auf Positionen mit einem Jahresgehalt bis zu EUR 60.000. Höherbezahlte Positionen &lt;a target=blank href="%contactUrl%"&gt;auf Anfrage&lt;/a&gt;.</target>
+        <target state="translated">* Das Servicepaket "Junior" deckt Positionen mit einem Jahresgehalt bis zu EUR 60.000 ab. 
+** Das Servicepaket "Experienced" deckt Positionen mit einem Jahresgehalt zwischen EUR 60.000 und EUR 80.000 ab.
+Bitte &lt;a target=blank href="%contactUrl%"&gt;kontaktieren Sie uns&lt;/a&gt; für Positionen mit einem höheren Gehalt direkt.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -132,7 +134,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target state="translated">Transport Talent ist das am schnellsten wachsende Jobportal für Transport und Logistik. Wer Fachkräfte sucht, schaltet seine Stellenanzeige bei uns. Veröffentlichen Sie dank unserer kosteneffektiven Angebote alle offenen Positionen zu einem niedrigen monatlichen Preis. Ein Unternehmensprofil ist bereits im Preis enthalten: So erhalten die Kandidaten einen Eindruck von der Arbeit in Ihrem Unternehmen.</target>
+        <target state="translated">Transport Talent ist das am schnellsten wachsende Jobportal für Transport und Logistik. Bei uns erreichen Sie mit Ihrer Stellenanzeige ausschließlich Fachkräfte aus der Branche. Veröffentlichen Sie dank unserer attraktiven Angebote alle offenen Positionen zu einem günstigen Festpreis. Ein Unternehmensprofil ist bereits im Preis enthalten: So erhalten die Kandidaten einen Eindruck von der Arbeit in Ihrem Unternehmen.</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
@@ -148,7 +150,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Unsere Preise sind so transparent wie möglich gehalten, um Ihr Risiko zu minimieren. Die Kosten gliedern sich in zwei Teile auf: eine einmalige Aktivierungsgebühr sowie eine Vermittlungsgebühr, die nur dann fällig wird, wenn die Position mit einem Kandidaten von Transport Talent besetzt wird.</target>
+        <target state="translated">Wir minimieren Ihr Risiko durch transparente Preise. Diese setzen sich aus zwei Teilen zusammen: einer einmaligen Aktivierungsgebühr für die Suche sowie einer erfolgsgebunden Vermittlungsgebühr, die nur dann fällig wird, wenn die Position mit einem Kandidaten von Transport Talent besetzt wird.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -160,7 +162,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">Recruitment Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
@@ -168,7 +170,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="translated">Recruitment Premium</target>
+        <target state="translated">Experienced</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
@@ -196,7 +198,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">Recruitment Premium</target>
+        <target state="translated">Experienced</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -220,11 +222,11 @@ anzeigen</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Mit unserem Shortlist-Service unterstützen wir Sie bei der Optimierung Ihrer Stellenanzeige, erhöhen die Reichweite über unsere Social-Media-Kanäle und führen eine umfassende Recherche durch. Anschließend erhalten Sie von uns eine Shortlist mit 3-5 Kandidaten für das Vorstellungsgespräch. Für diesen Service zahlen Sie eine einmalige Aktivierungsgebühr von € 1.000 sowie € 4.000 bei erfolgreicher Vertragsunterzeichnung mit einem der Kandidaten von Transport Talent.  </target>
+        <target state="translated">Im Rahmen unseres Vermittlungsservice für Junior-Positionen sprechen wir zunächst mit Ihrer Personalabteilung, um einen Eindruck von Ihrer Unternehmenskultur sowie der offenen Position und dem idealen Kandidaten zu bekommen. Dieses tiefere Verständnis nutzen wir für die optimale Präsentation Ihrer Stelle nach außen. Neben dem regulären Recherche- und Akquiseprozess bewerben wir Ihre Position zusätzlich über relevante Social-Media-Kanäle bei der Zielgruppe. Abschließend erhalten Sie von uns eine Auswahl mit 3–5 Kandidaten für das Vorstellungsgespräch. Der Preis für dieses Angebot setzt sich aus einer Grundgebühr von € 1.000 sowie einer Erfolgsprämie von € 4.000, welche nur bei Vertragsschluss mit einem Kandidaten von Transport Talent fällig wird, zusammen.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Mit Recruitment Premium unterstützen wir Sie bei der Optimierung Ihrer Stellenbeschreibung, sorgen für eine erhöhte Reichweite über Social Media und recherchieren die passendsten Kandidaten für Sie. Wir führen vorab einen Assessment-Test durch, prüfen die Referenzen und stehen Ihnen für die Verhandlungen mit Kandidaten beratend zur Seite. Mit Buchung des Pakets berechnen wir Ihnen eine Aktivierungsgebühr von € 1.000. Bei erfolgreicher Vermittlung eines Kandidaten durch Transport Talent wird darüber hinaus eine Gebühr von € 4.000 fällig.</target>
+        <target state="translated">Im Rahmen unseres Vermittlungsservices für höhere Positionen suchen wir zunächst das Gespräch mit Ihrer Personalabteilung und dem Management, um die Anforderungen der Stelle sowie die Erwartungen an den Kandidaten innerhalb der ersten 12 Monate genau zu verstehen. Daneben möchten wir auch ein Gefühl für Ihre Unternehmenskultur, -vision und -mission bekommen. Einer unserer erfahrenen Personalvermittler wird hierauf aufbauend gemeinsam mit einem zusätzlichen Kollegen eine umfassende Marktanalyse durchführen. Sie erhalten wöchentliche Updates, bevor wir Ihnen schließlich eine Auswahl mit 3–5 Kandidaten für das Vorstellungsgespräch vorlegen. Der Preis für dieses Angebot setzt sich aus einer Grundgebühr von € 2.000 für die Suche und einer Erfolgsgebühr von € 6.000, welche nur bei Vertragsschluss mit eienm Kandidaten von Transport Talent fällig wird, zusammensetzt.</target>
     </trans-unit>
     </body>
   </file>

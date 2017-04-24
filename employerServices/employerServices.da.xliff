@@ -59,11 +59,11 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement" approved="yes">
         <source>app.employerService.detailsTable.primePlacement</source>
-        <target state="translated">Optimeret placering</target>
+        <target state="translated">Rererral rekrutteringer per år</target>
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Ved optimeret placering vil dine jobs være fremtrædende når kandidater søger på jobs. Dette er en effektiv måde at tiltrække mere opmærksomhed til din jobannonce på.</target>
+        <target state="translated">Med Transport Talent Referral teknologi kan vi understøtte en af de mest effektive måder at rekruttere personale på. I bestemmer selv størrelsen på den Referral belønning i er villige til at betale personen der henviser en kandidat i ansætter (minimum € 500). Transport Talent markedsfører positionen i vores udvidede netværk og på vores sociale medier kanaler og benytter unikke links der er i stand til at spore præcis hvor henvisningerne kommer fra. Vi administrerer hele processen og sender jer kun de kandidater som vi mener er egnede til at blive interviewet, præcis som ved vores standard rekrutteringsløsninger. Vores handling fee er € 750 per ansatte kandidat som I betaler sammen med Referral belønningen og så står vi for at udbetale det til personen der har henvist jeres nye kollega.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -203,15 +203,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (12 måneders binding)</target>
+        <target state="translated">EUR/måned* (faktureret årligt eller € 90 måned for måned)*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (12 måneders binding)</target>
+        <target state="translated">EUR/måned* (faktureret årligt eller € 234 måned for måned)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/måned* (12 måneders binding)</target>
+        <target state="translated">EUR/måned* (faktureret årligt eller € 354 måned for måned)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -239,27 +239,27 @@
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
-          <target state="translated">50</target>
+          <target state="translated">75</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
           <source>app.employerService.enterprise.price.full</source>
-          <target state="translated">5400</target>
+          <target state="translated">3540</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
           <source>app.employerService.advanced.price.full</source>
-          <target state="translated">3000</target>
+          <target state="translated">2340</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
           <source>app.employerService.basic.price.full</source>
-          <target state="translated">600</target>
+          <target state="translated">900</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">250</target>
+          <target state="translated">195</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">450</target>
+          <target state="translated">295</target>
       </trans-unit>
       </body>
   </file>

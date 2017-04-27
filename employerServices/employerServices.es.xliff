@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage" approved="yes">
         <source>app.metaDescriptionServicesPage</source>
-        <target state="translated">Encuentra a los mejores candidatos del transporte, la logística y la cadena de suministro para tus vacantes.</target>
+        <target state="translated">Encuentra a los mejores candidatos en transporte, logística y cadena de suministro.</target>
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
@@ -19,11 +19,11 @@
       </trans-unit>
       <trans-unit id="8d4dbb6e585b471488a1faf017932440" resname="app.employerService.description" approved="yes">
         <source>app.employerService.description</source>
-        <target state="translated">Publica tus vacantes en Transport Talent y entra en contacto con la más amplia y pujante red de candidatos del sector transporte y de la logística. En Transport Talent promocionamos las vacantes en nuestros canales y redes sociales para obtener la máxima difusión y alcance.</target>
+        <target state="translated">Publica tus vacantes en Transport Talent y entra en contacto con la mejor y más pujante red de candidatos del sector transporte y logística. En Transport Talent promocionamos las vacantes en nuestros canales y redes sociales para obtener la máxima difusión y alcance de las mismas.</target>
       </trans-unit>
       <trans-unit id="258d57552c2b4b1095dcf086f317e0ea" resname="app.employerService.section.singleJobPost.header" approved="yes">
         <source>app.employerService.section.singleJobPost.header</source>
-        <target state="translated">Elegir Tarifa</target>
+        <target state="translated">Elige tu tarifa</target>
       </trans-unit>
       <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="yes">
         <source>app.employerService.section.singleJobPost.description</source>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="2e0c10db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.companyLogo.descr" approved="yes">
         <source>app.employerService.detailsTable.companyLogo.descr</source>
-        <target state="translated">Mostrar el logo de empresa junto a la vacante aumenta la visibilidad del anuncio y refuerza la imagen corporativa.</target>
+        <target state="translated">Tu logo de empresa junto a la vacante aumenta la visibilidad del anuncio y refuerza la imagen corporativa.</target>
       </trans-unit>
       <trans-unit id="2e0c12db58534d74bfafc3ee839638d2" resname="app.employerService.detailsTable.allPostingsLabel" approved="yes">
         <source>app.employerService.detailsTable.allPostingsLabel</source>
@@ -63,11 +63,11 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Con la opción de recomendación le ofrecemos el método más efectivo para llegar a los mejores candidatos.
+        <target state="translated">Con la opción de Recomendación te ofrecemos el método más efectivo para llegar a los mejores candidatos.
 
-Tú decides el precio de la recompensa (por ej., 1.000 €), con la que premiarás al que recomiende a tu candidato final. Además, Transport Talent promociona tu vacante en su red y en las redes sociales. Enlaces individuales te permitirán identificar las recomendaciones. Nosotros administramos todo el proceso y te haremos llegar solo candidaturas adecuadas a tus requisitos.
+Tú decides el precio de la recompensa (por ej., 1.000 €), con la que premiarás al que recomiende a tu candidato final. Además, Transport Talent promociona tu vacante entre sus contactos y en las redes sociales. Enlaces individuales te permitirán identificar las recomendaciones. Nosotros administramos todo el proceso y te haremos llegar solo candidaturas adecuadas a tus requisitos.
 
-Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que emplees a un candidato que se haya dado a conocer a través de Transport Talent.</target>
+Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalmente emplees a un candidato que se haya dado a conocer a través de Transport Talent.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -91,7 +91,7 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que emplee
       </trans-unit>
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf1e" resname="app.employerService.section.singleJobPost.unlimitedPositonsDescription" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsDescription</source>
-        <target state="translated">Publicaciones ilimitadas en TransportTalent.com por año</target>
+        <target state="translated">Publicaciones ilimitadas anuales en TransportTalent.com</target>
       </trans-unit>
       <trans-unit id="54a5bf0ccdd4453481c436cb7980cf11" resname="app.employerService.section.singleJobPost.numberPositonsDescription" approved="yes">
         <source>app.employerService.section.singleJobPost.numberPositonsDescription</source>
@@ -115,7 +115,7 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que emplee
       </trans-unit>
       <trans-unit id="f5be6fa290334de9ae63b532238dd58b" resname="app.employerService.section.serviceBooking.section.recruitmentPackeges.title" approved="yes">
         <source>app.employerService.section.serviceBooking.section.recruitmentPackeges.title</source>
-        <target state="translated">Ofertas de empleo</target>
+        <target state="translated">Anuncios de empleo</target>
       </trans-unit>
       <trans-unit id="1b6ae82d8b8b44fe9ae8f216b8c9c319" resname="app.employerService.section.serviceBooking.subtotalLabel" approved="yes">
         <source>app.employerService.section.serviceBooking.subtotalLabel</source>

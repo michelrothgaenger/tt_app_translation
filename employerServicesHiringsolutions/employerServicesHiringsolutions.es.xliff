@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
-        <target state="translated">Reclutamiento Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
@@ -75,15 +75,15 @@
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target state="translated">Revisión de la descripción del puesto</target>
+        <target state="translated">Sueldo anual</target>
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Alerta de empleo para los candidatos con encaje</target>
+        <target state="translated">Describiendo el perfil del candidato</target>
       </trans-unit>
       <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target state="translated">Promoción en Redes Sociales</target>
+        <target state="translated">Promocionar el puesto</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
@@ -111,11 +111,14 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">*Esta es la tarifa para puestos con salarios anuales hasta 60.000 EUR. Para posiciones de nivel superior, póngase en contacto con nosotros.</target>
+        <target state="translated">*Esta es la tarifa para puestos con salarios anuales hasta 60.000 EUR. Para posiciones de nivel superior, póngase en contacto con nosotros.
+* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta 60.000 EUR. &lt;br&gt;
+** El paquete de servicios "Experienced" deckt Positionen con un sueldo anual de 60.000 a 80.000 EUR. &lt;br&gt;
+&lt;a target=blank href="%contactUrl%"&gt;Contáctanos &lt;/a&gt; para puestos con un sueldo anual superior a 80.000 EUR.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Job Posting</target>
+        <target state="translated">Anuncios de Vacantes</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
@@ -131,7 +134,7 @@
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target state="translated">Transport Talent es el portal de empleo mayor y de más rápido crecimiento en el sector de transporte y logística. Publique sus ofertas de empleo y llegue a los profesionales de mayor experiencia en el sector. Nuestras sencillas tarifas de suscripción anual le permiten publicar todas sus vacantes por un bajo coste mensual, a la vez que presentar el perfil de su empresa al pool de expertos para hacer visibles sus valores, su filosofía y su atractivo como empleador.</target>
+        <target state="translated">Transport Talent es el portal de empleo de más rápido crecimiento en el sector de transporte y logística. Con nosotros llegarás a tu público objetivo: los profesionales de mayor experiencia en el sector. Nuestras sencillas tarifas de suscripción anual te permitirán publicar todas tus vacantes por un bajo coste mensual. En el precio viene incluido el perfil de tu empresa - así podrás presentar tu empresa, su estilo y filosofía ante a los candidatos del sector.</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
@@ -147,7 +150,7 @@
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Nuestras tarifas tienen como objetivo ser transparentes y minimizar su riesgo. Es por eso que dividimos el coste de nuestro servicio en dos partes: una cuota de activación inicial y una cuota de colocación que se factura solo cuando la vacante se cubre con un candidato proporcionado por Transport Talent.</target>
+        <target state="translated">Nuestras tarifas tienen como objetivo ser transparentes y minimizar su riesgo. Es por eso que dividimos el coste de nuestro servicio en dos partes: una cuota de activación inicial y una cuota de éxito que se factura solo cuando la vacante se cubre con un candidato proporcionado por Transport Talent.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
@@ -159,7 +162,7 @@
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
-        <target state="translated">Reclutamiento Lite</target>
+        <target state="translated">Junior</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
@@ -171,7 +174,7 @@
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
-        <target state="translated">Reclutamiento Premium</target>
+        <target state="translated">Experienced</target>
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>

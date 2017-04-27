@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
+      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="no">
         <source>app.metaForSocialsSiteTitle</source>
-        <target state="translated">Vacantes en el sector transporte, logística y cadena de suministro</target>
+        <target state="needs-translation">Vacantes en el sector transporte, logística y cadena de suministro</target>
       </trans-unit>
       <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>

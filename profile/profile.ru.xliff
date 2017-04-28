@@ -93,17 +93,17 @@
         <source>app.phone</source>
         <target>Phone</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country">
+      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
         <source>app.country</source>
-        <target>Country</target>
+        <target state="translated">Страна</target>
       </trans-unit>
       <trans-unit id="5ca132321275d682bd4f1da5769d15f5" resname="app.region">
         <source>app.region</source>
         <target>Region</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city">
+      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
         <source>app.city</source>
-        <target>City</target>
+        <target state="translated">Город</target>
       </trans-unit>
       <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding">
         <source>app.companyBranding</source>
@@ -157,9 +157,9 @@
         <source>app.profileSectionTotalExperienceTitle</source>
         <target>Experience</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
+      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
-        <target>Job title</target>
+        <target state="translated">Название вакансии</target>
       </trans-unit>
       <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
         <source>app.position</source>
@@ -197,9 +197,9 @@
         <source>app.add</source>
         <target>Add</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save">
+      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
         <source>app.save</source>
-        <target>Save</target>
+        <target state="translated">Сохранить</target>
       </trans-unit>
       <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel">
         <source>app.cancel</source>

@@ -53,10 +53,6 @@
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
         <target state="translated">Automatisk upload af alle ledige stillinger</target>
       </trans-unit>
-      <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target state="translated">Delt på sociale medier</target>
-      </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement" approved="yes">
         <source>app.employerService.detailsTable.primePlacement</source>
         <target state="translated">Rererral rekrutteringer per år</target>
@@ -168,10 +164,6 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
         <target state="translated">Vi opretter et link til din karriereside på din virksomheds hjemmeside eller direkte til jeres ATS således at alle jeres stillinger bliver automatisk uploadet på transporttalent.com uden noget arbejde fra jeres side</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Vi poster alle jeres jobs på vores social media kanaler (Facebook &amp; Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>

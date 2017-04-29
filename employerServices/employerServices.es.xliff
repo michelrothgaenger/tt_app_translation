@@ -53,10 +53,6 @@
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
         <target state="translated">Publicación automática de todas las vacantes</target>
       </trans-unit>
-      <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target state="translated">Compartido en redes sociales</target>
-      </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement" approved="yes">
         <source>app.employerService.detailsTable.primePlacement</source>
         <target state="translated">Vacantes con opción de Recomendación</target>
@@ -172,10 +168,6 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
         <target state="translated">Creamos un enlace directo en su propio Portal de Empleo o en su aplicación ATS de modo que tus anuncios aparezcan publicados automáticamente en TransportTalent.com</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Publicamos todas las vacantes en nuestros canales y redes sociales (Facebook y Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>

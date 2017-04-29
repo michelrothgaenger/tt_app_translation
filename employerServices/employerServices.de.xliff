@@ -41,10 +41,6 @@
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
         <target state="translated">Automatischer Upload aller Stellen</target>
       </trans-unit>
-      <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target state="translated">Veröffentlichung über Social Media</target>
-      </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
         <target state="translated">E-Mail-Benachrichtigungen an relevante Kandidaten</target>
@@ -132,10 +128,6 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
         <target state="translated">Gerne verknüpfen wir Ihr Kundenkonto mit Ihrer Karriereseite oder Ihrem Bewerbungssystem (ATS), um neue Stellen automatisch nach TransportTalent.com zu übertragen</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Wir veröffentlichen alle Ihre Stellen über unsere Social-Media-Kanäle (Facebook &amp; Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>

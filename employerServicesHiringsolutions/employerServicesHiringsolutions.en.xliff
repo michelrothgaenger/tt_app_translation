@@ -17,10 +17,6 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
         <target state="translated">We talk with the hiring manager and/or the HR responsible in order to understand your culture, mission, open position, and target candidate. We use what we have learned to present your role in a way that will attract the right candidates.</target>
       </trans-unit>
-      <trans-unit id="b766f72ebd0745a1aa6354db992e8d2b" resname="app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.personalAccountManagerLabel.descr</source>
-        <target state="translated">We share your role in our extended network and we advertise it up on relevant online media channels and target the audience that is just right for this position. All marketing costs are already included in the price.</target>
-      </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
         <target state="translated">One of our experienced recruitment specialists will initiate a search of the market and will personally reach out to suitable candidates and motivate them to apply for the position. We will not limit ourselves to candidates from our own database but also contact people who are not yet a member of TransportTalent.com.</target>
@@ -28,10 +24,6 @@
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
         <target state="translated">Once we have a list of potential candidates we will screen them through phone or video interviews and create a shortlist of people for you to interview.</target>
-      </trans-unit>
-      <trans-unit id="a8c8690100d2454fab0e53eccfd9f971" resname="app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.emailToRelevantCandidates.descr</source>
-        <target state="translated">After the shortlisting has been completed we will reach out to the hiring manager or HR at your company and conduct a calibration of the candidates on the list, matching them up against the criteria for the position. We determine together how they fit and decide if all should stay on the list and go on to the interview round. If necessary we go back and extend our search.</target>
       </trans-unit>
       <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro" approved="yes">
         <source>app.employerServicesHiringsolutions.intro</source>
@@ -81,17 +73,9 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
         <target state="translated">Scoping the role </target>
       </trans-unit>
-      <trans-unit id="9fab7f7686e3459e80be6e09a792d22e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow3.info</source>
-        <target state="translated">Promoting the role</target>
-      </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
         <target state="translated">Sourcing by recruitment specialist</target>
-      </trans-unit>
-      <trans-unit id="50c67637ee3348879dfe2a2012e2bfdc" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info" approved="yes">
-        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow6.info</source>
-        <target state="translated">Candidate calibration</target>
       </trans-unit>
       <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>
@@ -227,6 +211,22 @@ For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;cont
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
         <target state="translated">With our recruitment solution for positions where a more experienced and senior person is needed we will spend as much time as needed talking with your management and HR to fully understand your company culture, your mission and vision, what the key expectations of the role is within the first 12 months and the ideal target candidate. We will dedicate a senior recruiter with the support of a researcher to do a full search of the market. You will receive weekly updates on our progress and in the end we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 2.000 in Activation fee due upon starting the search, and a Success fee of € 6.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
+        <trans-unit id="0">
+            <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
+            <target>app.employerServicesHiringsolutions.packages.first.subtitle</target>
+        </trans-unit>
+        <trans-unit id="1">
+            <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
+            <target>app.employerServicesHiringsolutions.packages.second.subtitle</target>
+        </trans-unit>
+        <trans-unit id="2">
+            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
+            <target>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</target>
+        </trans-unit>
+        <trans-unit id="3">
+            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
+            <target>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

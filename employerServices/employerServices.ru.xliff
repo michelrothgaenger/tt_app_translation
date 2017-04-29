@@ -53,10 +53,6 @@
         <source>app.employerService.section.singleJobPost.automaticUploadLabel</source>
         <target state="translated">Automatic upload of all positions</target>
       </trans-unit>
-      <trans-unit id="02c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.section.singleJobPost.socialPostingLabel" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel</source>
-        <target state="translated">Shared on social channels</target>
-      </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea3" resname="app.employerService.detailsTable.primePlacement" approved="yes">
         <source>app.employerService.detailsTable.primePlacement</source>
         <target state="translated">Prime placement</target>
@@ -168,10 +164,6 @@
       <trans-unit id="953f4dde2c9e4c46934f27d72f047005" resname="app.employerService.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.automaticUploadLabel.descr</source>
         <target state="translated">We create a direct link to your career page on your website or your ATS so that all of your jobs will automatically get uploaded on transporttalent.com without any manual work form your side</target>
-      </trans-unit>
-      <trans-unit id="953f4dde2c9e4c46934f27d72f047006" resname="app.employerService.section.singleJobPost.socialPostingLabel.descr" approved="yes">
-        <source>app.employerService.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">We post of all jobs on our social media channels (Facebook &amp; Twitter)</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46934f27d72f047007" resname="app.employerService.section.singleJobPost.emailToRelevantCandidates.descr" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidates.descr</source>

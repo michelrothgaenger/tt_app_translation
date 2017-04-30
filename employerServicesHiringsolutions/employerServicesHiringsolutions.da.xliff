@@ -211,6 +211,22 @@ For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
         <target state="translated">Med vores rekrutteringløsning til de specialiststillinger hvor mere erfaring er påkrævet investerer vi så meget tid som muligt i en dialog med jeres ledelse og HR for at opnå den størst mulige indsigt i jeres virksomhedskultur,  mission og vision, samt hvad de forventninger i har til hvad den ønskede kandidat skal levere i rollen i de første 12 måneder. En af vores senior konsulenter med support fra en research assistent vil foretage en fuld søgning af markedet. Vi vil sende jer ugentlige opdateringer på processen indtil vi præsentere en liste på 3-5 motiverede kandidater der er klar til at blive interviewet af jer. Priser og betalingsbetingelser for denne service er € 2.000 i aktiverings fee der skal betales ved opstart af opgaven, samet et successbaseret fee på € 6,000 ved ansættelse af den udvalgte kandidat.</target>
     </trans-unit>
+    <trans-unit id="0" approved="yes">
+            <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
+            <target state="translated">for stillinger op til € 60.000</target>
+        </trans-unit>
+        <trans-unit id="1" approved="yes">
+            <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
+            <target state="translated">for stillinger op til € 80.000</target>
+        </trans-unit>
+        <trans-unit id="2" approved="yes">
+            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
+            <target state="translated">op til € 60.000</target>
+        </trans-unit>
+        <trans-unit id="3" approved="yes">
+            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
+            <target state="translated">op til € 80.000</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

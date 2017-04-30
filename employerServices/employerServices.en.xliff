@@ -260,29 +260,29 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
-        <trans-unit id="0">
+        <trans-unit id="0" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</target>
+            <target state="translated">2</target>
         </trans-unit>
-        <trans-unit id="1">
+        <trans-unit id="1" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
-            <target>app.employerService.singleJobPost.smallBusinees.companyLogo</target>
+            <target state="translated">All postings</target>
         </trans-unit>
-        <trans-unit id="2">
+        <trans-unit id="2" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.positionsNumber</target>
+            <target state="translated">100</target>
         </trans-unit>
-        <trans-unit id="3">
+        <trans-unit id="3" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</target>
+            <target state="translated">25</target>
         </trans-unit>
-        <trans-unit id="4">
+        <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</target>
+            <target state="translated">€ 1.200 p.a.</target>
         </trans-unit>
-        <trans-unit id="5">
+        <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.enterprise.referralPositionsNumber</target>
+            <target state="translated">Unlimited</target>
         </trans-unit>
     </body>
   </file>

@@ -257,6 +257,30 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
+    <trans-unit id="0" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
+            <target state="translated">app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</target>
+        </trans-unit>
+        <trans-unit id="1" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
+            <target state="translated">app.employerService.singleJobPost.smallBusinees.companyLogo</target>
+        </trans-unit>
+        <trans-unit id="2" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
+            <target state="translated">app.employerService.singleJobPost.mediumBusiness.positionsNumber</target>
+        </trans-unit>
+        <trans-unit id="3" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
+            <target state="translated">app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</target>
+        </trans-unit>
+        <trans-unit id="4" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
+            <target state="translated">app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</target>
+        </trans-unit>
+        <trans-unit id="5" approved="no">
+            <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
+            <target state="needs-translation">app.employerService.singleJobPost.enterprise.referralPositionsNumber</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

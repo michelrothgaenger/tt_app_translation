@@ -211,21 +211,21 @@ For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;cont
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
         <target state="translated">With our recruitment solution for positions where a more experienced and senior person is needed we will spend as much time as needed talking with your management and HR to fully understand your company culture, your mission and vision, what the key expectations of the role is within the first 12 months and the ideal target candidate. We will dedicate a senior recruiter with the support of a researcher to do a full search of the market. You will receive weekly updates on our progress and in the end we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 2.000 in Activation fee due upon starting the search, and a Success fee of € 6.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
-        <trans-unit id="0">
+        <trans-unit id="0" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
-            <target>app.employerServicesHiringsolutions.packages.first.subtitle</target>
+            <target state="translated">for positions up to € 60.000</target>
         </trans-unit>
-        <trans-unit id="1">
+        <trans-unit id="1" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
-            <target>app.employerServicesHiringsolutions.packages.second.subtitle</target>
+            <target state="translated">for positions up to € 80.000 </target>
         </trans-unit>
-        <trans-unit id="2">
+        <trans-unit id="2" approved="yes">
             <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
-            <target>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</target>
+            <target state="translated">up to € 60.000</target>
         </trans-unit>
-        <trans-unit id="3">
+        <trans-unit id="3" approved="yes">
             <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
-            <target>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</target>
+            <target state="translated">up to € 80.000</target>
         </trans-unit>
     </body>
   </file>

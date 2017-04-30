@@ -11,15 +11,15 @@
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">Le ayudamos a definir la descripción del puesto</target>
+        <target state="translated">Nuestros precios se basan en el nivel salarial y los requisitos asociados la posición: A mayor exigencia del perfil buscado, menos candidatos se cumplirán las mismas, resultando en un grado de dificultad mayor a la hora de realizar la búsqueda.</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Enviamos una Alerta de Empleo a aquellos candidatos de nuestro talent pool cuyo perfil coincida con sus requerimientos</target>
+        <target state="translated">El candidato ideal no solo cumple los requisitos del puesto vacante, sino que también se identifica con la cultura e identidad corporativa de tu empresa. En diálogo con los departamentos de Recursos Humanos, intentamos conocer mejor a las empresas y ser así capaces de filtrar a los candidatos con el mejor encaje.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">Nuestro equipo de expertos en reclutamiento y selección contacta personalmente a los candidatos relevantes para informarles de la vacante e invitarlos a participar en el proceso de reclutamiento. No nos limitamos a escanear a los candidatos de nuestra propia base de datos - también contactamos a nuestra amplia red de contactos en el sector y profesionales externo a TransportTalent.com.</target>
+        <target state="translated">Nuestro equipo de expertos en reclutamiento y selección contacta a los candidatos relevantes para informarles de la vacante y motivarlos para que envíen su candidatura. No nos limitamos a escanear a los candidatos de nuestra propia base de datos - también contactamos a nuestra amplia red de contactos en el sector y profesionales externo a TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
@@ -186,7 +186,7 @@
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
-        <target state="translated">Reclutamiento Premium</target>
+        <target state="translated">Experienced</target>
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
@@ -204,9 +204,9 @@
         <source>app.employerServicesHiringsolutions.popup.headline</source>
         <target state="translated">Soluciones de reclutamiento</target>
     </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
+    <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="no">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Con nuestro Shortlisting le ayudamos a optimizar su anuncio de empleo, le aseguramos un mayor alcance en las redes sociales y llevamos a cabo una búsqueda completa del mercado confeccionando una lista de entre 3 a 5 candidatos listos para acudir a su entrevista. Coste y condiciones de pago: 1.000 € como tarifa de activación y, en caso de que la búsqueda haya llegado a buen término, 4.000 € a la firma de contrato del candidato.</target>
+        <target state="needs-translation">Como parte de nuestro ayuda para ocupar posiciones Junior, hablamos con su departamento de Recursos Humanos, para ganar una idea contra y bien definida sobre la empresa, el puesto a cubrir por el candidato ideal. Una vez ganado un conocimiento exhaustivo de la empresa, comunicamos la vacante de forma óptima. Y también promocionamos la vacante en las redes sociales y llevamos a cabo una búsqueda completa del mercado confeccionando una lista de entre 3 a 5 candidatos listos para acudir a su entrevista. Coste y condiciones de pago: 1.000 € como tarifa de activación y, en caso de que la búsqueda haya llegado a buen término, 4.000 € a la firma de contrato del candidato.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>

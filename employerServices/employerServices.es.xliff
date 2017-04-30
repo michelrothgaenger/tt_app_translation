@@ -261,9 +261,9 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
             <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
             <target state="translated">2</target>
         </trans-unit>
-        <trans-unit id="1" approved="no">
+        <trans-unit id="1" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
-            <target state="needs-translation">All postings</target>
+            <target state="translated">Todos los anuncios</target>
         </trans-unit>
         <trans-unit id="2" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
@@ -273,13 +273,13 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
             <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
             <target state="translated">25</target>
         </trans-unit>
-        <trans-unit id="4" approved="no">
+        <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target state="needs-translation">€ 1.200 p.a.</target>
+            <target state="translated">€ 1.200 por año</target>
         </trans-unit>
-        <trans-unit id="5" approved="no">
+        <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
-            <target state="needs-translation">Unlimited</target>
+            <target state="translated">Ilimitado</target>
         </trans-unit>
     </body>
   </file>

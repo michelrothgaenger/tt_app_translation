@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-          <target state="translated">+ € 6.000 per ansat kandidat*</target>
+          <target state="translated">+ € 6.000 per ansat kandidat**</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
@@ -149,7 +149,7 @@ For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
-        <target state="translated">30 dage</target>
+        <target state="translated">90 dage</target>
       </trans-unit>
       <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
@@ -177,7 +177,7 @@ For stillinger over dette niveau venligst &lt;a target=blank href="%contactUrl%"
       </trans-unit>
       <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
-        <target state="translated">90 dage</target>
+        <target state="translated">120 dage</target>
       </trans-unit>
       <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription" approved="yes">
         <source>app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription</source>

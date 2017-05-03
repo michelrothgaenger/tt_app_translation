@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Der ideale Kandidat entspricht nicht nur dem Stellenprofil, sondern identifiziert sich auch mit Ihrer Unternehmenskultur. Im Gespräch mit Ihrer Personalabteilung möchten wir daher Ihr Unternehmen kennenlernen und die Anforderungen an die ausgeschriebene Stelle genau verstehen. So stellen wir sicher, dass wir bei der Akquise die richtigen Kandidaten ansprechen.</target>
+        <target state="translated">Einer unserer erfahrenen Personalberater recherchiert passende Kandidaten und motiviert Sie zur Bewerbung. Dabei beschränken wir uns nicht auf Kandidaten aus unserer eigenen Datenbank, sondern kontaktieren auch Personen außerhalb von TransportTalent.com.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">Einer unserer erfahrenen Personalberater recherchiert passende Kandidaten und motiviert Sie zur Bewerbung. Dabei beschränken wir uns nicht auf Kandidaten aus unserer eigenen Datenbank, sondern kontaktieren auch Personen außerhalb von TransportTalent.com.</target>
+        <target state="translated">Sobald wir eine Liste mit potenziellen Kandidaten haben führen wir erste Telefon- und Videointerviews, um eine Shortlist für die Vorstellungsgespräche zu erstellen.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
@@ -71,11 +71,11 @@
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Erstellen eines Kandidatenprofils</target>
+        <target state="translated">Gezielte Akquise durch Personalberater</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target state="translated">Gezielte Akquise durch Personalberater</target>
+        <target state="translated">Prüfen der Kandidaten und Shortlist</target>
       </trans-unit>
       <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>
@@ -95,9 +95,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">* Das Servicepaket "Junior" deckt Positionen mit einem Jahresgehalt bis zu EUR 60.000 ab. &lt;br&gt;
-** Das Servicepaket "Experienced" deckt Positionen mit einem Jahresgehalt zwischen EUR 60.000 und EUR 80.000 ab. &lt;br&gt;
-Bitte &lt;a target=blank href="%contactUrl%"&gt;kontaktieren Sie uns&lt;/a&gt; für Positionen mit einem höheren Gehalt.</target>
+        <target state="translated">* Das Servicepaket "Junior" deckt Positionen mit einem Jahresgehalt bis zu € 60.000 ab. &lt;br&gt; ** Das Servicepaket "Experienced" deckt Positionen mit einem Jahresgehalt zwischen € 60.000 und EUR 80.000 ab. &lt;br&gt; Bitte &lt;a target=blank href="%contactUrl%"&gt;kontaktieren Sie uns&lt;/a&gt; für Positionen mit einem höheren Gehalt.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -138,7 +136,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
-        <target state="translated">Prüfung der Kandidaten und Shortlist</target>
+        <target state="translated">Erster Durchgang Vorstellungsgespräche</target>
       </trans-unit>
       <trans-unit id="131a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
@@ -150,7 +148,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
-        <target state="translated">30 Tage</target>
+        <target state="translated">90 Tage</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
@@ -174,7 +172,7 @@ anzeigen</target>
       </trans-unit>
       <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
-        <target state="translated">90 Tage</target>
+        <target state="translated">120 Tage</target>
       </trans-unit>
       <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription" approved="yes">
         <source>app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription</source>

@@ -203,15 +203,15 @@ Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 750 € nur dann,
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 90 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Monat*&lt;br&gt; (bei jährlicher Zahlung, € 90 bei monatlicher Zahlung)</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 234 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Monat*&lt;br&gt; (bei jährlicher Zahlung, € 234 bei monatlicher Zahlung)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 354 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Monat*&lt;br&gt; (bei jährlicher Zahlung, € 354 bei monatlicher Zahlung)</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -257,6 +257,30 @@ Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 750 € nur dann,
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
+    <trans-unit id="0" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
+            <target state="translated">2</target>
+        </trans-unit>
+        <trans-unit id="1" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
+            <target state="translated">Alle Stellenanzeigen</target>
+        </trans-unit>
+        <trans-unit id="2" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
+            <target state="translated">100</target>
+        </trans-unit>
+        <trans-unit id="3" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
+            <target state="translated">25</target>
+        </trans-unit>
+        <trans-unit id="4" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
+            <target state="translated">€ 1.200 p.a.</target>
+        </trans-unit>
+        <trans-unit id="5" approved="yes">
+            <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
+            <target state="translated">Unlimited</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

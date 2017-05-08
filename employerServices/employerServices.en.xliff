@@ -199,18 +199,15 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/month
-(invoiced annually or € 90 month by month)*</target>
+        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or € 90 month-to-month)*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/month
-(invoiced annually or € 234 month by month)*</target>
+        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or € 234 month-to-month)*</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/month
-(invoiced annually or € 354 month by month)*</target>
+        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or € 354 month-to-month)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -260,29 +257,29 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
-        <trans-unit id="0">
+        <trans-unit id="0" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</target>
+            <target state="translated">2</target>
         </trans-unit>
-        <trans-unit id="1">
+        <trans-unit id="1" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
-            <target>app.employerService.singleJobPost.smallBusinees.companyLogo</target>
+            <target state="translated">All postings</target>
         </trans-unit>
-        <trans-unit id="2">
+        <trans-unit id="2" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.positionsNumber</target>
+            <target state="translated">100</target>
         </trans-unit>
-        <trans-unit id="3">
+        <trans-unit id="3" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</target>
+            <target state="translated">25</target>
         </trans-unit>
-        <trans-unit id="4">
+        <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</target>
+            <target state="translated">€ 1.200 p.a.</target>
         </trans-unit>
-        <trans-unit id="5">
+        <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
-            <target>app.employerService.singleJobPost.enterprise.referralPositionsNumber</target>
+            <target state="translated">Unlimited</target>
         </trans-unit>
     </body>
   </file>

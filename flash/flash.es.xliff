@@ -39,7 +39,7 @@
         </trans-unit>
         <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs" approved="yes">
           <source>app.flash.job.employer.cantPostJobs</source>
-          <target state="translated">No tiene permiso para publicar vacantes</target>
+          <target state="translated">Has agotado tu contingente de anuncios gratis de vacantes.</target>
         </trans-unit>
         <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved" approved="yes">
           <source>app.flash.job.employer.saved</source>
@@ -56,6 +56,14 @@
         <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType" approved="yes">
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">EL archivo ha de ser un PDF</target>
+        </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="no">
+          <source>app.flash.unsubscribed</source>
+          <target state="needs-translation">Cancelar la subscripción</target>
+        </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
+          <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
+          <target state="translated">No es posible cancelar el uso de correos de seguridad, ya que estos garantizan la seguridad de su cuenta</target>
         </trans-unit>
     </body>
   </file>

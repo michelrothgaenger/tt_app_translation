@@ -57,9 +57,9 @@
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">EL archivo ha de ser un PDF</target>
         </trans-unit>
-    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="no">
+    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="yes">
           <source>app.flash.unsubscribed</source>
-          <target state="needs-translation">Cancelar la subscripción</target>
+          <target state="translated">Cancelar</target>
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
           <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>

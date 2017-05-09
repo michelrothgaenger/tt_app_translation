@@ -81,6 +81,14 @@
         <source>app.jobs.createJobAlertButtonLabel</source>
         <target state="translated">CREAR ALERTA DE EMPLEO</target>
       </trans-unit>
+    <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb01" resname="app.jobs.alert.editCreate.noTitleError" approved="no">
+        <source>app.jobs.alert.editCreate.noTitleError</source>
+        <target state="needs-translation"/>
+      </trans-unit>
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="no">
+        <source>app.jobs.selectAutocompleteItem</source>
+        <target state="needs-translation"></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

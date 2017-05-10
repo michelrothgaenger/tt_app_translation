@@ -199,15 +199,15 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/mes* (con contrato anual, 90 € si mes a mes)</target>
+        <target state="translated">EUR/mes* &lt;br&gt;(*contrato anual / 90 € en el caso de pago mensual)</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/mes* (con contrato anual, 234 € si mes a mes)</target>
+        <target state="translated">EUR/mes* &lt;br&gt; (contrato anual, 234 € en el caso de pago mensual)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/mes* (con pago anual, 354 € si mes a mes)</target>
+        <target state="translated">EUR/mes* &lt;br&gt;(pago anual / 354 € en el caso de pago mensual)</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -257,6 +257,30 @@ Siempre sobre seguro: te facturamos 750 € únicamente en el caso de que finalm
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
+    <trans-unit id="0" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
+            <target state="translated">2</target>
+        </trans-unit>
+        <trans-unit id="1" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
+            <target state="translated">Todos los anuncios</target>
+        </trans-unit>
+        <trans-unit id="2" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
+            <target state="translated">100</target>
+        </trans-unit>
+        <trans-unit id="3" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
+            <target state="translated">25</target>
+        </trans-unit>
+        <trans-unit id="4" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
+            <target state="translated">€ 1.200 por año</target>
+        </trans-unit>
+        <trans-unit id="5" approved="yes">
+            <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
+            <target state="translated">Ilimitado</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

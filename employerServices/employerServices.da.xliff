@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/årligt*&lt;br&gt;(12 måneders binding)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;EUR/årligt*&lt;br&gt;(årlig kontrakt)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/årligt*&lt;br&gt; (faktureret årligt)*</target>
+        <target state="translated">EUR/årligt&lt;br&gt; (faktureret årligt)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>

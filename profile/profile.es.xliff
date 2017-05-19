@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
-        <target state="translated">Búsqueda de empleo</target>
+        <target state="translated">Buscar empleo</target>
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
-        <target state="translated">¡ Felicidades %username%! Tu cuenta ya está activada.</target>
+        <target state="translated">¡Felicidades %username%! Tu cuenta ha sido activada.</target>
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
-        <target state="translated">Tus empresas que sigues.</target>
+        <target state="translated">Tus empresas que sigues. Añade más vacantes o elimina algunas, para afinar mejor tu búsqueda.</target>
       </trans-unit>
       <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
@@ -107,7 +107,7 @@
       </trans-unit>
       <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
-        <target state="translated">Identidad Corporativa</target>
+        <target state="translated">Identidad Corporativa y Logo</target>
       </trans-unit>
       <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress" approved="yes">
         <source>app.companyAddress</source>
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
         <source>app.about</source>
-        <target state="translated">Sobre la empresa</target>
+        <target state="translated">Sobre</target>
       </trans-unit>
       <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
-        <target state="translated">Ayuda a otros a conseguir un puesto de trabajo y gana dinero</target>
+        <target state="translated">Ayuda a otros a conseguir un puesto de trabajo y gana dinero.</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
@@ -407,7 +407,7 @@
       </trans-unit>
       <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
-        <target state="translated">Nombre de la alerta*</target>
+        <target state="translated">Título*</target>
       </trans-unit>
       <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
@@ -519,7 +519,7 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
         <source>app.profile.dashboard.settings.tile.title</source>
-        <target state="translated">Opciones</target>
+        <target state="translated">Configuración</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-jobs.tile.title</source>
@@ -535,19 +535,19 @@
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
-        <target state="translated">Tu listado de empresas.</target>
+        <target state="translated">Edita tu listado de empresas.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
-        <target state="translated">Recuerda mantener tu perfil atractivo y actual para no pasar desapercibido a los empleadores del sector.</target>
+        <target state="translated">Recuerda actualizar tu perfil para no pasar desapercibido a los empleadores del sector.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Administra tu cuenta:&lt;br&gt;Aquí puedes, p. ej., configurar y actualizar tus datos o restablecer tu contraseña.</target>
+        <target state="translated">Administra tu cuenta:&lt;br&gt; Configura y actualiza tus datos o restablece tu contraseña.</target>
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
-        <target state="translated">Gestiona las vacantes de tu empresa</target>
+        <target state="translated">Gestiona tus vacantes</target>
       </trans-unit>
       <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.title</source>
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">Para acceder por medio de otras cuentas de tus redes sociales, danos un email de recuperación para el caso de que olvides tus datos de acceso a Transport Talent y necesites recuperarlos.</target>
+        <target state="translated">Para acceder por medio de otras cuentas de tus redes sociales, necesitamos un email de recuperación para el caso de que olvides tus datos de acceso a Transport Talent y necesites recuperarlos.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
         <source>app.profile.login.service.active</source>
-        <target state="translated">Activado</target>
+        <target state="translated">Activo</target>
       </trans-unit>
       <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered" approved="yes">
         <source>app.profile.login.service.notRegistered</source>
@@ -853,6 +853,18 @@
         <source>app.profile.editor.birthdayPlaceholder</source>
         <target state="translated">DD/MM/AAAA</target>
       </trans-unit>
-    </body>
+    <trans-unit id="353ef4c948ee40bfa43927921f960482" resname="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
+        <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
+        <target state="translated">EDITAR CRITERIOS DE BÚSQUEDA</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d001" resname="app.signInWithLinkedin" approved="yes">
+        <source>app.signInWithLinkedin</source>
+        <target state="translated">Iniciar sesión con LinkedIn</target>
+      </trans-unit>
+      <trans-unit id="0a57523c77c9b93a49e1710e4e11d002" resname="app.signInWithFacebook" approved="yes">
+        <source>app.signInWithFacebook</source>
+        <target state="translated">Iniciar sesión con Facebook</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/Monat*&lt;br&gt;(Jahresvertrag)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;EUR/Jahr*&lt;br&gt;(Jahresvertrag)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -155,11 +155,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Mit der Empfehlungsoption bieten wir Ihnen eine der effektivsten Methoden, passende Kandidaten zu erreichen.
-
-Sie legen die Höhe der Belohnung fest (z.B. 1.000 €), welche Sie demjenigen zahlen möchten, der Ihre offene Position an den finalen Kandidaten weiterleitet. Transport Talent bewirbt Ihre Position daraufhin in seinem Netzwerk sowie über seine Social-Media-Kanäle. Individuelle Links ermöglichen eine Zuordnung der Empfehlungen. Wir verwalten den gesamten Prozess für Sie und leiten Ihnen ausschließlich relevante Bewerbungen weiter.
-
-Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 750 € nur dann, wenn Sie einen Kandidaten einstellen, der über Transport Talent gekommen ist.</target>
+        <target state="translated">Mit der Empfehlungsoption bieten wir Ihnen eine der effektivsten Methoden, passende Kandidaten zu erreichen. Sie legen die Höhe der Belohnung fest (z.B. 500 €), welche Sie demjenigen zahlen möchten, der Ihre offene Position an den finalen Kandidaten weiterleitet. Transport Talent bewirbt Ihre Position daraufhin in seinem Netzwerk sowie über seine Social-Media-Kanäle. Individuelle Links ermöglichen eine Zuordnung der Empfehlungen. Wir verwalten den gesamten Prozess für Sie und leiten Ihnen ausschließlich relevante Bewerbungen weiter. Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 500 € nur dann, wenn Sie einen Kandidaten einstellen, der über Transport Talent gekommen ist.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="yes">
         <source>app.employerService.popup.inputs.submitValueLoggedin</source>
@@ -203,15 +199,15 @@ Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 750 € nur dann,
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 90 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 234 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/Monat* (bei jährlicher Zahlung, € 354 bei monatlicher Zahlung)</target>
+        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -231,32 +227,56 @@ Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 750 € nur dann,
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">295</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">195</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
-          <target state="translated">75</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
           <source>app.employerService.enterprise.price.full</source>
-          <target state="translated">3540</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
           <source>app.employerService.advanced.price.full</source>
-          <target state="translated">2340</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
           <source>app.employerService.basic.price.full</source>
-          <target state="translated">900</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047010" resname="app.employerService.currencySign" approved="yes">
           <source>app.employerService.currencySign</source>
           <target state="translated">€</target>
       </trans-unit>
+    <trans-unit id="0" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>
+            <target state="translated">2</target>
+        </trans-unit>
+        <trans-unit id="1" approved="yes">
+            <source>app.employerService.singleJobPost.smallBusinees.companyLogo</source>
+            <target state="translated">Alle Stellenanzeigen</target>
+        </trans-unit>
+        <trans-unit id="2" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.positionsNumber</source>
+            <target state="translated">100</target>
+        </trans-unit>
+        <trans-unit id="3" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
+            <target state="translated">25</target>
+        </trans-unit>
+        <trans-unit id="4" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
+            <target state="translated">€ 1.200 p.a.</target>
+        </trans-unit>
+        <trans-unit id="5" approved="yes">
+            <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
+            <target state="translated">Unlimited</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

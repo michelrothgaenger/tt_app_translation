@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Med Transport Talent Referral teknologi kan vi understøtte en af de mest effektive måder at rekruttere personale på. I bestemmer selv størrelsen på den Referral belønning i er villige til at betale personen der henviser en kandidat i ansætter (minimum € 500). Transport Talent markedsfører positionen i vores udvidede netværk og på vores sociale medier kanaler og benytter unikke links der er i stand til at spore præcis hvor henvisningerne kommer fra. Vi administrerer hele processen og sender jer kun de kandidater som vi mener er egnede til at blive interviewet, præcis som ved vores standard rekrutteringsløsninger. Vores handling fee er € 750 per ansatte kandidat som I betaler sammen med Referral belønningen og så står vi for at udbetale det til personen der har henvist jeres nye kollega.</target>
+        <target state="translated">Med Transport Talent Referral teknologi kan vi understøtte en af de mest effektive måder at rekruttere personale på. I bestemmer selv størrelsen på den Referral belønning i er villige til at betale personen der henviser en kandidat i ansætter (minimum € 500). Transport Talent markedsfører positionen i vores udvidede netværk og på vores sociale medier kanaler og benytter unikke links der er i stand til at spore præcis hvor henvisningerne kommer fra. Vi administrerer hele processen og sender jer kun de kandidater som vi mener er egnede til at blive interviewet, præcis som ved vores standard rekrutteringsløsninger. Vores handling fee er € 500 per ansatte kandidat som I betaler sammen med Referral belønningen og så står vi for at udbetale det til personen der har henvist jeres nye kollega.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/måned*&lt;br&gt;(12 måneders binding)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;EUR/årligt*&lt;br&gt;(årlig kontrakt)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -195,15 +195,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (faktureret årligt eller € 90 måned til måned)*</target>
+        <target state="translated">EUR/årligt*&lt;br&gt; (faktureret årligt)*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/måned* (faktureret årligt eller € 234 måned til måned)</target>
+        <target state="translated">EUR/årligt*&lt;br&gt; (faktureret årligt)</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/måned* (faktureret årligt eller € 354 måned til måned)*</target>
+        <target state="translated">EUR/årligt&lt;br&gt; (faktureret årligt)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -231,27 +231,27 @@
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
-          <target state="translated">75</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
           <source>app.employerService.enterprise.price.full</source>
-          <target state="translated">3540</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
           <source>app.employerService.advanced.price.full</source>
-          <target state="translated">2340</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
           <source>app.employerService.basic.price.full</source>
-          <target state="translated">900</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">195</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">295</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="0" approved="yes">
             <source>app.employerService.singleJobPost.smallBusinees.referralPositionsNumber</source>

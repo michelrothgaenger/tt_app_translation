@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="3a99be1f58fa4fa1a26e2643069e5f95" resname="app.missingFieldsEmail.firstPart" approved="yes">
         <source>app.missingFieldsEmail.firstPart</source>
-        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent quiere ofrecerte el mejor servicio para tu próximo reto profesional. Queremos asegurarnos de que solo te enviamos ofertas que te interesen. Para ello, nos guiamos por la información en tu perfil. Hemos observado que tu perfil no está del todo completo:&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent quiere ofrecerte el mejor servicio para tu próximo salto profesional. Queremos asegurarnos de que solo te enviamos ofertas que te interesen. Para ello, nos guiamos por la información en tu perfil. Hemos observado que tu perfil no está del todo completo:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="0c89716e71e642bf9605e4eef2978fe8" resname="app.missingFieldsEmail.secondPart" approved="yes">
         <source>app.missingFieldsEmail.secondPart</source>

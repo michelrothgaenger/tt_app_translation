@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="sv" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="8e962ad73bdb469fa7c5b50841c768fc" resname="app.employerServicesHiringsolutions.meta.title" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.title</source>
-        <target state="translated">Soluciones de reclutamiento</target>
+        <target state="translated">Recruitment Solutions</target>
       </trans-unit>
       <trans-unit id="e7e039883cfb4e19b468c15dddbd81de" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.descr</source>
-        <target state="translated">Nuestros precios se basan en el nivel salarial y en los requisitos asociados a la posición: A mayor exigencia del perfil, un menor número de candidatos cumplirán la misma, resultando en un mayor grado de dificultad a la hora de realizar la búsqueda.</target>
+        <target state="translated">Our pricing is based on the seniority and salary level of the position with the assumption that the more specialised and experienced the person needs to be the fewer candidates are available in the market.</target>
       </trans-unit>
       <trans-unit id="719ddc9f4b244b2c9d29c9e2860d4568" resname="app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.standartCompanyProfileLabel.descr</source>
-        <target state="translated">Queremos conocer tu empresa lo mejor posible, pues solo así podemos tener la certeza de que estamos buscando el candidato con mejor encaje.</target>
+        <target state="translated">We strive to know all we can about your organisation to gain deep insight into what kind of candidate will be most effective for you. We work with you to pinpoint the ideal candidate’s competencies, personality traits, and behavioural characteristics.</target>
       </trans-unit>
       <trans-unit id="82c45c24f3d04f49ad14bedef09a9fb2" resname="app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.automaticUploadLabel.descr</source>
-        <target state="translated">Nuestro profundo conocimiento del mercado y nuestro moderno banco de datos nos permiten acceder a los mejores candidatos. Nuestros reclutadores expertos se encargan de la adquisición y combinan estrategias de marketing con todo el potencial de las redes sociales.</target>
+        <target state="translated">Our access to top candidates is provided by our knowledge of the market and our industry-leading database, sourcing by a recruitment specialist, a range of advertising solutions and keeping up-to-date with social media trends.</target>
       </trans-unit>
       <trans-unit id="7a64a64bfe9e4051bba948698d105419" resname="app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.socialPostingLabel.descr</source>
-        <target state="translated">Una vez que hemos creado una lista preliminar de potenciales candidatos, revisamos cuidadosamente sus perfiles y llevamos a cabo primeras entrevistas, telefónicas o por videoconferencia, para crear la primera shortlist que te presentaremos.</target>
+        <target state="translated">​Once we have a long-list ready, we complete extensive screening and interviewing (by video, phone or in person) and select the best suitable candidates ready to be interviewed by you.</target>
       </trans-unit>
       <trans-unit id="57cfbd06d9634e4c89f2d9841009566b" resname="app.employerServicesHiringsolutions.intro" approved="yes">
         <source>app.employerServicesHiringsolutions.intro</source>
-        <target state="translated">Llega a los mejores</target>
+        <target state="translated">ACCESS THE BEST TALENT</target>
       </trans-unit>
       <trans-unit id="226885cca1d14848a77e7598ba53d9e1" resname="app.employerServicesHiringsolutions.intro2" approved="yes">
         <source>app.employerServicesHiringsolutions.intro2</source>
-        <target state="translated">Transport Talent Recruitment ha sido creado para ayudarte a encontrar a los mejores profesionales y, de la mano de nuestro equipo de expertos, agilizar los procesos de contratación. Independientemente del tamaño de tu empresa: si eres es un Hiring Manager o un profesional de Recursos Humanos, en Transport Talent te ayudaremos a cubrir sus vacantes a tu entera satisfacción.</target>
+        <target state="translated">Our recruitment solutions are for all companies in the transport &amp; logistics industry who need help finding the best applicants and getting them through the hiring process faster. </target>
       </trans-unit>
       <trans-unit id="07d31ae495dd448dbca8960f88cea832" resname="app.employerServicesHiringsolutions.choiceIntro" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceIntro</source>
-        <target state="translated">Uno de nuestros consultores lleva a cabo una extensa búsqueda en el mercado y te apoya durante todo el proceso. Los solicitantes con mejor encaje serán entrevistados antes de presentarte una terna final con los mejores candidatos.</target>
+        <target state="translated">One of our recruitment consultants will support you throughout the process and will conduct an extensive market search. All applicants will be screened and the most relevant ones interviewed before we present you with a list of hand-picked candidates who match the criteria of your vacant position.</target>
       </trans-unit>
       <trans-unit id="4d244315415643f6946f9dea762de462" resname="app.employerServicesHiringsolutions.packages.first.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
@@ -43,21 +43,21 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">Activación: € 1.000</target>
+        <target state="translated">Activation fee: € 1.000 </target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
-          <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-          <target state="translated">Activación: € 2.000</target>
-        </trans-unit>
-        <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
-                        <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
-                        <target state="translated">+ € 4.000 por candidato contratado*</target>
-                    </trans-unit>
-                    <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
-                        <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-                        <target state="translated">+ € 6.000 por mediación exitosa**</target>
-                    </trans-unit>
-<trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
+                <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
+                <target state="translated">Activation fee: € 2.000</target>
+              </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
+          <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
+          <target state="translated">+ € 4.000 per hired candidate*</target>
+      </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
+          <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
+          <target state="translated">+ € 6.000 per hired candidate**</target>
+      </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
           <target state="translated">1.000</target>
       </trans-unit>
@@ -67,79 +67,79 @@
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
-        <target state="translated">Categoría salarial</target>
+        <target state="translated">Annual salary level</target>
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Concretando y detallando los requisitos</target>
+        <target state="translated">Clarification of your requirements </target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target state="translated">Adquisición y marketing</target>
+        <target state="translated">Sourcing and advertisement activities</target>
       </trans-unit>
       <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>
-        <target state="translated">Planificación y concertación de entrevistas</target>
+        <target state="translated">Interview scheduling</target>
       </trans-unit>
       <trans-unit id="6289e2556442407ea4e1369d3a90f062" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.info</source>
-        <target state="translated">Prueba de evaluación</target>
+        <target state="translated">Pre-hire assessment</target>
       </trans-unit>
       <trans-unit id="e8cd6fa2486947ec8a6bb1b81009f95e" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.info</source>
-        <target state="translated">Apoyo en las negociaciones</target>
+        <target state="translated">Negotiation support</target>
       </trans-unit>
       <trans-unit id="0a4e817d674a4d17ada9aa47109c2f17" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info</source>
-        <target state="translated">Comprobación de referencias</target>
+        <target state="translated">Reference checks</target>
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta 60.000 €. &lt;br&gt; ** El paquete de servicios "Experienced" cubre puestos con un sueldo anual de 60.000 a 80.000 €. &lt;br&gt; &lt;a target=blank href="%contactUrl%"&gt;Contáctanos &lt;/a&gt; para puestos con una categoría salarial superior.</target>
+        <target state="translated">* Junior covers the pricing for positions with annual salaries up to € 60.000. &lt;br&gt; ** Experienced covers the pricing for positions with annual salaries between up to € 80.000. &lt;br&gt; For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
-        <target state="translated">Anuncios de Vacantes</target>
+        <target state="translated">Job Advertisement Solutions</target>
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
-        <target state="translated">Publique todas sus vacantes por una tarifa fija anual</target>
+        <target state="translated">Advertise all of your open positions up for a fixed annual price</target>
       </trans-unit>
       <trans-unit id="76bde51190114195ae8595522349e854" resname="app.employerServicesHiringsolutions.ad.leftBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftBtnLabel</source>
-        <target state="translated">Más información</target>
+        <target state="translated">Read more</target>
       </trans-unit>
       <trans-unit id="cc3dfa18f31142f597da97ffbdd86f26" resname="app.employerServicesHiringsolutions.ad.rightTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightTitle</source>
-        <target state="translated">Publicar ofertas de empleo nunca ha sido tan fácil</target>
+        <target state="translated">Posting your jobs has never been easier</target>
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target state="translated">Transport Talent es el portal de empleo de más rápido crecimiento en el sector de transporte y logística. Con nosotros llegarás a tu público objetivo: los profesionales de mayor experiencia en el sector. Nuestras sencillas tarifas de suscripción anual te permitirán publicar todas tus vacantes por un bajo coste mensual. En el precio viene incluido el perfil de empresa - así podrás presentar tu empresa, su estilo y filosofía ante a los candidatos del sector.</target>
+        <target state="translated">Transport Talent is the fastest growing portal for jobs in transport &amp; logistics. This is the where you place your job ad, if you want to reach job applicants with industry experience. Our cost effective subscriptions allows you to advertise all of your jobs at a low annual cost, alongside a company profile that gives the job seekers an insight to what it is like to work at your company.</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
-        <target state="translated">Más información</target>
+        <target state="translated">Read more</target>
       </trans-unit>
       <trans-unit id="747332b2b77a4beeaec4c0babae42d88" resname="app.employerServicesHiringsolutions.choiceHeader" approved="yes">
         <source>app.employerServicesHiringsolutions.choiceHeader</source>
-        <target state="translated">Nuestros servicios</target>
+        <target state="translated">Our solutions</target>
       </trans-unit>
       <trans-unit id="20e7d10f86ae4912a94d144252b46074" resname="app.employerServicesHiringsolutions.section.singleJobPost.header" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.header</source>
-        <target state="translated">Con nuestras tarifas transparentes podrás calcular el coste sin sorpresas</target>
+        <target state="translated">Our pricing is transparent so you know exactly what to budget</target>
       </trans-unit>
       <trans-unit id="b31a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.descr</source>
-        <target state="translated">Nuestras tarifas tienen como objetivo ser transparentes y minimizar tu riesgo. Es por eso que dividimos el coste de nuestro servicio en dos partes: una cuota de activación inicial y una cuota de éxito que se factura solo cuando la vacante se cubre con un candidato proporcionado por Transport Talent.</target>
+        <target state="translated">Our pricing packages are designed to be as transparent as possible and with a minimum risk on your side. We have divided them up in two parts: an up-front activation when we start the search paired with a success based placement fee that is due only when the role is filled with a candidate provided by Transport Talent.</target>
       </trans-unit>
       <trans-unit id="031a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow5.info</source>
-        <target state="translated">Comprobación y shortlist</target>
+        <target state="translated">Screening and short-listing</target>
       </trans-unit>
       <trans-unit id="131a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.info</source>
-        <target state="translated">Nuestra Garantía</target>
+        <target state="translated">Retention guarantee</target>
       </trans-unit>
       <trans-unit id="231a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.shortlisting</source>
@@ -147,11 +147,11 @@
       </trans-unit>
       <trans-unit id="531a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.recruiting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.recruiting.retention</source>
-        <target state="translated">90 días</target>
+        <target state="translated">90 days</target>
       </trans-unit>
       <trans-unit id="631a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow11.descr</source>
-        <target state="translated">Realizamos una nueva búsqueda en caso de que el candidato cese en su puesto dentro del tiempo de garantía tras la contratación, ya sea por decisión del candidato o de la empresa.</target>
+        <target state="translated">We offer to conduct a new search in cases where your new hire leaves within the first few months, whether it was a decision by the candidate or you.</target>
       </trans-unit>
       <trans-unit id="731a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.section.recruiting</source>
@@ -159,27 +159,27 @@
       </trans-unit>
       <trans-unit id="931a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.descr</source>
-        <target state="translated">Ahorra valioso tiempo: Una vez que obtenido tu visto bueno a la terna, procedemos a planificar y concertar entrevistas en tu nombre.</target>
+        <target state="translated">Once we have a sign-off on the shortlist from you, we will begin to schedule interviews on your behalf saving you significant administration time.</target>
       </trans-unit>
       <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
-        <target state="translated">Enviamos un test de evaluación a los candidatos/as finalistas - una forma eficaz de determinar qué candidatos son los más adecuados para un puesto específico, basándonos en sus capacidades. Esta información le ayudará a preparar la posterior entrevista con el candidato.</target>
+        <target state="translated">We send a pre-hire assessment (or pre-employment assessment) test to the final candidate(s). The use of a valid assessment is an effective way to determine which applicants are the most qualified for a specific job based on their strengths and preferences and it is a good way to prepare for an interview.</target>
       </trans-unit>
       <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr</source>
-        <target state="translated">Le apoyamos en la negociación con el candidato seleccionado y actuamos como una parte más neutral en esta parte crítica del proceso.</target>
+        <target state="translated">We support you in the negotiation with your selected candidate and act as a more neutral party in this critical part of the process. </target>
       </trans-unit>
       <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr</source>
-        <target state="translated">Como último paso en el proceso de reclutamiento, realizamos la toma y comprobación de referencias del candidato seleccionado. También recaudamos información de su entorno, para ampliar y contrastar la información sobre sus habilidades, conocimientos y competencias.</target>
+        <target state="translated">As the last step in the recruitment process, we will conduct reference checks on the selected candidate to confirm information on the candidate's application form and resumes and gain greater insights into the candidate's skills, knowledge and abilities from someone who has actually observed the candidate perform.</target>
       </trans-unit>
       <trans-unit id="923a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention" approved="yes">
         <source>app.employerServicesHiringsolutions.singleJobPost.shortlisting.retention</source>
-        <target state="translated">120 días</target>
+        <target state="translated">120 days</target>
       </trans-unit>
       <trans-unit id="924a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription" approved="yes">
         <source>app.employerServicesHiringsolutions.detailsTable.mobile.retentionDescription</source>
-        <target state="translated">Garantía de %days% días</target>
+        <target state="translated">Retention guarantee for %days% days</target>
       </trans-unit>
       <trans-unit id="926a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.packages.second.title" approved="yes">
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
@@ -187,43 +187,43 @@
       </trans-unit>
     <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
-        <target state="translated">Soluciones de reclutamiento</target>
+        <target state="translated">Recruitment Solutions</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.description</source>
-        <target state="translated">Un proceso de contratación rápido, eficaz y económico - con Transport Talent.</target>
+        <target state="translated">Make your hiring process fast, cost effective and streamlined – with Transport Talent.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
-        <target state="translated">Llega a miles de profesionales que buscan trabajo cada día con tu anuncio en Transport Talent</target>
+        <target state="translated">Attract the best transport &amp; logistic professionals to your vacancies </target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>
-        <target state="translated">Soluciones de reclutamiento</target>
+        <target state="translated">Recruitment Solutions</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Como parte de nuestro plan de servicios para posiciones Junior, nos ponemos en contacto con el departamento de Recursos Humanos para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y de los requisitos del puesto a cubrir por el candidato ideal. Una vez ganado un entendimiento claro del objetivo, comunicamos la vacante de forma óptima. También promocionamos la vacante en las redes sociales y llevamos a cabo una búsqueda completa del mercado confeccionando una lista de entre 3 a 5 candidatos listos para acudir a su entrevista. Coste y condiciones de pago: 1.000 € como tarifa de activación y, en caso de que la búsqueda haya llegado a buen término, 4.000 € a la firma de contrato del candidato.</target>
+        <target state="translated">With our recruitment solution for Junior staff, we will talk with the hiring manager and/or HR to understand your company culture, the open position in question and the ideal target candidate. We will use what we have learned to present your role in a way that will attract the right candidates. We use social media channels to get the message out to a wide audience while conducting a full search at the same time. In the end, we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 1.000 in Activation fee due upon starting the search, and a Success fee of € 4.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Como parte de nuestro plan de servicios para posiciones Senior, nos ponemos en contacto con el departamento de Recursos Humanos y de Dirección para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y los requisitos del puesto a cubrir por el candidato ideal y las expectativas de la empresa sobre el candidato durante los primeros 12 meses de contrato. Una vez ganado un entendimiento claro del objetivo, uno de nuestros expertos en reclutamiento y un asistente realizarán un estudio de mercado. Te enviamos información semana sobre nuestros progresos, hasta que podamos presentarle de 3 a 5 candidatos con encaje y dispuestos a entrevistarse con ustedes. Coste y condiciones de pago: 2.000 € por la búsqueda y, en el caso de que ésta haya llegado a buen término, 6.000 € a la firma de contrato con el candidato presentado por TransporTalent.</target>
+        <target state="translated">With our recruitment solution for positions where a more experienced and senior person is needed we will spend as much time as needed talking with your management and HR to fully understand your company culture, your mission and vision, what the key expectations of the role is within the first 12 months and the ideal target candidate. We will dedicate a senior recruiter with the support of a researcher to do a full search of the market. You will receive weekly updates on our progress and in the end, we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 2.000 in Activation fee due upon starting the search, and a Success fee of € 6.000 due only when you have selected and signed with your preferred candidate.</target>
     </trans-unit>
-    <trans-unit id="0" approved="yes">
+        <trans-unit id="0" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
-            <target state="translated">para puestos a partir de € 60.000</target>
+            <target state="translated">for positions up to € 60.000</target>
         </trans-unit>
         <trans-unit id="1" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
-            <target state="translated">para puestos a partir de € 80.000 </target>
+            <target state="translated">for positions up to € 80.000 </target>
         </trans-unit>
         <trans-unit id="2" approved="yes">
             <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
-            <target state="translated">hasta € 60.000</target>
+            <target state="translated">up to € 60.000</target>
         </trans-unit>
         <trans-unit id="3" approved="yes">
             <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
-            <target state="translated">hasta € 80.000</target>
+            <target state="translated">up to € 80.000</target>
         </trans-unit>
     </body>
   </file>

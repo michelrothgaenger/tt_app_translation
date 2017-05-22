@@ -59,11 +59,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. 
-
-You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e € 1.000). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. 
-
-Transport Talent works on a no cure no pay basis and only charge our handling fee of € 750 if you hire one of the candidates that we have sent to you. </target>
+        <target state="translated">With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e € 500). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. Transport Talent works on a no cure no pay basis and only charge our handling fee of € 500 if you hire one of the candidates that we have sent to you.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -75,7 +71,7 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/month*&lt;br&gt;(annual contract)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;EUR per year *&lt;br&gt;(annual contract)&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -199,15 +195,15 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or&lt;br&gt; € 90 month-to-month)*</target>
+        <target state="translated">EUR/year&lt;br&gt; (invoiced annually)*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or&lt;br&gt; € 234 month-to-month)*</target>
+        <target state="translated">EUR/year&lt;br&gt; (invoiced annually)*</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/month&lt;br&gt; (invoiced annually or&lt;br&gt; € 354 month-to-month)*</target>
+        <target state="translated">EUR/year&lt;br&gt; (invoiced annually)*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -231,27 +227,27 @@ Transport Talent works on a no cure no pay basis and only charge our handling fe
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">295</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">195</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
-          <target state="translated">75</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
           <source>app.employerService.enterprise.price.full</source>
-          <target state="translated">3540</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
           <source>app.employerService.advanced.price.full</source>
-          <target state="translated">2340</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
           <source>app.employerService.basic.price.full</source>
-          <target state="translated">900</target>
+          <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047010" resname="app.employerService.currencySign" approved="yes">
           <source>app.employerService.currencySign</source>

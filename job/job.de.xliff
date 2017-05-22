@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
-        <target state="translated">Sie haben aktuell noch keinen Lebenslauf hinterlegt. Bitte vervollständigen Sie Ihr Profil, bevor Sie die Bewerbung abschicken.</target>
+        <target state="translated">Bitte laden Sie Ihren Lebenslauf hoch, bevor Sie die Bewerbung abschicken.</target>
       </trans-unit>
       <trans-unit id="8849884335f447a8abb2e64bfa85bb36" resname="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleFirstPart</source>
@@ -196,7 +196,7 @@
       </trans-unit>
     <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>
-        <target state="translated">Anzeige speichern und zum Profil</target>
+        <target state="translated">Job speichern und zum Profil</target>
       </trans-unit>
     <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>

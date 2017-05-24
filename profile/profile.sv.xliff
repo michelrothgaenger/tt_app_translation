@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="sv" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
@@ -864,14 +864,6 @@
       <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
         <source>app.profile.editor.birthdayPlaceholder</source>
         <target state="translated">DD/MM/YYYY</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170156" resname="app.profile.dashboard.alerts.tile.title">
-        <source>app.profile.dashboard.alerts.tile.title</source>
-        <target>JOBALERTS</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description">
-        <source>app.profile.dashboard.alerts.tile.description</source>
-        <target>Setup and manage your tailored job alerts</target>
       </trans-unit>
     </body>
   </file>

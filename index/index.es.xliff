@@ -21,9 +21,9 @@
         <source>app.featuredJobs</source>
         <target state="translated">Las mejores ofertas</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="no">
+      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target state="needs-translation">Ver todas las ofertas</target>
+        <target state="translated">Ver todas las vacantes</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>

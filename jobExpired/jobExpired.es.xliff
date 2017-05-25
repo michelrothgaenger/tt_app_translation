@@ -29,6 +29,10 @@
         <source>app.browseRelatedJobs</source>
         <target state="translated">Ver empleos similares</target>
       </trans-unit>
+    <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7a" resname="app.linkToJobsTitle" approved="yes">
+        <source>app.linkToJobsTitle</source>
+        <target state="translated">Ver todas las ofertas</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -865,6 +865,14 @@
         <source>app.signInWithFacebook</source>
         <target state="translated">Iniciar sesión con Facebook</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170156" resname="app.profile.dashboard.alerts.tile.title" approved="yes">
+        <source>app.profile.dashboard.alerts.tile.title</source>
+        <target state="translated">ALERTAS DE EMPLEO</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description" approved="yes">
+        <source>app.profile.dashboard.alerts.tile.description</source>
+        <target state="translated">Configura tus alertas de empleo</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

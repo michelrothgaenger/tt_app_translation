@@ -51,11 +51,11 @@
         </trans-unit>
         <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
                         <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
-                        <target state="translated">+ € 4.000 por candidato contratado*</target>
+                        <target state="translated">+ 1 mes de sueldo por mediación exitosa*</target>
                     </trans-unit>
                     <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
                         <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-                        <target state="translated">+ € 6.000 por mediación exitosa**</target>
+                        <target state="translated">+ 1 mes de sueldo por mediación exitosa**</target>
                     </trans-unit>
 <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
@@ -71,11 +71,11 @@
       </trans-unit>
       <trans-unit id="9dd7e482fd3a4caf876ded4a501c893d" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow2.info</source>
-        <target state="translated">Concretando y detallando los requisitos</target>
+        <target state="translated">Concretando tus requisitos</target>
       </trans-unit>
       <trans-unit id="959f91d9e1b34f81818c0d9ba2620936" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow4.info</source>
-        <target state="translated">Adquisición y marketing</target>
+        <target state="translated">Adquisición y Publicidad</target>
       </trans-unit>
       <trans-unit id="0651d64d63544d618ff327c6e78d4df7" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow7.info</source>
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta 60.000 €. &lt;br&gt; ** El paquete de servicios "Experienced" cubre puestos con un sueldo anual de 60.000 a 80.000 €. &lt;br&gt; &lt;a target=blank href="%contactUrl%"&gt;Contáctanos &lt;/a&gt; para puestos con una categoría salarial superior.</target>
+        <target state="translated">* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta 60.000 €. &lt;br&gt; ** El paquete de servicios "Experienced" cubre puestos con un sueldo anual hasta 80.000 €. &lt;br&gt; &lt;a target=blank href="%contactUrl%"&gt;Contáctanos &lt;/a&gt; para puestos con una categoría salarial superior.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="47e692116aaa499f83179e5253139865" resname="app.employerServicesHiringsolutions.ad.leftDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftDescr</source>
-        <target state="translated">Publique todas sus vacantes por una tarifa fija anual</target>
+        <target state="translated">Publica todas tus vacantes por una tarifa fija anual</target>
       </trans-unit>
       <trans-unit id="76bde51190114195ae8595522349e854" resname="app.employerServicesHiringsolutions.ad.leftBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftBtnLabel</source>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="949a9f6eea0d4fa18d3d75c909fb0368" resname="app.employerServicesHiringsolutions.ad.rightDescr" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightDescr</source>
-        <target state="translated">Transport Talent es el portal de empleo de más rápido crecimiento en el sector de transporte y logística. Con nosotros llegarás a tu público objetivo: los profesionales de mayor experiencia en el sector. Nuestras sencillas tarifas de suscripción anual te permitirán publicar todas tus vacantes por un bajo coste mensual. En el precio viene incluido el perfil de empresa - así podrás presentar tu empresa, su estilo y filosofía ante a los candidatos del sector.</target>
+        <target state="translated">Transport Talent es el portal de empleo de más rápido crecimiento en el sector de transporte y logística. Con nosotros llegarás a tu público objetivo: los profesionales de mayor experiencia en el sector. Nuestras sencillas tarifas de suscripción anual te permitirán publicar todas tus vacantes por un bajo coste mensual. En el precio viene incluido el perfil de empresa - así podrás presentar tu empresa, su estilo y filosofía ante los candidatos del sector.</target>
       </trans-unit>
       <trans-unit id="fbcf33962add44919d85cb34d6e82660" resname="app.employerServicesHiringsolutions.ad.rightBtnLabel" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.rightBtnLabel</source>
@@ -163,11 +163,11 @@
       </trans-unit>
       <trans-unit id="920a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow8.descr</source>
-        <target state="translated">Enviamos un test de evaluación a los candidatos/as finalistas - una forma eficaz de determinar qué candidatos son los más adecuados para un puesto específico, basándonos en sus capacidades. Esta información le ayudará a preparar la posterior entrevista con el candidato.</target>
+        <target state="translated">Enviamos un test de evaluación a los candidatos/as finalistas - una forma eficaz de determinar qué candidatos son los más adecuados para un puesto específico, basándonos en sus capacidades. Esta información te ayudará a preparar la posterior entrevista con el candidato.</target>
       </trans-unit>
       <trans-unit id="921a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow9.descr</source>
-        <target state="translated">Le apoyamos en la negociación con el candidato seleccionado y actuamos como una parte más neutral en esta parte crítica del proceso.</target>
+        <target state="translated">Te apoyamos en la negociación con el candidato seleccionado y actuamos como una parte más neutral en esta parte crítica del proceso.</target>
       </trans-unit>
       <trans-unit id="922a3a99791c4c28971fad6a01e495ff" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.descr</source>
@@ -203,11 +203,11 @@
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
-        <target state="translated">Como parte de nuestro plan de servicios para posiciones Junior, nos ponemos en contacto con el departamento de Recursos Humanos para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y de los requisitos del puesto a cubrir por el candidato ideal. Una vez ganado un entendimiento claro del objetivo, comunicamos la vacante de forma óptima. También promocionamos la vacante en las redes sociales y llevamos a cabo una búsqueda completa del mercado confeccionando una lista de entre 3 a 5 candidatos listos para acudir a su entrevista. Coste y condiciones de pago: 1.000 € como tarifa de activación y, en caso de que la búsqueda haya llegado a buen término, 4.000 € a la firma de contrato del candidato.</target>
+        <target state="translated">Como parte de nuestro plan de servicios para posiciones Junior, nos ponemos en contacto con el departamento de Recursos Humanos para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y de los requisitos del puesto a cubrir por el candidato ideal. Una vez ganado un entendimiento claro del objetivo, comunicamos la vacante de forma óptima. También promocionamos la vacante en las redes sociales y llevamos a cabo una búsqueda completa del mercado confeccionando una lista de entre 3 a 5 candidatos listos para acudir a su entrevista. Coste y condiciones de pago: 1.500 € como tarifa de activación y, en caso de que la búsqueda haya llegado a buen término, un mes de sueldo a la firma de contrato del candidato.</target>
     </trans-unit>
     <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
-        <target state="translated">Como parte de nuestro plan de servicios para posiciones Senior, nos ponemos en contacto con el departamento de Recursos Humanos y de Dirección para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y los requisitos del puesto a cubrir por el candidato ideal y las expectativas de la empresa sobre el candidato durante los primeros 12 meses de contrato. Una vez ganado un entendimiento claro del objetivo, uno de nuestros expertos en reclutamiento y un asistente realizarán un estudio de mercado. Te enviamos información semana sobre nuestros progresos, hasta que podamos presentarle de 3 a 5 candidatos con encaje y dispuestos a entrevistarse con ustedes. Coste y condiciones de pago: 2.000 € por la búsqueda y, en el caso de que ésta haya llegado a buen término, 6.000 € a la firma de contrato con el candidato presentado por TransporTalent.</target>
+        <target state="translated">Como parte de nuestro plan de servicios para posiciones Senior, nos ponemos en contacto con el departamento de Recursos Humanos y de Dirección para ganar una idea concreta y bien definida sobre la cultura y estilo de la empresa, y los requisitos del puesto a cubrir por el candidato ideal y las expectativas de la empresa sobre el candidato durante los primeros 12 meses de contrato. Una vez ganado un entendimiento claro del objetivo, uno de nuestros expertos en reclutamiento y un asistente realizarán un estudio de mercado. Te enviamos información semana sobre nuestros progresos, hasta que podamos presentarle de 3 a 5 candidatos con encaje y dispuestos a entrevistarse con ustedes. Coste y condiciones de pago: 2.500 € por la búsqueda y, en el caso de que ésta haya llegado a buen término, 1 mes de sueldo a la firma de contrato con el candidato presentado por TransporTalent.</target>
     </trans-unit>
     <trans-unit id="0" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>

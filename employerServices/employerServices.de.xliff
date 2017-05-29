@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR/Jahr*&lt;br&gt;(Jahresvertrag)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;pro Jahr*&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo" approved="yes">
         <source>app.employerService.section.singleJobPost.vatInfo</source>
-        <target state="translated">* Alle Produkte erfordern einen Jahresvertrag.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Alle Preise auf dieser Seite verstehen sich exkl. Umsatzsteuer. Listenpreis für Endkunden in Westeuropa. &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Für Kunden in anderen Regionen und für Personaldienstleister gelten gesonderte Preise.</target>
+        <target state="translated">* Alle Angebote haben eine Mindestvertragslaufzeit von einem Jahr.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Alle Preise auf dieser Seite verstehen sich exkl. Umsatzsteuer. Listenpreis für Endkunden in Westeuropa. &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Für Kunden in anderen Regionen und für Personaldienstleister gelten gesonderte Preise.</target>
       </trans-unit>
       <trans-unit id="f61152b4b15246e8bab27a9ad8eaad22" resname="app.employerService.section.serviceBooking.header" approved="yes">
         <source>app.employerService.section.serviceBooking.header</source>
@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="953f01de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.descr" approved="yes">
         <source>app.employerService.hiringSolutions.left.descr</source>
-        <target state="translated">Konzentrieren Sie sich auf Ihr Geschäft, während wir uns um Ihre Recruiting-Anforderungen kümmern </target>
+        <target state="translated">Konzentrieren Sie sich auf Ihr Geschäft, während wir uns um Ihr Recruiting kümmern</target>
       </trans-unit>
       <trans-unit id="953f02de2c9e4c46934f27d72f047014" resname="app.employerService.hiringSolutions.left.btn" approved="yes">
         <source>app.employerService.hiringSolutions.left.btn</source>
@@ -199,15 +199,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
+        <target state="translated">pro Jahr*</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
+        <target state="translated">pro Jahr*</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR/Jahr&lt;br&gt; (jährliche Abrechnung)*</target>
+        <target state="translated">pro Jahr*</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>

@@ -1,69 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en-US" target-language="es" datatype="plaintext" original="file.ext">
+  <file source-language="en-US" target-language="nl" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
       <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
-        <target state="translated">Somos el portal de empleo especializado en transporte, logística y cadena de suministro. ¡Regístrate y da un salto en tu carrera con Transport Talent!</target>
+        <target state="translated">Transport Talent is the leading portal for transport, logistics and supply chain professionals. Make your next career move and sign up for free!</target>
       </trans-unit>
       <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
-        <target state="translated">Conectamos al mejor talento con las mejores empresas</target>
+        <target state="translated">Connecting talents with opportunities</target>
       </trans-unit>
       <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
-        <target state="translated">El portal líder de empleo para profesionales del transporte y logística</target>
+        <target state="translated">The leading portal for transport &amp; logistics professionals</target>
       </trans-unit>
       <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
-        <target state="translated">Ofertas de empleo interesantes</target>
+        <target state="translated">Featured Jobs</target>
       </trans-unit>
       <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
-        <target state="translated">Buscar en todas las vacantes</target>
+        <target state="translated">Search all jobs</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
-        <target state="translated">Conoce a las empresas</target>
+        <target state="translated">Meet the companies</target>
       </trans-unit>
       <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
-        <target state="translated">Ver todas las empresas</target>
+        <target state="translated">See all companies</target>
       </trans-unit>
-    <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
+      <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
-        <target state="translated">Candidatos</target>
+        <target state="translated">Candidates</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
         <source>app.index.signupCTA.candidates.ctaTitle</source>
-        <target state="translated">Recibe recomendaciones personalizadas</target>
+        <target state="translated">Get personalised job alerts</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
-        <target state="translated">Crea tu perfil en solo 2 minutos y comienza a recibir ofertas de trabajo: Recibirás de Transport Talent ofertas que encajen con tu perfil. Además, podrás reenviarlas a tus amigos o conocidos y llevarte tu gratificación en el caso de que consigan el empleo gracias a tu reenvío.</target>
+        <target state="translated">Fill out our 2-minute career profile, and get personalised job alerts in your inbox from companies in transport, logistics and supply chain. We will only send you job opportunities that are relevant to you. You can also make money by referring your friends to one of our referral positions. </target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>
-        <target state="translated">Busco empleo</target>
+        <target state="translated">I want to get hired</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
         <source>app.index.signupCTA.employers.title</source>
-        <target state="translated">Empresas</target>
+        <target state="translated">Employers</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
         <source>app.index.signupCTA.employers.ctaTitle</source>
-        <target state="translated">Contacta con los mejores</target>
+        <target state="translated">Connect with top candidates</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
         <source>app.index.signupCTA.employers.ctaDescription</source>
-        <target state="translated">Tu tiempo es valioso - habla solo con los mejores candidatos. Nos ocupamos de la adquisición y preselección de 3 a 6 candidatos en base a sus perfiles. En menos de 6 semanas tendrás una lista con los mejores candidatos para cubrir la vacante.</target>
+        <target state="translated">Your time is valuable, and you should be spending it on interviewing vetted candidates. With our recruitment solutions we launch your search, manage all communication with candidates, and guarantee a final list of 3-5 people that match your ideal candidate profile within 6 weeks.</target>
       </trans-unit>
       <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
         <source>app.index.signupCTA.employers.button</source>
-        <target state="translated">Busco nuevos empleados</target>
+        <target state="translated">I want to hire</target>
       </trans-unit>
     </body>
   </file>

@@ -285,6 +285,10 @@
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
             <target state="translated">1200</target>
         </trans-unit>
-        </body>
+        <trans-unit id="6" approved="yes">
+          <source>app.employerServices.currencySymbol</source>
+          <target state="translated">EUR</target>
+        </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -110,8 +110,9 @@
         <target>60000</target>
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df67j" resname="app.employerServicesHiringsolutions.further.experienced.salary">
-      <source>app.employerServicesHiringsolutions.further.experienced.price</source>
-      <target>80000</target>
+        <source>app.employerServicesHiringsolutions.further.experienced.price</source>
+        <target>80000</target>
+      </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
         <target state="translated">Job Advertisement Solutions</target>

@@ -41,29 +41,37 @@
         <source>app.employerServicesHiringsolutions.packages.first.title</source>
         <target state="translated">Junior</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">Activation fee: € 1.500</target>
+        <target>Activation fee: %count%</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
-                <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-                <target state="translated">Activation fee: € 2.500</target>
-              </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035d" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice.price">
+        <source>app.employerServicesHiringsolutions.shortlisting.activationPrice.price</source>
+        <target>1500</target>
+      </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice">
+        <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
+        <target>Activation fee: %count%</target>
+      </trans-unit>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8030n" resname="app.employerServicesHiringsolutions.recruiting.activationPrice.price">
+        <source>app.employerServicesHiringsolutions.recruiting.activationPrice.price</source>
+        <target>2500</target>
+      </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
-          <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
-          <target state="translated">+ 1 month salary per hired candidate*</target>
+        <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>
+        <target state="translated">+ 1 month salary per hired candidate*</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80303" resname="app.employerServicesHiringsolutions.recruiting.additionalPrice" approved="yes">
-          <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
-          <target state="translated">+ 1 month salary per hired candidate**</target>
+        <source>app.employerServicesHiringsolutions.recruiting.additionalPrice</source>
+        <target state="translated">+ 1 month salary per hired candidate**</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice" approved="yes">
-          <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
-          <target state="translated">1.500</target>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80304" resname="app.employerServicesHiringsolutions.shortlisting.shortPrice">
+        <source>app.employerServicesHiringsolutions.shortlisting.shortPrice</source>
+        <target>1500</target>
       </trans-unit>
-      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80305" resname="app.employerServicesHiringsolutions.recruiting.shortPrice" approved="yes">
-          <source>app.employerServicesHiringsolutions.recruiting.shortPrice</source>
-          <target state="translated">2.500</target>
+      <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80305" resname="app.employerServicesHiringsolutions.recruiting.shortPrice">
+        <source>app.employerServicesHiringsolutions.recruiting.shortPrice</source>
+        <target>2500</target>
       </trans-unit>
       <trans-unit id="ef9c5ab34b994e2bbcb91c1480f7b830" resname="app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info" approved="yes">
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.info</source>
@@ -93,10 +101,17 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow10.info</source>
         <target state="translated">Reference checks</target>
       </trans-unit>
-      <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
+      <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">* Junior covers the pricing for positions with annual salaries up to € 60.000. &lt;br&gt; ** Experienced covers the pricing for positions with annual salaries between up to € 80.000. &lt;br&gt; For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
+        <target>* Junior covers the pricing for positions with annual salaries up to %juniorSalary%. &lt;br&gt; ** Experienced covers the pricing for positions with annual salaries between up to %experiencedSalary%. &lt;br&gt; For higher level positions please &lt;a target=blank href="%contactUrl%"&gt;contact us&lt;/a&gt;.</target>
       </trans-unit>
+      <trans-unit id="414292949b7c447397f69690687df67h" resname="app.employerServicesHiringsolutions.further.junior.salary">
+        <source>app.employerServicesHiringsolutions.further.junior.price</source>
+        <target>60000</target>
+      </trans-unit>
+      <trans-unit id="414292949b7c447397f69690687df67j" resname="app.employerServicesHiringsolutions.further.experienced.salary">
+      <source>app.employerServicesHiringsolutions.further.experienced.price</source>
+      <target>80000</target>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
         <target state="translated">Job Advertisement Solutions</target>
@@ -185,46 +200,66 @@
         <source>app.employerServicesHiringsolutions.packages.second.title</source>
         <target state="translated">Experienced</target>
       </trans-unit>
-    <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
+      <trans-unit id="073f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.h1" approved="yes">
         <source>app.employerServicesHiringsolutions.h1</source>
         <target state="translated">Recruitment Solutions</target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047014" resname="app.employerServicesHiringsolutions.meta.description" approved="yes">
         <source>app.employerServicesHiringsolutions.meta.description</source>
         <target state="translated">Make your hiring process fast, cost effective and streamlined – with Transport Talent.</target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047016" resname="app.employerServicesHiringsolutions.subheadline" approved="yes">
         <source>app.employerServicesHiringsolutions.subheadline</source>
         <target state="translated">Attract the best transport &amp; logistic professionals to your vacancies </target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047017" resname="app.employerServicesHiringsolutions.popup.headline" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.headline</source>
         <target state="translated">Recruitment Solutions</target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047018" resname="app.employerServicesHiringsolutions.popup.shortlisting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.shortlisting.descr</source>
         <target state="translated">With our recruitment solution for Junior staff, we will talk with the hiring manager and/or HR to understand your company culture, the open position in question and the ideal target candidate. We will use what we have learned to present your role in a way that will attract the right candidates. We use social media channels to get the message out to a wide audience while conducting a full search at the same time. In the end, we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 1.500 in Activation fee due upon starting the search, and a Success fee in the equivalent of 1 month salary due only when you have selected and signed with your preferred candidate.</target>
-    </trans-unit>
-    <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047019" resname="app.employerServicesHiringsolutions.popup.recruiting.descr" approved="yes">
         <source>app.employerServicesHiringsolutions.popup.recruiting.descr</source>
         <target state="translated">With our recruitment solution for positions where a more experienced and senior person is needed we will spend as much time as needed talking with your management and HR to fully understand your company culture, your mission and vision, what the key expectations of the role is within the first 12 months and the ideal target candidate. We will dedicate a senior recruiter with the support of a researcher to do a full search of the market. You will receive weekly updates on our progress and in the end, we will present a shortlist 3-5 candidates ready to be interviewed by you. The pricing and payment conditions for this service is € 2.500 in Activation fee due upon starting the search, and a Success fee in the equivalent of 1 month salary due only when you have selected and signed with your preferred candidate.</target>
-    </trans-unit>
-        <trans-unit id="0" approved="yes">
-            <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
-            <target state="translated">for positions up to € 60.000</target>
-        </trans-unit>
-        <trans-unit id="1" approved="yes">
-            <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
-            <target state="translated">for positions up to € 80.000 </target>
-        </trans-unit>
-        <trans-unit id="2" approved="yes">
-            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
-            <target state="translated">up to € 60.000</target>
-        </trans-unit>
-        <trans-unit id="3" approved="yes">
-            <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
-            <target state="translated">up to € 80.000</target>
-        </trans-unit>
+      </trans-unit>
+      <trans-unit id="0">
+        <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
+        <target>for positions up to %count%</target>
+      </trans-unit>
+      <trans-unit id="0dot1">
+        <source>app.employerServicesHiringsolutions.packages.first.subtitle.price</source>
+        <target>60000</target>
+      </trans-unit>
+      <trans-unit id="1">
+        <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
+        <target>for positions up to %count% </target>
+      </trans-unit>
+      <trans-unit id="1dot1">
+        <source>app.employerServicesHiringsolutions.packages.second.subtitle.price</source>
+        <target>80000</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value</source>
+        <target>up to %count%</target>
+      </trans-unit>
+      <trans-unit id="2dot1">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.shortlisting.value.price</source>
+        <target>60000</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value</source>
+        <target>up to %count%</target>
+      </trans-unit>
+      <trans-unit id="3dot1">
+        <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value.price</source>
+        <target>80000</target>
+      </trans-unit>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047020">
+        <source>app.employerServicesHiringsolutions.currencySymbol</source>
+        <target>EUR</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

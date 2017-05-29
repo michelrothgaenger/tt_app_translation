@@ -57,9 +57,13 @@
         <source>app.employerService.detailsTable.primePlacement</source>
         <target state="translated">Referral recruitment positions per year </target>
       </trans-unit>
-      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e € 500). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. Transport Talent works on a no cure no pay basis and only charge our handling fee of € 500 if you hire one of the candidates that we have sent to you.</target>
+        <target>With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e %count%). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. Transport Talent works on a no cure no pay basis and only charge our handling fee of %count% if you hire one of the candidates that we have sent to you.</target>
+      </trans-unit>
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0esd" resname="app.employerService.detailsTable.primePlacement.price">
+        <source>app.employerService.detailsTable.primePlacement.price</source>
+        <target>500</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -225,13 +229,13 @@
           <source>app.employerService.popup.enterprise.descr</source>
           <target state="translated">Unlimited job postings and prime placement on TransportTalent.com, employer branding (profile and logo), increased reach via social media, emails to relevant candidates, and automatic upload of all positions.</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">2.000</target>
+          <target>2000</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">1.000</target>
+          <target>1000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
@@ -269,13 +273,21 @@
             <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
             <target state="translated">25</target>
         </trans-unit>
-        <trans-unit id="4" approved="yes">
+        <trans-unit id="4">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target state="translated">€ 1.200 p.a.</target>
+            <target>%count% p.a.</target>
+        </trans-unit>
+        <trans-unit id="4dot1">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
+            <target>1200</target>
         </trans-unit>
         <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
             <target state="translated">Unlimited</target>
+        </trans-unit>
+        <trans-unit id="6">
+          <source>app.employerServices.currencySymbol</source>
+          <target>EUR</target>
         </trans-unit>
     </body>
   </file>

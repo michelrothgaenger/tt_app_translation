@@ -155,7 +155,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Mit der Empfehlungsoption bieten wir Ihnen eine der effektivsten Methoden, passende Kandidaten zu erreichen. Sie legen die Höhe der Belohnung fest (z.B. 500 €), welche Sie demjenigen zahlen möchten, der Ihre offene Position an den finalen Kandidaten weiterleitet. Transport Talent bewirbt Ihre Position daraufhin in seinem Netzwerk sowie über seine Social-Media-Kanäle. Individuelle Links ermöglichen eine Zuordnung der Empfehlungen. Wir verwalten den gesamten Prozess für Sie und leiten Ihnen ausschließlich relevante Bewerbungen weiter. Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die 500 € nur dann, wenn Sie einen Kandidaten einstellen, der über Transport Talent gekommen ist.</target>
+        <target state="translated">Mit der Empfehlungsoption bieten wir Ihnen eine der effektivsten Methoden, passende Kandidaten zu erreichen. Sie legen die Höhe der Belohnung fest (z.B. %count%), welche Sie demjenigen zahlen möchten, der Ihre offene Position an den finalen Kandidaten weiterleitet. Transport Talent bewirbt Ihre Position daraufhin in seinem Netzwerk sowie über seine Social-Media-Kanäle. Individuelle Links ermöglichen eine Zuordnung der Empfehlungen. Wir verwalten den gesamten Prozess für Sie und leiten Ihnen ausschließlich relevante Bewerbungen weiter. Sie sind dabei auf der sicheren Seite: Wir berechnen Ihnen die %count% nur dann, wenn Sie einen Kandidaten einstellen, der über Transport Talent gekommen ist.</target>
       </trans-unit>
       <trans-unit id="953f4dde2c9e4c46774f27d72f047560" resname="app.employerService.popup.inputs.submitValueLoggedin" approved="yes">
         <source>app.employerService.popup.inputs.submitValueLoggedin</source>
@@ -227,11 +227,11 @@
       </trans-unit>
     <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">2.000</target>
+          <target state="translated">2000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">1.000</target>
+          <target state="translated">1000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
@@ -271,12 +271,20 @@
         </trans-unit>
         <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target state="translated">€ 1.200 p.a.</target>
+            <target state="translated">%count% p.a.</target>
         </trans-unit>
         <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
             <target state="translated">Unlimited</target>
         </trans-unit>
-    </body>
+    <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0esd" resname="app.employerService.detailsTable.primePlacement.price" approved="yes">
+        <source>app.employerService.detailsTable.primePlacement.price</source>
+        <target state="translated">500</target>
+      </trans-unit>
+      <trans-unit id="4dot1" approved="yes">
+            <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
+            <target state="translated">1200</target>
+        </trans-unit>
+        </body>
   </file>
 </xliff>

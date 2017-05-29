@@ -70,9 +70,9 @@
         <source>app.job.section.left.rowQtyEmployeesTitle</source>
         <target state="translated">Number of employees</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
         <source>app.employees_lowercase</source>
-        <target state="translated">employees</target>
+        <target>%count% employer|%count% employees</target>
       </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>

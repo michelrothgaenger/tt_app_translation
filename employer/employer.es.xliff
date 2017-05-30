@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target state="translated">Empleados</target>
+        <target state="translated">%count% Empleados|%count% Empleados</target>
       </trans-unit>
       <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>

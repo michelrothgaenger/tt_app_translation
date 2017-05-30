@@ -17,9 +17,9 @@
         <source>app.numberOfEmployees</source>
         <target state="translated">Number of employees</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase">
+      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target>%count% employee|%count% employees</target>
+        <target state="translated">%count% employee|%count% employees</target>
       </trans-unit>
       <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
         <source>app.headquater</source>

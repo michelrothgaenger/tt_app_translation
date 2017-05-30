@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="414292949b7c447397f69690687df670" resname="app.employerServicesHiringsolutions.further" approved="yes">
         <source>app.employerServicesHiringsolutions.further</source>
-        <target state="translated">* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta %juniorSalary%. &lt;br&gt; ** El paquete de servicios "Experienced" cubre puestos con un sueldo anual hasta %experiencedSalary%. &lt;br&gt; &lt;a target=blank href="%contactUrl%"&gt;Contáctanos &lt;/a&gt; para puestos con una categoría salarial superior.</target>
+        <target state="translated">* El paquete de servicios "Junior" cubre puestos con un sueldo anual de hasta %juniorSalary%. &lt;br&gt; ** El paquete de servicios "Experienced" cubre puestos con un sueldo anual hasta %experiencedSalary%. &lt;br&gt; &lt;a target=blank href="%contactUrl%"&gt;Contáctanos&lt;/a&gt; para puestos de una categoría salarial superior.</target>
       </trans-unit>
       <trans-unit id="b89345791f09439db1ee9b2ac639da39" resname="app.employerServicesHiringsolutions.ad.leftTitle" approved="yes">
         <source>app.employerServicesHiringsolutions.ad.leftTitle</source>
@@ -211,7 +211,7 @@
     </trans-unit>
     <trans-unit id="0" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.first.subtitle</source>
-            <target state="translated">para puestos a partir de %count%</target>
+            <target state="translated">para puestos hasta %count%</target>
         </trans-unit>
         <trans-unit id="1" approved="yes">
             <source>app.employerServicesHiringsolutions.packages.second.subtitle</source>
@@ -257,6 +257,10 @@
         <source>app.employerServicesHiringsolutions.section.singleJobPost.tableRow1.recruiting.value.price</source>
         <target state="translated">80000</target>
       </trans-unit>
-      </body>
+      <trans-unit id="083f10de2c9e4c46934f27d72f047020" approved="yes">
+        <source>app.employerServicesHiringsolutions.currencySymbol</source>
+        <target state="translated">EUR</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -57,13 +57,13 @@
         <source>app.employerService.detailsTable.primePlacement</source>
         <target state="translated">Referral recruitment positions per year </target>
       </trans-unit>
-      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr">
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target>With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e %count%). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. Transport Talent works on a no cure no pay basis and only charge our handling fee of %count% if you hire one of the candidates that we have sent to you.</target>
+        <target state="translated">With Transport Talent Referral technology we are able to support one of the most effective ways to recruit new staff. You decide on the referral reward that you are willing to offer to a referrer who refers a candidate that you end up hiring (i.e %count%). Transport Talent market up the position in our extended network and on our social media channels using unique links that are able to track exactly where the referrals come from. We administrate the entire process and only forward you the candidates that we believe are suitable to be interviewed as a shortlist, similar to what we do in our standard recruitment solutions. Transport Talent works on a no cure no pay basis and only charge our handling fee of %count% if you hire one of the candidates that we have sent to you.</target>
       </trans-unit>
-      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0esd" resname="app.employerService.detailsTable.primePlacement.price">
+      <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0esd" resname="app.employerService.detailsTable.primePlacement.price" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.price</source>
-        <target>500</target>
+        <target state="translated">500</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>

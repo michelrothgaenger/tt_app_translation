@@ -59,7 +59,7 @@
       </trans-unit>
       <trans-unit id="04c5d4c8c4bd44f2aa579667ce4a0ea4" resname="app.employerService.detailsTable.primePlacement.descr" approved="yes">
         <source>app.employerService.detailsTable.primePlacement.descr</source>
-        <target state="translated">Con la opción de Recomendación te ofrecemos el método más efectivo para llegar a los mejores candidatos. Tú decides el precio de la recompensa (por ej., %count%), con la que premiarás al que recomiende a tu candidato final. Además, Transport Talent promociona tu vacante entre sus contactos y en las redes sociales. Enlaces individuales te permitirán identificar las recomendaciones. Nosotros administramos todo el proceso y te haremos llegar solo candidaturas adecuadas a tus requisitos. Siempre sobre seguro: te facturamos %count% únicamente en el caso de que finalmente contrates a un candidato que se haya dado a conocer a través de Transport Talent.</target>
+        <target state="translated">Con la opción de Recomendación ofrecemos a las empresas el método más efectivo para conseguir a los mejores candidatos. Tú decides el precio de la recompensa (por ej., %count%), con la que premiarás al que recomiende a tu candidato final. Además, Transport Talent promociona tu vacante entre sus contactos y en las redes sociales. Enlaces individuales te permitirán identificar las recomendaciones. Nosotros administramos todo el proceso y te haremos llegar solo candidaturas adecuadas a tus requisitos. Siempre sobre seguro: te facturamos %count% únicamente en el caso de que finalmente contrates a un candidato a través de Transport Talent.</target>
       </trans-unit>
       <trans-unit id="7120d753080243d187c83ac381f12b58" resname="app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.emailToRelevantCandidatesLabel</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="9b9f6755de894128a7a581ae52e8e97d" resname="app.employerService.section.singleJobPost.businessSpecifications" approved="yes">
         <source>app.employerService.section.singleJobPost.businessSpecifications</source>
-        <target state="translated">&lt;span&gt;EUR*&lt;br&gt;(contrato anual)&lt;/span&gt;</target>
+        <target state="translated">&lt;span&gt;anual*&lt;/span&gt;</target>
       </trans-unit>
       <trans-unit id="037dc1de9a4c456bb24a960c869bf36e" resname="app.employerService.section.singleJobPost.unlimitedPositonsLabel" approved="yes">
         <source>app.employerService.section.singleJobPost.unlimitedPositonsLabel</source>
@@ -195,15 +195,15 @@
       </trans-unit>
       <trans-unit id="953f07de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.smallBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.smallBusiness.shortDescr</source>
-        <target state="translated">EUR&lt;br&gt;(factura anual)</target>
+        <target state="translated">anual</target>
       </trans-unit>
       <trans-unit id="953f08de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.mediumBusiness.shortDescr</source>
-        <target state="translated">EUR&lt;br&gt; (factura anual)</target>
+        <target state="translated">anual</target>
       </trans-unit>
       <trans-unit id="953f09de2c9e4c46934f27d72f047014" resname="app.employerService.section.singleJobPost.section.enterprise.shortDescr" approved="yes">
         <source>app.employerService.section.singleJobPost.section.enterprise.shortDescr</source>
-        <target state="translated">EUR&lt;br&gt;(factura anual)</target>
+        <target state="translated">anual</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047014" resname="app.employerService.h1" approved="yes">
               <source>app.employerService.h1</source>
@@ -271,7 +271,7 @@
         </trans-unit>
         <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target state="translated">%count% por año</target>
+            <target state="translated">%count% p. año</target>
         </trans-unit>
         <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
@@ -285,6 +285,10 @@
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
             <target state="translated">1200</target>
         </trans-unit>
-        </body>
+        <trans-unit id="6" approved="yes">
+          <source>app.employerServices.currencySymbol</source>
+          <target state="translated">EUR</target>
+        </trans-unit>
+    </body>
   </file>
 </xliff>

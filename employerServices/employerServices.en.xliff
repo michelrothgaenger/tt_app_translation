@@ -229,13 +229,13 @@
           <source>app.employerService.popup.enterprise.descr</source>
           <target state="translated">Unlimited job postings and prime placement on TransportTalent.com, employer branding (profile and logo), increased reach via social media, emails to relevant candidates, and automatic upload of all positions.</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target>2000</target>
+          <target state="translated">2000</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target>1000</target>
+          <target state="translated">1000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
@@ -273,21 +273,21 @@
             <source>app.employerService.singleJobPost.mediumBusiness.referralPositionsNumber</source>
             <target state="translated">25</target>
         </trans-unit>
-        <trans-unit id="4">
+        <trans-unit id="4" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice</source>
-            <target>%count% p.a.</target>
+            <target state="translated">%count% p.a.</target>
         </trans-unit>
-        <trans-unit id="4dot1">
+        <trans-unit id="4dot1" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
-            <target>1200</target>
+            <target state="translated">1200</target>
         </trans-unit>
         <trans-unit id="5" approved="yes">
             <source>app.employerService.singleJobPost.enterprise.referralPositionsNumber</source>
             <target state="translated">Unlimited</target>
         </trans-unit>
-        <trans-unit id="6">
+        <trans-unit id="6" approved="yes">
           <source>app.employerServices.currencySymbol</source>
-          <target>EUR</target>
+          <target state="translated">EUR</target>
         </trans-unit>
     </body>
   </file>

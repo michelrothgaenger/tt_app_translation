@@ -43,11 +43,11 @@
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb8035c" resname="app.employerServicesHiringsolutions.shortlisting.activationPrice" approved="yes">
         <source>app.employerServicesHiringsolutions.shortlisting.activationPrice</source>
-        <target state="translated">Opstartspris: € 1.500</target>
+        <target state="translated">Opstartspris: %count%</target>
       </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80301" resname="app.employerServicesHiringsolutions.recruiting.activationPrice" approved="yes">
                 <source>app.employerServicesHiringsolutions.recruiting.activationPrice</source>
-                <target state="translated">Opstartspris: € 2.500</target>
+                <target state="translated">Opstartspris: %count%</target>
               </trans-unit>
       <trans-unit id="7f3b7908fe0a4782b0d16f3aafb80302" resname="app.employerServicesHiringsolutions.shortlisting.additionalPrice" approved="yes">
           <source>app.employerServicesHiringsolutions.shortlisting.additionalPrice</source>

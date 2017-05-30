@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
-        <target state="translated">medarbejdere</target>
+        <target state="translated">%count% medarbejder|%count% medarbejdere</target>
       </trans-unit>
       <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>

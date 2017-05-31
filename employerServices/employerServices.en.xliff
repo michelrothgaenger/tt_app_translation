@@ -289,6 +289,74 @@
           <source>app.employerServices.currencySymbol</source>
           <target state="translated">EUR</target>
         </trans-unit>
+        <trans-unit id="7">
+          <source>app.employerServices.contactPopup.mail.title</source>
+          <target>Send us a message</target>
+        </trans-unit>
+        <trans-unit id="8">
+          <source>app.employerServices.contactPopup.mail.descr</source>
+          <target>Let us know what we can do for you.</target>
+        </trans-unit>
+        <trans-unit id="9">
+          <source>app.employerServices.contactForm.mail.email.placeholder</source>
+          <target>Your Email Address</target>
+        </trans-unit>
+        <trans-unit id="10">
+          <source>app.employerServices.contactForm.mail.name.placeholder</source>
+          <target>Your Name</target>
+        </trans-unit>
+        <trans-unit id="11">
+          <source>app.employerServices.contactForm.mail.message.placeholder</source>
+          <target>Your Message</target>
+        </trans-unit>
+        <trans-unit id="12">
+          <source>app.employerServices.contactForm.mail.btn</source>
+          <target>Send message</target>
+        </trans-unit>
+        <trans-unit id="13">
+          <source>app.employerServices.contactPopup.callBack.title</source>
+          <target>We call you back</target>
+        </trans-unit>
+        <trans-unit id="14">
+          <source>app.employerServices.contactPopup.callBack.descr</source>
+          <target>Leave your number here and a time at your convenience so we can get back to you.</target>
+        </trans-unit>
+        <trans-unit id="15">
+          <source>app.employerServices.contactForm.callBack.countryCode.label</source>
+          <target>Country code</target>
+        </trans-unit>
+        <trans-unit id="16">
+          <source>app.employerServices.contactForm.callBack.phoneNo.label</source>
+          <target>Phone no</target>
+        </trans-unit>
+        <trans-unit id="17">
+          <source>app.employerServices.contactForm.callBack.phoneNo.placeholder</source>
+          <target>Your phone number</target>
+        </trans-unit>
+        <trans-unit id="18">
+          <source>app.employerServices.contactForm.callBack.userTimezone.placeholder</source>
+          <target>When to call you (timezone)?</target>
+        </trans-unit>
+        <trans-unit id="19">
+          <source>app.employerServices.contactForm.callBack.userName.placeholder</source>
+          <target>Your name</target>
+        </trans-unit>
+        <trans-unit id="20">
+          <source>app.employerServices.contactForm.callBack.companyName.placeholder</source>
+          <target>Company name</target>
+        </trans-unit>
+        <trans-unit id="21">
+          <source>app.employerServices.contactForm.callBack.message.placeholder</source>
+          <target>Your Message</target>
+        </trans-unit>
+        <trans-unit id="22">
+          <source>app.employerServices.contactForm.callBack.note</source>
+          <target>When we receive your message we will send you an email asking you to confirm.</target>
+        </trans-unit>
+        <trans-unit id="23">
+          <source>app.employerServices.contactForm.callBack.btn</source>
+          <target>Send message</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

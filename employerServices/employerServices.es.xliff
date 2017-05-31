@@ -99,7 +99,7 @@
       </trans-unit>
       <trans-unit id="279122edcc094ec9828491e6af873efa" resname="app.employerService.section.singleJobPost.vatInfo" approved="yes">
         <source>app.employerService.section.singleJobPost.vatInfo</source>
-        <target state="translated">* Todos los productos requieren un contrato anual.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Las tarifas en nuestra web se aplican a clientes en España y no incluyen IVA. Si eres cliente fuera del territorio español y o un proveedor de servicios de personal pregunta por nuestros otros servicios y tarifas.</target>
+        <target state="translated">* Todos los productos requieren un contrato anual.&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Las tarifas en nuestra web se aplican a clientes en España y no incluyen IVA. Si eres cliente fuera del territorio español o un proveedor de servicios de personal pregunta por nuestros otros servicios y tarifas.</target>
       </trans-unit>
       <trans-unit id="f61152b4b15246e8bab27a9ad8eaad22" resname="app.employerService.section.serviceBooking.header" approved="yes">
         <source>app.employerService.section.serviceBooking.header</source>
@@ -227,11 +227,11 @@
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047004" resname="app.employerService.enterprise.price" approved="yes">
           <source>app.employerService.enterprise.price</source>
-          <target state="translated">2000</target>
+          <target state="translated">2.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047005" resname="app.employerService.advanced.price" approved="yes">
           <source>app.employerService.advanced.price</source>
-          <target state="translated">1000</target>
+          <target state="translated">1.000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047006" resname="app.employerService.basic.price" approved="yes">
           <source>app.employerService.basic.price</source>
@@ -283,7 +283,7 @@
       </trans-unit>
       <trans-unit id="4dot1" approved="yes">
             <source>app.employerService.singleJobPost.mediumBusiness.automaticUploadPrice.price</source>
-            <target state="translated">1200</target>
+            <target state="translated">1.200</target>
         </trans-unit>
         <trans-unit id="6" approved="yes">
           <source>app.employerServices.currencySymbol</source>

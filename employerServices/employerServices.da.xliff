@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="36e39d4d69ee0baf9f2bd72f3ff86826" resname="app.metaDescriptionServicesPage" approved="yes">
         <source>app.metaDescriptionServicesPage</source>
-        <target state="translated">Find de fremtidige kandidater til din virksomhed.</target>
+        <target state="translated">Find de fremtidige logistik og supply chain kandidater til din virksomhed.</target>
       </trans-unit>
       <trans-unit id="ffe1c2f5cdfe44edb51f7c885e502ccd" resname="app.employerService.header" approved="yes">
         <source>app.employerService.header</source>
@@ -299,15 +299,15 @@
         </trans-unit>
         <trans-unit id="9" approved="yes">
           <source>app.employerServices.contactForm.mail.email.placeholder</source>
-          <target state="translated">Din email</target>
+          <target state="translated">Din Email</target>
         </trans-unit>
         <trans-unit id="10" approved="yes">
           <source>app.employerServices.contactForm.mail.name.placeholder</source>
-          <target state="translated">Dit navn</target>
+          <target state="translated">Dit Navn</target>
         </trans-unit>
         <trans-unit id="11" approved="yes">
           <source>app.employerServices.contactForm.mail.message.placeholder</source>
-          <target state="translated">Din besked</target>
+          <target state="translated">Din Besked</target>
         </trans-unit>
         <trans-unit id="12" approved="yes">
           <source>app.employerServices.contactForm.mail.btn</source>

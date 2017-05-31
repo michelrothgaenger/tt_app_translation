@@ -129,6 +129,22 @@
         <source>app.header.userSubmenu.manageJobs</source>
         <target state="translated">Manage jobs</target>
       </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab85" resname="app.header.contactUs.call.title">
+        <source>app.header.contactUs.call.title</source>
+        <target>Call us: </target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab86" resname="app.header.contactUs.call.phone">
+        <source>app.header.contactUs.call.phone</source>
+        <target>+49 40 53 799-1400</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab87" resname="app.header.contactUs.callBack.title">
+        <source>app.header.contactUs.callBack.title</source>
+        <target>Let us call you</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab88" resname="app.header.contactUs.email.title">
+        <source>app.header.contactUs.email.title</source>
+        <target>Send us an email</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

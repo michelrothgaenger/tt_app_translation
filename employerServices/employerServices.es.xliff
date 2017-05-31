@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="7d64597b8fa74676b24fe4739a7555bf" resname="app.employerService.section.singleJobPost.description" approved="yes">
         <source>app.employerService.section.singleJobPost.description</source>
-        <target state="translated">Elige la tarifa que mejor se adapte a tus necesidades y publica tus vacantes por un coste fijo mensual.</target>
+        <target state="translated">Elige el pack que mejor se adapte a tus necesidades y publica tus vacantes por un coste fijo.</target>
       </trans-unit>
       <trans-unit id="5ef3fba1e5b44509b552c4709e4d83fa" resname="app.employerService.section.singleJobPost.tableRow2" approved="yes">
         <source>app.employerService.section.singleJobPost.tableRow2</source>
@@ -288,6 +288,74 @@
         <trans-unit id="6" approved="yes">
           <source>app.employerServices.currencySymbol</source>
           <target state="translated">EUR</target>
+        </trans-unit>
+    <trans-unit id="7" approved="yes">
+          <source>app.employerServices.contactPopup.mail.title</source>
+          <target state="translated">Envíanos un mensaje</target>
+        </trans-unit>
+        <trans-unit id="8" approved="yes">
+          <source>app.employerServices.contactPopup.mail.descr</source>
+          <target state="translated">Dinos cómo podemos ayudarte.</target>
+        </trans-unit>
+        <trans-unit id="9" approved="yes">
+          <source>app.employerServices.contactForm.mail.email.placeholder</source>
+          <target state="translated">Tu email</target>
+        </trans-unit>
+        <trans-unit id="10" approved="yes">
+          <source>app.employerServices.contactForm.mail.name.placeholder</source>
+          <target state="translated">Tu nombre</target>
+        </trans-unit>
+        <trans-unit id="11" approved="yes">
+          <source>app.employerServices.contactForm.mail.message.placeholder</source>
+          <target state="translated">Tu mensaje</target>
+        </trans-unit>
+        <trans-unit id="12" approved="yes">
+          <source>app.employerServices.contactForm.mail.btn</source>
+          <target state="translated">Enviar</target>
+        </trans-unit>
+        <trans-unit id="13" approved="yes">
+          <source>app.employerServices.contactPopup.callBack.title</source>
+          <target state="translated">Te llamaremos</target>
+        </trans-unit>
+        <trans-unit id="14" approved="yes">
+          <source>app.employerServices.contactPopup.callBack.descr</source>
+          <target state="translated">Danos tu número y dinos cuando prefieres que te llamemos.</target>
+        </trans-unit>
+        <trans-unit id="15" approved="yes">
+          <source>app.employerServices.contactForm.callBack.countryCode.label</source>
+          <target state="translated">Código de tu país</target>
+        </trans-unit>
+        <trans-unit id="16" approved="yes">
+          <source>app.employerServices.contactForm.callBack.phoneNo.label</source>
+          <target state="translated">Número de teléfono</target>
+        </trans-unit>
+        <trans-unit id="17" approved="yes">
+          <source>app.employerServices.contactForm.callBack.phoneNo.placeholder</source>
+          <target state="translated">Tu número</target>
+        </trans-unit>
+        <trans-unit id="18" approved="yes">
+          <source>app.employerServices.contactForm.callBack.userTimezone.placeholder</source>
+          <target state="translated">Cuando prefieres que te llamemos?</target>
+        </trans-unit>
+        <trans-unit id="19" approved="yes">
+          <source>app.employerServices.contactForm.callBack.userName.placeholder</source>
+          <target state="translated">Tu nombre</target>
+        </trans-unit>
+        <trans-unit id="20" approved="yes">
+          <source>app.employerServices.contactForm.callBack.companyName.placeholder</source>
+          <target state="translated">Nombre de tu empresa</target>
+        </trans-unit>
+        <trans-unit id="21" approved="yes">
+          <source>app.employerServices.contactForm.callBack.message.placeholder</source>
+          <target state="translated">Tu mensaje</target>
+        </trans-unit>
+        <trans-unit id="22" approved="yes">
+          <source>app.employerServices.contactForm.callBack.note</source>
+          <target state="translated">Cuando recibamos tu mensaje te llegará un correo nuestro pidiendo que lo confirmes.</target>
+        </trans-unit>
+        <trans-unit id="23" approved="yes">
+          <source>app.employerServices.contactForm.callBack.btn</source>
+          <target state="translated">Enviar</target>
         </trans-unit>
     </body>
   </file>

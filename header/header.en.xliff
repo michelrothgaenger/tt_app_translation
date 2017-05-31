@@ -129,21 +129,21 @@
         <source>app.header.userSubmenu.manageJobs</source>
         <target state="translated">Manage jobs</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab85" resname="app.header.contactUs.call.title">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab85" resname="app.header.contactUs.call.title" approved="yes">
         <source>app.header.contactUs.call.title</source>
-        <target>Call us: </target>
+        <target state="translated">Call us: </target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab86" resname="app.header.contactUs.call.phone">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab86" resname="app.header.contactUs.call.phone" approved="yes">
         <source>app.header.contactUs.call.phone</source>
-        <target>+49 40 53 799-1400</target>
+        <target state="translated">+49 40 53 799-1400</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab87" resname="app.header.contactUs.callBack.title">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab87" resname="app.header.contactUs.callBack.title" approved="yes">
         <source>app.header.contactUs.callBack.title</source>
-        <target>Let us call you</target>
+        <target state="translated">Let us call you</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab88" resname="app.header.contactUs.email.title">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab88" resname="app.header.contactUs.email.title" approved="yes">
         <source>app.header.contactUs.email.title</source>
-        <target>Send us an email</target>
+        <target state="translated">Send us an email</target>
       </trans-unit>
     </body>
   </file>

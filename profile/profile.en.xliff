@@ -873,6 +873,38 @@
         <source>app.profile.dashboard.alerts.tile.description</source>
         <target state="translated">Setup and manage your tailored job alerts</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170158" resname="app.profile.editor.firstNamePlaceholder">
+        <source>app.profile.editor.firstNamePlaceholder</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170159" resname="app.profile.editor.lastNamePlaceholder">
+        <source>app.profile.editor.lastNamePlaceholder</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170160" resname="app.profile.editor.firstNameLabel">
+        <source>app.profile.editor.firstNameLabel</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170161" resname="app.profile.editor.lastNameLabel">
+        <source>app.profile.editor.lastNameLabel</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170162" resname="app.profile.profileVM.noFirstName">
+        <source>app.profile.profileVM.noFirstName</source>
+        <target>First name is not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170163" resname="app.profile.profileVM.noLastName">
+        <source>app.profile.profileVM.noLastName</source>
+        <target>Last name is not specified</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170164" resname="app.profile.profileVM.lastName">
+        <source>app.profile.profileVM.lastName</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170165" resname="app.profile.profileVM.firstName">
+        <source>app.profile.profileVM.firstName</source>
+        <target>First name</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

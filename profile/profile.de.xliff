@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
-        <target state="translated">Einstellung</target>
+        <target state="translated">Einstellungen</target>
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
@@ -808,11 +808,11 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
         <source>app.profile.profileVM.birthday</source>
-        <target state="translated">Geburtstag:</target>
+        <target state="translated">Geburtstag</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
         <source>app.profile.profileVM.placeOfResidence</source>
-        <target state="translated">Wohnort:</target>
+        <target state="translated">Wohnort</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
         <source>app.profile.profileVM.noSpecialtiesText</source>

@@ -895,7 +895,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170163" resname="app.profile.profileVM.noLastName" approved="yes">
         <source>app.profile.profileVM.noLastName</source>
-        <target state="translated">Nos falta tu apellido</target>
+        <target state="translated">Nos faltan tus apellidos</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170164" resname="app.profile.profileVM.lastName" approved="yes">
         <source>app.profile.profileVM.lastName</source>
@@ -903,7 +903,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170165" resname="app.profile.profileVM.firstName" approved="yes">
         <source>app.profile.profileVM.firstName</source>
-        <target state="translated">Nombre propio</target>
+        <target state="translated">Nombre</target>
       </trans-unit>
     </body>
   </file>

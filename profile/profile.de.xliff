@@ -452,7 +452,7 @@
       </trans-unit>
       <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
-        <target state="translated">Einstellung</target>
+        <target state="translated">Einstellungen</target>
       </trans-unit>
       <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
@@ -808,11 +808,11 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
         <source>app.profile.profileVM.birthday</source>
-        <target state="translated">Geburtstag:</target>
+        <target state="translated">Geburtstag</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
         <source>app.profile.profileVM.placeOfResidence</source>
-        <target state="translated">Wohnort:</target>
+        <target state="translated">Wohnort</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
         <source>app.profile.profileVM.noSpecialtiesText</source>
@@ -873,6 +873,38 @@
       <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description" approved="yes">
         <source>app.profile.dashboard.alerts.tile.description</source>
         <target state="translated">Legen Sie neue Suchagenten an und verwalten Sie vorhandene.</target>
+      </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d7170158" resname="app.profile.editor.firstNamePlaceholder" approved="yes">
+        <source>app.profile.editor.firstNamePlaceholder</source>
+        <target state="translated">Vorname</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170159" resname="app.profile.editor.lastNamePlaceholder" approved="yes">
+        <source>app.profile.editor.lastNamePlaceholder</source>
+        <target state="translated">Nachname</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170160" resname="app.profile.editor.firstNameLabel" approved="yes">
+        <source>app.profile.editor.firstNameLabel</source>
+        <target state="translated">Vorname</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170161" resname="app.profile.editor.lastNameLabel" approved="yes">
+        <source>app.profile.editor.lastNameLabel</source>
+        <target state="translated">Nachname</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170162" resname="app.profile.profileVM.noFirstName" approved="yes">
+        <source>app.profile.profileVM.noFirstName</source>
+        <target state="translated">Vorname fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170163" resname="app.profile.profileVM.noLastName" approved="yes">
+        <source>app.profile.profileVM.noLastName</source>
+        <target state="translated">Nachname fehlt</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170164" resname="app.profile.profileVM.lastName" approved="yes">
+        <source>app.profile.profileVM.lastName</source>
+        <target state="translated">Nachname</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170165" resname="app.profile.profileVM.firstName" approved="yes">
+        <source>app.profile.profileVM.firstName</source>
+        <target state="translated">Vorname</target>
       </trans-unit>
     </body>
   </file>

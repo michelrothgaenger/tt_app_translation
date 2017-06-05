@@ -129,6 +129,22 @@
         <source>app.header.userSubmenu.manageJobs</source>
         <target state="translated">Stellenanzeigen verwalten</target>
       </trans-unit>
+    <trans-unit id="481e633d68244091a0d4e0e2f6acab85" resname="app.header.contactUs.call.title" approved="yes">
+        <source>app.header.contactUs.call.title</source>
+        <target state="translated">Rufen Sie uns an:</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab86" resname="app.header.contactUs.call.phone" approved="yes">
+        <source>app.header.contactUs.call.phone</source>
+        <target state="translated">+49 40 53 799-1400</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab87" resname="app.header.contactUs.callBack.title" approved="yes">
+        <source>app.header.contactUs.callBack.title</source>
+        <target state="translated">Wir rufen Sie zurück</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab88" resname="app.header.contactUs.email.title" approved="yes">
+        <source>app.header.contactUs.email.title</source>
+        <target state="translated">E-Mail senden</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

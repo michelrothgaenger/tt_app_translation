@@ -933,6 +933,14 @@
         <source>app.profile.saved.applications.hide</source>
         <target>Hide</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.jobs.jobBlock.posted">
+        <source>app.jobs.jobBlock.posted</source>
+        <target>Posted</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound">
+        <source>app.noApplicationsFound</source>
+        <target>No application found</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

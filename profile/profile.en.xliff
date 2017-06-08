@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
-        <target state="translated">Manage your company jobs</target>
+        <target state="translated">Manage your company jobs.</target>
       </trans-unit>
       <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.title</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.description</source>
-        <target state="translated">Manage your company profile</target>
+        <target state="translated">Manage your company profile.</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
@@ -933,13 +933,9 @@
         <source>app.profile.saved.applications.hide</source>
         <target>Hide</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.jobs.jobBlock.posted">
-        <source>app.jobs.jobBlock.posted</source>
-        <target>Posted</target>
-      </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound">
         <source>app.noApplicationsFound</source>
-        <target>No application found</target>
+        <target>No applications found</target>
       </trans-unit>
     </body>
   </file>

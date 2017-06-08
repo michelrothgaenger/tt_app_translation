@@ -33,6 +33,14 @@
         <source>app.cookieButton</source>
         <target state="translated">Close</target>
       </trans-unit>
+      <trans-unit id="073200146c1028b99b0d13e6cdf06479" resname="app.index.intercomMapHeadline">
+        <source>app.index.intercomMapHeadline</source>
+        <target><![CDATA[We are <b>Transport Talent</b> with users in <b>126 countries.</b></br> When will <b>you join us?</b>]]></target>
+      </trans-unit>
+      <trans-unit id="073200146c1028b99b0d13e6cdf06480" resname="app.joinNow">
+        <source>app.joinNow</source>
+        <target>JOIN NOW</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

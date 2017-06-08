@@ -905,6 +905,34 @@
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">First name</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170166" resname="app.profile.dashboard.applications.tile.title">
+        <source>app.profile.dashboard.applications.tile.title</source>
+        <target>APPLICATIONS</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170167" resname="app.profile.dashboard.applications.tile.description">
+        <source>app.profile.dashboard.applications.tile.description</source>
+        <target>See to which jobs you've already applied to.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170168" resname="app.profile.savedApplicationsCta">
+        <source>app.profile.savedApplicationsCta</source>
+        <target>APPLIED JOBS</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170169" resname="app.profile.saved.applications.description">
+        <source>app.profile.saved.applications.description</source>
+        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170170" resname="app.profile.searchForNewApplications">
+        <source>app.profile.searchForNewApplications</source>
+        <target>Search for new applications</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn">
+        <source>app.profile.saved.applications.appliedToOn</source>
+        <target>Applied to on</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide">
+        <source>app.profile.saved.applications.hide</source>
+        <target>Hide</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

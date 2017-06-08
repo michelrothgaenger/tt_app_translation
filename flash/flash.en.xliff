@@ -65,6 +65,10 @@
           <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
           <target state="translated">Imposible to unsubscribe from security emails, they occur only after your actions and very important to keep your account safe</target>
         </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa815" resname="app.flash.applicationHidden">
+          <source>app.flash.applicationHidden</source>
+          <target>Application hidden</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

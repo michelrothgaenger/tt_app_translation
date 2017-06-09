@@ -49,10 +49,6 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">Наша компания работает в нескольких странах. Наши офисы:</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location" approved="yes">
-        <source>app.contact.section.offices.location</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Германия:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Гамбург&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Дания:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Islands Brygge 77D&lt;/div&gt;&lt;div&gt;DK-2300 Копенгаген&lt;/div&gt;</target>
-      </trans-unit>
       <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target state="translated">Телефон</target>

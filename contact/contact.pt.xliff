@@ -49,10 +49,6 @@
         <source>app.contact.section.offices.title</source>
         <target>Our offices</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location">
-        <source>app.contact.section.offices.location</source>
-        <target><![CDATA[<div><b>Germany:</b></div><div>Transport Talent</div><div>Bernstorfstrasse 120</div><div>D-22767 Hamburg</div><div>&nbsp;</div><div><b>Denmark:</b></div><div>Transport Talent ApS</div><div>Kronprinsessegade 46E</div><div>DK-1306 Copenhagen</div>]]></target>
-      </trans-unit>
       <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone">
         <source>app.contact.section.offices.phone</source>
         <target>Phone</target>

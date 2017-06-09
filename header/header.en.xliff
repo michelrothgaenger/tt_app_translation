@@ -145,9 +145,9 @@
         <source>app.header.contactUs.email.title</source>
         <target state="translated">Send us an email</target>
       </trans-unit>
-      <trans-unit id="481e633d68244091a0d4e0e2f6acab89" resname="app.header.userSubmenu.applications">
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab89" resname="app.header.userSubmenu.applications" approved="yes">
         <source>app.header.userSubmenu.applications</source>
-        <target>Applications</target>
+        <target state="translated">Applications</target>
       </trans-unit>
     </body>
   </file>

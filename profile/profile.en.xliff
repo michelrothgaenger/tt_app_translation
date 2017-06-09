@@ -925,17 +925,17 @@
         <source>app.profile.searchForNewApplications</source>
         <target state="translated">Find jobs</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn">
+      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn" approved="yes">
         <source>app.profile.saved.applications.appliedToOn</source>
-        <target>Applied to on</target>
+        <target state="translated">Sent on</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide">
+      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide" approved="yes">
         <source>app.profile.saved.applications.hide</source>
-        <target>Hide</target>
+        <target state="translated">Hide</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound" approved="yes">
         <source>app.noApplicationsFound</source>
-        <target>No applications found</target>
+        <target state="translated">No applications found</target>
       </trans-unit>
     </body>
   </file>

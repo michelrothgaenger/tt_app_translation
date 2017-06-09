@@ -612,7 +612,7 @@
       </trans-unit>
       <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
-        <target state="translated">Verwalten Sie Ihre Stellenanzeigen</target>
+        <target state="translated">Verwalten Sie Ihre Stellenanzeigen.</target>
       </trans-unit>
       <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.title</source>
@@ -620,7 +620,7 @@
       </trans-unit>
       <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.description</source>
-        <target state="translated">Verwalten Sie Ihr Unternehmensprofil</target>
+        <target state="translated">Verwalten Sie Ihr Unternehmensprofil.</target>
       </trans-unit>
       <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
@@ -905,6 +905,38 @@
       <trans-unit id="382ba41746874fac96eb5077d7170165" resname="app.profile.profileVM.firstName" approved="yes">
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">Vorname</target>
+      </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d7170166" resname="app.profile.dashboard.applications.tile.title" approved="yes">
+        <source>app.profile.dashboard.applications.tile.title</source>
+        <target state="translated">BEWERBUNGEN</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170167" resname="app.profile.dashboard.applications.tile.description" approved="yes">
+        <source>app.profile.dashboard.applications.tile.description</source>
+        <target state="translated">Alle Stellen auf die Sie sich über Transport Talent beworben haben.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170168" resname="app.profile.savedApplicationsCta" approved="yes">
+        <source>app.profile.savedApplicationsCta</source>
+        <target state="translated">BEWERBUNGEN</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170169" resname="app.profile.saved.applications.description" approved="yes">
+        <source>app.profile.saved.applications.description</source>
+        <target state="translated">Nachstehend sehen Sie eine Übersicht aller Positionen, auf die Sie sich über Transport Talent beworben haben. Bitte beachten Sie, dass nur solche Stellen aufgeführt werden, deren Bewerbungsprozess über das Transport-Talent-Bewerbungsformular läuft. Stellenanzeigen für welche Sie auf die Seite eines anderen Anbieters weitergeleitet werden, verarbeitet Transport Talent nicht und kann diese dementsprechend nicht in dieser Übersicht aufführen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170170" resname="app.profile.searchForNewApplications" approved="yes">
+        <source>app.profile.searchForNewApplications</source>
+        <target state="translated">Jobs finden</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn" approved="yes">
+        <source>app.profile.saved.applications.appliedToOn</source>
+        <target state="translated">Verschickt am</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide" approved="yes">
+        <source>app.profile.saved.applications.hide</source>
+        <target state="translated">Ausblenden</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound" approved="yes">
+        <source>app.noApplicationsFound</source>
+        <target state="translated">Keine Bewerbungen gefunden</target>
       </trans-unit>
     </body>
   </file>

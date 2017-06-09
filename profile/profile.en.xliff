@@ -933,9 +933,9 @@
         <source>app.profile.saved.applications.hide</source>
         <target state="translated">Hide</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.profile.saved.applications.undo">
+      <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.profile.saved.applications.undo" approved="yes">
         <source>app.profile.saved.applications.undo</source>
-        <target>Undo</target>
+        <target state="translated">Undo</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound" approved="yes">
         <source>app.noApplicationsFound</source>

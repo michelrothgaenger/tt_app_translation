@@ -905,37 +905,37 @@
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170166" resname="app.profile.dashboard.applications.tile.title">
+      <trans-unit id="382ba41746874fac96eb5077d7170166" resname="app.profile.dashboard.applications.tile.title" approved="yes">
         <source>app.profile.dashboard.applications.tile.title</source>
-        <target>APPLICATIONS</target>
+        <target state="translated">APPLICATIONS</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170167" resname="app.profile.dashboard.applications.tile.description">
+      <trans-unit id="382ba41746874fac96eb5077d7170167" resname="app.profile.dashboard.applications.tile.description" approved="yes">
         <source>app.profile.dashboard.applications.tile.description</source>
-        <target>See to which jobs you've already applied to.</target>
+        <target state="translated">See all jobs which you have applied to within Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170168" resname="app.profile.savedApplicationsCta">
+      <trans-unit id="382ba41746874fac96eb5077d7170168" resname="app.profile.savedApplicationsCta" approved="yes">
         <source>app.profile.savedApplicationsCta</source>
-        <target>APPLIED JOBS</target>
+        <target state="translated">APPLICATIONS</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170169" resname="app.profile.saved.applications.description">
+      <trans-unit id="382ba41746874fac96eb5077d7170169" resname="app.profile.saved.applications.description" approved="yes">
         <source>app.profile.saved.applications.description</source>
-        <target>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</target>
+        <target state="translated">Below is the list of all jobs you have applied to on Transport Talent. Please note that this list only includes jobs that use the Transport Talent application form. Job postings for which you are redirected to another company's website are not tracked by Transport Talent and will not show in your list of applied jobs.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170170" resname="app.profile.searchForNewApplications">
+      <trans-unit id="382ba41746874fac96eb5077d7170170" resname="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
-        <target>Search for new applications</target>
+        <target state="translated">Find jobs</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn">
+      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn" approved="yes">
         <source>app.profile.saved.applications.appliedToOn</source>
-        <target>Applied to on</target>
+        <target state="translated">Sent on</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide">
+      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide" approved="yes">
         <source>app.profile.saved.applications.hide</source>
-        <target>Hide</target>
+        <target state="translated">Hide</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound" approved="yes">
         <source>app.noApplicationsFound</source>
-        <target>No applications found</target>
+        <target state="translated">No applications found</target>
       </trans-unit>
     </body>
   </file>

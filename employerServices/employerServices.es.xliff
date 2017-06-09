@@ -237,13 +237,13 @@
           <source>app.employerService.basic.price</source>
           <target state="translated">500</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full" approved="yes">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047007" resname="app.employerService.enterprise.price.full">
           <source>app.employerService.enterprise.price.full</source>
-          <target state="translated">1.000</target>
+          <target>2000</target>
       </trans-unit>
-      <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full" approved="yes">
+      <trans-unit id="113f10de2c9e4c46934f27d72f047008" resname="app.employerService.advanced.price.full">
           <source>app.employerService.advanced.price.full</source>
-          <target state="translated">2.000</target>
+          <target>1000</target>
       </trans-unit>
       <trans-unit id="113f10de2c9e4c46934f27d72f047009" resname="app.employerService.basic.price.full" approved="yes">
           <source>app.employerService.basic.price.full</source>

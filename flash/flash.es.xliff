@@ -63,7 +63,11 @@
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
           <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
-          <target state="translated">No es posible cancelar el uso de correos de seguridad, ya que estos garantizan la seguridad de su cuenta</target>
+          <target state="translated">No es posible cancelar el uso de correos de seguridad, ya que estos son imprescindibles para garantizar la seguridad de su cuenta.</target>
+        </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa815" resname="app.flash.applicationHidden" approved="yes">
+          <source>app.flash.applicationHidden</source>
+          <target state="translated">Solicitud de empleo oculta</target>
         </trans-unit>
     </body>
   </file>

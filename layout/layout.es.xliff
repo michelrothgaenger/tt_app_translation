@@ -33,6 +33,14 @@
         <source>app.cookieButton</source>
         <target state="translated">Cerrar</target>
       </trans-unit>
+    <trans-unit id="073200146c1028b99b0d13e6cdf06479" resname="app.index.intercomMapHeadline" approved="yes">
+        <source>app.index.intercomMapHeadline</source>
+        <target state="translated">&lt;b&gt;Transport Talent&lt;/b&gt; colabora con los mejores profesionales en &lt;b&gt;126 países.&lt;/b&gt;&lt;/br&gt;A qué esperas para &lt;b&gt;unirte&lt;/b&gt; a nosotros?</target>
+      </trans-unit>
+      <trans-unit id="073200146c1028b99b0d13e6cdf06480" resname="app.joinNow" approved="yes">
+        <source>app.joinNow</source>
+        <target state="translated">REGISTRARSE</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -73,6 +73,14 @@
         <source>app.contact.meta.description</source>
         <target state="translated">Transport Talent es el portal de empleo líder en el sector del transporte y la logística. Póngase en contacto con nosotros si desea dar el próximo salto en su carrera o si cree que podemos ayudarle a encontrar los mejores talentos en su proceso de contratación.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location.germany" approved="yes">
+        <source>app.contact.section.offices.location.germany</source>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Alemania:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburgo&lt;/div&gt;</target>
+      </trans-unit>
+      <trans-unit id="934784ca34817a4ddd1cc35ecd962a25" resname="app.contact.section.offices.location.denmark" approved="yes">
+        <source>app.contact.section.offices.location.denmark</source>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Dinamarca:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Kopenhagen&lt;/div&gt;</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

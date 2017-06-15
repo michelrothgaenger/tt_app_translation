@@ -49,9 +49,9 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">Vi er en international virksomhed. Disse er vores kontorer:</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a25" resname="app.contact.section.offices.location.denmark">
+      <trans-unit id="934784ca34817a4ddd1cc35ecd962a25" resname="app.contact.section.offices.location.denmark" approved="yes">
         <source>app.contact.section.offices.location.denmark</source>
-        <target>&lt;div&gt;&lt;b&gt;Danmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 København&lt;/div&gt;</target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Danmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 København&lt;/div&gt;</target>
       </trans-unit>
       <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
@@ -77,6 +77,10 @@
         <source>app.contact.meta.description</source>
         <target state="translated">Transport Talent er den førende job og karriereportal indenfor transport- og logistikbranchen. Skriv til os hvis du ønsker hjælp til at komme videre med din karriere eller hvis din virksomhed har brug for hjælp til at finde de rigtige kandidater til jeres ledige stillinger.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location.germany" approved="yes">
+        <source>app.contact.section.offices.location.germany</source>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Tyskland:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamborg&lt;/div&gt;</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

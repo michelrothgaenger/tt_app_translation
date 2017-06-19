@@ -69,6 +69,10 @@
           <source>app.flash.applicationHidden</source>
           <target state="translated">Application hidden</target>
         </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa816" resname="app.flash.applicationUndoHidden">
+          <source>app.flash.applicationUndoHidden</source>
+          <target>Should be changed: Text for flash message after user does undo hide application.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

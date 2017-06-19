@@ -63,7 +63,11 @@
         </trans-unit>
         <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
           <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
-          <target state="translated">Ikke muligt at afmelde sikkerheds emails, de opstår først efter dine handlinger og det er meget vigtigt at din konto er sikker</target>
+          <target state="translated">Ikke muligt at afmelde sikkerheds emails. De bliver kun sendt i nødstilfælde og er meget vigtige for at sikre at din konto er sikker.</target>
+        </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa815" resname="app.flash.applicationHidden" approved="yes">
+          <source>app.flash.applicationHidden</source>
+          <target state="translated">Applikation er skjult</target>
         </trans-unit>
     </body>
   </file>

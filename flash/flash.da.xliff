@@ -69,6 +69,10 @@
           <source>app.flash.applicationHidden</source>
           <target state="translated">Applikation er skjult</target>
         </trans-unit>
+    <trans-unit id="0476595b0502266d74e5e621d2eaa816" resname="app.flash.applicationUndoHidden" approved="yes">
+          <source>app.flash.applicationUndoHidden</source>
+          <target state="translated">Ansøgning er gemt igen</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

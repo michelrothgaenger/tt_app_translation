@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+        <header>
+            <tool tool-id="symfony" tool-name="Symfony"/>
+        </header>
+        <body>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.password.greaterThanConstraint" >
+                <source>app.password.greaterThanConstraint</source>
+                <target>This value should be greater than or equal to {{ compared_value }}.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg2" resname="app.password.mismatch">
+                <source>app.password.mismatch</source>
+                <target>Password mismatch</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

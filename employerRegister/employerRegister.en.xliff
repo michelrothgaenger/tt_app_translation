@@ -82,9 +82,45 @@
         <target state="translated">Register</target>
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe30aa" resname="app.requiredErrorText" approved="yes">
-              <source>app.requiredErrorText</source>
-              <target state="translated">This field is required.</target>
-            </trans-unit>
+        <source>app.requiredErrorText</source>
+        <target state="translated">This field is required.</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder">
+        <source>app.employerRegister.popup.firstName.placeholder</source>
+        <target>First name</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a2" resname="app.employerRegister.popup.lastName.placeholder">
+        <source>app.employerRegister.popup.lastName.placeholder</source>
+        <target>Last name</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a3" resname="app.employerRegister.popup.companyName.placeholder">
+        <source>app.employerRegister.popup.companyName.placeholder</source>
+        <target>Company name</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a4" resname="app.employerRegister.popup.email.placeholder">
+        <source>app.employerRegister.popup.email.placeholder</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a5" resname="app.employerRegister.popup.password.placeholder">
+        <source>app.employerRegister.popup.password.placeholder</source>
+        <target>Password</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a6" resname="app.employerRegister.popup.repeatPassword.placeholder">
+        <source>app.employerRegister.popup.repeatPassword.placeholder</source>
+        <target>Repeat password</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation">
+        <source>app.employerRegister.popup.emailConfirmation</source>
+        <target>When we receive your registration we will send you an email asking you to confirm.</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement">
+        <source>app.employerRegister.popup.signUpAgreement</source>
+        <target><![CDATA[By signing up I agree to the <a target="_blank" href="%termsUrl%">terms & conditions</a>]]></target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta">
+        <source>app.employerRegister.popup.cta</source>
+        <target>Register here by simply providing your email address.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

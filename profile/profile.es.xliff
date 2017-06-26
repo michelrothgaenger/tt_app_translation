@@ -937,6 +937,10 @@
         <source>app.noApplicationsFound</source>
         <target state="translated">No se han encontrado solicitudes</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.profile.saved.applications.undo" approved="yes">
+        <source>app.profile.saved.applications.undo</source>
+        <target state="translated">Deshacer</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

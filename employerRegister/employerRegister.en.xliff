@@ -81,9 +81,9 @@
         <source>app.signUpStep1</source>
         <target>Register</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe3012" resname="app.employerRegister.emailExists">
+      <trans-unit id="6680d24c091a48388818a0479cfe3012" resname="app.employerRegister.emailExists" approved="yes">
           <source>app.employerRegister.emailExists</source>
-          <target>This e-mail is already registered</target>
+          <target state="translated">This email address is already registered</target>
       </trans-unit>
     </body>
   </file>

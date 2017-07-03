@@ -85,41 +85,41 @@
         <source>app.requiredErrorText</source>
         <target state="translated">This field is required.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder" approved="yes">
         <source>app.employerRegister.popup.firstName.placeholder</source>
-        <target>First name</target>
+        <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a2" resname="app.employerRegister.popup.lastName.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a2" resname="app.employerRegister.popup.lastName.placeholder" approved="yes">
         <source>app.employerRegister.popup.lastName.placeholder</source>
-        <target>Last name</target>
+        <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a3" resname="app.employerRegister.popup.companyName.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a3" resname="app.employerRegister.popup.companyName.placeholder" approved="yes">
         <source>app.employerRegister.popup.companyName.placeholder</source>
-        <target>Company name</target>
+        <target state="translated">Company name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a4" resname="app.employerRegister.popup.email.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a4" resname="app.employerRegister.popup.email.placeholder" approved="yes">
         <source>app.employerRegister.popup.email.placeholder</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a5" resname="app.employerRegister.popup.password.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a5" resname="app.employerRegister.popup.password.placeholder" approved="yes">
         <source>app.employerRegister.popup.password.placeholder</source>
-        <target>Password</target>
+        <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a6" resname="app.employerRegister.popup.repeatPassword.placeholder">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a6" resname="app.employerRegister.popup.repeatPassword.placeholder" approved="yes">
         <source>app.employerRegister.popup.repeatPassword.placeholder</source>
-        <target>Repeat password</target>
+        <target state="translated">Repeat password</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation" approved="yes">
         <source>app.employerRegister.popup.emailConfirmation</source>
-        <target>When we receive your registration we will send you an email asking you to confirm.</target>
+        <target state="translated">When we receive your registration we will send you an email asking you to confirm.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement" approved="yes">
         <source>app.employerRegister.popup.signUpAgreement</source>
-        <target><![CDATA[By signing up I agree to the <a target="_blank" href="%termsUrl%">terms & conditions</a>]]></target>
+        <target state="translated">By signing up I agree to the &lt;a target="_blank" href="%termsUrl%"&gt;terms &amp; conditions&lt;/a&gt;.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta">
+      <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta" approved="yes">
         <source>app.employerRegister.popup.cta</source>
-        <target>Register here by simply providing your email address.</target>
+        <target state="translated">Register here by simply providing your email address.</target>
       </trans-unit>
     </body>
   </file>

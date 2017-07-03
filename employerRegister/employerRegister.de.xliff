@@ -111,15 +111,15 @@
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation" approved="yes">
         <source>app.employerRegister.popup.emailConfirmation</source>
-        <target state="translated">Sobald wir Ihre Registrierung erhalten haben, senden wir Ihnen eine Bestätigungsnachricht.</target>
+        <target state="translated">Sobald wir Ihre Registrierung erhalten haben, senden wir Ihnen eine Nachricht mit der Bitte um Bestätigung.</target>
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement" approved="yes">
         <source>app.employerRegister.popup.signUpAgreement</source>
-        <target state="translated">Mit Ihrer Anmeldung stimmen Sie unseren &lt;a target="_blank" href="%termsUrl%"&gt;Allgemeinen Geschäftsbedingungen&lt;/a&gt; zu</target>
+        <target state="translated">Mit Ihrer Anmeldung akzeptieren Sie unsere &lt;a target="_blank" href="%termsUrl%"&gt;Allgemeinen Geschäftsbedingungen&lt;/a&gt;.</target>
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta" approved="yes">
         <source>app.employerRegister.popup.cta</source>
-        <target state="translated">Melden Sie ich einfach mit Ihrer E-Mail-Adresse an.</target>
+        <target state="translated">Melden Sie sich einfach mit Ihrer E-Mail-Adresse an.</target>
       </trans-unit>
     </body>
   </file>

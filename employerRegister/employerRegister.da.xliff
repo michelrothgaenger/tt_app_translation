@@ -85,6 +85,42 @@
               <source>app.requiredErrorText</source>
               <target state="translated">Dette felt er påkrævet.</target>
             </trans-unit>
+    <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder" approved="yes">
+        <source>app.employerRegister.popup.firstName.placeholder</source>
+        <target state="translated">Fornavn</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a2" resname="app.employerRegister.popup.lastName.placeholder" approved="yes">
+        <source>app.employerRegister.popup.lastName.placeholder</source>
+        <target state="translated">Efternavn</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a3" resname="app.employerRegister.popup.companyName.placeholder" approved="yes">
+        <source>app.employerRegister.popup.companyName.placeholder</source>
+        <target state="translated">Firmanavn</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a4" resname="app.employerRegister.popup.email.placeholder" approved="yes">
+        <source>app.employerRegister.popup.email.placeholder</source>
+        <target state="translated">E-mail</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a5" resname="app.employerRegister.popup.password.placeholder" approved="yes">
+        <source>app.employerRegister.popup.password.placeholder</source>
+        <target state="translated">Kodeord</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a6" resname="app.employerRegister.popup.repeatPassword.placeholder" approved="yes">
+        <source>app.employerRegister.popup.repeatPassword.placeholder</source>
+        <target state="translated">Gentag kodeord</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation" approved="yes">
+        <source>app.employerRegister.popup.emailConfirmation</source>
+        <target state="translated">Når vi modtager din registrering sender vi dig en email og beder dig bekræfte.</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement" approved="yes">
+        <source>app.employerRegister.popup.signUpAgreement</source>
+        <target state="translated">Ved at tilmelde mig accepterer jeg &lt;a target="_blank" href="%termsUrl%"&gt;terms &amp; conditions&lt;/a&gt;.</target>
+      </trans-unit>
+      <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta" approved="yes">
+        <source>app.employerRegister.popup.cta</source>
+        <target state="translated">Tilmeld dig her ved at skrive din emailaddresse.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

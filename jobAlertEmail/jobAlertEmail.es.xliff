@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
-        <target state="translated">Tu alerta de trabajo ha sido desactivada</target>
+        <target state="translated">Tu agente de búsqueda ha sido desactivado</target>
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b4310" resname="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
@@ -64,6 +64,10 @@
       <trans-unit id="47278c9730fa426db56d02efb37b4311" resname="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
         <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Aquí está la lista de las vacantes en Transport Talent que mejor se ajustan a tu alerta de trabajo "%jobAlertTitle%". Puedes modificar tus alertas de trabajo entrando en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;. Ayúdanos a mejorar: háznoslo saber, si crees que podemos mejorar nuestro servicio.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;El equipo de Transport Talent&lt;br&gt;&lt;br&gt;</target>
+      </trans-unit>
+    <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs" approved="yes">
+        <source>app.jobAlertEmail.referralJobs</source>
+        <target state="translated">Puestos recomendados</target>
       </trans-unit>
     </body>
   </file>

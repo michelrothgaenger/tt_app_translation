@@ -941,6 +941,10 @@
         <source>app.profile.saved.applications.undo</source>
         <target state="translated">Deshacer</target>
       </trans-unit>
-      </body>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06480" resname="app.profile.alertForm.referrals" approved="yes">
+        <source>app.profile.alertForm.referrals</source>
+        <target state="translated">Mostrar solo vacantes recomendadas</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

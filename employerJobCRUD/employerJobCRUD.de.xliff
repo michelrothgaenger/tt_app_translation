@@ -158,6 +158,10 @@
           <source>app.jobs.searchForm.unpublished</source>
           <target state="translated">Unveröffentlichte Anzeigen</target>
         </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
+          <source>app.reward</source>
+          <target state="translated">Belohnung</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

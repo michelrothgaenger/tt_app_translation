@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
-        <target state="translated">Your job alert has been deactived</target>
+        <target state="translated">Your job alert has been deactivated</target>
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b4310" resname="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
@@ -65,9 +65,9 @@
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
         <target state="translated"><![CDATA[Dear %firstName%,<br><br>Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your <a href="%jobAlertsUrl%">profile</a>. Please let us know if there is anything we can improve about our job alerts to further support your search.<br><br>Kind regards,<br><br>Your team at Transport Talent<br><br>]]></target>
       </trans-unit>
-      <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs">
+      <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
-        <target>Referral jobs</target>
+        <target state="translated">Referral jobs</target>
       </trans-unit>
     </body>
   </file>

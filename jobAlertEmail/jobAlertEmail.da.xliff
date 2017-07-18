@@ -65,6 +65,10 @@
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Her er listen over de bedste jobs på Transport Talent baseret på din jobagent "%jobAlertTitle%". Vi håber, at du vil finde det job du søger. Jobagenter kan altid ændres på din &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Lad os endelig vide hvis der er noget vi kan ændre eller gøre bedre i vores job alerts for at forbedre din søgning.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
+    <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs" approved="yes">
+        <source>app.jobAlertEmail.referralJobs</source>
+        <target state="translated">Henvisningsjobs</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

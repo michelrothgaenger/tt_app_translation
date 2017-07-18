@@ -261,6 +261,10 @@
         <source>app.job.section.popup.apply.cvTitle</source>
         <target state="translated">CV</target>
       </trans-unit>
+    <trans-unit id="80d3b156e2ad47789fd5e3834597ceae" resname="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
+        <source>app.job.section.popup.closeButtonTitleSecondPart</source>
+        <target state="translated">Cerrar ventana.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

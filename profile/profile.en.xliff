@@ -487,7 +487,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
-        <target state="translated">Shared on</target>
+        <target state="translated">First shared on</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward" approved="yes">
         <source>app.profile.referrals.reward</source>
@@ -941,9 +941,9 @@
         <source>app.noApplicationsFound</source>
         <target state="translated">No applications found</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06480" resname="app.profile.alertForm.referrals">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06480" resname="app.profile.alertForm.referrals" approved="yes">
         <source>app.profile.alertForm.referrals</source>
-        <target>Referral jobs only</target>
+        <target state="translated">Referral jobs only</target>
       </trans-unit>
     </body>
   </file>

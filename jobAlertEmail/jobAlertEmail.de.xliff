@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
-        <target state="translated">Ihr Job Agent wurde deaktiviert</target>
+        <target state="translated">Ihr Suchagent wurde deaktiviert</target>
       </trans-unit>
       <trans-unit id="47278c9730fa426db56d02efb37b4310" resname="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
@@ -64,6 +64,10 @@
       <trans-unit id="47278c9730fa426db56d02efb37b4311" resname="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
         <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;hier ist eine Liste der besten Stellen basierend auf Ihrem Job Agenten "%jobAlertTitle%". Wir hoffen, Sie finden die Position, welche Sie suchen. Job Agenten können Sie in Ihrem &lt;a href="%jobAlertsUrl%"&gt;Profil&lt;/a&gt; anpassen. Bitte lassen Sie uns wissen, sollten wir unseren Job Agent weiter entwickeln können, um Sie weiter bei Ihrer Suche zu unterstützen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team&lt;br&gt;&lt;br&gt;</target>
+      </trans-unit>
+    <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs" approved="yes">
+        <source>app.jobAlertEmail.referralJobs</source>
+        <target state="translated">Empfehlungsjobs</target>
       </trans-unit>
     </body>
   </file>

@@ -945,6 +945,90 @@
         <source>app.profile.alertForm.referrals</source>
         <target state="translated">Referral jobs only</target>
       </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06481" resname="app.profile.salary.30-40K">
+        <source>app.profile.salary.30-40K</source>
+        <target>30-40K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06482" resname="app.profile.salary.40-50K">
+        <source>app.profile.salary.40-50K</source>
+        <target>40-50K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06483" resname="app.profile.salary.50-60K">
+        <source>app.profile.salary.50-60K</source>
+        <target>50-60K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06484" resname="app.profile.salary.60-70K">
+        <source>app.profile.salary.60-70K</source>
+        <target>60-70K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06485" resname="app.profile.salary.70-80K">
+        <source>app.profile.salary.70-80K</source>
+        <target>70-80K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06486" resname="app.profile.salary.80-90K">
+        <source>app.profile.salary.80-90K</source>
+        <target>80-90K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06487" resname="app.profile.salary.90-100K">
+        <source>app.profile.salary.90-100K</source>
+        <target>90-100K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06488" resname="app.profile.salary.100-125K">
+        <source>app.profile.salary.100-125K</source>
+        <target>100-125K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06489" resname="app.profile.salary.125-150K">
+        <source>app.profile.salary.125-150K</source>
+        <target>125-150K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06490" resname="app.profile.salary.200-300K">
+        <source>app.profile.salary.200-300K</source>
+        <target>200-300K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06491" resname="app.profile.salary.300-400K">
+        <source>app.profile.salary.300-400K</source>
+        <target>300-400K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06492" resname="app.profile.salary.400-500K">
+        <source>app.profile.salary.400-500K</source>
+        <target>400-500K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06493" resname="app.profile.salary.500-600K">
+        <source>app.profile.salary.500-600K</source>
+        <target>500-600K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06494" resname="app.profile.salary.600-700K">
+        <source>app.profile.salary.600-700K</source>
+        <target>600-700K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06495" resname="app.profile.salary.700-800K">
+        <source>app.profile.salary.700-800K</source>
+        <target>700-800K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06496" resname="app.profile.salary.800-900K">
+        <source>app.profile.salary.800-900K</source>
+        <target>800-900K</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06497" resname="app.profile.salary.900K-1M">
+        <source>app.profile.salary.900K-1M</source>
+        <target>900K-1M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06498" resname="app.profile.salary.1-1.25M">
+        <source>app.profile.salary.1-1.25M</source>
+        <target>1-1.25M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06499" resname="app.profile.salary.1.25-1.5M">
+        <source>app.profile.salary.1.25-1.5M</source>
+        <target>1.25-1.5M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06500" resname="app.profile.chooseCurrency">
+        <source>app.profile.chooseCurrency</source>
+        <target>Choose currency</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06501" resname="app.profile.chooseSalary">
+        <source>app.profile.chooseSalary</source>
+        <target>Choose salary</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -161,6 +161,10 @@
           <source>app.reward</source>
           <target state="translated">Reward</target>
         </trans-unit>
+        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title">
+          <source>app.job.form.referral.title</source>
+          <target>Referral</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

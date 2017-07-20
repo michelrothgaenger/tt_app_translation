@@ -945,9 +945,9 @@
         <source>app.profile.alertForm.referrals</source>
         <target state="translated">Referral jobs only</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06481" resname="app.profile.salary.30-40K">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06481" resname="app.profile.salary.30-40K" approved="yes">
         <source>app.profile.salary.30-40K</source>
-        <target>30-40K</target>
+        <target state="translated">30-40K</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06482" resname="app.profile.salary.40-50K">
         <source>app.profile.salary.40-50K</source>

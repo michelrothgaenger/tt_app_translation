@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe3024" resname="app.employerJobCRUD.requiredErrorText" approved="yes">
         <source>app.employerJobCRUD.requiredErrorText</source>
-        <target state="translated">Dieses Feld wird benötigt.</target>
+        <target state="translated">Dieses Feld ist ein Pflichtfeld.</target>
       </trans-unit>
       <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>

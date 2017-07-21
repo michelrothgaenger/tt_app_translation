@@ -159,11 +159,15 @@
         </trans-unit>
         <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
           <source>app.reward</source>
-          <target state="translated">Reward</target>
+          <target state="translated">Use referral options?</target>
         </trans-unit>
         <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
           <source>app.job.form.referral.title</source>
           <target state="translated">Referral</target>
+        </trans-unit>
+        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint">
+          <source>app.job.reward.greaterThanConstraint</source>
+          <target>This value should be greater than or equal to {{ compared_value }}.</target>
         </trans-unit>
     </body>
   </file>

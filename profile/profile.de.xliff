@@ -1006,6 +1006,30 @@
         <source>app.profile.salary.700-800K</source>
         <target state="translated">700–800k</target>
       </trans-unit>
-      </body>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06496" resname="app.profile.salary.800-900K" approved="yes">
+        <source>app.profile.salary.800-900K</source>
+        <target state="translated">800–900k</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06497" resname="app.profile.salary.900K-1M" approved="yes">
+        <source>app.profile.salary.900K-1M</source>
+        <target state="translated">900k–1M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06498" resname="app.profile.salary.1-1.25M" approved="yes">
+        <source>app.profile.salary.1-1.25M</source>
+        <target state="translated">1–1,25M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06499" resname="app.profile.salary.1.25-1.5M" approved="yes">
+        <source>app.profile.salary.1.25-1.5M</source>
+        <target state="translated">1,25–1,5M</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06500" resname="app.profile.chooseCurrency" approved="yes">
+        <source>app.profile.chooseCurrency</source>
+        <target state="translated">Währung wählen</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06501" resname="app.profile.chooseSalary" approved="yes">
+        <source>app.profile.chooseSalary</source>
+        <target state="translated">Gehalt wählen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

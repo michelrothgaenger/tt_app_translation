@@ -278,6 +278,10 @@
         <source>app.job.isReferral.no</source>
         <target state="translated">Nein</target>
       </trans-unit>
+    <trans-unit id="80d3b156e2ad47789fd5e3834597cets" resname="app.job.section.popup.section.page2.accessDeniedError" approved="yes">
+        <source>app.job.section.popup.section.page2.accessDeniedError</source>
+        <target state="translated">Sie können sich nur einmal bewerben.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

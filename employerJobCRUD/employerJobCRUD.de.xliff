@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="b285825bb4d88f9ae11ab7866cd0900d" resname="app.department" approved="yes">
         <source>app.department</source>
-        <target state="translated">Abteilung</target>
+        <target state="translated">Bereich</target>
       </trans-unit>
       <trans-unit id="af0862700a3daf94a87d39563ec91fa3" resname="app.employmentType" approved="yes">
         <source>app.employmentType</source>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe3024" resname="app.employerJobCRUD.requiredErrorText" approved="yes">
         <source>app.employerJobCRUD.requiredErrorText</source>
-        <target state="translated">Dieses Feld wird benötigt.</target>
+        <target state="translated">Dieses Feld ist ein Pflichtfeld.</target>
       </trans-unit>
       <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
@@ -160,7 +160,11 @@
         </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
           <source>app.reward</source>
-          <target state="translated">Belohnung</target>
+          <target state="translated">Belohnung für empfehlende Person</target>
+        </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
+          <source>app.job.form.referral.title</source>
+          <target state="translated">Empfehlungsfunktion nutzen?</target>
         </trans-unit>
     </body>
   </file>

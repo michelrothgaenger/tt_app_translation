@@ -266,13 +266,13 @@
         <source>app.job.section.popup.closeButtonTitleSecondPart</source>
         <target state="translated">Close this window.</target>
       </trans-unit>
-      <trans-unit id="80d3b156e2ad47789fd5e3834597cess" resname="app.job.isReferral.yes">
+      <trans-unit id="80d3b156e2ad47789fd5e3834597cess" resname="app.job.isReferral.yes" approved="yes">
         <source>app.job.isReferral.yes</source>
-        <target>Yes</target>
+        <target state="translated">Yes</target>
       </trans-unit>
-      <trans-unit id="80d3b156e2ad47789fd5e3834597cete" resname="app.job.isReferral.no">
+      <trans-unit id="80d3b156e2ad47789fd5e3834597cete" resname="app.job.isReferral.no" approved="yes">
         <source>app.job.isReferral.no</source>
-        <target>No</target>
+        <target state="translated">No</target>
       </trans-unit>
     </body>
   </file>

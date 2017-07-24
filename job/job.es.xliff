@@ -267,8 +267,12 @@
       </trans-unit>
     <trans-unit id="80d3b156e2ad47789fd5e3834597cess" resname="app.job.isReferral.yes" approved="yes">
         <source>app.job.isReferral.yes</source>
-        <target state="translated">Yes</target>
+        <target state="translated">Sí</target>
       </trans-unit>
-      </body>
+      <trans-unit id="80d3b156e2ad47789fd5e3834597cete" resname="app.job.isReferral.no" approved="yes">
+        <source>app.job.isReferral.no</source>
+        <target state="translated">No</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

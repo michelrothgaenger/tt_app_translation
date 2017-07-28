@@ -25,6 +25,10 @@
                 <source>app.employerRegister.companyName.notBlank</source>
                 <target>Company name should not be blank.</target>
             </trans-unit>
+            <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.email.mismatch">
+                <source>app.email.mismatch</source>
+                <target>Contact Email mismatch.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

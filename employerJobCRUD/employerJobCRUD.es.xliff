@@ -160,12 +160,24 @@
         </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
           <source>app.reward</source>
-          <target state="translated">Recompensa</target>
+          <target state="translated">Recompensa para la persona que ha hecho la recomendación</target>
         </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
           <source>app.job.form.referral.title</source>
-          <target state="translated">Referencia</target>
+          <target state="translated">Deseas usar la función de recomendación?</target>
         </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint" approved="yes">
+        <source>app.job.reward.greaterThanConstraint</source>
+        <target state="translated">El valor ha de se mayor o igual que {{ compared_value }}.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
+        <source>app.email_confirmation</source>
+        <target state="translated">Confirma tu dirección de correo</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
+        <source>app.location</source>
+        <target state="translated">Lugar</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

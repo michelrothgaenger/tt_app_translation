@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="fr" datatype="plaintext" original="file.ext">
     <header>
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy">
+      <trans-unit id="25ab9243ea43f68f51f4ff9d596bd63e" resname="app.privacyPolicy" approved="yes">
         <source>app.privacyPolicy</source>
-        <target>Privacy Policy</target>
+        <target state="translated">Protection des données</target>
       </trans-unit>
-      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage">
+      <trans-unit id="dcf662b6f583fe533911a1f4a6f2734b" resname="app.metaDescriptionPrivacyPolicyPage" approved="yes">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target></target>
+        <target state="translated">Transport Talent prend la protection de vos données très au sérieux. Nous vous assurons la sureté de celles-ci lorsque vous vous connectez sur notre site.</target>
       </trans-unit>
-      <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat">
+      <trans-unit id="73cb8d2a3bfce05f534258f436980baf" resname="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="yes">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
-        <target>Transport Talent ApS, Company No. 37395048 ("TransportTalent") endeavors to ensure that the information that you submit to us remains private, and that it is used only for the purposes described below. We aim to provide a safe and secure experience for all of our users.</target>
+        <target state="translated">Transport Talent ApS, Company No. 37395048 ("TransportTalent") s'efforce de garantir la confidentialité des informations que vous nous soumettez, et que celles-ci soient uniquement utilisées à des fins...</target>
       </trans-unit>
-      <trans-unit id="cf791a78ee850cb83e8afbe692b7e276" resname="app.disclosureOfPersonalInformation">
+      <trans-unit id="cf791a78ee850cb83e8afbe692b7e276" resname="app.disclosureOfPersonalInformation" approved="yes">
         <source>app.disclosureOfPersonalInformation</source>
-        <target>Disclosure of personal information</target>
+        <target state="translated">Divulgation de données personnelles</target>
       </trans-unit>
       <trans-unit id="c071f5482b6d4befb3c89f7bdfaeeeb2" resname="app.informationMayBeGatheredFromYourRegistrationForm">
         <source>app.informationMayBeGatheredFromYourRegistrationForm</source>

@@ -53,18 +53,6 @@
         <source>app.employmentType</source>
         <target state="translated">Employment type</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
-        <source>app.city</source>
-        <target state="translated">City</target>
-      </trans-unit>
-      <trans-unit id="ea2f42eddfe215a8a9411a05f31fde55" resname="app.state" approved="yes">
-        <source>app.state</source>
-        <target state="translated">State</target>
-      </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
-        <source>app.country</source>
-        <target state="translated">Country</target>
-      </trans-unit>
       <trans-unit id="3fe03121e3b58897a77dbf9d04406728" resname="app.contractTerm" approved="yes">
         <source>app.contractTerm</source>
         <target state="translated">Contract term</target>
@@ -137,38 +125,46 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Please check fields again</target>
       </trans-unit>
-        <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title" approved="yes">
-          <source>app.profile.employer.jobs.title</source>
-          <target state="translated">%company% jobs</target>
-        </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029a" resname="app.profile.employer.jobs.description" approved="yes">
-          <source>app.profile.employer.jobs.description</source>
-          <target state="translated">Find below your company job listings</target>
-        </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title" approved="yes">
-          <source>app.profile.employer.jobs.meta.title</source>
-          <target state="translated">%company% jobs</target>
-        </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029b" resname="app.profile.employer.job.add" approved="yes">
-          <source>app.profile.employer.job.add</source>
-          <target state="translated">Add a job</target>
-        </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished" approved="yes">
-          <source>app.jobs.searchForm.unpublished</source>
-          <target state="translated">Show unpublished</target>
-        </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
-          <source>app.reward</source>
-          <target state="translated">Reward for referring person</target>
-        </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
-          <source>app.job.form.referral.title</source>
-          <target state="translated">Use referral option?</target>
-        </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint">
-          <source>app.job.reward.greaterThanConstraint</source>
-          <target>This value should be greater than or equal to {{ compared_value }}.</target>
-        </trans-unit>
+      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title" approved="yes">
+        <source>app.profile.employer.jobs.title</source>
+        <target state="translated">%company% jobs</target>
+      </trans-unit>
+      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029a" resname="app.profile.employer.jobs.description" approved="yes">
+        <source>app.profile.employer.jobs.description</source>
+        <target state="translated">Find below your company job listings</target>
+      </trans-unit>
+      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title" approved="yes">
+        <source>app.profile.employer.jobs.meta.title</source>
+        <target state="translated">%company% jobs</target>
+      </trans-unit>
+      <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029b" resname="app.profile.employer.job.add" approved="yes">
+        <source>app.profile.employer.job.add</source>
+        <target state="translated">Add a job</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished" approved="yes">
+        <source>app.jobs.searchForm.unpublished</source>
+        <target state="translated">Show unpublished</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
+        <source>app.reward</source>
+        <target state="translated">Reward for referring person</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
+        <source>app.job.form.referral.title</source>
+        <target state="translated">Use referral option?</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint">
+        <source>app.job.reward.greaterThanConstraint</source>
+        <target>This value should be greater than or equal to {{ compared_value }}.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation">
+        <source>app.email_confirmation</source>
+        <target>Confirm Contact Email</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location">
+        <source>app.location</source>
+        <target>Location</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

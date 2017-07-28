@@ -165,6 +165,10 @@
         <source>app.location</source>
         <target>Location</target>
       </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency">
+        <source>app.currency</source>
+        <target>Currency</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

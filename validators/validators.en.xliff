@@ -5,13 +5,29 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.password.greaterThanConstraint" >
-                <source>app.password.greaterThanConstraint</source>
-                <target>This value should be greater than or equal to {{ compared_value }}.</target>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.employerRegister.password.lengthConstraint" >
+                <source>app.employerRegister.password.lengthConstraint</source>
+                <target>This value is too short. It should have {{ limit }} characters or more.</target>
             </trans-unit>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg2" resname="app.password.mismatch">
-                <source>app.password.mismatch</source>
-                <target>Password mismatch</target>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg3" resname="app.employerRegister.lastName.notBlank">
+                <source>app.employerRegister.lastName.notBlank</source>
+                <target>Last name should not be blank.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg4" resname="app.employerRegister.firstName.notBlank">
+                <source>app.employerRegister.firstName.notBlank</source>
+                <target>First name should not be blank.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg5" resname="app.employerRegister.email.validation">
+                <source>app.employerRegister.email.validation</source>
+                <target>This value is not a valid email address.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg6" resname="app.employerRegister.companyName.notBlank">
+                <source>app.employerRegister.companyName.notBlank</source>
+                <target>Company name should not be blank.</target>
+            </trans-unit>
+            <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.email.mismatch">
+                <source>app.email.mismatch</source>
+                <target>Contact Email mismatch.</target>
             </trans-unit>
         </body>
     </file>

@@ -29,6 +29,10 @@
                 <source>app.email.mismatch</source>
                 <target>Contact Email mismatch.</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.job.reward.greaterThanConstraint" >
+                <source>app.job.reward.greaterThanConstraint</source>
+                <target>This value should be greater than or equal to {{ compared_value }}.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

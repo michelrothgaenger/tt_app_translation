@@ -159,8 +159,28 @@
         </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
           <source>app.reward</source>
-          <target state="translated">Belønning</target>
+          <target state="translated">Belønning til personen der anbefaler</target>
         </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
+        <source>app.job.form.referral.title</source>
+        <target state="translated">Brug referral mulighed?</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint" approved="yes">
+        <source>app.job.reward.greaterThanConstraint</source>
+        <target state="translated">Værdien skal være størrer eller lig med {{ compared_value }}.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
+        <source>app.email_confirmation</source>
+        <target state="translated">Bekræft Kontakt Email</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
+        <source>app.location</source>
+        <target state="translated">Lokation</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency" approved="yes">
+        <source>app.currency</source>
+        <target state="translated">Valuta</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

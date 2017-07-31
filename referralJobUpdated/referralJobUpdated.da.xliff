@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.referralJobUpdated.subject" approved="yes">
         <source>app.referralJobUpdated.subject</source>
-        <target state="translated">Referral award for %jobAdTitle% updateret</target>
+        <target state="translated">Henvisningsbonus for %jobAdTitle% updateret</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.referralJobUpdated" approved="yes">
         <source>app.referralJobUpdated</source>

@@ -153,21 +153,21 @@
         <source>app.job.form.referral.title</source>
         <target state="translated">Use referral option?</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint" approved="yes">
         <source>app.job.reward.greaterThanConstraint</source>
-        <target>This value should be greater than or equal to {{ compared_value }}.</target>
+        <target state="translated">This value must be greater than or equal to {{ compared_value }}.</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
         <source>app.email_confirmation</source>
-        <target>Confirm Contact Email</target>
+        <target state="translated">Confirm contact email</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
         <source>app.location</source>
-        <target>Location</target>
+        <target state="translated">Location</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency" approved="yes">
         <source>app.currency</source>
-        <target>Currency</target>
+        <target state="translated">Currency</target>
       </trans-unit>
     </body>
   </file>

@@ -168,7 +168,7 @@
         </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint" approved="yes">
         <source>app.job.reward.greaterThanConstraint</source>
-        <target state="translated">Der Wert muss größer oder gleich {{ compared_value }} sein.</target>
+        <target state="translated">Wert muss größer oder gleich {{ compared_value }} sein</target>
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
         <source>app.email_confirmation</source>
@@ -177,6 +177,10 @@
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
         <source>app.location</source>
         <target state="translated">Einsatzort</target>
+      </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency" approved="yes">
+        <source>app.currency</source>
+        <target state="translated">Währung</target>
       </trans-unit>
     </body>
   </file>

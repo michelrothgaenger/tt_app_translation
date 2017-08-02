@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.referralJobUpdated.subject">
+      <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.referralJobUpdated.subject" approved="yes">
         <source>app.referralJobUpdated.subject</source>
-        <target>Need the text for: Job referral was updated</target>
+        <target state="translated">Henvisningsbonus for %jobAdTitle% updateret</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.referralJobUpdated">
+      <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.referralJobUpdated" approved="yes">
         <source>app.referralJobUpdated</source>
-        <target>Need the text for:  Dear %firstName%,&lt;br&gt;&lt;br&gt; Reward for job referral for Company: %company% was updated. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Henvisningsbonusen fra din jobannonce %jobAdTitle% er blevet updateret. Henviseren vil nu modtage %referralReward% hvis du ansætter the henviste kandidat til denne stilling. Venligst kontakt os hvis du har nogen spørgsmål til denne process. &lt;br&gt;&lt;br&gt;Med Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
       </trans-unit>
     </body>
   </file>

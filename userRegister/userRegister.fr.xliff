@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="fr" datatype="plaintext" original="file.ext">
     <header>
@@ -79,8 +79,12 @@
       </trans-unit>
       <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
         <source>fos_user.password.mismatch</source>
-        <target></target>
+        <target/>
       </trans-unit>
-    </body>
+    <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+        <source>app.forgotPassword</source>
+        <target state="translated">Mot de passe oublié ?</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

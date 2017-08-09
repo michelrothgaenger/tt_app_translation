@@ -33,6 +33,10 @@
         <source>app.application.sender</source>
         <target state="translated">Transport Talent Recruiting Team</target>
       </trans-unit>
+      <trans-unit id="87b7b2fa0da0432a888b658d3445075c" resname="app.application.generalSalutation">
+        <source>app.application.generalSalutation</source>
+        <target>Dear user</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

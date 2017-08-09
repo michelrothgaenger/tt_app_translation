@@ -21,9 +21,9 @@
         <source>app.disclosureOfPersonalInformation</source>
         <target state="translated">Divulgation de données personnelles</target>
       </trans-unit>
-      <trans-unit id="c071f5482b6d4befb3c89f7bdfaeeeb2" resname="app.informationMayBeGatheredFromYourRegistrationForm">
+      <trans-unit id="c071f5482b6d4befb3c89f7bdfaeeeb2" resname="app.informationMayBeGatheredFromYourRegistrationForm" approved="yes">
         <source>app.informationMayBeGatheredFromYourRegistrationForm</source>
-        <target>Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form.</target>
+        <target state="translated">Les informations de votre (vos) formulaire(s) d'inscription et de votre utilisation du site et/ou des services en ligne ("cookies" inclus)  pourront être enregistrées.</target>
       </trans-unit>
       <trans-unit id="8afc45ab16498c263a94727fcc5dda2b" resname="app.theInformationGatheredMayBeUsedByTransportTalent">
         <source>app.theInformationGatheredMayBeUsedByTransportTalent</source>
@@ -133,9 +133,9 @@
         <source>app.termsPageAddress</source>
         <target>Transport Talent, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target>Email</target>
+        <target state="translated">E-mail</target>
       </trans-unit>
     </body>
   </file>

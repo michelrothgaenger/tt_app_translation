@@ -33,6 +33,10 @@
         <source>app.application.sender</source>
         <target state="translated">El equipo de Transpot Talent</target>
       </trans-unit>
+    <trans-unit id="87b7b2fa0da0432a888b658d3445075c" resname="app.application.generalSalutation" approved="yes">
+        <source>app.application.generalSalutation</source>
+        <target state="translated">Estimado usuario</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

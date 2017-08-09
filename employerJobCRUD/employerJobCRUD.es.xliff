@@ -182,6 +182,14 @@
         <source>app.currency</source>
         <target state="translated">Moneda</target>
       </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf035x" resname="app.employerJobCRUD.mismatchErrorText" approved="yes">
+        <source>app.employerJobCRUD.mismatchErrorText</source>
+        <target state="translated">Dirección de correo no coincide.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText" approved="yes">
+        <source>app.employerJobCRUD.rewardErrorText</source>
+        <target state="translated">El valor ha de ser igual o superior a %compared_value%.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

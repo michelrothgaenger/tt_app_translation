@@ -169,6 +169,14 @@
         <source>app.currency</source>
         <target state="translated">Currency</target>
       </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf035x" resname="app.employerJobCRUD.mismatchErrorText">
+        <source>app.employerJobCRUD.mismatchErrorText</source>
+        <target>Contact Email mismatch.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText">
+        <source>app.employerJobCRUD.rewardErrorText</source>
+        <target>This value must be greater than or equal to %compared_value%.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

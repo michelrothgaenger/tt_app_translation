@@ -182,6 +182,14 @@
         <source>app.currency</source>
         <target state="translated">Währung</target>
       </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf035x" resname="app.employerJobCRUD.mismatchErrorText" approved="yes">
+        <source>app.employerJobCRUD.mismatchErrorText</source>
+        <target state="translated">E-Mail-Adressen stimmen nicht überein.</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText" approved="yes">
+        <source>app.employerJobCRUD.rewardErrorText</source>
+        <target state="translated">Der Mindestwert für Belohnungen liegt bei %compared_value%.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

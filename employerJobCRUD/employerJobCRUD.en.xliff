@@ -177,6 +177,10 @@
         <source>app.employerJobCRUD.rewardErrorText</source>
         <target state="translated">The minimum referral award for your company is %compared_value%.</target>
       </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf037x" resname="app.employerJobCRUD.currency.placeholder">
+        <source>app.employerJobCRUD.currency.placeholder</source>
+        <target>Choose currency...</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

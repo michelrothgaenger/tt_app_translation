@@ -89,6 +89,10 @@
         <source>app.jobs.selectAutocompleteItem</source>
         <target state="translated">Please, choose item from the list to continue!</target>
       </trans-unit>
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb78" resname="app.jobs.edit">
+        <source>app.jobs.edit</source>
+        <target>EDIT</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

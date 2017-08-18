@@ -9,6 +9,34 @@
                 <source>app.password.mismatch</source>
                 <target>Passwörter stimmen nicht überein</target>
             </trans-unit>
+        <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.employerRegister.password.lengthConstraint" approved="yes">
+                <source>app.employerRegister.password.lengthConstraint</source>
+                <target state="translated">Das Passwort ist zu kurz. Es muss mind. {{ limit }} Zeichen haben.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg3" resname="app.employerRegister.lastName.notBlank" approved="yes">
+                <source>app.employerRegister.lastName.notBlank</source>
+                <target state="translated">Nachname darf nicht leer sein.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg4" resname="app.employerRegister.firstName.notBlank" approved="yes">
+                <source>app.employerRegister.firstName.notBlank</source>
+                <target state="translated">Vorname darf nicht leer sein.</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg5" resname="app.employerRegister.email.validation" approved="yes">
+                <source>app.employerRegister.email.validation</source>
+                <target state="translated">Ungültige E-Mail-Adresse</target>
+            </trans-unit>
+            <trans-unit id="93617b3c506bf51e8c5f55959631dfg6" resname="app.employerRegister.companyName.notBlank" approved="yes">
+                <source>app.employerRegister.companyName.notBlank</source>
+                <target state="translated">Unternehmen darf nicht leer sein.</target>
+            </trans-unit>
+            <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.email.mismatch" approved="yes">
+                <source>app.email.mismatch</source>
+                <target state="translated">E-Mail-Adressen stimmen nicht überein.</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.job.reward.greaterThanConstraint" approved="yes">
+                <source>app.job.reward.greaterThanConstraint</source>
+                <target state="translated">Der Mindestbetrag für Belohnungen liegt bei {{ compared_value }} für Ihr Unternehmen.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

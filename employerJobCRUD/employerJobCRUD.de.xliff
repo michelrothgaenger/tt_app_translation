@@ -79,7 +79,7 @@
       </trans-unit>
       <trans-unit id="7cab6c0e9dcd49439b971605d33979c5" resname="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
-        <target state="translated">Anzeige offline nehmen</target>
+        <target state="translated">Anzeige deaktivieren</target>
       </trans-unit>
       <trans-unit id="e5ec522d2e864df0a9a9514559315c89" resname="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
@@ -172,7 +172,7 @@
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
         <source>app.email_confirmation</source>
-        <target state="translated">E-Mail-Adresse bestätigen</target>
+        <target state="translated">E-Mail-Adresse wiederholen</target>
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
         <source>app.location</source>
@@ -189,6 +189,94 @@
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText" approved="yes">
         <source>app.employerJobCRUD.rewardErrorText</source>
         <target state="translated">Der Mindestwert für Belohnungen liegt bei %compared_value%.</target>
+      </trans-unit>
+    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf038x" resname="app.job.chooseCurrency" approved="yes">
+        <source>app.job.chooseCurrency</source>
+        <target state="translated">Währung</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf039x" resname="app.job.chooseSalary" approved="yes">
+        <source>app.job.chooseSalary</source>
+        <target state="translated">Gehalt</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf037x" resname="app.job.currency.label" approved="yes">
+        <source>app.job.currency.label</source>
+        <target state="translated">Währung</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x40" resname="app.job.salary.30-40K" approved="yes">
+        <source>app.job.salary.30-40K</source>
+        <target state="translated">30–40K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x41" resname="app.job.salary.40-50K" approved="yes">
+        <source>app.job.salary.40-50K</source>
+        <target state="translated">40–50K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x42" resname="app.job.salary.50-60K" approved="yes">
+        <source>app.job.salary.50-60K</source>
+        <target state="translated">50–60K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x43" resname="app.job.salary.60-70K" approved="yes">
+        <source>app.job.salary.60-70K</source>
+        <target state="translated">60–70K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x44" resname="app.job.salary.70-80K" approved="yes">
+        <source>app.job.salary.70-80K</source>
+        <target state="translated">70–80K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x45" resname="app.job.salary.80-90K" approved="yes">
+        <source>app.job.salary.80-90K</source>
+        <target state="translated">80–90K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x46" resname="app.job.salary.90-100K" approved="yes">
+        <source>app.job.salary.90-100K</source>
+        <target state="translated">90–100K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x47" resname="app.job.salary.100-125K" approved="yes">
+        <source>app.job.salary.100-125K</source>
+        <target state="translated">100–125K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x48" resname="app.job.salary.125-150K" approved="yes">
+        <source>app.job.salary.125-150K</source>
+        <target state="translated">125–150K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x49" resname="app.job.salary.200-300K" approved="yes">
+        <source>app.job.salary.200-300K</source>
+        <target state="translated">200–300K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x50" resname="app.job.salary.300-400K" approved="yes">
+        <source>app.job.salary.300-400K</source>
+        <target state="translated">300–400K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x51" resname="app.job.salary.400-500K" approved="yes">
+        <source>app.job.salary.400-500K</source>
+        <target state="translated">400–500K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x52" resname="app.job.salary.500-600K" approved="yes">
+        <source>app.job.salary.500-600K</source>
+        <target state="translated">500–600K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x53" resname="app.job.salary.600-700K" approved="yes">
+        <source>app.job.salary.600-700K</source>
+        <target state="translated">600–700K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x54" resname="app.job.salary.700-800K" approved="yes">
+        <source>app.job.salary.700-800K</source>
+        <target state="translated">700–800K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x55" resname="app.job.salary.800-900K" approved="yes">
+        <source>app.job.salary.800-900K</source>
+        <target state="translated">800–900K</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x56" resname="app.job.salary.900K-1M" approved="yes">
+        <source>app.job.salary.900K-1M</source>
+        <target state="translated">900K–1M</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x57" resname="app.job.salary.1-1.25M" approved="yes">
+        <source>app.job.salary.1-1.25M</source>
+        <target state="translated">1–1.25M</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x58" resname="app.job.salary.1.25-1.5M" approved="yes">
+        <source>app.job.salary.1.25-1.5M</source>
+        <target state="translated">1,25–1,5M</target>
       </trans-unit>
     </body>
   </file>

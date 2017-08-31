@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="268b1bcf742d46fbbdc5dd4bacae11a2" resname="app.profileCompleted.subject">
+        <source>app.profileCompleted.subject</source>
+        <target>New user in TT</target>
+      </trans-unit>
+      <trans-unit id="3cd0217ba4e24bc78ed1104ff5e0caa5" resname="app.profileCompleted.content">
+        <source>app.profileCompleted.content</source>
+        <target><![CDATA[The new user %firstName% %lastName% has completed their profile. <a href=%linkToProfile%>View profile</a>]]></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

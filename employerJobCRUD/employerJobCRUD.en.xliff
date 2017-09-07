@@ -257,17 +257,17 @@
         <source>app.job.salary.1.25-1.5M</source>
         <target state="translated">1.25–1.5M</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x59" resname="app.job.timezone.label">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x59" resname="app.job.timezone.label" approved="yes">
         <source>app.job.timezone.label</source>
-        <target>Timezone</target>
+        <target state="translated">Timezone</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x60" resname="app.job.timezone.placeholder">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x60" resname="app.job.timezone.placeholder" approved="yes">
         <source>app.job.timezone.placeholder</source>
-        <target>Choose timezone...</target>
+        <target state="translated">Choose timezone</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x61" resname="app.job.chooseSalary">
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x61" resname="app.job.chooseSalary" approved="yes">
         <source>app.job.chooseSalary</source>
-        <target>Choose salary...</target>
+        <target state="translated">Choose salary</target>
       </trans-unit>
     </body>
   </file>

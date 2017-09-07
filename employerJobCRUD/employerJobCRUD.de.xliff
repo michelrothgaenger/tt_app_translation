@@ -278,6 +278,14 @@
         <source>app.job.timezone.label</source>
         <target state="translated">Zeitzone</target>
       </trans-unit>
-      </body>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x60" resname="app.job.timezone.placeholder" approved="yes">
+        <source>app.job.timezone.placeholder</source>
+        <target state="translated">Zeitzone wählen</target>
+      </trans-unit>
+      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x61" resname="app.job.chooseSalary" approved="yes">
+        <source>app.job.chooseSalary</source>
+        <target state="translated">Gehalt wählen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

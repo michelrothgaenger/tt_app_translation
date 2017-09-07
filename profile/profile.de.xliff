@@ -954,6 +954,14 @@
         <source>app.profile.chooseSalary</source>
         <target state="translated">Gehalt wählen</target>
       </trans-unit>
+    <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
+        <source>app.timezone</source>
+        <target state="translated">Zeitzone</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06503" resname="app.profile.timezone.placeholder" approved="yes">
+        <source>app.profile.timezone.placeholder</source>
+        <target state="translated">Zeitzone wählen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

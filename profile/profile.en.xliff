@@ -957,9 +957,9 @@
         <source>app.timezone</source>
         <target>Timezone</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06503" resname="app.profile.timezone.placeholder">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06503" resname="app.profile.timezone.placeholder" approved="yes">
         <source>app.profile.timezone.placeholder</source>
-        <target>Choose timezone...</target>
+        <target state="translated">Choose timezone</target>
       </trans-unit>
     </body>
   </file>

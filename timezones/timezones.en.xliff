@@ -5,37 +5,37 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="1" resname="Europe">
+            <trans-unit id="1" resname="Europe" approved="yes">
                 <source>Europe</source>
-                <target>Europe</target>
+                <target state="translated">Europe</target>
             </trans-unit>
-            <trans-unit id="2" resname="Addis Ababa">
+            <trans-unit id="2" resname="Addis Ababa" approved="yes">
                 <source>Addis Ababa</source>
-                <target>Addis Ababa</target>
+                <target state="translated">Addis Ababa</target>
             </trans-unit>
-            <trans-unit id="3" resname="Berlin">
+            <trans-unit id="3" resname="Berlin" approved="yes">
                 <source>Berlin</source>
-                <target>Berlin</target>
+                <target state="translated">Berlin</target>
             </trans-unit>
-            <trans-unit id="4" resname="Copenhagen">
+            <trans-unit id="4" resname="Copenhagen" approved="yes">
                 <source>Copenhagen</source>
-                <target>Copenhagen</target>
+                <target state="translated">Copenhagen</target>
             </trans-unit>
-            <trans-unit id="5" resname="London">
+            <trans-unit id="5" resname="London" approved="yes">
                 <source>London</source>
-                <target>London</target>
+                <target state="translated">London</target>
             </trans-unit>
-            <trans-unit id="6" resname="Madrid">
+            <trans-unit id="6" resname="Madrid" approved="yes">
                 <source>Madrid</source>
-                <target>Madrid</target>
+                <target state="translated">Madrid</target>
             </trans-unit>
-            <trans-unit id="7" resname="Africa">
+            <trans-unit id="7" resname="Africa" approved="yes">
                 <source>Africa</source>
-                <target>Africa</target>
+                <target state="translated">Africa</target>
             </trans-unit>
-            <trans-unit id="8" resname="Abidjan">
+            <trans-unit id="8" resname="Abidjan" approved="yes">
                 <source>Abidjan</source>
-                <target>Abidjan</target>
+                <target state="translated">Abidjan</target>
             </trans-unit>
             <trans-unit id="9" resname="Accra">
                 <source>Accra</source>

@@ -33,6 +33,10 @@
                 <source>app.job.reward.greaterThanConstraint</source>
                 <target state="translated">The minimum referral reward for your company is {{ compared_value }}.</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.employerRegister.companyName.alreadyUsed" >
+                <source>app.employerRegister.companyName.alreadyUsed</source>
+                <target>This company already has an account. Please contact the account owner to get access. A support ticket has been created for further support with this process.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

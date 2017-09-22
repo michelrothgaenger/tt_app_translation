@@ -37,9 +37,9 @@
                 <source>app.employerRegister.companyName.alreadyUsed</source>
                 <target state="translated">This company already has an account. Please contact the account owner to get access. A support ticket has been created for further support with this process.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag5" resname="app.applyPopup.message.notBlank" >
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag5" resname="app.applyPopup.message.notBlank" approved="yes">
                 <source>app.applyPopup.message.notBlank</source>
-                <target>Please enter a message to continue.</target>
+                <target state="translated">Please enter a message to continue.</target>
             </trans-unit>
         </body>
     </file>

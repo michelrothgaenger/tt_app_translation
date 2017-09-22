@@ -953,9 +953,9 @@
         <source>app.profile.chooseSalary</source>
         <target state="translated">Choose salary</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
         <source>app.timezone</source>
-        <target>Timezone</target>
+        <target state="translated">Timezone</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06503" resname="app.profile.timezone.placeholder" approved="yes">
         <source>app.profile.timezone.placeholder</source>

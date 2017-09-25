@@ -45,9 +45,9 @@
                 <source>app.applyPopup.message.notBlank</source>
                 <target state="translated">Zum Fortfahren bitte eine Nachricht eingeben.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag6" resname="app.registerForm.csrf.notValid" >
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag6" resname="app.registerForm.csrf.notValid" approved="yes">
                 <source>app.registerForm.csrf.notValid</source>
-                <target>Die Seite ist veraltet. Bitte laden Sie sie neu und versuchen Sie es noch einmal.</target>
+                <target state="translated">Die Seite ist veraltet. Bitte laden Sie sie neu und versuchen Sie es noch einmal.</target>
             </trans-unit>
         </body>
     </file>

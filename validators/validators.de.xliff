@@ -37,6 +37,14 @@
                 <source>app.job.reward.greaterThanConstraint</source>
                 <target state="translated">Der Mindestbetrag für Belohnungen liegt bei {{ compared_value }} für Ihr Unternehmen.</target>
             </trans-unit>
+        <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.employerRegister.companyName.alreadyUsed" approved="yes">
+                <source>app.employerRegister.companyName.alreadyUsed</source>
+                <target state="translated">Dieses Unternehmen hat bereits einen Account. Bitte kontaktieren Sie den Accountinhaber, um Zugriff zu erhalten. Zur Unterstützung Ihres Anliegens haben wir gleichzeitig ein Supportticket für Sie angelegt.</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag5" resname="app.applyPopup.message.notBlank" approved="yes">
+                <source>app.applyPopup.message.notBlank</source>
+                <target state="translated">Zum Fortfahren Nachricht eingeben.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

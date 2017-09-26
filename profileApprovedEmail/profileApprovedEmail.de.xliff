@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="268b1bcf742d46fbbdc5dd4bacae11a2" resname="app.profileApprovedEmail.subject" approved="yes">
         <source>app.profileApprovedEmail.subject</source>
-        <target state="translated">Your profile has been approved</target>
+        <target state="translated">Ihr Profil wurde bestätigt</target>
       </trans-unit>
       <trans-unit id="3cd0217ba4e24bc78ed1104ff5e0caa5" resname="app.profileApprovedEmail.content" approved="yes">
         <source>app.profileApprovedEmail.content</source>
-        <target state="translated"><![CDATA[Your profile has been approved by %name%. We will contact you as soon as we have interesting offers for you. Please do not hesitate to get in touch with %name% at %email%, should you have further questions.]]></target>
+        <target state="translated">Ihr Profil wurde von %name% bestätigt. Sobald wir interessante für Sie haben, kommen wir wieder auf Sie zu. Bei Fragen erreichen Sie %name% per E-Mail unter %email%.</target>
       </trans-unit>
     </body>
   </file>

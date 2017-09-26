@@ -276,7 +276,7 @@
       </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x59" resname="app.job.timezone.label" approved="yes">
         <source>app.job.timezone.label</source>
-        <target state="translated">Zeitzone</target>
+        <target state="translated">Zeitzone (wenn der Veröffentlichtungszeitpunkt sich an einer anderen Zeitzone orientieren soll)</target>
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x60" resname="app.job.timezone.placeholder" approved="yes">
         <source>app.job.timezone.placeholder</source>

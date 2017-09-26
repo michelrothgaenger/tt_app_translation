@@ -259,11 +259,11 @@
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x59" resname="app.job.timezone.label" approved="yes">
         <source>app.job.timezone.label</source>
-        <target state="translated">Timezone</target>
+        <target state="translated">Time zone (if posting time shall be linked to another time zone than yours)</target>
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x60" resname="app.job.timezone.placeholder" approved="yes">
         <source>app.job.timezone.placeholder</source>
-        <target state="translated">Choose timezone</target>
+        <target state="translated">Choose time zone</target>
       </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf0x61" resname="app.job.chooseSalary" approved="yes">
         <source>app.job.chooseSalary</source>

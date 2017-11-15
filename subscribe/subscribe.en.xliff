@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="subscribe.form.candidate">
+        <source>subscribe.form.candidate</source>
+        <target>I'm a candidate</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="subscribe.form.employer">
+        <source>subscribe.form.employer</source>
+        <target>I'm an employer</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d4" resname="subscribe.form.email">
+        <source>subscribe.form.email</source>
+        <target>Your Email</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="subscribe.form.firstName">
+        <source>subscribe.form.firstName</source>
+        <target>Your first name</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="subscribe.form.lastName">
+        <source>subscribe.form.lastName</source>
+        <target>Your last name</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d7" resname="subscribe.form.submit">
+        <source>subscribe.form.submit</source>
+        <target>Sign up</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

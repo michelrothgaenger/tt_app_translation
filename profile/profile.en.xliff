@@ -961,9 +961,9 @@
         <source>app.profile.timezone.placeholder</source>
         <target state="translated">Choose timezone</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06504" resname="app.thisFieldNotValidUrl">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06504" resname="app.thisFieldNotValidUrl" approved="yes">
         <source>app.thisFieldNotValidUrl</source>
-        <target>The path must begin with "http://" or "https://"</target>
+        <target state="translated">The URL must begin with "http://" or "https://"</target>
       </trans-unit>
     </body>
   </file>

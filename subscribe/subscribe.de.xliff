@@ -5,29 +5,29 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="subscribe.form.candidate">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="subscribe.form.candidate" approved="yes">
         <source>subscribe.form.candidate</source>
-        <target>I'm a candidate</target>
+        <target state="translated">Ich bin Bewerber</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="subscribe.form.employer">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="subscribe.form.employer" approved="yes">
         <source>subscribe.form.employer</source>
-        <target>I'm an employer</target>
+        <target state="translated">Ich bin Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d4" resname="subscribe.form.email">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d4" resname="subscribe.form.email" approved="yes">
         <source>subscribe.form.email</source>
-        <target>Your Email</target>
+        <target state="translated">Ihre E-Mail-Adresse</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="subscribe.form.firstName">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="subscribe.form.firstName" approved="yes">
         <source>subscribe.form.firstName</source>
-        <target>Your first name</target>
+        <target state="translated">Ihr Vorname</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="subscribe.form.lastName">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="subscribe.form.lastName" approved="yes">
         <source>subscribe.form.lastName</source>
-        <target>Your last name</target>
+        <target state="translated">Ihr Nachname</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d7" resname="subscribe.form.submit">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d7" resname="subscribe.form.submit" approved="yes">
         <source>subscribe.form.submit</source>
-        <target>Sign up</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
     </body>
   </file>

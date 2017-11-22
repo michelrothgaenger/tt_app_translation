@@ -121,9 +121,9 @@
         <source>app.userRegister.signUpWithGoogle</source>
         <target state="translated">Sign up with Google</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn">
+      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn" approved="yes">
         <source>app.userRegister.signUpWithLinkedIn</source>
-        <target>Login with Linkedin</target>
+        <target state="translated">Login with LinkedIn</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>
@@ -235,7 +235,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">What is your area of expertise?</target>
+        <target state="translated">What is your specialty?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>

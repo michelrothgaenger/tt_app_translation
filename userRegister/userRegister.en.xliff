@@ -123,6 +123,10 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn">
         <source>app.userRegister.signUpWithLinkedIn</source>
+        <target>Register with Linkedin</target>
+      </trans-unit>
+      <trans-unit id="182ba41746874fac96eb5077d7170007" resname="app.userRegister.loginWithLinkedIn">
+        <source>app.userRegister.loginWithLinkedIn</source>
         <target>Login with Linkedin</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">

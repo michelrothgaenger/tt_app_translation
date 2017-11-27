@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="546a5af04dde4a99aae72c1acc07522d" resname="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated"><![CDATA[Dear %firstName%,<br><br>Your job alert has been set up successfully. The following specifics apply:<br><br>]]></target>
+        <target state="translated">Dear user,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="33be3460be0542c1b184c998e46ad36e" resname="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>

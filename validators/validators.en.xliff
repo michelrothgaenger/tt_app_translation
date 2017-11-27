@@ -41,6 +41,10 @@
                 <source>app.applyPopup.message.notBlank</source>
                 <target state="translated">Please enter a message to continue.</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag6" resname="app.registerForm.csrf.notValid" approved="yes">
+                <source>app.registerForm.csrf.notValid</source>
+                <target state="translated">Page is outdated, please reload and try again.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

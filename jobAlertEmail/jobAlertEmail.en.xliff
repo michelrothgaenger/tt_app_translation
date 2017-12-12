@@ -69,6 +69,18 @@
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Referral jobs</target>
       </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.jobAlert.daily.frequency">
+        <source>app.jobAlert.daily.frequency</source>
+        <target>Daily</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.jobAlert.weekly.frequency">
+        <source>app.jobAlert.weekly.frequency</source>
+        <target>Weekly</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.jobAlert.monthly.frequency">
+        <source>app.jobAlert.monthly.frequency</source>
+        <target>Monthly</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

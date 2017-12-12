@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98693" resname="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Job Agenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Suchagenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="546a5af04dde4a99aae72c1acc07522d" resname="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated">Lieber Nutzer,&lt;br&gt;&lt;br&gt;Ihr Job Agent wurde erfolgreich gespeichert. Nachstehend finden Sie die Einstellungen:&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Lieber Nutzer,&lt;br&gt;&lt;br&gt;Ihr Suchagent wurde erfolgreich gespeichert. Nachstehend finden Sie die Einstellungen:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="33be3460be0542c1b184c998e46ad36e" resname="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>

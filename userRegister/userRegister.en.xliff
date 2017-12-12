@@ -121,13 +121,13 @@
         <source>app.userRegister.signUpWithGoogle</source>
         <target state="translated">Sign up with Google</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn">
+      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn" approved="yes">
         <source>app.userRegister.signUpWithLinkedIn</source>
-        <target>Sign up with Linkedin</target>
+        <target state="translated">Sign up with Linkedin</target>
       </trans-unit>
-      <trans-unit id="182ba41746874fac96eb5077d7170007" resname="app.userRegister.loginWithLinkedIn">
+      <trans-unit id="182ba41746874fac96eb5077d7170007" resname="app.userRegister.loginWithLinkedIn" approved="yes">
         <source>app.userRegister.loginWithLinkedIn</source>
-        <target>Login with Linkedin</target>
+        <target state="translated">Log in with Linkedin</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>

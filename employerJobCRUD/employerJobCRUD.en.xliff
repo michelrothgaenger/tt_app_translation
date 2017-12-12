@@ -169,10 +169,6 @@
         <source>app.employerJobCRUD.mismatchErrorText</source>
         <target state="translated">Email addresses don't match.</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText" approved="yes">
-        <source>app.employerJobCRUD.rewardErrorText</source>
-        <target state="translated">The minimum referral award for your company is %compared_value%.</target>
-      </trans-unit>
       <trans-unit id="12f0ce713f44b910f3ed6dcc25cf038x" resname="app.job.chooseCurrency" approved="yes">
         <source>app.job.chooseCurrency</source>
         <target state="translated">Choose currency</target>

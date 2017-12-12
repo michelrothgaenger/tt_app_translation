@@ -186,10 +186,6 @@
         <source>app.employerJobCRUD.mismatchErrorText</source>
         <target state="translated">Las direcciones de correo no coinciden.</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf036x" resname="app.employerJobCRUD.rewardErrorText" approved="yes">
-        <source>app.employerJobCRUD.rewardErrorText</source>
-        <target state="translated">El valor mínimo para las recompensas es %compared_value%.</target>
-      </trans-unit>
     <trans-unit id="12f0ce713f44b910f3ed6dcc25cf038x" resname="app.job.chooseCurrency" approved="yes">
         <source>app.job.chooseCurrency</source>
         <target state="translated">Elige moneda</target>

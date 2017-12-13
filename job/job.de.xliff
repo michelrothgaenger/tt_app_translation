@@ -280,8 +280,76 @@
       </trans-unit>
     <trans-unit id="80d3b156e2ad47789fd5e3834597cets" resname="app.job.section.popup.section.page2.accessDeniedError" approved="yes">
         <source>app.job.section.popup.section.page2.accessDeniedError</source>
-        <target state="translated">Sie können sich nur einmal bewerben.</target>
+        <target state="translated">Sie können sich nur einmal pro Stellenausschreibung bewerben.</target>
       </trans-unit>
+    <trans-unit id="1" resname="app.job.section.main.rowPositionTitle" approved="yes">
+        <source>app.job.section.main.rowPositionTitle</source>
+        <target state="translated">Position</target>
+      </trans-unit>
+      <trans-unit id="2" resname="app.job.section.main.rowLocationTitle" approved="yes">
+        <source>app.job.section.main.rowLocationTitle</source>
+        <target state="translated">Ort</target>
+      </trans-unit>
+      <trans-unit id="3" resname="app.job.section.main.MapLinkTitle" approved="yes">
+        <source>app.job.section.main.MapLinkTitle</source>
+        <target state="translated">Karte</target>
+      </trans-unit>
+      <trans-unit id="4" resname="app.job.section.main.LearnMoreTitle" approved="yes">
+        <source>app.job.section.main.LearnMoreTitle</source>
+        <target state="translated">Mehr erfahren</target>
+      </trans-unit>
+      <trans-unit id="5" resname="app.job.section.main.ReferralRewardTitle" approved="yes">
+        <source>app.job.section.main.ReferralRewardTitle</source>
+        <target state="translated">Belohnung beim Weiterempfehlung</target>
+      </trans-unit>
+      <trans-unit id="6" resname="app.job.referral.Curr" approved="yes">
+        <source>app.job.referral.Curr</source>
+        <target state="translated">%currency%</target>
+      </trans-unit>
+      <trans-unit id="7" resname="app.job.referral.Val" approved="yes">
+        <source>app.job.referral.Val</source>
+        <target state="translated">%reward%</target>
+      </trans-unit>
+      <trans-unit id="8" resname="app.job.section.main.ShareJob" approved="yes">
+        <source>app.job.section.main.ShareJob</source>
+        <target state="translated">Stelle teilen</target>
+       </trans-unit>
+       <trans-unit id="9" resname="app.section.main.JobApplyButtonTitle" approved="yes">
+          <source>app.section.main.JobApplyButtonTitle</source>
+          <target state="translated">Bewerben</target>
+       </trans-unit>
+       <trans-unit id="10" resname="app.section.main.ShowLessTitle" approved="yes">
+          <source>app.section.main.ShowLessTitle</source>
+          <target state="translated">Weniger zeigen</target>
+       </trans-unit>
+       <trans-unit id="11" resname="app.section.main.ReferText" approved="yes">
+          <source>app.section.main.ReferText</source>
+          <target state="translated">Diese Stelle an einen Freund weiterempfehlen oder über soziale Netzwerke teilen, um bei erfolgreicher Vermittlung eine Prämie zu erhalten.</target>
+       </trans-unit>
+       <trans-unit id="12" resname="app.job.referral.showLess" approved="yes">
+           <source>app.job.referral.showLess</source>
+           <target state="translated">Weniger zeigen</target>
+       </trans-unit>
+       <trans-unit id="13" resname="app.job.FollowCompany" approved="yes">
+           <source>app.job.FollowCompany</source>
+           <target state="translated">Unternehmen folgen</target>
+       </trans-unit>
+       <trans-unit id="14" resname="app.job.section.left.headlineFurtherJobs" approved="yes">
+           <source>app.job.section.left.headlineFurtherJobs</source>
+           <target state="translated">Weitere Jobs bei</target>
+       </trans-unit>
+       <trans-unit id="15" resname="app.job.section.left.SeeAllJobsLink" approved="yes">
+          <source>app.job.section.left.SeeAllJobsLink</source>
+          <target state="translated">Zeige alle Jobs</target>
+        </trans-unit>
+        <trans-unit id="16" resname="app.job.button.saveToProfile" approved="yes">
+            <source>app.job.button.saveToProfile</source>
+            <target state="translated">Unternehmen folgen</target>
+        </trans-unit>
+        <trans-unit id="17" resname="app.job.button.savedToProfile" approved="yes">
+            <source>app.job.button.savedToProfile</source>
+            <target state="translated">Unternehmen nicht mehr folgen</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

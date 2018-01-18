@@ -5,21 +5,21 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.invitationEmailForExistingUser.firstPart">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.invitationEmailForExistingUser.firstPart" approved="yes">
         <source>app.invitationEmailForExistingUser.firstPart</source>
-        <target><![CDATA[Hi %userFirstName%, <br> %adminFirstName% %adminLastName% has added you as a user ]]></target>
+        <target state="translated">Hallo %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% hat Sie als Nutzer</target>
       </trans-unit>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c22" resname="app.invitationEmailForExistingUser.categoryPart">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c22" resname="app.invitationEmailForExistingUser.categoryPart" approved="yes">
         <source>app.invitationEmailForExistingUser.categoryPart</source>
-        <target>for %category% </target>
+        <target state="translated">für den Bereich %category%</target>
       </trans-unit>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c23" resname="app.invitationEmailForExistingUser.secondPart">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c23" resname="app.invitationEmailForExistingUser.secondPart" approved="yes">
         <source>app.invitationEmailForExistingUser.secondPart</source>
-        <target><![CDATA[for %company%. You can now manage all vacancies for your department %category% %company% via your dashboard. <br><br> %linkToDashboard% <br><br> If you have any questions regarding this process, please do not hesitate to contact us by replying to this email. <br><br> Kind regards, <br> Your team at Transport Talent]]></target>
+        <target state="translated">bei %company% hinzugefügt. Sie können jetzt alle Stellenausschreibungen für Ihre Abteilung (%category% bei %company%) über das Dashboard verwalten. &lt;br&gt;&lt;br&gt; %linkToDashboard% &lt;br&gt;&lt;br&gt; Bei Fragen zu diesem Prozess stehen wir Ihnen gernen zur Verfügung. Antworten Sie dazu einfach auf diese E-Mail. &lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; Ihr Team von Transport Talent</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="app.invitationEmailForExistingUser.subject">
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="app.invitationEmailForExistingUser.subject" approved="yes">
         <source>app.invitationEmailForExistingUser.subject</source>
-        <target>subject</target>
+        <target state="translated">Sie können jetzt Stellen für %company% bei Transport Talent verwalten</target>
       </trans-unit>
     </body>
   </file>

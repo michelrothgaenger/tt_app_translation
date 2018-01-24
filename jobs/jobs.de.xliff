@@ -93,6 +93,14 @@
         <source>app.jobs.edit</source>
         <target state="translated">BEARBEITEN</target>
       </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow">
+        <source>app.jobs.searchForm.filterTitleShow</source>
+        <target>Show Filter</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39bb" resname="app.jobs.searchForm.filterTitleHide">
+        <source>app.jobs.searchForm.filterTitleHide</source>
+        <target>Hide Filter</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

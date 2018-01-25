@@ -445,6 +445,42 @@
           <source>app.userRegister.step6.birthdayPlaceholder</source>
           <target state="translated">TT/MM/JJJJ</target>
         </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.register.profile.chooseSalary">
+        <source>app.register.profile.chooseSalary</source>
+        <target>Gehalt wählen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.register.profile.chooseCurrency">
+        <source>app.register.profile.chooseCurrency</source>
+        <target>Währung wählen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.register.profile.yourMessage">
+        <source>app.register.profile.yourMessage</source>
+        <target>Ihr Text</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.register.profile.salary.label">
+        <source>app.register.profile.salary.label</source>
+        <target>Your desired salary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.register.profile.currency.label">
+        <source>app.register.profile.currency.label</source>
+        <target>Currency</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.register.profile.email.label">
+        <source>app.register.profile.email.label</source>
+        <target>Your email address</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.register.profile.email.placeholder">
+        <source>app.register.profile.email.placeholder</source>
+        <target>email@domain.com</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.register.profile.dateOfLeave.label">
+        <source>app.register.profile.dateOfLeave.label</source>
+        <target>Your approximate date of leave</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.register.profile.dateOfLeave.placeholder">
+        <source>app.register.profile.dateOfLeave.placeholder</source>
+        <target>TT.DD.YYYY</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

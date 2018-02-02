@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">What is your area of expertise?</target>
+        <target state="translated">What is your specialty?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>
@@ -449,41 +449,41 @@
         <source>app.userRegister.flash.confirmEmail.confirmationTokenNotFound</source>
         <target state="translated">User with such confirmation token does not exist</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.register.profile.chooseSalary">
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.register.profile.chooseSalary" approved="yes">
         <source>app.register.profile.chooseSalary</source>
-        <target>Choose salary</target>
+        <target state="translated">Choose salary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.register.profile.chooseCurrency">
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.register.profile.chooseCurrency" approved="yes">
         <source>app.register.profile.chooseCurrency</source>
-        <target>Choose currency</target>
+        <target state="translated">Choose currency</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.register.profile.yourMessage">
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.register.profile.yourMessage" approved="yes">
         <source>app.register.profile.yourMessage</source>
-        <target>Your message</target>
+        <target state="translated">Your message</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.register.profile.salary.label">
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.register.profile.salary.label" approved="yes">
         <source>app.register.profile.salary.label</source>
-        <target>Your desired salary</target>
+        <target state="translated">Your desired salary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.register.profile.currency.label">
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.register.profile.currency.label" approved="yes">
         <source>app.register.profile.currency.label</source>
-        <target>Currency</target>
+        <target state="translated">Currency</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.register.profile.email.label">
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.register.profile.email.label" approved="yes">
         <source>app.register.profile.email.label</source>
-        <target>Your email address</target>
+        <target state="translated">Your email address</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.register.profile.email.placeholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.register.profile.email.placeholder" approved="yes">
         <source>app.register.profile.email.placeholder</source>
-        <target>email@domain.com</target>
+        <target state="translated">email@domain.com</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.register.profile.dateOfLeave.label">
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.register.profile.dateOfLeave.label" approved="yes">
         <source>app.register.profile.dateOfLeave.label</source>
-        <target>Your approximate date of leave</target>
+        <target state="translated">Your approximate date of leave</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.register.profile.dateOfLeave.placeholder">
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.register.profile.dateOfLeave.placeholder" approved="yes">
         <source>app.register.profile.dateOfLeave.placeholder</source>
-        <target>TT.DD.YYYY</target>
+        <target state="translated">DD.MM.YYYY</target>
       </trans-unit>
     </body>
   </file>

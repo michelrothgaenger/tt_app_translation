@@ -73,6 +73,10 @@
         <source>app.employerRegister.popup.cta</source>
         <target state="translated">Melden Sie sich einfach mit Ihrer E-Mail-Adresse an.</target>
       </trans-unit>
+    <trans-unit id="6680d24c091a48388818a0479cfe3011" resname="app.signUpStep1" approved="yes">
+        <source>app.signUpStep1</source>
+        <target>Registrieren</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

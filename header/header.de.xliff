@@ -153,6 +153,10 @@
         <source>app.header.userSubmenu.manageTeam</source>
         <target state="translated">Team verwalten</target>
       </trans-unit>
-    </body>
+    <trans-unit id="560d3041d629447aa0aebed7197b3b61a" resname="app.header.userSubmenu.ambassador" approved="yes">
+         <source>app.header.userSubmenu.ambassador</source>
+         <target state="translated">Botschafter</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -93,14 +93,26 @@
         <source>app.jobs.edit</source>
         <target state="translated">BEARBEITEN</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow" approved="yes">
         <source>app.jobs.searchForm.filterTitleShow</source>
-        <target>Show Filter</target>
+        <target state="translated">Filter anzeigen</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39bb" resname="app.jobs.searchForm.filterTitleHide">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39bb" resname="app.jobs.searchForm.filterTitleHide" approved="yes">
         <source>app.jobs.searchForm.filterTitleHide</source>
-        <target>Hide Filter</target>
+        <target state="translated">Filter verbergen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399a" resname="app.jobs.jobBlock.reward" approved="yes">
+        <source>app.jobs.jobBlock.reward</source>
+        <target state="translated">Bonus</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b" resname="app.jobs.jobBlock.claim" approved="yes">
+        <source>app.jobs.jobBlock.claim</source>
+      <target state="translated">Verdienen</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399c" resname="app.jobs.jobBlock.claimed" approved="yes">
+        <source>app.jobs.jobBlock.claimed</source>
+        <target state="translated">Verdient</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

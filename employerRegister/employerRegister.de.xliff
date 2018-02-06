@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name" approved="yes">
         <source>app.first_name</source>
-        <target state="translated">Vorname</target>
+        <target state="translated">Ihr Vorname</target>
       </trans-unit>
       <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name" approved="yes">
         <source>app.last_name</source>
-        <target state="translated">Nachname</target>
+        <target state="translated">Ihr Nachname</target>
       </trans-unit>
       <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
         <source>app.email</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Ihre E-Mail-Adresse</target>
       </trans-unit>
       <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name" approved="yes">
         <source>app.company_name</source>

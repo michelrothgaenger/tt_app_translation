@@ -481,6 +481,34 @@
         <source>app.register.profile.dateOfLeave.placeholder</source>
         <target state="translated">TT.MM.JJJJ</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header">
+        <source>app.register.profile.Header</source>
+        <target>Apply for this job</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700092" resname="app.register.profile.HeaderDescription">
+        <source>app.register.profile.HeaderDescription</source>
+        <target>Please fill in your email address, upload your CV and click on the button below if you want to apply for this job. We will forward your profile to the company.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700093" resname="app.register.profile.SubmitBtn">
+        <source>app.register.profile.SubmitBtn</source>
+        <target><![CDATA[Sign up & apply]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700094" resname="app.register.profile.SalaryLabel">
+        <source>app.register.profile.SalaryLabel</source>
+        <target>Your desired salary</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700095" resname="app.register.profile.CV.label">
+         <source>app.register.profile.CV.label</source>
+         <target>Upload CV</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700096" resname="app.register.profile.message.label">
+         <source>app.register.profile.message.label</source>
+         <target>Your message</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700097" resname="app.register.profile.CV.uploaded">
+         <source>app.register.profile.CV.uploaded</source>
+         <target>CV is uploaded</target>
+     </trans-unit>
+   </body>
   </file>
 </xliff>

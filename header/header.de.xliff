@@ -149,6 +149,10 @@
         <source>app.header.userSubmenu.applications</source>
         <target state="translated">Bewerbungen</target>
       </trans-unit>
+    <trans-unit id="481e633d68244091a0d4e0e2f6acab90" resname="app.header.userSubmenu.manageTeam" approved="yes">
+        <source>app.header.userSubmenu.manageTeam</source>
+        <target state="translated">Team verwalten</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

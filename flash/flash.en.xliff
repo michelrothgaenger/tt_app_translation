@@ -73,9 +73,9 @@
           <source>app.flash.applicationUndoHidden</source>
           <target state="translated">Application restored</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa817" resname="app.flash.registerAndApply">
+        <trans-unit id="0476595b0502266d74e5e621d2eaa817" resname="app.flash.registerAndApply" approved="yes">
           <source>app.flash.registerAndApply</source>
-          <target>need the text</target>
+          <target state="translated">Application submitted successfully!</target>
         </trans-unit>
     </body>
   </file>

@@ -113,6 +113,10 @@
         <source>app.jobs.edit</source>
         <target state="translated">EDIT</target>
       </trans-unit>
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705a" resname="app.allCompanies">
+        <source>app.allCompanies</source>
+        <target>All Companies</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

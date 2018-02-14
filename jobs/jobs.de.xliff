@@ -113,9 +113,9 @@
         <source>app.jobs.jobBlock.claimed</source>
         <target state="translated">Verdient</target>
       </trans-unit>
-      <trans-unit id="23804d3f6e856f01a327d79b0f1a705a" resname="app.allCompanies">
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705a" resname="app.allCompanies" approved="yes">
       <source>app.allCompanies</source>
-      <target>All Companies</target>
+      <target state="translated">Alle Unternehmen</target>
     </trans-unit>
       </body>
   </file>

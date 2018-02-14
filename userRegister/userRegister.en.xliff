@@ -239,7 +239,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">What is your specialty?</target>
+        <target state="translated">What is your speciality?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>
@@ -485,33 +485,33 @@
         <source>app.register.profile.dateOfLeave.placeholder</source>
         <target state="translated">DD.MM.YYYY</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header">
+      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header" approved="yes">
         <source>app.register.profile.Header</source>
-        <target>Apply for this job</target>
+        <target state="translated">Apply for this job</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700092" resname="app.register.profile.HeaderDescription">
+      <trans-unit id="382ba41746874fac96eb5077d71700092" resname="app.register.profile.HeaderDescription" approved="yes">
         <source>app.register.profile.HeaderDescription</source>
-        <target>Please fill in your email address, upload your CV and click on the button below if you want to apply for this job. We will forward your profile to the company.</target>
+        <target state="translated">Please fill in your email address, upload your CV and click on the button below if you want to apply for this job.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700093" resname="app.register.profile.SubmitBtn">
+      <trans-unit id="382ba41746874fac96eb5077d71700093" resname="app.register.profile.SubmitBtn" approved="yes">
         <source>app.register.profile.SubmitBtn</source>
-        <target><![CDATA[Sign up & apply]]></target>
+        <target state="translated"><![CDATA[Sign up & apply]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700094" resname="app.register.profile.SalaryLabel">
+      <trans-unit id="382ba41746874fac96eb5077d71700094" resname="app.register.profile.SalaryLabel" approved="yes">
         <source>app.register.profile.SalaryLabel</source>
-        <target>Your desired salary</target>
+        <target state="translated">Your salary expectations</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700095" resname="app.register.profile.CV.label">
+      <trans-unit id="382ba41746874fac96eb5077d71700095" resname="app.register.profile.CV.label" approved="yes">
          <source>app.register.profile.CV.label</source>
-         <target>Upload CV</target>
+         <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700096" resname="app.register.profile.message.label">
+      <trans-unit id="382ba41746874fac96eb5077d71700096" resname="app.register.profile.message.label" approved="yes">
          <source>app.register.profile.message.label</source>
-         <target>Your message</target>
+         <target state="translated">Your message</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700097" resname="app.register.profile.CV.uploaded">
+      <trans-unit id="382ba41746874fac96eb5077d71700097" resname="app.register.profile.CV.uploaded" approved="yes">
          <source>app.register.profile.CV.uploaded</source>
-         <target>CV is uploaded</target>
+         <target state="translated">CV uploaded</target>
      </trans-unit>
     </body>
   </file>

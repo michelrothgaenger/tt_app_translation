@@ -350,6 +350,10 @@
             <source>app.job.button.savedToProfile</source>
             <target state="translated">Unternehmen nicht mehr folgen</target>
         </trans-unit>
-    </body>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.referral.description" approved="yes">
+        <source>app.job.popup.referral.description</source>
+        <target state="translated">Diesen Job weiterempfehlen und Geld verdienen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

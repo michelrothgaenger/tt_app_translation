@@ -481,9 +481,9 @@
         <source>app.register.profile.dateOfLeave.placeholder</source>
         <target state="translated">TT.MM.JJJJ</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header">
+      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header" approved="yes">
         <source>app.register.profile.Header</source>
-        <target>Apply for this job</target>
+        <target state="translated">Für diesen Job bewerben</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d71700092" resname="app.register.profile.HeaderDescription">
         <source>app.register.profile.HeaderDescription</source>

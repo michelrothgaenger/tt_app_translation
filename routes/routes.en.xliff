@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="presentation_terms">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="presentation_terms" approved="yes">
         <source>presentation_terms</source>
-        <target>/terms-conditions</target>
+        <target state="translated">/terms-conditions</target>
       </trans-unit>
     </body>
   </file>

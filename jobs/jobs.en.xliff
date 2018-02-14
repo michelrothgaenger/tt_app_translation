@@ -117,9 +117,9 @@
         <source>app.allCompanies</source>
         <target state="translated">All Companies</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle">
+      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
          <source>app.jobs.popup.referral.shareTitle</source>
-         <target>Hi, checkout job "%title%".</target>
+         <target state="translated">Hi, checkout this job ad "%title%".</target>
       </trans-unit>
     </body>
   </file>

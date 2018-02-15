@@ -65,13 +65,13 @@
         <source>app.employer.currentJobs.title</source>
         <target state="translated">Aktuelle Jobs von %company%</target>
       </trans-unit>
-      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd7" resname="app.employer.popup.chooseCompany.text">
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd7" resname="app.employer.popup.chooseCompany.text" approved="yes">
         <source>app.employer.popup.chooseCompany.text</source>
-        <target>You want to access this section as team member</target>
+        <target state="translated">I want to access this section as a team member of</target>
       </trans-unit>
-      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd8" resname="app.employer.popup.chooseCompany.placeholder">
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd8" resname="app.employer.popup.chooseCompany.placeholder" approved="yes">
         <source>app.employer.popup.chooseCompany.placeholder</source>
-        <target>choose Company</target>
+        <target state="translated">Choose Company</target>
       </trans-unit>
     </body>
   </file>

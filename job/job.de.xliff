@@ -222,10 +222,6 @@
         <source>app.job.popup.referral.title</source>
         <target state="translated">Empfehlen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.refrral.description" approved="yes">
-        <source>app.job.popup.refrral.description</source>
-        <target state="translated">Empfehlen Sie diesen Job und verdienen Sie Geld</target>
-      </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
         <source>app.job.popup.referral.reward</source>
         <target state="translated">Belohnung</target>
@@ -300,7 +296,7 @@
       </trans-unit>
       <trans-unit id="5" resname="app.job.section.main.ReferralRewardTitle" approved="yes">
         <source>app.job.section.main.ReferralRewardTitle</source>
-        <target state="translated">Belohnung beim Weiterempfehlung</target>
+        <target state="translated">Bonus bei empfehlung</target>
       </trans-unit>
       <trans-unit id="6" resname="app.job.referral.Curr" approved="yes">
         <source>app.job.referral.Curr</source>
@@ -350,6 +346,10 @@
             <source>app.job.button.savedToProfile</source>
             <target state="translated">Unternehmen nicht mehr folgen</target>
         </trans-unit>
-    </body>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.referral.description" approved="yes">
+        <source>app.job.popup.referral.description</source>
+        <target state="translated">Diesen Job weiterempfehlen und Geld verdienen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

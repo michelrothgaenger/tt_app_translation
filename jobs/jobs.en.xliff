@@ -50,12 +50,12 @@
         <target state="translated">Filter</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow" approved="yes">
-         <source>app.jobs.searchForm.filterTitleShow</source>
-         <target state="translated">Show Filter</target>
+        <source>app.jobs.searchForm.filterTitleShow</source>
+        <target state="translated">Show filter</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39bb" resname="app.jobs.searchForm.filterTitleHide" approved="yes">
-          <source>app.jobs.searchForm.filterTitleHide</source>
-          <target state="translated">Hide Filter</target>
+        <source>app.jobs.searchForm.filterTitleHide</source>
+        <target state="translated">Hide filter</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3995" resname="app.jobs.searchForm.resetFilter" approved="yes">
         <source>app.jobs.searchForm.resetFilter</source>
@@ -84,6 +84,7 @@
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b" resname="app.jobs.jobBlock.claim" approved="yes">
         <source>app.jobs.jobBlock.claim</source>
         <target state="translated">Claim</target>
+      <target state="translated">Claim</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399c" resname="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>
@@ -112,6 +113,10 @@
       <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb78" resname="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>
         <target state="translated">EDIT</target>
+      </trans-unit>
+      <trans-unit id="23804d3f6e856f01a327d79b0f1a705a" resname="app.allCompanies" approved="yes">
+        <source>app.allCompanies</source>
+        <target state="translated">All Companies</target>
       </trans-unit>
     </body>
   </file>

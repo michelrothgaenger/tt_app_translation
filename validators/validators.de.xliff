@@ -49,6 +49,14 @@
                 <source>app.registerForm.csrf.notValid</source>
                 <target state="translated">Die Seite ist veraltet. Bitte laden Sie sie neu und versuchen Sie es noch einmal.</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag7" resname="app.registerForm.cv.mimeType" approved="yes">
+                <source>app.registerForm.cv.mimeType</source>
+                <target state="translated">Die Datei muss im PDF-Format sein.</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag8" resname="app.registerForm.cv.maxSize" approved="yes">
+                <source>app.registerForm.cv.maxSize</source>
+                <target state="translated">Dateigröße darf 15 MB nicht überschreiten.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="presentation_terms" approved="yes">
+        <source>presentation_terms</source>
+        <target state="translated">/terms-conditions</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -65,6 +65,14 @@
         <source>app.employer.currentJobs.title</source>
         <target state="translated">Aktuelle Jobs von %company%</target>
       </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd7" resname="app.employer.popup.chooseCompany.text" approved="yes">
+        <source>app.employer.popup.chooseCompany.text</source>
+        <target state="translated">Ich bin Mitarbeiter des folgenden Bereichs:</target>
+      </trans-unit>
+      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd8" resname="app.employer.popup.chooseCompany.placeholder" approved="yes">
+        <source>app.employer.popup.chooseCompany.placeholder</source>
+        <target state="translated">Unternehmen wählen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

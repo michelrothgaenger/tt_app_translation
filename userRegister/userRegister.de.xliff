@@ -445,6 +445,70 @@
           <source>app.userRegister.step6.birthdayPlaceholder</source>
           <target state="translated">TT/MM/JJJJ</target>
         </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170087" resname="app.register.profile.chooseSalary" approved="yes">
+        <source>app.register.profile.chooseSalary</source>
+        <target state="translated">Gehalt wählen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170088" resname="app.register.profile.chooseCurrency" approved="yes">
+        <source>app.register.profile.chooseCurrency</source>
+        <target state="translated">Währung wählen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.register.profile.yourMessage" approved="yes">
+        <source>app.register.profile.yourMessage</source>
+        <target state="translated">Ihr Text</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.register.profile.salary.label" approved="yes">
+        <source>app.register.profile.salary.label</source>
+        <target state="translated">Gehaltsvorstellung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.register.profile.currency.label" approved="yes">
+        <source>app.register.profile.currency.label</source>
+        <target state="translated">Währung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.register.profile.email.label" approved="yes">
+        <source>app.register.profile.email.label</source>
+        <target state="translated">Ihre E-Mail-Adresse</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.register.profile.email.placeholder" approved="yes">
+        <source>app.register.profile.email.placeholder</source>
+        <target state="translated">email@domain.com</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.register.profile.dateOfLeave.label" approved="yes">
+        <source>app.register.profile.dateOfLeave.label</source>
+        <target state="translated">Frühestes Startdatum</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.register.profile.dateOfLeave.placeholder" approved="yes">
+        <source>app.register.profile.dateOfLeave.placeholder</source>
+        <target state="translated">TT.MM.JJJJ</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700091" resname="app.register.profile.Header" approved="yes">
+        <source>app.register.profile.Header</source>
+        <target state="translated">Für diesen Job bewerben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700092" resname="app.register.profile.HeaderDescription" approved="yes">
+        <source>app.register.profile.HeaderDescription</source>
+        <target state="translated">Bitte geben Sie Ihre E-Mail-Adresse an und laden Sie Ihren Lebenslauf hoch. Über die Schaltfläche unten schicken Sie Ihre Bewerbung ab.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700093" resname="app.register.profile.SubmitBtn" approved="yes">
+        <source>app.register.profile.SubmitBtn</source>
+        <target state="translated">Registrieren &amp; bewerben</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700094" resname="app.register.profile.SalaryLabel" approved="yes">
+        <source>app.register.profile.SalaryLabel</source>
+        <target state="translated">Ihre Gehaltsvorstellungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700095" resname="app.register.profile.CV.label" approved="yes">
+         <source>app.register.profile.CV.label</source>
+         <target state="translated">Lebenslauf hochladen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700096" resname="app.register.profile.message.label" approved="yes">
+         <source>app.register.profile.message.label</source>
+         <target state="translated">Ihre Nachricht</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700097" resname="app.register.profile.CV.uploaded" approved="yes">
+         <source>app.register.profile.CV.uploaded</source>
+         <target state="translated">Lebenslauf hochgeladen</target>
+     </trans-unit>
+   </body>
   </file>
 </xliff>

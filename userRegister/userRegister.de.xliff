@@ -509,6 +509,10 @@
          <source>app.register.profile.CV.uploaded</source>
          <target state="translated">Lebenslauf hochgeladen</target>
      </trans-unit>
-   </body>
+   <trans-unit id="382ba41746874fac96eb5077d71700098" resname="app.register.profile.dateOfLeave.error" approved="yes">
+         <source>app.register.profile.dateOfLeave.error</source>
+         <target state="translated">Frühestes Startdatum</target>
+     </trans-unit>
+    </body>
   </file>
 </xliff>

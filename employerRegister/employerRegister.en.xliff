@@ -35,7 +35,11 @@
       </trans-unit>
       <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
         <source>app.signUp</source>
-        <target state="translated">Register</target>
+        <target state="translated">Finish registration</target>
+      </trans-unit>
+      <trans-unit id="00cf66e5655d640ef23b1d5858fe4742" resname="app.signUpStep1" approved="yes">
+          <source>app.signUpStep1</source>
+          <target state="translated">Register</target>
       </trans-unit>
       <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder" approved="yes">
         <source>app.employerRegister.popup.firstName.placeholder</source>

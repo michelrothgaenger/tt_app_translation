@@ -5,7 +5,6 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-
       <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
         <target state="translated">Job</target>
@@ -220,15 +219,19 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
         <source>app.job.popup.referral.reward</source>
-        <target state="translated">Reward</target>
+        <target state="translated">Referral reward</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
         <source>app.job.popup.referral.shareOn</source>
         <target state="translated">Share this on</target>
       </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f2a" resname="app.job.popup.referral.directLinkText" approved="yes">
+        <source>app.job.popup.referral.directLinkText</source>
+        <target state="translated">Or copy this url and paste it:</target>
+      </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
         <source>app.job.popup.referral.copy</source>
-        <target state="translated">Copy</target>
+        <target state="translated">Copy URL</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
         <source>app.job.popup.referral.gooLuck</source>

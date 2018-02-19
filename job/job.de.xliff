@@ -224,7 +224,7 @@
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
         <source>app.job.popup.referral.reward</source>
-        <target state="translated">Belohnung</target>
+        <target state="translated">Bonus</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
         <source>app.job.popup.referral.shareOn</source>
@@ -349,6 +349,10 @@
     <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.referral.description" approved="yes">
         <source>app.job.popup.referral.description</source>
         <target state="translated">Diesen Job weiterempfehlen und Geld verdienen</target>
+      </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f2a" resname="app.job.popup.referral.directLinkText" approved="yes">
+        <source>app.job.popup.referral.directLinkText</source>
+        <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
       </body>
   </file>

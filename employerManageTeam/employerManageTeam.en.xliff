@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.employerManageTeam.meta.title">
+        <source>app.employerManageTeam.meta.title</source>
+        <target>Manage team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f9" resname="app.employerManageTeam.meta.description">
+        <source>app.employerManageTeam.meta.description</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

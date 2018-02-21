@@ -49,9 +49,9 @@
         <source>app.jobs.searchForm.filterTitle</source>
         <target state="translated">Filter</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow" approved="yes">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39aa" resname="app.jobs.searchForm.filterTitleShow">
         <source>app.jobs.searchForm.filterTitleShow</source>
-        <target state="translated">Show filter</target>
+        <target>+ Use filter</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d39bb" resname="app.jobs.searchForm.filterTitleHide" approved="yes">
         <source>app.jobs.searchForm.filterTitleHide</source>

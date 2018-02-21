@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.employerManageTeam.meta.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.employerManageTeam.meta.title" approved="yes">
         <source>app.employerManageTeam.meta.title</source>
-        <target>Manage team</target>
+        <target state="translated">Manage team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b803606f9" resname="app.employerManageTeam.meta.description">
         <source>app.employerManageTeam.meta.description</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

@@ -117,6 +117,22 @@
         <source>app.employerManageTeam.popup.header.add</source>
         <target>Add</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q27" resname="app.employerManageTeam.deleteAlertPopup.text1">
+        <source>app.employerManageTeam.deleteAlertPopup.text1</source>
+        <target>You are about to delete</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q28" resname="app.employerManageTeam.deleteAlertPopup.text2">
+        <source>app.employerManageTeam.deleteAlertPopup.text2</source>
+        <target>Do you want to proceed?</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q29" resname="app.employerManageTeam.deleteAlertPopup.yesBtn">
+        <source>app.employerManageTeam.deleteAlertPopup.yesBtn</source>
+        <target>Yes delete</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q30" resname="app.employerManageTeam.deleteAlertPopup.rejectBtn">
+        <source>app.employerManageTeam.deleteAlertPopup.rejectBtn</source>
+        <target>No abort</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -9,129 +9,129 @@
         <source>app.employerManageTeam.meta.title</source>
         <target state="translated">Team verwalten</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q0" resname="app.employerManageTeam.header">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q0" resname="app.employerManageTeam.header" approved="yes">
         <source>app.employerManageTeam.header</source>
-        <target>Thank you, your profile is done. Now it's time to set up your company's organisation and team structure.</target>
+        <target state="translated">Vielen Dank! Ihr Profil ist nun vollständig. Legen Sie im nächsten Schritt die Unternehmens- und Teamstruktur an.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q1" resname="app.employerManageTeam.description">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q1" resname="app.employerManageTeam.description" approved="yes">
         <source>app.employerManageTeam.description</source>
-        <target>Fill in your company profile which will greatly help to attract future employees by telling them about their future employer. Remember, there is something and someone so make a first impression.</target>
+        <target state="translated">Qualifizierte Bewerber erreichen Sie am besten mit einem interessanten Unternehmensprofil. Es gibt Aufschluss über Ihr Unternehmen als zukünftiger Arbeitgeber.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q2" resname="app.employerManageTeam.addCompany.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q2" resname="app.employerManageTeam.addCompany.btn" approved="yes">
         <source>app.employerManageTeam.addCompany.btn</source>
-        <target>Add Company</target>
+        <target state="translated">Unternehmen hinzufügen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q3" resname="app.employerManageTeam.edit.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q3" resname="app.employerManageTeam.edit.btn" approved="yes">
         <source>app.employerManageTeam.edit.btn</source>
-        <target>Edit</target>
+        <target state="translated">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q4" resname="app.employerManageTeam.delete.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q4" resname="app.employerManageTeam.delete.btn" approved="yes">
         <source>app.employerManageTeam.delete.btn</source>
-        <target>Delete</target>
+        <target state="translated">Löschen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q5" resname="app.employerManageTeam.addCategory.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q5" resname="app.employerManageTeam.addCategory.btn" approved="yes">
         <source>app.employerManageTeam.addCategory.btn</source>
-        <target>Add Category</target>
+        <target state="translated">Kategorie hinzufügen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q6" resname="app.employerManageTeam.addTeamMember.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q6" resname="app.employerManageTeam.addTeamMember.btn" approved="yes">
         <source>app.employerManageTeam.addTeamMember.btn</source>
-        <target>Add team member</target>
+        <target state="translated">Teammitglied hinzufügen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q7" resname="app.employerManageTeam.popup.header.edit">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q7" resname="app.employerManageTeam.popup.header.edit" approved="yes">
         <source>app.employerManageTeam.popup.header.edit</source>
-        <target>Edit</target>
+        <target state="translated">Bearbeiten</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q8" resname="app.employerManageTeam.popup.company.companyName.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q8" resname="app.employerManageTeam.popup.company.companyName.field" approved="yes">
         <source>app.employerManageTeam.popup.company.companyName.field</source>
-        <target>Company Name</target>
+        <target state="translated">Name des Unternehmens</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606q9" resname="app.employerManageTeam.popup.company.address.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606q9" resname="app.employerManageTeam.popup.company.address.field" approved="yes">
         <source>app.employerManageTeam.popup.company.address.field</source>
-        <target>Address</target>
+        <target state="translated">Adresse</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q10" resname="app.employerManageTeam.popup.company.parent.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q10" resname="app.employerManageTeam.popup.company.parent.field" approved="yes">
         <source>app.employerManageTeam.popup.company.parent.field</source>
-        <target>Choose the company higher</target>
+        <target state="translated">Wählen Sie die Muttergesellschaft</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q11" resname="app.employerManageTeam.popup.company.placeholder">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q11" resname="app.employerManageTeam.popup.company.placeholder" approved="yes">
         <source>app.employerManageTeam.popup.company.placeholder</source>
-        <target>Select company</target>
+        <target state="translated">Unternehmen auswählen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q12" resname="app.employerManageTeam.popup.company.saveBtn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q12" resname="app.employerManageTeam.popup.company.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.company.saveBtn</source>
-        <target>Save Company</target>
+        <target state="translated">Unternehmen speichern</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q13" resname="app.employerManageTeam.popup.category.CategoryName.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q13" resname="app.employerManageTeam.popup.category.CategoryName.field" approved="yes">
         <source>app.employerManageTeam.popup.category.CategoryName.field</source>
-        <target>Category Name</target>
+        <target state="translated">Bezeichnung des Bereichs</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q14" resname="app.employerManageTeam.popup.category.placeholder">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q14" resname="app.employerManageTeam.popup.category.placeholder" approved="yes">
         <source>app.employerManageTeam.popup.category.placeholder</source>
-        <target>Select category</target>
+        <target state="translated">Bereich auswählen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q15" resname="app.employerManageTeam.popup.category.company.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q15" resname="app.employerManageTeam.popup.category.company.field" approved="yes">
         <source>app.employerManageTeam.popup.category.company.field</source>
-        <target>Select the company this applies to</target>
+        <target state="translated">Betreffendes Unternehmen auswählen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q16" resname="app.employerManageTeam.popup.category.companyHint">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q16" resname="app.employerManageTeam.popup.category.companyHint" approved="yes">
         <source>app.employerManageTeam.popup.category.companyHint</source>
-        <target>Choose the company/department above</target>
+        <target state="translated">Übergeordneten Bereich oder Unternehmen auswählen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q17" resname="app.employerManageTeam.popup.category.saveBtn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q17" resname="app.employerManageTeam.popup.category.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.category.saveBtn</source>
-        <target>Save Category</target>
+        <target state="translated">Bereich speichern</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q18" resname="app.employerManageTeam.popup.teamMember.email.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q18" resname="app.employerManageTeam.popup.teamMember.email.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.email.field</source>
-        <target>Email</target>
+        <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q19" resname="app.employerManageTeam.popup.teamMember.firstName.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q19" resname="app.employerManageTeam.popup.teamMember.firstName.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.firstName.field</source>
-        <target>First Name</target>
+        <target state="translated">Vorname</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q20" resname="app.employerManageTeam.popup.teamMember.lastName.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q20" resname="app.employerManageTeam.popup.teamMember.lastName.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.lastName.field</source>
-        <target>Last Name</target>
+        <target state="translated">Nachname</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q21" resname="app.employerManageTeam.popup.teamMember.NormalRole.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q21" resname="app.employerManageTeam.popup.teamMember.NormalRole.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.field</source>
-        <target>Normal</target>
+        <target state="translated">Normal</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q22" resname="app.employerManageTeam.popup.teamMember.NormalRole.description">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q22" resname="app.employerManageTeam.popup.teamMember.NormalRole.description" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.description</source>
-        <target>Can view, create and edit jobs, but not change the settings.</target>
+        <target state="translated">Kann Stellenanzeigen lesen, bearbeiten und erstellen, aber nicht die Einstellungen ändern.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q23" resname="app.employerManageTeam.popup.teamMember.AdminRole.field">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q23" resname="app.employerManageTeam.popup.teamMember.AdminRole.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.AdminlRole.field</source>
-        <target>Admin</target>
+        <target state="translated">Administrator</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q24" resname="app.employerManageTeam.popup.teamMember.AdminRole.description">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q24" resname="app.employerManageTeam.popup.teamMember.AdminRole.description" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.AdminRole.description</source>
-        <target>Can view, create and edit company profile, billing, and change settings for the team.</target>
+        <target state="translated">Kann Unternehmensprofile erstellen und bearbeiten, Rechnungen einsehen und Einstellungen für das Team ändern.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q25" resname="app.employerManageTeam.popup.teamMember.saveBtn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q25" resname="app.employerManageTeam.popup.teamMember.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.saveBtn</source>
-        <target>Save Team Member</target>
+        <target state="translated">Teammitglied speichern</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q26" resname="app.employerManageTeam.popup.header.add">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q26" resname="app.employerManageTeam.popup.header.add" approved="yes">
         <source>app.employerManageTeam.popup.header.add</source>
-        <target>Add</target>
+        <target state="translated">Hinzufügen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q27" resname="app.employerManageTeam.deleteAlertPopup.text1">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q27" resname="app.employerManageTeam.deleteAlertPopup.text1" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.text1</source>
-        <target>You are about to delete</target>
+        <target state="translated">Sie löschen</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q28" resname="app.employerManageTeam.deleteAlertPopup.text2">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q28" resname="app.employerManageTeam.deleteAlertPopup.text2" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.text2</source>
-        <target>Do you want to proceed?</target>
+        <target state="translated">Möchten Sie fortfahren?</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q29" resname="app.employerManageTeam.deleteAlertPopup.yesBtn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q29" resname="app.employerManageTeam.deleteAlertPopup.yesBtn" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.yesBtn</source>
-        <target>Yes delete</target>
+        <target state="translated">Ja, löschen.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q30" resname="app.employerManageTeam.deleteAlertPopup.rejectBtn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q30" resname="app.employerManageTeam.deleteAlertPopup.rejectBtn" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.rejectBtn</source>
-        <target>No abort</target>
+        <target state="translated">Nein, abbrechen.</target>
       </trans-unit>
     </body>
   </file>

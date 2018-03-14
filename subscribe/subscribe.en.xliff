@@ -29,6 +29,14 @@
         <source>subscribe.form.submit</source>
         <target state="translated">Sign up</target>
       </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d8" resname="subscribe.result.title">
+         <source>subscribe.result.title</source>
+         <target>Subscribe result title</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d9" resname="subscribe.result.text">
+         <source>subscribe.result.text</source>
+         <target>Subscribe result text goes here, subscribe result text goes here.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

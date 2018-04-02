@@ -29,6 +29,14 @@
         <source>subscribe.form.submit</source>
         <target state="translated">Anmelden</target>
       </trans-unit>
+    <trans-unit id="555a3f735ce942b9a66bc081f5a453d8" resname="subscribe.result.title" approved="yes">
+         <source>subscribe.result.title</source>
+         <target state="translated">Wir halten Sie auf dem Laufenden!</target>
+      </trans-unit>
+      <trans-unit id="555a3f735ce942b9a66bc081f5a453d9" resname="subscribe.result.text" approved="yes">
+         <source>subscribe.result.text</source>
+         <target state="translated">Danke, dass Sie sich für unseren Newsletter angemeldet haben. So bleiben Sie über alle wichtigen Neuigkeiten rund um Transport Talent, die Transport- und Logistikbranche sowie Karrierethemen informiert.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

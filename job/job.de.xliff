@@ -354,6 +354,14 @@
         <source>app.job.popup.referral.directLinkText</source>
         <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
+      <trans-unit id="18" resname="app.job.twitter.statusText">
+        <source>app.job.twitter.statusText</source>
+        <target>%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
+      </trans-unit>
+      <trans-unit id="19" resname="app.job.twitter.hashTags">
+        <source>app.job.twitter.hashTags</source>
+        <target>#logistik #transport #supplychain #jobs #stellenanzeige</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

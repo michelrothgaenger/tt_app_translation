@@ -362,6 +362,10 @@
         <source>app.job.twitter.hashTags</source>
         <target state="translated">#logistik #transport #supplychain #jobs #stellenanzeige</target>
       </trans-unit>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f28a" resname="app.job.referral.explanationTitleAmbassador" approved="yes">
+         <source>app.job.referral.explanationTitleAmbassador</source>
+         <target state="translated">Sie unterstützen Ihre Kontakte und erhalten %reward% + einen zusätzlichen Bonus von %ambassador_bonus% als Botschafter</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

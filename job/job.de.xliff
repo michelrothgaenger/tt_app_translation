@@ -354,13 +354,13 @@
         <source>app.job.popup.referral.directLinkText</source>
         <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
-      <trans-unit id="18" resname="app.job.twitter.statusText">
+      <trans-unit id="18" resname="app.job.twitter.statusText" approved="yes">
         <source>app.job.twitter.statusText</source>
-        <target>%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
+        <target state="translated">%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
       </trans-unit>
-      <trans-unit id="19" resname="app.job.twitter.hashTags">
+      <trans-unit id="19" resname="app.job.twitter.hashTags" approved="yes">
         <source>app.job.twitter.hashTags</source>
-        <target>#logistik #transport #supplychain #jobs #stellenanzeige</target>
+        <target state="translated">#logistik #transport #supplychain #jobs #stellenanzeige</target>
       </trans-unit>
       </body>
   </file>

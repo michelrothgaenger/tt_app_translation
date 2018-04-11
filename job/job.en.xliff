@@ -349,6 +349,14 @@
             <source>app.job.button.savedToProfile</source>
             <target state="translated">Unfollow company</target>
         </trans-unit>
+        <trans-unit id="18" resname="app.job.twitter.statusText" approved="yes">
+          <source>app.job.twitter.statusText</source>
+          <target state="translated">Wanted: %title%! Find all details at Transport Talent: %jobUrl%</target>
+        </trans-unit>
+        <trans-unit id="19" resname="app.job.twitter.hashTags" approved="yes">
+          <source>app.job.twitter.hashTags</source>
+          <target state="translated">#logistics #transport #supplychain #jobs #hiring #jobopening</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

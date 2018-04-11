@@ -351,10 +351,6 @@
           <source>app.employerServices.contactForm.callBack.message.placeholder</source>
           <target state="translated">Your Message</target>
         </trans-unit>
-        <trans-unit id="22" approved="yes">
-          <source>app.employerServices.contactForm.callBack.note</source>
-          <target state="translated">When we receive your message we will send you an email asking you to confirm.</target>
-        </trans-unit>
         <trans-unit id="23" approved="yes">
           <source>app.employerServices.contactForm.callBack.btn</source>
           <target state="translated">Send message</target>

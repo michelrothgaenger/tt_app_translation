@@ -349,10 +349,6 @@
           <source>app.employerServices.contactForm.callBack.message.placeholder</source>
           <target state="translated">Din Besked</target>
         </trans-unit>
-        <trans-unit id="22" approved="yes">
-          <source>app.employerServices.contactForm.callBack.note</source>
-          <target state="translated">Når vi modtager din besked, sender vi dig en email og beder dig om at bekræfte.</target>
-        </trans-unit>
         <trans-unit id="23" approved="yes">
           <source>app.employerServices.contactForm.callBack.btn</source>
           <target state="translated">Send besked</target>

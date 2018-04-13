@@ -954,7 +954,7 @@
         <source>app.profile.chooseSalary</source>
         <target state="translated">Gehalt wählen</target>
       </trans-unit>
-    <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
         <source>app.timezone</source>
         <target state="translated">Zeitzone</target>
       </trans-unit>
@@ -962,9 +962,13 @@
         <source>app.profile.timezone.placeholder</source>
         <target state="translated">Zeitzone wählen</target>
       </trans-unit>
-    <trans-unit id="065200146c1028b99b0d13e6cdf06504" resname="app.thisFieldNotValidUrl" approved="yes">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06504" resname="app.thisFieldNotValidUrl" approved="yes">
         <source>app.thisFieldNotValidUrl</source>
         <target state="translated">Die URL muss mit "http://" oder "https://" beginnen</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations">
+        <source>app.profile.editor.ambassadorLocations</source>
+        <target>Ambassador Locations</target>
       </trans-unit>
     </body>
   </file>

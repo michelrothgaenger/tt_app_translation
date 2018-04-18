@@ -513,10 +513,6 @@
          <source>app.register.profile.dateOfLeave.error</source>
          <target state="translated">Frühestes Startdatum</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.userRegister.step7.salaryExpectations.placeholder">
-        <source>app.userRegister.step7.salaryExpectations.placeholder</source>
-        <target>Gehalt wählen</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>

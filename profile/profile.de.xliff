@@ -970,6 +970,26 @@
         <source>app.profile.editor.ambassadorLocations</source>
         <target>Ambassador Locations</target>
       </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories">
+        <source>app.notification.causes.noJobCategories</source>
+        <target>BEVORZUGTE TÄTIGKEITSFELDER</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations">
+        <source>app.notification.causes.noLocations</source>
+        <target>BEVORZUGTE ARBEITSORTE</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity">
+        <source>app.notification.causes.inactivity</source>
+        <target>INACTIVITY</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount">
+        <source>app.notification.causes.notConfirmedAccount</source>
+        <target>NICHT BESTÄTIGT</target>
+      </trans-unit>
+      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV">
+        <source>app.notification.causes.noCV</source>
+        <target state="translated">LEBENSLAUF</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

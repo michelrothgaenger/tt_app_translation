@@ -149,17 +149,17 @@
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Manage your company profile.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6a" resname="app.profile.dashboard.ambassador.tile.title">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6a" resname="app.profile.dashboard.ambassador.tile.title" approved="yes">
          <source>app.profile.dashboard.ambassador.tile.title</source>
-         <target>Ambassador</target>
+         <target state="translated">Ambassador</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6b" resname="app.profile.dashboard.ambassador.tile.description">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6b" resname="app.profile.dashboard.ambassador.tile.description" approved="yes">
          <source>app.profile.dashboard.ambassador.tile.description</source>
-         <target>Ambassador text</target>
+         <target state="translated">Manage your ambassador profile.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6c" resname="app.profile.editor.ambassadorLocations">
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6c" resname="app.profile.editor.ambassadorLocations" approved="yes">
          <source>app.profile.editor.ambassadorLocations</source>
-         <target>Ambassador locations text</target>
+         <target state="translated">Locations you can recommend candidates for</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
         <source>app.or</source>
@@ -981,23 +981,23 @@
         <source>app.profile.editor.ambassadorLocations</source>
         <target>Ambassador Locations</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories" approved="yes">
         <source>app.notification.causes.noJobCategories</source>
-        <target>PREFERRED JOB CATEGORIES</target>
+        <target state="translated">PREFERRED JOB CATEGORIES</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations" approved="yes">
         <source>app.notification.causes.noLocations</source>
-        <target>PREFERRED REGIONS &amp; COUNTRIES</target>
+        <target state="translated">PREFERRED REGIONS &amp; COUNTRIES</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity" approved="yes">
         <source>app.notification.causes.inactivity</source>
-        <target>INACTIVITY</target>
+        <target state="translated">INACTIVITY</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount" approved="yes">
         <source>app.notification.causes.notConfirmedAccount</source>
-        <target>NOT CONFIRMED</target>
+        <target state="translated">NOT CONFIRMED</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV" approved="yes">
         <source>app.notification.causes.noCV</source>
         <target state="translated">CV</target>
       </trans-unit>

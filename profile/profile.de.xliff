@@ -966,30 +966,38 @@
         <source>app.thisFieldNotValidUrl</source>
         <target state="translated">Die URL muss mit "http://" oder "https://" beginnen</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations" approved="yes">
         <source>app.profile.editor.ambassadorLocations</source>
-        <target>Ambassador Locations</target>
+        <target state="translated">Standorte, für welche Sie Kandidaten empfehlen können</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories" approved="yes">
         <source>app.notification.causes.noJobCategories</source>
-        <target>BEVORZUGTE TÄTIGKEITSFELDER</target>
+        <target state="translated">BEVORZUGTE TÄTIGKEITSFELDER</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations" approved="yes">
         <source>app.notification.causes.noLocations</source>
-        <target>BEVORZUGTE ARBEITSORTE</target>
+        <target state="translated">BEVORZUGTE ARBEITSORTE</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity" approved="yes">
         <source>app.notification.causes.inactivity</source>
-        <target>INACTIVITY</target>
+        <target state="translated">INAKTIVITÄT</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount" approved="yes">
         <source>app.notification.causes.notConfirmedAccount</source>
-        <target>NICHT BESTÄTIGT</target>
+        <target state="translated">NUTZERKONTO NICHT BESTÄTIGT</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV" approved="yes">
         <source>app.notification.causes.noCV</source>
-        <target state="translated">LEBENSLAUF</target>
+        <target state="translated">IHR LEBENSLAUF</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6a" resname="app.profile.dashboard.ambassador.tile.title" approved="yes">
+         <source>app.profile.dashboard.ambassador.tile.title</source>
+         <target state="translated">Botschafter</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6b" resname="app.profile.dashboard.ambassador.tile.description" approved="yes">
+         <source>app.profile.dashboard.ambassador.tile.description</source>
+         <target state="translated">Verwaltungen Sie Ihr Profil als Botschafter.</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

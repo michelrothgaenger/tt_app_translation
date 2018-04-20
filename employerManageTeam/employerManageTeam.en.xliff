@@ -133,9 +133,9 @@
         <source>app.employerManageTeam.deleteAlertPopup.rejectBtn</source>
         <target state="translated">No, abort.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360q31" resname="app.employerManageTeam.popup.delete.yourself">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360q31" resname="app.employerManageTeam.popup.delete.yourself" approved="yes">
         <source>app.employerManageTeam.popup.delete.yourself</source>
-        <target>yourself</target>
+        <target state="translated">yourself</target>
       </trans-unit>
     </body>
   </file>

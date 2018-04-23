@@ -366,6 +366,10 @@
          <source>app.job.referral.explanationTitleAmbassador</source>
          <target state="translated">Sie unterstützen Ihre Kontakte und erhalten %reward% + einen zusätzlichen Bonus von %ambassador_bonus% als Botschafter</target>
       </trans-unit>
-      </body>
+      <trans-unit id="20" resname="app.job.edit" approved="yes">
+          <source>app.job.edit</source>
+          <target state="translated">Bearbeiten</target>
+        </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -77,6 +77,10 @@
             <source>app.flash.registerAndApply</source>
             <target state="translated">Bewerbung erfolgreich versandt!</target>
         </trans-unit>
+        <trans-unit id="0476595b0502266d74e5e621d2eaa818" resname="app.flashMessageJobPostLater">
+            <source>app.flashMessageJobPostLater</source>
+            <target>Your job ad will be posted on %date% at %time%.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

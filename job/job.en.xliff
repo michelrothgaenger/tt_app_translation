@@ -361,6 +361,10 @@
           <source>app.job.twitter.hashTags</source>
           <target state="translated">#logistics #transport #supplychain #jobs #hiring #jobopening</target>
         </trans-unit>
+        <trans-unit id="20" resname="app.job.edit">
+          <source>app.job.edit</source>
+          <target>Edit</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

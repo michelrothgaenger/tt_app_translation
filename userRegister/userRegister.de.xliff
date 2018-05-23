@@ -51,11 +51,11 @@
       </trans-unit>
       <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target state="translated">Hallo %firstname%,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren, rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Michel Rothgaenger&lt;br&gt; Operativer Geschäftsführer&lt;br&gt;</target>
+        <target state="translated">Hallo %firstname%,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren, rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target state="translated">Lieber Nutzer,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Michel Rothgaenger&lt;br&gt; Operativer Geschäftsführer&lt;br&gt;</target>
+        <target state="translated">Lieber Nutzer,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
         <source>form.email</source>

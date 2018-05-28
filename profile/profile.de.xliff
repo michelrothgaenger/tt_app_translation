@@ -1009,6 +1009,7 @@
       <trans-unit id="382ba41746874fac96eb5077d7170196" resname="app.profile.editor.dateLeave">
         <source>app.profile.editor.dateLeave</source>
         <target>Frühestes Startdatum</target>
+      </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170197" resname="app.profile.profileVM.noDateLeave">
         <source>app.profile.profileVM.noDateLeave</source>
         <target>Date of leave is not specified</target>

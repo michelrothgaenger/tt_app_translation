@@ -1017,6 +1017,14 @@
         <source>app.profile.profileVM.noDateLeave</source>
         <target>Date of leave is not specified</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170198" resname="app.profile.dashboard.manageTeam.tile.title">
+        <source>app.profile.dashboard.manageTeam.tile.title</source>
+        <target>Manage Team</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170199" resname="app.profile.dashboard.manageTeam.tile.description">
+        <source>app.profile.dashboard.manageTeam.tile.description</source>
+        <target>Manage company's organisation and team structure</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

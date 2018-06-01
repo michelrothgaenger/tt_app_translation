@@ -193,13 +193,13 @@
         <source>app.userRegister.step2.agreementPart2</source>
         <target state="translated"><![CDATA[terms & conditions]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170021a" resname="app.userRegister.step2.agreementPart3">
+      <trans-unit id="382ba41746874fac96eb5077d7170021a" resname="app.userRegister.step2.agreementPart3" approved="yes">
         <source>app.userRegister.step2.agreementPart3</source>
-        <target><![CDATA[terms & conditions for recruiters]]></target>
+        <target state="translated"><![CDATA[terms & conditions for recruiters]]></target>
       </trans-unit>
-        <trans-unit id="382ba41746874fac96eb5077d7170021b" resname="app.userRegister.step2.agreementPart4">
+        <trans-unit id="382ba41746874fac96eb5077d7170021b" resname="app.userRegister.step2.agreementPart4" approved="yes">
         <source>app.userRegister.step2.agreementPart4</source>
-        <target>and the privacy policy</target>
+        <target state="translated">and the privacy policy</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton" approved="yes">
         <source>app.userRegister.step2.signUpButton</source>

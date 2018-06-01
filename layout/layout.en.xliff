@@ -41,6 +41,10 @@
         <source>app.joinNow</source>
         <target state="translated">JOIN NOW</target>
       </trans-unit>
+      <trans-unit id="073200146c1028b99b0d13e6cdf06174" resname="app.layout.chat.title" approved="yes">
+        <source>app.layout.chat.title</source>
+        <target state="translated">Ask your questions in our live chat</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

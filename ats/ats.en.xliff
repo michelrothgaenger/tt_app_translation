@@ -9,6 +9,22 @@
         <source>app.ats.meta.title</source>
         <target state="translated">ATS</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder">
+        <source>app.ats.searchInput.placeholder</source>
+        <target>Search by Candidate / Position</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360890" resname="app.ats.aside.settings">
+        <source>app.ats.aside.settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360891" resname="app.ats.aside.check.title">
+        <source>app.ats.aside.check.title</source>
+        <target>Select all</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360892" resname="app.ats.aside.check.info">
+        <source>app.ats.aside.check.info</source>
+        <target><![CDATA[... & change selected status to ]]></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -513,6 +513,14 @@
          <source>app.register.profile.dateOfLeave.error</source>
          <target state="translated">Frühestes Startdatum</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170021a" resname="app.userRegister.step2.agreementPart3" approved="yes">
+        <source>app.userRegister.step2.agreementPart3</source>
+        <target state="translated">Allgemeine Geschäftsbedingungen für Recruiter</target>
+      </trans-unit>
+        <trans-unit id="382ba41746874fac96eb5077d7170021b" resname="app.userRegister.step2.agreementPart4" approved="yes">
+        <source>app.userRegister.step2.agreementPart4</source>
+        <target state="translated">und Datenschutzerklärung</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

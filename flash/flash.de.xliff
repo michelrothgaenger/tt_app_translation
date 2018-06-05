@@ -81,6 +81,14 @@
             <source>app.flashMessageJobPostLater</source>
             <target state="translated">Ihre Stellenanzeige wird am %date% um %time% veröffentlicht.</target>
         </trans-unit>
+        <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98195" resname="app.flash.inactivityJob.deactivate">
+            <source>app.flash.inactivityJob.deactivate</source>
+            <target>Job was deactivated</target>
+        </trans-unit>
+        <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98196" resname="app.flash.inactivityJob.update">
+            <source>app.flash.inactivityJob.update</source>
+            <target>Job was updated</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

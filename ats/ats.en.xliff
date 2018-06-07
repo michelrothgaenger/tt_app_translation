@@ -25,6 +25,38 @@
         <source>app.ats.aside.check.info</source>
         <target><![CDATA[... & change selected status to ]]></target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360893" resname="app.ats.popup.save.btn">
+        <source>app.ats.popup.save.btn</source>
+        <target>Save</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro">
+        <source>app.ats.popup.info.name.intro</source>
+        <target>I hereby confirm taht we will employ </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro">
+        <source>app.ats.popup.info.job.intro</source>
+        <target> in our company for the position </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896" resname="app.ats.popup.info.end">
+        <source>app.ats.popup.info.end</source>
+        <target>. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label">
+        <source>app.ats.popup.salary.label</source>
+        <target>Salary</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label">
+        <source>app.ats.popup.currency.label</source>
+        <target>Currency</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label">
+        <source>app.ats.popup.start.date.label</source>
+        <target>Start Date</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label">
+        <source>app.ats.popup.upload.contract.label</source>
+        <target>Upload Contract</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

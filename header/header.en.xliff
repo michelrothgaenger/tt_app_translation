@@ -155,7 +155,11 @@
       </trans-unit>
       <trans-unit id="481e633d68244091a0d4e0e2f6acab90" resname="app.header.userSubmenu.manageTeam" approved="yes">
         <source>app.header.userSubmenu.manageTeam</source>
-        <target state="translated">Manage team</target>
+        <target state="translated">![CDATA[Company & Team]]</target>
+      </trans-unit>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab91" resname="app.header.userSubmenu.ats">
+        <source>app.header.userSubmenu.ats</source>
+        <target>ATS</target>
       </trans-unit>
     </body>
   </file>

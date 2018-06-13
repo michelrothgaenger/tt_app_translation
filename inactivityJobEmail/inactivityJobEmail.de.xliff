@@ -5,13 +5,24 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.inactivityJobEmail.subject">
+      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.inactivityJobEmail.subject" approved="yes">
         <source>app.inactivityJobEmail.subject</source>
-        <target>Inactivity job "%jobTitle%" for company "%companyName%"</target>
+        <target state="translated">Inaktive Stellenanzeige "%jobTitle%" für das Unternehmen "%companyName%"</target>
       </trans-unit>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.inactivityJobEmail.text">
+      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.inactivityJobEmail.text" approved="yes">
         <source>app.inactivityJobEmail.text</source>
-        <target>Dear, %firstName%, %confirmUrl%, %deactivateUrl%</target>
+        <target state="translated">Hallo %firstName% %lastName%,
+
+Ihre im Betreff genannte Anzeige ist bereits seit 30 Tagen online. Wir haben großes Interesse, dass unsere Nutzer stets aktuelle Angebote erhalten.
+
+Bitte klicken Sie hier, wenn die Anzeige weiterhin aktuell ist: %confirmUrl%
+
+Bitte klicken Sie hier, wenn die Anzeige deaktiviert werden soll: %deactivateUrl%
+
+Vielen Dank für Ihre Mitarbeit!
+
+Mit besten Grüßen,
+Ihr Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

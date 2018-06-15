@@ -1033,6 +1033,10 @@
         <source>app.profile.dashboard.manageTeam.tile.description</source>
         <target state="translated">Manage company's organisation and team structure</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170200" resname="app.profile.dashboard.welcomeText">
+        <source>app.profile.dashboard.welcomeText</source>
+        <target>Welcome </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

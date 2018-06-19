@@ -1030,22 +1030,26 @@
         <source>app.profile.dashboard.manageTeam.tile.description</source>
         <target state="translated">Unternehmen und Team verwalten</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170201" resname="app.employer.disabledField.companyContactInfo.noAdminRole">
+      <trans-unit id="382ba41746874fac96eb5077d7170201" resname="app.employer.disabledField.companyContactInfo.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyContactInfo.noAdminRole</source>
-        <target>Company contact info editing is disabled since your account has no rights.</target>
+        <target state="translated">Die Bearbeitung der Firmenkontaktdaten ist deaktiviert, da Ihr Konto keine Rechte hat.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170202" resname="app.employer.disabledField.companyBranding.noAdminRole">
+      <trans-unit id="382ba41746874fac96eb5077d7170202" resname="app.employer.disabledField.companyBranding.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyBranding.noAdminRole</source>
-        <target>Company branding editing is disabled since your account has no rights.</target>
+        <target state="translated">Die Bearbeitung des Firmenlogos ist deaktiviert, da Ihr Konto keine Rechte hat.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170203" resname="app.employer.disabledField.companyAddress.noAdminRole">
+      <trans-unit id="382ba41746874fac96eb5077d7170203" resname="app.employer.disabledField.companyAddress.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyAddress.noAdminRole</source>
-        <target>Company address editing is disabled since your account has no rights.</target>
+        <target state="translated">Die Bearbeitung der Firmenadresse ist deaktiviert, da Ihr Konto keine Rechte hat.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170204" resname="app.employer.disabledField.companyInformation.noAdminRole">
+      <trans-unit id="382ba41746874fac96eb5077d7170204" resname="app.employer.disabledField.companyInformation.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyInformation.noAdminRole</source>
-        <target>Company information editing is disabled since your account has no rights.</target>
+        <target state="translated">Die Bearbeitung von Firmeninformationen ist deaktiviert, da Ihr Konto keine Rechte hat.</target>
       </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170200" resname="app.profile.dashboard.welcomeText" approved="yes">
+        <source>app.profile.dashboard.welcomeText</source>
+        <target state="translated">Willkommen!</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

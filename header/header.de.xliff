@@ -151,12 +151,16 @@
       </trans-unit>
     <trans-unit id="481e633d68244091a0d4e0e2f6acab90" resname="app.header.userSubmenu.manageTeam" approved="yes">
         <source>app.header.userSubmenu.manageTeam</source>
-        <target state="translated">Team verwalten</target>
+        <target state="translated">Unternehmen &amp; Team verwalten</target>
       </trans-unit>
     <trans-unit id="560d3041d629447aa0aebed7197b3b61a" resname="app.header.userSubmenu.ambassador" approved="yes">
          <source>app.header.userSubmenu.ambassador</source>
          <target state="translated">Botschafter</target>
       </trans-unit>
-      </body>
+      <trans-unit id="481e633d68244091a0d4e0e2f6acab91" resname="app.header.userSubmenu.ats" approved="yes">
+        <source>app.header.userSubmenu.ats</source>
+        <target state="translated">ATS</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

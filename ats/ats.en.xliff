@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro">
         <source>app.ats.popup.info.name.intro</source>
-        <target>I hereby confirm taht we will employ </target>
+        <target>I hereby confirm that we will employ </target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro">
         <source>app.ats.popup.info.job.intro</source>
@@ -128,6 +128,38 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360917" resname="app.ats.settings.main.footer.text">
         <source>app.ats.settings.main.footer.text</source>
         <target>Last changed by: %user%, %date%, %time%</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360918" resname="app.ats.reject.popup.title">
+        <source>app.ats.reject.popup.title</source>
+        <target>Please confirm</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360919" resname="app.ats.reject.popup.subtitle">
+        <source>app.ats.reject.popup.subtitle</source>
+        <target>You are sure you want to reject this applicant?</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text">
+        <source>app.ats.reject.popup.text</source>
+        <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.reject.popup.confirm.label.part1">
+        <source>app.ats.reject.popup.confirm.label.part1</source>
+        <target>Please type in </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921a" resname="app.ats.reject.popup.confirm.label.part2">
+        <source>app.ats.reject.popup.confirm.label.part2</source>
+        <target>reject </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921b" resname="app.ats.reject.popup.confirm.label.part3">
+        <source>app.ats.reject.popup.confirm.label.part3</source>
+        <target>in the field to confirm and click the button below.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360922" resname="app.ats.reject.popup.confirm.input.placeholder">
+        <source>app.ats.reject.popup.confirm.input.placeholder</source>
+        <target>Confirmation</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360923" resname="app.ats.reject.popup.">
+        <source>app.ats.reject.popup.</source>
+        <target>Reject applicant</target>
       </trans-unit>
     </body>
   </file>

@@ -1033,9 +1033,25 @@
         <source>app.profile.dashboard.manageTeam.tile.description</source>
         <target state="translated">Manage company's organisation and team structure</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170200" resname="app.profile.dashboard.welcomeText">
+      <trans-unit id="382ba41746874fac96eb5077d7170200" resname="app.profile.dashboard.welcomeText" approved="yes">
         <source>app.profile.dashboard.welcomeText</source>
-        <target>Welcome </target>
+        <target state="translated">Welcome </target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170201" resname="app.employer.disabledField.companyContactInfo.noAdminRole" approved="yes">
+        <source>app.employer.disabledField.companyContactInfo.noAdminRole</source>
+        <target state="translated">Company contact info editing is disabled since your account has no rights.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170202" resname="app.employer.disabledField.companyBranding.noAdminRole" approved="yes">
+        <source>app.employer.disabledField.companyBranding.noAdminRole</source>
+        <target state="translated">Company branding editing is disabled since your account has no rights.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170203" resname="app.employer.disabledField.companyAddress.noAdminRole" approved="yes">
+        <source>app.employer.disabledField.companyAddress.noAdminRole</source>
+        <target state="translated">Company address editing is disabled since your account has no rights.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170204" resname="app.employer.disabledField.companyInformation.noAdminRole" approved="yes">
+        <source>app.employer.disabledField.companyInformation.noAdminRole</source>
+        <target state="translated">Company information editing is disabled since your account has no rights.</target>
       </trans-unit>
     </body>
   </file>

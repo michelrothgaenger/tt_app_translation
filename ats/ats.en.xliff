@@ -57,6 +57,78 @@
         <source>app.ats.popup.upload.contract.label</source>
         <target>Upload Contract</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings">
+        <source>app.ats.settings.aside.link.settings</source>
+        <target>Settings</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901a" resname="app.ats.settings.aside.link.settings.locale">
+        <source>app.ats.settings.aside.link.settings.locale</source>
+        <target> (%locale%)</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360902" resname="app.ats.settings.aside.link.emailText">
+        <source>app.ats.settings.aside.link.emailText</source>
+        <target>E-mail Text</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360903" resname="app.ats.settings.aside.link.contactPerson">
+        <source>app.ats.settings.aside.link.contactPerson</source>
+        <target>Contact Person</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360904" resname="app.ats.settings.main.emalFooter.label">
+        <source>app.ats.settings.main.emalFooter.label</source>
+        <target>E-Mail-Footer (Text to attach when sending out the emails)</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360905" resname="app.ats.settings.main.welcome.title">
+        <source>app.ats.settings.main.welcome.title</source>
+        <target>Welcome</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360906" resname="app.ats.settings.main.welcome.subject">
+        <source>app.ats.settings.main.welcome.subject</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360907" resname="app.ats.settings.main.welcome.text">
+        <source>app.ats.settings.main.welcome.text</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360908" resname="app.ats.settings.main.shortlist.title">
+        <source>app.ats.settings.main.shortlist.title</source>
+        <target>Shortlist</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject">
+        <source>app.ats.settings.main.shortlist.subject</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text">
+        <source>app.ats.settings.main.shortlist.text</source>
+        <target>Hire text to send to applicant</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title">
+        <source>app.ats.settings.main.shortlist.title</source>
+        <target>Reject (before interview)</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject">
+        <source>app.ats.settings.main.shortlist.subject</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text">
+        <source>app.ats.settings.main.shortlist.text</source>
+        <target>Reject text to send to applicant before interviewing</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360914" resname="app.ats.settings.main.rejectAfter.title">
+        <source>app.ats.settings.main.shortlist.title</source>
+        <target>Reject (after interview)</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360915" resname="app.ats.settings.main.rejectAfter.subject">
+        <source>app.ats.settings.main.shortlist.subject</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360916" resname="app.ats.settings.main.rejectAfter.text">
+        <source>app.ats.settings.main.shortlist.text</source>
+        <target>Reject text to send to applicant after interviewing</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360917" resname="app.ats.settings.main.footer.text">
+        <source>app.ats.settings.main.footer.text</source>
+        <target>Last changed by: %user%, %date%, %time%</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -57,6 +57,30 @@
         <source>app.ats.popup.upload.contract.label</source>
         <target>Upload Contract</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360918" resname="app.ats.email.defaultSubject.applied">
+        <source>app.ats.email.defaultSubject.applied</source>
+        <target>Need to change text: Welcome email subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360919" resname="app.ats.email.defaultContent.applied">
+        <source>app.ats.email.defaultContent.applied</source>
+        <target>Need to change text: Welcome email content</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.email.defaultSubject.shortlisted">
+        <source>app.ats.email.defaultSubject.shortlisted</source>
+        <target>Need to change text: Email subject for change application status to Shortlisted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.email.defaultContent.shortlisted">
+        <source>app.ats.email.defaultContent.shortlisted</source>
+        <target>Need to change text: Email content for change application status to Shortlisted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360922" resname="app.ats.email.defaultSubject.hire">
+        <source>app.ats.email.defaultSubject.hire</source>
+        <target>Need to change text: Email subject for change application status to Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360923" resname="app.ats.email.defaultContent.hire">
+        <source>app.ats.email.defaultContent.hire</source>
+        <target>Need to change text: Email content for change application status to Hire</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

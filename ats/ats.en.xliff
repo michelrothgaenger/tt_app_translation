@@ -249,6 +249,10 @@
         <source>app.ats.settings.main.hire.text.placeholder</source>
         <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter">
+        <source>app.ats.email.defaultFooter</source>
+        <target>With kind regards,&lt;br&gt;&lt;br&gt;your HR team</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

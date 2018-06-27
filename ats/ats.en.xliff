@@ -99,30 +99,30 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text">
         <source>app.ats.settings.main.shortlist.text</source>
-        <target>Hire text to send to applicant</target>
+        <target>Shortlist text to send to applicant</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title">
-        <source>app.ats.settings.main.shortlist.title</source>
+        <source>app.ats.settings.main.rejectBefore.title</source>
         <target>Reject (before interview)</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject">
-        <source>app.ats.settings.main.shortlist.subject</source>
+        <source>app.ats.settings.main.rejectBefore.subject</source>
         <target>Welcome mail subject</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text">
-        <source>app.ats.settings.main.shortlist.text</source>
+        <source>app.ats.settings.main.rejectBefore.text</source>
         <target>Reject text to send to applicant before interviewing</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360914" resname="app.ats.settings.main.rejectAfter.title">
-        <source>app.ats.settings.main.shortlist.title</source>
+        <source>app.ats.settings.main.rejectAfter.title</source>
         <target>Reject (after interview)</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360915" resname="app.ats.settings.main.rejectAfter.subject">
-        <source>app.ats.settings.main.shortlist.subject</source>
+        <source>app.ats.settings.main.rejectAfter.subject</source>
         <target>Welcome mail subject</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360916" resname="app.ats.settings.main.rejectAfter.text">
-        <source>app.ats.settings.main.shortlist.text</source>
+        <source>app.ats.settings.main.rejectAfter.text</source>
         <target>Reject text to send to applicant after interviewing</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360917" resname="app.ats.settings.main.footer.text">
@@ -160,6 +160,94 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360923" resname="app.ats.reject.popup.save.btn">
         <source>app.ats.reject.popup.save.btn</source>
         <target>Reject applicant</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.applied">
+        <source>app.ats.email.defaultSubject.applied</source>
+        <target>Need to change text: Welcome email subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.applied">
+        <source>app.ats.email.defaultContent.applied</source>
+        <target>Need to change text: Welcome email content</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlisted">
+        <source>app.ats.email.defaultSubject.shortlisted</source>
+        <target>Need to change text: Email subject for change application status to Shortlisted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlisted">
+        <source>app.ats.email.defaultContent.shortlisted</source>
+        <target>Need to change text: Email content for change application status to Shortlisted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928" resname="app.ats.email.defaultSubject.hire">
+        <source>app.ats.email.defaultSubject.hire</source>
+        <target>Need to change text: Email subject for change application status to Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929" resname="app.ats.email.defaultContent.hire">
+        <source>app.ats.email.defaultContent.hire</source>
+        <target>Need to change text: Email content for change application status to Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder">
+        <source>app.ats.settings.main.emailFooter.placeholder</source>
+        <target>With kind regards,&lt;br&gt;&lt;br&gt;your HR team&lt;br&gt;&lt;br&gt;+49 000000000&lt;br&gt;hr@company.com&lt;br&gt;Available from 09:00 - 16:00 h</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder">
+        <source>app.ats.settings.main.welcome.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360932" resname="app.ats.settings.main.welcome.text.placeholder">
+        <source>app.ats.settings.main.welcome.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360933" resname="app.ats.settings.main.shortlist.subject.placeholder">
+        <source>app.ats.settings.main.shortlist.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360934" resname="app.ats.settings.main.shortlist.text.placeholder">
+        <source>app.ats.settings.main.shortlist.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360935" resname="app.ats.settings.main.rejectBefore.subject.placeholder">
+        <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360936" resname="app.ats.settings.main.rejectBefore.text.placeholder">
+        <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360937" resname="app.ats.settings.main.rejectAfter.subject.placeholder">
+        <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360938" resname="app.ats.settings.main.rejectAfter.text.placeholder">
+        <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360939" resname="app.ats.settings.main.rejectAfter.subject.placeholder">
+        <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360940" resname="app.ats.settings.main.rejectAfter.text.placeholder">
+        <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title">
+        <source>app.ats.settings.main.hire.title</source>
+        <target>Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360942" resname="app.ats.settings.main.hire.subject">
+        <source>app.ats.settings.main.hire.subject</source>
+        <target>Welcome mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360943" resname="app.ats.settings.main.hire.text">
+        <source>app.ats.settings.main.hire.text</source>
+        <target>Hire text to send to applicant</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360944" resname="app.ats.settings.main.hire.subject.placeholder">
+        <source>app.ats.settings.main.hire.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360945" resname="app.ats.settings.main.hire.text.placeholder">
+        <source>app.ats.settings.main.hire.text.placeholder</source>
+        <target>Dear Applicant,&lt;br&gt;&lt;br&gt;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&lt;br&gt;&lt;br&gt;Best,&lt;br&gt;HR Team</target>
       </trans-unit>
     </body>
   </file>

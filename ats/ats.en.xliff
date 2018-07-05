@@ -41,6 +41,10 @@
         <source>app.ats.popup.info.end</source>
         <target>. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896a" resname="app.ats.popup.info.allSelects">
+        <source>app.ats.popup.info.allSelects</source>
+        <target>I hereby confirm that we will employ these applicants in our company. A corresponding employments have been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the precending information.</target>
+      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label">
         <source>app.ats.popup.salary.label</source>
         <target>Salary</target>
@@ -137,9 +141,17 @@
         <source>app.ats.reject.popup.subtitle</source>
         <target>You are sure you want to reject this applicant?</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360919a" resname="app.ats.reject.popup.subtitleAllSelects">
+        <source>app.ats.reject.popup.subtitleAllSelects</source>
+        <target>You are sure you want to reject these applicants?</target>
+      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text">
         <source>app.ats.reject.popup.text</source>
         <target>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects">
+        <source>app.ats.reject.popup.textAllSelects</source>
+        <target>Text for all selects goes here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.reject.popup.confirm.label.part1">
         <source>app.ats.reject.popup.confirm.label.part1</source>

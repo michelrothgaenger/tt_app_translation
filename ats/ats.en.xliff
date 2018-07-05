@@ -265,6 +265,27 @@
         <source>app.ats.email.defaultFooter</source>
         <target>With kind regards,&#10;&#10;your HR team</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360947" resname="app.ats.settings.main.interview.title">
+        <source>app.ats.settings.main.interview.title</source>
+        <target>Interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360948" resname="app.ats.settings.main.interview.subject">
+        <source>app.ats.settings.main.interview.subject</source>
+        <target>Interview mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360949" resname="app.ats.settings.main.interview.text">
+        <source>app.ats.settings.main.interview.text</source>
+        <target>Hire text to send to applicant</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360950" resname="app.ats.settings.main.interview.subject.placeholder">
+        <source>app.ats.settings.main.interview.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder">
+        <source>app.ats.settings.main.interview.text.placeholder</source>
+        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>

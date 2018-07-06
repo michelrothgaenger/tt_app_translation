@@ -181,6 +181,14 @@
         <source>app.ats.email.defaultContent.applied</source>
         <target>Need to change text: Welcome email content</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924a" resname="app.ats.email.defaultSubject.interview">
+        <source>app.ats.email.defaultSubject.interview</source>
+        <target>Need to change text: Email subject for change application status to Interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925a" resname="app.ats.email.defaultContent.interview">
+        <source>app.ats.email.defaultContent.interview</source>
+        <target>Need to change text: Email content for change application status to Interview</target>
+      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlisted">
         <source>app.ats.email.defaultSubject.shortlisted</source>
         <target>Need to change text: Email subject for change application status to Shortlisted</target>

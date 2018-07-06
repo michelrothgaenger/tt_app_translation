@@ -173,12 +173,12 @@
         <source>app.ats.reject.popup.save.btn</source>
         <target>Reject applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.applied">
-        <source>app.ats.email.defaultSubject.applied</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome">
+        <source>app.ats.email.defaultSubject.welcome</source>
         <target>Need to change text: Welcome email subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.applied">
-        <source>app.ats.email.defaultContent.applied</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.welcome">
+        <source>app.ats.email.defaultContent.welcome</source>
         <target>Need to change text: Welcome email content</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360924a" resname="app.ats.email.defaultSubject.interview">
@@ -189,12 +189,12 @@
         <source>app.ats.email.defaultContent.interview</source>
         <target>Need to change text: Email content for change application status to Interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlisted">
-        <source>app.ats.email.defaultSubject.shortlisted</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlist">
+        <source>app.ats.email.defaultSubject.shortlist</source>
         <target>Need to change text: Email subject for change application status to Shortlisted</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlisted">
-        <source>app.ats.email.defaultContent.shortlisted</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlist">
+        <source>app.ats.email.defaultContent.shortlist</source>
         <target>Need to change text: Email content for change application status to Shortlisted</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360928" resname="app.ats.email.defaultSubject.hire">
@@ -204,6 +204,22 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360929" resname="app.ats.email.defaultContent.hire">
         <source>app.ats.email.defaultContent.hire</source>
         <target>Need to change text: Email content for change application status to Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928a" resname="app.ats.email.defaultSubject.rejectBefore">
+        <source>app.ats.email.defaultSubject.rejectBefore</source>
+        <target>Need to change text: Email subject for change application status to Reject before interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929a" resname="app.ats.email.defaultContent.rejectBefore">
+        <source>app.ats.email.defaultContent.rejectBefore</source>
+        <target>Need to change text: Email content for change application status to Reject before interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928b" resname="app.ats.email.defaultSubject.rejectAfter">
+        <source>app.ats.email.defaultSubject.rejectAfter</source>
+        <target>Need to change text: Email subject for change application status to Reject after interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929b" resname="app.ats.email.defaultContent.rejectAfter">
+        <source>app.ats.email.defaultContent.rejectAfter</source>
+        <target>Need to change text: Email content for change application status to Reject after interview</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder">
         <source>app.ats.settings.main.emailFooter.placeholder</source>

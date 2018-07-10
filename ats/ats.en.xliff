@@ -173,20 +173,28 @@
         <source>app.ats.reject.popup.save.btn</source>
         <target>Reject applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.applied">
-        <source>app.ats.email.defaultSubject.applied</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome">
+        <source>app.ats.email.defaultSubject.welcome</source>
         <target>Need to change text: Welcome email subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.applied">
-        <source>app.ats.email.defaultContent.applied</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.welcome">
+        <source>app.ats.email.defaultContent.welcome</source>
         <target>Need to change text: Welcome email content</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlisted">
-        <source>app.ats.email.defaultSubject.shortlisted</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924a" resname="app.ats.email.defaultSubject.interview">
+        <source>app.ats.email.defaultSubject.interview</source>
+        <target>Need to change text: Email subject for change application status to Interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925a" resname="app.ats.email.defaultContent.interview">
+        <source>app.ats.email.defaultContent.interview</source>
+        <target>Need to change text: Email content for change application status to Interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlist">
+        <source>app.ats.email.defaultSubject.shortlist</source>
         <target>Need to change text: Email subject for change application status to Shortlisted</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlisted">
-        <source>app.ats.email.defaultContent.shortlisted</source>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlist">
+        <source>app.ats.email.defaultContent.shortlist</source>
         <target>Need to change text: Email content for change application status to Shortlisted</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360928" resname="app.ats.email.defaultSubject.hire">
@@ -196,6 +204,22 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360929" resname="app.ats.email.defaultContent.hire">
         <source>app.ats.email.defaultContent.hire</source>
         <target>Need to change text: Email content for change application status to Hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928a" resname="app.ats.email.defaultSubject.rejectBefore">
+        <source>app.ats.email.defaultSubject.rejectBefore</source>
+        <target>Need to change text: Email subject for change application status to Reject before interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929a" resname="app.ats.email.defaultContent.rejectBefore">
+        <source>app.ats.email.defaultContent.rejectBefore</source>
+        <target>Need to change text: Email content for change application status to Reject before interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928b" resname="app.ats.email.defaultSubject.rejectAfter">
+        <source>app.ats.email.defaultSubject.rejectAfter</source>
+        <target>Need to change text: Email subject for change application status to Reject after interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929b" resname="app.ats.email.defaultContent.rejectAfter">
+        <source>app.ats.email.defaultContent.rejectAfter</source>
+        <target>Need to change text: Email content for change application status to Reject after interview</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
@@ -264,6 +288,30 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter">
         <source>app.ats.email.defaultFooter</source>
         <target>With kind regards,&#10;&#10;your HR team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360947" resname="app.ats.settings.main.interview.title">
+        <source>app.ats.settings.main.interview.title</source>
+        <target>Interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360948" resname="app.ats.settings.main.interview.subject">
+        <source>app.ats.settings.main.interview.subject</source>
+        <target>Interview mail subject</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360949" resname="app.ats.settings.main.interview.text">
+        <source>app.ats.settings.main.interview.text</source>
+        <target>Interview text to send to applicant</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360950" resname="app.ats.settings.main.interview.subject.placeholder">
+        <source>app.ats.settings.main.interview.subject.placeholder</source>
+        <target>E-Mail</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder">
+        <source>app.ats.settings.main.interview.text.placeholder</source>
+        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson">
+        <source>app.ats.infoEmail.noContactPerson</source>
+        <target>Dear TT team,&#10;&#10;The company %companyName% with ID: %companyID% haven't contact person. Therefore nobody receive an email about new application.</target>
       </trans-unit>
     </body>
   </file>

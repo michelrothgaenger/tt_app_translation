@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="pt" datatype="plaintext" original="file.ext">
     <header>
@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="6835b21c2357e0fc76700172c75330fc" resname="app.metaDescriptionTermsPage">
         <source>app.metaDescriptionTermsPage</source>
-        <target></target>
+        <target/>
       </trans-unit>
       <trans-unit id="3fae6aec416d2ee7fcb1cbd2bdf7c944" resname="app.transportTalentCandidateTermsAndConditions">
         <source>app.transportTalentCandidateTermsAndConditions</source>
@@ -125,9 +125,9 @@
         <source>app.transportTalentMayTerminateSuspendOrDenyYouAccess</source>
         <target>TransportTalent may terminate, suspend or deny you access to the Website and/or Services immediately for any reason without incurring any liability whatsoever to you.</target>
       </trans-unit>
-      <trans-unit id="b7567dc69f2ef6fa026c25053c91de58" resname="app.claims">
+      <trans-unit id="b7567dc69f2ef6fa026c25053c91de58" resname="app.claims" approved="no">
         <source>app.claims</source>
-        <target>Claims</target>
+        <target state="needs-translation">Refers</target>
       </trans-unit>
       <trans-unit id="3ec79a955284bdaa6c27caa3f1f5fc89" resname="app.youAgreeToIndemnifyTransportTalentAndAllCompanies">
         <source>app.youAgreeToIndemnifyTransportTalentAndAllCompanies</source>

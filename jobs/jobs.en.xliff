@@ -83,11 +83,15 @@
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b" resname="app.jobs.jobBlock.claim" approved="yes">
         <source>app.jobs.jobBlock.claim</source>
-        <target state="translated">Claim</target>
+        <target state="translated">Refer</target>
+      </trans-unit>
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b1" resname="app.jobs.jobBlock.apply">
+        <source>app.jobs.jobBlock.apply</source>
+        <target>Apply</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399c" resname="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>
-        <target state="translated">Claimed</target>
+        <target state="translated">Refered</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3991" resname="app.jobs.searchForm.languagesTitle" approved="yes">
         <source>app.jobs.searchForm.languagesTitle</source>

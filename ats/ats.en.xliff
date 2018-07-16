@@ -333,6 +333,10 @@
         <source>app.ats.settings.main.contactPerson.select.info.part2</source>
         <target> and has put in a valid email and phone number.</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360958" resname="app.ats.settings.main.contactPerson.serverErrorMessage">
+        <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
+        <target>Server error</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -313,6 +313,30 @@
         <source>app.ats.infoEmail.noContactPerson</source>
         <target>Dear TT team,&#10;&#10;The company %companyName% with ID: %companyID% haven't contact person. Therefore nobody receive an email about new application.</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360953" resname="app.ats.settings.main.contactPerson.label">
+        <source>app.ats.settings.main.contactPerson.label</source>
+        <target>Choose your contact person</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360954" resname="app.ats.settings.main.contactPerson.select.defaultOption">
+        <source>app.ats.settings.main.contactPerson.select.defaultOption</source>
+        <target>Please choose</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360955" resname="app.ats.settings.main.contactPerson.select.info.part1">
+        <source>app.ats.settings.main.contactPerson.select.info.part1</source>
+        <target>Make sure your contact person is already </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360956" resname="app.ats.settings.main.contactPerson.select.info.link">
+        <source>app.ats.settings.main.contactPerson.select.info.link</source>
+        <target>registered in your team</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360957" resname="app.ats.settings.main.contactPerson.select.info.part2">
+        <source>app.ats.settings.main.contactPerson.select.info.part2</source>
+        <target> and has put in a valid email and phone number.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360958" resname="app.ats.settings.main.contactPerson.serverErrorMessage">
+        <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
+        <target>Server error</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

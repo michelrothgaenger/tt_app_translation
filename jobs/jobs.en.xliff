@@ -89,9 +89,9 @@
         <source>app.jobs.jobBlock.apply</source>
         <target state="translated">Apply</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b11" resname="app.jobs.jobBlock.uploadCV">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b11" resname="app.jobs.jobBlock.uploadCV" approved="yes">
         <source>app.jobs.jobBlock.uploadCV</source>
-        <target>Upload CV</target>
+        <target state="translated">Upload CV</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399c" resname="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>

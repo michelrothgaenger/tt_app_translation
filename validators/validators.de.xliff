@@ -61,6 +61,10 @@
                 <source>app.teamManage.company.needParent</source>
                 <target state="translated">Bitte wählen Sie die Muttergesellschaft.</target>
             </trans-unit>
+        <trans-unit id="dea14b171b9a004dd6a261486d657a10" resname="app.hirePopup.contract.notBlank" approved="yes">
+                <source>app.hirePopup.contract.notBlank</source>
+                <target state="translated">Bitte laden Sie einen Arbeitsvertrag hoch</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

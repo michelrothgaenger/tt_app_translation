@@ -5,15 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.applicationNotReviewed.subject">
+      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.applicationNotReviewed.subject" approved="yes">
         <source>app.applicationNotReviewed.subject</source>
-        <target>Your application is still pending</target>
+        <target state="translated">Ihre Bewerbung wurde noch nicht weiter bearbeitet</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationNotReviewed.content">
+      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationNotReviewed.content" approved="yes">
         <source>app.applicationNotReviewed.content</source>
-        <target>Dear %firstName% %lastName%,&lt;br&gt;&lt;br&gt;
-          Application for job: "%jobTitle%" is still pending.
-          &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Hallo %firstName% %lastName%,&lt;br&gt;&lt;br&gt; Ihre Bewerbung für die Position "%jobTitle%" ist eingegangen und wird zeitnah weiterbearbeitet. &lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

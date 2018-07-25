@@ -179,7 +179,7 @@
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
-        <target state="translated">Congrats! Your account is now activated.</target>
+        <target state="translated">Congrats! Your email is now confirmed. You will be able to post jobs once your account has been finally approved. </target>
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
@@ -807,7 +807,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated">Your profile information helps us find interesting job offers for you. You can come back at any time to make changes.</target>
+        <target state="translated">You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@transporttalent.com and we will take care. </target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
@@ -971,7 +971,7 @@
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06501" resname="app.profile.chooseSalary" approved="yes">
         <source>app.profile.chooseSalary</source>
-        <target state="translated">Choose salary</target>
+        <target state="translated">Choose salary range</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
         <source>app.timezone</source>
@@ -1011,19 +1011,19 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170194" resname="app.profileInputDateLeaveLabel" approved="yes">
         <source>app.profileInputDateLeaveLabel</source>
-        <target state="translated">Your approximate date of leave</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170195" resname="app.profile.editor.dateLeavePlaceholder" approved="yes">
         <source>app.profile.editor.dateLeavePlaceholder</source>
-        <target state="translated">DD.MM.YYYY</target>
+        <target state="translated">1 month</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170196" resname="app.profile.editor.dateLeave" approved="yes">
         <source>app.profile.editor.dateLeave</source>
-        <target state="translated">Your approximate date of leave</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170197" resname="app.profile.profileVM.noDateLeave" approved="yes">
         <source>app.profile.profileVM.noDateLeave</source>
-        <target state="translated">Date of leave is not specified</target>
+        <target state="translated">notice period is not specified</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170198" resname="app.profile.dashboard.manageTeam.tile.title" approved="yes">
         <source>app.profile.dashboard.manageTeam.tile.title</source>

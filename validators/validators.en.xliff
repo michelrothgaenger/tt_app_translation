@@ -47,11 +47,15 @@
             </trans-unit>
             <trans-unit id="dea14b171b9a004dd6a261486d657ag7" resname="app.registerForm.cv.mimeType" approved="yes">
                 <source>app.registerForm.cv.mimeType</source>
-                <target state="translated">The file must be a PDF</target>
+                <target state="translated">The file must be a PDF.</target>
             </trans-unit>
             <trans-unit id="dea14b171b9a004dd6a261486d657ag8" resname="app.registerForm.cv.maxSize" approved="yes">
                 <source>app.registerForm.cv.maxSize</source>
                 <target state="translated">The file must be not larger than 15 MB.</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657ag9" resname="app.teamManage.company.needParent" approved="yes">
+                <source>app.teamManage.company.needParent</source>
+                <target state="translated">Please choose parent company.</target>
             </trans-unit>
         </body>
     </file>

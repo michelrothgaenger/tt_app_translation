@@ -39,7 +39,11 @@
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>
-        <target state="translated">An email has been sent to %email%. It contains an activation link you must click to activate your account.</target>
+        <target state="translated">What will happen next?&lt;br&gt;&lt;br&gt;
+
+1. An email has been sent to %email%. It contains an activation link you must click to verify your email.&lt;br&gt;
+2. We will review your account and approve it within one working day and you will receive a confirmation email.&lt;br&gt;
+3. You're ready to use Transporttalent.com&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
@@ -83,7 +87,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
-        <target state="translated">Success</target>
+        <target state="translated">Thank you!</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d717b3e3" resname="app.userRegister.provideEmail" approved="yes">
         <source>app.userRegister.provideEmail</source>
@@ -171,7 +175,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Great to have you on board. Now it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes.</target>
+        <target state="translated">Great to have you on board. If you searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
@@ -247,7 +251,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">What is your speciality?</target>
+        <target state="translated">What areas do you have experience in? (e.g. Ocean Freight)</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>
@@ -271,7 +275,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target state="translated">Improve our matching by sharing further details with us.</target>
+        <target state="translated">You have to upload your CV to be able to use our one-click-application function.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
@@ -279,7 +283,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
-        <target state="translated">Connect your LinkedIn account to provide us with more details.</target>
+        <target state="translated">Connect your LinkedIn account an/or upload your current CV to provide us with more details.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="yes">
         <source>app.userRegister.connectToLinkedInHeader</source>
@@ -363,7 +367,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
         <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
-        <target state="translated">Tell us what kind of work you are looking for and in which part of the world.</target>
+        <target state="translated">Thank you for providing your details! Please specify down below your desired field of profession and the cities/area you want to work in.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
         <source>app.userRegister.step7.jobPreferences</source>
@@ -379,7 +383,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
         <source>app.userRegister.step7.chooseCategoryLabel</source>
-        <target state="translated">Choose the job category</target>
+        <target state="translated">Choose your desired fields of profession (e.g. Oceanfreight)</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
         <source>app.userRegister.step7.preferedLocations</source>

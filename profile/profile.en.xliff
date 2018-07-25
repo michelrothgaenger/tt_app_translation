@@ -1011,15 +1011,15 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170194" resname="app.profileInputDateLeaveLabel" approved="yes">
         <source>app.profileInputDateLeaveLabel</source>
-        <target state="translated">Your approximate date of leave</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170195" resname="app.profile.editor.dateLeavePlaceholder" approved="yes">
         <source>app.profile.editor.dateLeavePlaceholder</source>
-        <target state="translated">DD.MM.YYYY</target>
+        <target state="translated">1 month</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170196" resname="app.profile.editor.dateLeave" approved="yes">
         <source>app.profile.editor.dateLeave</source>
-        <target state="translated">Your approximate date of leave</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170197" resname="app.profile.profileVM.noDateLeave" approved="yes">
         <source>app.profile.profileVM.noDateLeave</source>

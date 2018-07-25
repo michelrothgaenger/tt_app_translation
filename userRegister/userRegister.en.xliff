@@ -39,11 +39,11 @@
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>
-        <target state="translated">What will happen next?&lt;br&gt;&lt;br&gt;
-
-1. An email has been sent to %email%. It contains an activation link you must click to verify your email.&lt;br&gt;
-2. We will review your account and approve it within one working day and you will receive a confirmation email.&lt;br&gt;
-3. You're ready to use Transporttalent.com&lt;br&gt;</target>
+        <target state="translated"><![CDATA[What will happen next?<br><br>
+                1. An email has been sent to %email%. It contains an activation link you must click to verify your email.<br>
+                2. We will review your account and approve it within one working day and you will receive a confirmation email.<br>
+                3. You're ready to use Transporttalent.com]]>
+        </target>
       </trans-unit>
       <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>

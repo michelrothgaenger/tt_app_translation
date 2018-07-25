@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary" approved="yes">
         <source>app.salary</source>
-        <target state="translated">Salary</target>
+        <target state="translated">Annual Salary Range </target>
       </trans-unit>
       <trans-unit id="b285825bb4d88f9ae11ab7866cd0900d" resname="app.department" approved="yes">
         <source>app.department</source>
@@ -67,11 +67,11 @@
       </trans-unit>
       <trans-unit id="7cab6c0e9dcd49439b971605d33979c5" resname="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
-        <target state="translated">Take offline</target>
+        <target state="translated">Take job offline</target>
       </trans-unit>
       <trans-unit id="e5ec522d2e864df0a9a9514559315c89" resname="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
-        <target state="translated">Publish job now</target>
+        <target state="translated">Post job now</target>
       </trans-unit>
       <trans-unit id="e2326198ca8144a584bd9b903cad0241" resname="app.employerJobCRUD.buttonLabel.preview" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.preview</source>

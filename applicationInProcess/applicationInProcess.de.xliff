@@ -9,11 +9,9 @@
         <source>app.applicationInProcess.subject</source>
         <target state="translated">Bewerbung benötigt Bewertung</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationInProcess.content">
+      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationInProcess.content" approved="yes">
         <source>app.applicationInProcess.content</source>
-        <target>Dear %firstNameHR% %lastNameHR%,&lt;br&gt;&lt;br&gt;
-          Application for job: "%jobTitle%" with status "%applicationStatus%" is still in the application process.
-          &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Liebe/r %firstNameHR% %lastNameHR%,&lt;br&gt;&lt;br&gt;  Bewerbung für die Position: "%jobTitle%"  mit dem Status"%applicationStatus%" ist noch im Bewerbungsprozess. &lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen,&lt;br&gt;&lt;br&gt; Ihr Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

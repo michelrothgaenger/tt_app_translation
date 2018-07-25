@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationNotReviewed.content" approved="yes">
         <source>app.applicationNotReviewed.content</source>
-        <target state="translated">Dear %firstName% %lastName%,&lt;br&gt;&lt;br&gt; your application for job: "%jobTitle%" is still pending. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;your team at Transport Talent</target>
+        <target state="translated">Dear %firstName% %lastName%,&lt;br&gt;&lt;br&gt; your application for job: "%jobTitle%" is still pending. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>
   </file>

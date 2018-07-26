@@ -85,9 +85,9 @@
         <source>app.jobs.jobBlock.claim</source>
         <target state="translated">Refer</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b1" resname="app.jobs.jobBlock.apply">
+      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399b1" resname="app.jobs.jobBlock.apply" approved="yes">
         <source>app.jobs.jobBlock.apply</source>
-        <target>Apply</target>
+        <target state="translated">Apply</target>
       </trans-unit>
       <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d399c" resname="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>

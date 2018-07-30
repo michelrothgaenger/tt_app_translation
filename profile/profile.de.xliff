@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
-        <target state="translated">Ihr Nutzerkonto wurde erfolgreich aktiviert.</target>
+        <target state="translated">Ihre E-Mail wurde erfolgreich bestätigt.</target>
       </trans-unit>
       <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Sie können jederzeit Änderungen vornehmen.</target>
+        <target state="translated">Sie können Ihre Daten bearbeiten, indem Sie unten auf die Schaltfläche "Bearbeiten" klicken. Wenn Sie Ihr Profil löschen möchten, senden Sie bitte eine E-Mail an profiles@transporttalent.com und wir werden uns darum kümmern.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
@@ -952,7 +952,7 @@
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06501" resname="app.profile.chooseSalary" approved="yes">
         <source>app.profile.chooseSalary</source>
-        <target state="translated">Gehalt wählen</target>
+        <target state="translated">Gehaltsrahmen wählen</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
         <source>app.timezone</source>
@@ -968,7 +968,7 @@
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations" approved="yes">
         <source>app.profile.editor.ambassadorLocations</source>
-        <target state="translated">Standorte, für welche Sie Kandidaten empfehlen können</target>
+        <target state="translated">Standorte</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories" approved="yes">
         <source>app.notification.causes.noJobCategories</source>
@@ -1000,19 +1000,19 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170194" resname="app.profileInputDateLeaveLabel" approved="yes">
         <source>app.profileInputDateLeaveLabel</source>
-        <target state="translated">Frühestes Startdatum</target>
+        <target state="translated">Kündigungsfrist</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170195" resname="app.profile.editor.dateLeavePlaceholder" approved="yes">
         <source>app.profile.editor.dateLeavePlaceholder</source>
-        <target state="translated">TT.MM.JJJJ</target>
+        <target state="translated">1 Monat</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170196" resname="app.profile.editor.dateLeave" approved="yes">
         <source>app.profile.editor.dateLeave</source>
-        <target state="translated">Frühestes Startdatum</target>
+        <target state="translated">Kündigungsfrist</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170197" resname="app.profile.profileVM.noDateLeave" approved="yes">
         <source>app.profile.profileVM.noDateLeave</source>
-        <target state="translated">Austrittsdatum ist nicht angegeben</target>
+        <target state="translated">Kündigungsfrist ist nicht angegeben</target>
       </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6d" resname="app.profile.dashboard.ats.tile.title" approved="yes">
          <source>app.profile.dashboard.ats.tile.title</source>

@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.companyReminder.payment.subject">
+      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.companyReminder.payment.subject" approved="yes">
       <source>app.companyReminder.payment.subject</source>
-      <target>internal reminder: check receipt of payment</target>
+      <target state="translated">internal reminder: check receipt of payment</target>
       </trans-unit>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.companyReminderPayment.content">
+      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.companyReminderPayment.content" approved="yes">
         <source>app.companyReminderPayment.content</source>
-        <target>%firstNameHR% %lastNameHR%  %jobTitle%</target>
+        <target state="translated">%firstNameHR% %lastNameHR%  %jobTitle%</target>
       </trans-unit>
     </body>
   </file>

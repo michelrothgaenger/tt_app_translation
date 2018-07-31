@@ -49,6 +49,10 @@
         <source>app.ats.popup.salary.label</source>
         <target>Salary</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897a" resname="app.ats.popup.salary.input.title">
+        <source>app.ats.popup.salary.input.title</source>
+        <target>Salary input should only contain numbers</target>
+      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label">
         <source>app.ats.popup.currency.label</source>
         <target>Currency</target>
@@ -56,6 +60,10 @@
       <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label">
         <source>app.ats.popup.start.date.label</source>
         <target>Start Date</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899a" resname="app.ats.popup.start.date.error">
+        <source>app.ats.popup.start.date.error</source>
+        <target>Date should be later or equal today</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label">
         <source>app.ats.popup.upload.contract.label</source>

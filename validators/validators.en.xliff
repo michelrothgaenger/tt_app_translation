@@ -57,6 +57,10 @@
                 <source>app.teamManage.company.needParent</source>
                 <target state="translated">Please choose parent company.</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a10" resname="app.hirePopup.contract.notBlank" approved="yes">
+                <source>app.hirePopup.contract.notBlank</source>
+                <target state="translated">Please upload a contract</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

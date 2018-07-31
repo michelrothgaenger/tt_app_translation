@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
         <source>registration.check_email</source>
-        <target state="translated">Eine E-Mail wurde an %email% gesendet. Um die Anmeldung abzuschließen, rufen Sie bitte den Bestätigungslink in der E-Mail auf.</target>
+        <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
       </trans-unit>
       <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
@@ -83,7 +83,7 @@
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
-        <target state="translated">Erfolg</target>
+        <target state="translated">Vielen Dank!</target>
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d717b3e3" resname="app.userRegister.provideEmail" approved="yes">
         <source>app.userRegister.provideEmail</source>
@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Bitte richten Sie im nächsten Schritt Ihr Profil ein, damit wir Sie bei der Stellensuche bestmöglich unterstützen können. Der Vorgang nimmt nur wenige Minuten in Anspruch.</target>
+        <target state="translated">Schön, Sie an Bord zu haben. Wenn Sie einen Job suchen, ist es an der Zeit, Ihr Profil zu erstellen, damit wir Sie mit den richtigen Stellenangeboten und Arbeitgebern zusammenbringen können. Es dauert nur ein paar Minuten. Wenn Sie einfach nur anfangen wollen, Jobs an Kollegen und Freunde weiterzuleiten, überspringen Sie einfach das Profil und beginnen Sie sofort.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
-        <target state="translated">Hinterlegen Sie Ihr LinkedIn-Profil in Ihrem Account.</target>
+        <target state="translated">Verbinden Sie Ihr LinkedIn-Konto und/oder laden Sie Ihren aktuellen Lebenslauf hoch, um uns weitere Details mitzuteilen.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="yes">
         <source>app.userRegister.connectToLinkedInHeader</source>
@@ -347,7 +347,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
         <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
-        <target state="translated">Nennen Sie uns Ihre Vorstellungen.</target>
+        <target state="translated">Vielen Dank für Ihre Angaben! Bitte geben Sie unten Ihr gewünschtes Berufsfeld und die Städte/Gebiete an, in denen Sie arbeiten möchten.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
         <source>app.userRegister.step7.jobPreferences</source>
@@ -363,7 +363,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
         <source>app.userRegister.step7.chooseCategoryLabel</source>
-        <target state="translated">Wählen Sie einen Bereich</target>
+        <target state="translated">Wählen Sie Ihre gewünschten Berufsfelder (z.B. Seefracht)</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
         <source>app.userRegister.step7.preferedLocations</source>
@@ -439,7 +439,7 @@
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target state="translated">Unterstützen Sie unseren Vermittlungsprozess mit zusätzlichen Informationen.</target>
+        <target state="translated">Sie müssen Ihren Lebenslauf hochladen, um unsere Ein-Klick-Bewerbungsfunktion nutzen zu können.</target>
       </trans-unit>
         <trans-unit id="1d602f68a209e7ad43d255223c273211" resname="app.userRegister.step6.birthdayPlaceholder" approved="yes">
           <source>app.userRegister.step6.birthdayPlaceholder</source>

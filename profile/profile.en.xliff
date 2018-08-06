@@ -1053,6 +1053,10 @@
         <source>app.employer.disabledField.companyInformation.noAdminRole</source>
         <target state="translated">Company information editing is disabled since your account has no rights.</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170205" resname="app.profile.editor.recruiterBusinessAreas">
+        <source>app.profile.editor.recruiterBusinessAreas</source>
+        <target>Recruiting business areas</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

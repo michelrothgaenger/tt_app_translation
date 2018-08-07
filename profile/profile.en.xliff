@@ -1057,6 +1057,42 @@
         <source>app.profile.editor.recruiterBusinessAreas</source>
         <target>Recruiting business areas</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170206" resname="app.profile.dateLeave.1m">
+        <source>app.profile.dateLeave.1m</source>
+        <target>1 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170207" resname="app.profile.dateLeave.2m">
+        <source>app.profile.dateLeave.2m</source>
+        <target>2 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170208" resname="app.profile.dateLeave.3m">
+        <source>app.profile.dateLeave.3m</source>
+        <target>3 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170209" resname="app.profile.dateLeave.4m">
+        <source>app.profile.dateLeave.4m</source>
+        <target>4 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170210" resname="app.profile.dateLeave.5m">
+        <source>app.profile.dateLeave.5m</source>
+        <target>5 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170211" resname="app.profile.dateLeave.6m">
+        <source>app.profile.dateLeave.6m</source>
+        <target>6 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170212" resname="app.profile.dateLeave.12m">
+        <source>app.profile.dateLeave.12m</source>
+        <target>12 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170213" resname="app.profile.dateLeave.24m">
+        <source>app.profile.dateLeave.24m</source>
+        <target>24 month</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170214" resname="app.profile.dateLeave.other">
+        <source>app.profile.dateLeave.other</source>
+        <target>other</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

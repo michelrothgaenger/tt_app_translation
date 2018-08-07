@@ -525,6 +525,14 @@
          <source>app.register.profile.dateOfLeave.error</source>
          <target state="translated">Choose your approximate date of leave</target>
      </trans-unit>
+     <trans-unit id="382ba41746874fac96eb5077d71700099" resname="form.dateLeaveLabel">
+         <source>form.dateLeaveLabel</source>
+         <target>Your approximate date of leave</target>
+     </trans-unit>
+     <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder">
+         <source>form.dateLeavePlaceholder</source>
+         <target>Choose your approximate date of leave</target>
+     </trans-unit>
     </body>
   </file>
 </xliff>

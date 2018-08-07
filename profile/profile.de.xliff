@@ -1090,6 +1090,14 @@
         <source>app.profile.dateLeave.other</source>
         <target state="translated">Andere</target>
       </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder" approved="yes">
+        <source>form.dateLeavePlaceholder</source>
+        <target state="translated">Wählen Sie Ihre Kündigungsfrist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.profile.editor.noticePeriod" approved="yes">
+        <source>app.profile.editor.noticePeriod</source>
+        <target state="translated">Kündigungsfrist</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

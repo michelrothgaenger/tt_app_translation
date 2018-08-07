@@ -525,13 +525,13 @@
          <source>app.register.profile.dateOfLeave.error</source>
          <target state="translated">Choose your approximate date of leave</target>
      </trans-unit>
-     <trans-unit id="382ba41746874fac96eb5077d71700099" resname="form.dateLeaveLabel">
+     <trans-unit id="382ba41746874fac96eb5077d71700099" resname="form.dateLeaveLabel" approved="yes">
          <source>form.dateLeaveLabel</source>
-         <target>Your approximate date of leave</target>
+         <target state="translated">Notice Period</target>
      </trans-unit>
-     <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder">
+     <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder" approved="yes">
          <source>form.dateLeavePlaceholder</source>
-         <target>Choose your notice period</target>
+         <target state="translated">Choose your notice period</target>
      </trans-unit>
     </body>
   </file>

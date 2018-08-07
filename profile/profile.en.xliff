@@ -1053,45 +1053,45 @@
         <source>app.employer.disabledField.companyInformation.noAdminRole</source>
         <target state="translated">Company information editing is disabled since your account has no rights.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170205" resname="app.profile.editor.recruiterBusinessAreas">
+      <trans-unit id="382ba41746874fac96eb5077d7170205" resname="app.profile.editor.recruiterBusinessAreas" approved="yes">
         <source>app.profile.editor.recruiterBusinessAreas</source>
-        <target>Recruiting business areas</target>
+        <target state="translated">Recruiting business areas</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170206" resname="app.profile.dateLeave.1m">
+      <trans-unit id="382ba41746874fac96eb5077d7170206" resname="app.profile.dateLeave.1m" approved="yes">
         <source>app.profile.dateLeave.1m</source>
-        <target>1 month</target>
+        <target state="translated">1 month</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170207" resname="app.profile.dateLeave.2m">
+      <trans-unit id="382ba41746874fac96eb5077d7170207" resname="app.profile.dateLeave.2m" approved="yes">
         <source>app.profile.dateLeave.2m</source>
-        <target>2 month</target>
+        <target state="translated">2 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170208" resname="app.profile.dateLeave.3m">
+      <trans-unit id="382ba41746874fac96eb5077d7170208" resname="app.profile.dateLeave.3m" approved="yes">
         <source>app.profile.dateLeave.3m</source>
-        <target>3 month</target>
+        <target state="translated">3 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170209" resname="app.profile.dateLeave.4m">
+      <trans-unit id="382ba41746874fac96eb5077d7170209" resname="app.profile.dateLeave.4m" approved="yes">
         <source>app.profile.dateLeave.4m</source>
-        <target>4 month</target>
+        <target state="translated">4 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170210" resname="app.profile.dateLeave.5m">
+      <trans-unit id="382ba41746874fac96eb5077d7170210" resname="app.profile.dateLeave.5m" approved="yes">
         <source>app.profile.dateLeave.5m</source>
-        <target>5 month</target>
+        <target state="translated">5 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170211" resname="app.profile.dateLeave.6m">
+      <trans-unit id="382ba41746874fac96eb5077d7170211" resname="app.profile.dateLeave.6m" approved="yes">
         <source>app.profile.dateLeave.6m</source>
-        <target>6 month</target>
+        <target state="translated">6 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170212" resname="app.profile.dateLeave.12m">
+      <trans-unit id="382ba41746874fac96eb5077d7170212" resname="app.profile.dateLeave.12m" approved="yes">
         <source>app.profile.dateLeave.12m</source>
-        <target>12 month</target>
+        <target state="translated">12 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170213" resname="app.profile.dateLeave.24m">
+      <trans-unit id="382ba41746874fac96eb5077d7170213" resname="app.profile.dateLeave.24m" approved="yes">
         <source>app.profile.dateLeave.24m</source>
-        <target>24 month</target>
+        <target state="translated">24 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170214" resname="app.profile.dateLeave.other">
+      <trans-unit id="382ba41746874fac96eb5077d7170214" resname="app.profile.dateLeave.other" approved="yes">
         <source>app.profile.dateLeave.other</source>
-        <target>other</target>
+        <target state="translated">other</target>
       </trans-unit>
     </body>
   </file>

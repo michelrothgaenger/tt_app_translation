@@ -251,7 +251,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">Was sind Ihre Fachgebiete?</target>
+        <target state="translated">Was sind Ihre Fachgebiete? (z.B. Seefracht)</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepImportLinkedIn" approved="yes">
         <source>app.userRegister.step5.stepImportLinkedIn</source>
@@ -521,6 +521,14 @@
         <source>app.userRegister.step2.agreementPart4</source>
         <target state="translated">und Datenschutzerklärung</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d71700099" resname="form.dateLeaveLabel" approved="yes">
+         <source>form.dateLeaveLabel</source>
+         <target state="translated">Kündigungsfrist</target>
+     </trans-unit>
+     <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder" approved="yes">
+         <source>form.dateLeavePlaceholder</source>
+         <target state="translated">Bitte wählen Sie Ihre Kündigungsfrist</target>
+     </trans-unit>
+    </body>
   </file>
 </xliff>

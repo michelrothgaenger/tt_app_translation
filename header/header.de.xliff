@@ -161,6 +161,10 @@
         <source>app.header.userSubmenu.ats</source>
         <target state="translated">ATS</target>
       </trans-unit>
-    </body>
+    <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01a" resname="app.header.employerSubmenu.company.profile" approved="yes">
+        <source>app.header.employerSubmenu.company.profile</source>
+        <target state="translated">Unternehmensprofil</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

@@ -1101,13 +1101,13 @@
         <source>app.profile.editor.noticePeriod</source>
         <target state="translated">Notice period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.profile.editor.editLogo">
+      <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.profile.editor.editLogo" approved="yes">
         <source>app.profile.editor.editLogo</source>
-        <target>Edit Logo</target>
+        <target state="translated">Edit logo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.profile.editor.editBuilding">
+      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.profile.editor.editBuilding" approved="yes">
         <source>app.profile.editor.editBuilding</source>
-        <target>Edit building</target>
+        <target state="translated">Edit picture</target>
       </trans-unit>
     </body>
   </file>

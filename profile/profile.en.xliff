@@ -1093,13 +1093,13 @@
         <source>app.profile.dateLeave.other</source>
         <target state="translated">other</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder">
+      <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder" approved="yes">
         <source>form.dateLeavePlaceholder</source>
-        <target>Choose your notice period</target>
+        <target state="translated">Choose your notice period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.profile.editor.noticePeriod">
+      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.profile.editor.noticePeriod" approved="yes">
         <source>app.profile.editor.noticePeriod</source>
-        <target>Notice period</target>
+        <target state="translated">Notice period</target>
       </trans-unit>
     </body>
   </file>

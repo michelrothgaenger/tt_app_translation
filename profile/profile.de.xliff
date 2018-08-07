@@ -1098,6 +1098,14 @@
         <source>app.profile.editor.noticePeriod</source>
         <target state="translated">Kündigungsfrist</target>
       </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.profile.editor.editLogo" approved="yes">
+        <source>app.profile.editor.editLogo</source>
+        <target state="translated">Logo bearbeiten</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.profile.editor.editBuilding" approved="yes">
+        <source>app.profile.editor.editBuilding</source>
+        <target state="translated">Bild bearbeiten</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

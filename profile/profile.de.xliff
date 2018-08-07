@@ -968,7 +968,7 @@
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations" approved="yes">
         <source>app.profile.editor.ambassadorLocations</source>
-        <target state="translated">Standorte</target>
+        <target state="translated">Standorte, für die Sie Kandidaten vorschlagen wollen</target>
       </trans-unit>
       <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories" approved="yes">
         <source>app.notification.causes.noJobCategories</source>
@@ -1050,6 +1050,46 @@
         <source>app.profile.dashboard.welcomeText</source>
         <target state="translated">Willkommen!</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170205" resname="app.profile.editor.recruiterBusinessAreas" approved="yes">
+        <source>app.profile.editor.recruiterBusinessAreas</source>
+        <target state="translated">Fachgebiete für die Sie Kandidaten vorschlagen können</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170206" resname="app.profile.dateLeave.1m" approved="yes">
+        <source>app.profile.dateLeave.1m</source>
+        <target state="translated">1 Monat</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170207" resname="app.profile.dateLeave.2m" approved="yes">
+        <source>app.profile.dateLeave.2m</source>
+        <target state="translated">2 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170208" resname="app.profile.dateLeave.3m" approved="yes">
+        <source>app.profile.dateLeave.3m</source>
+        <target state="translated">3 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170209" resname="app.profile.dateLeave.4m" approved="yes">
+        <source>app.profile.dateLeave.4m</source>
+        <target state="translated">4 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170210" resname="app.profile.dateLeave.5m" approved="yes">
+        <source>app.profile.dateLeave.5m</source>
+        <target state="translated">5 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170211" resname="app.profile.dateLeave.6m" approved="yes">
+        <source>app.profile.dateLeave.6m</source>
+        <target state="translated">5 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170212" resname="app.profile.dateLeave.12m" approved="yes">
+        <source>app.profile.dateLeave.12m</source>
+        <target state="translated">12 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170213" resname="app.profile.dateLeave.24m" approved="yes">
+        <source>app.profile.dateLeave.24m</source>
+        <target state="translated">24 Monate</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170214" resname="app.profile.dateLeave.other" approved="yes">
+        <source>app.profile.dateLeave.other</source>
+        <target state="translated">Andere</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

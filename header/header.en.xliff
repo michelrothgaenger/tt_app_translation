@@ -13,9 +13,9 @@
         <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01a" resname="app.header.employerSubmenu.company.profile">
+      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01a" resname="app.header.employerSubmenu.company.profile" approved="yes">
         <source>app.header.employerSubmenu.company.profile</source>
-        <target>Company Profile</target>
+        <target state="translated">Company Profile</target>
       </trans-unit>
       <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
         <source>app.signOut</source>

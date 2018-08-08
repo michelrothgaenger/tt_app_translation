@@ -265,9 +265,9 @@
         <source>app.userRegister.step4.specialityLabel</source>
         <target>What is your speciality?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepImportLinkedIn" approved="yes">
-        <source>app.userRegister.step5.stepImportLinkedIn</source>
-        <target state="translated">Step 2/4: Social networks and CV</target>
+      <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepSocialNetworksAndCV" approved="yes">
+        <source>app.userRegister.step5.stepSocialNetworksAndCV</source>
+        <target state="translated">Step 2/3: Social networks and CV</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
@@ -357,40 +357,40 @@
         <source>app.userRegister.step6.photoNotLarger</source>
         <target state="translated">The file must not be larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step7.stepYourPreferences" approved="yes">
-        <source>app.userRegister.step7.stepYourPreferences</source>
-        <target state="translated">Step 4/4: Your Preferences</target>
+      <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step6.stepYourPreferences" approved="yes">
+        <source>app.userRegister.step6.stepYourPreferences</source>
+        <target state="translated">Step 3/3: Your Preferences</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
-        <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step6.kindOfWorkYouLookingFor" approved="yes">
+        <source>app.userRegister.step6.kindOfWorkYouLookingFor</source>
         <target state="translated">Thank you for providing your details! Please specify down below your desired field of profession and the cities/area you want to work in.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
-        <source>app.userRegister.step7.jobPreferences</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step6.jobPreferences" approved="yes">
+        <source>app.userRegister.step6.jobPreferences</source>
         <target state="translated">Job preferences</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step7.jobPreferencesText" approved="yes">
-        <source>app.userRegister.step7.jobPreferencesText</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step6.jobPreferencesText" approved="yes">
+        <source>app.userRegister.step6.jobPreferencesText</source>
         <target state="translated">Specifying your expectations helps us find the most interesting jobs for you.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step7.preferedJobCategories" approved="yes">
-        <source>app.userRegister.step7.preferedJobCategories</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step6.preferedJobCategories" approved="yes">
+        <source>app.userRegister.step6.preferedJobCategories</source>
         <target state="translated">Preferred job categories</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
-        <source>app.userRegister.step7.chooseCategoryLabel</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step6.chooseCategoryLabel" approved="yes">
+        <source>app.userRegister.step6.chooseCategoryLabel</source>
         <target state="translated">Choose your desired fields of profession (e.g. Oceanfreight)</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
-        <source>app.userRegister.step7.preferedLocations</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step6.preferedLocations" approved="yes">
+        <source>app.userRegister.step6.preferedLocations</source>
         <target state="translated">Preferred regions &amp; countries</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel" approved="yes">
-        <source>app.userRegister.step7.preferedLocationsLabel</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step6.preferedLocationsLabel" approved="yes">
+        <source>app.userRegister.step6.preferedLocationsLabel</source>
         <target state="translated">Choose preferred regions/countries/cities</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step7.salaryExpectations" approved="yes">
-        <source>app.userRegister.step7.salaryExpectations</source>
+      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step6.salaryExpectations" approved="yes">
+        <source>app.userRegister.step6.salaryExpectations</source>
         <target state="translated">Salary expectations</target>
       </trans-unit>
       <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="yes">

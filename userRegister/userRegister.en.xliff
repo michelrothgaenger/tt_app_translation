@@ -393,6 +393,10 @@
         <source>app.userRegister.step6.salaryExpectations</source>
         <target state="translated">Salary expectations</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170099a" resname="app.userRegister.step6.noticePeriod">
+        <source>app.userRegister.step6.noticePeriod</source>
+        <target>Notice period</target>
+      </trans-unit>
       <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="yes">
         <source>form.locationPlaceholder</source>
         <target state="translated">Enter a Location</target>

@@ -61,6 +61,34 @@
                 <source>app.hirePopup.contract.notBlank</source>
                 <target state="translated">Please upload a contract</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a11" resname="app.uploadCandidatePopup.cv.notBlank">
+                <source>app.uploadCandidatePopup.cv.notBlank</source>
+                <target>Please upload a cv</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a12" resname="app.uploadCandidatePopup.firstName.notBlank">
+                <source>app.uploadCandidatePopup.firstName.notBlank</source>
+                <target>Please type a first name</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a13" resname="app.uploadCandidatePopup.lastName.notBlank">
+                <source>app.uploadCandidatePopup.lastName.notBlank</source>
+                <target>Please type a last name</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a14" resname="app.uploadCandidatePopup.email.notBlank">
+                <source>app.uploadCandidatePopup.email.notBlank</source>
+                <target>Please type an email</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a15" resname="app.uploadCandidatePopup.salary.notBlank">
+                <source>app.uploadCandidatePopup.salary.notBlank</source>
+                <target>Please choose a salary</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a16" resname="app.uploadCandidatePopup.currency.notBlank">
+                <source>app.uploadCandidatePopup.currency.notBlank</source>
+                <target>Please choose a currency</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a17" resname="app.uploadCandidatePopup.dateOfLeave.notBlank">
+                <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
+                <target>Please choose a notice period</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

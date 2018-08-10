@@ -61,33 +61,33 @@
                 <source>app.hirePopup.contract.notBlank</source>
                 <target state="translated">Please upload a contract</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a11" resname="app.uploadCandidatePopup.cv.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a11" resname="app.uploadCandidatePopup.cv.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.cv.notBlank</source>
-                <target>Please upload a cv</target>
+                <target state="translated">Please upload a CV</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a12" resname="app.uploadCandidatePopup.firstName.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a12" resname="app.uploadCandidatePopup.firstName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.firstName.notBlank</source>
-                <target>Please type a first name</target>
+                <target state="translated">Please type a first name</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a13" resname="app.uploadCandidatePopup.lastName.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a13" resname="app.uploadCandidatePopup.lastName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.lastName.notBlank</source>
-                <target>Please type a last name</target>
+                <target state="translated">Please type a last name</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a14" resname="app.uploadCandidatePopup.email.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a14" resname="app.uploadCandidatePopup.email.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.email.notBlank</source>
-                <target>Please type an email</target>
+                <target state="translated">Please type an email</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a15" resname="app.uploadCandidatePopup.salary.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a15" resname="app.uploadCandidatePopup.salary.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.salary.notBlank</source>
-                <target>Please choose a salary</target>
+                <target state="translated">Please choose a salary</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a16" resname="app.uploadCandidatePopup.currency.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a16" resname="app.uploadCandidatePopup.currency.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.currency.notBlank</source>
-                <target>Please choose a currency</target>
+                <target state="translated">Please choose a currency</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a17" resname="app.uploadCandidatePopup.dateOfLeave.notBlank">
+            <trans-unit id="dea14b171b9a004dd6a261486d657a17" resname="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
-                <target>Please choose a notice period</target>
+                <target state="translated">Please choose a notice period</target>
             </trans-unit>
         </body>
     </file>

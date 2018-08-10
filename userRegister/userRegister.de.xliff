@@ -529,6 +529,50 @@
          <source>form.dateLeavePlaceholder</source>
          <target state="translated">Wählen Sie Ihre Kündigungsfrist</target>
      </trans-unit>
-    </body>
+    <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepSocialNetworksAndCV" approved="yes">
+        <source>app.userRegister.step5.stepSocialNetworksAndCV</source>
+        <target state="translated">Schritt 2/3: LinkedIn und Lebenslauf</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step6.stepYourPreferences" approved="yes">
+        <source>app.userRegister.step6.stepYourPreferences</source>
+        <target state="translated">Schritt 3/3: Ihre Präferenzen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step6.kindOfWorkYouLookingFor" approved="yes">
+        <source>app.userRegister.step6.kindOfWorkYouLookingFor</source>
+        <target state="translated">Vielen Dank für Ihre Informationen. Bitte geben Sie nachstehend an, in welchen Städten/Gegenden und in welchen Bereichen Sie arbeiten wollen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step6.jobPreferences" approved="yes">
+        <source>app.userRegister.step6.jobPreferences</source>
+        <target state="translated">Bevorzugte Arbeitsfelder</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step6.jobPreferencesText" approved="yes">
+        <source>app.userRegister.step6.jobPreferencesText</source>
+        <target state="translated">Benennen Sie Ihre Bereiche und helfen Sie uns auf diese Weise Ihnen passende Jobs vorzuschlagen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step6.preferedJobCategories" approved="yes">
+        <source>app.userRegister.step6.preferedJobCategories</source>
+        <target state="translated">Bevorzugte Arbeitsfelder</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step6.chooseCategoryLabel" approved="yes">
+        <source>app.userRegister.step6.chooseCategoryLabel</source>
+        <target state="translated">Wählen Sie Ihre gewünschten Arbeitsfelder (z.B. Seefracht)</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step6.preferedLocations" approved="yes">
+        <source>app.userRegister.step6.preferedLocations</source>
+        <target state="translated">Bevorzugte Städte/Gebiete</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step6.preferedLocationsLabel" approved="yes">
+        <source>app.userRegister.step6.preferedLocationsLabel</source>
+        <target state="translated">Wählen Sie Ihre bevorzugten Regionen/Länder/Städte</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step6.salaryExpectations" approved="yes">
+        <source>app.userRegister.step6.salaryExpectations</source>
+        <target state="translated">Gehaltsvorstellung</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170099a" resname="app.userRegister.step6.noticePeriod" approved="yes">
+        <source>app.userRegister.step6.noticePeriod</source>
+        <target state="translated">Kündigungsfrist</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

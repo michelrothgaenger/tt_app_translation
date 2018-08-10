@@ -253,10 +253,6 @@
         <source>app.userRegister.step4.specialityLabel</source>
         <target state="translated">Was sind Ihre Fachgebiete? (z.B. Seefracht)</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepImportLinkedIn" approved="yes">
-        <source>app.userRegister.step5.stepImportLinkedIn</source>
-        <target state="translated">Schritt 2/4: Soziale Netzwerke und Lebenslauf</target>
-      </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
         <target state="translated">Importieren Sie Ihre Daten</target>
@@ -340,42 +336,6 @@
       <trans-unit id="382ba41746874fac96eb5077d7170061" resname="app.userRegister.step6.photoNotLarger" approved="yes">
         <source>app.userRegister.step6.photoNotLarger</source>
         <target state="translated">Dateigröße darf 15 MB nicht überschreiten.</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step7.stepYourPreferences" approved="yes">
-        <source>app.userRegister.step7.stepYourPreferences</source>
-        <target state="translated">Schritt 4/4: Ihre Vorstellungen</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
-        <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
-        <target state="translated">Vielen Dank für Ihre Angaben! Bitte geben Sie unten Ihr gewünschtes Berufsfeld und die Städte/Gebiete an, in denen Sie arbeiten möchten.</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
-        <source>app.userRegister.step7.jobPreferences</source>
-        <target state="translated">Persönliche Rahmenbedingungen</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step7.jobPreferencesText" approved="yes">
-        <source>app.userRegister.step7.jobPreferencesText</source>
-        <target state="translated">Je genauer wir Ihre Vorstellungen kennen desto passender sind unsere Stellenangebote für Sie.</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step7.preferedJobCategories" approved="yes">
-        <source>app.userRegister.step7.preferedJobCategories</source>
-        <target state="translated">Bevorzugte Fachbereiche</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
-        <source>app.userRegister.step7.chooseCategoryLabel</source>
-        <target state="translated">Wählen Sie Ihre gewünschten Berufsfelder (z.B. Seefracht)</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
-        <source>app.userRegister.step7.preferedLocations</source>
-        <target state="translated">Bevorzugte Regionen &amp; Länder</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel" approved="yes">
-        <source>app.userRegister.step7.preferedLocationsLabel</source>
-        <target state="translated">Nennen Sie Regionen, Länder oder Städte</target>
-      </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step7.salaryExpectations" approved="yes">
-        <source>app.userRegister.step7.salaryExpectations</source>
-        <target state="translated">Gehaltsvorstellungen</target>
       </trans-unit>
       <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="yes">
         <source>form.locationPlaceholder</source>

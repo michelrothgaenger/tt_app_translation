@@ -93,10 +93,6 @@
             <source>app.flash.linkedin.alreadyInUse</source>
             <target state="translated">This LinkedIn account already in use by another account</target>
         </trans-unit>
-        <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98198" resname="app.flash.uploadedCandidate.linkNotActive">
-            <source>app.flash.uploadedCandidate.linkNotActive</source>
-            <target>This link not active anymore.</target>
-        </trans-unit>
     </body>
   </file>
 </xliff>

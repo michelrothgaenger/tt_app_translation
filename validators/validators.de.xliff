@@ -65,6 +65,34 @@
                 <source>app.hirePopup.contract.notBlank</source>
                 <target state="translated">Bitte laden Sie einen Arbeitsvertrag hoch</target>
             </trans-unit>
+        <trans-unit id="dea14b171b9a004dd6a261486d657a11" resname="app.uploadCandidatePopup.cv.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.cv.notBlank</source>
+                <target state="translated">Bitte laden Sie einen Lebenslauf hoch</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a12" resname="app.uploadCandidatePopup.firstName.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.firstName.notBlank</source>
+                <target state="translated">Bitte füllen Sie den Vornamen aus</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a13" resname="app.uploadCandidatePopup.lastName.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.lastName.notBlank</source>
+                <target state="translated">Bitte füllen Sie den Nachnamen aus</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a14" resname="app.uploadCandidatePopup.email.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.email.notBlank</source>
+                <target state="translated">Bitte füllen Sie die Email aus</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a15" resname="app.uploadCandidatePopup.salary.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.salary.notBlank</source>
+                <target state="translated">Bitte geben Sie ein Gehalt ein</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a16" resname="app.uploadCandidatePopup.currency.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.currency.notBlank</source>
+                <target state="translated">Bitte wählen Sie eine Währung</target>
+            </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a17" resname="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="yes">
+                <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
+                <target state="translated">Bitte geben Sie die Kündigungsfrist ein</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

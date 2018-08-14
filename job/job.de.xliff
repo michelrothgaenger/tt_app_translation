@@ -370,6 +370,14 @@
           <source>app.job.edit</source>
           <target state="translated">Bearbeiten</target>
         </trans-unit>
+    <trans-unit id="57b3608c2c5d404bb728492b17669f30" resname="app.job.apply.error.alreadyExist" approved="yes">
+          <source>app.job.apply.error.alreadyExist</source>
+          <target state="translated">Sie haben sich bereits für die Position beworben.</target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f31" resname="app.job.apply.defaultMessage" approved="yes">
+          <source>app.job.apply.defaultMessage</source>
+          <target state="translated">Eingereicht von %recruiterFirstName% %recruiterLastName%</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

@@ -13,13 +13,13 @@
         <source>app.informRecruiterEmail.pendingConfirmation.content</source>
         <target state="translated">Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted an %candidateFirstName% %candidateLastName% for position %position%. Due data privacy reasons we send an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.informRecruiterEmail.applicationConfirmed.subject">
+      <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.subjectt</source>
-        <target>Candidate was confirmed application</target>
+        <target state="translated">Candidate was confirmed application</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.informRecruiterEmail.applicationConfirmed.content">
+      <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.content</source>
-        <target>Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position %position%.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position %position%.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>
   </file>

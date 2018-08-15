@@ -537,6 +537,30 @@
          <source>form.dateLeavePlaceholder</source>
          <target state="translated">Choose your notice period</target>
      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.userRegister.step3.greeting.recruiter">
+        <source>app.userRegister.step3.greeting.recruiter</source>
+        <target>Great! First part done.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.userRegister.step3.waitForMore.recruiter">
+        <source>app.userRegister.step3.waitForMore.recruiter</source>
+        <target>Invest just a few more minutes in your future career:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.userRegister.step3.profileFilling.recruiter">
+        <source>app.userRegister.step3.profileFilling.recruiter</source>
+        <target>Fill in your profile.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.userRegister.step3.lookAroundOrContinue.recruiter">
+        <source>app.userRegister.step3.lookAroundOrContinue.recruiter</source>
+        <target>Take a look around or continue filling in your profile. Note: You can go back to your profile and make changes at any time.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.userRegister.step3.continueProfileFilling.recruiter">
+        <source>app.userRegister.step3.continueProfileFilling.recruiter</source>
+        <target>Fill in my profile</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700106" resname="app.userRegister.step3.lookAround.recruiter">
+        <source>app.userRegister.step3.lookAround.recruiter</source>
+        <target><![CDATA[Pass & take a look around]]></target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

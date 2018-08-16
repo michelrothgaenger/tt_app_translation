@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson">
         <source>app.ats.infoEmail.noContactPerson</source>
-        <target>Dear TT team,&#10;&#10;The company %companyName% with ID: %companyID% haven't contact person. Therefore nobody receive an email about new application.</target>
+        <target>Dear TT team,&#10;&#10;The company %companyName% with ID: %companyId% haven't contact person. Therefore nobody receive an email about new application.</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360953" resname="app.ats.settings.main.contactPerson.label">
         <source>app.ats.settings.main.contactPerson.label</source>

@@ -9,121 +9,121 @@
         <source>app.ats.meta.title</source>
         <target state="translated">ATS</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder" approved="yes">
         <source>app.ats.searchInput.placeholder</source>
-        <target>Search by Candidate / Position</target>
+        <target state="translated">Search by Candidate / Position</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360890" resname="app.ats.aside.settings">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360890" resname="app.ats.aside.settings" approved="yes">
         <source>app.ats.aside.settings</source>
-        <target>Settings</target>
+        <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360891" resname="app.ats.aside.check.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360891" resname="app.ats.aside.check.title" approved="yes">
         <source>app.ats.aside.check.title</source>
-        <target>Select all</target>
+        <target state="translated">Select all</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360892" resname="app.ats.aside.check.info">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360892" resname="app.ats.aside.check.info" approved="yes">
         <source>app.ats.aside.check.info</source>
-        <target><![CDATA[... & change selected status to ]]></target>
+        <target state="translated"><![CDATA[... & change selected status to ]]></target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360893" resname="app.ats.popup.save.btn">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360893" resname="app.ats.popup.save.btn" approved="yes">
         <source>app.ats.popup.save.btn</source>
-        <target>Save</target>
+        <target state="translated">Save</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro" approved="yes">
         <source>app.ats.popup.info.name.intro</source>
-        <target>I hereby confirm that we will employ </target>
+        <target state="translated">I hereby confirm that we will employ </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro" approved="yes">
         <source>app.ats.popup.info.job.intro</source>
-        <target> in our company for the position </target>
+        <target state="translated"> in our company for the position </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360896" resname="app.ats.popup.info.end">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896" resname="app.ats.popup.info.end" approved="yes">
         <source>app.ats.popup.info.end</source>
-        <target>. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
+        <target state="translated">. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360896a" resname="app.ats.popup.info.allSelects">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896a" resname="app.ats.popup.info.allSelects" approved="yes">
         <source>app.ats.popup.info.allSelects</source>
-        <target>I hereby confirm that we will employ these applicants in our company. A corresponding employments have been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the precending information.</target>
+        <target state="translated">I hereby confirm that we will employ these applicants in our company. A corresponding employments have been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label" approved="yes">
         <source>app.ats.popup.salary.label</source>
-        <target>Salary</target>
+        <target state="translated">Salary</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360897a" resname="app.ats.popup.salary.input.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897a" resname="app.ats.popup.salary.input.title" approved="yes">
         <source>app.ats.popup.salary.input.title</source>
-        <target>Salary input should only contain numbers</target>
+        <target state="translated">Salary input should only contain numbers</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label" approved="yes">
         <source>app.ats.popup.currency.label</source>
-        <target>Currency</target>
+        <target state="translated">Currency</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label" approved="yes">
         <source>app.ats.popup.start.date.label</source>
-        <target>Start Date</target>
+        <target state="translated">Start Date</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360899a" resname="app.ats.popup.start.date.error">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899a" resname="app.ats.popup.start.date.error" approved="yes">
         <source>app.ats.popup.start.date.error</source>
-        <target>Date should be later or equal today</target>
+        <target state="translated">Date should be later or equal today</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label" approved="yes">
         <source>app.ats.popup.upload.contract.label</source>
-        <target>Upload Contract</target>
+        <target state="translated">Upload Contract</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings" approved="yes">
         <source>app.ats.settings.aside.link.settings</source>
-        <target>Settings</target>
+        <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360901a" resname="app.ats.settings.aside.link.settings.locale">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901a" resname="app.ats.settings.aside.link.settings.locale" approved="yes">
         <source>app.ats.settings.aside.link.settings.locale</source>
-        <target> (%locale%)</target>
+        <target state="translated"> (%locale%)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360902" resname="app.ats.settings.aside.link.emailText">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360902" resname="app.ats.settings.aside.link.emailText" approved="yes">
         <source>app.ats.settings.aside.link.emailText</source>
-        <target>E-mail Text</target>
+        <target state="translated">E-mail Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360903" resname="app.ats.settings.aside.link.contactPerson">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360903" resname="app.ats.settings.aside.link.contactPerson" approved="yes">
         <source>app.ats.settings.aside.link.contactPerson</source>
-        <target>Contact Person</target>
+        <target state="translated">Contact Person</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360904" resname="app.ats.settings.main.emalFooter.label">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360904" resname="app.ats.settings.main.emalFooter.label" approved="yes">
         <source>app.ats.settings.main.emalFooter.label</source>
-        <target>E-Mail-Footer (Text to attach when sending out the emails)</target>
+        <target state="translated">E-Mail-Footer (Text to attach when sending out the emails)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360905" resname="app.ats.settings.main.welcome.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360905" resname="app.ats.settings.main.welcome.title" approved="yes">
         <source>app.ats.settings.main.welcome.title</source>
-        <target>Welcome</target>
+        <target state="translated">Welcome</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360906" resname="app.ats.settings.main.welcome.subject">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360906" resname="app.ats.settings.main.welcome.subject" approved="yes">
         <source>app.ats.settings.main.welcome.subject</source>
-        <target>Welcome mail subject</target>
+        <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360907" resname="app.ats.settings.main.welcome.text">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360907" resname="app.ats.settings.main.welcome.text" approved="yes">
         <source>app.ats.settings.main.welcome.text</source>
-        <target>Welcome mail subject</target>
+        <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360908" resname="app.ats.settings.main.shortlist.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360908" resname="app.ats.settings.main.shortlist.title" approved="yes">
         <source>app.ats.settings.main.shortlist.title</source>
-        <target>Shortlist</target>
+        <target state="translated">Shortlist</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject" approved="yes">
         <source>app.ats.settings.main.shortlist.subject</source>
-        <target>Welcome mail subject</target>
+        <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text" approved="yes">
         <source>app.ats.settings.main.shortlist.text</source>
-        <target>Shortlist text to send to applicant</target>
+        <target state="translated">Shortlist text to send to applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title" approved="yes">
         <source>app.ats.settings.main.rejectBefore.title</source>
-        <target>Reject (before interview)</target>
+        <target state="translated">Reject (before interview)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject" approved="yes">
         <source>app.ats.settings.main.rejectBefore.subject</source>
-        <target>Welcome mail subject</target>
+        <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text" approved="yes">
         <source>app.ats.settings.main.rejectBefore.text</source>
-        <target>Reject text to send to applicant before interviewing</target>
+        <target state="translated">Reject text to send to applicant before interviewing</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360914" resname="app.ats.settings.main.rejectAfter.title">
         <source>app.ats.settings.main.rejectAfter.title</source>
@@ -231,7 +231,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target>With kind regards,&#10;&#10;your HR team&#10;&#10;+49 000000000&lt;br&gt;hr@company.com&#10;Available from 09:00 - 16:00 h</target>
+        <target>With kind regards,
+
+your HR team
+
++49 000000000&lt;br&gt;hr@company.com
+Available from 09:00 - 16:00 h</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
@@ -239,7 +244,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360932" resname="app.ats.settings.main.welcome.text.placeholder">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360933" resname="app.ats.settings.main.shortlist.subject.placeholder">
         <source>app.ats.settings.main.shortlist.subject.placeholder</source>
@@ -247,7 +257,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360934" resname="app.ats.settings.main.shortlist.text.placeholder">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360935" resname="app.ats.settings.main.rejectBefore.subject.placeholder">
         <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
@@ -255,7 +270,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360936" resname="app.ats.settings.main.rejectBefore.text.placeholder">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360937" resname="app.ats.settings.main.rejectAfter.subject.placeholder">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
@@ -263,7 +283,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360938" resname="app.ats.settings.main.rejectAfter.text.placeholder">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360939" resname="app.ats.settings.main.rejectAfter.subject.placeholder">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
@@ -271,7 +296,12 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360940" resname="app.ats.settings.main.rejectAfter.text.placeholder">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title">
         <source>app.ats.settings.main.hire.title</source>
@@ -291,11 +321,18 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360945" resname="app.ats.settings.main.hire.text.placeholder">
         <source>app.ats.settings.main.hire.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter">
         <source>app.ats.email.defaultFooter</source>
-        <target>With kind regards,&#10;&#10;your HR team</target>
+        <target>With kind regards,
+
+your HR team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360947" resname="app.ats.settings.main.interview.title">
         <source>app.ats.settings.main.interview.title</source>
@@ -315,11 +352,18 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder">
         <source>app.ats.settings.main.interview.text.placeholder</source>
-        <target>Dear Applicant,&#10;&#10;here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.&#10;&#10;Best,&#10;HR Team</target>
+        <target>Dear Applicant,
+
+here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+
+Best,
+HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson">
         <source>app.ats.infoEmail.noContactPerson</source>
-        <target>Dear TT team,&#10;&#10;The company %companyName% with ID: %companyId% haven't contact person. Therefore nobody receive an email about new application.</target>
+        <target>Dear TT team,
+
+The company %companyName% with ID: %companyId% haven't contact person. Therefore nobody receive an email about new application.</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360953" resname="app.ats.settings.main.contactPerson.label">
         <source>app.ats.settings.main.contactPerson.label</source>

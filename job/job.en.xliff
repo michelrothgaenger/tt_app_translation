@@ -245,77 +245,77 @@
         <source>app.job.popup.referral.shareTitle</source>
         <target state="translated">Hi, checkout job "%title%".</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af110" resname="app.job.popup.uploadCandidate.title">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af110" resname="app.job.popup.uploadCandidate.title" approved="yes">
         <source>app.job.popup.uploadCandidate.title</source>
-        <target>Upload CV</target>
+        <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af111" resname="app.job.popup.uploadCandidate.description">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af111" resname="app.job.popup.uploadCandidate.description" approved="yes">
         <source>app.job.popup.uploadCandidate.description</source>
-        <target>Use the form below to submit candidate for the current position. Due data privacy reasons we will ask your candidate to confirm his/her application. After candidate's confirmation we will proceed with the candidate. </target>
+        <target state="translated">Use the form below to submit candidate for the current position. Due data privacy reasons we will ask your candidate to confirm his/her application. After candidate's confirmation we will proceed with the candidate. </target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af113" resname="app.job.popup.uploadCandidate.firstname.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af113" resname="app.job.popup.uploadCandidate.firstname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.label</source>
-        <target>Firstname</target>
+        <target state="translated">Firstname</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af114" resname="app.job.popup.uploadCandidate.firstname.input.title">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af114" resname="app.job.popup.uploadCandidate.firstname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.input.title</source>
-        <target>Firstname should contain only letters</target>
+        <target state="translated">Firstname should contain only letters</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af115" resname="app.job.popup.uploadCandidate.lastname.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af115" resname="app.job.popup.uploadCandidate.lastname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.label</source>
-        <target>Lastname</target>
+        <target state="translated">Lastname</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af116" resname="app.job.popup.uploadCandidate.lastname.input.title">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af116" resname="app.job.popup.uploadCandidate.lastname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.input.title</source>
-        <target>Lastname should contain only letters</target>
+        <target state="translated">Lastname should contain only letters</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af117" resname="app.job.popup.uploadCandidate.email.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af117" resname="app.job.popup.uploadCandidate.email.label" approved="yes">
         <source>app.job.popup.uploadCandidate.email.label</source>
-        <target>Email</target>
+        <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118" resname="app.job.popup.uploadCandidate.salary.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118" resname="app.job.popup.uploadCandidate.salary.label" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.label</source>
-        <target>Salary Expectation</target>
+        <target state="translated">Salary Expectation</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118a" resname="app.job.popup.uploadCandidate.salary.initialOption">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118a" resname="app.job.popup.uploadCandidate.salary.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.initialOption</source>
-        <target>Select Salary Range</target>
+        <target state="translated">Select Salary Range</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af119" resname="app.job.popup.uploadCandidate.currency.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af119" resname="app.job.popup.uploadCandidate.currency.label" approved="yes">
         <source>app.job.popup.uploadCandidate.currency.label</source>
-        <target>Curency</target>
+        <target state="translated">Curency</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af120" resname="app.job.popup.uploadCandidate.noticePeriod.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af120" resname="app.job.popup.uploadCandidate.noticePeriod.label" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.label</source>
-        <target>Notice Period</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af121" resname="app.job.popup.uploadCandidate.noticePeriod.initialOption">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af121" resname="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
-        <target>Select Notice Period</target>
+        <target state="translated">Select Notice Period</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af122" resname="app.job.popup.uploadCandidate.cv.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af122" resname="app.job.popup.uploadCandidate.cv.label" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label</source>
-        <target>Upload CV</target>
+        <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af123" resname="app.job.popup.uploadCandidate.cv.label.uploaded">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af123" resname="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
-        <target>Change CV</target>
+        <target state="translated">Change CV</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af124" resname="app.job.popup.uploadCandidate.cv.fileinfo.part1">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af124" resname="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
-        <target>You uploaded </target>
+        <target state="translated">You uploaded </target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af125" resname="app.job.popup.uploadCandidate.cv.fileinfo.part2">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af125" resname="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
-        <target> as CV.</target>
+        <target state="translated"> as CV.</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af126" resname="app.job.popup.uploadCandidate.confirm.input.label">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af126" resname="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
         <source>app.job.popup.uploadCandidate.confirm.input.label</source>
-        <target>I have candidate's permission to submit his/her data for this position.</target>
+        <target state="translated">I have candidate's permission to submit his/her data for this position.</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af127" resname="app.job.popup.uploadCandidate.submitBtn">
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af127" resname="app.job.popup.uploadCandidate.submitBtn" approved="yes">
         <source>app.job.popup.uploadCandidate.submitBtn</source>
-        <target>Submit Candidate</target>
+        <target state="translated">Submit Candidate</target>
       </trans-unit>
       <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
         <source>app.job.referral.readMore</source>
@@ -361,9 +361,9 @@
         <source>app.job.section.main.rowPositionTitle</source>
         <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="1a" resname="app.job.section.main.rowSalaryRangeTitle">
+      <trans-unit id="1a" resname="app.job.section.main.rowSalaryRangeTitle" approved="yes">
         <source>app.job.section.main.rowSalaryRangeTitle</source>
-        <target>Salary Range</target>
+        <target state="translated">Salary Range</target>
       </trans-unit>
       <trans-unit id="2" resname="app.job.section.main.rowLocationTitle" approved="yes">
         <source>app.job.section.main.rowLocationTitle</source>
@@ -393,9 +393,9 @@
         <source>app.job.section.main.ShareJob</source>
         <target state="translated">Share Job</target>
        </trans-unit>
-      <trans-unit id="8a" resname="app.job.section.main.uploadCV">
+      <trans-unit id="8a" resname="app.job.section.main.uploadCV" approved="yes">
         <source>app.job.section.main.uploadCV</source>
-        <target>Upload CV</target>
+        <target state="translated">Upload CV</target>
       </trans-unit>
        <trans-unit id="9" resname="app.section.main.JobApplyButtonTitle" approved="yes">
           <source>app.section.main.JobApplyButtonTitle</source>
@@ -453,17 +453,17 @@
           <source>app.job.apply.defaultMessage</source>
           <target state="translated">Uploaded by %recruiterFirstName% %recruiterLastName%</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f32" resname="app.job.apply.error.noPermission">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f32" resname="app.job.apply.error.noPermission" approved="yes">
             <source>app.job.apply.error.noPermission</source>
-            <target>You have no permission to access this link</target>
+            <target state="translated">You have no permission to access this link</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f33" resname="app.job.apply.error.SignInAndTryAgain">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f33" resname="app.job.apply.error.SignInAndTryAgain" approved="yes">
             <source>app.job.apply.error.SignInAndTryAgain</source>
-            <target>This link related to existing user in system. Please, sign in and try access by link again.</target>
+            <target state="translated">This link related to existing user in system. Please, sign in and try access by link again.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success" approved="yes">
             <source>app.job.apply.uploadCandidate.success</source>
-            <target>You successfully submitted a candidate</target>
+            <target state="translated">You successfully submitted a candidate</target>
         </trans-unit>
     </body>
   </file>

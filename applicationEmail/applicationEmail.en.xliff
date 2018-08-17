@@ -37,9 +37,9 @@
         <source>app.application.generalSalutation</source>
         <target state="translated">Dear user</target>
       </trans-unit>
-      <trans-unit id="87b7b2fa0da0432a888b658d3445077" resname="application.mail.ats">
+      <trans-unit id="87b7b2fa0da0432a888b658d3445077" resname="application.mail.ats" approved="yes">
         <source>application.mail.ats</source>
-        <target>ATS</target>
+        <target state="translated">ATS</target>
       </trans-unit>
     </body>
   </file>

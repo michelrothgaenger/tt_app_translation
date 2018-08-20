@@ -433,6 +433,10 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.coverCV.candidate.message</source>
         <target>Candidate Presentation</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer">
+        <source>app.coverCV.footer</source>
+        <target>Generated on </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

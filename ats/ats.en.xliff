@@ -393,6 +393,46 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.coverCV.candidatePresentation</source>
         <target>Candidate Presentation</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360960" resname="app.coverCV.company">
+        <source>app.coverCV.company</source>
+        <target>Company</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360961" resname="app.coverCV.position">
+        <source>app.coverCV.position</source>
+        <target>Position</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360962" resname="app.coverCV.location">
+        <source>app.coverCV.location</source>
+        <target>Location</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360963" resname="app.coverCV.hrManager">
+        <source>app.coverCV.hrManager</source>
+        <target>Hiring Manager</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360964" resname="app.coverCV.candidate">
+        <source>app.coverCV.candidate</source>
+        <target>Candidate Name</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360965" resname="app.coverCV.salary">
+        <source>app.coverCV.salary</source>
+        <target>Salary Expectations</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360966" resname="app.coverCV.noticePeriod">
+        <source>app.coverCV.noticePeriod</source>
+        <target>Notice Period</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360967" resname="app.coverCV.candidateEmail">
+        <source>app.coverCV.candidateEmail</source>
+        <target>Candidate Email</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360968" resname="app.coverCV.candidateMessage">
+        <source>app.coverCV.candidateMessage</source>
+        <target>Message from Candidate</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidate.message">
+        <source>app.coverCV.candidate.message</source>
+        <target>Candidate Presentation</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

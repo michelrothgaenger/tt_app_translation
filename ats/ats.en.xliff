@@ -389,6 +389,10 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
         <target state="translated">Server error</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360959" resname="app.coverCV.candidatePresentation">
+        <source>app.coverCV.candidatePresentation</source>
+        <target>Candidate Presentation</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

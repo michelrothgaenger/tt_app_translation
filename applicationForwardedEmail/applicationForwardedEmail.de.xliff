@@ -19,11 +19,11 @@
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen und ein Konto bei Transporttalent.com anzulegen.&lt;br&gt;&lt;br&gt;Mit Ihrem Konto bei Transport Talent können Sie den Status Ihrer Bewerbungen live verfolgen sowie weitere spannende Stellenausschreibungen sehen und sich direkt bewerben.&lt;br&gt;&lt;br&gt;Sollte die Bewerbung nicht in Ihrem Interesse sein, so ignorieren Sie bitte diese Nachricht, wir werden Ihre Daten entsprechend löschen.&lt;br&gt;&lt;br&gt;Mit besten Grüßen,&lt;br&gt;Ihr Transport Talent Team aus Hamburg</target>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen und ein Konto bei Transporttalent.com anzulegen.</target>
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen.&lt;br&gt;&lt;br&gt;Sollte die Bewerbung nicht in Ihrem Interesse sein, so ignorieren Sie bitte diese Nachricht, wir werden Ihre Daten entsprechend löschen.&lt;br&gt;&lt;br&gt;Mit besten Grüßen,&lt;br&gt;Ihr Transport Talent Team aus Hamburg</target>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen.</target>
       </trans-unit>
     <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.applicationForwardedEmail.firstPart" approved="yes">
         <source>app.applicationForwardedEmail.firstPart</source>

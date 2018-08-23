@@ -251,7 +251,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">Was sind Ihre Fachgebiete? (z.B. Seefracht)</target>
+        <target state="translated">Was sind Ihre Fachgebiete (z. B. Seefracht)?</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
@@ -532,6 +532,14 @@
       <trans-unit id="382ba41746874fac96eb5077d7170099a" resname="app.userRegister.step6.noticePeriod" approved="yes">
         <source>app.userRegister.step6.noticePeriod</source>
         <target state="translated">Kündigungsfrist</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.userRegister.step3.greeting.recruiter" approved="yes">
+        <source>app.userRegister.step3.greeting.recruiter</source>
+        <target state="translated">Super! Der erste Teil ist geschafft.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.userRegister.step3.profileFilling.recruiter" approved="yes">
+        <source>app.userRegister.step3.profileFilling.recruiter</source>
+        <target state="translated">Geben Sie Ihre Präferenzen an</target>
       </trans-unit>
       </body>
   </file>

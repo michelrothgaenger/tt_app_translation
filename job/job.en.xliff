@@ -133,9 +133,9 @@
         <source>app.job.section.popup.redNoteFirstPart</source>
         <target state="translated">Note: We only forward applications with a complete user profile.</target>
       </trans-unit>
-      <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
+      <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart">
         <source>app.job.section.popup.redNoteSecondPart</source>
-        <target state="translated">Please upload your CV before continuing.</target>
+        <target>Please upload your CV, choose notice period and salary expectation before continuing.</target>
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
@@ -461,9 +461,9 @@
             <source>app.job.apply.error.SignInAndTryAgain</source>
             <target state="translated">This link related to existing user in system. Please, sign in and try access by link again.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success" approved="yes">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success">
             <source>app.job.apply.uploadCandidate.success</source>
-            <target state="translated">You successfully submitted a candidate</target>
+            <target>You successfully submitted an application</target>
         </trans-unit>
     </body>
   </file>

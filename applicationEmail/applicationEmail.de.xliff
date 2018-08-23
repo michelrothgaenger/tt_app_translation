@@ -37,6 +37,10 @@
         <source>app.application.generalSalutation</source>
         <target state="translated">Guten Tag,</target>
       </trans-unit>
+    <trans-unit id="87b7b2fa0da0432a888b658d3445077" resname="application.mail.ats" approved="yes">
+        <source>application.mail.ats</source>
+        <target state="translated">ATS</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

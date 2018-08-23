@@ -133,9 +133,9 @@
         <source>app.job.section.popup.redNoteFirstPart</source>
         <target state="translated">Note: We only forward applications with a complete user profile.</target>
       </trans-unit>
-      <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart">
+      <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
-        <target>Please upload your CV, choose notice period and salary expectation before continuing.</target>
+        <target state="translated">Please upload your CV, choose notice period and salary expectation before continuing.</target>
       </trans-unit>
       <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>

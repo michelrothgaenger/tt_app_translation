@@ -101,6 +101,14 @@
         <source>app.profile.settings.tab.login.title</source>
         <target state="translated">Login</target>
       </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a51" resname="app.profile.dashboard.contactTT.tile.title">
+        <source>app.profile.dashboard.contactTT.tile.title</source>
+        <target>Your contact at Transport Talent</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a52" resname="app.profile.dashboard.contactTT.tile.SheduleCallBtn">
+        <source>app.profile.dashboard.contactTT.tile.SheduleCallBtn</source>
+        <target>Shedule Call</target>
+      </trans-unit>
       <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Profile</target>

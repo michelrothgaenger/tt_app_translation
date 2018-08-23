@@ -136,7 +136,7 @@
       </trans-unit>
       <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
-        <target state="translated">Bitte laden Sie Ihren Lebenslauf hoch, bevor Sie die Bewerbung abschicken.</target>
+        <target state="translated">Bitte laden Sie Ihren Lebenslauf hoch, geben Sie Ihre Kündigungsfrist und Gehaltsvorstellungen an, bevor Sie die Bewerbung abschicken.</target>
       </trans-unit>
       <trans-unit id="8849884335f447a8abb2e64bfa85bb36" resname="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleFirstPart</source>
@@ -377,6 +377,98 @@
         <trans-unit id="57b3608c2c5d404bb728492b17669f31" resname="app.job.apply.defaultMessage" approved="yes">
           <source>app.job.apply.defaultMessage</source>
           <target state="translated">Eingereicht von %recruiterFirstName% %recruiterLastName%</target>
+        </trans-unit>
+    <trans-unit id="f5cd5a98545e4177ae766910c5e0af110" resname="app.job.popup.uploadCandidate.title" approved="yes">
+        <source>app.job.popup.uploadCandidate.title</source>
+        <target state="translated">CV hochladen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af111" resname="app.job.popup.uploadCandidate.description" approved="yes">
+        <source>app.job.popup.uploadCandidate.description</source>
+        <target state="translated">Nutzen Sie das unten stehende Formular, um Kandidaten für diese Position zu übermitteln. Aus Datenschutzgründen werden wir Ihre/n Kandidaten/in auffordern, seine/ihre Bewerbung zu bestätigen. Nach dieser Bestätigung werden wir das Verfahren mit dem/der Kandidaten/in fortsetzen.</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af113" resname="app.job.popup.uploadCandidate.firstname.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.firstname.label</source>
+        <target state="translated">Vorname</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af114" resname="app.job.popup.uploadCandidate.firstname.input.title" approved="yes">
+        <source>app.job.popup.uploadCandidate.firstname.input.title</source>
+        <target state="translated">Vorname darf nur Buchstaben enthalten</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af115" resname="app.job.popup.uploadCandidate.lastname.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.lastname.label</source>
+        <target state="translated">Nachname</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af116" resname="app.job.popup.uploadCandidate.lastname.input.title" approved="yes">
+        <source>app.job.popup.uploadCandidate.lastname.input.title</source>
+        <target state="translated">Nachname darf nur Buchstaben enthalten</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af117" resname="app.job.popup.uploadCandidate.email.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.email.label</source>
+        <target state="translated">E-Mail</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118" resname="app.job.popup.uploadCandidate.salary.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.salary.label</source>
+        <target state="translated">Gehaltsvorstellungen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118a" resname="app.job.popup.uploadCandidate.salary.initialOption" approved="yes">
+        <source>app.job.popup.uploadCandidate.salary.initialOption</source>
+        <target state="translated">Gehaltsrahmen auswählen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af119" resname="app.job.popup.uploadCandidate.currency.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.currency.label</source>
+        <target state="translated">Währung</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af120" resname="app.job.popup.uploadCandidate.noticePeriod.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.noticePeriod.label</source>
+        <target state="translated">Kündigungsfrist</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af121" resname="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="yes">
+        <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
+        <target state="translated">Kündigungsfrist auswählen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af122" resname="app.job.popup.uploadCandidate.cv.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.cv.label</source>
+        <target state="translated">CV hochladen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af123" resname="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
+        <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
+        <target state="translated">CV ändern</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af124" resname="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
+        <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
+        <target state="translated">Sie haben hochgeladen</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af125" resname="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
+        <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
+        <target state="translated">als CV.</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af126" resname="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
+        <source>app.job.popup.uploadCandidate.confirm.input.label</source>
+        <target state="translated">Ich bin vom/von der Kandidaten/in ermächtigt, seine/ihre Daten für diese Position zu übermitteln.</target>
+      </trans-unit>
+      <trans-unit id="f5cd5a98545e4177ae766910c5e0af127" resname="app.job.popup.uploadCandidate.submitBtn" approved="yes">
+        <source>app.job.popup.uploadCandidate.submitBtn</source>
+        <target state="translated">Kandidaten übermitteln</target>
+      </trans-unit>
+      <trans-unit id="1a" resname="app.job.section.main.rowSalaryRangeTitle" approved="yes">
+        <source>app.job.section.main.rowSalaryRangeTitle</source>
+        <target state="translated">Gehaltsvorstellung</target>
+      </trans-unit>
+      <trans-unit id="8a" resname="app.job.section.main.uploadCV" approved="yes">
+        <source>app.job.section.main.uploadCV</source>
+        <target state="translated">CV hochladen</target>
+      </trans-unit>
+       <trans-unit id="57b3608c2c5d404bb728492b17669f32" resname="app.job.apply.error.noPermission" approved="yes">
+            <source>app.job.apply.error.noPermission</source>
+            <target state="translated">Sie haben keinen Zugriff auf diesen Link</target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f33" resname="app.job.apply.error.SignInAndTryAgain" approved="yes">
+            <source>app.job.apply.error.SignInAndTryAgain</source>
+            <target state="translated">Dieser Link ist registrierten Nutzern vorbehalten. Bitte registrieren Sie sich und versuchen Sie den Link erneut.</target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success" approved="yes">
+            <source>app.job.apply.uploadCandidate.success</source>
+            <target state="translated">Sie haben erfolgreich eine Bewerbung eingereicht</target>
         </trans-unit>
     </body>
   </file>

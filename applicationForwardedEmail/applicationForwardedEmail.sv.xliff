@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.applicationForwardedEmail" approved="yes">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21c" resname="app.applicationForwardedEmail" approved="yes">
         <source>app.applicationForwardedEmail</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application for %jobTitle% has successfully been forwarded to %companyName%. Please find attached the CV we handed in with your message.&lt;br&gt;&lt;br&gt;&lt;b&gt;Your message to %companyName%:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;%applicationMessage%&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;What happens next?&lt;/b&gt;&lt;br&gt;&lt;br&gt;%companyName% will review your application and contact you directly in case of questions. Please note that Transport Talent cannot provide information regarding your application status. All questions should be directed to %companyName%. Once the application process is finished you will be notified about the results via email.&lt;br&gt;&lt;br&gt;Thank you for using Transport Talent and good luck with your application.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>

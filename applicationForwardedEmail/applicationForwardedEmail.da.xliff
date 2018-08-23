@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.applicationForwardedEmail" approved="yes">
+      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21c" resname="app.applicationForwardedEmail" approved="yes">
         <source>app.applicationForwardedEmail</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Din ansøgning til %jobTitle% er blevet sendt videre til %companyName%. Her kan du kan se dit CV og den besked vi sendte videre fra dig.&lt;br&gt;&lt;br&gt;&lt;b&gt;Din besked til %companyName%:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;%applicationMessage%&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Hvad er næste skridt?&lt;/b&gt;&lt;br&gt;&lt;br&gt;%companyName% vil gennemgå din ansøgning og kontakte dig direkte hvis der skulle være nogen spørgsmål. Transport Talent vil ikke være i stand til at give yderligere information omkring din ansøgning og status af samme. Alle spørgsmål skal sendes direkte til %companyName%. Når ansøgningsprocessen er afsluttet vil du få besked via email.&lt;br&gt;&lt;br&gt;Tak fordi du benytter dig af Transport Talent og held og lykke med din ansøgning.&lt;br&gt;&lt;br&gt;Med Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
       </trans-unit>

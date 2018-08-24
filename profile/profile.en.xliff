@@ -1117,6 +1117,14 @@
         <source>app.profile.editor.editBuilding</source>
         <target state="translated">Edit picture</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.profile.noticePeriod.month">
+        <source>app.profile.noticePeriod.month</source>
+        <target>%count% month|%count% months</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.profile.noticePeriod.other">
+        <source>app.profile.noticePeriod.other</source>
+        <target>other</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

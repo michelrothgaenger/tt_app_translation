@@ -1106,6 +1106,14 @@
         <source>app.profile.editor.editBuilding</source>
         <target state="translated">Bild bearbeiten</target>
       </trans-unit>
-    </body>
+    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a51" resname="app.profile.dashboard.contactTT.tile.title" approved="yes">
+        <source>app.profile.dashboard.contactTT.tile.title</source>
+        <target state="translated">Ihr Ansprechpartner bei TT</target>
+      </trans-unit>
+      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a52" resname="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="yes">
+        <source>app.profile.dashboard.contactTT.tile.SheduleCallBtn</source>
+        <target state="translated">Gespräch vereinbaren</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

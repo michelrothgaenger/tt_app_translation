@@ -445,6 +445,38 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.coverCV.footer</source>
         <target>Generated on </target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609703" resname="app.applicationStatus.applied">
+        <source>app.applicationStatus.applied</source>
+        <target>applied</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609704" resname="app.applicationStatus.shortlisted">
+        <source>app.applicationStatus.shortlisted</source>
+        <target>shortlisted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609705" resname="app.applicationStatus.interview">
+        <source>app.applicationStatus.interview</source>
+        <target>interview</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609706" resname="app.applicationStatus.hire">
+        <source>app.applicationStatus.hire</source>
+        <target>hire</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609707" resname="app.applicationStatus.rejected">
+        <source>app.applicationStatus.rejected</source>
+        <target>rejected</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609708" resname="app.applicationStatus.sent">
+        <source>app.applicationStatus.sent</source>
+        <target>sent</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted">
+        <source>app.applicationStatus.submitted</source>
+        <target>submitted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609710" resname="app.sideMenu.viewAll">
+        <source>app.sideMenu.viewAll</source>
+        <target>View all</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

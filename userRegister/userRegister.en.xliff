@@ -205,6 +205,38 @@
         <source>app.userRegister.step2.signUpButton</source>
         <target state="translated">Sign up</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170017a" resname="app.userRegister.step2.welcome.recruiter">
+        <source>app.userRegister.step2.welcome.recruiter</source>
+        <target>Welcome</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170016a" resname="app.userRegister.step2.greeting.recruiter">
+        <source>app.userRegister.step2.greeting.recruiter</source>
+        <target state="translated">Great to have you on board. If you searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170018a" resname="app.userRegister.step2.contactDetails.recruiter">
+        <source>app.userRegister.step2.contactDetails.recruiter"</source>
+        <target><![CDATA[Basic information - Contact details]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170019a" resname="app.userRegister.step2.contactName.recruiter">
+        <source>app.userRegister.step2.contactName.recruiter</source>
+        <target>Let's start with the very basic. What is your name and how can we get in touch with you?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170020a" resname="app.userRegister.step2.agreementPart1.recruiter">
+        <source>app.userRegister.step2.agreementPart1.recruiter</source>
+        <target>By signing up I agree to the</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700d1f" resname="app.userRegister.step2.agreementPart2.recruiter">
+        <source>app.userRegister.step2.agreementPart2.recruiter</source>
+        <target><![CDATA[terms & conditions for recruiters]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170s22" resname="app.userRegister.step2.signUpButton.recruiter">
+        <source>app.userRegister.step2.signUpButton.recruiter</source>
+        <target>Sign up</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d717xs22" resname="app.userRegister.popup.login.recruiter">
+        <source>app.userRegister.popup.login.recruiter</source>
+        <target>Already registered? Click here to login.</target>
+      </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting" approved="yes">
         <source>app.userRegister.step3.greeting</source>
         <target state="translated">Great! First part done.</target>

@@ -389,81 +389,81 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
         <target state="translated">Server error</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360959" resname="app.coverCV.candidatePresentation">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360959" resname="app.coverCV.candidatePresentation" approved="yes">
         <source>app.coverCV.candidatePresentation</source>
-        <target>Candidate Presentation</target>
+        <target state="translated">Candidate Presentation</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360960" resname="app.coverCV.company">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360960" resname="app.coverCV.company" approved="yes">
         <source>app.coverCV.company</source>
-        <target>Company</target>
+        <target state="translated">Company</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360961" resname="app.coverCV.position">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360961" resname="app.coverCV.position" approved="yes">
         <source>app.coverCV.position</source>
-        <target>Position</target>
+        <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360962" resname="app.coverCV.location">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360962" resname="app.coverCV.location" approved="yes">
         <source>app.coverCV.location</source>
-        <target>Location</target>
+        <target state="translated">Location</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360963" resname="app.coverCV.hrManager">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360963" resname="app.coverCV.hrManager" approved="yes">
         <source>app.coverCV.hrManager</source>
-        <target>Hiring Manager</target>
+        <target state="translated">Hiring Manager</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360964" resname="app.coverCV.candidate">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360964" resname="app.coverCV.candidate" approved="yes">
         <source>app.coverCV.candidate</source>
-        <target>Candidate Name</target>
+        <target state="translated">Candidate Name</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360965" resname="app.coverCV.salary">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360965" resname="app.coverCV.salary" approved="yes">
         <source>app.coverCV.salary</source>
-        <target>Salary Expectations</target>
+        <target state="translated">Salary Expectations</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360966" resname="app.coverCV.noticePeriod">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360966" resname="app.coverCV.noticePeriod" approved="yes">
         <source>app.coverCV.noticePeriod</source>
-        <target>Notice Period</target>
+        <target state="translated">Notice Period</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360967" resname="app.coverCV.candidateEmail">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360967" resname="app.coverCV.candidateEmail" approved="yes">
         <source>app.coverCV.candidateEmail</source>
-        <target>Candidate Email</target>
+        <target state="translated">Candidate Email</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360968" resname="app.coverCV.candidateMessage">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360968" resname="app.coverCV.candidateMessage" approved="yes">
         <source>app.coverCV.candidateMessage</source>
-        <target>Message from Candidate</target>
+        <target state="translated">Message from Candidate</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidate.message">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidate.message" approved="yes">
         <source>app.coverCV.candidate.message</source>
-        <target>Candidate Presentation</target>
+        <target state="translated">Candidate Presentation</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer" approved="yes">
         <source>app.coverCV.footer</source>
-        <target>Generated on </target>
+        <target state="translated">Generated on </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609703" resname="app.applicationStatus.applied">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609703" resname="app.applicationStatus.applied" approved="yes">
         <source>app.applicationStatus.applied</source>
-        <target>applied</target>
+        <target state="translated">applied</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609704" resname="app.applicationStatus.shortlisted">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609704" resname="app.applicationStatus.shortlisted" approved="yes">
         <source>app.applicationStatus.shortlisted</source>
-        <target>shortlisted</target>
+        <target state="translated">shortlisted</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609705" resname="app.applicationStatus.interview">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609705" resname="app.applicationStatus.interview" approved="yes">
         <source>app.applicationStatus.interview</source>
-        <target>interview</target>
+        <target state="translated">interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609706" resname="app.applicationStatus.hire">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609706" resname="app.applicationStatus.hire" approved="yes">
         <source>app.applicationStatus.hire</source>
-        <target>hire</target>
+        <target state="translated">hire</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609707" resname="app.applicationStatus.rejected">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609707" resname="app.applicationStatus.rejected" approved="yes">
         <source>app.applicationStatus.rejected</source>
-        <target>rejected</target>
+        <target state="translated">rejected</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609708" resname="app.applicationStatus.sent">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609708" resname="app.applicationStatus.sent" approved="yes">
         <source>app.applicationStatus.sent</source>
-        <target>sent</target>
+        <target state="translated">sent</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted" approved="yes">
         <source>app.applicationStatus.submitted</source>
-        <target>submitted</target>
+        <target state="translated">submitted</target>
       </trans-unit>
     </body>
   </file>

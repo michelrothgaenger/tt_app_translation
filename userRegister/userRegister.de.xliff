@@ -541,6 +541,54 @@
         <source>app.userRegister.step3.profileFilling.recruiter</source>
         <target state="translated">Geben Sie Ihre Präferenzen an</target>
       </trans-unit>
-      </body>
+      <trans-unit id="382ba41746874fac96eb5077d7170017a" resname="app.userRegister.step2.welcome.recruiter" approved="yes">
+        <source>app.userRegister.step2.welcome.recruiter</source>
+        <target state="translated">Willkommen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170016a" resname="app.userRegister.step2.greeting.recruiter" approved="yes">
+        <source>app.userRegister.step2.greeting.recruiter</source>
+        <target state="translated">Schön, Sie an Bord zu haben. Wir haben Ihre Anmeldung erhalten und werden diese zeitnah freigeben. Füllen Sie in der Zwischenzeit gern bereits ihr Profil aus, damit wir sie optimal mit Informationen versorgen können. Es dauert nur ein paar Minuten. Wenn Sie einfach nur anfangen wollen, Ihre Kandidaten für unsere Jobs zu übermittel, dann überspringen Sie einfach das Profil und fangen Sie sofort an.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170018a" resname="app.userRegister.step2.contactDetails.recruiter" approved="yes">
+        <source>app.userRegister.step2.contactDetails.recruiter"</source>
+        <target state="translated">Grundlegende Informationen - Kontaktdetails</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170019a" resname="app.userRegister.step2.contactName.recruiter" approved="yes">
+        <source>app.userRegister.step2.contactName.recruiter</source>
+        <target state="translated">Fangen wir mit dem Grundlegenden an. Wie ist Ihr Name und wie können wir Sie erreichen?</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170020a" resname="app.userRegister.step2.agreementPart1.recruiter" approved="yes">
+        <source>app.userRegister.step2.agreementPart1.recruiter</source>
+        <target state="translated">Mit der Anmeldung stimme ich den</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700d1f" resname="app.userRegister.step2.agreementPart2.recruiter" approved="yes">
+        <source>app.userRegister.step2.agreementPart2.recruiter</source>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d7170s22" resname="app.userRegister.step2.signUpButton.recruiter" approved="yes">
+        <source>app.userRegister.step2.signUpButton.recruiter</source>
+        <target state="translated">Registrieren</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d717xs22" resname="app.userRegister.popup.login.recruiter" approved="yes">
+        <source>app.userRegister.popup.login.recruiter</source>
+        <target state="translated">Bereits registriert? Hier klicken, um sich anzumelden.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.userRegister.step3.waitForMore.recruiter" approved="yes">
+        <source>app.userRegister.step3.waitForMore.recruiter</source>
+        <target state="translated">Investieren Sie nur noch ein paar Minuten in Ihre zukünftigen Recruitments:</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.userRegister.step3.lookAroundOrContinue.recruiter" approved="yes">
+        <source>app.userRegister.step3.lookAroundOrContinue.recruiter</source>
+        <target state="translated">Schauen Sie sich um oder füllen Sie Ihr Profil weiter aus. Hinweis: Sie können jederzeit zu Ihrem Profil zurückkehren und Änderungen vornehmen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.userRegister.step3.continueProfileFilling.recruiter" approved="yes">
+        <source>app.userRegister.step3.continueProfileFilling.recruiter</source>
+        <target state="translated">Füllen Sie Ihre Präferenzen aus</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700106" resname="app.userRegister.step3.lookAround.recruiter" approved="yes">
+        <source>app.userRegister.step3.lookAround.recruiter</source>
+        <target state="translated">Überspringen &amp; Umsehen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

@@ -461,17 +461,17 @@
             <source>app.job.apply.error.SignInAndTryAgain</source>
             <target state="translated">This link related to existing user in system. Please, sign in and try access by link again.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success" approved="yes">
             <source>app.job.apply.uploadCandidate.success</source>
-            <target>You successfully submitted an application</target>
+            <target state="translated">You successfully submitted an application</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f35" resname="app.job.uploadCV.success.part1">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f35" resname="app.job.uploadCV.success.part1" approved="yes">
             <source>app.job.uploadCV.success.part1</source>
-            <target>You successful submitted </target>
+            <target state="translated">You successful submitted </target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f36" resname="app.job.uploadCV.success.part2">
+        <trans-unit id="57b3608c2c5d404bb728492b17669f36" resname="app.job.uploadCV.success.part2" approved="yes">
             <source>app.job.uploadCV.success.part2</source>
-            <target> - please check your inbox for further information.</target>
+            <target state="translated"> - please check your inbox for further information.</target>
         </trans-unit>
     </body>
   </file>

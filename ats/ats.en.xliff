@@ -69,6 +69,14 @@
         <source>app.ats.popup.upload.contract.label</source>
         <target state="translated">Upload Contract</target>
       </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900a" resname="app.ats.popup.flashMsg.part1">
+        <source>app.ats.popup.flashMsg.part1</source>
+        <target>You successful submitted </target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900b" resname="app.ats.popup.flashMsg.part2">
+        <source>app.ats.popup.flashMsg.part2</source>
+        <target> for the position </target>
+      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings" approved="yes">
         <source>app.ats.settings.aside.link.settings</source>
         <target state="translated">Settings</target>
@@ -464,6 +472,10 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
       <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted" approved="yes">
         <source>app.applicationStatus.submitted</source>
         <target state="translated">submitted</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609710" resname="app.sideMenu.viewAll">
+        <source>app.sideMenu.viewAll</source>
+        <target>View all</target>
       </trans-unit>
     </body>
   </file>

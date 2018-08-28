@@ -1117,13 +1117,13 @@
         <source>app.profile.editor.editBuilding</source>
         <target state="translated">Edit building</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.profile.noticePeriod.month">
+      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.profile.noticePeriod.month" approved="yes">
         <source>app.profile.noticePeriod.month</source>
-        <target>%count% month|%count% months</target>
+        <target state="translated">%count% month|%count% months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.profile.noticePeriod.other">
+      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.profile.noticePeriod.other" approved="yes">
         <source>app.profile.noticePeriod.other</source>
-        <target>other</target>
+        <target state="translated">other</target>
       </trans-unit>
     </body>
   </file>

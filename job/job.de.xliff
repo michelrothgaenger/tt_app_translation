@@ -470,6 +470,14 @@
             <source>app.job.apply.uploadCandidate.success</source>
             <target state="translated">Sie haben erfolgreich eine Bewerbung eingereicht</target>
         </trans-unit>
+    <trans-unit id="57b3608c2c5d404bb728492b17669f35" resname="app.job.uploadCV.success.part1" approved="yes">
+            <source>app.job.uploadCV.success.part1</source>
+            <target state="translated">Sie haben erfolgreich die Unterlagen von</target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f36" resname="app.job.uploadCV.success.part2" approved="yes">
+            <source>app.job.uploadCV.success.part2</source>
+            <target state="translated">übermittelt - sehen Sie in Ihren Posteingang für weitere Informationen.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

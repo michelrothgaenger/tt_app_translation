@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+        <header>
+            <tool tool-id="symfony" tool-name="Symfony"/>
+        </header>
+        <body>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1000" resname="app.registeredRecruiter.toPartner.content">
+                <source>app.registeredRecruiter.toPartner.content</source>
+                <target>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; The user with email %recruiterEmail% just registered as recruiter. You have to approve his/her registration to make him/her able to browse jobs.</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1001" resname="app.registeredRecruiter.toPartner.subject">
+                <source>app.registeredRecruiter.toPartner.subject</source>
+                <target>New recruiter have to be approved</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1002" resname="app.registeredRecruiter.toRecruiter.content">
+                <source>app.registeredRecruiter.toRecruiter.content</source>
+                <target>Dear user, &lt;br&gt;&lt;br&gt;your registration request was submitted to our partners for approval. Once approved you can use TT with all functions.</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1003" resname="app.registeredRecruiter.toRecruiter.subject">
+                <source>app.registeredRecruiter.toRecruiter.subject</source>
+                <target>you will have to be confirmed by TT</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

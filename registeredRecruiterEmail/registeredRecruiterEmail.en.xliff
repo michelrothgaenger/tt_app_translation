@@ -21,6 +21,22 @@
                 <source>app.registeredRecruiter.toRecruiter.subject</source>
                 <target>you will have to be confirmed by TT</target>
             </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1004" resname="app.confirmedRecruiter.toPartner.subject">
+                <source>app.confirmedRecruiter.toPartner.subject</source>
+                <target>Recruiter was confirmed</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1005" resname="app.confirmedRecruiter.toPartner.content">
+                <source>app.confirmedRecruiter.toPartner.content</source>
+                <target>Hi %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successful approved by you and can now browse jobs.</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1006" resname="app.confirmedRecruiter.toRecruiter.subject">
+                <source>app.confirmedRecruiter.toRecruiter.subject</source>
+                <target>Your request was successfully confirmed</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1007" resname="app.confirmedRecruiter.toRecruiter.content">
+                <source>app.confirmedRecruiter.toRecruiter.content</source>
+                <target>Dear user, your registration request was approved by %partnerFirstName %partnerLastName%. Now you can use all functions of TT.</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

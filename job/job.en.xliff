@@ -473,6 +473,18 @@
             <source>app.job.uploadCV.success.part2</source>
             <target state="translated"> - please check your inbox for further information.</target>
         </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f37" resname="app.job.recruiterNotApprovedPopup.title">
+            <source>app.job.recruiterNotApprovedPopup.title</source>
+            <target>Hi </target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f38" resname="app.job.recruiterNotApprovedPopup.info">
+            <source>app.job.recruiterNotApprovedPopup.info</source>
+            <target>your registration request was submitted for approval. Once approved you can use TT with all functions. </target>
+        </trans-unit>
+        <trans-unit id="57b3608c2c5d404bb728492b17669f39" resname="app.job.recruiterNotApprovedPopup.dashboardLink">
+            <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
+            <target>Dashboard</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

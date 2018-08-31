@@ -1133,6 +1133,18 @@
         <source>app.recruiter.approving.success</source>
         <target>The recruiter was approved successfully.</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700108" resname="app.profile.confirmationPopup.title">
+        <source>app.profile.confirmationPopup.title</source>
+        <target>You successful approved</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109a" resname="app.profile.confirmationPopup.closeText">
+        <source>app.profile.confirmationPopup.closeText</source>
+        <target>You can now close this window.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700110" resname="app.profile.confirmationPopup.closeBtn">
+        <source>app.profile.confirmationPopup.closeBtn</source>
+        <target>Close</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

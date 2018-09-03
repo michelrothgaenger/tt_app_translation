@@ -35,7 +35,11 @@
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1007" resname="app.confirmedRecruiter.toRecruiter.content">
                 <source>app.confirmedRecruiter.toRecruiter.content</source>
-                <target>Dear user, your registration request was approved by %partnerFirstName %partnerLastName%. Now you can use all functions of TT.</target>
+                <target>Dear user, your registration request was approved by %partnerFirstName% %partnerLastName%. Now you can use all functions of TT.</target>
+            </trans-unit>
+            <trans-unit id="04ad24925b3a4787896103df0f7a1008" resname="app.registeredRecruiter.toPartner.linkForApproving">
+                <source>app.registeredRecruiter.toPartner.linkForApproving</source>
+                <target>Approve recruiter</target>
             </trans-unit>
         </body>
     </file>

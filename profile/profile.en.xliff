@@ -1127,7 +1127,7 @@
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d71700106" resname="app.recruiter.approving.error.notFound">
         <source>app.recruiter.approving.error.notFound</source>
-        <target>This user have been approved by another partner. Thank you.</target>
+        <target>This user already have been approved by you or another partner. Thank you.</target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d71700107" resname="app.recruiter.approving.success">
         <source>app.recruiter.approving.success</source>

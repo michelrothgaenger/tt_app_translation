@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
+      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="no">
         <source>app.jobs</source>
-        <target state="translated">Jobs</target>
+        <target state="translated">Stellenanzeigen</target>
       </trans-unit>
       <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for" approved="yes">
         <source>app.for</source>
@@ -85,9 +85,9 @@
         <source>app.jobs.alert.editCreate.noTitleError</source>
         <target state="translated">Bitte geben Sie eine Bezeichnung ein</target>
       </trans-unit>
-      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="yes">
+      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="no">
         <source>app.jobs.selectAutocompleteItem</source>
-        <target state="translated">Bitte wählen Sie ein Element der Liste, um fortzufahren</target>
+        <target state="translated">Bitte wählen Sie ein Element der Liste, um fortzufahren.</target>
       </trans-unit>
     <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb78" resname="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>

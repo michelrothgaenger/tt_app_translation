@@ -129,6 +129,18 @@
         <source>app.jobs.jobBlock.uploadCV</source>
         <target state="translated">CV hochladen</target>
       </trans-unit>
-      </body>
+      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.jobs.recruiterNotApprovedPopup.title">
+            <source>app.jobs.recruiterNotApprovedPopup.title</source>
+            <target>Hallo</target>
+        </trans-unit>
+        <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.jobs.recruiterNotApprovedPopup.info">
+            <source>app.jobs.recruiterNotApprovedPopup.info</source>
+            <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
+        </trans-unit>
+        <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.jobs.recruiterNotApprovedPopup.dashboardLink">
+            <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
+            <target>Dashboard</target>
+        </trans-unit>
+    </body>
   </file>
 </xliff>

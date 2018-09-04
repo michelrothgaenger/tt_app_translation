@@ -1122,6 +1122,26 @@
         <source>app.profile.noticePeriod.other</source>
         <target state="translated">Andere</target>
       </trans-unit>
+    <trans-unit id="382ba41746874fac96eb5077d71700106" resname="app.recruiter.approving.error.notFound">
+        <source>app.recruiter.approving.error.notFound</source>
+        <target>Dieser Benutzer wurde bereits von Ihnen oder einem anderen Partner genehmigt. Vielen Dank.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700107" resname="app.recruiter.approving.success">
+        <source>app.recruiter.approving.success</source>
+        <target>Der Personalvermittler wurde erfolgreich zugelassen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700108" resname="app.profile.confirmationPopup.title">
+        <source>app.profile.confirmationPopup.title</source>
+        <target>Sie haben erfolgreich</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700109a" resname="app.profile.confirmationPopup.closeText">
+        <source>app.profile.confirmationPopup.closeText</source>
+        <target>Sie können dieses Fenster nun schließen.</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700110" resname="app.profile.confirmationPopup.closeBtn">
+        <source>app.profile.confirmationPopup.closeBtn</source>
+        <target>Schließen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

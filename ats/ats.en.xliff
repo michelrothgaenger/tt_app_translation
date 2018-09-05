@@ -437,9 +437,9 @@ The company %companyName% with ID: %companyId% haven't contact person. Therefore
         <source>app.coverCV.candidateMessage</source>
         <target state="translated">Message from Candidate</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidate.message" approved="yes">
-        <source>app.coverCV.candidate.message</source>
-        <target state="translated">Candidate Presentation</target>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidateContacte">
+        <source>app.coverCV.candidateContact</source>
+        <target>Your contact at Transport Talent</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer" approved="yes">
         <source>app.coverCV.footer</source>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360888" resname="app.ats.meta.title" approved="yes">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360888" resname="app.ats.meta.title" approved="no">
         <source>app.ats.meta.title</source>
-        <target state="translated">ATS</target>
+        <target state="translated">ATS1</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder" approved="yes">
         <source>app.ats.searchInput.placeholder</source>

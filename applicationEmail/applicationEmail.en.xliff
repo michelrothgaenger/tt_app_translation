@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Dearr %firstname%</target>
+        <target state="translated">Dear %firstname%</target>
       </trans-unit>
       <trans-unit id="1bf386a0c59e4a7b8b03cd8a2ef24d3a" resname="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>

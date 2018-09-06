@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.applicationForwardedEmail.firstPart" approved="no">
         <source>app.applicationForwardedEmail.firstPart</source>
-        <target state="translated">Dearo %firstName%,&lt;br&gt;&lt;br&gt;Your application for</target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application for</target>
       </trans-unit>
       <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21b" resname="app.applicationForwardedEmail.secondPart" approved="yes">
         <source>app.applicationForwardedEmail.secondPart</source>

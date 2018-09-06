@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject" approved="yes">
         <source>app.ats.settings.main.shortlist.subject</source>
-        <target state="translated">Welcome mail subject</target>
+        <target state="translated">Shortlist Subject Text</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text" approved="yes">
         <source>app.ats.settings.main.shortlist.text</source>
@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject" approved="yes">
         <source>app.ats.settings.main.rejectBefore.subject</source>
-        <target state="translated">Welcome mail subject</target>
+        <target state="translated">Reject before interview Subject Text</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text" approved="yes">
         <source>app.ats.settings.main.rejectBefore.text</source>
@@ -139,7 +139,7 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360915" resname="app.ats.settings.main.rejectAfter.subject" approved="yes">
         <source>app.ats.settings.main.rejectAfter.subject</source>
-        <target state="translated">Welcome mail subject</target>
+        <target state="translated">Reject after interview Subject Text</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360916" resname="app.ats.settings.main.rejectAfter.text" approved="yes">
         <source>app.ats.settings.main.rejectAfter.text</source>
@@ -317,7 +317,7 @@ HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360942" resname="app.ats.settings.main.hire.subject" approved="yes">
         <source>app.ats.settings.main.hire.subject</source>
-        <target state="translated">Welcome mail subject</target>
+        <target state="translated">Hired Subject Text</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360943" resname="app.ats.settings.main.hire.text" approved="yes">
         <source>app.ats.settings.main.hire.text</source>

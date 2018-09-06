@@ -1165,10 +1165,6 @@
         <source>app.profile.applicationHistories.updatedBy</source>
         <target>Updated by</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700116" resname="app.profile.applicationHistories.daysAgo">
-        <source>app.profile.applicationHistories.daysAgo</source>
-        <target> days ago </target>
-      </trans-unit>
     </body>
   </file>
 </xliff>

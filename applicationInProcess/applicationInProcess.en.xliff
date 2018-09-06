@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.applicationInProcess.subject" approved="yes">
+      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.applicationInProcess.subject" approved="no">
         <source>app.applicationInProcess.subject</source>
-        <target state="translated">Application needs review.</target>
+        <target state="translated">Appli1cation needs review.</target>
       </trans-unit>
       <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationInProcess.content" approved="yes">
         <source>app.applicationInProcess.content</source>

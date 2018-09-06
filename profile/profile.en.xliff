@@ -1141,6 +1141,30 @@
         <source>app.profile.confirmationPopup.closeBtn</source>
         <target>Close</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700111" resname="app.profile.applicationHistories.hideDetails">
+        <source>app.profile.applicationHistories.hideDetails</source>
+        <target>Hide details</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700112" resname="app.profile.applicationHistories.showDetails">
+        <source>app.profile.applicationHistories.showDetails</source>
+        <target>Show details</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700113" resname="app.profile.applicationHistories.updated">
+        <source>app.profile.applicationHistories.updated</source>
+        <target>Updated</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700114" resname="app.profile.applicationHistories.status">
+        <source>app.profile.applicationHistories.status</source>
+        <target>Status</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700115" resname="app.profile.applicationHistories.updatedBy">
+        <source>app.profile.applicationHistories.updatedBy</source>
+        <target>Updated by</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700116" resname="app.profile.applicationHistories.daysAgo">
+        <source>app.profile.applicationHistories.daysAgo</source>
+        <target> days ago </target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="yes">
+      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
         <target state="translated">Dear %firstname%</target>
       </trans-unit>

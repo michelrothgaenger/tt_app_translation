@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen und ein Konto bei Transporttalent.com anzulegen.</target>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen und ein Konto bei Transporttalent.com anzulegen.</target>
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: %confirmationLink% um Ihre Bewerbung zu bestätigen.</target>
+        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
       </trans-unit>
     <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21a" resname="app.applicationForwardedEmail.firstPart" approved="yes">
         <source>app.applicationForwardedEmail.firstPart</source>

@@ -23,11 +23,11 @@
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click %confirmationLink% to confirm your application and sign up with TT.</target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; to confirm your application and sign up with TT.</target>
       </trans-unit>
       <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click %confirmationLink% to confirm your application.</target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; to confirm your application.</target>
       </trans-unit>
     </body>
   </file>

@@ -248,55 +248,54 @@ Available from 09:00 - 16:00 h</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Thank you for your application</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360932" resname="app.ats.settings.main.welcome.text.placeholder" approved="yes">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we plan to interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application.
 
-Best,
-HR Team</target>
+            Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360933" resname="app.ats.settings.main.shortlist.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.shortlist.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">We are interested in your application</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360934" resname="app.ats.settings.main.shortlist.text.placeholder" approved="yes">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">"Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            Thank you very much for your application, which appealed to us during the first review. Our hiring team is currently reviewing all applications and we are planning to schedule interviews in the next two weeks. If you are among qualified candidates, you will receive a call/email from our one of our recruiters to schedule an interview. In any case, we will keep you posted on the status of your application.
 
-Best,
-HR Team</target>
+            Thank you, again, for taking the time to apply to a role at our company."</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360935" resname="app.ats.settings.main.rejectBefore.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Your application</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360936" resname="app.ats.settings.main.rejectBefore.text.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">"Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration.
 
-Best,
-HR Team</target>
+            We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future."</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360937" resname="app.ats.settings.main.rejectAfter.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Your application</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360938" resname="app.ats.settings.main.rejectAfter.text.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">"Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            Thank you for taking the time to meet with our team. It was a pleasure to learn more about your skills and accomplishments.
+            Unfortunately, our team did not select you for further consideration.
 
-Best,
-HR Team</target>
+            I would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates.
+
+            Thanks again for your interest in our company and best of luck with your job search."</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title" approved="yes">
         <source>app.ats.settings.main.hire.title</source>
@@ -312,16 +311,15 @@ HR Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360944" resname="app.ats.settings.main.hire.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.hire.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Your application / job offer</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360945" resname="app.ats.settings.main.hire.text.placeholder" approved="yes">
         <source>app.ats.settings.main.hire.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">"Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer.
 
-Best,
-HR Team</target>
+            We are all looking forward to having you on our team."</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter" approved="yes">
         <source>app.ats.email.defaultFooter</source>
@@ -343,16 +341,17 @@ your HR team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360950" resname="app.ats.settings.main.interview.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.interview.subject.placeholder</source>
-        <target state="translated">E-Mail</target>
+        <target state="translated">Invitation to interview</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder" approved="yes">
         <source>app.ats.settings.main.interview.text.placeholder</source>
-        <target state="translated">Dear Applicant,
+        <target state="translated">"Dear applicant,
 
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
+            Thank you for applying at our company.
 
-Best,
-HR Team</target>
+            Your application stood out to us and we would like to invite you for an interview  to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview.
+
+            We will inform you in a separate message about the details of your interview at short notice."</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson" approved="yes">
         <source>app.ats.infoEmail.noContactPerson</source>

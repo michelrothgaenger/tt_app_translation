@@ -239,12 +239,8 @@
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder" approved="yes">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target state="translated">With kind regards,
-
-your HR team
-
-+49 000000000&lt;br&gt;hr@company.com
-Available from 09:00 - 16:00 h</target>
+        <target state="translated">Kind regards,
+Your Recruiting Team</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>

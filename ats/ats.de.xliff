@@ -5,9 +5,9 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder">
+            <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder" approved="yes">
                 <source>app.ats.settings.main.emailFooter.placeholder</source>
-                <target>Mit freundlichen Grüßen,&lt;br&gt;Ihr Recruiting-Team</target>
+                <target state="translated">Mit freundlichen Grüßen,&lt;br&gt;Ihr Recruiting-Team</target>
             </trans-unit>
         </body>
     </file>

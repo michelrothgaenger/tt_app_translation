@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de_AT" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360888" resname="app.ats.meta.title" approved="no">
+        <source>app.ats.meta.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder" approved="no">
+        <source>app.ats.searchInput.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360890" resname="app.ats.aside.settings" approved="no">
+        <source>app.ats.aside.settings</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360891" resname="app.ats.aside.check.title" approved="no">
+        <source>app.ats.aside.check.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360892" resname="app.ats.aside.check.info" approved="no">
+        <source>app.ats.aside.check.info</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360893" resname="app.ats.popup.save.btn" approved="no">
+        <source>app.ats.popup.save.btn</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro" approved="no">
+        <source>app.ats.popup.info.name.intro</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro" approved="no">
+        <source>app.ats.popup.info.job.intro</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896" resname="app.ats.popup.info.end" approved="no">
+        <source>app.ats.popup.info.end</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360896a" resname="app.ats.popup.info.allSelects" approved="no">
+        <source>app.ats.popup.info.allSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label" approved="no">
+        <source>app.ats.popup.salary.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360897a" resname="app.ats.popup.salary.input.title" approved="no">
+        <source>app.ats.popup.salary.input.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label" approved="no">
+        <source>app.ats.popup.currency.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label" approved="no">
+        <source>app.ats.popup.start.date.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360899a" resname="app.ats.popup.start.date.error" approved="no">
+        <source>app.ats.popup.start.date.error</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label" approved="no">
+        <source>app.ats.popup.upload.contract.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900a" resname="app.ats.popup.flashMsg.part1" approved="no">
+        <source>app.ats.popup.flashMsg.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360900b" resname="app.ats.popup.flashMsg.part2" approved="no">
+        <source>app.ats.popup.flashMsg.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings" approved="no">
+        <source>app.ats.settings.aside.link.settings</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360901a" resname="app.ats.settings.aside.link.settings.locale" approved="no">
+        <source>app.ats.settings.aside.link.settings.locale</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360902" resname="app.ats.settings.aside.link.emailText" approved="no">
+        <source>app.ats.settings.aside.link.emailText</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360903" resname="app.ats.settings.aside.link.contactPerson" approved="no">
+        <source>app.ats.settings.aside.link.contactPerson</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360904" resname="app.ats.settings.main.emalFooter.label" approved="no">
+        <source>app.ats.settings.main.emalFooter.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360905" resname="app.ats.settings.main.welcome.title" approved="no">
+        <source>app.ats.settings.main.welcome.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360906" resname="app.ats.settings.main.welcome.subject" approved="no">
+        <source>app.ats.settings.main.welcome.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360907" resname="app.ats.settings.main.welcome.text" approved="no">
+        <source>app.ats.settings.main.welcome.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360908" resname="app.ats.settings.main.shortlist.title" approved="no">
+        <source>app.ats.settings.main.shortlist.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject" approved="no">
+        <source>app.ats.settings.main.shortlist.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text" approved="no">
+        <source>app.ats.settings.main.shortlist.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title" approved="no">
+        <source>app.ats.settings.main.rejectBefore.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject" approved="no">
+        <source>app.ats.settings.main.rejectBefore.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text" approved="no">
+        <source>app.ats.settings.main.rejectBefore.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360914" resname="app.ats.settings.main.rejectAfter.title" approved="no">
+        <source>app.ats.settings.main.rejectAfter.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360915" resname="app.ats.settings.main.rejectAfter.subject" approved="no">
+        <source>app.ats.settings.main.rejectAfter.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360916" resname="app.ats.settings.main.rejectAfter.text" approved="no">
+        <source>app.ats.settings.main.rejectAfter.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360917" resname="app.ats.settings.main.footer.text" approved="no">
+        <source>app.ats.settings.main.footer.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360918" resname="app.ats.reject.popup.title" approved="no">
+        <source>app.ats.reject.popup.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360919" resname="app.ats.reject.popup.subtitle" approved="no">
+        <source>app.ats.reject.popup.subtitle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360919a" resname="app.ats.reject.popup.subtitleAllSelects" approved="no">
+        <source>app.ats.reject.popup.subtitleAllSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text" approved="no">
+        <source>app.ats.reject.popup.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects" approved="no">
+        <source>app.ats.reject.popup.textAllSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.reject.popup.confirm.label.part1" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921a" resname="app.ats.reject.popup.confirm.label.part2" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360921b" resname="app.ats.reject.popup.confirm.label.part3" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part3</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360922" resname="app.ats.reject.popup.confirm.input.placeholder" approved="no">
+        <source>app.ats.reject.popup.confirm.input.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360923" resname="app.ats.reject.popup.save.btn" approved="no">
+        <source>app.ats.reject.popup.save.btn</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome" approved="no">
+        <source>app.ats.email.defaultSubject.welcome</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.welcome" approved="no">
+        <source>app.ats.email.defaultContent.welcome</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924a" resname="app.ats.email.defaultSubject.interview" approved="no">
+        <source>app.ats.email.defaultSubject.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360925a" resname="app.ats.email.defaultContent.interview" approved="no">
+        <source>app.ats.email.defaultContent.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlist" approved="no">
+        <source>app.ats.email.defaultSubject.shortlist</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlist" approved="no">
+        <source>app.ats.email.defaultContent.shortlist</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928" resname="app.ats.email.defaultSubject.hire" approved="no">
+        <source>app.ats.email.defaultSubject.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929" resname="app.ats.email.defaultContent.hire" approved="no">
+        <source>app.ats.email.defaultContent.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928a" resname="app.ats.email.defaultSubject.rejectBefore" approved="no">
+        <source>app.ats.email.defaultSubject.rejectBefore</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929a" resname="app.ats.email.defaultContent.rejectBefore" approved="no">
+        <source>app.ats.email.defaultContent.rejectBefore</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360928b" resname="app.ats.email.defaultSubject.rejectAfter" approved="no">
+        <source>app.ats.email.defaultSubject.rejectAfter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360929b" resname="app.ats.email.defaultContent.rejectAfter" approved="no">
+        <source>app.ats.email.defaultContent.rejectAfter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder" approved="no">
+        <source>app.ats.settings.main.emailFooter.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.welcome.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360932" resname="app.ats.settings.main.welcome.text.placeholder" approved="no">
+        <source>app.ats.settings.main.welcome.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360933" resname="app.ats.settings.main.shortlist.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.shortlist.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360934" resname="app.ats.settings.main.shortlist.text.placeholder" approved="no">
+        <source>app.ats.settings.main.shortlist.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360935" resname="app.ats.settings.main.rejectBefore.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360936" resname="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360937" resname="app.ats.settings.main.rejectAfter.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360938" resname="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title" approved="no">
+        <source>app.ats.settings.main.hire.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360942" resname="app.ats.settings.main.hire.subject" approved="no">
+        <source>app.ats.settings.main.hire.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360943" resname="app.ats.settings.main.hire.text" approved="no">
+        <source>app.ats.settings.main.hire.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360944" resname="app.ats.settings.main.hire.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.hire.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360945" resname="app.ats.settings.main.hire.text.placeholder" approved="no">
+        <source>app.ats.settings.main.hire.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter" approved="no">
+        <source>app.ats.email.defaultFooter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360947" resname="app.ats.settings.main.interview.title" approved="no">
+        <source>app.ats.settings.main.interview.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360948" resname="app.ats.settings.main.interview.subject" approved="no">
+        <source>app.ats.settings.main.interview.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360949" resname="app.ats.settings.main.interview.text" approved="no">
+        <source>app.ats.settings.main.interview.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360950" resname="app.ats.settings.main.interview.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.interview.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder" approved="no">
+        <source>app.ats.settings.main.interview.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson" approved="no">
+        <source>app.ats.infoEmail.noContactPerson</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360953" resname="app.ats.settings.main.contactPerson.label" approved="no">
+        <source>app.ats.settings.main.contactPerson.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360954" resname="app.ats.settings.main.contactPerson.select.defaultOption" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.defaultOption</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360955" resname="app.ats.settings.main.contactPerson.select.info.part1" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360956" resname="app.ats.settings.main.contactPerson.select.info.link" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.link</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360957" resname="app.ats.settings.main.contactPerson.select.info.part2" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360958" resname="app.ats.settings.main.contactPerson.serverErrorMessage" approved="no">
+        <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360959" resname="app.coverCV.candidatePresentation" approved="no">
+        <source>app.coverCV.candidatePresentation</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360960" resname="app.coverCV.company" approved="no">
+        <source>app.coverCV.company</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360961" resname="app.coverCV.position" approved="no">
+        <source>app.coverCV.position</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360962" resname="app.coverCV.location" approved="no">
+        <source>app.coverCV.location</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360963" resname="app.coverCV.hrManager" approved="no">
+        <source>app.coverCV.hrManager</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360964" resname="app.coverCV.candidate" approved="no">
+        <source>app.coverCV.candidate</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360965" resname="app.coverCV.salary" approved="no">
+        <source>app.coverCV.salary</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360966" resname="app.coverCV.noticePeriod" approved="no">
+        <source>app.coverCV.noticePeriod</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360967" resname="app.coverCV.candidateEmail" approved="no">
+        <source>app.coverCV.candidateEmail</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360968" resname="app.coverCV.candidateMessage" approved="no">
+        <source>app.coverCV.candidateMessage</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidateContact">
+        <source>app.coverCV.candidateContact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer" approved="no">
+        <source>app.coverCV.footer</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609703" resname="app.applicationStatus.applied" approved="no">
+        <source>app.applicationStatus.applied</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609704" resname="app.applicationStatus.shortlisted" approved="no">
+        <source>app.applicationStatus.shortlisted</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609705" resname="app.applicationStatus.interview" approved="no">
+        <source>app.applicationStatus.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609706" resname="app.applicationStatus.hire" approved="no">
+        <source>app.applicationStatus.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609707" resname="app.applicationStatus.rejected" approved="no">
+        <source>app.applicationStatus.rejected</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609708" resname="app.applicationStatus.sent" approved="no">
+        <source>app.applicationStatus.sent</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted" approved="no">
+        <source>app.applicationStatus.submitted</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b803609710" resname="app.sideMenu.viewAll" approved="no">
+        <source>app.sideMenu.viewAll</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

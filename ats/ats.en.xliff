@@ -189,9 +189,9 @@
         <source>app.ats.reject.popup.save.btn</source>
         <target state="translated">Reject applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome" approved="yes">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome" approved="no">
         <source>app.ats.email.defaultSubject.welcome</source>
-        <target state="translated">Need to change text: Welcome email subject</target>
+        <target state="translated">Thank you for your application</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.welcome" approved="yes">
         <source>app.ats.email.defaultContent.welcome</source>

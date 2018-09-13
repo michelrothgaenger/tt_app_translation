@@ -298,19 +298,6 @@ here you will find a predefined text from TT which gets automatically filled in 
 Best,
 HR Team</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360939" resname="app.ats.settings.main.rejectAfter.subject.placeholder">
-        <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
-        <target>E-Mail</target>
-      </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360940" resname="app.ats.settings.main.rejectAfter.text.placeholder">
-        <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target>Dear Applicant,
-
-here you will find a predefined text from TT which gets automatically filled in when this form is called. Mind you, this can always be altered by the sender to have the text conform to the internal HR policies.
-
-Best,
-HR Team</target>
-      </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title" approved="yes">
         <source>app.ats.settings.main.hire.title</source>
         <target state="translated">Hire</target>

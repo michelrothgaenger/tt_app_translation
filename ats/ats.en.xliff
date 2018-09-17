@@ -161,13 +161,13 @@
         <source>app.ats.reject.popup.subtitleAllSelects</source>
         <target state="translated">You are sure you want to reject these applicants?</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text" approved="yes">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text" approved="no">
         <source>app.ats.reject.popup.text</source>
-        <target state="translated">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</target>
+        <target state="translated">The selected candidate will receive a message that he/she is rejected.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects" approved="yes">
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects" approved="no">
         <source>app.ats.reject.popup.textAllSelects</source>
-        <target state="translated">Text for all selects goes here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</target>
+        <target state="translated">The selected candidates will receive a message that they are rejected.</target>
       </trans-unit>
       <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.reject.popup.confirm.label.part1" approved="yes">
         <source>app.ats.reject.popup.confirm.label.part1</source>

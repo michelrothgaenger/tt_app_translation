@@ -870,9 +870,9 @@
         <source>app.profile.dashboard.alerts.tile.title</source>
         <target state="translated">Suchagenten</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description" approved="yes">
+      <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description" approved="no">
         <source>app.profile.dashboard.alerts.tile.description</source>
-        <target state="translated">Legen Sie neue Suchagenten an und verwalten Sie vorhandene.</target>
+        <target state="translated">Legen Sie neue Suchagenten an und verwalten Sie vorhandene</target>
       </trans-unit>
     <trans-unit id="382ba41746874fac96eb5077d7170158" resname="app.profile.editor.firstNamePlaceholder" approved="yes">
         <source>app.profile.editor.firstNamePlaceholder</source>

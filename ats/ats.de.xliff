@@ -468,6 +468,14 @@ die Firma %companyName% mit ID: %companyId% hat keine hinterlegte Kontaktperson.
         <source>app.sideMenu.viewAll</source>
         <target state="translated">Alle anzeigen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text" approved="no">
+        <source>app.ats.reject.popup.text</source>
+        <target state="translated">Der ausgewählte Kandidat erhält eine Nachricht, dass er abgelehnt wird.</target>
+      </trans-unit>
+      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects" approved="no">
+        <source>app.ats.reject.popup.textAllSelects</source>
+        <target state="translated">Die ausgewählten Kandidaten erhalten eine Nachricht, dass sie abgelehnt werden.</target>
+      </trans-unit>
+      </body>
     </file>
 </xliff>

@@ -89,6 +89,10 @@
                 <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
                 <target state="translated">Please choose a notice period</target>
             </trans-unit>
+            <trans-unit id="dea14b171b9a004dd6a261486d657a18" resname="app.teamManage.company.notDuplicate">
+                <source>app.teamManage.company.notDuplicate</source>
+                <target>This company name already in use</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

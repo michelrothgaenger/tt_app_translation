@@ -209,9 +209,9 @@
         <source>app.userRegister.step2.welcome.recruiter</source>
         <target state="translated">Welcome</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170016a" resname="app.userRegister.step2.greeting.recruiter" approved="yes">
+      <trans-unit id="382ba41746874fac96eb5077d7170016a" resname="app.userRegister.step2.greeting.recruiter" approved="no">
         <source>app.userRegister.step2.greeting.recruiter</source>
-        <target state="translated">Great to have you on board. We have received your registration and will approve it as shortly as possible. In the meantime, please fill in your profile so that we can provide you with the best possible information. It'll only take a few minutes. If you just want to start submitting your candidates for our jobs, just skip the profile and start right away.</target>
+        <target state="translated">Hello fellow Recruiter, welcome to the Transport Talent platform. We will approve your application to become a Recruiter shortly. In the meantime, please fill in your profile so that we can improve the experience of finding jobs to recruit for. It'll only take a few minutes. If you just want to get started recruiting right way, you can skip the profile for now and do it later.  </target>
       </trans-unit>
       <trans-unit id="382ba41746874fac96eb5077d7170018a" resname="app.userRegister.step2.contactDetails.recruiter" approved="yes">
         <source>app.userRegister.step2.contactDetails.recruiter"</source>

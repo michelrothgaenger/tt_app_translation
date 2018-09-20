@@ -7,7 +7,7 @@
         <body>
             <trans-unit id="04ad24925b3a4787896103df0f7a1000" resname="app.registeredRecruiter.toPartner.content">
                 <source>app.registeredRecruiter.toPartner.content</source>
-                <target>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; The user with email %recruiterEmail% just registered as recruiter. You have to approve his/her registration to make him/her able to browse jobs.</target>
+                <target>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% just registered as recruiter. You have to approve his/her registration to make him/her able to browse jobs.</target>
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1001" resname="app.registeredRecruiter.toPartner.subject">
                 <source>app.registeredRecruiter.toPartner.subject</source>
@@ -15,11 +15,11 @@
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1002" resname="app.registeredRecruiter.toRecruiter.content">
                 <source>app.registeredRecruiter.toRecruiter.content</source>
-                <target>Dear user, &lt;br&gt;&lt;br&gt;your registration request was submitted to our partners for approval. Once approved you can use TT with all functions.</target>
+                <target>Dear user, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.  </target>
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1003" resname="app.registeredRecruiter.toRecruiter.subject">
                 <source>app.registeredRecruiter.toRecruiter.subject</source>
-                <target>you will have to be confirmed by TT</target>
+                <target>you registration to become a recruiter on the platform will have to be confirmed by Transport Talent</target>
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1004" resname="app.confirmedRecruiter.toPartner.subject">
                 <source>app.confirmedRecruiter.toPartner.subject</source>
@@ -27,7 +27,7 @@
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1005" resname="app.confirmedRecruiter.toPartner.content">
                 <source>app.confirmedRecruiter.toPartner.content</source>
-                <target>Hi %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successful approved by you and can now browse jobs.</target>
+                <target>Hi %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successfully approved by you and can now browse jobs and refer candidates.</target>
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1006" resname="app.confirmedRecruiter.toRecruiter.subject">
                 <source>app.confirmedRecruiter.toRecruiter.subject</source>
@@ -35,7 +35,7 @@
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1007" resname="app.confirmedRecruiter.toRecruiter.content">
                 <source>app.confirmedRecruiter.toRecruiter.content</source>
-                <target>Dear user, your registration request was approved by %partnerFirstName% %partnerLastName%. Now you can use all functions of TT.</target>
+                <target>Dear user, your registration request was approved by %partnerFirstName% %partnerLastName%. Now you can use all recruiter functions of the Transport Talent platform.</target>
             </trans-unit>
             <trans-unit id="04ad24925b3a4787896103df0f7a1008" resname="app.registeredRecruiter.toPartner.linkForApproving">
                 <source>app.registeredRecruiter.toPartner.linkForApproving</source>

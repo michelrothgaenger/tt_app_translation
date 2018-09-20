@@ -1161,6 +1161,37 @@
         <source>app.profile.applicationHistories.updatedBy</source>
         <target>Updated by</target>
       </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700116" resname="app.profile.onLoginPopup.welcome">
+        <source>app.profile.onLoginPopup.welcome</source>
+        <target>Welcome%firstName%!</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700117a" resname="app.profile.onLoginPopup.employer">
+        <source>app.profile.onLoginPopup.employer</source>
+        <target><![CDATA[
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 1</p>
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 2</p>
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 3</p>
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 4</p>
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 5</p>
+        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 6</p>
+        ]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700118" resname="app.profile.onLoginPopup.recruiter">
+        <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
+        <target>recruiter</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700119" resname="app.profile.onLoginPopup.professional">
+        <source>app.profile.onLoginPopup.professional</source>
+        <target><![CDATA[<p>professional paragraph 1</p><p>professional paragraph 2</p><p>professional paragraph 3</p>]]></target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700120" resname="app.profile.onLoginPopup.showThisWindow">
+        <source>app.profile.onLoginPopup.showThisWindow</source>
+        <target>Show this window on every sign in</target>
+      </trans-unit>
+      <trans-unit id="382ba41746874fac96eb5077d71700121" resname="app.profile.onLoginPopup.closeWindow">
+        <source>app.profile.onLoginPopup.closeWindow</source>
+        <target>Close window</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

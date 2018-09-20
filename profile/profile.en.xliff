@@ -1001,7 +1001,7 @@
         <source>app.notification.causes.noLocations</source>
         <target state="translated">PREFERRED REGIONS &amp; COUNTRIES</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity" approved="yes">
+      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity" approved="no">
         <source>app.notification.causes.inactivity</source>
         <target state="translated">INACTIVITY</target>
       </trans-unit>

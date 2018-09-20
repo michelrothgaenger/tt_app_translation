@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.uploadedCandidateNotConfirmed.toRecruiter.subject">
+        <source>app.uploadedCandidateNotConfirmed.toRecruiter.subject</source>
+        <target>Your application is still pending.</target>
+      </trans-unit>
+      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.uploadedCandidateNotConfirmed.toRecruiter.content">
+        <source>app.uploadedCandidateNotConfirmed.toRecruiter.content</source>
+        <target>%candidateEmail% %jobTitle%</target>
+      </trans-unit>
+      <trans-unit id="63eee8c047c24a8da1f3653875dabd83" resname="app.uploadedCandidateNotConfirmed.toCandidate.subject">
+        <source>app.uploadedCandidateNotConfirmed.toCandidate.subject</source>
+        <target>Your application is still pending.</target>
+      </trans-unit>
+      <trans-unit id="63eee8c047c24a8da1f3653875dabd84" resname="app.uploadedCandidateNotConfirmed.toCandidate.content">
+        <source>app.uploadedCandidateNotConfirmed.toCandidate.content</source>
+        <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

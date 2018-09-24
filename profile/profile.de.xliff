@@ -1158,6 +1158,10 @@
         <source>app.profile.applicationHistories.updatedBy</source>
         <target>Aktualisiert von</target>
       </trans-unit>
-    </body>
+    <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
+        <source>app.profile.onLoginPopup.welcome</source>
+        <target>Willkommen, %firstName%!</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

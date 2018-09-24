@@ -485,6 +485,26 @@
             <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
             <target>Dashboard</target>
         </trans-unit>
+        <trans-unit id="app.job.loginPopup.title" approved="no">
+            <source>app.job.loginPopup.title</source>
+            <target>Login</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.description" approved="no">
+            <source>app.job.loginPopup.description</source>
+            <target>You need to sign in first to get access to all jobs and services on the site.</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.employerLoginLin" approved="no">
+            <source>app.job.loginPopup.employerLoginLink</source>
+            <target>Are you an employer? Login here.</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.notRegisteredYet" approved="no">
+            <source>app.job.loginPopup.notRegisteredYet</source>
+            <target>Not registered yet? </target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.signUpHer" approved="no">
+            <source>app.job.loginPopup.signUpHere</source>
+            <target>Sign up here.</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

@@ -6,487 +6,487 @@
     </header>
     <body>
 
-      <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title" approved="no">
+      <trans-unit id="app.job.meta.title" approved="no">
         <source>app.job.meta.title</source>
         <target state="translated">Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description" approved="yes">
+      <trans-unit id="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
         <target state="translated">Sehen Sie sich passende Stellenanzeigen aus Logistik und Transport an</target>
       </trans-unit>
-      <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status" approved="yes">
+      <trans-unit id="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
         <target state="translated">Diese Stellenanzeige ist inaktiv!</target>
       </trans-unit>
-      <trans-unit id="ec82f3174547d54d8971c896d23df122" resname="app.job.section.top.button.title" approved="yes">
+      <trans-unit id="app.job.section.top.button.title" approved="yes">
         <source>app.job.section.top.button.title</source>
         <target state="translated">Zurück zu den Ergebnissen</target>
       </trans-unit>
-      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate" approved="yes">
+      <trans-unit id="app.job.postDate" approved="yes">
         <source>app.job.postDate</source>
         <target state="translated">Online seit</target>
       </trans-unit>
-      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
+      <trans-unit id="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
         <target state="translated">Im Profil gespeichert</target>
       </trans-unit>
-      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile" approved="yes">
+      <trans-unit id="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
         <target state="translated">Im Profil speichern</target>
       </trans-unit>
-      <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage" approved="yes">
+      <trans-unit id="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
         <target state="translated">Exklusiv veröffentlicht von</target>
       </trans-unit>
-      <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title" approved="yes">
+      <trans-unit id="app.job.section.main.title" approved="yes">
         <source>app.job.section.main.title</source>
         <target state="translated">Stellenbeschreibung</target>
       </trans-unit>
-      <trans-unit id="c29cd64c748dc240d346db1583b0f65b" resname="app.job.section.main.rowTypeTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowTypeTitle" approved="yes">
         <source>app.job.section.main.rowTypeTitle</source>
         <target state="translated">Erfahrungsstufe</target>
       </trans-unit>
-      <trans-unit id="0f9cc44b1edf0a99f6ebf522670bbc59" resname="app.job.section.main.rowLevelTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowLevelTitle" approved="yes">
         <source>app.job.section.main.rowLevelTitle</source>
         <target state="translated">Berufsfeld</target>
       </trans-unit>
-      <trans-unit id="44114f282c765dd6ccc0a37849eb8a08" resname="app.job.section.main.rowWhereTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowWhereTitle" approved="yes">
         <source>app.job.section.main.rowWhereTitle</source>
         <target state="translated">Ort</target>
       </trans-unit>
-      <trans-unit id="1ff1545de3de9327b327f069fee94eb0" resname="app.job.section.main.openMapLinkTitle" approved="yes">
+      <trans-unit id="app.job.section.main.openMapLinkTitle" approved="yes">
         <source>app.job.section.main.openMapLinkTitle</source>
         <target state="translated">Karte zeigen</target>
       </trans-unit>
-      <trans-unit id="e6479c1be0073526f728437442e0ad9d" resname="app.section.main.applyButtonTitle" approved="yes">
+      <trans-unit id="app.section.main.applyButtonTitle" approved="yes">
         <source>app.section.main.applyButtonTitle</source>
         <target state="translated">Jetzt bewerben</target>
       </trans-unit>
-      <trans-unit id="5918fb127493df996af2f0b474ce3196" resname="app.job.section.left.title" approved="yes">
+      <trans-unit id="app.job.section.left.title" approved="yes">
         <source>app.job.section.left.title</source>
         <target state="translated">Über das Unternehmen</target>
       </trans-unit>
-      <trans-unit id="7f7803fafe6e0838823614ea63d9e1e7" resname="app.job.section.left.rowQtyEmployeesTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowQtyEmployeesTitle" approved="yes">
         <source>app.job.section.left.rowQtyEmployeesTitle</source>
         <target state="translated">Anzahl der Mitarbeiter</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
+      <trans-unit id="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
         <target state="translated">%count% Mitarbeiter|%count% Mitarbeiter</target>
       </trans-unit>
-      <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>
         <target state="translated">Hauptsitz</target>
       </trans-unit>
-      <trans-unit id="32409995f251db763a370dfbbb017788" resname="app.job.section.left.rowOfficesTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowOfficesTitle" approved="yes">
         <source>app.job.section.left.rowOfficesTitle</source>
         <target state="translated">Standorte/Länder</target>
       </trans-unit>
-      <trans-unit id="048081eed06d612bbb1783c4e00c4e15" resname="app.job.section.left.rowIndustiesTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowIndustiesTitle" approved="yes">
         <source>app.job.section.left.rowIndustiesTitle</source>
         <target state="translated">Schwerpunkt</target>
       </trans-unit>
-      <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowWebsiteTitle" approved="yes">
         <source>app.job.section.left.rowWebsiteTitle</source>
         <target state="translated">Webseite</target>
       </trans-unit>
-      <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
+      <trans-unit id="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
         <target state="translated">Mehr Jobs bei</target>
       </trans-unit>
-      <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs" approved="yes">
+      <trans-unit id="app.section.left.headlineSimilarJobs" approved="yes">
         <source>app.section.left.headlineSimilarJobs</source>
         <target state="translated">Andere interessante Angebote</target>
       </trans-unit>
-      <trans-unit id="f3cd81f9d260ccb3d7b9fb0db434e82b" resname="app.section.left.linkSimilarJobsTitle" approved="yes">
+      <trans-unit id="app.section.left.linkSimilarJobsTitle" approved="yes">
         <source>app.section.left.linkSimilarJobsTitle</source>
         <target state="translated">Mehr Jobs wie diesen</target>
       </trans-unit>
-      <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus" approved="yes">
+      <trans-unit id="app.job.section.left.savedStatus" approved="yes">
         <source>app.job.section.left.savedStatus</source>
         <target state="translated">Im Profil gespeichert</target>
       </trans-unit>
-      <trans-unit id="0ae66cb2386defb5925830068c4a7ade" resname="app.job.section.left.nonSavedStatus" approved="yes">
+      <trans-unit id="app.job.section.left.nonSavedStatus" approved="yes">
         <source>app.job.section.left.nonSavedStatus</source>
         <target state="translated">Im Profil speichern</target>
       </trans-unit>
-      <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
+      <trans-unit id="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
         <target state="translated">Job drucken</target>
       </trans-unit>
-      <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title" approved="yes">
+      <trans-unit id="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target state="translated">Jetzt bewerben</target>
       </trans-unit>
-      <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.jobTitle" approved="yes">
         <source>app.job.section.popup.jobTitle</source>
         <target state="translated">Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
         <target state="translated">Jetzt bewerben</target>
       </trans-unit>
-      <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Abbrechen</target>
       </trans-unit>
-    <trans-unit id="ed1ac72c66d74aadbe65f1fa4826a647" resname="app.job.section.popup.redNoteFirstPart" approved="yes">
+    <trans-unit id="app.job.section.popup.redNoteFirstPart" approved="yes">
         <source>app.job.section.popup.redNoteFirstPart</source>
         <target state="translated">Hinweis: Wir leiten nur Bewerbungen mit vollständigem Nutzerprofil weiter.</target>
       </trans-unit>
-      <trans-unit id="b3cbeb7e88d048d9a7c232d95f75c0e6" resname="app.job.section.popup.redNoteSecondPart" approved="yes">
+      <trans-unit id="app.job.section.popup.redNoteSecondPart" approved="yes">
         <source>app.job.section.popup.redNoteSecondPart</source>
         <target state="translated">Bitte laden Sie Ihren Lebenslauf hoch, geben Sie Ihre Kündigungsfrist und Gehaltsvorstellungen an, bevor Sie die Bewerbung abschicken.</target>
       </trans-unit>
-      <trans-unit id="8849884335f447a8abb2e64bfa85bb36" resname="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
+      <trans-unit id="app.job.section.popup.closeButtonTitleFirstPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleFirstPart</source>
         <target state="translated">Ohne Änderungen fortfahren</target>
       </trans-unit>
-      <trans-unit id="80d3b156e2ad47789fd5e3834597ceae" resname="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
+      <trans-unit id="app.job.section.popup.closeButtonTitleSecondPart" approved="yes">
         <source>app.job.section.popup.closeButtonTitleSecondPart</source>
         <target state="translated">Fenster schließen.</target>
       </trans-unit>
-      <trans-unit id="716e8e3677b840f1ab643ce2d1a9ba09" resname="app.job.section.popup.section.page1.title" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page1.title" approved="yes">
         <source>app.job.section.popup.section.page1.title</source>
         <target state="translated">Mit Klick auf "Jetzt bewerben" versenden Sie die Daten aus Ihrem Nutzerprofil als Bewerbung an das betreffende Unternehmen.</target>
       </trans-unit>
-      <trans-unit id="eab879d7c6fe42e08ca13b1048cc3d81" resname="app.job.section.popup.section.page1.goToProfileMsg" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page1.goToProfileMsg" approved="yes">
         <source>app.job.section.popup.section.page1.goToProfileMsg</source>
         <target state="translated">Profil vor der Bewerbung kontrollieren.</target>
       </trans-unit>
-      <trans-unit id="9b4ff1be89b040ad9b9ce59ed629e6c8" resname="app.job.section.popup.section.page1.helpMsg" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page1.helpMsg" approved="yes">
         <source>app.job.section.popup.section.page1.helpMsg</source>
         <target state="translated">Kontaktieren Sie uns. Wir helfen Ihnen gerne weiter.</target>
       </trans-unit>
-      <trans-unit id="bf5d7d751494405bb63171ab81060282" resname="app.job.section.popup.section.page1.helpHeadLine" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page1.helpHeadLine" approved="yes">
         <source>app.job.section.popup.section.page1.helpHeadLine</source>
         <target state="translated">Sie haben Fragen?</target>
       </trans-unit>
-      <trans-unit id="f64ee3f9959447649fa2f7b505c2f7c1" resname="app.job.section.popup.section.page2.headline" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page2.headline" approved="yes">
         <source>app.job.section.popup.section.page2.headline</source>
         <target state="translated">Ihr Text</target>
       </trans-unit>
-      <trans-unit id="2c5728b5389742e6836b61d31c4273be" resname="app.job.section.popup.section.page1.helpButtonTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page1.helpButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page1.helpButtonTitle</source>
         <target state="translated">Nachricht senden</target>
       </trans-unit>
-      <trans-unit id="dde15a4072b846f1be7e0633ac131edc" resname="app.job.section.popup.section.page2.title" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page2.title" approved="yes">
         <source>app.job.section.popup.section.page2.title</source>
         <target state="translated">Bitte geben Sie eine Nachricht ein, die zusammen mit Ihrem Profil verschickt wird.</target>
       </trans-unit>
-      <trans-unit id="8e34351f8a384a4ab146c5cf3aec825e" resname="app.job.section.popup.section.page2.errorMessage" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page2.errorMessage" approved="yes">
         <source>app.job.section.popup.section.page2.errorMessage</source>
         <target state="translated">Bitte geben Sie eine Nachricht ein, um fortzufahren.</target>
       </trans-unit>
-      <trans-unit id="289094d739b74d7ea253b2e59d71816d" resname="app.job.section.popup.section.page2.sendButtonTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page2.sendButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page2.sendButtonTitle</source>
         <target state="translated">Bewerbung abschicken</target>
       </trans-unit>
-      <trans-unit id="5c412ac2a7d04fdfabe5265884eba3cd" resname="app.job.section.popup.section.page3.title" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page3.title" approved="yes">
         <source>app.job.section.popup.section.page3.title</source>
         <target state="translated">Ihre Bewerbung wurde erfolgreich übermittelt.</target>
       </trans-unit>
-      <trans-unit id="889d9255b8b14474a5299aeee7899d49" resname="app.job.section.popup.section.page3.description" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page3.description" approved="yes">
         <source>app.job.section.popup.section.page3.description</source>
         <target state="translated">Das Unternehmen wird sich direkt mit Ihnen in Verbindung setzen.</target>
       </trans-unit>
-      <trans-unit id="fdee157f696f413586e28032c4883794" resname="app.job.section.popup.section.page3.closeButtonTitle" approved="yes">
+      <trans-unit id="app.job.section.popup.section.page3.closeButtonTitle" approved="yes">
         <source>app.job.section.popup.section.page3.closeButtonTitle</source>
         <target state="translated">Fenster schließen</target>
       </trans-unit>
-    <trans-unit id="f5cd5a98545e4177ae766910c5e0af63" resname="app.job.section.popup.saveLinkLabel" approved="yes">
+    <trans-unit id="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Job speichern und zum Profil</target>
       </trans-unit>
-    <trans-unit id="275a8e05886a4905aa9e90595db77ee8" resname="app.job.forward.note" approved="yes">
+    <trans-unit id="app.job.forward.note" approved="yes">
         <source>app.job.forward.note</source>
         <target state="translated">Hinweis</target>
       </trans-unit>
-      <trans-unit id="bafa2c1ecea84c3e84ed53ea2530d6d2" resname="app.job.forward.headline" approved="yes">
+      <trans-unit id="app.job.forward.headline" approved="yes">
         <source>app.job.forward.headline</source>
         <target state="translated">Sie werden nun weitergeleitet</target>
       </trans-unit>
-      <trans-unit id="4872c2e650644064a08b411302db5e04" resname="app.job.forward.message" approved="yes">
+      <trans-unit id="app.job.forward.message" approved="yes">
         <source>app.job.forward.message</source>
         <target state="translated">Diese Stellenanzeige wird von %company_name% verantwortet. Für den Bewerbungsprozess leiten wir Sie nun auf die Unternehmensseite weiter.</target>
       </trans-unit>
-      <trans-unit id="9ed8e6d5fb9f4f9fa8e145197a6b528d" resname="app.job.forward.button.ok" approved="yes">
+      <trans-unit id="app.job.forward.button.ok" approved="yes">
         <source>app.job.forward.button.ok</source>
         <target state="translated">Fortfahren</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af10" resname="app.section.main.referralButtonTitle" approved="yes">
+      <trans-unit id="app.section.main.referralButtonTitle" approved="yes">
         <source>app.section.main.referralButtonTitle</source>
         <target state="translated">Empfehlen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af11" resname="app.job.popup.referral.title" approved="yes">
+      <trans-unit id="app.job.popup.referral.title" approved="yes">
         <source>app.job.popup.referral.title</source>
         <target state="translated">Empfehlen</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f94" resname="app.job.popup.referral.reward" approved="yes">
+      <trans-unit id="app.job.popup.referral.reward" approved="yes">
         <source>app.job.popup.referral.reward</source>
         <target state="translated">Bonus</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f21" resname="app.job.popup.referral.shareOn" approved="yes">
+      <trans-unit id="app.job.popup.referral.shareOn" approved="yes">
         <source>app.job.popup.referral.shareOn</source>
         <target state="translated">Teilen auf</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f22" resname="app.job.popup.referral.copy" approved="yes">
+      <trans-unit id="app.job.popup.referral.copy" approved="yes">
         <source>app.job.popup.referral.copy</source>
         <target state="translated">Kopieren</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f23" resname="app.job.popup.referral.gooLuck" approved="yes">
+      <trans-unit id="app.job.popup.referral.gooLuck" approved="yes">
         <source>app.job.popup.referral.gooLuck</source>
         <target state="translated">Viel Erfolg!</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f24" resname="app.job.popup.referral.linkToReferrals" approved="yes">
+      <trans-unit id="app.job.popup.referral.linkToReferrals" approved="yes">
         <source>app.job.popup.referral.linkToReferrals</source>
         <target state="translated">Alle Empfehlungen anzeigen</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f25" resname="app.job.popup.referral.shareTitle" approved="yes">
+      <trans-unit id="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>
         <target state="translated">Hi, schau dir mal die Stellenanzeige "%title%" an.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f26" resname="app.job.referral.readMore" approved="yes">
+      <trans-unit id="app.job.referral.readMore" approved="yes">
         <source>app.job.referral.readMore</source>
         <target state="translated">Mehr erfahren</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f27" resname="app.job.referral.readLess" approved="yes">
+      <trans-unit id="app.job.referral.readLess" approved="yes">
         <source>app.job.referral.readLess</source>
         <target state="translated">Weniger anzeigen</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f28" resname="app.job.referral.explanationTitle" approved="yes">
+      <trans-unit id="app.job.referral.explanationTitle" approved="yes">
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Ein neuer Job für Ihren Freund und %reward% für Sie</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f29" resname="app.job.referral.explanation" approved="yes">
+      <trans-unit id="app.job.referral.explanation" approved="yes">
         <source>app.job.referral.explanation</source>
         <target state="translated">Unterstützen Sie einen Freund bei der Stellensuche und erhalten Sie dafür eine Provision.&lt;br&gt;Ihr Freund bekommt einen Job, der ihn motiviert.&lt;br&gt; &lt;br&gt; &lt;br&gt; Werden Sie mit Transport Talent Referral selbst zum Headhunter&lt;br&gt; Empfehlen Sie Stellen über soziale und berufliche Netzwerke wie LinkedIn, Facebook und Twitter oder schicken Sie direkt eine E-Mail an einen Kontakt. Machen Sie Ihr persönliches Netzwerk zu Geld und helfen Sie anderen mit ihrer Karriere – Transport Talent Referral macht es möglich.&lt;br&gt; &lt;br&gt; Empfehlen&lt;br&gt; Ein Job, der nicht zu Ihnen passt? Leiten Sie die Anzeige an jemanden mit dem passenden Profil weiter und erhalten Sie eine Belohnung für Ihre Unterstützung. Wichtig ist, dass die Bewerbung über den von Ihnen geteilten Link erfolgt. Nur so können wir die Empfehlung eindeutig zuordnen und nach Vertragsabschluss die Provision auszahlen. &lt;br&gt; &lt;br&gt; Ohne Risiko: Sie müssen keinen Vertrag unterschreiben.&lt;br&gt; &lt;br&gt; Und anonym: Wir geben Ihren Namen nicht an das jeweilige Unternehmen weiter.</target>
       </trans-unit>
-    <trans-unit id="47b3608c2c5d404bb728492b17669f30" resname="app.job.section.popup.apply.cvTitle" approved="yes">
+    <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
         <source>app.job.section.popup.apply.cvTitle</source>
         <target state="translated">Lebenslauf</target>
       </trans-unit>
-    <trans-unit id="80d3b156e2ad47789fd5e3834597cess" resname="app.job.isReferral.yes" approved="yes">
+    <trans-unit id="app.job.isReferral.yes" approved="yes">
         <source>app.job.isReferral.yes</source>
         <target state="translated">Ja</target>
       </trans-unit>
-      <trans-unit id="80d3b156e2ad47789fd5e3834597cete" resname="app.job.isReferral.no" approved="yes">
+      <trans-unit id="app.job.isReferral.no" approved="yes">
         <source>app.job.isReferral.no</source>
         <target state="translated">Nein</target>
       </trans-unit>
-    <trans-unit id="80d3b156e2ad47789fd5e3834597cets" resname="app.job.section.popup.section.page2.accessDeniedError" approved="yes">
+    <trans-unit id="app.job.section.popup.section.page2.accessDeniedError" approved="yes">
         <source>app.job.section.popup.section.page2.accessDeniedError</source>
         <target state="translated">Sie können sich nur einmal pro Stellenausschreibung bewerben.</target>
       </trans-unit>
-    <trans-unit id="1" resname="app.job.section.main.rowPositionTitle" approved="yes">
+    <trans-unit id="app.job.section.main.rowPositionTitle" approved="yes">
         <source>app.job.section.main.rowPositionTitle</source>
         <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="2" resname="app.job.section.main.rowLocationTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowLocationTitle" approved="yes">
         <source>app.job.section.main.rowLocationTitle</source>
         <target state="translated">Ort</target>
       </trans-unit>
-      <trans-unit id="3" resname="app.job.section.main.MapLinkTitle" approved="yes">
+      <trans-unit id="app.job.section.main.MapLinkTitle" approved="yes">
         <source>app.job.section.main.MapLinkTitle</source>
         <target state="translated">Karte</target>
       </trans-unit>
-      <trans-unit id="4" resname="app.job.section.main.LearnMoreTitle" approved="yes">
+      <trans-unit id="app.job.section.main.LearnMoreTitle" approved="yes">
         <source>app.job.section.main.LearnMoreTitle</source>
         <target state="translated">Mehr erfahren</target>
       </trans-unit>
-      <trans-unit id="5" resname="app.job.section.main.ReferralRewardTitle" approved="yes">
+      <trans-unit id="app.job.section.main.ReferralRewardTitle" approved="yes">
         <source>app.job.section.main.ReferralRewardTitle</source>
         <target state="translated">Bonus bei empfehlung</target>
       </trans-unit>
-      <trans-unit id="6" resname="app.job.referral.Curr" approved="yes">
+      <trans-unit id="app.job.referral.Curr" approved="yes">
         <source>app.job.referral.Curr</source>
         <target state="translated">%currency%</target>
       </trans-unit>
-      <trans-unit id="7" resname="app.job.referral.Val" approved="yes">
+      <trans-unit id="app.job.referral.Val" approved="yes">
         <source>app.job.referral.Val</source>
         <target state="translated">%reward%</target>
       </trans-unit>
-      <trans-unit id="8" resname="app.job.section.main.ShareJob" approved="yes">
+      <trans-unit id="app.job.section.main.ShareJob" approved="yes">
         <source>app.job.section.main.ShareJob</source>
         <target state="translated">Stelle teilen</target>
        </trans-unit>
-       <trans-unit id="9" resname="app.section.main.JobApplyButtonTitle" approved="yes">
+       <trans-unit id="app.section.main.JobApplyButtonTitle" approved="yes">
           <source>app.section.main.JobApplyButtonTitle</source>
           <target state="translated">Bewerben</target>
        </trans-unit>
-       <trans-unit id="10" resname="app.section.main.ShowLessTitle" approved="yes">
+       <trans-unit id="app.section.main.ShowLessTitle" approved="yes">
           <source>app.section.main.ShowLessTitle</source>
           <target state="translated">Weniger zeigen</target>
        </trans-unit>
-       <trans-unit id="11" resname="app.section.main.ReferText" approved="yes">
+       <trans-unit id="app.section.main.ReferText" approved="yes">
           <source>app.section.main.ReferText</source>
           <target state="translated">Diese Stelle an einen Freund weiterempfehlen oder über soziale Netzwerke teilen, um bei erfolgreicher Vermittlung eine Prämie zu erhalten.</target>
        </trans-unit>
-       <trans-unit id="12" resname="app.job.referral.showLess" approved="yes">
+       <trans-unit id="app.job.referral.showLess" approved="yes">
            <source>app.job.referral.showLess</source>
            <target state="translated">Weniger zeigen</target>
        </trans-unit>
-       <trans-unit id="13" resname="app.job.FollowCompany" approved="yes">
+       <trans-unit id="app.job.FollowCompany" approved="yes">
            <source>app.job.FollowCompany</source>
            <target state="translated">Unternehmen folgen</target>
        </trans-unit>
-       <trans-unit id="14" resname="app.job.section.left.headlineFurtherJobs" approved="yes">
+       <trans-unit id="app.job.section.left.headlineFurtherJobs" approved="yes">
            <source>app.job.section.left.headlineFurtherJobs</source>
            <target state="translated">Weitere Jobs bei</target>
        </trans-unit>
-       <trans-unit id="15" resname="app.job.section.left.SeeAllJobsLink" approved="yes">
+       <trans-unit id="app.job.section.left.SeeAllJobsLink" approved="yes">
           <source>app.job.section.left.SeeAllJobsLink</source>
           <target state="translated">Zeige alle Jobs</target>
         </trans-unit>
-        <trans-unit id="16" resname="app.job.button.saveToProfile" approved="yes">
+        <trans-unit id="app.job.button.saveToProfile" approved="yes">
             <source>app.job.button.saveToProfile</source>
             <target state="translated">Unternehmen folgen</target>
         </trans-unit>
-        <trans-unit id="17" resname="app.job.button.savedToProfile" approved="yes">
+        <trans-unit id="app.job.button.savedToProfile" approved="yes">
             <source>app.job.button.savedToProfile</source>
             <target state="translated">Unternehmen nicht mehr folgen</target>
         </trans-unit>
-    <trans-unit id="f5cd5a98545e4177ae766910c5e0af12" resname="app.job.popup.referral.description" approved="yes">
+    <trans-unit id="app.job.popup.referral.description" approved="yes">
         <source>app.job.popup.referral.description</source>
         <target state="translated">Diesen Job weiterempfehlen und Geld verdienen</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f2a" resname="app.job.popup.referral.directLinkText" approved="yes">
+      <trans-unit id="app.job.popup.referral.directLinkText" approved="yes">
         <source>app.job.popup.referral.directLinkText</source>
         <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
-      <trans-unit id="18" resname="app.job.twitter.statusText" approved="yes">
+      <trans-unit id="app.job.twitter.statusText" approved="yes">
         <source>app.job.twitter.statusText</source>
         <target state="translated">%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
       </trans-unit>
-      <trans-unit id="19" resname="app.job.twitter.hashTags" approved="yes">
+      <trans-unit id="app.job.twitter.hashTags" approved="yes">
         <source>app.job.twitter.hashTags</source>
         <target state="translated">#logistik #transport #supplychain #jobs #stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f28a" resname="app.job.referral.explanationTitleAmbassador" approved="yes">
+      <trans-unit id="app.job.referral.explanationTitleAmbassador" approved="yes">
          <source>app.job.referral.explanationTitleAmbassador</source>
          <target state="translated">Sie unterstützen Ihre Kontakte und erhalten %reward% + einen zusätzlichen Bonus von %ambassador_bonus% als Botschafter</target>
       </trans-unit>
-      <trans-unit id="20" resname="app.job.edit" approved="yes">
+      <trans-unit id="app.job.edit" approved="yes">
           <source>app.job.edit</source>
           <target state="translated">Bearbeiten</target>
         </trans-unit>
-    <trans-unit id="57b3608c2c5d404bb728492b17669f30" resname="app.job.apply.error.alreadyExist" approved="yes">
+    <trans-unit id="app.job.apply.error.alreadyExist" approved="yes">
           <source>app.job.apply.error.alreadyExist</source>
           <target state="translated">Sie haben sich bereits für die Position beworben.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f31" resname="app.job.apply.defaultMessage" approved="yes">
+        <trans-unit id="app.job.apply.defaultMessage" approved="yes">
           <source>app.job.apply.defaultMessage</source>
           <target state="translated">Eingereicht von %recruiterFirstName% %recruiterLastName%</target>
         </trans-unit>
-    <trans-unit id="f5cd5a98545e4177ae766910c5e0af110" resname="app.job.popup.uploadCandidate.title" approved="yes">
+    <trans-unit id="app.job.popup.uploadCandidate.title" approved="yes">
         <source>app.job.popup.uploadCandidate.title</source>
         <target state="translated">CV hochladen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af111" resname="app.job.popup.uploadCandidate.description" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.description" approved="yes">
         <source>app.job.popup.uploadCandidate.description</source>
         <target state="translated">Nutzen Sie das unten stehende Formular, um Kandidaten für diese Position zu übermitteln. Aus Datenschutzgründen werden wir Ihre/n Kandidaten/in auffordern, seine/ihre Bewerbung zu bestätigen. Nach dieser Bestätigung werden wir das Verfahren mit dem/der Kandidaten/in fortsetzen.</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af113" resname="app.job.popup.uploadCandidate.firstname.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.firstname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.label</source>
         <target state="translated">Vorname</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af114" resname="app.job.popup.uploadCandidate.firstname.input.title" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.firstname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.input.title</source>
         <target state="translated">Vorname darf nur Buchstaben enthalten</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af115" resname="app.job.popup.uploadCandidate.lastname.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.lastname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.label</source>
         <target state="translated">Nachname</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af116" resname="app.job.popup.uploadCandidate.lastname.input.title" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.lastname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.input.title</source>
         <target state="translated">Nachname darf nur Buchstaben enthalten</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af117" resname="app.job.popup.uploadCandidate.email.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.email.label" approved="yes">
         <source>app.job.popup.uploadCandidate.email.label</source>
         <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118" resname="app.job.popup.uploadCandidate.salary.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.label" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.label</source>
         <target state="translated">Gehaltsvorstellungen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af118a" resname="app.job.popup.uploadCandidate.salary.initialOption" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.initialOption</source>
         <target state="translated">Gehaltsrahmen auswählen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af119" resname="app.job.popup.uploadCandidate.currency.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.currency.label" approved="yes">
         <source>app.job.popup.uploadCandidate.currency.label</source>
         <target state="translated">Währung</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af120" resname="app.job.popup.uploadCandidate.noticePeriod.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.label" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.label</source>
         <target state="translated">Kündigungsfrist</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af121" resname="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
         <target state="translated">Kündigungsfrist auswählen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af122" resname="app.job.popup.uploadCandidate.cv.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label</source>
         <target state="translated">CV hochladen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af123" resname="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
         <target state="translated">CV ändern</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af124" resname="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
         <target state="translated">Sie haben hochgeladen</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af125" resname="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
         <target state="translated">als CV.</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af126" resname="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
         <source>app.job.popup.uploadCandidate.confirm.input.label</source>
         <target state="translated">Ich bin vom/von der Kandidaten/in ermächtigt, seine/ihre Daten für diese Position zu übermitteln.</target>
       </trans-unit>
-      <trans-unit id="f5cd5a98545e4177ae766910c5e0af127" resname="app.job.popup.uploadCandidate.submitBtn" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.submitBtn" approved="yes">
         <source>app.job.popup.uploadCandidate.submitBtn</source>
         <target state="translated">Kandidaten übermitteln</target>
       </trans-unit>
-      <trans-unit id="1a" resname="app.job.section.main.rowSalaryRangeTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowSalaryRangeTitle" approved="yes">
         <source>app.job.section.main.rowSalaryRangeTitle</source>
         <target state="translated">Gehaltsvorstellung</target>
       </trans-unit>
-      <trans-unit id="8a" resname="app.job.section.main.uploadCV" approved="yes">
+      <trans-unit id="app.job.section.main.uploadCV" approved="yes">
         <source>app.job.section.main.uploadCV</source>
         <target state="translated">CV hochladen</target>
       </trans-unit>
-       <trans-unit id="57b3608c2c5d404bb728492b17669f32" resname="app.job.apply.error.noPermission" approved="yes">
+       <trans-unit id="app.job.apply.error.noPermission" approved="yes">
             <source>app.job.apply.error.noPermission</source>
             <target state="translated">Sie haben keinen Zugriff auf diesen Link</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f33" resname="app.job.apply.error.SignInAndTryAgain" approved="yes">
+        <trans-unit id="app.job.apply.error.SignInAndTryAgain" approved="yes">
             <source>app.job.apply.error.SignInAndTryAgain</source>
             <target state="translated">Dieser Link ist registrierten Nutzern vorbehalten. Bitte registrieren Sie sich und versuchen Sie den Link erneut.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f34" resname="app.job.apply.uploadCandidate.success" approved="yes">
+        <trans-unit id="app.job.apply.uploadCandidate.success" approved="yes">
             <source>app.job.apply.uploadCandidate.success</source>
             <target state="translated">Sie haben erfolgreich eine Bewerbung eingereicht</target>
         </trans-unit>
-    <trans-unit id="57b3608c2c5d404bb728492b17669f35" resname="app.job.uploadCV.success.part1" approved="yes">
+    <trans-unit id="app.job.uploadCV.success.part1" approved="yes">
             <source>app.job.uploadCV.success.part1</source>
             <target state="translated">Sie haben erfolgreich die Unterlagen von</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f36" resname="app.job.uploadCV.success.part2" approved="yes">
+        <trans-unit id="app.job.uploadCV.success.part2" approved="yes">
             <source>app.job.uploadCV.success.part2</source>
             <target state="translated">übermittelt - sehen Sie in Ihren Posteingang für weitere Informationen.</target>
         </trans-unit>
-    <trans-unit id="57b3608c2c5d404bb728492b17669f37" resname="app.job.recruiterNotApprovedPopup.title">
+    <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
             <source>app.job.recruiterNotApprovedPopup.title</source>
             <target>Hallo</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f38" resname="app.job.recruiterNotApprovedPopup.info">
+        <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
             <source>app.job.recruiterNotApprovedPopup.info</source>
             <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
         </trans-unit>
-        <trans-unit id="57b3608c2c5d404bb728492b17669f39" resname="app.job.recruiterNotApprovedPopup.dashboardLink">
+        <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="no">
             <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
             <target>Dashboard</target>
         </trans-unit>

@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.inactivityJobEmail.subject" approved="yes">
-      <source>app.inactivityJobEmail.subject</source>
-      <target state="translated">Inactivity job "%jobTitle%" for company "%companyName%"</target>
+      <trans-unit id="app.inactivityJobEmail.subject" approved="yes">
+        <source>app.inactivityJobEmail.subject</source>
+        <target state="translated">Inactivity job "%jobTitle%" for company "%companyName%"</target>
       </trans-unit>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.inactivityJobEmail.text" approved="yes">
+      <trans-unit id="app.inactivityJobEmail.text" approved="yes">
         <source>app.inactivityJobEmail.text</source>
         <target state="translated">Dear, %firstName%, 
 

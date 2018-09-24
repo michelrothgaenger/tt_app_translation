@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98193" resname="app.checkPayment.subject" approved="yes">
-      <source>app.checkPayment.subject</source>
-      <target state="translated">internal reminder: check receipt of payment</target>
+      <trans-unit id="app.checkPayment.subject" approved="yes">
+        <source>app.checkPayment.subject</source>
+        <target state="translated">internal reminder: check receipt of payment</target>
       </trans-unit>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98194" resname="app.checkPayment.content" approved="yes">
+      <trans-unit id="app.checkPayment.content" approved="yes">
         <source>app.checkPayment.content</source>
         <target state="translated">%applicationID%</target>
       </trans-unit>

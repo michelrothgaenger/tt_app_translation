@@ -5,87 +5,87 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="52653590e9e486ea2fcabd4d5581dfaf" resname="Airfreight" approved="yes">
+      <trans-unit id="Airfreight" approved="yes">
         <source>Airfreight</source>
         <target state="translated">Vận tải hàng không</target>
       </trans-unit>
-      <trans-unit id="5382aaf8b3d2fdeb6717f9805b0dd511" resname="Containers" approved="yes">
+      <trans-unit id="Containers" approved="yes">
         <source>Containers</source>
         <target state="translated">Công ten nơ</target>
       </trans-unit>
-      <trans-unit id="aac5c73eb5a26faa1204e42ae3011ec6" resname="Contract Logistics" approved="yes">
+      <trans-unit id="Contract Logistics" approved="yes">
         <source>Contract Logistics</source>
         <target state="translated">Hợp đồng kho vận</target>
       </trans-unit>
-      <trans-unit id="d5552e0564007d93ff5937a9cb3bc491" resname="Customer Service" approved="yes">
+      <trans-unit id="Customer Service" approved="yes">
         <source>Customer Service</source>
         <target state="translated">Dịch vụ hải quan</target>
       </trans-unit>
-      <trans-unit id="ff0b346915ac57e5db084466fd046f30" resname="Customs Clearance" approved="yes">
+      <trans-unit id="Customs Clearance" approved="yes">
         <source>Customs Clearance</source>
         <target state="translated">Đăng kiểm hải quan</target>
       </trans-unit>
-      <trans-unit id="c482980d384a9d0e7bc39e1140270870" resname="Finance" approved="yes">
+      <trans-unit id="Finance" approved="yes">
         <source>Finance</source>
         <target state="translated">Tài chính</target>
       </trans-unit>
-      <trans-unit id="fd4c638da5f85d025963f99fe90b1b1a" resname="HR" approved="yes">
+      <trans-unit id="HR" approved="yes">
         <source>HR</source>
         <target state="translated">Lĩnh vực nhân sự</target>
       </trans-unit>
-      <trans-unit id="3814e91b748661655681f959deeb2b4c" resname="Intermodal" approved="yes">
+      <trans-unit id="Intermodal" approved="yes">
         <source>Intermodal</source>
         <target state="translated">Đa phương tiện</target>
       </trans-unit>
-      <trans-unit id="cd32106bcb6de321930cf34574ea388c" resname="IT" approved="yes">
+      <trans-unit id="IT" approved="yes">
         <source>IT</source>
         <target state="translated">Máy tính</target>
       </trans-unit>
-      <trans-unit id="058e8498918613a39c08491f8e206572" resname="Legal &amp; Insurance" approved="yes">
+      <trans-unit id="Legal &amp; Insurance" approved="yes">
         <source>Legal &amp; Insurance</source>
         <target state="translated">Pháp lý &amp; Bảo hiểm</target>
       </trans-unit>
-      <trans-unit id="456d0deba6a86c9585590550c797502d" resname="Operations" approved="yes">
+      <trans-unit id="Operations" approved="yes">
         <source>Operations</source>
         <target state="translated">Thực hiện</target>
       </trans-unit>
-      <trans-unit id="e01eca2c4e3bddcbc35723ca618e0c7b" resname="Project Cargo" approved="yes">
+      <trans-unit id="Project Cargo" approved="yes">
         <source>Project Cargo</source>
         <target state="translated">Dự án hàng hóa</target>
       </trans-unit>
-      <trans-unit id="569cfa311dfdfa035b1e7d4b38dc9ca0" resname="Rail" approved="yes">
+      <trans-unit id="Rail" approved="yes">
         <source>Rail</source>
         <target state="translated">Đường sắt</target>
       </trans-unit>
-      <trans-unit id="a0bace88352282250ff56cd1559042f6" resname="Reefer" approved="yes">
+      <trans-unit id="Reefer" approved="yes">
         <source>Reefer</source>
         <target state="translated">Hỗ trợ</target>
       </trans-unit>
-      <trans-unit id="d11aed2ff81f20a2e2b7e0cf06ee1a37" resname="Road" approved="yes">
+      <trans-unit id="Road" approved="yes">
         <source>Road</source>
         <target state="translated">Đường</target>
       </trans-unit>
-      <trans-unit id="052696e3b45efd12af9e7ee84ac3a2d0" resname="Sales &amp; Marketing" approved="yes">
+      <trans-unit id="Sales &amp; Marketing" approved="yes">
         <source>Sales &amp; Marketing</source>
         <target state="translated">Bán lẻ và Marketing</target>
       </trans-unit>
-      <trans-unit id="23eaa8f0a4e2347d004e55044dbcd664" resname="Supply Chain Solutions" approved="yes">
+      <trans-unit id="Supply Chain Solutions" approved="yes">
         <source>Supply Chain Solutions</source>
         <target state="translated">Giải pháp chuỗi cung ứng</target>
       </trans-unit>
-      <trans-unit id="74caa208e5615a4d3b3f4c7312c9ccd9" resname="Warehousing &amp; Distribution" approved="yes">
+      <trans-unit id="Warehousing &amp; Distribution" approved="yes">
         <source>Warehousing &amp; Distribution</source>
         <target state="translated">Kho bãi và phân phối</target>
       </trans-unit>
-    <trans-unit id="af71d7f95abd42a38bc8bf018344b35f" resname="Manufacturing" approved="yes">
+    <trans-unit id="Manufacturing" approved="yes">
         <source>Manufacturing</source>
         <target state="translated">Chế tạo</target>
       </trans-unit>
-      <trans-unit id="deffd10b6f7844deb47012667fa4b283" resname="Consulting" approved="yes">
+      <trans-unit id="Consulting" approved="yes">
         <source>Consulting</source>
         <target state="translated">Tư vấn</target>
       </trans-unit>
-    <trans-unit id="58bbcb44e57f458d90d1cb5c3b87f7bb" resname="Oceanfreight/Seafreight" approved="yes">
+    <trans-unit id="Oceanfreight/Seafreight" approved="yes">
         <source>Oceanfreight/Seafreight</source>
         <target state="translated">Cước phí vận tải biển</target>
       </trans-unit>

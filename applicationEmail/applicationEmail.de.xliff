@@ -5,40 +5,40 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="yes">
+      <trans-unit id="app.application.salutation" approved="yes">
         <source>app.application.salutation</source>
         <target state="translated">Guten Tag %title% %lastname%</target>
       </trans-unit>
-      <trans-unit id="1bf386a0c59e4a7b8b03cd8a2ef24d3a" resname="app.application.appliedMsgFirstPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">Es gibt eine neue Bewerbung zur Ihrer Stellenausschreibung.</target>
       </trans-unit>
-      <trans-unit id="f3b8a7b4e832453390663b53b0642a43" resname="app.application.appliedMsgSecondPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">Im Anhang finden Sie den Lebenslauf des Kandidaten sowie nachfolgend eine persönliche Nachricht, die zusammen mit der Bewerbung eingegeben wurde.</target>
       </trans-unit>
-      <trans-unit id="d7d92c0a47314bbdb32a85d7c2199126" resname="app.application.appliedMsgLastPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
         <source>app.application.appliedMsgLastPart</source>
         <target state="translated">Nachricht des Bewerbers:</target>
       </trans-unit>
-      <trans-unit id="eec3260c28954570892c403e2073d9ea" resname="app.application.replyingMsgFirstPart" approved="yes">
+      <trans-unit id="app.application.replyingMsgFirstPart" approved="yes">
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">Antworten Sie einfach auf diese E-Mail, um mit dem Bewerber in Kontakt zu treten. Bei Fragen stehen wir Ihnen gerne zur Verfügung.</target>
       </trans-unit>
-      <trans-unit id="509ad190804848a68b59b5f368958c64" resname="app.application.respect" approved="yes">
+      <trans-unit id="app.application.respect" approved="yes">
         <source>app.application.respect</source>
         <target state="translated">Mit freundlichen Grüßen</target>
       </trans-unit>
-      <trans-unit id="87b7b2fa0da0432a888b658d3445075b" resname="app.application.sender" approved="yes">
+      <trans-unit id="app.application.sender" approved="yes">
         <source>app.application.sender</source>
         <target state="translated">Das Transport-Talent-Team</target>
       </trans-unit>
-    <trans-unit id="87b7b2fa0da0432a888b658d3445075c" resname="app.application.generalSalutation" approved="yes">
+    <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>
         <target state="translated">Guten Tag,</target>
       </trans-unit>
-    <trans-unit id="87b7b2fa0da0432a888b658d3445077" resname="application.mail.ats" approved="yes">
-        <source>application.mail.ats</source>
+    <trans-unit id="app.application.mail.ats" approved="yes">
+        <source>app.application.mail.ats</source>
         <target state="translated">ATS</target>
       </trans-unit>
     </body>

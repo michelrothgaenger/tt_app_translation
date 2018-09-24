@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3a99be1f58fa4fa1a26e2643069e5f95" resname="app.missingFieldsEmail.firstPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.firstPart" approved="yes">
         <source>app.missingFieldsEmail.firstPart</source>
         <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent möchte Ihnen den besten Service für Ihren nächsten Karriereschritt bieten. Um sicherzustellen, dass wir Sie nur bei relevanten Angeboten ansprechen, nutzten wir Ihr Profil. Uns ist aufgefallen, dass in Ihrem Profil die nachstehenden Angaben fehlen:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="0c89716e71e642bf9605e4eef2978fe8" resname="app.missingFieldsEmail.secondPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
         <source>app.missingFieldsEmail.secondPart</source>
         <target state="translated">&lt;br&gt;Klicken Sie &lt;a href="%profileUrl%"&gt;hier&lt;/a&gt; und vervollständigen Sie Ihre Informationen. Wir danke Ihnen, dass Sie sich die Zeit nehmen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
-      <trans-unit id="d4c6e0e965844bb093b741631e51c8be" resname="app.missingFieldsEmail.subject" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.subject" approved="yes">
         <source>app.missingFieldsEmail.subject</source>
         <target state="translated">Helfen Sie uns interessante Stellen für Sie zu finden</target>
       </trans-unit>      

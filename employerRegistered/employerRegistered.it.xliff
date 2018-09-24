@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1dd4012ec072084bcf5f111537b0ad2e" resname="app.registeredTitle">
+      <trans-unit id="app.registeredTitle" approved="no">
         <source>app.registeredTitle</source>
         <target>Thank you!</target>
       </trans-unit>
-      <trans-unit id="f311e56c653af23e3a9665433c1cdcd2" resname="app.registeredMsg">
+      <trans-unit id="app.registeredMsg" approved="no">
         <source>app.registeredMsg</source>
         <target>Thank you, %firstName%! We will get back to you soon.</target>
       </trans-unit>

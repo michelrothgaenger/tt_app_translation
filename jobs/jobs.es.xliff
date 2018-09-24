@@ -5,91 +5,91 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs" approved="yes">
+      <trans-unit id="app.jobs" approved="yes">
         <source>app.jobs</source>
         <target state="translated">Vacantes</target>
       </trans-unit>
-      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for" approved="yes">
+      <trans-unit id="app.for" approved="yes">
         <source>app.for</source>
         <target state="translated">Para</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in" approved="yes">
+      <trans-unit id="app.in" approved="yes">
         <source>app.in</source>
         <target state="translated">en</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search" approved="yes">
+      <trans-unit id="app.search" approved="yes">
         <source>app.search</source>
         <target state="translated">Buscar</target>
       </trans-unit>
-      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder" approved="yes">
+      <trans-unit id="app.jobsFilterCompanyPlaceholder" approved="yes">
         <source>app.jobsFilterCompanyPlaceholder</source>
         <target state="translated">ej. DHL</target>
       </trans-unit>
-      <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany" approved="yes">
+      <trans-unit id="app.egGermany" approved="yes">
         <source>app.egGermany</source>
         <target state="translated">ej. España</target>
       </trans-unit>
-      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes" approved="yes">
+      <trans-unit id="app.allJobTypes" approved="yes">
         <source>app.allJobTypes</source>
         <target state="translated">Todos las áreas</target>
       </trans-unit>
-      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels" approved="yes">
+      <trans-unit id="app.allJobLevels" approved="yes">
         <source>app.allJobLevels</source>
         <target state="translated">Todas las categorías</target>
       </trans-unit>
-      <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound" approved="yes">
+      <trans-unit id="app.noJobsFound" approved="yes">
         <source>app.noJobsFound</source>
         <target state="translated">No se han encontrado vacantes</target>
       </trans-unit>
-    <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc153" resname="app.jobs.searchForm.term.placeholder" approved="yes">
+    <trans-unit id="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>
         <target state="translated">Palabra clave, por ej., mercancía</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3996" resname="app.jobs.searchForm.filterTitle" approved="yes">
+      <trans-unit id="app.jobs.searchForm.filterTitle" approved="yes">
         <source>app.jobs.searchForm.filterTitle</source>
         <target state="translated">Filtrar</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3995" resname="app.jobs.searchForm.resetFilter" approved="yes">
+      <trans-unit id="app.jobs.searchForm.resetFilter" approved="yes">
         <source>app.jobs.searchForm.resetFilter</source>
         <target state="translated">Resetear filtro</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3994" resname="app.jobs.searchForm.filterAdd" approved="yes">
+      <trans-unit id="app.jobs.searchForm.filterAdd" approved="yes">
         <source>app.jobs.searchForm.filterAdd</source>
         <target state="translated">Añadir</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3993" resname="app.jobs.jobBlock.save" approved="yes">
+      <trans-unit id="app.jobs.jobBlock.save" approved="yes">
         <source>app.jobs.jobBlock.save</source>
         <target state="translated">Guardar</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3990" resname="app.jobs.jobBlock.saved" approved="yes">
+      <trans-unit id="app.jobs.jobBlock.saved" approved="yes">
         <source>app.jobs.jobBlock.saved</source>
         <target state="translated">Guardado</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3992" resname="app.jobs.jobBlock.posted" approved="yes">
+      <trans-unit id="app.jobs.jobBlock.posted" approved="yes">
         <source>app.jobs.jobBlock.posted</source>
         <target state="translated">Publicado</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3991" resname="app.jobs.searchForm.languagesTitle" approved="yes">
+      <trans-unit id="app.jobs.searchForm.languagesTitle" approved="yes">
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Idiomas</target>
       </trans-unit>
-    <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3911" resname="app.jobs.searchForm.referrals" approved="yes">
+    <trans-unit id="app.jobs.searchForm.referrals" approved="yes">
         <source>app.jobs.searchForm.referrals</source>
         <target state="translated">Mostrar referencias</target>
       </trans-unit>
-      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fba9" resname="app.jobs.createJobAlertButtonLabel" approved="yes">
+      <trans-unit id="app.jobs.createJobAlertButtonLabel" approved="yes">
         <source>app.jobs.createJobAlertButtonLabel</source>
         <target state="translated">CREAR ALERTA DE EMPLEO</target>
       </trans-unit>
-    <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb01" resname="app.jobs.alert.editCreate.noTitleError" approved="yes">
+    <trans-unit id="app.jobs.alert.editCreate.noTitleError" approved="yes">
         <source>app.jobs.alert.editCreate.noTitleError</source>
         <target state="translated">Por favor agrega un título</target>
       </trans-unit>
-      <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb77" resname="app.jobs.selectAutocompleteItem" approved="yes">
+      <trans-unit id="app.jobs.selectAutocompleteItem" approved="yes">
         <source>app.jobs.selectAutocompleteItem</source>
         <target state="translated">Por favor selecciona un elemento de la lista para continuar</target>
       </trans-unit>
-    <trans-unit id="f1ec57e94b6d4a298f4bed5c8b18fb78" resname="app.jobs.edit" approved="yes">
+    <trans-unit id="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>
         <target state="translated">EDITAR</target>
       </trans-unit>

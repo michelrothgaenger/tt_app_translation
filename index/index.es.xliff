@@ -5,63 +5,63 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
         <target state="translated">Somos el portal de empleo especializado en transporte, logística y cadena de suministro. ¡Regístrate y da un salto en tu carrera con Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
+      <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
         <target state="translated">Conectamos al mejor talento con las mejores empresas</target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
+      <trans-unit id="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
         <target state="translated">El portal líder de empleo para profesionales del transporte y logística</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
+      <trans-unit id="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
         <target state="translated">Ofertas de empleo interesantes</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
+      <trans-unit id="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
         <target state="translated">Buscar en todas las vacantes</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
+      <trans-unit id="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
         <target state="translated">Conoce a las empresas</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
+      <trans-unit id="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
         <target state="translated">Ver todas las empresas</target>
       </trans-unit>
-    <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
+    <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
         <target state="translated">Candidatos</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaTitle" approved="yes">
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target state="translated">Miles de carreras, miles de posibilidades.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
         <target state="translated">Tu nuevo empleo te está esperando. Encuéntralo entre las más de 6.000 vacantes en Transport Talent. Crea tu perfil y comienza a recibir ofertas de trabajo. Si no te interesan, podrás reenviarlas a tus contactos y llevarte una comisión en el caso de que consigan un empleo gracias a tu recomendación.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>
         <target state="translated">Busco empleo</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.title" approved="yes">
         <source>app.index.signupCTA.employers.title</source>
         <target state="translated">Empresas</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.ctaTitle" approved="yes">
         <source>app.index.signupCTA.employers.ctaTitle</source>
         <target state="translated">Contrata a los mejores.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.ctaDescription" approved="yes">
         <source>app.index.signupCTA.employers.ctaDescription</source>
         <target state="translated">Deja que nuestros te ayuden con los puestos más difíciles de cubrir y llega con tus anuncios a miles de profesionales</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.button" approved="yes">
         <source>app.index.signupCTA.employers.button</source>
         <target state="translated">Busco nuevos empleados</target>
       </trans-unit>

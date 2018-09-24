@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="268b1bcf742d46fbbdc5dd4bacae11a2" resname="app.profileApprovedEmail.subject" approved="yes">
+      <trans-unit id="app.profileApprovedEmail.subject" approved="yes">
         <source>app.profileApprovedEmail.subject</source>
         <target state="translated">Your profile has been approved</target>
       </trans-unit>
-      <trans-unit id="3cd0217ba4e24bc78ed1104ff5e0caa5" resname="app.profileApprovedEmail.content" approved="yes">
+      <trans-unit id="app.profileApprovedEmail.content" approved="yes">
         <source>app.profileApprovedEmail.content</source>
         <target state="translated">Dear %userFirstName%,
 

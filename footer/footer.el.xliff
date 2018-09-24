@@ -5,43 +5,43 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecd0" resname="app.profile">
+      <trans-unit id="app.profile" approved="no">
         <source>app.profile</source>
         <target>Λογαριασμός</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="app.signOut" approved="no">
         <source>app.signOut</source>
         <target>Αποσύνδεση</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="app.signIn" approved="no">
         <source>app.signIn</source>
         <target>Συνδεθείτε</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp">
+      <trans-unit id="app.signUp" approved="no">
         <source>app.signUp</source>
         <target>Εγγραφή</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="app.forEmployers" approved="no">
         <source>app.forEmployers</source>
         <target>Για τους εργοδότες</target>
       </trans-unit>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs">
+      <trans-unit id="app.aboutUs" approved="no">
         <source>app.aboutUs</source>
         <target>Ποιοί είμαστε</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions">
+      <trans-unit id="app.termsConditions" approved="no">
         <source>app.termsConditions</source>
         <target>Όροι και προϋποθέσεις</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy">
+      <trans-unit id="app.dataPrivacy" approved="no">
         <source>app.dataPrivacy</source>
         <target>Data Privacy</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs">
+      <trans-unit id="app.contactUs" approved="no">
         <source>app.contactUs</source>
         <target>Επικοινωνία</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint">
+      <trans-unit id="app.imprint" approved="no">
         <source>app.imprint</source>
         <target>Imprint</target>
       </trans-unit>

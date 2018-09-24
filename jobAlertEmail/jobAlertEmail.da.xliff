@@ -5,67 +5,67 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98693" resname="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
         <target state="translated"><![CDATA[<br>Hvis du ønsker at ændre indstillingerne for din jobagent, skal du gå til din <a href="%jobAlertsUrl%">profil</a>.<br><br>Venlig Hilsen,<br><br>Transport Talent]]></target>
       </trans-unit>
-      <trans-unit id="546a5af04dde4a99aae72c1acc07522d" resname="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Din jobagent er nu blevet oprettet. Følgende specifikationer er gældende:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="33be3460be0542c1b184c998e46ad36e" resname="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>
         <target state="translated">Titel:</target>
       </trans-unit>
-      <trans-unit id="8665826b319444b3a759aa9732b5f81a" resname="app.jobAlertEmail.jobAlertCreated.frequecnyLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.frequecnyLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.frequecnyLabel</source>
         <target state="translated">Periode til at sende:</target>
       </trans-unit>
-      <trans-unit id="bcdbb812960944ca8643925820d67bbd" resname="app.jobAlertEmail.jobAlertCreated.keywordLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.keywordLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.keywordLabel</source>
         <target state="translated">Keywords:</target>
       </trans-unit>
-      <trans-unit id="d903f30e29794546a854c3101f6a9731" resname="app.jobAlertEmail.jobAlertCreated.countriesLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.countriesLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.countriesLabel</source>
         <target state="translated">Lande:</target>
       </trans-unit>
-      <trans-unit id="924e1b9bf2c842ca85e83d01767a9a38" resname="app.jobAlertEmail.jobAlertCreated.citiesLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.citiesLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.citiesLabel</source>
         <target state="translated">Byer:</target>
       </trans-unit>
-      <trans-unit id="8b7d615afc9140e295a9cbb4a369e5e4" resname="app.jobAlertEmail.jobAlertCreated.typesLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.typesLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.typesLabel</source>
         <target state="translated">Jobtyper:</target>
       </trans-unit>
-      <trans-unit id="45eab5c72ea7488f991e96d42b6b418e" resname="app.jobAlertEmail.jobAlertCreated.levelsLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.levelsLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.levelsLabel</source>
         <target state="translated">Jobniveauer:</target>
       </trans-unit>
-      <trans-unit id="b6111d623c3c4c1c8d86b2de1e96c89a" resname="app.jobAlertEmail.jobAlertCreated.languagesLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.languagesLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.languagesLabel</source>
         <target state="translated">Sprog:</target>
       </trans-unit>
-      <trans-unit id="6800a3913639408a84c5018eb4855239" resname="app.jobAlertEmail.jobAlertCreated.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.subject</source>
         <target state="translated">Din jobagent er nu aktiv</target>
       </trans-unit>
-      <trans-unit id="b7f1f33df7ac42edaa13095cefa9a8c7" resname="app.jobAlertEmail.jobAlertDeleted" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Din jobagent er blevet deaktiveret. Vi håber, at du har fundet den position, du søgte. Nye jobagenter kan altid oprettes i din &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Lad os vide, hvis der er noget vi kan forbedre om vores job alarmer til yderligere støtte din søgning.&lt;br&gt;&lt;br&gt; Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
       </trans-unit>
-      <trans-unit id="47278c9730fa426db56d02efb37b43e9" resname="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Din jobagent er blevet de-aktiveret</target>
       </trans-unit>
-      <trans-unit id="47278c9730fa426db56d02efb37b4310" resname="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
         <target state="translated">Nye stillinger på Transport Talent</target>
       </trans-unit>
-      <trans-unit id="47278c9730fa426db56d02efb37b4311" resname="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Her er listen over de bedste jobs på Transport Talent baseret på din jobagent "%jobAlertTitle%". Vi håber, at du vil finde det job du søger. Jobagenter kan altid ændres på din &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Lad os endelig vide hvis der er noget vi kan ændre eller gøre bedre i vores job alerts for at forbedre din søgning.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-    <trans-unit id="47278c9730fa426db56d02efb37b4312" resname="app.jobAlertEmail.referralJobs" approved="yes">
+    <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Henvisningsjobs</target>
       </trans-unit>

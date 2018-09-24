@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.applicationInProcess.subject" approved="no">
+      <trans-unit id="app.applicationInProcess.subject" approved="no">
         <source>app.applicationInProcess.subject</source>
         <target state="translated">Appli1cation needs review.</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.applicationInProcess.content" approved="yes">
+      <trans-unit id="app.applicationInProcess.content" approved="yes">
         <source>app.applicationInProcess.content</source>
         <target state="translated">Dear %firstNameHR% %lastNameHR%,&lt;br&gt;&lt;br&gt; your application for job: "%jobTitle%" with status "%applicationStatus%" is still in the application process. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>

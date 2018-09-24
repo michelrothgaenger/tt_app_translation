@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="app.application.salutation" approved="yes">
+      <trans-unit id="app.application.salutation" approved="yes">
         <source>app.application.salutation</source>
         <target state="translated">Здравствуйте, %firstname%</target>
       </trans-unit>
-      <trans-unit id="1bf386a0c59e4a7b8b03cd8a2ef24d3a" resname="app.application.appliedMsgFirstPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">Мы получили отклик на вашу вакансию.</target>
       </trans-unit>
-      <trans-unit id="f3b8a7b4e832453390663b53b0642a43" resname="app.application.appliedMsgSecondPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">В письме вы можете найти прикрепленными резюме и личное сообщения соискателя.</target>
       </trans-unit>
-      <trans-unit id="d7d92c0a47314bbdb32a85d7c2199126" resname="app.application.appliedMsgLastPart" approved="yes">
+      <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
         <source>app.application.appliedMsgLastPart</source>
         <target state="translated">Соискатель написал:</target>
       </trans-unit>
-      <trans-unit id="eec3260c28954570892c403e2073d9ea" resname="app.application.replyingMsgFirstPart" approved="yes">
+      <trans-unit id="app.application.replyingMsgFirstPart" approved="yes">
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">Вы можете связаться с соискателем, ответив на это письмо. Пожалуйста, свяжитесь с нами, если у вас возникнут какие-либо вопросы.</target>
       </trans-unit>
-      <trans-unit id="509ad190804848a68b59b5f368958c64" resname="app.application.respect" approved="yes">
+      <trans-unit id="app.application.respect" approved="yes">
         <source>app.application.respect</source>
         <target state="translated">С уважением,</target>
       </trans-unit>
-      <trans-unit id="87b7b2fa0da0432a888b658d3445075b" resname="app.application.sender" approved="yes">
+      <trans-unit id="app.application.sender" approved="yes">
         <source>app.application.sender</source>
         <target state="translated">Команда по подбору персонала Transport Talent</target>
       </trans-unit>

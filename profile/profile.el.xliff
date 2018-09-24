@@ -5,323 +5,323 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">ή</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch">
+      <trans-unit id="app.jobSearch" approved="no">
         <source>app.jobSearch</source>
         <target>Αναζήτηση θέση εργασίας</target>
       </trans-unit>
-      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed">
+      <trans-unit id="registration.confirmed" approved="no">
         <source>registration.confirmed</source>
         <target>Συγχαρητήρια %username%, ο λογαριασμός μόλις ενεργοποιήθηκε.</target>
       </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo">
+      <trans-unit id="app.youCanContinueTo" approved="no">
         <source>app.youCanContinueTo</source>
         <target>You can continue to</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile">
+      <trans-unit id="app.profile" approved="no">
         <source>app.profile</source>
         <target>Λογαριασμός</target>
       </trans-unit>
-      <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText">
+      <trans-unit id="app.profileInputCvUploadBtnText" approved="no">
         <source>app.profileInputCvUploadBtnText</source>
         <target>Upload file</target>
       </trans-unit>
-      <trans-unit id="a87f2096c83c51e33a2c4dd60756b7fa" resname="app.deleteCV">
+      <trans-unit id="app.deleteCV" approved="no">
         <source>app.deleteCV</source>
         <target>Delete CV</target>
       </trans-unit>
-      <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements">
+      <trans-unit id="app.profileInputCvRequirements" approved="no">
         <source>app.profileInputCvRequirements</source>
         <target>The file must be a PDF and not larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded">
+      <trans-unit id="app.fileUploaded" approved="no">
         <source>app.fileUploaded</source>
         <target>File uploaded!</target>
       </trans-unit>
-      <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta">
+      <trans-unit id="app.profileSavedJobsCta" approved="no">
         <source>app.profileSavedJobsCta</source>
         <target>Find your saved jobs below. Add and delete as you see fit.</target>
       </trans-unit>
-      <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete">
+      <trans-unit id="app.delete" approved="no">
         <source>app.delete</source>
         <target>Delete</target>
       </trans-unit>
-      <trans-unit id="285106c70e5e3ed192b47bb69c8b9674" resname="app.searchForNewJobs">
+      <trans-unit id="app.searchForNewJobs" approved="no">
         <source>app.searchForNewJobs</source>
         <target>Search for new jobs</target>
       </trans-unit>
-      <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta">
+      <trans-unit id="app.profileSavedCompaniesCta" approved="no">
         <source>app.profileSavedCompaniesCta</source>
         <target>Find your saved companies below. Add and delete as you see fit.</target>
       </trans-unit>
-      <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies">
+      <trans-unit id="app.searchForNewCompanies" approved="no">
         <source>app.searchForNewCompanies</source>
         <target>Search for new companies</target>
       </trans-unit>
-      <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn">
+      <trans-unit id="app.profileUnpublishBtn" approved="no">
         <source>app.profileUnpublishBtn</source>
         <target>Unpublish profile</target>
       </trans-unit>
-      <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn">
+      <trans-unit id="app.profilePublishBtn" approved="no">
         <source>app.profilePublishBtn</source>
         <target>Publish profile</target>
       </trans-unit>
-      <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo">
+      <trans-unit id="app.contactInfo" approved="no">
         <source>app.contactInfo</source>
         <target>Contact info</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title">
+      <trans-unit id="app.title" approved="no">
         <source>app.title</source>
         <target>Title</target>
       </trans-unit>
-      <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName">
+      <trans-unit id="app.firstName" approved="no">
         <source>app.firstName</source>
         <target>First name</target>
       </trans-unit>
-      <trans-unit id="fb61d6b447f1893d659098d83d87b389" resname="app.lastName">
+      <trans-unit id="app.lastName" approved="no">
         <source>app.lastName</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email">
+      <trans-unit id="app.email" approved="no">
         <source>app.email</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone">
+      <trans-unit id="app.phone" approved="no">
         <source>app.phone</source>
         <target>Phone</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country">
+      <trans-unit id="app.country" approved="no">
         <source>app.country</source>
         <target>Country</target>
       </trans-unit>
-      <trans-unit id="5ca132321275d682bd4f1da5769d15f5" resname="app.region">
+      <trans-unit id="app.region" approved="no">
         <source>app.region</source>
         <target>Region</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city">
+      <trans-unit id="app.city" approved="no">
         <source>app.city</source>
         <target>City</target>
       </trans-unit>
-      <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding">
+      <trans-unit id="app.companyBranding" approved="no">
         <source>app.companyBranding</source>
         <target>Company branding</target>
       </trans-unit>
-      <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress">
+      <trans-unit id="app.companyAddress" approved="no">
         <source>app.companyAddress</source>
         <target>Company address</target>
       </trans-unit>
-      <trans-unit id="4bb85a8821938d64e22a56b351fceccd" resname="app.companyName">
+      <trans-unit id="app.companyName" approved="no">
         <source>app.companyName</source>
         <target>Company name</target>
       </trans-unit>
-      <trans-unit id="b9aeeb0c30bf1a453958f2008b04edd3" resname="app.address">
+      <trans-unit id="app.address" approved="no">
         <source>app.address</source>
         <target>Address</target>
       </trans-unit>
-      <trans-unit id="8b7414575e9ad122011f7ad15d2e525d" resname="app.postcodeZipCode">
+      <trans-unit id="app.postcodeZipCode" approved="no">
         <source>app.postcodeZipCode</source>
         <target>Postcode/ZIP Code</target>
       </trans-unit>
-      <trans-unit id="4d1b2379496ca88f3b176739c9d30107" resname="app.companyInformation">
+      <trans-unit id="app.companyInformation" approved="no">
         <source>app.companyInformation</source>
         <target>Company information</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize">
+      <trans-unit id="app.companySize" approved="no">
         <source>app.companySize</source>
         <target>Μέγεθος εταιρείας</target>
       </trans-unit>
-      <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover">
+      <trans-unit id="app.annualTurnover" approved="no">
         <source>app.annualTurnover</source>
         <target>Annual turnover</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="app.website" approved="no">
         <source>app.website</source>
         <target>Ιστοσελίδα</target>
       </trans-unit>
-      <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about">
+      <trans-unit id="app.about" approved="no">
         <source>app.about</source>
         <target>About</target>
       </trans-unit>
-      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel">
+      <trans-unit id="app.profileInputBasicEmailLabel" approved="no">
         <source>app.profileInputBasicEmailLabel</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel">
+      <trans-unit id="app.profileInputGeneralBirthdayLabel" approved="no">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target>Birthday</target>
       </trans-unit>
-      <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle">
+      <trans-unit id="app.profileSectionTotalExperienceTitle" approved="no">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target>Experience</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle">
+      <trans-unit id="app.jobTitle" approved="no">
         <source>app.jobTitle</source>
         <target>Job title</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position">
+      <trans-unit id="app.position" approved="no">
         <source>app.position</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg">
+      <trans-unit id="app.employerPublishedFlashMsg" approved="no">
         <source>app.employerPublishedFlashMsg</source>
         <target>Company profile has been published</target>
       </trans-unit>
-      <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg">
+      <trans-unit id="app.employerUnpublishedFlashMsg" approved="no">
         <source>app.employerUnpublishedFlashMsg</source>
         <target>Company profile has been unpublished</target>
       </trans-unit>
-      <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg">
+      <trans-unit id="app.profileSavedMsg" approved="no">
         <source>app.profileSavedMsg</source>
         <target>Saved</target>
       </trans-unit>
-      <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete">
+      <trans-unit id="app.complete" approved="no">
         <source>app.complete</source>
         <target>complete</target>
       </trans-unit>
-      <trans-unit id="b05920dc2269a201e652f992869c771e" resname="app.sectionName">
+      <trans-unit id="app.sectionName" approved="no">
         <source>app.sectionName</source>
         <target>Section name</target>
       </trans-unit>
-      <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled">
+      <trans-unit id="app.thisFieldMustBeFilled" approved="no">
         <source>app.thisFieldMustBeFilled</source>
         <target>This field must be filled!</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption">
+      <trans-unit id="app.selectAnOption" approved="no">
         <source>app.selectAnOption</source>
         <target>select an option</target>
       </trans-unit>
-      <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add">
+      <trans-unit id="app.add" approved="no">
         <source>app.add</source>
         <target>Add</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save">
+      <trans-unit id="app.save" approved="no">
         <source>app.save</source>
         <target>Save</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel">
+      <trans-unit id="app.cancel" approved="no">
         <source>app.cancel</source>
         <target>Cancel</target>
       </trans-unit>
-      <trans-unit id="b5484319932b710c764b17cf815b6283" resname="app.edit">
+      <trans-unit id="app.edit" approved="no">
         <source>app.edit</source>
         <target>Edit</target>
       </trans-unit>
-      <trans-unit id="f36f6f2cd3869cfa52e04011d4201302" resname="app.profileInputCertificateUploadBtnText">
+      <trans-unit id="app.profileInputCertificateUploadBtnText" approved="no">
         <source>app.profileInputCertificateUploadBtnText</source>
         <target>Upload file</target>
       </trans-unit>
-      <trans-unit id="7038eac66e387c3b3a0834d786a88757" resname="Insert Image">
+      <trans-unit id="Insert Image" approved="no">
         <source>Insert Image</source>
         <target>Insert Image</target>
       </trans-unit>
-      <trans-unit id="1f98842c354dc496970446bce14f4c50" resname="Upload Image">
+      <trans-unit id="Upload Image" approved="no">
         <source>Upload Image</source>
         <target>Upload Image</target>
       </trans-unit>
-      <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use">
+      <trans-unit id="Crop and Use" approved="no">
         <source>Crop and Use</source>
         <target>Crop and Use</target>
       </trans-unit>
-      <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here">
+      <trans-unit id="Drop your file here" approved="no">
         <source>Drop your file here</source>
         <target>Drop your file here</target>
       </trans-unit>
-      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or">
+      <trans-unit id="or" approved="no">
         <source>or</source>
         <target>or</target>
       </trans-unit>
-      <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file...">
+      <trans-unit id="Select a file..." approved="no">
         <source>Select a file...</source>
         <target>Select a file...</target>
       </trans-unit>
-      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image">
+      <trans-unit id="Please adjust selection to your image" approved="no">
         <source>Please adjust selection to your image</source>
         <target>Please adjust selection to your image</target>
       </trans-unit>
-      <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image">
+      <trans-unit id="Please select or upload an image" approved="no">
         <source>Please select or upload an image</source>
         <target>Please select or upload an image</target>
       </trans-unit>
-      <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close">
+      <trans-unit id="Close" approved="no">
         <source>Close</source>
         <target>Close</target>
       </trans-unit>
-      <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !">
+      <trans-unit id="Crop &amp; Use !" approved="no">
         <source>Crop &amp; Use !</source>
         <target><![CDATA[Crop & Use !]]></target>
       </trans-unit>
-      <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini">
+      <trans-unit id="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="no">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
         <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form">
+      <trans-unit id="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="no">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
         <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="f8fe8cba1625eaf8e5c253b041d57dbd" resname="The uploaded file was only partially uploaded">
+      <trans-unit id="The uploaded file was only partially uploaded" approved="no">
         <source>The uploaded file was only partially uploaded</source>
         <target>The uploaded file was only partially uploaded</target>
       </trans-unit>
-      <trans-unit id="298883b17e36ee3a18d73e835c0b44fc" resname="No file was uploaded">
+      <trans-unit id="No file was uploaded" approved="no">
         <source>No file was uploaded</source>
         <target>No file was uploaded</target>
       </trans-unit>
-      <trans-unit id="2384d693d9af53b4727c092af7570a19" resname="Missing a temporary folder">
+      <trans-unit id="Missing a temporary folder" approved="no">
         <source>Missing a temporary folder</source>
         <target>Missing a temporary folder</target>
       </trans-unit>
-      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk">
+      <trans-unit id="Failed to write file to disk" approved="no">
         <source>Failed to write file to disk</source>
         <target>Failed to write file to disk</target>
       </trans-unit>
-      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload">
+      <trans-unit id="A PHP extension stopped the file upload" approved="no">
         <source>A PHP extension stopped the file upload</source>
         <target>A PHP extension stopped the file upload</target>
       </trans-unit>
-      <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini">
+      <trans-unit id="The uploaded file exceeds the post_max_size directive in php.ini" approved="no">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
         <target>The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="893885e44a5f16e816de6ee752688a88" resname="File is too big">
+      <trans-unit id="File is too big" approved="no">
         <source>File is too big</source>
         <target>File is too big</target>
       </trans-unit>
-      <trans-unit id="7694642c2923adc52fad9d9df064dba2" resname="File is too small">
+      <trans-unit id="File is too small" approved="no">
         <source>File is too small</source>
         <target>File is too small</target>
       </trans-unit>
-      <trans-unit id="85fb1cf47b9543043438ba7ed901b626" resname="Filetype not allowed">
+      <trans-unit id="Filetype not allowed" approved="no">
         <source>Filetype not allowed</source>
         <target>Filetype not allowed</target>
       </trans-unit>
-      <trans-unit id="1c45e697240f870e5c402498ba4db883" resname="Maximum number of files exceeded">
+      <trans-unit id="Maximum number of files exceeded" approved="no">
         <source>Maximum number of files exceeded</source>
         <target>Maximum number of files exceeded</target>
       </trans-unit>
-      <trans-unit id="6dc13bc79a9736e9f927d747c4c45650" resname="Image exceeds maximum width">
+      <trans-unit id="Image exceeds maximum width" approved="no">
         <source>Image exceeds maximum width</source>
         <target>Image exceeds maximum width</target>
       </trans-unit>
-      <trans-unit id="24f04a559e89cf47678a96c202456683" resname="Image requires a minimum width (%min%)">
+      <trans-unit id="Image requires a minimum width (%min%)" approved="no">
         <source>Image requires a minimum width (%min%)</source>
         <target>Image requires a minimum width (%min%)</target>
       </trans-unit>
-      <trans-unit id="99ba00fe99cde16ff7c70743546365ed" resname="Image exceeds maximum height">
+      <trans-unit id="Image exceeds maximum height" approved="no">
         <source>Image exceeds maximum height</source>
         <target>Image exceeds maximum height</target>
       </trans-unit>
-      <trans-unit id="f720415de33c5861318b8539c2d7968d" resname="Image requires a minimum height (%min%)">
+      <trans-unit id="Image requires a minimum height (%min%)" approved="no">
         <source>Image requires a minimum height (%min%)</source>
         <target>Image requires a minimum height (%min%)</target>
       </trans-unit>
-      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted">
+      <trans-unit id="File upload aborted" approved="no">
         <source>File upload aborted</source>
         <target>File upload aborted</target>
       </trans-unit>
-      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image">
+      <trans-unit id="Failed to resize image" approved="no">
         <source>Failed to resize image</source>
         <target>Failed to resize image</target>
       </trans-unit>

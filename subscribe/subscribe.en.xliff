@@ -5,40 +5,40 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="subscribe.form.candidate" approved="yes">
+      <trans-unit id="subscribe.form.candidate" approved="yes">
         <source>subscribe.form.candidate</source>
         <target state="translated">I'm a candidate</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="subscribe.form.employer" approved="yes">
+      <trans-unit id="subscribe.form.employer" approved="yes">
         <source>subscribe.form.employer</source>
         <target state="translated">I'm an employer</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d4" resname="subscribe.form.email" approved="yes">
+      <trans-unit id="subscribe.form.email" approved="yes">
         <source>subscribe.form.email</source>
         <target state="translated">Your email</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d5" resname="subscribe.form.firstName" approved="yes">
+      <trans-unit id="subscribe.form.firstName" approved="yes">
         <source>subscribe.form.firstName</source>
         <target state="translated">Your first name</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d6" resname="subscribe.form.lastName" approved="yes">
+      <trans-unit id="subscribe.form.lastName" approved="yes">
         <source>subscribe.form.lastName</source>
         <target state="translated">Your last name</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d7" resname="subscribe.form.submit" approved="yes">
+      <trans-unit id="subscribe.form.submit" approved="yes">
         <source>subscribe.form.submit</source>
         <target state="translated">Sign up</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d8" resname="subscribe.result.title" approved="yes">
+      <trans-unit id="subscribe.result.title" approved="yes">
          <source>subscribe.result.title</source>
          <target state="translated">We will keep you posted!</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d9" resname="subscribe.result.text" approved="yes">
+      <trans-unit id="subscribe.result.text" approved="yes">
          <source>subscribe.result.text</source>
          <target state="translated">Thank you for joining our newsletter. You will receive the latest news on Transport Talent,
 work and career as well as insights from transport, logistics and supply chain.</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a45310" resname="subscribe.form.email.exist" approved="yes">
+      <trans-unit id="subscribe.form.email.exist" approved="yes">
         <source>subscribe.form.email.exist</source>
         <target state="translated">You are already subscribed</target>
       </trans-unit>

@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="9eae2bb27d5d5a434d6070182ea3e046" resname="app.home">
+      <trans-unit id="app.home" approved="no">
         <source>app.home</source>
         <target>Home</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec01" resname="app.header.userSubmenu.profile">
+      <trans-unit id="app.profile" approved="no">
         <source>app.profile</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut">
+      <trans-unit id="app.signOut" approved="no">
         <source>app.signOut</source>
         <target>Sign Out</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+      <trans-unit id="app.signUp" approved="yes">
         <source>app.signUp</source>
         <target state="translated">Register</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="app.signIn" approved="no">
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="7273a835f4229f8912ea513dee02d508" resname="app.findCompanies">
+      <trans-unit id="app.findCompanies" approved="no">
         <source>app.findCompanies</source>
         <target>Find companies</target>
       </trans-unit>
-      <trans-unit id="13b6885e14944daf8d4ab19e44ef2fcf" resname="app.findJobs">
+      <trans-unit id="app.findJobs" approved="no">
         <source>app.findJobs</source>
         <target>Find Jobs</target>
       </trans-unit>
-      <trans-unit id="51d72e3399d571ecebee7e232be46da6" resname="app.forCandidates">
+      <trans-unit id="app.forCandidates" approved="no">
         <source>app.forCandidates</source>
         <target>For candidates</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers">
+      <trans-unit id="app.forEmployers" approved="no">
         <source>app.forEmployers</source>
         <target>For Employers</target>
       </trans-unit>

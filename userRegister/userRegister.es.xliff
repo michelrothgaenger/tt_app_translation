@@ -5,439 +5,439 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
+      <trans-unit id="app.register" approved="yes">
         <source>app.register</source>
         <target state="translated">Regístrate gratis y accede a todas las vacantes en nuestro pool de Transporte y Logística</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
+      <trans-unit id="app.registration" approved="yes">
         <source>app.registration</source>
         <target state="translated">Regístrate</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
+      <trans-unit id="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
         <target state="translated">Iniciar sesión con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+      <trans-unit id="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
         <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
+      <trans-unit id="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
         <target state="translated">Iniciar sesión con Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">o</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
+      <trans-unit id="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
         <target state="translated">Acepto los</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
+      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
         <target state="translated">Términos y Condiciones Generales</target>
       </trans-unit>
-      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
+      <trans-unit id="registration.check_email" approved="yes">
         <source>registration.check_email</source>
         <target state="translated">Te hemos enviado un correo a %email%. Para activar tu cuenta, deberás hacer clic en el enlace que te enviamos.</target>
       </trans-unit>
-      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
         <target state="translated">¡Gracias por unirte a Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject" approved="yes">
+      <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
         <target state="translated">¡Te damos la bienvenida!</target>
       </trans-unit>
-      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
+      <trans-unit id="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
         <target state="translated">Hola %firstname%,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic aquí: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Saludos, &lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
+      <trans-unit id="registration.email.message" approved="yes">
         <source>registration.email.message</source>
         <target state="translated">Estimado usuario,&lt;br&gt;&lt;br&gt;para activar tu cuenta haz clic en el siguiente enlace: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
+      <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName" approved="yes">
+      <trans-unit id="form.firstName" approved="yes">
         <source>form.firstName</source>
         <target state="translated">Nombre</target>
       </trans-unit>
-      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName" approved="yes">
+      <trans-unit id="form.lastName" approved="yes">
         <source>form.lastName</source>
         <target state="translated">Apellidos</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password" approved="yes">
+      <trans-unit id="form.password" approved="yes">
         <source>form.password</source>
         <target state="translated">Contraseña</target>
       </trans-unit>
-      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation" approved="yes">
+      <trans-unit id="form.password_confirmation" approved="yes">
         <source>form.password_confirmation</source>
         <target state="translated">Repetir contraseña</target>
       </trans-unit>
-      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch" approved="yes">
+      <trans-unit id="fos_user.password.mismatch" approved="yes">
         <source>fos_user.password.mismatch</source>
         <target state="translated">Las contraseñas no coinciden</target>
       </trans-unit>
-    <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
+    <trans-unit id="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
         <target state="translated">¡Hecho!</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d717b3e3" resname="app.userRegister.provideEmail" approved="yes">
+      <trans-unit id="app.userRegister.provideEmail" approved="yes">
         <source>app.userRegister.provideEmail</source>
         <target state="translated">Introduce aquí tu email</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+      <trans-unit id="app.forgotPassword" approved="yes">
           <source>app.forgotPassword</source>
           <target state="translated">¿Has olvidado tu contraseña?</target>
         </trans-unit>
-        <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
+        <trans-unit id="app.notRegisteredCta" approved="yes">
           <source>app.notRegisteredCta</source>
           <target state="translated">¿Aún no te has registrado? Haz clic aquí.</target>
         </trans-unit>
-    <trans-unit id="382ba41746874fac96eb5077d7170001" resname="app.specialties.placeholder" approved="yes">
+    <trans-unit id="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
         <target state="translated">Dinos cual es tu especialidad</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170002" resname="app.salutations.placeholder" approved="yes">
+      <trans-unit id="app.salutations.placeholder" approved="yes">
         <source>app.salutations.placeholder</source>
         <target state="translated">Elige por favor...</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170003" resname="app.jobCategories.placeholder" approved="yes">
+      <trans-unit id="app.jobCategories.placeholder" approved="yes">
         <source>app.jobCategories.placeholder</source>
         <target state="translated">Categoría</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170004" resname="app.locations.placeholder" approved="yes">
+      <trans-unit id="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>
         <target state="translated">Lugar</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170005" resname="app.userRegister.signUpWithFB" approved="yes">
+      <trans-unit id="app.userRegister.signUpWithFB" approved="yes">
         <source>app.userRegister.signUpWithFB</source>
         <target state="translated">Iniciar sesión con Facebook</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170006" resname="app.userRegister.signUpWithGoogle" approved="yes">
+      <trans-unit id="app.userRegister.signUpWithGoogle" approved="yes">
         <source>app.userRegister.signUpWithGoogle</source>
         <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170007" resname="app.userRegister.signUpWithLinkedIn" approved="yes">
+      <trans-unit id="app.userRegister.signUpWithLinkedIn" approved="yes">
         <source>app.userRegister.signUpWithLinkedIn</source>
         <target state="translated">Iniciar sesión con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170008" resname="app.userRegister.popup.signUpAgreement" approved="yes">
+      <trans-unit id="app.userRegister.popup.signUpAgreement" approved="yes">
         <source>app.userRegister.popup.signUpAgreement</source>
         <target state="translated">Al registrarme acepto los &lt;a target="_blank" href="%termsUrl%"&gt;Términos y Condiciones Generales&lt;/a&gt;</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170009" resname="app.userRegister.popup.registerHeader" approved="yes">
+      <trans-unit id="app.userRegister.popup.registerHeader" approved="yes">
         <source>app.userRegister.popup.registerHeader</source>
         <target state="translated">Regístrate</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170035" resname="app.userRegister.popup.emailProviding" approved="yes">
+      <trans-unit id="app.userRegister.popup.emailProviding" approved="yes">
         <source>app.userRegister.popup.emailProviding</source>
         <target state="translated">Crea tu perfil gratis - tan solo dinos tu dirección de email.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170010" resname="app.userRegister.popup.email.placeholder" approved="yes">
+      <trans-unit id="app.userRegister.popup.email.placeholder" approved="yes">
         <source>app.userRegister.popup.email.placeholder</source>
         <target state="translated">Tu email</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170011" resname="app.userRegister.popup.emailConfirmation" approved="yes">
+      <trans-unit id="app.userRegister.popup.emailConfirmation" approved="yes">
         <source>app.userRegister.popup.emailConfirmation</source>
         <target state="translated">Recibirás un correo de confirmación de tu registro en Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170012" resname="app.userRegister.popup.registerButton" approved="yes">
+      <trans-unit id="app.userRegister.popup.registerButton" approved="yes">
         <source>app.userRegister.popup.registerButton</source>
         <target state="translated">Crea tu perfil gratis</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170013" resname="app.userRegister.popup.login" approved="yes">
+      <trans-unit id="app.userRegister.popup.login" approved="yes">
         <source>app.userRegister.popup.login</source>
         <target state="translated">¿Ya tienes una cuenta? Haz clic aquí para iniciar sesión.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170014" resname="app.userRegister.popup.loginToBook" approved="yes">
+      <trans-unit id="app.userRegister.popup.loginToBook" approved="yes">
         <source>app.userRegister.popup.loginToBook</source>
         <target state="translated">Entra ya para acceder a todos nuestros servicios.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170070" resname="app.userRegister.popup.loginHeader" approved="yes">
+      <trans-unit id="app.userRegister.popup.loginHeader" approved="yes">
         <source>app.userRegister.popup.loginHeader</source>
         <target state="translated">Inicia Sesión</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170015" resname="app.userRegister.popup.loginButton" approved="yes">
+      <trans-unit id="app.userRegister.popup.loginButton" approved="yes">
         <source>app.userRegister.popup.loginButton</source>
         <target state="translated">Inicia Sesión</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170016" resname="app.userRegister.step2.greeting" approved="yes">
+      <trans-unit id="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
         <target state="translated">¡Estamos encantados de tenerte a bordo! Completa tu perfil para que podamos ser más efectivos a la hora de mostrarte las vacantes que mejor encajen contigo. Tan solo te llevará unos minutos.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170017" resname="app.userRegister.step2.welcome" approved="yes">
+      <trans-unit id="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
         <target state="translated">Te damos la bienvenida</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170018" resname="app.userRegister.step2.contactDetails" approved="yes">
+      <trans-unit id="app.userRegister.step2.contactDetails" approved="yes">
         <source>app.userRegister.step2.contactDetails"</source>
         <target state="translated">Información general - Datos de contacto</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170019" resname="app.userRegister.step2.contactName" approved="yes">
+      <trans-unit id="app.userRegister.step2.contactName" approved="yes">
         <source>app.userRegister.step2.contactName</source>
         <target state="translated">Para empezar: ¿Cómo te llamas y cómo podemos ponernos en contacto contigo?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170020" resname="app.userRegister.step2.agreementPart1" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart1" approved="yes">
         <source>app.userRegister.step2.agreementPart1</source>
         <target state="translated">Al registrarme acepto los</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170021" resname="app.userRegister.step2.agreementPart2" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart2" approved="yes">
         <source>app.userRegister.step2.agreementPart2</source>
         <target state="translated">Términos y Condiciones</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170022" resname="app.userRegister.step2.signUpButton" approved="yes">
+      <trans-unit id="app.userRegister.step2.signUpButton" approved="yes">
         <source>app.userRegister.step2.signUpButton</source>
         <target state="translated">Regístrate</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170023" resname="app.userRegister.step3.greeting" approved="yes">
+      <trans-unit id="app.userRegister.step3.greeting" approved="yes">
         <source>app.userRegister.step3.greeting</source>
         <target state="translated">¡Perfecto! Ya has completado la primera parte.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170024" resname="app.userRegister.step3.waitForMore" approved="yes">
+      <trans-unit id="app.userRegister.step3.waitForMore" approved="yes">
         <source>app.userRegister.step3.waitForMore</source>
         <target state="translated">Te pedimos ahora unos pocos minutos más:</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170025" resname="app.userRegister.step3.profileFilling" approved="yes">
+      <trans-unit id="app.userRegister.step3.profileFilling" approved="yes">
         <source>app.userRegister.step3.profileFilling</source>
         <target state="translated">Completa tu perfil.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170026" resname="app.userRegister.step3.lookAroundOrContinue" approved="yes">
+      <trans-unit id="app.userRegister.step3.lookAroundOrContinue" approved="yes">
         <source>app.userRegister.step3.lookAroundOrContinue</source>
         <target state="translated">Ahora puedes navegar por nuestra web para familiarizarte. Podrás continuar completando o editando tu perfil en todo momento.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170027" resname="app.userRegister.step3.continueProfileFilling" approved="yes">
+      <trans-unit id="app.userRegister.step3.continueProfileFilling" approved="yes">
         <source>app.userRegister.step3.continueProfileFilling</source>
         <target state="translated">Completa tu perfil</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170028" resname="app.userRegister.step3.lookAround" approved="yes">
+      <trans-unit id="app.userRegister.step3.lookAround" approved="yes">
         <source>app.userRegister.step3.lookAround</source>
         <target state="translated">Dejar para más tarde</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170029" resname="app.userRegister.step4.stepSummary" approved="yes">
+      <trans-unit id="app.userRegister.step4.stepSummary" approved="yes">
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated">Paso 1/4: Resumen</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170030" resname="app.userRegister.step4.shortCV" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
         <source>app.userRegister.step4.shortCV</source>
         <target state="translated">¿Deseas que te contactemos con vacantes que puedan interesarte? Completa entonces la última parte de tu perfil y asegúrate de que lo mantienes actualizado.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170032" resname="app.userRegister.step4.shortSummary" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
         <source>app.userRegister.step4.shortSummary</source>
         <target state="translated">Breve Resumen</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170033" resname="app.userRegister.step4.experience" approved="yes">
+      <trans-unit id="app.userRegister.step4.experience" approved="yes">
         <source>app.userRegister.step4.experience</source>
         <target state="translated">Experiencia</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170035 " resname="app.userRegister.steps.backButton" approved="yes">
+      <trans-unit id="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>
         <target state="translated">&lt; volver atrás</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170036" resname="app.userRegister.steps.saveProceedButton" approved="yes">
+      <trans-unit id="app.userRegister.steps.saveProceedButton" approved="yes">
         <source>app.userRegister.steps.saveProceedButton</source>
         <target state="translated">guardar y seguir &gt;</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170037" resname="app.userRegister.step4.shortSummaryText" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="yes">
         <source>app.userRegister.step4.shortSummaryText</source>
         <target state="translated">Cuéntanos sobre tí, tus cualidades, y lo que consideres relevante para que podamos ayudarte de forma más efectiva.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170034" resname="app.userRegister.step4.specialityLabel" approved="yes">
+      <trans-unit id="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
         <target state="translated">¿Cuales son tus competencias?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170039" resname="app.userRegister.step5.stepImportLinkedIn" approved="yes">
+      <trans-unit id="app.userRegister.step5.stepImportLinkedIn" approved="yes">
         <source>app.userRegister.step5.stepImportLinkedIn</source>
         <target state="translated">Paso 2/4: Redes sociales y CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170040" resname="app.userRegister.step5.savingTimeByImport" approved="yes">
+      <trans-unit id="app.userRegister.step5.savingTimeByImport" approved="yes">
         <source>app.userRegister.step5.savingTimeByImport</source>
         <target state="translated">Ayúdanos a ayudarte: con información más detallada sobre tu perfil.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170041" resname="app.userRegister.step5.importDataHeader" approved="yes">
+      <trans-unit id="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
         <target state="translated">Importar datos</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170042" resname="app.userRegister.step5.funPart" approved="yes">
+      <trans-unit id="app.userRegister.step5.funPart" approved="yes">
         <source>app.userRegister.step5.funPart</source>
         <target state="translated">Conecta tu cuenta con tu perfil en LinkedIn.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170043" resname="app.userRegister.connectToLinkedInHeader" approved="yes">
+      <trans-unit id="app.userRegister.connectToLinkedInHeader" approved="yes">
         <source>app.userRegister.connectToLinkedInHeader</source>
         <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170044" resname="app.userRegister.step5.stepImportDataButton" approved="yes">
+      <trans-unit id="app.userRegister.step5.stepImportDataButton" approved="yes">
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170045" resname="app.userRegister.step5.congrats" approved="yes">
+      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
         <source>app.userRegister.step5.congrats</source>
         <target state="translated">¡Perfecto! Tu perfil de LinkedIn ya está conectado a TransportTalent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170077" resname="app.userRegister.step5.CvHeader" approved="yes">
+      <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>
         <target state="translated">CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170046" resname="app.userRegister.step5.DeleteCV" approved="yes">
+      <trans-unit id="app.userRegister.step5.DeleteCV" approved="yes">
         <source>app.userRegister.step5.DeleteCV</source>
         <target state="translated">Eliminar CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170047" resname="app.userRegister.step5.cvSuccesPart1" approved="yes">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart1" approved="yes">
         <source>app.userRegister.step5.cvSuccesPart1</source>
         <target state="translated">Has importado</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170048" resname="app.userRegister.step5.cvSuccesPart2" approved="yes">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart2" approved="yes">
         <source>app.userRegister.step5.cvSuccesPart2</source>
         <target state="translated">tu CV con éxito.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170049" resname="app.userRegister.step5.fileUpload" approved="yes">
+      <trans-unit id="app.userRegister.step5.fileUpload" approved="yes">
         <source>app.userRegister.step5.fileUpload</source>
         <target state="translated">Subir archivo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170050" resname="app.userRegister.step5.cvRestriction" approved="yes">
+      <trans-unit id="app.userRegister.step5.cvRestriction" approved="yes">
         <source>app.userRegister.step5.cvRestriction</source>
         <target state="translated">EL archivo debe de ser un PDF de máximo 15 MB.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170051" resname="app.userRegister.step6.stepPersonalData" approved="yes">
+      <trans-unit id="app.userRegister.step6.stepPersonalData" approved="yes">
         <source>app.userRegister.step6.stepPersonalData</source>
         <target state="translated">Paso 3/4: Datos personales</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170052" resname="app.userRegister.step6.dataFilling" approved="yes">
+      <trans-unit id="app.userRegister.step6.dataFilling" approved="yes">
         <source>app.userRegister.step6.dataFilling</source>
         <target state="translated">Si has conectado tu perfil de LinkedIn puede que ya veas algunos datos aquí. De lo contrario, puedes rellenar los campos manualmente.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170053" resname="app.userRegister.step6.personalProfile" approved="yes">
+      <trans-unit id="app.userRegister.step6.personalProfile" approved="yes">
         <source>app.userRegister.step6.personalProfile</source>
         <target state="translated">Tu perfil</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170054" resname="app.userRegister.step6.fillMaximumInformation" approved="yes">
+      <trans-unit id="app.userRegister.step6.fillMaximumInformation" approved="yes">
         <source>app.userRegister.step6.fillMaximumInformation</source>
         <target state="translated">Contesta solo a las preguntas con las que te sientas cómodo. Si creemos necesitar información más detallada nos pondremos en contacto contigo.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170055" resname="app.userRegister.step6.generalHeader" approved="yes">
+      <trans-unit id="app.userRegister.step6.generalHeader" approved="yes">
         <source>app.userRegister.step6.generalHeader</source>
         <target state="translated">General</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170056" resname="app.userRegister.step6.photoHeader" approved="yes">
+      <trans-unit id="app.userRegister.step6.photoHeader" approved="yes">
         <source>app.userRegister.step6.photoHeader</source>
         <target state="translated">Foto</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170058" resname="app.userRegister.step5.editPhoto" approved="yes">
+      <trans-unit id="app.userRegister.step5.editPhoto" approved="yes">
         <source>app.userRegister.step5.editPhoto</source>
         <target state="translated">Editar foto</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170059" resname="app.userRegister.step6.deletePhoto" approved="yes">
+      <trans-unit id="app.userRegister.step6.deletePhoto" approved="yes">
         <source>app.userRegister.step6.deletePhoto</source>
         <target state="translated">Eliminar</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170060" resname="app.userRegister.step6.photoPixelsMinimum" approved="yes">
+      <trans-unit id="app.userRegister.step6.photoPixelsMinimum" approved="yes">
         <source>app.userRegister.step6.photoPixelsMinimum</source>
         <target state="translated">Tamaño mínimo: 150 x 150 pixel.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170061" resname="app.userRegister.step6.photoNotLarger" approved="yes">
+      <trans-unit id="app.userRegister.step6.photoNotLarger" approved="yes">
         <source>app.userRegister.step6.photoNotLarger</source>
         <target state="translated">El archivo no debe superar 15 MB.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170062" resname="app.userRegister.step7.stepYourPreferences" approved="yes">
+      <trans-unit id="app.userRegister.step7.stepYourPreferences" approved="yes">
         <source>app.userRegister.step7.stepYourPreferences</source>
         <target state="translated">Paso 4/4: Tus preferencias</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170063" resname="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
+      <trans-unit id="app.userRegister.step7.kindOfWorkYouLookingFor" approved="yes">
         <source>app.userRegister.step7.kindOfWorkYouLookingFor</source>
         <target state="translated">Dinos lo que buscas.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170064" resname="app.userRegister.step7.jobPreferences" approved="yes">
+      <trans-unit id="app.userRegister.step7.jobPreferences" approved="yes">
         <source>app.userRegister.step7.jobPreferences</source>
         <target state="translated">Marco personal</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170065" resname="app.userRegister.step7.jobPreferencesText" approved="yes">
+      <trans-unit id="app.userRegister.step7.jobPreferencesText" approved="yes">
         <source>app.userRegister.step7.jobPreferencesText</source>
         <target state="translated">Al compartir con nosotros tus metas y deseos nos ayudas a encontrar las mejores ofertas de trabajo para ti.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170066" resname="app.userRegister.step7.preferedJobCategories" approved="yes">
+      <trans-unit id="app.userRegister.step7.preferedJobCategories" approved="yes">
         <source>app.userRegister.step7.preferedJobCategories</source>
         <target state="translated">Tipos de trabajo preferidos</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170067" resname="app.userRegister.step7.chooseCategoryLabel" approved="yes">
+      <trans-unit id="app.userRegister.step7.chooseCategoryLabel" approved="yes">
         <source>app.userRegister.step7.chooseCategoryLabel</source>
         <target state="translated">Selecciona</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170068" resname="app.userRegister.step7.preferedLocations" approved="yes">
+      <trans-unit id="app.userRegister.step7.preferedLocations" approved="yes">
         <source>app.userRegister.step7.preferedLocations</source>
         <target state="translated">Regiones o países preferidos</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170069" resname="app.userRegister.step7.preferedLocationsLabel" approved="yes">
+      <trans-unit id="app.userRegister.step7.preferedLocationsLabel" approved="yes">
         <source>app.userRegister.step7.preferedLocationsLabel</source>
         <target state="translated">Regiones, países o ciudades donde te gustaría trabajar</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170099" resname="app.userRegister.step7.salaryExpectations" approved="yes">
+      <trans-unit id="app.userRegister.step7.salaryExpectations" approved="yes">
         <source>app.userRegister.step7.salaryExpectations</source>
         <target state="translated">Expectativas salariales</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608979" resname="form.locationPlaceholder" approved="yes">
+      <trans-unit id="form.locationPlaceholder" approved="yes">
         <source>form.locationPlaceholder</source>
         <target state="translated">Indica un lugar</target>
       </trans-unit>
-      <trans-unit id="dd602f68a209e7ad43d255223c273280" resname="form.birthdayLabel" approved="yes">
+      <trans-unit id="form.birthdayLabel" approved="yes">
         <source>form.birthdayLabel</source>
         <target state="translated">Fecha de nacimiento</target>
       </trans-unit>
-      <trans-unit id="1d602f68a209e7ad43d255223c273211" resname="app.userRegister.step6.birthdayPlaceholder" approved="yes">
+      <trans-unit id="app.userRegister.step6.birthdayPlaceholder" approved="yes">
         <source>app.userRegister.step6.birthdayPlaceholder</source>
         <target state="translated">DD/MM/AAAA</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170071" resname="form.firstNamePlaceholder" approved="yes">
+      <trans-unit id="form.firstNamePlaceholder" approved="yes">
         <source>form.firstNamePlaceholder</source>
         <target state="translated">Tu nombre</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170072" resname="form.lastNamePlaceholder" approved="yes">
+      <trans-unit id="form.lastNamePlaceholder" approved="yes">
         <source>form.lastNamePlaceholder</source>
         <target state="translated">Tus apellidos</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170073" resname="form.emailPlaceholder" approved="yes">
+      <trans-unit id="form.emailPlaceholder" approved="yes">
         <source>form.emailPlaceholder</source>
         <target state="translated">Tu email</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170074" resname="form.passwordPlaceholder" approved="yes">
+      <trans-unit id="form.passwordPlaceholder" approved="yes">
         <source>form.passwordPlaceholder</source>
         <target state="translated">Tu contraseña</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170075" resname="form.passwordRepeatPlaceholder" approved="yes">
+      <trans-unit id="form.passwordRepeatPlaceholder" approved="yes">
         <source>form.passwordRepeatPlaceholder</source>
         <target state="translated">Repite tu contraseña</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170078" resname="form.residenceLabel" approved="yes">
+      <trans-unit id="form.residenceLabel" approved="yes">
         <source>form.residenceLabel</source>
         <target state="translated">Lugar de residencia</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170081" resname="form.salutationLabel" approved="yes">
+      <trans-unit id="form.salutationLabel" approved="yes">
         <source>form.salutationLabel</source>
         <target state="translated">Tratamiento</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170082" resname="form.salaryLabel" approved="yes">
+      <trans-unit id="form.salaryLabel" approved="yes">
         <source>form.salaryLabel</source>
         <target state="translated">Salario anual</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170083" resname="form.salaryPlaceholder" approved="yes">
+      <trans-unit id="form.salaryPlaceholder" approved="yes">
         <source>form.salaryPlaceholder</source>
         <target state="translated">Tu salario</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170084" resname="form.experiencePlaceholder" approved="yes">
+      <trans-unit id="form.experiencePlaceholder" approved="yes">
         <source>form.experiencePlaceholder</source>
         <target state="translated">Años</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170085" resname="form.currencyLabel" approved="yes">
+      <trans-unit id="form.currencyLabel" approved="yes">
         <source>form.currencyLabel</source>
         <target state="translated">Divisa</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170076" resname="form.experienceLabel" approved="yes">
+      <trans-unit id="form.experienceLabel" approved="yes">
         <source>form.experiencemLabel</source>
         <target state="translated">Años de experiencia</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170086" resname="app.userRegister.flash.confirmEmail.confirmationTokenNotFound" approved="yes">
+      <trans-unit id="app.userRegister.flash.confirmEmail.confirmationTokenNotFound" approved="yes">
         <source>app.userRegister.flash.confirmEmail.confirmationTokenNotFound</source>
         <target state="translated">No existe ningún usuario con esta identificación</target>
       </trans-unit>

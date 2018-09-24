@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
         <target state="translated">Stillinger i transport, logistik og supply chain</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
         <target state="translated">Vores ambition er at skabe en platform hvor dygtige fagfolk og og arbejdsgivere inden for transport og logistikbranchen på fortrolig vis komme i kontakt med hinanden.</target>
       </trans-unit>
-      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="yes">
         <source>app.metaDescriptionBase</source>
         <target state="translated">Transport Talent mission er at skabe en platform, hvor fagfolk indenfor transport og logistik på fortrolig vis kan komme i kontakt med de bedste arbejdsgivere i branchen.</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
+      <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
         <target state="translated">Vi bruger cookies på vores hjemmeside.</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
+      <trans-unit id="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
         <target state="translated">Vi bruger cookies til at sikre, at vi giver dig den bedste oplevelse på vores hjemmeside. Dette omfatter cookies fra tredjeparts social media hjemmesider, hvis du besøger en side der indeholder embedded indhold fra sociale medier. Sådanne tredjeparts cookies kan spore din brug af vores hjemmeside. Hvis du vælger at fortsætte så antager vi at du er ok med at modtage alle cookies på vores hjemmeside.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
+      <trans-unit id="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
         <target state="translated">Læs mere om cookies og vores cookie-politik her.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
+      <trans-unit id="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
         <target state="translated">Luk</target>
       </trans-unit>
-    <trans-unit id="073200146c1028b99b0d13e6cdf06479" resname="app.index.intercomMapHeadline" approved="yes">
+    <trans-unit id="app.index.intercomMapHeadline" approved="yes">
         <source>app.index.intercomMapHeadline</source>
         <target state="translated">&lt;b&gt;Transport Talent&lt;/b&gt; har brugere i &lt;b&gt;126 countries.&lt;/b&gt;&lt;/br&gt; Hvornår &lt;b&gt;melder du dig til?&lt;/b&gt;</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06480" resname="app.joinNow" approved="yes">
+      <trans-unit id="app.joinNow" approved="yes">
         <source>app.joinNow</source>
         <target state="translated">OPRET EN PROFIL I DAG</target>
       </trans-unit>

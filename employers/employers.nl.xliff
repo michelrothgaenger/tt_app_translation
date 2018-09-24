@@ -5,47 +5,47 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="31f1aad35261785882296872771af04c" resname="app.employers.meta.companiesWord" approved="yes">
+      <trans-unit id="app.employers.meta.companiesWord" approved="yes">
         <source>app.employers.meta.companiesWord</source>
         <target state="translated">Companies</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
+      <trans-unit id="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
         <target state="translated">Meet the companies</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143974" resname="app.employers.pageDescription" approved="yes">
+      <trans-unit id="app.employers.pageDescription" approved="yes">
         <source>app.employers.pageDescription</source>
         <target state="translated">Find out what top transport and logistics companies are looking for and what they have to offer</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound" approved="yes">
+      <trans-unit id="app.noCompaniesFound" approved="yes">
         <source>app.noCompaniesFound</source>
         <target state="translated">No companies found</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c5520" resname="app.employers.various" approved="yes">
+      <trans-unit id="app.employers.various" approved="yes">
         <source>app.employers.various</source>
         <target state="translated">Various</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143979" resname="app.employers.company.jobsOnline" approved="yes">
+      <trans-unit id="app.employers.company.jobsOnline" approved="yes">
         <source>app.employers.company.jobsOnline</source>
         <target state="translated">%count% job online|%count% jobs online</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143112" resname="app.employers.button.companySave" approved="yes">
+      <trans-unit id="app.employers.button.companySave" approved="yes">
         <source>app.employers.button.companySave</source>
         <target state="translated">Follow</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143111" resname="app.employers.button.companySaved" approved="yes">
+      <trans-unit id="app.employers.button.companySaved" approved="yes">
         <source>app.employers.button.companySaved</source>
         <target state="translated">Unfollow</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143113" resname="app.employers.company.cities" approved="yes">
+      <trans-unit id="app.employers.company.cities" approved="yes">
         <source>app.employers.company.cities</source>
         <target state="translated">Cities</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143114" resname="app.employers.company.jobTypes" approved="yes">
+      <trans-unit id="app.employers.company.jobTypes" approved="yes">
         <source>app.employers.company.jobTypes</source>
         <target state="translated">Job types</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143115" resname="app.employers.company.levels" approved="yes">
+      <trans-unit id="app.employers.company.levels" approved="yes">
         <source>app.employers.company.levels</source>
         <target state="translated">Levels</target>
       </trans-unit>

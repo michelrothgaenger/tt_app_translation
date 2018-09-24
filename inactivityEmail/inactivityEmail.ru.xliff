@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1b41" resname="app.inactivityEmail.subject" approved="yes">
+      <trans-unit id="app.inactivityEmail.subject" approved="yes">
         <source>app.inactivityEmail.subject</source>
         <target state="translated">Все еще заинтересованы в карьерных возможностях?</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabc82" resname="app.inactivityEmail" approved="yes">
+      <trans-unit id="app.inactivityEmail" approved="yes">
         <source>app.inactivityEmail</source>
         <target state="translated"><![CDATA[Здравствуйте %firstName%, <br> <br> Вы все еще ищете интересные позиции в индустрии транспорта и логистики? Мы заметили, что вы не пользовались/не заходили на Transport Talent какое-то время. Ниже мы собрали интересные объявления о работе для Вас: <br> <br>%renderedJobs% <br> <a href="%companiesUrl%">Посмотрите, кто еще нанимает сотрудников в настоящее время</a> <br> <a href="%blogUrl%">Ознакомьтесь с нашей последней статьей в блоге </a>. <br> <br> Оставайтесь с нами, следуя за нами на <a href="https://www.facebook.com/transportTALENT/">Facebook</a>, <a href="https://twitter.com/transportTALENT/">Twitter</a> или <a href="http://www.linkedin.com/company/10355313/">LinkedIn</a>. <br> <br > Пожалуйста, обращайтесь к нам, если у Вас есть какие-либо вопросы. Мы всегда рады помочь. <br> <br> С уважением, <br> <br> Ваша команда Transport Talent]]></target>
       </trans-unit>

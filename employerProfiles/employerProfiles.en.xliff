@@ -5,23 +5,23 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-        <trans-unit id="e2b0df47ec102c33b5a8e47cfb06eed9" resname="app.blgLogisticsDescription" approved="yes">
+        <trans-unit id="app.blgLogisticsDescription" approved="yes">
             <source>app.blgLogisticsDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About BLG LOGISTICS</div>  <p>BLG LOGISTICS is a firmly established name in global logistics. With our experience and our intuition that allows us to tune in to the spirit of the times, we combine traditional port logistics with a wide variety of modern logistics services. At more than 100 sites throughout the whole world, we provide over 16,000 jobs. Our customers include the leading German automobile manufacturers as well as strong commercial brands.</p> <br> <div class="headline headline-font">WORKING AT BLG LOGISTICS</div> <p>Our employees are the basis for our success. Our aim is to work together long-term with committed people who are happy to be working with us and who identify with BLG. In accordance with our mission statement, we offer attractive employment schemes and individual advanced training programs, and we promote an open communication culture.</p>]]></target>
         </trans-unit>
-        <trans-unit id="b5035ee7c56c49fc5126f16f33210af4" resname="app.dachserDescription" approved="yes">
+        <trans-unit id="app.dachserDescription" approved="yes">
             <source>app.dachserDescription</source>
             <target state="translated">&lt;div class="headline headline-font"&gt;About DACHSER&lt;/div&gt; &lt;p&gt;The company, with its headquarters in Kempten, was established in 1930 and is one of the global leaders in the field of logistics. DACHSER has successfully proved for decades that a family-owned company can achieve much with committed employees and innovative thinking. The DACHSER business model comprises transport logistics, warehousing and customer-specific services in three business divisions: DACHSER European Logistics, DACHSER Food-Logistics and DACHSER Air &amp; Sea Logistics.&lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at DACHSER&lt;/div&gt; &lt;p&gt;We place great value on employees who meet their constantly changing challenges with excitement and commitment. We see our employees as entrepreneurs within the enterprise and rely on the self-motivation of every single person. We support them through various (and individually tailored) programs to promote their technical qualifications and personal competencies, and thereby create an environment for the constructive collaboration of all teams for the benefit of our customers. Therefore, we look for individuals who develop and implement innovative solutions to service their customers independently and with initiative. We also value employees who show an interest in foreign countries and cultures, who respect humanity and the environment and value the opportunity to work independently, creatively and responsively.&lt;/p&gt;</target>
           </trans-unit>
-          <trans-unit id="e8e16e771815f812aacdd6cfde7f71fe" resname="app.dhlDescription" approved="yes">
+          <trans-unit id="app.dhlDescription" approved="yes">
             <source>app.dhlDescription</source>
             <target state="translated">&lt;div class="headline headline-font"&gt;About DHL&lt;/div&gt; &lt;p&gt;DHL is present in over 220 countries and territories across the globe, making it the most international company in the world. With a workforce exceeding 480,000 employees, we provide solutions for an almost infinite number of logistics needs. DHL is part of the world’s leading postal and logistics company Deutsche Post DHL Group, and encompasses the business units DHL Express, DHL Parcel, DHL eCommerce, DHL Global Forwarding, DHL Freight and DHL Supply Chain. The company was originally founded in 1969 in the United States but was acquired by Deutche Post in 2002 and is today head quartered in Bonn, Germany. &lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at DHL&lt;/div&gt; &lt;p&gt;The roles within Deutsche Post and DHL are as diverse as the people who perform them. Many of our employees spend their careers in various roles – joining as interns or on the shop floor and working their way up through different departments and divisions (and often different countries too). We think this says a lot about the sort of company we are and it’s something of which we’re exceptionally proud. From flexible work schedules and a culture of openness and respect in the workplace to personal mentors and a comprehensive range of trainee and development programs, we help you to realize your full potential.&lt;/p&gt;</target>
           </trans-unit>
-          <trans-unit id="eb9ce79f88660153c29d24591953512a" resname="app.nagelDescription" approved="yes">
+          <trans-unit id="app.nagelDescription" approved="yes">
             <source>app.nagelDescription</source>
             <target state="translated">&lt;div class="headline headline-font"&gt;About NAGEL-GROUP&lt;/div&gt; &lt;p&gt;Nagel-Group is a German family business with international presence and over 100 owned locations throughout Europe. The number one food logistics company in Germany and among the leading companies throughout Europe. &lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at NAGEL-GROUP&lt;/div&gt; &lt;p&gt;Your prospects with the Nagel-Group is a challenging and varied work in an internationally successful company. You will work in inter-departmental and international teams. We offer individual development programs for management or specialist career paths and have numerous options and opportunities for promotion.&lt;p&gt;</target>
           </trans-unit>
-          <trans-unit id="d564128c0d03a1e5d2aacef9f378f6b0" resname="app.rhenusDescription" approved="yes">
+          <trans-unit id="app.rhenusDescription" approved="yes">
             <source>app.rhenusDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About Rhenus Group</div>
     <p>Rhenus Group is a global logistics service company with a turnover of € 4.2 billion. Rhenus has more than 460 locations worldwide and employs 25,000 people. The Rhenus business areas – Contract Logistics, Freight Logistics, Port Logistics and Public Transport – manage complex supply chains and provide a wealth of innovative value-added services.
@@ -33,7 +33,7 @@
     Being an international logistics provider we are able to provide our staff with all the tools they need to pursue their chosen career.
     </p>]]></target>
           </trans-unit>
-          <trans-unit id="8428a6b791a3554b580e46fbcae92bb9" resname="app.helmannDescription" approved="yes">
+          <trans-unit id="app.helmannDescription" approved="yes">
             <source>app.helmannDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About Hellmann</div>
     <p>Founded in 1871, the company started with one man, Carl Heinrich Hellmann, using a horse- drawn cart to deliver parcels in and around the town of Osnabrueck, northern Germany. Four generations later, Carl’s great-grandchildren, Jost and Klaus, own and run the company with a worldwide network of 19,300 people in 443 branches in 157 countries. The owners have always been, and continue to be, directly involved in the management; each decision is taken weighted against criteria that reach far beyond short term outcomes. We ensure the long term viability of Hellmann so it continues to provide opportunities for generations to come.</p>
@@ -41,7 +41,7 @@
     <p>At Hellmann, we create and sustain a fun, stimulating and empowering environment that attracts, retains and nourishes good people. Through training, compensation and recognition
     we encourage our people to develop their talents, in an atmosphere of mutual respect and trust. The core of who we are resides in the fact that we are a family owned company and we are proud of that. We promote the essence of what it means to be a family throughout the company. We encourage our members worldwide to build strong relationships based on integrity, understanding and mutual cooperation.</p>]]></target>
           </trans-unit>
-          <trans-unit id="2b47ec7fa574c445200b9b349cc2d091" resname="app.dbSchenkerDescription" approved="yes">
+          <trans-unit id="app.dbSchenkerDescription" approved="yes">
             <source>app.dbSchenkerDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About DB Schenker</div>
     <p>DB Schenker supports industry and trade in the global exchange of goods: in land transport, worldwide air and ocean freight, contract logistics and supply chain management. Roughly 65,000 employees at some 2,000 locations around the globe generated revenues totaling 14.943 billion euros in 2014.</p>
@@ -52,7 +52,7 @@
     is a topic close to our hearts. We therefore endeavour to fill vacant management and specialist positions as often as we can from among our own ranks. Your career path and career potential knows no bounds at DB Schenker. Our numerous locations both nationally and internationally offer you the chance to further your career as a manager or specialist in one of our diverse business areas.
     </p>]]></target>
           </trans-unit>
-          <trans-unit id="5e1c3118909284e13a83e1da24c759a5" resname="app.panalpinaDescription" approved="yes">
+          <trans-unit id="app.panalpinaDescription" approved="yes">
             <source>app.panalpinaDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About Panalpina</div>
     <p>The Panalpina Group is one of the world’s leading providers of supply chain solutions. The company combines its core products of Air Freight, Ocean Freight, and Logistics to deliver globally integrated, tailor-made end-to-end solutions. Drawing on in-depth industry know-how and customized IT systems, Panalpina manages the needs of its customers’ supply chains, no matter how demanding they might be. Energy Solutions is a specialized service for the energy and capital projects sector.</p>
@@ -63,7 +63,7 @@
 
     <p>Panalpina strives to be the employer of choice in our industry. In order to achieve our corporate objectives, we have to attract the most talented people on the market and to keep our high performing colleagues within the company. We focus on people who embrace our core values, reflect in their behavior the Panalpina spirit “a passion for solutions” and who turn challenging situations into promising opportunities.</p>]]></target>
           </trans-unit>
-          <trans-unit id="0a7d7d913d1b5056709992e07d8aef79" resname="app.dsvDescription" approved="yes">
+          <trans-unit id="app.dsvDescription" approved="yes">
             <source>app.dsvDescription</source>
             <target state="translated"><![CDATA[<div class="headline headline-font">About DSV A/S</div>
     <p>DSV is a global transport and logistics company offering transport services worldwide by road,
@@ -80,11 +80,11 @@
     global market. Working for the world’s fifth largest global supplier of transport and logistics can
     open up many opportunities for you to develop your career on an international scale. </p>]]></target>
           </trans-unit>
-          <trans-unit id="75d331f01b0634d75b1596d1e79924ae" resname="app.arvatoDescription" approved="yes">
+          <trans-unit id="app.arvatoDescription" approved="yes">
             <source>app.arvatoDescription</source>
             <target state="translated">&lt;div class="headline headline-font"&gt;About Arvato BERTELSMANN&lt;/div&gt;&lt;p&gt;Global logistics means for us, being able to connect you with your customers anywhere. In our fast evolving world, the customer chooses the channels and dictates how service excellence is defined. We power the logistics backbone and orchestrate the multichannel fulfilment for B2C, B2B, store &amp; retail fulfilment. With our innovative solutions and technologies, we ensure customer-centric operations and bring your omni-channel visions to life.&lt;/p&gt;&lt;br&gt;&lt;div class="headline headline-font"&gt;Working at Arvato&lt;/div&gt;&lt;p&gt;Arvato offers a wealth of job opportunities to bring out your best. There are now more than 70.000 people in over 40 countries working for Arvato – that is to say, for our clients. Whatever tasks and challenges we face across units and markets, we are united by one common goal: not just to satisfy our customers, but to delight them time and again with the work we do for them. This is demanding, but at the same time it grants us the creative leeway to achieve our goals. And it presents us with exceptional career opportunities. We are being encouraged to think ahead and take an entrepreneurial stance on doing business. An extraordinary team spirit, a co-operative management culture and individual support help us to not only meet any challenge, but to excel ourselves in what we do.&lt;/p&gt;</target>
           </trans-unit>
-          <trans-unit id="b09192e377ec07d168d59ac66b976a46" resname="app.sealandDescription" approved="yes">
+          <trans-unit id="app.sealandDescription" approved="yes">
               <source>app.sealandDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About Sealand</div>
               <p>Back in the 50s the Americas had a shipping line they could proudly call their own. The original SeaLand was created by trucking entrepreneur, Malcolm McLean who gave the region its first dedicated carrier service while simultaneously giving the world its first taste of container shipping.</p>
@@ -99,7 +99,7 @@
               <p>Our tagline is a mantra that manifests itself in patient assistance, proactive service, ready solutions to the challenges our customers face — and of course, an incomparable can-do spirit.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="deea26d6521c725be55e9b20799954b6" resname="app.seagoLineDescription" approved="yes">
+            <trans-unit id="app.seagoLineDescription" approved="yes">
               <source>app.seagoLineDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About Seago Line</div>
               <p>At Seago Line, we want to provide our customers with the best possible short sea and feeder container shipping services in Europe — from the Black Sea through the Mediterranean to the North Sea and the Baltic Sea.</p>
@@ -113,15 +113,15 @@
               <p>As part of the Maersk Group, Seago Line can help develop employees’ skills and experience while opening the door to international career opportunities at sister companies.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="d6e97e73d2584f4e2fda05de98d24cbc" resname="app.safmarineDescription" approved="yes">
+            <trans-unit id="app.safmarineDescription" approved="yes">
               <source>app.safmarineDescription</source>
               <target state="translated">&lt;div class="headline headline-font"&gt;About Safmarine&lt;/div&gt; &lt;p&gt;Safmarine is an international container carrier focused on trade to and from emerging markets in Africa and West Central Asia.&lt;/p&gt; &lt;p&gt;Founded in 1946 in South Africa, Safmarine has always had strong ties to Africa, its energy, people and vibrant culture. Embracing these roots has established a distinct way of doing business, which still sets us apart from our competition.&lt;/p&gt; &lt;p&gt;Today, over 1.200 Safmariners in 85 countries around the world share a common goal: to be the people making the difference in shipping. Our ambition is to inspire a brighter future through profound partnerships and a culture of positivity and optimism. To realize this we invest in people, in relationships, and in the way we do business.&lt;/p&gt; &lt;p&gt;At Safmarine we are committed to bringing a human touch to the world of shipping and to partner with our customers on every step of their journey.&lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at Safmarine&lt;/div&gt; &lt;p&gt;Our business is built on a simple idea: we’re the people that make the difference in shipping.&lt;/p&gt; &lt;p&gt;We want to provide our customers with the highest quality of service. How can we do this? By identifying and attracting the best talent there is. Maybe that would be you.&lt;/p&gt; &lt;p&gt;Safmarine is an ideal place to begin or build your career – whether you’re just starting out or already have work experience.&lt;/p&gt; &lt;p&gt;We want you to thrive, from the very first day you walk through our doors. We want you to seize the initiative, push forward and grow with us.&lt;/p&gt; &lt;p&gt;We’ll encourage you every step of the way.&lt;/p&gt; &lt;p&gt;We’ll ensure you get training and professional development help designed around your specific career goals. And because we’re a shipping company with offices around the world, you’ll probably get an opportunity to relocate to another country.&lt;/p&gt; &lt;p&gt;You’ll find that your colleagues are interesting, supportive and great to work with. You will work with a diverse category of customers, and make a genuine impact on the success of their business. And you‘ll get the space to advance your career.&lt;/p&gt;</target>
             </trans-unit>
-            <trans-unit id="7058f46c538d43dfe40e794c0f95a773" resname="app.mccDescription" approved="yes">
+            <trans-unit id="app.mccDescription" approved="yes">
               <source>app.mccDescription</source>
               <target state="translated">&lt;div class="headline headline-font"&gt;About MCC&lt;/div&gt; &lt;p&gt;MCC Transport is a regional specialist handling all Intra–Asia containerized cargo for the Maersk Group in addition to providing feeder services for a wide range of regional and global shipping lines. Having operated in the market for more than 20 years, MCC Transport represents a group of service oriented and knowledgeable people providing customers with a wide-range direct port coverage and a large corridor portfolio in the Intra Asian market.&lt;/p&gt; &lt;p&gt;A trade specialist in the Intra-Asia market for decades, MCC Transport has the experience and expertise to help you steer your business through the ever-changing and rapidly growing market in this region.&lt;/p&gt; &lt;p&gt;This means we understand the requirements and dynamics of the Intra-Asian trade. We are flexible in our operations but at the same time maintain a strong focus on schedule reliability.&lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at MCC&lt;/div&gt; &lt;p&gt;Employed in Maersk Group shipping companies are people with all manner of backgrounds, ranging from recent graduates to experienced professionals.&lt;/p&gt; &lt;p&gt;The job variety is huge, but can be roughly split into two: maritime jobs and commercial jobs. Maritime positions are available for experienced transport industry personnel, or for people who have completed our entry-level shipping programs. Commercial transport positions are available to people from a broad spectrum of degree disciplines and other backgrounds.&lt;/p&gt;</target>
             </trans-unit>
-            <trans-unit id="b9f2b906f25bdee2e0a2c23b246efaaa" resname="app.maerskLineDescription" approved="yes">
+            <trans-unit id="app.maerskLineDescription" approved="yes">
               <source>app.maerskLineDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About MAERSK LINE</div>
               <p>Maersk Line is the world’s largest container shipping company, known for reliable, flexible and eco-efficient services. We are part of the Maersk Group, headquartered in Copenhagen, Denmark, and we operate 610 container vessels providing ocean transportation in all parts of the world.</p>
@@ -134,7 +134,7 @@
               <p>If you had to sum up the reasons for the Maersk success story in two words, we believe those words would be performance and values. At Maersk, we choose the best people and we encourage and enable each individual to perform their very best within highly professional teams, acting within the framework of our company’s values. We’ll provide the opportunity to achieve, and your achievements will be well rewarded. But our focus is always on long- term, sustainable performance – and to achieve this, we believe it is essential that all our decisions are guided by a shared framework of ethical values.<p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="4e50db6d2e74b60039f9d1857d3a4b61" resname="app.damcoDescription" approved="yes">
+            <trans-unit id="app.damcoDescription" approved="yes">
               <source>app.damcoDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About DAMCO</div>
               <p>Damco is one of the world’s leading providers of freight forwarding and supply chain management services. For more than 100 years, we have been providing our customers with transportation and logistics solutions that support the way they want to do business, wherever they are in the world.</p>
@@ -146,7 +146,7 @@
               <p>When you join Damco, you’ll find that the world is your workplace. You’ll work in a culturally diverse, performance stimulating environment. Working at Damco brings a unique blend of being part of a rich heritage and an exuberant, youthful, fast-paced logistics company.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="6e26a1dfc657c36d7551a66baf1f9dfe" resname="app.geodisDescription" approved="yes">
+            <trans-unit id="app.geodisDescription" approved="yes">
               <source>app.geodisDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About Geodis</div>
               <p>GEODIS is a Supply Chain Operator ranking among the top companies in its field in Europe and the World. GEODIS, which is part of SNCF Logistics, which in turn is a business line of the SNCF Group, is the number one Transport and Logistics operator in France and ranked number four in Europe. The international reach includes a direct presence in 67 countries and a global network spanning over 120 countries. With its five Lines of Business (Supply Chain Optimization, Freight Forwarding, Contract Logistics, Distribution & Express and Road Transport), GEODIS manages its customers Supply Chain by providing end-to-end solutions enabled by our people, our infrastructure, processes and systems.</p>
@@ -157,11 +157,11 @@
               <p>The talent of our teams is at the heart of our strategy. To support our development and reach our ambitious and sustainable goals, we need to attract and retain the best talents.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="b1e1f1ab0dd49539b5415c4c8c23485b" resname="app.apmTerminalsDescription" approved="yes">
+            <trans-unit id="app.apmTerminalsDescription" approved="yes">
               <source>app.apmTerminalsDescription</source>
               <target state="translated">&lt;div class="headline headline-font"&gt;About APM TERMINALS&lt;/div&gt; &lt;p&gt;APM Terminals operates a Global Terminal Network of 20,600 employees on five continents which includes 62 operating port and terminal facilities in 38 countries, and 135 Inland Services operations in 39 countries. The company provides port management and operations to over 60 liner shipping customers who serve the world’s leading importers and exporters of containerized and other cargoes.&lt;/p&gt; &lt;p&gt;With world headquarters in The Hague, The Netherlands, the company helps to meet the constantly changing needs of the international trade community through high productivity operations and port capacity in economically, environmentally and socially responsible ways. Leveraging over a century of maritime industry experience and the strength of the A.P. Moller-Maersk Group, APM Terminals has grown to over USD $4.45 billion in revenue in 2014. APM Terminals’ goal is to become the port industry’s leading operator, and was most recently named “Terminal Operator of the Year” for 2014 at the Lloyd’s List North American Maritime Awards in February 2015.&lt;/p&gt; &lt;br&gt; &lt;div class="headline headline-font"&gt;Working at APM TERMINALS&lt;/div&gt; &lt;p&gt;In every corner of the world and in every business area, you will live the same core values. Competing in the market place in an ethical way, you are a valuable and solid business partner. You work towards the future, operating in a careful and humble way while demonstrating transparency and inspiring others. You conduct business at the highest level of ethical, environmental and societal standards in line with APM Terminals core values.&lt;/p&gt; &lt;p&gt;Since talented employees are the foundation of our company culture and success, your performance will be rewarded in a way that promotes continued achievement. APM Terminals offers employees fair, competitive compensation and rewards which include continuous development opportunities.&lt;/p&gt; &lt;p&gt;APM Terminals’ encourages you to assume ownership of your development with the full support of the organization. To enable you, we offer some of the best learning tools and training programs within the industry. We partner with our leading professionals, run top talent programs and develop leaders to be role models.&lt;/p&gt; &lt;p&gt;Our growth ambitions and business plans call for the best people, generalists and specialists alike, to help us succeed in all markets in any economic cycle. Our job portal offers you the ability to search current job openings around the world. Lifting your career at APM Terminals starts with you.&lt;/p&gt;</target>
             </trans-unit>
-            <trans-unit id="c6f9d2309245a65bbcd976db8f0f1cbe" resname="app.agilityDescription" approved="yes">
+            <trans-unit id="app.agilityDescription" approved="yes">
               <source>app.agilityDescription</source>
               <target state="translated"><![CDATA[<div class="headline headline-font">About AGILITY</div>
               <p>Agility builds durable, efficient supply chains that power businesses and drive trade, creating access to new opportunities.</p>
@@ -172,7 +172,7 @@
               <p>In more than 100 countries around the world, we deliver personal service and local insights that help customers succeed and communities prosper. We move, manage and distribute the goods that power commerce and trade. That takes a global network, unmatched local knowledge and a diverse, passionate, talented team committed to going above and beyond.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="c6f9d2309245a65bbcd976db8f0f1cbq" resname="app.ttDescription" approved="yes">
+            <trans-unit id="app.ttDescription" approved="yes">
               <source>app.ttDescription</source>
               <target state="translated">&lt;div class="headline headline-font"&gt;About TRANSPORT TALENT&lt;/div&gt; &lt;p&gt;Transport Talent is founded with the goal to innovate and improve the transport and logistics recruitment space. Candidates on the Transport Talent platform can actively apply to jobs, follow companies and advance their career with exclusive career-specific content.&lt;/p&gt; &lt;p&gt;Employers can streamline the way they recruit, manage, and engage with talent by leveraging the largest and most concentrated community of transport and logistics professionals.&lt;/p&gt; &lt;p&gt;Transport Talent was founded by Ulrich Nissen and Michel Rothgaenger. Both have a long track record in Management and HR from some of the world’s leading logistics companies.&lt;/p&gt;</target>
             </trans-unit>

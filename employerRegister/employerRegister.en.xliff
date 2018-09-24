@@ -5,83 +5,79 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name" approved="yes">
+      <trans-unit id="app.first_name" approved="yes">
         <source>app.first_name</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name" approved="yes">
+      <trans-unit id="app.last_name" approved="yes">
         <source>app.last_name</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name" approved="yes">
+      <trans-unit id="app.company_name" approved="yes">
         <source>app.company_name</source>
         <target state="translated">Company name</target>
       </trans-unit>
-      <trans-unit id="53b1b6d15015b4a6324b47f5985926a1" resname="app.password" approved="yes">
+      <trans-unit id="app.password" approved="yes">
         <source>app.password</source>
         <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="935ad3df35bb15f3b780f4f8f8384e3c" resname="app.password_confirmation" approved="yes">
+      <trans-unit id="app.password_confirmation" approved="yes">
         <source>app.password_confirmation</source>
         <target state="translated">Confirm password</target>
       </trans-unit>
-      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch" approved="yes">
+      <trans-unit id="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
         <target state="translated">Password mismatch</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+      <trans-unit id="app.signUp" approved="yes">
         <source>app.signUp</source>
         <target state="translated">Finish registration</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe4742" resname="app.signUpStep1" approved="yes">
-          <source>app.signUpStep1</source>
-          <target state="translated">Register</target>
-      </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a1" resname="app.employerRegister.popup.firstName.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.firstName.placeholder" approved="yes">
         <source>app.employerRegister.popup.firstName.placeholder</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a2" resname="app.employerRegister.popup.lastName.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.lastName.placeholder" approved="yes">
         <source>app.employerRegister.popup.lastName.placeholder</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a3" resname="app.employerRegister.popup.companyName.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.companyName.placeholder" approved="yes">
         <source>app.employerRegister.popup.companyName.placeholder</source>
         <target state="translated">Company name</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a4" resname="app.employerRegister.popup.email.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.email.placeholder" approved="yes">
         <source>app.employerRegister.popup.email.placeholder</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a5" resname="app.employerRegister.popup.password.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.password.placeholder" approved="yes">
         <source>app.employerRegister.popup.password.placeholder</source>
         <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a6" resname="app.employerRegister.popup.repeatPassword.placeholder" approved="yes">
+      <trans-unit id="app.employerRegister.popup.repeatPassword.placeholder" approved="yes">
         <source>app.employerRegister.popup.repeatPassword.placeholder</source>
         <target state="translated">Repeat password</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a7" resname="app.employerRegister.popup.emailConfirmation" approved="yes">
+      <trans-unit id="app.employerRegister.popup.emailConfirmation" approved="yes">
         <source>app.employerRegister.popup.emailConfirmation</source>
         <target state="translated">When we receive your registration we will send you an email asking you to confirm.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a8" resname="app.employerRegister.popup.signUpAgreement" approved="yes">
+      <trans-unit id="app.employerRegister.popup.signUpAgreement" approved="yes">
         <source>app.employerRegister.popup.signUpAgreement</source>
         <target state="translated">By signing up I agree to the &lt;a target="_blank" href="%termsUrl%"&gt;terms &amp; conditions&lt;/a&gt;.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe30a9" resname="app.employerRegister.popup.cta" approved="yes">
+      <trans-unit id="app.employerRegister.popup.cta" approved="yes">
         <source>app.employerRegister.popup.cta</source>
         <target state="translated">Register here by simply providing your email address.</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe3011" resname="app.signUpStep1" approved="yes">
+      <trans-unit id="app.signUpStep1" approved="yes">
         <source>app.signUpStep1</source>
         <target>Register</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe3012" resname="app.employerRegister.emailExists" approved="yes">
+      <trans-unit id="app.employerRegister.emailExists" approved="yes">
           <source>app.employerRegister.emailExists</source>
           <target state="translated">This email address is already registered</target>
       </trans-unit>

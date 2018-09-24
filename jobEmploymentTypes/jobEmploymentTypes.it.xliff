@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships">
+      <trans-unit id="Apprenticeships" approved="no">
         <source>Apprenticeships</source>
         <target>Apprenticeships</target>
       </trans-unit>
-      <trans-unit id="2eef1170a84a7f86287d666a2f214f34" resname="Graduates">
+      <trans-unit id="Graduates" approved="no">
         <source>Graduates</source>
         <target>Graduates</target>
       </trans-unit>
-      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship">
+      <trans-unit id="Internship" approved="no">
         <source>Internship</source>
         <target>Internship</target>
       </trans-unit>
-      <trans-unit id="fe4dbcab9b910577e5035e97ac068dae" resname="Management">
+      <trans-unit id="Management" approved="no">
         <source>Management</source>
         <target>Management</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other">
+      <trans-unit id="Other" approved="no">
         <source>Other</source>
         <target>Other</target>
       </trans-unit>
-      <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals">
+      <trans-unit id="Professionals" approved="no">
         <source>Professionals</source>
         <target>Professionals</target>
       </trans-unit>
-      <trans-unit id="aba064f896dc3eb1653c3b68b9548ef1" resname="Students">
+      <trans-unit id="Students" approved="no">
         <source>Students</source>
         <target>Students</target>
       </trans-unit>

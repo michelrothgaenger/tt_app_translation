@@ -9,87 +9,87 @@
                 <source>app.password.mismatch</source>
                 <target>Passwörter stimmen nicht überein</target>
             </trans-unit>
-        <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.employerRegister.password.lengthConstraint" approved="yes">
+        <trans-unit id="app.employerRegister.password.lengthConstraint" approved="yes">
                 <source>app.employerRegister.password.lengthConstraint</source>
                 <target state="translated">Das Passwort ist zu kurz. Es muss mind. {{ limit }} Zeichen haben.</target>
             </trans-unit>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg3" resname="app.employerRegister.lastName.notBlank" approved="yes">
+            <trans-unit id="app.employerRegister.lastName.notBlank" approved="yes">
                 <source>app.employerRegister.lastName.notBlank</source>
                 <target state="translated">Nachname darf nicht leer sein.</target>
             </trans-unit>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg4" resname="app.employerRegister.firstName.notBlank" approved="yes">
+            <trans-unit id="app.employerRegister.firstName.notBlank" approved="yes">
                 <source>app.employerRegister.firstName.notBlank</source>
                 <target state="translated">Vorname darf nicht leer sein.</target>
             </trans-unit>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg5" resname="app.employerRegister.email.validation" approved="yes">
+            <trans-unit id="app.employerRegister.email.validation" approved="yes">
                 <source>app.employerRegister.email.validation</source>
                 <target state="translated">Ungültige E-Mail-Adresse</target>
             </trans-unit>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg6" resname="app.employerRegister.companyName.notBlank" approved="yes">
+            <trans-unit id="app.employerRegister.companyName.notBlank" approved="yes">
                 <source>app.employerRegister.companyName.notBlank</source>
                 <target state="translated">Unternehmen darf nicht leer sein.</target>
             </trans-unit>
-            <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.email.mismatch" approved="yes">
+            <trans-unit id="app.email.mismatch" approved="yes">
                 <source>app.email.mismatch</source>
                 <target state="translated">E-Mail-Adressen stimmen nicht überein.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.job.reward.greaterThanConstraint" approved="yes">
+            <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
                 <source>app.job.reward.greaterThanConstraint</source>
                 <target state="translated">Der Mindestbetrag für Belohnungen liegt bei {{ compared_value }} für Ihr Unternehmen.</target>
             </trans-unit>
-        <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.employerRegister.companyName.alreadyUsed" approved="yes">
+        <trans-unit id="app.employerRegister.companyName.alreadyUsed" approved="yes">
                 <source>app.employerRegister.companyName.alreadyUsed</source>
                 <target state="translated">Dieses Unternehmen hat bereits einen Account. Bitte kontaktieren Sie den Accountinhaber, um Zugriff zu erhalten. Zur Unterstützung Ihres Anliegens haben wir gleichzeitig ein Supportticket für Sie angelegt.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag5" resname="app.applyPopup.message.notBlank" approved="yes">
+            <trans-unit id="app.applyPopup.message.notBlank" approved="yes">
                 <source>app.applyPopup.message.notBlank</source>
                 <target state="translated">Zum Fortfahren bitte eine Nachricht eingeben.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag6" resname="app.registerForm.csrf.notValid" approved="yes">
+            <trans-unit id="app.registerForm.csrf.notValid" approved="yes">
                 <source>app.registerForm.csrf.notValid</source>
                 <target state="translated">Die Seite ist veraltet. Bitte laden Sie sie neu und versuchen Sie es noch einmal.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag7" resname="app.registerForm.cv.mimeType" approved="yes">
+            <trans-unit id="app.registerForm.cv.mimeType" approved="yes">
                 <source>app.registerForm.cv.mimeType</source>
                 <target state="translated">Die Datei muss ein PDF sein.</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657ag8" resname="app.registerForm.cv.maxSize" approved="yes">
+            <trans-unit id="app.registerForm.cv.maxSize" approved="yes">
                 <source>app.registerForm.cv.maxSize</source>
                 <target state="translated">Dateigröße darf 15 MB nicht überschreiten.</target>
             </trans-unit>
-        <trans-unit id="dea14b171b9a004dd6a261486d657ag9" resname="app.teamManage.company.needParent" approved="yes">
+        <trans-unit id="app.teamManage.company.needParent" approved="yes">
                 <source>app.teamManage.company.needParent</source>
                 <target state="translated">Bitte wählen Sie die Muttergesellschaft.</target>
             </trans-unit>
-        <trans-unit id="dea14b171b9a004dd6a261486d657a10" resname="app.hirePopup.contract.notBlank" approved="yes">
+        <trans-unit id="app.hirePopup.contract.notBlank" approved="yes">
                 <source>app.hirePopup.contract.notBlank</source>
                 <target state="translated">Bitte laden Sie einen Arbeitsvertrag hoch</target>
             </trans-unit>
-        <trans-unit id="dea14b171b9a004dd6a261486d657a11" resname="app.uploadCandidatePopup.cv.notBlank" approved="yes">
+        <trans-unit id="app.uploadCandidatePopup.cv.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.cv.notBlank</source>
                 <target state="translated">Bitte laden Sie einen Lebenslauf hoch</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a12" resname="app.uploadCandidatePopup.firstName.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.firstName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.firstName.notBlank</source>
                 <target state="translated">Bitte füllen Sie den Vornamen aus</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a13" resname="app.uploadCandidatePopup.lastName.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.lastName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.lastName.notBlank</source>
                 <target state="translated">Bitte füllen Sie den Nachnamen aus</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a14" resname="app.uploadCandidatePopup.email.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.email.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.email.notBlank</source>
                 <target state="translated">Bitte füllen Sie die Email aus</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a15" resname="app.uploadCandidatePopup.salary.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.salary.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.salary.notBlank</source>
                 <target state="translated">Bitte geben Sie ein Gehalt ein</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a16" resname="app.uploadCandidatePopup.currency.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.currency.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.currency.notBlank</source>
                 <target state="translated">Bitte wählen Sie eine Währung</target>
             </trans-unit>
-            <trans-unit id="dea14b171b9a004dd6a261486d657a17" resname="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="yes">
+            <trans-unit id="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
                 <target state="translated">Bitte geben Sie die Kündigungsfrist ein</target>
             </trans-unit>

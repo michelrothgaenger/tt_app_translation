@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.inactivityApplications.subject" approved="yes">
+      <trans-unit id="app.inactivityApplications.subject" approved="yes">
         <source>app.inactivityApplications.subject</source>
         <target state="translated">Application needs to review.</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.inactivityApplications.content" approved="yes">
+      <trans-unit id="app.inactivityApplications.content" approved="yes">
         <source>app.inactivityApplications.content</source>
         <target state="translated">Dear %firstName% %lastName%,&lt;br&gt;&lt;br&gt;
           Application needs to review.

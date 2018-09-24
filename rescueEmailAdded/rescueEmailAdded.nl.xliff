@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3f92b5f72e5e6b087d75954e4b272001" resname="app.rescueEmailAdded.message" approved="yes">
+      <trans-unit id="app.rescueEmailAdded.message" approved="yes">
         <source>app.rescueEmailAdded.message</source>
         <target state="translated">&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best regards,&lt;br&gt; The Transport Talent team</target>
       </trans-unit>
-      <trans-unit id="3f92b5f72e5e6b087d75954e4b272002" resname="app.rescueEmailAdded.subject" approved="yes">
+      <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>
         <target state="translated">Rescue email added</target>
       </trans-unit>

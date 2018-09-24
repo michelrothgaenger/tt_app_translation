@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
+      <trans-unit id="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
         <target state="translated">Stellenanzeige abgelaufen</target>
       </trans-unit>
-      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage" approved="yes">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
         <target state="translated">Die gesuchte Stellenanzeige ist nicht mehr aktiv. Speichern Sie Stellenanzeigen in Ihrem Profil auf Transport Talent, um diese auch später noch einsehen zu können.</target>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
+      <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
         <target state="translated">Entschuldigung, diese Stellenanzeige wurde deaktiviert. Speichern Sie interessante Anzeigen in Ihrem Profil ab, um auch später noch Zugriff darauf zu haben.&lt;br&gt;Nachstehend haben wir ähnliche Angebote für Sie aufgelistet.&lt;br&gt;&lt;br&gt;Gerne informieren wir Sie auch per E-Mail über passende Stellen.&lt;br&gt;Melden Sie sich hierzu einfach für unseren Newsletter an.</target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
+      <trans-unit id="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target state="translated">Jetzt kostenlos registrieren</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs" approved="yes">
+      <trans-unit id="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
         <target state="translated">Nach ähnlichen Jobs suchen</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs" approved="yes">
+      <trans-unit id="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
         <target state="translated">Ähnliche Jobs ansehen</target>
       </trans-unit>
-    <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7a" resname="app.linkToJobsTitle" approved="yes">
+    <trans-unit id="app.linkToJobsTitle" approved="yes">
         <source>app.linkToJobsTitle</source>
         <target state="translated">Alle Jobs anzeigen</target>
       </trans-unit>

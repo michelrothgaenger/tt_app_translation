@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="app.companyProfiles" approved="no">
         <source>app.companyProfiles</source>
         <target>Meet the companies</target>
       </trans-unit>
-      <trans-unit id="71999c593487b539ec4c8938bd8c552c" resname="app.noCompaniesFound">
+      <trans-unit id="app.noCompaniesFound" approved="no">
         <source>app.noCompaniesFound</source>
         <target>No companies found</target>
       </trans-unit>

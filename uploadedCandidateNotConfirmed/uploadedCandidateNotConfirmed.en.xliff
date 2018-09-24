@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1c41" resname="app.uploadedCandidateNotConfirmed.toRecruiter.subject">
+      <trans-unit id="app.uploadedCandidateNotConfirmed.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmed.toRecruiter.subject</source>
         <target>Your application is still pending.</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd82" resname="app.uploadedCandidateNotConfirmed.toRecruiter.content">
+      <trans-unit id="app.uploadedCandidateNotConfirmed.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmed.toRecruiter.content</source>
         <target>%candidateEmail% %jobTitle%</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd83" resname="app.uploadedCandidateNotConfirmed.toCandidate.subject">
+      <trans-unit id="app.uploadedCandidateNotConfirmed.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmed.toCandidate.subject</source>
         <target>Your application is still pending.</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dabd84" resname="app.uploadedCandidateNotConfirmed.toCandidate.content">
+      <trans-unit id="app.uploadedCandidateNotConfirmed.toCandidate.content" approved="no">
         <source>app.uploadedCandidateNotConfirmed.toCandidate.content</source>
         <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
       </trans-unit>

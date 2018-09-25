@@ -269,6 +269,14 @@
         <source>app.jobCrud.company.label</source>
         <target state="translated">Company</target>
       </trans-unit>
+      <trans-unit id="app.job.blinding.label" approved="no">
+        <source>app.job.blinding.label</source>
+        <target>Post the job without showing the employer. (Job will be displayed as TT on behalf of client.)</target>
+      </trans-unit>
+      <trans-unit id="app.job.blinding.title" approved="no">
+        <source>app.job.blinding.title</source>
+        <target>Blind job Posting</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

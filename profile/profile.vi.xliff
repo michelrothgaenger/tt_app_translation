@@ -5,411 +5,411 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">hoặc</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
+      <trans-unit id="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
         <target state="translated">Tìm việc làm</target>
       </trans-unit>
-      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
+      <trans-unit id="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
         <target state="translated">Xin chúc mừng, %username%. Tài khoản người dùng đã được xác nhận.</target>
       </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
+      <trans-unit id="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
         <target state="translated">Tiếp theo</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
+      <trans-unit id="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Hồ sơ cá nhân</target>
       </trans-unit>
-      <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText" approved="yes">
+      <trans-unit id="app.profileInputCvUploadBtnText" approved="yes">
         <source>app.profileInputCvUploadBtnText</source>
         <target state="translated">Cập nhật dữ liệu</target>
       </trans-unit>
-      <trans-unit id="a87f2096c83c51e33a2c4dd60756b7fa" resname="app.deleteCV" approved="yes">
+      <trans-unit id="app.deleteCV" approved="yes">
         <source>app.deleteCV</source>
         <target state="translated">Xóa hồ sơ</target>
       </trans-unit>
-      <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements" approved="yes">
+      <trans-unit id="app.profileInputCvRequirements" approved="yes">
         <source>app.profileInputCvRequirements</source>
         <target state="translated">Các tập tin phải là file PDF và không được lớn hơn 15MB.</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
+      <trans-unit id="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
         <target state="translated">Tải dữ liệu!</target>
       </trans-unit>
-      <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
+      <trans-unit id="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
         <target state="translated">Các công việc đã lưu của Ngài</target>
       </trans-unit>
-      <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete" approved="yes">
+      <trans-unit id="app.delete" approved="yes">
         <source>app.delete</source>
         <target state="translated">Xóa</target>
       </trans-unit>
-      <trans-unit id="285106c70e5e3ed192b47bb69c8b9674" resname="app.searchForNewJobs" approved="yes">
+      <trans-unit id="app.searchForNewJobs" approved="yes">
         <source>app.searchForNewJobs</source>
         <target state="translated">Tìm kiếm công việc mới</target>
       </trans-unit>
-      <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
+      <trans-unit id="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
         <target state="translated">Xem công ty đã lưu của Ngài dưới đây. Thêm và xóa như thấy phù hợp.</target>
       </trans-unit>
-      <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
+      <trans-unit id="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
         <target state="translated">Tìm kiếm công ty mới</target>
       </trans-unit>
-      <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn" approved="yes">
+      <trans-unit id="app.profileUnpublishBtn" approved="yes">
         <source>app.profileUnpublishBtn</source>
         <target state="translated">Không công khai tiểu sử</target>
       </trans-unit>
-      <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
+      <trans-unit id="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
         <target state="translated">Công khai tiểu sử</target>
       </trans-unit>
-      <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo" approved="yes">
+      <trans-unit id="app.contactInfo" approved="yes">
         <source>app.contactInfo</source>
         <target state="translated">Thông tin liên lạc</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
+      <trans-unit id="app.title" approved="yes">
         <source>app.title</source>
         <target state="translated">Lời chào</target>
       </trans-unit>
-      <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName" approved="yes">
+      <trans-unit id="app.firstName" approved="yes">
         <source>app.firstName</source>
         <target state="translated">Tên</target>
       </trans-unit>
-      <trans-unit id="fb61d6b447f1893d659098d83d87b389" resname="app.lastName" approved="yes">
+      <trans-unit id="app.lastName" approved="yes">
         <source>app.lastName</source>
         <target state="translated">Họ</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Địa chỉ Email</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
+      <trans-unit id="app.phone" approved="yes">
         <source>app.phone</source>
         <target state="translated">Điện thoại</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
+      <trans-unit id="app.country" approved="yes">
         <source>app.country</source>
         <target state="translated">Nước</target>
       </trans-unit>
-      <trans-unit id="5ca132321275d682bd4f1da5769d15f5" resname="app.region" approved="yes">
+      <trans-unit id="app.region" approved="yes">
         <source>app.region</source>
         <target state="translated">Khu vực</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
+      <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">Thành phố</target>
       </trans-unit>
-      <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
+      <trans-unit id="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
         <target state="translated">Thương hiệu công ty</target>
       </trans-unit>
-      <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress" approved="yes">
+      <trans-unit id="app.companyAddress" approved="yes">
         <source>app.companyAddress</source>
         <target state="translated">Địa chỉ công ty</target>
       </trans-unit>
-      <trans-unit id="4bb85a8821938d64e22a56b351fceccd" resname="app.companyName" approved="yes">
+      <trans-unit id="app.companyName" approved="yes">
         <source>app.companyName</source>
         <target state="translated">Tên công ty</target>
       </trans-unit>
-      <trans-unit id="b9aeeb0c30bf1a453958f2008b04edd3" resname="app.address" approved="yes">
+      <trans-unit id="app.address" approved="yes">
         <source>app.address</source>
         <target state="translated">Địa chỉ</target>
       </trans-unit>
-      <trans-unit id="8b7414575e9ad122011f7ad15d2e525d" resname="app.postcodeZipCode" approved="yes">
+      <trans-unit id="app.postcodeZipCode" approved="yes">
         <source>app.postcodeZipCode</source>
         <target state="translated">Mã bưu điện</target>
       </trans-unit>
-      <trans-unit id="4d1b2379496ca88f3b176739c9d30107" resname="app.companyInformation" approved="yes">
+      <trans-unit id="app.companyInformation" approved="yes">
         <source>app.companyInformation</source>
         <target state="translated">Thông tin công ty</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
+      <trans-unit id="app.companySize" approved="yes">
         <source>app.companySize</source>
         <target state="translated">Quy mô công ty</target>
       </trans-unit>
-      <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover" approved="yes">
+      <trans-unit id="app.annualTurnover" approved="yes">
         <source>app.annualTurnover</source>
         <target state="translated">Doanh thu hàng năm</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
+      <trans-unit id="app.website" approved="yes">
         <source>app.website</source>
         <target state="translated">Trang mạng</target>
       </trans-unit>
-      <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
+      <trans-unit id="app.about" approved="yes">
         <source>app.about</source>
         <target state="translated">Trong khoảng</target>
       </trans-unit>
-      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
+      <trans-unit id="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
         <target state="translated">Địa chỉ Email</target>
       </trans-unit>
-      <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
+      <trans-unit id="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target state="translated">Sinh nhật</target>
       </trans-unit>
-      <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
+      <trans-unit id="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target state="translated">Kinh nghiệm</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
+      <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target state="translated">Vị trí công việc</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+      <trans-unit id="app.position" approved="yes">
         <source>app.position</source>
         <target state="translated">Lĩnh vực làm việc</target>
       </trans-unit>
-      <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
+      <trans-unit id="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
         <target state="translated">Hồ sơ đã được công ty công khai</target>
       </trans-unit>
-      <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
+      <trans-unit id="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
         <target state="translated">Hồ sơ chưa được công ty công khai</target>
       </trans-unit>
-      <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
+      <trans-unit id="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
         <target state="translated">Lưu</target>
       </trans-unit>
-      <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete" approved="yes">
+      <trans-unit id="app.complete" approved="yes">
         <source>app.complete</source>
         <target state="translated">Hoàn thành</target>
       </trans-unit>
-      <trans-unit id="b05920dc2269a201e652f992869c771e" resname="app.sectionName" approved="yes">
+      <trans-unit id="app.sectionName" approved="yes">
         <source>app.sectionName</source>
         <target state="translated">Chọn tên</target>
       </trans-unit>
-      <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled" approved="yes">
+      <trans-unit id="app.thisFieldMustBeFilled" approved="yes">
         <source>app.thisFieldMustBeFilled</source>
         <target state="translated">Phải điền vào ô này!</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
+      <trans-unit id="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target state="translated">Ngài hãy chọn một</target>
       </trans-unit>
-      <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
+      <trans-unit id="app.add" approved="yes">
         <source>app.add</source>
         <target state="translated">Thêm vào</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
+      <trans-unit id="app.save" approved="yes">
         <source>app.save</source>
         <target state="translated">Lưu</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel" approved="yes">
+      <trans-unit id="app.cancel" approved="yes">
         <source>app.cancel</source>
         <target state="translated">Hủy</target>
       </trans-unit>
-      <trans-unit id="b5484319932b710c764b17cf815b6283" resname="app.edit" approved="yes">
+      <trans-unit id="app.edit" approved="yes">
         <source>app.edit</source>
         <target state="translated">Thay đổi</target>
       </trans-unit>
-      <trans-unit id="f36f6f2cd3869cfa52e04011d4201302" resname="app.profileInputCertificateUploadBtnText" approved="yes">
+      <trans-unit id="app.profileInputCertificateUploadBtnText" approved="yes">
         <source>app.profileInputCertificateUploadBtnText</source>
         <target state="translated">Cập nhật dữ liệu</target>
       </trans-unit>
-      <trans-unit id="7038eac66e387c3b3a0834d786a88757" resname="Insert Image" approved="yes">
+      <trans-unit id="Insert Image" approved="yes">
         <source>Insert Image</source>
         <target state="translated">Chèn hình ảnh</target>
       </trans-unit>
-      <trans-unit id="1f98842c354dc496970446bce14f4c50" resname="Upload Image" approved="yes">
+      <trans-unit id="Upload Image" approved="yes">
         <source>Upload Image</source>
         <target state="translated">Tải ảnh lên</target>
       </trans-unit>
-      <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use" approved="yes">
+      <trans-unit id="Crop and Use" approved="yes">
         <source>Crop and Use</source>
         <target state="translated">Cắt và sử dụng</target>
       </trans-unit>
-      <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here" approved="yes">
+      <trans-unit id="Drop your file here" approved="yes">
         <source>Drop your file here</source>
         <target state="translated">Thả các tập tin của Ngài ở đây</target>
       </trans-unit>
-      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or" approved="yes">
+      <trans-unit id="or" approved="yes">
         <source>or</source>
         <target state="translated">Hoặc</target>
       </trans-unit>
-      <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file..." approved="yes">
+      <trans-unit id="Select a file..." approved="yes">
         <source>Select a file...</source>
         <target state="translated">Chọn một file...</target>
       </trans-unit>
-      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="yes">
+      <trans-unit id="Please adjust selection to your image" approved="yes">
         <source>Please adjust selection to your image</source>
         <target state="translated">Vui lòng điều chỉnh lựa chọn cho hình ảnh của bạn</target>
       </trans-unit>
-      <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image" approved="yes">
+      <trans-unit id="Please select or upload an image" approved="yes">
         <source>Please select or upload an image</source>
         <target state="translated">Hãy chọn hoặc tải lên một hình ảnh</target>
       </trans-unit>
-      <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close" approved="yes">
+      <trans-unit id="Close" approved="yes">
         <source>Close</source>
         <target state="translated">Đóng</target>
       </trans-unit>
-      <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !" approved="yes">
+      <trans-unit id="Crop &amp; Use !" approved="yes">
         <source>Crop &amp; Use !</source>
         <target state="translated">Cắt và sử dụng!</target>
       </trans-unit>
-      <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
+      <trans-unit id="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
         <target state="translated">Các tập tin được tải lên vượt quá kích thước tối đa.</target>
       </trans-unit>
-      <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
+      <trans-unit id="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
         <target state="translated">Các tập tin được tải lên vượt quá kích thước tối đa.</target>
       </trans-unit>
-      <trans-unit id="f8fe8cba1625eaf8e5c253b041d57dbd" resname="The uploaded file was only partially uploaded" approved="yes">
+      <trans-unit id="The uploaded file was only partially uploaded" approved="yes">
         <source>The uploaded file was only partially uploaded</source>
         <target state="translated">Các tập tin được chỉ tải lên được một phần</target>
       </trans-unit>
-      <trans-unit id="298883b17e36ee3a18d73e835c0b44fc" resname="No file was uploaded" approved="yes">
+      <trans-unit id="No file was uploaded" approved="yes">
         <source>No file was uploaded</source>
         <target state="translated">Không có tập tin đã được tải lên</target>
       </trans-unit>
-      <trans-unit id="2384d693d9af53b4727c092af7570a19" resname="Missing a temporary folder" approved="yes">
+      <trans-unit id="Missing a temporary folder" approved="yes">
         <source>Missing a temporary folder</source>
         <target state="translated">Thiếu một thư mục tạm thời</target>
       </trans-unit>
-      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk" approved="yes">
+      <trans-unit id="Failed to write file to disk" approved="yes">
         <source>Failed to write file to disk</source>
         <target state="translated">Không thể ghi file vào đĩa</target>
       </trans-unit>
-      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
+      <trans-unit id="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
         <target state="translated">Một phần mở rộng PHP ngừng tải lên các file</target>
       </trans-unit>
-      <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
+      <trans-unit id="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
         <target state="translated">Các tập tin được tải lên vượt quá kích thước tối đa.</target>
       </trans-unit>
-      <trans-unit id="893885e44a5f16e816de6ee752688a88" resname="File is too big" approved="yes">
+      <trans-unit id="File is too big" approved="yes">
         <source>File is too big</source>
         <target state="translated">File quá lớn</target>
       </trans-unit>
-      <trans-unit id="7694642c2923adc52fad9d9df064dba2" resname="File is too small" approved="yes">
+      <trans-unit id="File is too small" approved="yes">
         <source>File is too small</source>
         <target state="translated">File quá nhỏ</target>
       </trans-unit>
-      <trans-unit id="85fb1cf47b9543043438ba7ed901b626" resname="Filetype not allowed" approved="yes">
+      <trans-unit id="Filetype not allowed" approved="yes">
         <source>Filetype not allowed</source>
         <target state="translated">Không chấp nhận định dạng file</target>
       </trans-unit>
-      <trans-unit id="1c45e697240f870e5c402498ba4db883" resname="Maximum number of files exceeded" approved="yes">
+      <trans-unit id="Maximum number of files exceeded" approved="yes">
         <source>Maximum number of files exceeded</source>
         <target state="translated">Số lượng tối đa của tập tin vượt quá</target>
       </trans-unit>
-      <trans-unit id="6dc13bc79a9736e9f927d747c4c45650" resname="Image exceeds maximum width" approved="yes">
+      <trans-unit id="Image exceeds maximum width" approved="yes">
         <source>Image exceeds maximum width</source>
         <target state="translated">Hình ảnh vượt quá chiều rộng tối đa</target>
       </trans-unit>
-      <trans-unit id="24f04a559e89cf47678a96c202456683" resname="Image requires a minimum width (%min%)" approved="yes">
+      <trans-unit id="Image requires a minimum width (%min%)" approved="yes">
         <source>Image requires a minimum width (%min%)</source>
         <target state="translated">Hình ảnh đòi hỏi phải có chiều rộng tối thiểu (%min%)</target>
       </trans-unit>
-      <trans-unit id="99ba00fe99cde16ff7c70743546365ed" resname="Image exceeds maximum height" approved="yes">
+      <trans-unit id="Image exceeds maximum height" approved="yes">
         <source>Image exceeds maximum height</source>
         <target state="translated">Hình ảnh vượt quá chiều cao tối đa</target>
       </trans-unit>
-      <trans-unit id="f720415de33c5861318b8539c2d7968d" resname="Image requires a minimum height (%min%)" approved="yes">
+      <trans-unit id="Image requires a minimum height (%min%)" approved="yes">
         <source>Image requires a minimum height (%min%)</source>
         <target state="translated">Hình ảnh đòi hỏi một chiều cao tối thiểu (%min%)</target>
       </trans-unit>
-      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted" approved="yes">
+      <trans-unit id="File upload aborted" approved="yes">
         <source>File upload aborted</source>
         <target state="translated">File tải lên bị hủy bỏ</target>
       </trans-unit>
-      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
+      <trans-unit id="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
         <target state="translated">Không thể thay đổi kích thước hình ảnh</target>
       </trans-unit>
-    <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
+    <trans-unit id="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Transport Talent cho phép Ngài kiểm soát được các công ty thú vị từ lĩnh vực vận tải và kho vận. Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
         <target state="translated">Tổ chức tìm kiếm công việc với Transport Talent:Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài. Tất cả các quảng cáo vẫn  được lưu trữ ở đây, khi chúng bị vô hiệu hóa bởi các nhà cung cấp. Như vậy Ngài có thể chuẩn bị một cách lý tưởng cho cuộc phỏng vấn.</target>
       </trans-unit>
-    <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
+    <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Hồ sơ</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.settings.tile.title" approved="yes">
         <source>app.profile.dashboard.settings.tile.title</source>
         <target state="translated">Cài đặt</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-jobs.tile.title</source>
         <target state="translated">Việc làm đã lưu</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.title</source>
         <target state="translated">Công ty đã lưu</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
         <target state="translated">Tối ưu hóa tìm việc của Ngài bằng cách theo dõi các vị trí thú vị.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
         <target state="translated">Lựa chọn các công ty thú vị của Ngài ở đây.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
         <target state="translated">Thông tin của Ngài sẽ giúp chúng tôi tìm thấy những công việc tốt nhất.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
         <target state="translated">Quản lý cài đặt tài khoản, như địa chỉ e-mail và mật khẩu vân vân... của Ngài.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
+      <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
         <target state="translated">Giới thiệu</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
+      <trans-unit id="app.profile.referrals.sectionDescription" approved="yes">
         <source>app.profile.referrals.sectionDescription</source>
         <target state="translated">Ở đây Ngài tìm thấy tất cả các lời giới thiệu về các công việc mình đã từng làm. Nhớ rằng, ngay sau khi công việc được Ngài lấp đầy, Ngài sẽ được khen thưởng một khoản sẽ thấy trong công việc được đề nghị tiếp theo.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
+      <trans-unit id="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
         <target state="translated">Chia sẻ trên</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward" approved="yes">
+      <trans-unit id="app.profile.referrals.reward" approved="yes">
         <source>app.profile.referrals.reward</source>
         <target state="translated">Phần thưởng</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f65" resname="app.profile.referrals.reactions" approved="yes">
+      <trans-unit id="app.profile.referrals.reactions" approved="yes">
         <source>app.profile.referrals.reactions</source>
         <target state="translated">Sự phản ứng</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink" approved="yes">
+      <trans-unit id="app.profile.referrals.referralLink" approved="yes">
         <source>app.profile.referrals.referralLink</source>
         <target state="translated">Đường link giới thiệu</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed" approved="yes">
+      <trans-unit id="app.profile.referrals.closed" approved="yes">
         <source>app.profile.referrals.closed</source>
         <target state="translated">Đóng</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f68" resname="app.profile.referrals.pending" approved="yes">
+      <trans-unit id="app.profile.referrals.pending" approved="yes">
         <source>app.profile.referrals.pending</source>
         <target state="translated">Dừng</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f69" resname="app.profile.referrals.accepted" approved="yes">
+      <trans-unit id="app.profile.referrals.accepted" approved="yes">
         <source>app.profile.referrals.accepted</source>
         <target state="translated">Chấp thuận</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy" approved="yes">
+      <trans-unit id="app.profile.referrals.button.copy" approved="yes">
         <source>app.profile.referrals.button.copy</source>
         <target state="translated">Sao chép</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
         <target state="translated">Hãy hỗ trợ mạng của Ngài có được một công việc và kiếm tiền</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
         <target state="translated">Giới thiệu</target>
       </trans-unit>

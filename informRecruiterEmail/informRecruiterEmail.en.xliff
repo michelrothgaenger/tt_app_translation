@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag1" resname="app.informRecruiterEmail.pendingConfirmation.subject" approved="yes">
+      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.subject" approved="yes">
         <source>app.informRecruiterEmail.pendingConfirmation.subject</source>
         <target state="translated">Candidate was submitted</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag2" resname="app.informRecruiterEmail.pendingConfirmation.content" approved="yes">
+      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="yes">
         <source>app.informRecruiterEmail.pendingConfirmation.content</source>
         <target state="translated">Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted an %candidateFirstName% %candidateLastName% for position %position%. Due data privacy reasons we send an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag3" resname="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subjectt" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.subjectt</source>
         <target state="translated">Candidate was confirmed application</target>
       </trans-unit>
-      <trans-unit id="dea14b171b9a004dd6a261486d657ag4" resname="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.content</source>
         <target state="translated">Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position %position%.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>

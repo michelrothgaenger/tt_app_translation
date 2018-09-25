@@ -5,71 +5,71 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile" approved="yes">
+      <trans-unit id="app.companyProfile" approved="yes">
         <source>app.companyProfile</source>
         <target state="translated">Company profile</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation" approved="yes">
+      <trans-unit id="app.employerInformation" approved="yes">
         <source>app.employerInformation</source>
         <target state="translated">Employer information</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees" approved="yes">
+      <trans-unit id="app.numberOfEmployees" approved="yes">
         <source>app.numberOfEmployees</source>
         <target state="translated">Number of employees</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
+      <trans-unit id="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
         <target state="translated">%count% employee|%count% employees</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater" approved="yes">
+      <trans-unit id="app.headquater" approved="yes">
         <source>app.headquater</source>
         <target state="translated">Headquarter</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries" approved="yes">
+      <trans-unit id="app.officesCountries" approved="yes">
         <source>app.officesCountries</source>
         <target state="translated">Offices/Countries</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities" approved="yes">
+      <trans-unit id="app.mainActivities" approved="yes">
         <source>app.mainActivities</source>
         <target state="translated">Main Activities</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
+      <trans-unit id="app.website" approved="yes">
         <source>app.website</source>
         <target state="translated">Website</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription" approved="yes">
+      <trans-unit id="app.noCompanyDescription" approved="yes">
         <source>app.noCompanyDescription</source>
         <target state="translated">Company description unavailable</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage" approved="yes">
+      <trans-unit id="app.saveToProfilePage" approved="yes">
         <source>app.saveToProfilePage</source>
         <target state="translated">Follow</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c81" resname="app.employer.button.savedToProfile" approved="yes">
+      <trans-unit id="app.employer.button.savedToProfile" approved="yes">
         <source>app.employer.button.savedToProfile</source>
         <target state="translated">Unfollow</target>
       </trans-unit>
-      <trans-unit id="cb1d9e8049997f43c1ce9f3d296dfbe9" resname="app.employer.info.jobsOnline.title" approved="yes">
+      <trans-unit id="app.employer.info.jobsOnline.title" approved="yes">
         <source>app.employer.info.jobsOnline.title</source>
         <target state="translated">Jobs online</target>
       </trans-unit>
-      <trans-unit id="ab1d9e8049997f43c1ce9f3d296dfbe8" resname="app.employer.info.jobsOnline.text" approved="yes">
+      <trans-unit id="app.employer.info.jobsOnline.text" approved="yes">
         <source>app.employer.info.jobsOnline.text</source>
         <target state="translated">There are currently %count% job from %company%|There are currently %count% jobs from %company%</target>
       </trans-unit>
-      <trans-unit id="db1d9e8049997f43c1ce9f3d296dfbe7" resname="app.employer.linkToJobsTitle" approved="yes">
+      <trans-unit id="app.employer.linkToJobsTitle" approved="yes">
         <source>app.employer.linkToJobsTitle</source>
         <target state="translated">See all jobs</target>
       </trans-unit>
-      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbe6" resname="app.employer.currentJobs.title" approved="yes">
+      <trans-unit id="app.employer.currentJobs.title" approved="yes">
         <source>app.employer.currentJobs.title</source>
         <target state="translated">Current jobs from %company%</target>
       </trans-unit>
-      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd7" resname="app.employer.popup.chooseCompany.text" approved="yes">
+      <trans-unit id="app.employer.popup.chooseCompany.text" approved="yes">
         <source>app.employer.popup.chooseCompany.text</source>
         <target state="translated">I want to access this section as team member of</target>
       </trans-unit>
-      <trans-unit id="eb1d9e8049997f43c1ce9f3d296dfbd8" resname="app.employer.popup.chooseCompany.placeholder" approved="yes">
+      <trans-unit id="app.employer.popup.chooseCompany.placeholder" approved="yes">
         <source>app.employer.popup.chooseCompany.placeholder</source>
         <target state="translated">Choose Company</target>
       </trans-unit>

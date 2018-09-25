@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="e15f072ea6a4a37ab4ecf16cdb9cc154" resname="app.jobs">
+      <trans-unit id="app.jobs" approved="no">
         <source>app.jobs</source>
         <target>Jobs</target>
       </trans-unit>
-      <trans-unit id="317e22b2a516636f1a7ba39867eccbde" resname="app.for">
+      <trans-unit id="app.for" approved="no">
         <source>app.for</source>
         <target>for</target>
       </trans-unit>
-      <trans-unit id="577740236af7330fad5fd365ed835fe5" resname="app.in">
+      <trans-unit id="app.in" approved="no">
         <source>app.in</source>
         <target>in</target>
       </trans-unit>
-      <trans-unit id="b32ec3b1d2f34c66136ac69aaa3d3997" resname="app.search">
+      <trans-unit id="app.search" approved="no">
         <source>app.search</source>
         <target>Search</target>
       </trans-unit>
-      <trans-unit id="8551206281636a28c42b8d2302884d52" resname="app.jobsFilterCompanyPlaceholder">
+      <trans-unit id="app.jobsFilterCompanyPlaceholder" approved="no">
         <source>app.jobsFilterCompanyPlaceholder</source>
         <target>e.g. DHL</target>
       </trans-unit>
-      <trans-unit id="7dfcc9367aa92ae2f82cc3676ee358b4" resname="app.egGermany">
+      <trans-unit id="app.egGermany" approved="no">
         <source>app.egGermany</source>
         <target>e.g. Germany</target>
       </trans-unit>
-      <trans-unit id="23804d3f6e856f01a327d79b0f1a705d" resname="app.allJobTypes">
+      <trans-unit id="app.allJobTypes" approved="no">
         <source>app.allJobTypes</source>
         <target>All job types</target>
       </trans-unit>
-      <trans-unit id="7e8b22bd7c7637c091461220a47832c9" resname="app.allJobLevels">
+      <trans-unit id="app.allJobLevels" approved="no">
         <source>app.allJobLevels</source>
         <target>All job levels</target>
       </trans-unit>
-      <trans-unit id="7d93136202f26c6ffc567695d478f800" resname="app.noJobsFound">
+      <trans-unit id="app.noJobsFound" approved="no">
         <source>app.noJobsFound</source>
         <target>No jobs found</target>
       </trans-unit>

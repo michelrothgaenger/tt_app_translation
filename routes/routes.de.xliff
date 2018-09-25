@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803606f8" resname="presentation_terms" approved="yes">
+      <trans-unit id="presentation_terms" approved="yes">
         <source>presentation_terms</source>
         <target state="translated">/agb</target>
       </trans-unit>

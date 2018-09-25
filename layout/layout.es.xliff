@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
         <target state="translated">Empleos en transporte, logística y cadena de suministro</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
         <target state="translated">Transport Talent ofrece a los profesionales del transporte y la logística una plataforma donde entrar en contacto directo y confidencial con las empresas punteras de la industria.</target>
       </trans-unit>
-      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="yes">
         <source>app.metaDescriptionBase</source>
         <target state="translated">Transport Talent ofrece a los profesionales del transporte, la logística y la cadena de suministro la mejor plataforma de contacto directo y confidencialoo con las empresas punteras de la industria.</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
+      <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
         <target state="translated">Usamos cookies en nuestra web.</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
+      <trans-unit id="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
         <target state="translated">Usamos cookies para ofrecer a los usuarios la mejor experiencia al navegar por nuestra web. Esto incluye las cookies de terceros de sitios de redes sociales, por ejemplo, si visitas una página que contenga contenido incrustado de estos medios. Las cookies de terceros pueden rastrear tu uso de nuestra web. Si continúas navegando, entenderemos que aceptas el uso que hacemos de las cookies. Aquí puedes leer más sobre cookies en general y sobre nuestra política de cookies.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
+      <trans-unit id="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
         <target state="translated">Más información sobre cookies en general y sobre nuestra política de cookies.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
+      <trans-unit id="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
         <target state="translated">Cerrar</target>
       </trans-unit>
-    <trans-unit id="073200146c1028b99b0d13e6cdf06479" resname="app.index.intercomMapHeadline" approved="yes">
+    <trans-unit id="app.index.intercomMapHeadline" approved="yes">
         <source>app.index.intercomMapHeadline</source>
         <target state="translated">&lt;b&gt;Transport Talent&lt;/b&gt; colabora con los mejores profesionales en &lt;b&gt;126 países.&lt;/b&gt;&lt;/br&gt;A qué esperas para &lt;b&gt;unirte&lt;/b&gt; a nosotros?</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06480" resname="app.joinNow" approved="yes">
+      <trans-unit id="app.joinNow" approved="yes">
         <source>app.joinNow</source>
         <target state="translated">REGISTRARSE</target>
       </trans-unit>

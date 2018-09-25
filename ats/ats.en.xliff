@@ -5,195 +5,195 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360888" resname="app.ats.meta.title" approved="no">
+      <trans-unit id="app.ats.meta.title" approved="no">
         <source>app.ats.meta.title</source>
         <target state="translated">ATS</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360889" resname="app.ats.searchInput.placeholder" approved="yes">
+      <trans-unit id="app.ats.searchInput.placeholder" approved="yes">
         <source>app.ats.searchInput.placeholder</source>
         <target state="translated">Search by Candidate / Position</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360890" resname="app.ats.aside.settings" approved="yes">
+      <trans-unit id="app.ats.aside.settings" approved="yes">
         <source>app.ats.aside.settings</source>
         <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360891" resname="app.ats.aside.check.title" approved="yes">
+      <trans-unit id="app.ats.aside.check.title" approved="yes">
         <source>app.ats.aside.check.title</source>
         <target state="translated">Select all</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360892" resname="app.ats.aside.check.info" approved="yes">
+      <trans-unit id="app.ats.aside.check.info" approved="yes">
         <source>app.ats.aside.check.info</source>
         <target state="translated"><![CDATA[... & change selected status to ]]></target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360893" resname="app.ats.popup.save.btn" approved="yes">
+      <trans-unit id="app.ats.popup.save.btn" approved="yes">
         <source>app.ats.popup.save.btn</source>
         <target state="translated">Save</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360894" resname="app.ats.popup.info.name.intro" approved="yes">
+      <trans-unit id="app.ats.popup.info.name.intro" approved="yes">
         <source>app.ats.popup.info.name.intro</source>
         <target state="translated">I hereby confirm that we will employ </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360895" resname="app.ats.popup.info.job.intro" approved="yes">
+      <trans-unit id="app.ats.popup.info.job.intro" approved="yes">
         <source>app.ats.popup.info.job.intro</source>
         <target state="translated"> in our company for the position </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360896" resname="app.ats.popup.info.end" approved="yes">
+      <trans-unit id="app.ats.popup.info.end" approved="yes">
         <source>app.ats.popup.info.end</source>
         <target state="translated">. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360896a" resname="app.ats.popup.info.allSelects" approved="yes">
+      <trans-unit id="app.ats.popup.info.allSelects" approved="yes">
         <source>app.ats.popup.info.allSelects</source>
         <target state="translated">I hereby confirm that we will employ these applicants in our company. A corresponding employments have been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360897" resname="app.ats.popup.salary.label" approved="yes">
+      <trans-unit id="app.ats.popup.salary.label" approved="yes">
         <source>app.ats.popup.salary.label</source>
         <target state="translated">Salary</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360897a" resname="app.ats.popup.salary.input.title" approved="yes">
+      <trans-unit id="app.ats.popup.salary.input.title" approved="yes">
         <source>app.ats.popup.salary.input.title</source>
         <target state="translated">Salary input should only contain numbers</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360898" resname="app.ats.popup.currency.label" approved="yes">
+      <trans-unit id="app.ats.popup.currency.label" approved="yes">
         <source>app.ats.popup.currency.label</source>
         <target state="translated">Currency</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360899" resname="app.ats.popup.start.date.label" approved="yes">
+      <trans-unit id="app.ats.popup.start.date.label" approved="yes">
         <source>app.ats.popup.start.date.label</source>
         <target state="translated">Start Date</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360899a" resname="app.ats.popup.start.date.error" approved="yes">
+      <trans-unit id="app.ats.popup.start.date.error" approved="yes">
         <source>app.ats.popup.start.date.error</source>
         <target state="translated">Date should be later or equal today</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360900" resname="app.ats.popup.upload.contract.label" approved="yes">
+      <trans-unit id="app.ats.popup.upload.contract.label" approved="yes">
         <source>app.ats.popup.upload.contract.label</source>
         <target state="translated">Upload Contract</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360900a" resname="app.ats.popup.flashMsg.part1" approved="yes">
+      <trans-unit id="app.ats.popup.flashMsg.part1" approved="yes">
         <source>app.ats.popup.flashMsg.part1</source>
         <target state="translated">You successful submitted </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360900b" resname="app.ats.popup.flashMsg.part2" approved="yes">
+      <trans-unit id="app.ats.popup.flashMsg.part2" approved="yes">
         <source>app.ats.popup.flashMsg.part2</source>
         <target state="translated"> for the position </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360901" resname="app.ats.settings.aside.link.settings" approved="yes">
+      <trans-unit id="app.ats.settings.aside.link.settings" approved="yes">
         <source>app.ats.settings.aside.link.settings</source>
         <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360901a" resname="app.ats.settings.aside.link.settings.locale" approved="yes">
+      <trans-unit id="app.ats.settings.aside.link.settings.locale" approved="yes">
         <source>app.ats.settings.aside.link.settings.locale</source>
         <target state="translated"> (%locale%)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360902" resname="app.ats.settings.aside.link.emailText" approved="yes">
+      <trans-unit id="app.ats.settings.aside.link.emailText" approved="yes">
         <source>app.ats.settings.aside.link.emailText</source>
         <target state="translated">E-mail Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360903" resname="app.ats.settings.aside.link.contactPerson" approved="yes">
+      <trans-unit id="app.ats.settings.aside.link.contactPerson" approved="yes">
         <source>app.ats.settings.aside.link.contactPerson</source>
         <target state="translated">Contact Person</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360904" resname="app.ats.settings.main.emalFooter.label" approved="yes">
+      <trans-unit id="app.ats.settings.main.emalFooter.label" approved="yes">
         <source>app.ats.settings.main.emalFooter.label</source>
         <target state="translated">E-Mail-Footer (Text to attach when sending out the emails)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360905" resname="app.ats.settings.main.welcome.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.welcome.title" approved="yes">
         <source>app.ats.settings.main.welcome.title</source>
         <target state="translated">Welcome</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360906" resname="app.ats.settings.main.welcome.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.welcome.subject" approved="yes">
         <source>app.ats.settings.main.welcome.subject</source>
         <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360907" resname="app.ats.settings.main.welcome.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.welcome.text" approved="yes">
         <source>app.ats.settings.main.welcome.text</source>
         <target state="translated">Welcome mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360908" resname="app.ats.settings.main.shortlist.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.shortlist.title" approved="yes">
         <source>app.ats.settings.main.shortlist.title</source>
         <target state="translated">Shortlist</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360909" resname="app.ats.settings.main.shortlist.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.shortlist.subject" approved="yes">
         <source>app.ats.settings.main.shortlist.subject</source>
         <target state="translated">Shortlist Subject Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360910" resname="app.ats.settings.main.shortlist.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.shortlist.text" approved="yes">
         <source>app.ats.settings.main.shortlist.text</source>
         <target state="translated">Shortlist text to send to applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360911" resname="app.ats.settings.main.rejectBefore.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectBefore.title" approved="yes">
         <source>app.ats.settings.main.rejectBefore.title</source>
         <target state="translated">Reject (before interview)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360912" resname="app.ats.settings.main.rejectBefore.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectBefore.subject" approved="yes">
         <source>app.ats.settings.main.rejectBefore.subject</source>
         <target state="translated">Reject before interview Subject Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360913" resname="app.ats.settings.main.rejectBefore.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectBefore.text" approved="yes">
         <source>app.ats.settings.main.rejectBefore.text</source>
         <target state="translated">Reject text to send to applicant before interviewing</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360914" resname="app.ats.settings.main.rejectAfter.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectAfter.title" approved="yes">
         <source>app.ats.settings.main.rejectAfter.title</source>
         <target state="translated">Reject (after interview)</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360915" resname="app.ats.settings.main.rejectAfter.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectAfter.subject" approved="yes">
         <source>app.ats.settings.main.rejectAfter.subject</source>
         <target state="translated">Reject after interview Subject Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360916" resname="app.ats.settings.main.rejectAfter.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectAfter.text" approved="yes">
         <source>app.ats.settings.main.rejectAfter.text</source>
         <target state="translated">Reject text to send to applicant after interviewing</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360917" resname="app.ats.settings.main.footer.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.footer.text" approved="yes">
         <source>app.ats.settings.main.footer.text</source>
         <target state="translated">Last changed by: %user%, %date%, %time%</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360918" resname="app.ats.reject.popup.title" approved="yes">
+      <trans-unit id="app.ats.reject.popup.title" approved="yes">
         <source>app.ats.reject.popup.title</source>
         <target state="translated">Please confirm</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360919" resname="app.ats.reject.popup.subtitle" approved="yes">
+      <trans-unit id="app.ats.reject.popup.subtitle" approved="yes">
         <source>app.ats.reject.popup.subtitle</source>
         <target state="translated">You are sure you want to reject this applicant?</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360919a" resname="app.ats.reject.popup.subtitleAllSelects" approved="yes">
+      <trans-unit id="app.ats.reject.popup.subtitleAllSelects" approved="yes">
         <source>app.ats.reject.popup.subtitleAllSelects</source>
         <target state="translated">You are sure you want to reject these applicants?</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360920" resname="app.ats.reject.popup.text" approved="no">
+      <trans-unit id="app.ats.reject.popup.text" approved="no">
         <source>app.ats.reject.popup.text</source>
         <target state="translated">The selected candidate will receive a message that he/she is rejected.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360920a" resname="app.ats.reject.popup.textAllSelects" approved="no">
+      <trans-unit id="app.ats.reject.popup.textAllSelects" approved="no">
         <source>app.ats.reject.popup.textAllSelects</source>
         <target state="translated">The selected candidates will receive a message that they are rejected.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360921" resname="app.ats.reject.popup.confirm.label.part1" approved="yes">
+      <trans-unit id="app.ats.reject.popup.confirm.label.part1" approved="yes">
         <source>app.ats.reject.popup.confirm.label.part1</source>
         <target state="translated">Please type in </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360921a" resname="app.ats.reject.popup.confirm.label.part2" approved="yes">
+      <trans-unit id="app.ats.reject.popup.confirm.label.part2" approved="yes">
         <source>app.ats.reject.popup.confirm.label.part2</source>
         <target state="translated">reject </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360921b" resname="app.ats.reject.popup.confirm.label.part3" approved="yes">
+      <trans-unit id="app.ats.reject.popup.confirm.label.part3" approved="yes">
         <source>app.ats.reject.popup.confirm.label.part3</source>
         <target state="translated">in the field to confirm and click the button below.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360922" resname="app.ats.reject.popup.confirm.input.placeholder" approved="yes">
+      <trans-unit id="app.ats.reject.popup.confirm.input.placeholder" approved="yes">
         <source>app.ats.reject.popup.confirm.input.placeholder</source>
         <target state="translated">Confirmation</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360923" resname="app.ats.reject.popup.save.btn" approved="yes">
+      <trans-unit id="app.ats.reject.popup.save.btn" approved="yes">
         <source>app.ats.reject.popup.save.btn</source>
         <target state="translated">Reject applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360924" resname="app.ats.email.defaultSubject.welcome" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.welcome" approved="no">
         <source>app.ats.email.defaultSubject.welcome</source>
         <target state="translated">Thank you for your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360925" resname="app.ats.email.defaultContent.welcome" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.welcome" approved="no">
         <source>app.ats.email.defaultContent.welcome</source>
         <target state="translated">Dear applicant,
 
@@ -201,11 +201,11 @@ Thank you for your application. We would like to inform you that we have receive
 
 Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360924a" resname="app.ats.email.defaultSubject.interview" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
         <source>app.ats.email.defaultSubject.interview</source>
         <target state="translated">Invitation to interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360925a" resname="app.ats.email.defaultContent.interview" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
         <source>app.ats.email.defaultContent.interview</source>
         <target state="translated">Dear applicant,
 
@@ -215,11 +215,11 @@ Your application stood out to us and we would like to invite you for an intervie
 
 We will inform you in a separate message about the details of your interview at short notice.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360926" resname="app.ats.email.defaultSubject.shortlist" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
         <source>app.ats.email.defaultSubject.shortlist</source>
         <target state="translated">We are interested in your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360927" resname="app.ats.email.defaultContent.shortlist" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.shortlist" approved="no">
         <source>app.ats.email.defaultContent.shortlist</source>
         <target state="translated">Dear applicant,
 
@@ -227,22 +227,22 @@ Thank you very much for your application, which appealed to us during the first 
 
 Thank you, again, for taking the time to apply to a role at our company.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360928" resname="app.ats.email.defaultSubject.hire" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.hire" approved="no">
         <source>app.ats.email.defaultSubject.hire</source>
         <target state="translated">Your Application / Job Offer</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360929" resname="app.ats.email.defaultContent.hire" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.hire" approved="no">
         <source>app.ats.email.defaultContent.hire</source>
         <target state="translated">Dear applicant,
 
 We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer. We are all looking forward to having you on our team.
 </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360928a" resname="app.ats.email.defaultSubject.rejectBefore" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.rejectBefore" approved="no">
         <source>app.ats.email.defaultSubject.rejectBefore</source>
         <target state="translated">Your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360929a" resname="app.ats.email.defaultContent.rejectBefore" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.rejectBefore" approved="no">
         <source>app.ats.email.defaultContent.rejectBefore</source>
         <target state="translated">Dear applicant,
 
@@ -250,11 +250,11 @@ Thank you for your interest in joining our team. We wanted to let you know that 
 We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.
 </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360928b" resname="app.ats.email.defaultSubject.rejectAfter" approved="no">
+      <trans-unit id="app.ats.email.defaultSubject.rejectAfter" approved="no">
         <source>app.ats.email.defaultSubject.rejectAfter</source>
         <target state="translated">Your application and interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360929b" resname="app.ats.email.defaultContent.rejectAfter" approved="no">
+      <trans-unit id="app.ats.email.defaultContent.rejectAfter" approved="no">
         <source>app.ats.email.defaultContent.rejectAfter</source>
         <target state="translated">Dear applicant,
 
@@ -262,68 +262,68 @@ Thank you for taking the time to meet with our team about the role at our compan
 Unfortunately, our team did not select you for further consideration. We would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates. 
 Thanks again for your interest in our company and best of luck with your job search.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360930" resname="app.ats.settings.main.emailFooter.placeholder" approved="no">
+      <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
         <target state="translated">Kind regards, 
 Your Recruiting Team</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360931" resname="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
         <target state="translated">Thank you for your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360932" resname="app.ats.settings.main.welcome.text.placeholder" approved="no">
+      <trans-unit id="app.ats.settings.main.welcome.text.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
         <target state="translated">Dear applicant, 
 
 Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we plan to interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360933" resname="app.ats.settings.main.shortlist.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.shortlist.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.shortlist.subject.placeholder</source>
         <target state="translated">We are interested in your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360934" resname="app.ats.settings.main.shortlist.text.placeholder" approved="no">
+      <trans-unit id="app.ats.settings.main.shortlist.text.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
         <target state="translated">Dear applicant, 
 
 Thank you very much for your application, which appealed to us during the first review. Our hiring team is currently reviewing all applications and we are planning to schedule interviews in the next two weeks. If you are among qualified candidates, you will receive a call/email from our one of our recruiters to schedule an interview. In any case, we will keep you posted on the status of your application. Thank you, again, for taking the time to apply to a role at our company.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360935" resname="app.ats.settings.main.rejectBefore.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectBefore.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
         <target state="translated">Your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360936" resname="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
+      <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
         <target state="translated">Dear applicant, 
 
 Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration. We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360937" resname="app.ats.settings.main.rejectAfter.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.rejectAfter.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
         <target state="translated">Your application</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360938" resname="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
+      <trans-unit id="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
         <target state="translated">Dear applicant, 
 
 Thank you for taking the time to meet with our team. It was a pleasure to learn more about your skills and accomplishments. Unfortunately, our team did not select you for further consideration. I would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates. Thanks again for your interest in our company and best of luck with your job search.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360941" resname="app.ats.settings.main.hire.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.title" approved="yes">
         <source>app.ats.settings.main.hire.title</source>
         <target state="translated">Hire</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360942" resname="app.ats.settings.main.hire.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.subject" approved="yes">
         <source>app.ats.settings.main.hire.subject</source>
         <target state="translated">Hired Subject Text</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360943" resname="app.ats.settings.main.hire.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.text" approved="yes">
         <source>app.ats.settings.main.hire.text</source>
         <target state="translated">Hire text to send to applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360944" resname="app.ats.settings.main.hire.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.hire.subject.placeholder</source>
         <target state="translated">Your application / job offer</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360945" resname="app.ats.settings.main.hire.text.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="yes">
         <source>app.ats.settings.main.hire.text.placeholder</source>
         <target state="translated">Dear applicant,
 
@@ -331,29 +331,29 @@ We were pleased with our interview the other day and impressed with your backgro
 
 We are all looking forward to having you on our team.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360946" resname="app.ats.email.defaultFooter" approved="yes">
+      <trans-unit id="app.ats.email.defaultFooter" approved="yes">
         <source>app.ats.email.defaultFooter</source>
         <target state="translated">With kind regards,
 
 your HR team</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360947" resname="app.ats.settings.main.interview.title" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.title" approved="yes">
         <source>app.ats.settings.main.interview.title</source>
         <target state="translated">Interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360948" resname="app.ats.settings.main.interview.subject" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.subject" approved="yes">
         <source>app.ats.settings.main.interview.subject</source>
         <target state="translated">Interview mail subject</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360949" resname="app.ats.settings.main.interview.text" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.text" approved="yes">
         <source>app.ats.settings.main.interview.text</source>
         <target state="translated">Interview text to send to applicant</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360950" resname="app.ats.settings.main.interview.subject.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.interview.subject.placeholder</source>
         <target state="translated">Invitation to interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360951" resname="app.ats.settings.main.interview.text.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="yes">
         <source>app.ats.settings.main.interview.text.placeholder</source>
         <target state="translated">Dear applicant,
 
@@ -363,113 +363,113 @@ Your application stood out to us and we would like to invite you for an intervie
 
 We will inform you in a separate message about the details of your interview at short notice.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360952" resname="app.ats.infoEmail.noContactPerson" approved="yes">
+      <trans-unit id="app.ats.infoEmail.noContactPerson" approved="yes">
         <source>app.ats.infoEmail.noContactPerson</source>
         <target state="translated">Dear TT team,
 
 The company %companyName% with ID: %companyId% haven't contact person. Therefore nobody receive an email about new application.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360953" resname="app.ats.settings.main.contactPerson.label" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.label" approved="yes">
         <source>app.ats.settings.main.contactPerson.label</source>
         <target state="translated">Choose your contact person</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360954" resname="app.ats.settings.main.contactPerson.select.defaultOption" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.select.defaultOption" approved="yes">
         <source>app.ats.settings.main.contactPerson.select.defaultOption</source>
         <target state="translated">Please choose</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360955" resname="app.ats.settings.main.contactPerson.select.info.part1" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.part1" approved="yes">
         <source>app.ats.settings.main.contactPerson.select.info.part1</source>
         <target state="translated">Make sure your contact person is already </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360956" resname="app.ats.settings.main.contactPerson.select.info.link" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.link" approved="yes">
         <source>app.ats.settings.main.contactPerson.select.info.link</source>
         <target state="translated">registered in your team</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360957" resname="app.ats.settings.main.contactPerson.select.info.part2" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.part2" approved="yes">
         <source>app.ats.settings.main.contactPerson.select.info.part2</source>
         <target state="translated"> and has put in a valid email and phone number.</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360958" resname="app.ats.settings.main.contactPerson.serverErrorMessage" approved="yes">
+      <trans-unit id="app.ats.settings.main.contactPerson.serverErrorMessage" approved="yes">
         <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
         <target state="translated">Server error</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360959" resname="app.coverCV.candidatePresentation" approved="yes">
+      <trans-unit id="app.coverCV.candidatePresentation" approved="yes">
         <source>app.coverCV.candidatePresentation</source>
         <target state="translated">Candidate Presentation</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360960" resname="app.coverCV.company" approved="yes">
+      <trans-unit id="app.coverCV.company" approved="yes">
         <source>app.coverCV.company</source>
         <target state="translated">Company</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360961" resname="app.coverCV.position" approved="yes">
+      <trans-unit id="app.coverCV.position" approved="yes">
         <source>app.coverCV.position</source>
         <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360962" resname="app.coverCV.location" approved="yes">
+      <trans-unit id="app.coverCV.location" approved="yes">
         <source>app.coverCV.location</source>
         <target state="translated">Location</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360963" resname="app.coverCV.hrManager" approved="yes">
+      <trans-unit id="app.coverCV.hrManager" approved="yes">
         <source>app.coverCV.hrManager</source>
         <target state="translated">Hiring Manager</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360964" resname="app.coverCV.candidate" approved="yes">
+      <trans-unit id="app.coverCV.candidate" approved="yes">
         <source>app.coverCV.candidate</source>
         <target state="translated">Candidate Name</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360965" resname="app.coverCV.salary" approved="yes">
+      <trans-unit id="app.coverCV.salary" approved="yes">
         <source>app.coverCV.salary</source>
         <target state="translated">Salary Expectations</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360966" resname="app.coverCV.noticePeriod" approved="yes">
+      <trans-unit id="app.coverCV.noticePeriod" approved="yes">
         <source>app.coverCV.noticePeriod</source>
         <target state="translated">Notice Period</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360967" resname="app.coverCV.candidateEmail" approved="yes">
+      <trans-unit id="app.coverCV.candidateEmail" approved="yes">
         <source>app.coverCV.candidateEmail</source>
         <target state="translated">Candidate Email</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360968" resname="app.coverCV.candidateMessage" approved="yes">
+      <trans-unit id="app.coverCV.candidateMessage" approved="yes">
         <source>app.coverCV.candidateMessage</source>
         <target state="translated">Message from Candidate</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b80360969" resname="app.coverCV.candidateContact">
+      <trans-unit id="app.coverCV.candidateContact">
         <source>app.coverCV.candidateContact</source>
         <target>Your contact at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609702" resname="app.coverCV.footer" approved="yes">
+      <trans-unit id="app.coverCV.footer" approved="yes">
         <source>app.coverCV.footer</source>
         <target state="translated">Generated on </target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609703" resname="app.applicationStatus.applied" approved="yes">
+      <trans-unit id="app.applicationStatus.applied" approved="yes">
         <source>app.applicationStatus.applied</source>
         <target state="translated">applied</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609704" resname="app.applicationStatus.shortlisted" approved="yes">
+      <trans-unit id="app.applicationStatus.shortlisted" approved="yes">
         <source>app.applicationStatus.shortlisted</source>
         <target state="translated">shortlisted</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609705" resname="app.applicationStatus.interview" approved="yes">
+      <trans-unit id="app.applicationStatus.interview" approved="yes">
         <source>app.applicationStatus.interview</source>
         <target state="translated">interview</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609706" resname="app.applicationStatus.hire" approved="yes">
+      <trans-unit id="app.applicationStatus.hire" approved="yes">
         <source>app.applicationStatus.hire</source>
         <target state="translated">hire</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609707" resname="app.applicationStatus.rejected" approved="yes">
+      <trans-unit id="app.applicationStatus.rejected" approved="yes">
         <source>app.applicationStatus.rejected</source>
         <target state="translated">rejected</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609708" resname="app.applicationStatus.sent" approved="yes">
+      <trans-unit id="app.applicationStatus.sent" approved="yes">
         <source>app.applicationStatus.sent</source>
         <target state="translated">sent</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609709" resname="app.applicationStatus.submitted" approved="yes">
+      <trans-unit id="app.applicationStatus.submitted" approved="yes">
         <source>app.applicationStatus.submitted</source>
         <target state="translated">submitted</target>
       </trans-unit>
-      <trans-unit id="0e6c357a3e2248f788b26d7b803609710" resname="app.sideMenu.viewAll" approved="yes">
+      <trans-unit id="app.sideMenu.viewAll" approved="yes">
         <source>app.sideMenu.viewAll</source>
         <target state="translated">View all</target>
       </trans-unit>

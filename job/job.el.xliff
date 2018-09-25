@@ -5,127 +5,127 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3d7974bd674c1a7a5376b37f47101670" resname="app.job.meta.title">
+      <trans-unit id="app.job.meta.title" approved="no">
         <source>app.job.meta.title</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="5aa3aa299e3c03c83e9b636f3842974b" resname="app.job.meta.description">
+      <trans-unit id="app.job.meta.description" approved="no">
         <source>app.job.meta.description</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="774c8e49d20e61b37751dd71770a0ed2" resname="app.job.section.top.status">
+      <trans-unit id="app.job.section.top.status" approved="no">
         <source>app.job.section.top.status</source>
         <target>This job is hidden!</target>
       </trans-unit>
-      <trans-unit id="ec82f3174547d54d8971c896d23df122" resname="app.job.section.top.button.title" approved="yes">
+      <trans-unit id="app.job.section.top.button.title" approved="yes">
         <source>app.job.section.top.button.title</source>
         <target state="translated">Πίσω στα αποτελέσματα</target>
       </trans-unit>
-      <trans-unit id="ad1c8c9efeef6ade27c8741e020d7abb" resname="app.job.postDate" approved="yes">
+      <trans-unit id="app.job.postDate" approved="yes">
         <source>app.job.postDate</source>
         <target state="translated">Ανακοινώθηκε</target>
       </trans-unit>
-      <trans-unit id="4ca9fbcf5530fc0252cdcebce0e50641" resname="app.jobSavedToProfile" approved="yes">
+      <trans-unit id="app.jobSavedToProfile" approved="yes">
         <source>app.jobSavedToProfile</source>
         <target state="translated">Αποθηκεύθηκε στο λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="b99dbe02369f7475544a5b70b1fa65b3" resname="app.saveToProfile">
+      <trans-unit id="app.saveToProfile" approved="no">
         <source>app.saveToProfile</source>
         <target>Αποθήκευση στον λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="db1ea436c14e4bfb80b0039021097eb5" resname="app.job.section.right.manualMessage">
+      <trans-unit id="app.job.section.right.manualMessage" approved="no">
         <source>app.job.section.right.manualMessage</source>
         <target>Brought to you exclusively by</target>
       </trans-unit>
-      <trans-unit id="dbccdff8cda0852cde91b4e4de2b084f" resname="app.job.section.main.title" approved="yes">
+      <trans-unit id="app.job.section.main.title" approved="yes">
         <source>app.job.section.main.title</source>
         <target state="translated">Λεπτομέρειες εργασίας</target>
       </trans-unit>
-      <trans-unit id="c29cd64c748dc240d346db1583b0f65b" resname="app.job.section.main.rowTypeTitle">
+      <trans-unit id="app.job.section.main.rowTypeTitle" approved="no">
         <source>app.job.section.main.rowTypeTitle</source>
         <target>Χαρακτηριστικό εργασίας</target>
       </trans-unit>
-      <trans-unit id="0f9cc44b1edf0a99f6ebf522670bbc59" resname="app.job.section.main.rowLevelTitle">
+      <trans-unit id="app.job.section.main.rowLevelTitle" approved="no">
         <source>app.job.section.main.rowLevelTitle</source>
         <target>Επίπεδο εργασίας</target>
       </trans-unit>
-      <trans-unit id="44114f282c765dd6ccc0a37849eb8a08" resname="app.job.section.main.rowWhereTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowWhereTitle" approved="yes">
         <source>app.job.section.main.rowWhereTitle</source>
         <target state="translated">Τοποθεσεία</target>
       </trans-unit>
-      <trans-unit id="1ff1545de3de9327b327f069fee94eb0" resname="app.job.section.main.openMapLinkTitle" approved="yes">
+      <trans-unit id="app.job.section.main.openMapLinkTitle" approved="yes">
         <source>app.job.section.main.openMapLinkTitle</source>
         <target state="translated">Τοποθεσία στον χάρτη</target>
       </trans-unit>
-      <trans-unit id="e6479c1be0073526f728437442e0ad9d" resname="app.section.main.applyButtonTitle">
+      <trans-unit id="app.section.main.applyButtonTitle" approved="no">
         <source>app.section.main.applyButtonTitle</source>
         <target>Υπόβαλλε αίτηση τώρα</target>
       </trans-unit>
-      <trans-unit id="5918fb127493df996af2f0b474ce3196" resname="app.job.section.left.title" approved="yes">
+      <trans-unit id="app.job.section.left.title" approved="yes">
         <source>app.job.section.left.title</source>
         <target state="translated">Γενικές πληροφορίες</target>
       </trans-unit>
-      <trans-unit id="7f7803fafe6e0838823614ea63d9e1e7" resname="app.job.section.left.rowQtyEmployeesTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowQtyEmployeesTitle" approved="yes">
         <source>app.job.section.left.rowQtyEmployeesTitle</source>
         <target state="translated">Αριθμός εργαζόμενων</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
+      <trans-unit id="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
         <target state="translated">εργαζόμενοι</target>
       </trans-unit>
-      <trans-unit id="31a1b7a3125507e5f2a1283fdf581b32" resname="app.job.section.left.rowHeadquarterTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowHeadquarterTitle" approved="yes">
         <source>app.job.section.left.rowHeadquarterTitle</source>
         <target state="translated">Κυρία έδρα</target>
       </trans-unit>
-      <trans-unit id="32409995f251db763a370dfbbb017788" resname="app.job.section.left.rowOfficesTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowOfficesTitle" approved="yes">
         <source>app.job.section.left.rowOfficesTitle</source>
         <target state="translated">γραφεία/ χώρες</target>
       </trans-unit>
-      <trans-unit id="048081eed06d612bbb1783c4e00c4e15" resname="app.job.section.left.rowIndustiesTitle">
+      <trans-unit id="app.job.section.left.rowIndustiesTitle" approved="no">
         <source>app.job.section.left.rowIndustiesTitle</source>
         <target>Main Activities</target>
       </trans-unit>
-      <trans-unit id="a1650eba02a44e9d615ce551cdc39dc3" resname="app.job.section.left.rowWebsiteTitle" approved="yes">
+      <trans-unit id="app.job.section.left.rowWebsiteTitle" approved="yes">
         <source>app.job.section.left.rowWebsiteTitle</source>
         <target state="translated">Ιστοσελίδα</target>
       </trans-unit>
-      <trans-unit id="7fdb077bc59f92a77b8de9300094ddf9" resname="app.job.section.left.headlineOtherJobs" approved="yes">
+      <trans-unit id="app.job.section.left.headlineOtherJobs" approved="yes">
         <source>app.job.section.left.headlineOtherJobs</source>
         <target state="translated">Περισσότερες αγγελίες σε</target>
       </trans-unit>
-      <trans-unit id="ce74760089f2f4f632d08ef18aa20515" resname="app.section.left.headlineSimilarJobs" approved="yes">
+      <trans-unit id="app.section.left.headlineSimilarJobs" approved="yes">
         <source>app.section.left.headlineSimilarJobs</source>
         <target state="translated">Άλλες ενδιαφέρουσες προτάσεις</target>
       </trans-unit>
-      <trans-unit id="f3cd81f9d260ccb3d7b9fb0db434e82b" resname="app.section.left.linkSimilarJobsTitle" approved="yes">
+      <trans-unit id="app.section.left.linkSimilarJobsTitle" approved="yes">
         <source>app.section.left.linkSimilarJobsTitle</source>
         <target state="translated">Δείξε μου περισσότερες παρόμοιες αγγελίες</target>
       </trans-unit>
-      <trans-unit id="dd7cf3b6b11ac0b7007aaeac96269078" resname="app.job.section.left.savedStatus" approved="yes">
+      <trans-unit id="app.job.section.left.savedStatus" approved="yes">
         <source>app.job.section.left.savedStatus</source>
         <target state="translated">Αποθηκεύθηκε στον λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="0ae66cb2386defb5925830068c4a7ade" resname="app.job.section.left.nonSavedStatus" approved="yes">
+      <trans-unit id="app.job.section.left.nonSavedStatus" approved="yes">
         <source>app.job.section.left.nonSavedStatus</source>
         <target state="translated">Αποθήκευση στον λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="dfb416ca46c43623d171fc8c1e00178c" resname="app.section.left.linkPrintTitle" approved="yes">
+      <trans-unit id="app.section.left.linkPrintTitle" approved="yes">
         <source>app.section.left.linkPrintTitle</source>
         <target state="translated">Εκτύπωση αγγελίας</target>
       </trans-unit>
-      <trans-unit id="6d8847496acdb65e81645852e1398f6c" resname="app.job.section.popup.title">
+      <trans-unit id="app.job.section.popup.title" approved="no">
         <source>app.job.section.popup.title</source>
         <target>Get matched</target>
       </trans-unit>
-      <trans-unit id="dc6996dbf4f57387660d68eaf5a938e0" resname="app.job.section.popup.jobTitle">
+      <trans-unit id="app.job.section.popup.jobTitle" approved="no">
         <source>app.job.section.popup.jobTitle</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="368da195d1fdee77daebe37a2416dd3b" resname="app.job.section.popup.applyButtonTitle">
+      <trans-unit id="app.job.section.popup.applyButtonTitle" approved="no">
         <source>app.job.section.popup.applyButtonTitle</source>
         <target>Get matched</target>
       </trans-unit>
-      <trans-unit id="cd57128c46f64c860a08c01783684d76" resname="app.job.section.popup.cancelButtonTitle">
+      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="no">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target>Cancel</target>
       </trans-unit>

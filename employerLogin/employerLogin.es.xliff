@@ -5,23 +5,23 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
+      <trans-unit id="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
         <target state="translated">Introduce tus datos para acceder a tu cuenta de empresa.</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
+      <trans-unit id="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Contraseña</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+      <trans-unit id="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
         <target state="translated">¿Has olvidado tu contraseña?</target>
       </trans-unit>
-      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
+      <trans-unit id="security.login.submit" approved="yes">
         <source>security.login.submit</source>
         <target state="translated">Accede a tu cuenta</target>
       </trans-unit>
-    <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="app.employerLogin.email.placeholder" approved="yes">
+    <trans-unit id="app.employerLogin.email.placeholder" approved="yes">
         <source>app.employerLogin.email.placeholder</source>
         <target state="translated">Email</target>
       </trans-unit>

@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Mentions légales</target>
       </trans-unit>
-      <trans-unit id="51773ee0a1cc6df8df023ebfc7a3c5da" resname="app.metaDescriptionImprintPage">
+      <trans-unit id="app.metaDescriptionImprintPage" approved="no">
         <source>app.metaDescriptionImprintPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline">
+      <trans-unit id="app.imprintHeadline" approved="no">
         <source>app.imprintHeadline</source>
         <target>Responsible for the internet pages of Transport Talent ApS</target>
       </trans-unit>
-      <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg">
+      <trans-unit id="app.imprintMsg" approved="no">
         <source>app.imprintMsg</source>
         <target><![CDATA[<b>Name and address</b><br>Transport Talent ApS<br>Islands Brygge 77D, 4 TH<br>DK-2300 Copenhagen<br>Denmark<br><br><b>Managing Director</b><br>Ulrich Nissen<br><br><b>Your contact to Transport Talent</b><br>info@transporttalent.com<br>+49 40 53 799 1400<br><br><b>Value-added tax identification number</b><br>CVR: 37 39 50 48]]></target>
       </trans-unit>

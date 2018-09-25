@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
+      <trans-unit id="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
         <target state="translated">Über uns</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
+      <trans-unit id="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
         <target state="translated">Allgemeine Geschäftsbedingungen</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
+      <trans-unit id="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
         <target state="translated">Datenschutz</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
+      <trans-unit id="app.contactUs" approved="yes">
         <source>app.contactUs</source>
         <target state="translated">Kontakt</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Impressum</target>
       </trans-unit>
-    <trans-unit id="72038d4be7b2234d28b315923a8f3ad0" resname="app.emailLayout.mailingAddress.title" approved="yes">
+    <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Unsere E-Mail-Adresse lautet:</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b315923a8f3ad1" resname="app.emailLayout.copyright" approved="yes">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target state="translated">Copyright © %year% Transport Talent ApS, alle Rechte vorbehalten.</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b315923a8f3ad2" resname="app.emailLayout.wantToUnsubscribe" approved="yes">
+      <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
         <target state="translated">Sie möchten keine E-Mails mehr erhalten?</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b315923a8f3ad3" resname="app.emailLayout.unsubscribeLinkTitle" approved="yes">
+      <trans-unit id="app.emailLayout.unsubscribeLinkTitle" approved="yes">
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">Hier abmelden</target>
       </trans-unit>

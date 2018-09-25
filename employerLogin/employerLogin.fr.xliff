@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn">
+      <trans-unit id="app.signIn" approved="no">
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage">
+      <trans-unit id="app.metaDescriptionEmployerLoginPage" approved="no">
         <source>app.metaDescriptionEmployerLoginPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline">
+      <trans-unit id="app.employerLoginHeadline" approved="no">
         <source>app.employerLoginHeadline</source>
         <target>Great to have you back.</target>
       </trans-unit>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
+      <trans-unit id="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
         <target state="translated">Entrez vos données pour accéder à votre compte entreprise.</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
+      <trans-unit id="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Mot de passe</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+      <trans-unit id="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
         <target state="translated">Mot de passe oublié ?</target>
       </trans-unit>
-      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
+      <trans-unit id="security.login.submit" approved="yes">
         <source>security.login.submit</source>
         <target state="translated">Accès compte</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta">
+      <trans-unit id="app.notRegisteredCta" approved="no">
         <source>app.notRegisteredCta</source>
         <target>Not registered yet? Click here to register.</target>
       </trans-unit>
-    <trans-unit id="accaadbea56cdf27b83766bc084ef60e" resname="app.employerLogin.email.placeholder" approved="yes">
+    <trans-unit id="app.employerLogin.email.placeholder" approved="yes">
         <source>app.employerLogin.email.placeholder</source>
         <target state="translated">E-mail</target>
       </trans-unit>

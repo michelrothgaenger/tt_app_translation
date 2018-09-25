@@ -5,79 +5,79 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
+      <trans-unit id="app.register" approved="yes">
         <source>app.register</source>
         <target state="translated">check our logistics talent and register with us</target>
       </trans-unit>
-      <trans-unit id="31e06b529ae7039133c71e488f2755cd" resname="app.metaDescriptionEmployerRegisterPage">
+      <trans-unit id="app.metaDescriptionEmployerRegisterPage" approved="no">
         <source>app.metaDescriptionEmployerRegisterPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="c629eda6f869e41ccb9cbb2de4552a41" resname="app.employerRegisterHeadline" approved="yes">
+      <trans-unit id="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
         <target state="translated">Set up your Transport Talent account</target>
       </trans-unit>
-      <trans-unit id="90936c507c6f696978ddbe97fc732009" resname="app.employerRegisterDesc1" approved="yes">
+      <trans-unit id="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
         <target state="translated"><![CDATA[Create your free company profile here and get immediate access to top-tier talent.<br><br>]]></target>
       </trans-unit>
-      <trans-unit id="a6f5b7b703f86976a4da92536630b8ae" resname="app.employerRegisterDesc2" approved="yes">
+      <trans-unit id="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
         <target state="translated">* Indicates required field.</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
+      <trans-unit id="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
         <target state="translated">I agree to the</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
+      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
         <target state="translated"><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
-      <trans-unit id="22a367ccf3a359fff5bf69e5d7d12c03" resname="app.checkBoxRequiredMsg" approved="yes">
+      <trans-unit id="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
         <target state="translated">Please check this box if you want to proceed.</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
+      <trans-unit id="app.title" approved="yes">
         <source>app.title</source>
         <target state="translated">Title</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
+      <trans-unit id="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target state="translated">select an option</target>
       </trans-unit>
-      <trans-unit id="58caef5eb3e471b926e554c131b423c9" resname="app.first_name" approved="yes">
+      <trans-unit id="app.first_name" approved="yes">
         <source>app.first_name</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="3628c329da572a78173416eb05235e68" resname="app.last_name" approved="yes">
+      <trans-unit id="app.last_name" approved="yes">
         <source>app.last_name</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+      <trans-unit id="app.position" approved="yes">
         <source>app.position</source>
         <target state="translated">Level</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="5ee692d672d0e4801bea9045085d9970" resname="app.company_name" approved="yes">
+      <trans-unit id="app.company_name" approved="yes">
         <source>app.company_name</source>
         <target state="translated">Company name</target>
       </trans-unit>
-      <trans-unit id="53b1b6d15015b4a6324b47f5985926a1" resname="app.password" approved="yes">
+      <trans-unit id="app.password" approved="yes">
         <source>app.password</source>
         <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="935ad3df35bb15f3b780f4f8f8384e3c" resname="app.password_confirmation" approved="yes">
+      <trans-unit id="app.password_confirmation" approved="yes">
         <source>app.password_confirmation</source>
         <target state="translated">Confirm password</target>
       </trans-unit>
-      <trans-unit id="93617b3c506bf51e8c5f55959631df27" resname="app.password.mismatch" approved="yes">
+      <trans-unit id="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
         <target state="translated">Password mismatch</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+      <trans-unit id="app.signUp" approved="yes">
         <source>app.signUp</source>
         <target state="translated">Register</target>
       </trans-unit>

@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
         <source>app.metaDescriptionIndexPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn">
+      <trans-unit id="app.theFastestWayToFindNewJobIn" approved="no">
         <source>app.theFastestWayToFindNewJobIn</source>
         <target><![CDATA[Find top jobs in <b>Logistics</b> and <b>Transportation</b>]]></target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle">
+      <trans-unit id="app.indexSecondTitle" approved="no">
         <source>app.indexSecondTitle</source>
         <target>Over 1,000 new jobs posted monthly</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs">
+      <trans-unit id="app.featuredJobs" approved="no">
         <source>app.featuredJobs</source>
         <target>Featured Jobs</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs">
+      <trans-unit id="app.searchFeaturedJobs" approved="no">
         <source>app.searchFeaturedJobs</source>
         <target>Search featured jobs</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles">
+      <trans-unit id="app.companyProfiles" approved="no">
         <source>app.companyProfiles</source>
         <target>Meet the companies</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies">
+      <trans-unit id="app.seeAllCompanies" approved="no">
         <source>app.seeAllCompanies</source>
         <target>See all companies</target>
       </trans-unit>

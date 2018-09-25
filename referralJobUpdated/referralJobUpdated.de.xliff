@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.referralJobUpdated.subject" approved="yes">
+      <trans-unit id="app.referralJobUpdated.subject" approved="yes">
         <source>app.referralJobUpdated.subject</source>
         <target state="translated">Belohnung für %jobAdTitle% aktualisiert</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.referralJobUpdated" approved="yes">
+      <trans-unit id="app.referralJobUpdated" approved="yes">
         <source>app.referralJobUpdated</source>
         <target state="translated">Hallo %title% %lastName%,&lt;br&gt;&lt;br&gt;der Betrag für Belohnungen zu Ihrer Stelle %jobAdTitle% wurde aktualisiert. Die empfehlende Person erhält nun eine Belohnung in Höhe von %referralReward%, wenn Sie die den von ihr empfohlenen Kandidaten einstellen. Für Fragen zu diesem Prozess stehen wir Ihnen gerne zur Verfügung.&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen&lt;br&gt;&lt;br&gt;Das Transport-Talent-Team</target>
       </trans-unit>

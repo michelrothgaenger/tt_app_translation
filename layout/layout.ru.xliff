@@ -5,27 +5,27 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
         <target state="translated">В Transport Talent мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
       </trans-unit>
-      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="yes">
         <source>app.metaDescriptionBase</source>
         <target state="translated">В Transport Talent мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
+      <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
         <target state="translated">Мы используем куки на нашем сайте.</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
+      <trans-unit id="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
         <target state="translated">Мы используем куки, чтобы обеспечить вам лучший опыт во время работы нашем сайте. Сюда входят куки сторонних сайтов социальных сетей, если вы заходите на страницу, содержащую встроенный контент из социальных сетей. Такие сторонние куки могут отслеживать использование вами нашего веб-сайта. Если вы продолжите, мы будем считать, что вы не против получить все куки на нашем сайте.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
+      <trans-unit id="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
         <target state="translated">Подробнее о куки и нашей политике в отношении куки можно узнать здесь.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
+      <trans-unit id="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
         <target state="translated">Закрыть</target>
       </trans-unit>

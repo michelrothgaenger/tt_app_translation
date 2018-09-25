@@ -5,79 +5,79 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register">
+      <trans-unit id="app.register" approved="no">
         <source>app.register</source>
         <target>Register</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration">
+      <trans-unit id="app.registration" approved="no">
         <source>app.registration</source>
         <target>Get Started</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn">
+      <trans-unit id="app.signInWithLinkedIn" approved="no">
         <source>app.signInWithLinkedIn</source>
         <target>Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle">
+      <trans-unit id="app.signInWithGoogle" approved="no">
         <source>app.signInWithGoogle</source>
         <target>Sign in with Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB">
+      <trans-unit id="app.signInWithFB" approved="no">
         <source>app.signInWithFB</source>
         <target>Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or">
+      <trans-unit id="app.or" approved="no">
         <source>app.or</source>
         <target>or</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe">
+      <trans-unit id="app.iAgreeToThe" approved="no">
         <source>app.iAgreeToThe</source>
         <target>I agree to the</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox">
+      <trans-unit id="app.termsConditionsCheckbox" approved="no">
         <source>app.termsConditionsCheckbox</source>
         <target><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
-      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email">
+      <trans-unit id="registration.check_email" approved="no">
         <source>registration.check_email</source>
         <target>An email has been sent to %email%. It contains an activation link you must click to activate your account.</target>
       </trans-unit>
-      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject">
+      <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
         <target>Thank you for signing up with Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject">
+      <trans-unit id="registration.email.subject" approved="no">
         <source>registration.email.subject</source>
         <target>Welcome %username%!</target>
       </trans-unit>
-      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message">
+      <trans-unit id="registration.emailemp.message" approved="no">
         <source>registration.emailemp.message</source>
         <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
       </trans-unit>
-      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message">
+      <trans-unit id="registration.email.message" approved="no">
         <source>registration.email.message</source>
         <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
       </trans-unit>
-      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email">
+      <trans-unit id="form.email" approved="no">
         <source>form.email</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName">
+      <trans-unit id="form.firstName" approved="no">
         <source>form.firstName</source>
         <target>First name</target>
       </trans-unit>
-      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName">
+      <trans-unit id="form.lastName" approved="no">
         <source>form.lastName</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password">
+      <trans-unit id="form.password" approved="no">
         <source>form.password</source>
         <target>Password</target>
       </trans-unit>
-      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation">
+      <trans-unit id="form.password_confirmation" approved="no">
         <source>form.password_confirmation</source>
         <target>Repeat password</target>
       </trans-unit>
-      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch">
+      <trans-unit id="fos_user.password.mismatch" approved="no">
         <source>fos_user.password.mismatch</source>
         <target></target>
       </trans-unit>

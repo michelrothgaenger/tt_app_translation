@@ -5,91 +5,91 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved" approved="yes">
+        <trans-unit id="app.flash.companyUnsaved" approved="yes">
           <source>app.flash.companyUnsaved</source>
           <target state="translated">Unternehmen aus dem Profil entfernt</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved" approved="yes">
+        <trans-unit id="app.flash.companySaved" approved="yes">
           <source>app.flash.companySaved</source>
           <target state="translated">Unternehmen im Profil gespeichert</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved" approved="yes">
+        <trans-unit id="app.flash.jobUnsaved" approved="yes">
           <source>app.flash.jobUnsaved</source>
           <target state="translated">Job aus dem Profil entfernt</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved" approved="yes">
+        <trans-unit id="app.flash.jobSaved" approved="yes">
           <source>app.flash.jobSaved</source>
           <target state="translated">Job im Profil gespeichert</target>
         </trans-unit>
-    <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
+    <trans-unit id="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
           <target state="translated">Link kopiert</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error" approved="yes">
+        <trans-unit id="app.flash.error" approved="yes">
           <source>app.flash.error</source>
           <target state="translated">Fehler</target>
         </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
+        <trans-unit id="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>
           <target state="translated">Sie haben nicht die erforderlichen Rechte, um diesen Job zu bearbeiten</target>
         </trans-unit>
-        <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved" approved="yes">
+        <trans-unit id="app.flash.job.employer.saved" approved="yes">
           <source>app.flash.job.employer.saved</source>
           <target state="translated">Job wurde gespeichert</target>
         </trans-unit>
-    <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
+    <trans-unit id="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
           <target state="translated">Authentifizierung über %serviceName% fehlgeschlagen – bitte versuchen Sie es erneut</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
+        <trans-unit id="app.flashMessageJobPosted" approved="yes">
                 <source>app.flashMessageJobPosted</source>
                 <target state="translated">Ihre Anzeige wurde veröffentlicht</target>
               </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs" approved="yes">
+        <trans-unit id="app.flash.job.employer.cantPostJobs" approved="yes">
           <source>app.flash.job.employer.cantPostJobs</source>
           <target state="translated">Ihr Konto muss freigeschaltet werden. Einer unserer Kundenbetreuer wird sich in Kürze mit Ihnen in Verbindung setzen.</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa811" resname="app.flash.cv.upload.error.general" approved="yes">
+        <trans-unit id="app.flash.cv.upload.error.general" approved="yes">
           <source>app.flash.cv.upload.error.general</source>
           <target state="translated">Fehler beim Upload des Lebenslaufs</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType" approved="yes">
+        <trans-unit id="app.flash.cv.upload.error.wrongType" approved="yes">
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">Dateiformat muss PDF sein</target>
         </trans-unit>
-    <trans-unit id="0476595b0502266d74e5e621d2eaa813" resname="app.flash.unsubscribed" approved="yes">
+    <trans-unit id="app.flash.unsubscribed" approved="yes">
           <source>app.flash.unsubscribed</source>
           <target state="translated">Abmelden</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa814" resname="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
+        <trans-unit id="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
           <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
           <target state="translated">Es ist nicht möglich, sich von Sicherheitsbenachrichtigungen abzumelden, da diese sehr wichtig sind, um die Sicherheit Ihres Nutzerkontos zu gewährleisten.</target>
         </trans-unit>
-    <trans-unit id="0476595b0502266d74e5e621d2eaa815" resname="app.flash.applicationHidden" approved="yes">
+    <trans-unit id="app.flash.applicationHidden" approved="yes">
           <source>app.flash.applicationHidden</source>
           <target state="translated">Bewerbung ausgeblendet</target>
         </trans-unit>
-    <trans-unit id="0476595b0502266d74e5e621d2eaa816" resname="app.flash.applicationUndoHidden" approved="yes">
+    <trans-unit id="app.flash.applicationUndoHidden" approved="yes">
           <source>app.flash.applicationUndoHidden</source>
           <target state="translated">Bewerbung wiederhergestellt</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa817" resname="app.flash.registerAndApply" approved="yes">
+        <trans-unit id="app.flash.registerAndApply" approved="yes">
             <source>app.flash.registerAndApply</source>
             <target state="translated">Bewerbung erfolgreich versandt!</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa818" resname="app.flashMessageJobPostLater" approved="yes">
+        <trans-unit id="app.flashMessageJobPostLater" approved="yes">
             <source>app.flashMessageJobPostLater</source>
             <target state="translated">Ihre Stellenanzeige wird am %date% um %time% veröffentlicht.</target>
         </trans-unit>
-        <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98195" resname="app.flash.inactivityJob.deactivate" approved="yes">
+        <trans-unit id="app.flash.inactivityJob.deactivate" approved="yes">
             <source>app.flash.inactivityJob.deactivate</source>
             <target state="translated">Stellenanzeige wurde deaktiviert</target>
         </trans-unit>
-        <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98196" resname="app.flash.inactivityJob.update" approved="yes">
+        <trans-unit id="app.flash.inactivityJob.update" approved="yes">
             <source>app.flash.inactivityJob.update</source>
             <target state="translated">Stellenanzeige wurde aktualisiert</target>
         </trans-unit>
-    <trans-unit id="c26cdf0d2ddb4a4581d4389d25c98197" resname="app.flash.linkedin.alreadyInUse" approved="yes">
+    <trans-unit id="app.flash.linkedin.alreadyInUse" approved="yes">
             <source>app.flash.linkedin.alreadyInUse</source>
             <target state="translated">Dieses LinkedIn Konto ist bereits mit einem anderen Konto verknüpft</target>
         </trans-unit>

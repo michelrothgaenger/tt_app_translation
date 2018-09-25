@@ -5,7 +5,7 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="93617b3c506bf51e8c5f55959631dfg2" resname="app.password.mismatch">
+            <trans-unit id="app.password.mismatch" approved="no">
                 <source>app.password.mismatch</source>
                 <target>Las contraseñas no coinciden</target>
             </trans-unit>

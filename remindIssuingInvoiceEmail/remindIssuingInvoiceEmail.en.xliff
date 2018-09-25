@@ -5,15 +5,15 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.referralJobUpdated.subject" approved="yes">
+            <trans-unit id="app.referralJobUpdated.subject" approved="yes">
                 <source>app.referralJobUpdated.subject</source>
                 <target state="translated">Reminder for issuing invoice</target>
             </trans-unit>
-            <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.remindIssuingInvoiceEmail.content" approved="yes">
+            <trans-unit id="app.remindIssuingInvoiceEmail.content" approved="yes">
                 <source>app.remindIssuingInvoiceEmail.content</source>
                 <target state="translated">%applicationID%</target>
             </trans-unit>
-            <trans-unit id="63eee8c047c24a8da1f3653875dab002" resname="app.remindIssuingInvoiceEmail.referrerBlock.content" approved="yes">
+            <trans-unit id="app.remindIssuingInvoiceEmail.referrerBlock.content" approved="yes">
                 <source>app.remindIssuingInvoiceEmail.referrerBlock.content</source>
                 <target state="translated">%referrer%</target>
             </trans-unit>

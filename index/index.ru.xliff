@@ -5,63 +5,63 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="abc73841881f9977744712cc4c7b9429" resname="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
         <source>app.metaDescriptionIndexPage</source>
         <target state="translated">Transport Talent - ведущий портал для профессионалов в отрасли транспорта и логистики. Поднимитесь на свою следующую карьерную ступеньку и зарегистрируйтесь бесплатно!</target>
       </trans-unit>
-      <trans-unit id="14be3efb74db8653836eae837982387d" resname="app.theFastestWayToFindNewJobIn" approved="yes">
+      <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
         <target state="translated">Соединяем таланты с возможностями</target>
       </trans-unit>
-      <trans-unit id="38567f9970cdecc5be75d7a712a3b7db" resname="app.indexSecondTitle" approved="yes">
+      <trans-unit id="app.indexSecondTitle" approved="yes">
         <source>app.indexSecondTitle</source>
         <target state="translated">Ведущий портал для профессионалов в отрасли транспорта и логистики</target>
       </trans-unit>
-      <trans-unit id="6ebc5c096a029f0e39ed8d3566ac3543" resname="app.featuredJobs" approved="yes">
+      <trans-unit id="app.featuredJobs" approved="yes">
         <source>app.featuredJobs</source>
         <target state="translated">Популярные вакансии</target>
       </trans-unit>
-      <trans-unit id="9cf799b5532a95032e4b7ff577d647f2" resname="app.searchFeaturedJobs" approved="yes">
+      <trans-unit id="app.searchFeaturedJobs" approved="yes">
         <source>app.searchFeaturedJobs</source>
         <target state="translated">Поиск популярных вакансий</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143975" resname="app.companyProfiles" approved="yes">
+      <trans-unit id="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
         <target state="translated">Знакомьтесь с компаниями</target>
       </trans-unit>
-      <trans-unit id="cb2b75725ab9bd42cb527f518ae9e14e" resname="app.seeAllCompanies" approved="yes">
+      <trans-unit id="app.seeAllCompanies" approved="yes">
         <source>app.seeAllCompanies</source>
         <target state="translated">Просмотреть все компании</target>
       </trans-unit>
-    <trans-unit id="fd1c43aaf1225902e33d8493f1143118" resname="app.index.signupCTA.candidates.title" approved="yes">
+    <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
         <target state="translated">Кандидаты</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143119" resname="app.index.signupCTA.candidates.ctaTitle" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaTitle" approved="yes">
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target state="translated">Получайте персональные оповещения о вакансиях</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143120" resname="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
         <target state="translated">Заполните наш 4-минутный профиль и получайте персональные оповещения о вакансиях на Вашу электронную почту. Без шуток - мы отправим только те вакансии, которые релевантны вам, лично подобранные нашей командой.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143121" resname="app.index.signupCTA.candidates.button" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>
         <target state="translated">Я хочу быть нанятым</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143122" resname="app.index.signupCTA.employers.title" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.title" approved="yes">
         <source>app.index.signupCTA.employers.title</source>
         <target state="translated">Работодатели</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143123" resname="app.index.signupCTA.employers.ctaTitle" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.ctaTitle" approved="yes">
         <source>app.index.signupCTA.employers.ctaTitle</source>
         <target state="translated">Свяжитесь с лучшими кандидатами</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143124" resname="app.index.signupCTA.employers.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.ctaDescription" approved="yes">
         <source>app.index.signupCTA.employers.ctaDescription</source>
         <target state="translated">Ваше время ценно, и вы должны тратить его на связь с финалистами процесса подбора персонала. Мы запускаем ваш поиск, управляем всеми коммуникациями с кандидатами и гарантируем окончательный список из 3-6 человек, которые соответствуют вашему кандидату мечты в течение 6 недель.</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143125" resname="app.index.signupCTA.employers.button" approved="yes">
+      <trans-unit id="app.index.signupCTA.employers.button" approved="yes">
         <source>app.index.signupCTA.employers.button</source>
         <target state="translated">Я хочу нанять</target>
       </trans-unit>

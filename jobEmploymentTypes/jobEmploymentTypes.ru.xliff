@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1f02358ca025375335b6780917c49882" resname="Apprenticeships" approved="yes">
+      <trans-unit id="Apprenticeships" approved="yes">
         <source>Apprenticeships</source>
         <target state="translated">Ученичество</target>
       </trans-unit>
-      <trans-unit id="2eef1170a84a7f86287d666a2f214f34" resname="Graduates" approved="yes">
+      <trans-unit id="Graduates" approved="yes">
         <source>Graduates</source>
         <target state="translated">Выпускники</target>
       </trans-unit>
-      <trans-unit id="dabdde079bcaac65b939992610420dfc" resname="Internship" approved="yes">
+      <trans-unit id="Internship" approved="yes">
         <source>Internship</source>
         <target state="translated">Стажировка</target>
       </trans-unit>
-      <trans-unit id="fe4dbcab9b910577e5035e97ac068dae" resname="Management" approved="yes">
+      <trans-unit id="Management" approved="yes">
         <source>Management</source>
         <target state="translated">Менеджмент</target>
       </trans-unit>
-      <trans-unit id="6311ae17c1ee52b36e68aaf4ad066387" resname="Other" approved="yes">
+      <trans-unit id="Other" approved="yes">
         <source>Other</source>
         <target state="translated">Другие</target>
       </trans-unit>
-      <trans-unit id="06b4423e9d636aac1fb52f0207203bc6" resname="Professionals" approved="yes">
+      <trans-unit id="Professionals" approved="yes">
         <source>Professionals</source>
         <target state="translated">Профессионалы</target>
       </trans-unit>
-      <trans-unit id="aba064f896dc3eb1653c3b68b9548ef1" resname="Students" approved="yes">
+      <trans-unit id="Students" approved="yes">
         <source>Students</source>
         <target state="translated">Студенты</target>
       </trans-unit>

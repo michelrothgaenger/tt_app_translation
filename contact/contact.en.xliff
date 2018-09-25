@@ -5,83 +5,83 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title" approved="yes">
+      <trans-unit id="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
         <target state="translated">Contact us</target>
       </trans-unit>
-      <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1" approved="yes">
+      <trans-unit id="app.contact.h1" approved="yes">
         <source>app.contact.h1</source>
         <target state="translated">Contact us</target>
       </trans-unit>
-      <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title" approved="yes">
+      <trans-unit id="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
         <target state="translated">Send us an e-mail for more information</target>
       </trans-unit>
-      <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name" approved="yes">
+      <trans-unit id="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
         <target state="translated">Name</target>
       </trans-unit>
-      <trans-unit id="e7967b9d2320c79ea67f243d2b441f45" resname="app.contact.section.email.email" approved="yes">
+      <trans-unit id="app.contact.section.email.email" approved="yes">
         <source>app.contact.section.email.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="22780a31b6bcdc4ebc508ce4a0afdc38" resname="app.contact.section.email.subject" approved="yes">
+      <trans-unit id="app.contact.section.email.subject" approved="yes">
         <source>app.contact.section.email.subject</source>
         <target state="translated">Subject</target>
       </trans-unit>
-      <trans-unit id="4296915edaceec1c657c1ecfc6ed759c" resname="app.contact.section.email.message" approved="yes">
+      <trans-unit id="app.contact.section.email.message" approved="yes">
         <source>app.contact.section.email.message</source>
         <target state="translated">Message</target>
       </trans-unit>
-      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel" approved="yes">
+      <trans-unit id="app.contact.section.email.buttonLabel" approved="yes">
         <source>app.contact.section.email.buttonLabel</source>
         <target state="translated">Send</target>
       </trans-unit>
-      <trans-unit id="162b0f5f08b689b4f6145b49b0dc6ee4" resname="app.contact.section.email.thanksgiving" approved="yes">
+      <trans-unit id="app.contact.section.email.thanksgiving" approved="yes">
         <source>app.contact.section.email.thanksgiving</source>
         <target state="translated">Thank you</target>
       </trans-unit>
-      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
+      <trans-unit id="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
         <target state="translated">Your message has been sent! We will be in touch soon.</target>
       </trans-unit>
-      <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
+      <trans-unit id="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
         <target state="translated">We are an internationally operating company. These are our offices:</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a24" resname="app.contact.section.offices.location.germany" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.germany" approved="yes">
         <source>app.contact.section.offices.location.germany</source>
         <target state="translated">&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="934784ca34817a4ddd1cc35ecd962a25" resname="app.contact.section.offices.location.denmark" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
         <source>app.contact.section.offices.location.denmark</source>
         <target state="translated">&lt;div&gt;&lt;b&gt;Denmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Copenhagen&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone" approved="yes">
+      <trans-unit id="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target state="translated">Phone</target>
       </trans-unit>
-      <trans-unit id="fa07d96306437e66b1078a48efaa3afe" resname="app.contact.section.offices.directions.title" approved="yes">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="yes">
         <source>app.contact.section.offices.directions.title</source>
         <target state="translated">Directions</target>
       </trans-unit>
-      <trans-unit id="397858318d254782a5cd365f8fb3d06e" resname="app.contact.section.offices.directions.title">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title" approved="yes">
+      <trans-unit id="app.contact.page.confirm.meta.title" approved="yes">
         <source>app.contact.page.confirm.meta.title</source>
         <target state="translated">Confirmation</target>
       </trans-unit>
-      <trans-unit id="efffd505a8f5a08b899b2f60206b9689" resname="app.contact.page.confirm.h1" approved="yes">
+      <trans-unit id="app.contact.page.confirm.h1" approved="yes">
         <source>app.contact.page.confirm.h1</source>
         <target state="translated">Thank you %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description" approved="yes">
+      <trans-unit id="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Your request has been submitted successfully and will be considered quickly.</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b4a" resname="app.contact.meta.description" approved="yes">
+      <trans-unit id="app.contact.meta.description" approved="yes">
         <source>app.contact.meta.description</source>
         <target state="translated">Transport Talent is the leading job portal for the transport and logistics industry. Get in touch with us if we can help you make your next career move or if you want us to support your hiring process.</target>
       </trans-unit>

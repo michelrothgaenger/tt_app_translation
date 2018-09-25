@@ -5,23 +5,23 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Aviso legal</target>
       </trans-unit>
-      <trans-unit id="12038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint.meta.title" approved="yes">
+      <trans-unit id="app.imprint.meta.title" approved="yes">
         <source>app.imprint.meta.title</source>
         <target state="translated">Aviso legal</target>
       </trans-unit>
-      <trans-unit id="51773ee0a1cc6df8df023ebfc7a3c5da" resname="app.metaDescriptionImprintPage" approved="yes">
+      <trans-unit id="app.metaDescriptionImprintPage" approved="yes">
         <source>app.metaDescriptionImprintPage</source>
         <target state="translated">¿Buscas un nuevo empleo en logística, transporte y cadena de suministro? ¿O necesitas cubrir tus vacantes con la certeza de haber llegado a los mejores candidatos? ¡Únete a nosotros! En Transport Talent estaremos encantados de ayudarte.</target>
       </trans-unit>
-      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="yes">
+      <trans-unit id="app.imprintHeadline" approved="yes">
         <source>app.imprintHeadline</source>
         <target state="translated">Responsable de la web de Transport Talent ApS</target>
       </trans-unit>
-      <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg" approved="yes">
+      <trans-unit id="app.imprintMsg" approved="yes">
         <source>app.imprintMsg</source>
         <target state="translated">&lt;b&gt;Nombre y dirección&lt;/b&gt;&lt;br&gt;&lt;span&gt;Transport Talent ApS&lt;br&gt;Rikkeshave 18&lt;br&gt;DK-5250 Odense&lt;br&gt;Dinamarca&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Director gerente&lt;/b&gt;&lt;br&gt;&lt;span&gt;Ulrich Nissen&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Contacto&lt;/b&gt;&lt;br&gt;&lt;span&gt;info@transporttalent.com&lt;br&gt;+49 40 53 799 1400&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Número de identificación fiscal: 37 39 50 48&lt;/b&gt;&lt;/span&gt;</target>
       </trans-unit>

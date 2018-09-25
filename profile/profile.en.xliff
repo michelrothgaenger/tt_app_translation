@@ -5,1190 +5,1179 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de0" resname="app.profile.settings.description" approved="yes">
+      <trans-unit id="app.profile.settings.description" approved="yes">
         <source>app.profile.settings.description</source>
         <target state="translated">Change your account settings below.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de1" resname="app.profile.settings.tab.general.description" approved="yes">
+      <trans-unit id="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
         <target state="translated">Change your login credentials and choose your language.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de2" resname="app.profile.settings.tab.login.description" approved="yes">
+      <trans-unit id="app.profile.settings.tab.login.description" approved="yes">
         <source>app.profile.settings.tab.login.description</source>
         <target state="translated">To use an existing account for login, add one of your social media accounts. Add a recovery email in case you forget your login details for Transport Talent. All changes must be confirmed with your current password.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de3" resname="app.profile.settings.social-media.description" approved="yes">
+      <trans-unit id="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
         <target state="translated">Add a login via social media or deactivate existing accounts.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de4" resname="app.profile.settings.rescue.desciption" approved="yes">
+      <trans-unit id="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
         <target state="translated">Enter a rescue email to be able to restore your login credentials.</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de5" resname="app.profile.settings.password.title" approved="yes">
+      <trans-unit id="app.profile.settings.password.title" approved="yes">
         <source>app.profile.settings.password.title</source>
         <target state="translated">Password</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de6" resname="app.profile.settings.password.newLabel" approved="yes">
+      <trans-unit id="app.profile.settings.password.newLabel" approved="yes">
         <source>app.profile.settings.password.newLabel</source>
         <target state="translated">New Password</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de7" resname="app.profile.settings.password.confirmationLabel" approved="yes">
+      <trans-unit id="app.profile.settings.password.confirmationLabel" approved="yes">
         <source>app.profile.settings.password.confirmationLabel</source>
         <target state="translated">Retype Password</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de8" resname="app.profile.settings.password.currentTitle" approved="yes">
+      <trans-unit id="app.profile.settings.password.currentTitle" approved="yes">
         <source>app.profile.settings.password.currentTitle</source>
         <target state="translated">Current Password</target>
       </trans-unit>
-      <trans-unit id="1d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.password.currentLabel" approved="yes">
+      <trans-unit id="app.profile.settings.password.currentLabel" approved="yes">
         <source>app.profile.settings.password.currentLabel</source>
         <target state="translated">Current Password</target>
       </trans-unit>
-      <trans-unit id="2d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.passwordsDoNotMatch" approved="yes">
+      <trans-unit id="app.profile.settings.passwordsDoNotMatch" approved="yes">
         <source>app.profile.settings.passwordsDoNotMatch</source>
         <target state="translated">Passwords do not match</target>
       </trans-unit>
-      <trans-unit id="3d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.social-login.title" approved="yes">
+      <trans-unit id="app.profile.settings.social-login.title" approved="yes">
         <source>app.profile.settings.social-login.title</source>
         <target state="translated">Login through social media</target>
       </trans-unit>
-      <trans-unit id="4d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.title" approved="yes">
+      <trans-unit id="app.profile.settings.rescue.title" approved="yes">
         <source>app.profile.settings.rescue.title</source>
         <target state="translated">Provide a rescue information</target>
       </trans-unit>
-      <trans-unit id="5d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.rescue.1stEmail" approved="yes">
+      <trans-unit id="app.profile.settings.rescue.1stEmail" approved="yes">
         <source>app.profile.settings.rescue.1stEmail</source>
         <target state="translated">Rescue email</target>
       </trans-unit>
-      <trans-unit id="8d0334f590ee04a231107bcf509d4de9" resname="app.profile.settings.title" approved="yes">
+      <trans-unit id="app.profile.settings.title" approved="yes">
         <source>app.profile.settings.title</source>
         <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+      <trans-unit id="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
         <target state="translated">Sign in with Google</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d001" resname="app.signInWithLinkedin" approved="yes">
+      <trans-unit id="app.signInWithLinkedin" approved="yes">
         <source>app.signInWithLinkedin</source>
         <target state="translated">Sign in with Linkedin</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d002" resname="app.signInWithFacebook" approved="yes">
+      <trans-unit id="app.signInWithFacebook" approved="yes">
         <source>app.signInWithFacebook</source>
         <target state="translated">Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="fa601e6db48449e4e0d22498d5890232" resname="app.profile.login.service.active" approved="yes">
+      <trans-unit id="app.profile.login.service.active" approved="yes">
         <source>app.profile.login.service.active</source>
         <target state="translated">Active</target>
       </trans-unit>
-      <trans-unit id="fa602e6db48449e4e0d22498d5890232" resname="app.profile.login.service.notRegistered" approved="yes">
+      <trans-unit id="app.profile.login.service.notRegistered" approved="yes">
         <source>app.profile.login.service.notRegistered</source>
         <target state="translated">Not registered</target>
       </trans-unit>
-      <trans-unit id="fa603e6db48449e4e0d22498d5890232" resname="app.profile.login.service.disable" approved="yes">
+      <trans-unit id="app.profile.login.service.disable" approved="yes">
         <source>app.profile.login.service.disable</source>
         <target state="translated">Disable</target>
       </trans-unit>
-      <trans-unit id="fa604e6db48449e4e0d22498d5890232" resname="app.profile.login.service.register" approved="yes">
+      <trans-unit id="app.profile.login.service.register" approved="yes">
         <source>app.profile.login.service.register</source>
         <target state="translated">Register</target>
       </trans-unit>
-      <trans-unit id="a07a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.general.title" approved="yes">
+      <trans-unit id="app.profile.settings.tab.general.title" approved="yes">
         <source>app.profile.settings.tab.general.title</source>
         <target state="translated">General</target>
       </trans-unit>
-      <trans-unit id="a17a001fa01b193225cc64eba8b5b3a5" resname="app.profile.settings.tab.login.title" approved="yes">
+      <trans-unit id="app.profile.settings.tab.login.title" approved="yes">
         <source>app.profile.settings.tab.login.title</source>
         <target state="translated">Login</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a51" resname="app.profile.dashboard.contactTT.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="yes">
         <source>app.profile.dashboard.contactTT.tile.title</source>
         <target state="translated">Your contact at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a52" resname="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="yes">
+      <trans-unit id="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="yes">
         <source>app.profile.dashboard.contactTT.tile.SheduleCallBtn</source>
         <target state="translated">Schedule Call</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.profile.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="b90a001fa01b193225cc64eba8b5b3a5" resname="app.profile.dashboard.companyJobs.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.companyJobs.tile.title" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.title</source>
         <target state="translated">Jobs</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6" resname="app.profile.dashboard.settings.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.settings.tile.title" approved="yes">
         <source>app.profile.dashboard.settings.tile.title</source>
         <target state="translated">Settings</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a1" resname="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-jobs.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-jobs.tile.title</source>
         <target state="translated">Saved jobs</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a4" resname="app.profile.dashboard.saved-companies.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.title" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.title</source>
         <target state="translated">Saved companies</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a2" resname="app.profile.dashboard.saved-job.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-job.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-job.tile.description</source>
         <target state="translated">Here you can see your shortlisted jobs.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a3" resname="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
         <target state="translated">Keep track of the companies you are interested in here.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a7" resname="app.profile.dashboard.profile.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
         <target state="translated">Keep your profile accurate with up-to-date information and get spotted by top employers.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.settings.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.settings.tile.description" approved="yes">
         <source>app.profile.dashboard.settings.tile.description</source>
         <target state="translated">Manage your account settings, e.g. email address and password.</target>
       </trans-unit>
-      <trans-unit id="b97a101fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyJobs.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
         <target state="translated">Manage your company jobs.</target>
       </trans-unit>
-      <trans-unit id="b97a201fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.companyProfile.tile.title" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.title</source>
         <target state="translated">Company profile</target>
       </trans-unit>
-      <trans-unit id="b97a301fa01b193225cc64eba8b5b3a9" resname="app.profile.dashboard.companyProfile.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.companyProfile.tile.description" approved="yes">
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Manage your company profile.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6a" resname="app.profile.dashboard.ambassador.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.ambassador.tile.title" approved="yes">
          <source>app.profile.dashboard.ambassador.tile.title</source>
          <target state="translated">Recuitment preferences</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6b" resname="app.profile.dashboard.ambassador.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.ambassador.tile.description" approved="yes">
          <source>app.profile.dashboard.ambassador.tile.description</source>
          <target state="translated">Manage your recruitment preferences.</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6c" resname="app.profile.editor.ambassadorLocations" approved="yes">
+      <trans-unit id="app.profile.editor.ambassadorLocations" approved="yes">
          <source>app.profile.editor.ambassadorLocations</source>
          <target state="translated">Locations you can recommend candidates for</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6d" resname="app.profile.dashboard.ats.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.ats.tile.title" approved="yes">
          <source>app.profile.dashboard.ats.tile.title</source>
          <target state="translated">ATS</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a6e" resname="app.profile.dashboard.ats.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.ats.tile.description" approved="yes">
          <source>app.profile.dashboard.ats.tile.description</source>
          <target state="translated">Manage incoming jobs</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">or</target>
       </trans-unit>
-      <trans-unit id="401afa122761d0a71f0da7e9e474f989" resname="app.jobSearch" approved="yes">
+      <trans-unit id="app.jobSearch" approved="yes">
         <source>app.jobSearch</source>
         <target state="translated">Job search</target>
       </trans-unit>
-      <trans-unit id="bb2651b3e78f1ff513c944f3209a3730" resname="registration.confirmed" approved="yes">
+      <trans-unit id="registration.confirmed" approved="yes">
         <source>registration.confirmed</source>
         <target state="translated">Congrats! Your email is now confirmed.</target>
       </trans-unit>
-      <trans-unit id="92267a4272f4d5de2ab2b72a7dd52431" resname="app.youCanContinueTo" approved="yes">
+      <trans-unit id="app.youCanContinueTo" approved="yes">
         <source>app.youCanContinueTo</source>
         <target state="translated">You can continue to</target>
       </trans-unit>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aec02" resname="app.profile" approved="yes">
+      <trans-unit id="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="2ddd09e08a429994b9bedfc9d597246f" resname="app.profileInputCvUploadBtnText" approved="yes">
+      <trans-unit id="app.profileInputCvUploadBtnText" approved="yes">
         <source>app.profileInputCvUploadBtnText</source>
         <target state="translated">Upload file</target>
       </trans-unit>
-      <trans-unit id="a87f2096c83c51e33a2c4dd60756b7fa" resname="app.deleteCV" approved="yes">
+      <trans-unit id="app.deleteCV" approved="yes">
         <source>app.deleteCV</source>
         <target state="translated">Delete CV</target>
       </trans-unit>
-      <trans-unit id="85190afffba4aff77250e6ccfd093891" resname="app.profileInputCvRequirements" approved="yes">
+      <trans-unit id="app.profileInputCvRequirements" approved="yes">
         <source>app.profileInputCvRequirements</source>
         <target state="translated">The file must be a PDF and not larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="eae496d166e927b211b779ca766bc62a" resname="app.fileUploaded" approved="yes">
+      <trans-unit id="app.fileUploaded" approved="yes">
         <source>app.fileUploaded</source>
         <target state="translated">File uploaded!</target>
       </trans-unit>
-      <trans-unit id="ebe37210919d1887ccbe9cc7d6bd7fc7" resname="app.profileSavedJobsCta" approved="yes">
+      <trans-unit id="app.profileSavedJobsCta" approved="yes">
         <source>app.profileSavedJobsCta</source>
         <target state="translated">Your saved jobs</target>
       </trans-unit>
-      <trans-unit id="a74624a7a8e12432866919360a681989" resname="app.delete" approved="yes">
+      <trans-unit id="app.delete" approved="yes">
         <source>app.delete</source>
         <target state="translated">Delete</target>
       </trans-unit>
-      <trans-unit id="285106c70e5e3ed192b47bb69c8b9674" resname="app.searchForNewJobs" approved="yes">
+      <trans-unit id="app.searchForNewJobs" approved="yes">
         <source>app.searchForNewJobs</source>
         <target state="translated">Search for new jobs</target>
       </trans-unit>
-      <trans-unit id="712aa7e17d09f975347397b0029564ef" resname="app.profileSavedCompaniesCta" approved="yes">
+      <trans-unit id="app.profileSavedCompaniesCta" approved="yes">
         <source>app.profileSavedCompaniesCta</source>
         <target state="translated">Find your saved companies below. Add and delete as you see fit.</target>
       </trans-unit>
-      <trans-unit id="81259e9f98db8fdb8f9db0380dbe7999" resname="app.searchForNewCompanies" approved="yes">
+      <trans-unit id="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
         <target state="translated">Search for new companies</target>
       </trans-unit>
-      <trans-unit id="9cffc74d53729846fb9e2884395bc051" resname="app.profileUnpublishBtn" approved="yes">
+      <trans-unit id="app.profileUnpublishBtn" approved="yes">
         <source>app.profileUnpublishBtn</source>
         <target state="translated">Unpublish profile</target>
       </trans-unit>
-      <trans-unit id="3376d907e829c7e22d4f8e870ad6b782" resname="app.profilePublishBtn" approved="yes">
+      <trans-unit id="app.profilePublishBtn" approved="yes">
         <source>app.profilePublishBtn</source>
         <target state="translated">Publish profile</target>
       </trans-unit>
-      <trans-unit id="164d9a98e0f96e58bfb8cf68a6a635a5" resname="app.contactInfo" approved="yes">
+      <trans-unit id="app.contactInfo" approved="yes">
         <source>app.contactInfo</source>
         <target state="translated">Contact info</target>
       </trans-unit>
-      <trans-unit id="f0e89dc0f6f3257948adce7a5f0d1d46" resname="app.title" approved="yes">
+      <trans-unit id="app.title" approved="yes">
         <source>app.title</source>
         <target state="translated">Title</target>
       </trans-unit>
-      <trans-unit id="767769c42d714f874e10c350ef26bbec" resname="app.firstName" approved="yes">
+      <trans-unit id="app.firstName" approved="yes">
         <source>app.firstName</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="fb61d6b447f1893d659098d83d87b389" resname="app.lastName" approved="yes">
+      <trans-unit id="app.lastName" approved="yes">
         <source>app.lastName</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="e80a2e229b356d68cca8f17ab4334ef4" resname="app.email" approved="yes">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="50da1b7245c3c880b2ac2d15814bd6e9" resname="app.phone" approved="yes">
+      <trans-unit id="app.phone" approved="yes">
         <source>app.phone</source>
         <target state="translated">Phone</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
+      <trans-unit id="app.country" approved="yes">
         <source>app.country</source>
         <target state="translated">Country</target>
       </trans-unit>
-      <trans-unit id="5ca132321275d682bd4f1da5769d15f5" resname="app.region" approved="yes">
+      <trans-unit id="app.region" approved="yes">
         <source>app.region</source>
         <target state="translated">Region</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
+      <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">City</target>
       </trans-unit>
-      <trans-unit id="418e53a275f7b4d169bcad2ae2058992" resname="app.companyBranding" approved="yes">
+      <trans-unit id="app.companyBranding" approved="yes">
         <source>app.companyBranding</source>
         <target state="translated">Company branding</target>
       </trans-unit>
-      <trans-unit id="94b34585d80bb98eab4d6587e911c2ee" resname="app.companyAddress" approved="yes">
+      <trans-unit id="app.companyAddress" approved="yes">
         <source>app.companyAddress</source>
         <target state="translated">Company address</target>
       </trans-unit>
-      <trans-unit id="4bb85a8821938d64e22a56b351fceccd" resname="app.companyName" approved="yes">
+      <trans-unit id="app.companyName" approved="yes">
         <source>app.companyName</source>
         <target state="translated">Company name</target>
       </trans-unit>
-      <trans-unit id="b9aeeb0c30bf1a453958f2008b04edd3" resname="app.address" approved="yes">
+      <trans-unit id="app.address" approved="yes">
         <source>app.address</source>
         <target state="translated">Address</target>
       </trans-unit>
-      <trans-unit id="8b7414575e9ad122011f7ad15d2e525d" resname="app.postcodeZipCode" approved="yes">
+      <trans-unit id="app.postcodeZipCode" approved="yes">
         <source>app.postcodeZipCode</source>
         <target state="translated">Postcode/ZIP Code</target>
       </trans-unit>
-      <trans-unit id="4d1b2379496ca88f3b176739c9d30107" resname="app.companyInformation" approved="yes">
+      <trans-unit id="app.companyInformation" approved="yes">
         <source>app.companyInformation</source>
         <target state="translated">Company information</target>
       </trans-unit>
-      <trans-unit id="768112cedd92ffd3316215680cfe6f26" resname="app.companySize" approved="yes">
+      <trans-unit id="app.companySize" approved="yes">
         <source>app.companySize</source>
         <target state="translated">Company size</target>
       </trans-unit>
-      <trans-unit id="be4f397d8471ae4795a10a540e416bc4" resname="app.annualTurnover" approved="yes">
+      <trans-unit id="app.annualTurnover" approved="yes">
         <source>app.annualTurnover</source>
         <target state="translated">Annual turnover</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website" approved="yes">
+      <trans-unit id="app.website" approved="yes">
         <source>app.website</source>
         <target state="translated">Website</target>
       </trans-unit>
-      <trans-unit id="942d75ea173a000240359648bb7cc8f4" resname="app.about" approved="yes">
+      <trans-unit id="app.about" approved="yes">
         <source>app.about</source>
         <target state="translated">About</target>
       </trans-unit>
-      <trans-unit id="637d2f6f43393ee11ee1a68d5301f986" resname="app.profileInputBasicEmailLabel" approved="yes">
+      <trans-unit id="app.profileInputBasicEmailLabel" approved="yes">
         <source>app.profileInputBasicEmailLabel</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="6b5ee0d117976dc653255706cafaa250" resname="app.profileInputGeneralBirthdayLabel" approved="yes">
+      <trans-unit id="app.profileInputGeneralBirthdayLabel" approved="yes">
         <source>app.profileInputGeneralBirthdayLabel</source>
         <target state="translated">Birthday</target>
       </trans-unit>
-      <trans-unit id="3275d555e1d616d1d4df8feb6c2f416e" resname="app.profileSectionTotalExperienceTitle" approved="yes">
+      <trans-unit id="app.profileSectionTotalExperienceTitle" approved="yes">
         <source>app.profileSectionTotalExperienceTitle</source>
         <target state="translated">Experience</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
+      <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target state="translated">Job title</target>
       </trans-unit>
-      <trans-unit id="bf89c58e29e0fc7ff055d7a4530fccf5" resname="app.position" approved="yes">
+      <trans-unit id="app.position" approved="yes">
         <source>app.position</source>
         <target state="translated">Position</target>
       </trans-unit>
-      <trans-unit id="19e832fa82d34c1c03760caab39dd4ef" resname="app.employerPublishedFlashMsg" approved="yes">
+      <trans-unit id="app.employerPublishedFlashMsg" approved="yes">
         <source>app.employerPublishedFlashMsg</source>
         <target state="translated">Company profile has been published</target>
       </trans-unit>
-      <trans-unit id="580b7451fec45d61264fbe7b357e8ca0" resname="app.employerUnpublishedFlashMsg" approved="yes">
+      <trans-unit id="app.employerUnpublishedFlashMsg" approved="yes">
         <source>app.employerUnpublishedFlashMsg</source>
         <target state="translated">Company profile has been unpublished</target>
       </trans-unit>
-      <trans-unit id="931fe106f4487137cc6d5abdc2283a41" resname="app.profileSavedMsg" approved="yes">
+      <trans-unit id="app.profileSavedMsg" approved="yes">
         <source>app.profileSavedMsg</source>
         <target state="translated">Saved</target>
       </trans-unit>
-      <trans-unit id="75460f91feba3e5c18346ff9a884f91e" resname="app.complete" approved="yes">
+      <trans-unit id="app.complete" approved="yes">
         <source>app.complete</source>
         <target state="translated">complete</target>
       </trans-unit>
-      <trans-unit id="b05920dc2269a201e652f992869c771e" resname="app.sectionName" approved="yes">
+      <trans-unit id="app.sectionName" approved="yes">
         <source>app.sectionName</source>
         <target state="translated">Section name</target>
       </trans-unit>
-      <trans-unit id="8491b3839c48399acda86fd146e34ee8" resname="app.thisFieldMustBeFilled" approved="yes">
+      <trans-unit id="app.thisFieldMustBeFilled" approved="yes">
         <source>app.thisFieldMustBeFilled</source>
         <target state="translated">This field must be filled!</target>
       </trans-unit>
-      <trans-unit id="5608a05c4f3be208c6efff01aac995dd" resname="app.selectAnOption" approved="yes">
+      <trans-unit id="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target state="translated">select an option</target>
       </trans-unit>
-      <trans-unit id="021c581559c0f8e4c496e38c7414490d" resname="app.add" approved="yes">
+      <trans-unit id="app.add" approved="yes">
         <source>app.add</source>
         <target state="translated">Add</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
+      <trans-unit id="app.save" approved="yes">
         <source>app.save</source>
         <target state="translated">Save</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.cancel" approved="yes">
+      <trans-unit id="app.cancel" approved="yes">
         <source>app.cancel</source>
         <target state="translated">Cancel</target>
       </trans-unit>
-      <trans-unit id="b5484319932b710c764b17cf815b6283" resname="app.edit" approved="yes">
+      <trans-unit id="app.edit" approved="yes">
         <source>app.edit</source>
         <target state="translated">Edit</target>
       </trans-unit>
-      <trans-unit id="f36f6f2cd3869cfa52e04011d4201302" resname="app.profileInputCertificateUploadBtnText" approved="yes">
+      <trans-unit id="app.profileInputCertificateUploadBtnText" approved="yes">
         <source>app.profileInputCertificateUploadBtnText</source>
         <target state="translated">Upload file</target>
       </trans-unit>
-      <trans-unit id="7038eac66e387c3b3a0834d786a88757" resname="Insert Image" approved="yes">
+      <trans-unit id="Insert Image" approved="yes">
         <source>Insert Image</source>
         <target state="translated">Insert Image</target>
       </trans-unit>
-      <trans-unit id="1f98842c354dc496970446bce14f4c50" resname="Upload Image" approved="yes">
+      <trans-unit id="Upload Image" approved="yes">
         <source>Upload Image</source>
         <target state="translated">Upload Image</target>
       </trans-unit>
-      <trans-unit id="9b930a84e437290538b48509d3f1e949" resname="Crop and Use" approved="yes">
+      <trans-unit id="Crop and Use" approved="yes">
         <source>Crop and Use</source>
         <target state="translated">Crop and Use</target>
       </trans-unit>
-      <trans-unit id="e5285bac89fec8c2380285b1cd0c2169" resname="Drop your file here" approved="yes">
+      <trans-unit id="Drop your file here" approved="yes">
         <source>Drop your file here</source>
         <target state="translated">Drop your file here</target>
       </trans-unit>
-      <trans-unit id="e81c4e4f2b7b93b481e13a8553c2ae1b" resname="or" approved="yes">
+      <trans-unit id="or" approved="yes">
         <source>or</source>
         <target state="translated">or</target>
       </trans-unit>
-      <trans-unit id="3daff8ed2bd6d2d744ea54893da51eac" resname="Select a file..." approved="yes">
+      <trans-unit id="Select a file..." approved="yes">
         <source>Select a file...</source>
         <target state="translated">Select a file...</target>
       </trans-unit>
-      <trans-unit id="916a171f9f1550825a9e49ff3e549001" resname="Please adjust selection to your image" approved="yes">
+      <trans-unit id="Please adjust selection to your image" approved="yes">
         <source>Please adjust selection to your image</source>
         <target state="translated">Please adjust selection to your image</target>
       </trans-unit>
-      <trans-unit id="47d64305fa30cda048960f375bb2d075" resname="Please select or upload an image" approved="yes">
+      <trans-unit id="Please select or upload an image" approved="yes">
         <source>Please select or upload an image</source>
         <target state="translated">Please select or upload an image</target>
       </trans-unit>
-      <trans-unit id="d3d2e617335f08df83599665eef8a418" resname="Close" approved="yes">
+      <trans-unit id="Close" approved="yes">
         <source>Close</source>
         <target state="translated">Close</target>
       </trans-unit>
-      <trans-unit id="6154f5a158c0aaba0fc23d7555488b59" resname="Crop &amp; Use !" approved="yes">
+      <trans-unit id="Crop &amp; Use !" approved="yes">
         <source>Crop &amp; Use !</source>
         <target state="translated"><![CDATA[Crop & Use !]]></target>
       </trans-unit>
-      <trans-unit id="2368e33e3e01d53abb9b60061ab83903" resname="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
+      <trans-unit id="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
         <target state="translated">The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="a10ef376d9f4c877ac86d8e4350116bf" resname="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
+      <trans-unit id="The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form" approved="yes">
         <source>The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form</source>
         <target state="translated">The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="f8fe8cba1625eaf8e5c253b041d57dbd" resname="The uploaded file was only partially uploaded" approved="yes">
+      <trans-unit id="The uploaded file was only partially uploaded" approved="yes">
         <source>The uploaded file was only partially uploaded</source>
         <target state="translated">The uploaded file was only partially uploaded</target>
       </trans-unit>
-      <trans-unit id="298883b17e36ee3a18d73e835c0b44fc" resname="No file was uploaded" approved="yes">
+      <trans-unit id="No file was uploaded" approved="yes">
         <source>No file was uploaded</source>
         <target state="translated">No file was uploaded</target>
       </trans-unit>
-      <trans-unit id="2384d693d9af53b4727c092af7570a19" resname="Missing a temporary folder" approved="yes">
+      <trans-unit id="Missing a temporary folder" approved="yes">
         <source>Missing a temporary folder</source>
         <target state="translated">Missing a temporary folder</target>
       </trans-unit>
-      <trans-unit id="f5985b2c059d5cc36968baab7585baba" resname="Failed to write file to disk" approved="yes">
+      <trans-unit id="Failed to write file to disk" approved="yes">
         <source>Failed to write file to disk</source>
         <target state="translated">Failed to write file to disk</target>
       </trans-unit>
-      <trans-unit id="b2b0bd0f32c2dcb52c3e2feb24f33a31" resname="A PHP extension stopped the file upload" approved="yes">
+      <trans-unit id="A PHP extension stopped the file upload" approved="yes">
         <source>A PHP extension stopped the file upload</source>
         <target state="translated">A PHP extension stopped the file upload</target>
       </trans-unit>
-      <trans-unit id="a5a6e6da29a779cece21518a4ba337e2" resname="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
+      <trans-unit id="The uploaded file exceeds the post_max_size directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the post_max_size directive in php.ini</source>
         <target state="translated">The uploaded file exceeds the maximum size.</target>
       </trans-unit>
-      <trans-unit id="893885e44a5f16e816de6ee752688a88" resname="File is too big" approved="yes">
+      <trans-unit id="File is too big" approved="yes">
         <source>File is too big</source>
         <target state="translated">File is too big</target>
       </trans-unit>
-      <trans-unit id="7694642c2923adc52fad9d9df064dba2" resname="File is too small" approved="yes">
+      <trans-unit id="File is too small" approved="yes">
         <source>File is too small</source>
         <target state="translated">File is too small</target>
       </trans-unit>
-      <trans-unit id="85fb1cf47b9543043438ba7ed901b626" resname="Filetype not allowed" approved="yes">
+      <trans-unit id="Filetype not allowed" approved="yes">
         <source>Filetype not allowed</source>
         <target state="translated">Filetype not allowed</target>
       </trans-unit>
-      <trans-unit id="1c45e697240f870e5c402498ba4db883" resname="Maximum number of files exceeded" approved="yes">
+      <trans-unit id="Maximum number of files exceeded" approved="yes">
         <source>Maximum number of files exceeded</source>
         <target state="translated">Maximum number of files exceeded</target>
       </trans-unit>
-      <trans-unit id="6dc13bc79a9736e9f927d747c4c45650" resname="Image exceeds maximum width" approved="yes">
+      <trans-unit id="Image exceeds maximum width" approved="yes">
         <source>Image exceeds maximum width</source>
         <target state="translated">Image exceeds maximum width</target>
       </trans-unit>
-      <trans-unit id="24f04a559e89cf47678a96c202456683" resname="Image requires a minimum width (%min%)" approved="yes">
+      <trans-unit id="Image requires a minimum width (%min%)" approved="yes">
         <source>Image requires a minimum width (%min%)</source>
         <target state="translated">Image requires a minimum width (%min%)</target>
       </trans-unit>
-      <trans-unit id="99ba00fe99cde16ff7c70743546365ed" resname="Image exceeds maximum height" approved="yes">
+      <trans-unit id="Image exceeds maximum height" approved="yes">
         <source>Image exceeds maximum height</source>
         <target state="translated">Image exceeds maximum height</target>
       </trans-unit>
-      <trans-unit id="f720415de33c5861318b8539c2d7968d" resname="Image requires a minimum height (%min%)" approved="yes">
+      <trans-unit id="Image requires a minimum height (%min%)" approved="yes">
         <source>Image requires a minimum height (%min%)</source>
         <target state="translated">Image requires a minimum height (%min%)</target>
       </trans-unit>
-      <trans-unit id="9e27cc96f7c0cc030d09c9988cd10ee9" resname="File upload aborted" approved="yes">
+      <trans-unit id="File upload aborted" approved="yes">
         <source>File upload aborted</source>
         <target state="translated">File upload aborted</target>
       </trans-unit>
-      <trans-unit id="a00865b9de6e985f906752b21ab42c5d" resname="Failed to resize image" approved="yes">
+      <trans-unit id="Failed to resize image" approved="yes">
         <source>Failed to resize image</source>
         <target state="translated">Failed to resize image</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f6a" resname="app.profile.saved.companies.description" approved="yes">
+      <trans-unit id="app.profile.saved.companies.description" approved="yes">
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Transport Talent allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f6c" resname="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
         <source>app.profile.saved.jobs.description</source>
         <target state="translated">Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f61" resname="app.profile.referrals.sectionTitle" approved="yes">
+      <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
         <target state="translated">Referrals</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f62" resname="app.profile.referrals.sectionDescription" approved="yes">
+      <trans-unit id="app.profile.referrals.sectionDescription" approved="yes">
         <source>app.profile.referrals.sectionDescription</source>
         <target state="translated">Here you find all referrals you have ever made. Remember, once a job has been filled with a candidate that you put forward, you will get rewarded with the amount you find next to the recommended job.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f63" resname="app.profile.referrals.sharedOn" approved="yes">
+      <trans-unit id="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
         <target state="translated">First shared on</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f64" resname="app.profile.referrals.reward" approved="yes">
+      <trans-unit id="app.profile.referrals.reward" approved="yes">
         <source>app.profile.referrals.reward</source>
         <target state="translated">Reward</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f65" resname="app.profile.referrals.reactions" approved="yes">
+      <trans-unit id="app.profile.referrals.reactions" approved="yes">
         <source>app.profile.referrals.reactions</source>
         <target state="translated">Reactions</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f66" resname="app.profile.referrals.referralLink" approved="yes">
+      <trans-unit id="app.profile.referrals.referralLink" approved="yes">
         <source>app.profile.referrals.referralLink</source>
         <target state="translated">Referral link</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f67" resname="app.profile.referrals.closed" approved="yes">
+      <trans-unit id="app.profile.referrals.closed" approved="yes">
         <source>app.profile.referrals.closed</source>
         <target state="translated">Closed</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f68" resname="app.profile.referrals.pending" approved="yes">
+      <trans-unit id="app.profile.referrals.pending" approved="yes">
         <source>app.profile.referrals.pending</source>
         <target state="translated">Pending</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f69" resname="app.profile.referrals.accepted" approved="yes">
+      <trans-unit id="app.profile.referrals.accepted" approved="yes">
         <source>app.profile.referrals.accepted</source>
         <target state="translated">Accepted</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f70" resname="app.profile.referrals.button.copy" approved="yes">
+      <trans-unit id="app.profile.referrals.button.copy" approved="yes">
         <source>app.profile.referrals.button.copy</source>
         <target state="translated">Copy</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f71" resname="app.profile.dashboard.referrals.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.referrals.tile.description" approved="yes">
         <source>app.profile.dashboard.referrals.tile.description</source>
         <target state="translated">Help your network to get a job and earn money.</target>
       </trans-unit>
-      <trans-unit id="47b3608c2c5d404bb728492b17669f72" resname="app.profile.dashboard.referrals.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.referrals.tile.title" approved="yes">
         <source>app.profile.dashboard.referrals.tile.title</source>
         <target state="translated">Referrals</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74a7" resname="app.profile.section.jobAlerts.title" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.title" approved="yes">
         <source>app.profile.section.jobAlerts.title</source>
         <target state="translated">JOB ALERTS</target>
       </trans-unit>
-      <trans-unit id="4f9aeac58e5540d0867ace77c24d74aa" resname="app.profile.section.jobAlerts.descr" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.descr" approved="yes">
         <source>app.profile.section.jobAlerts.descr</source>
         <target state="translated">Want to be notified about new job postings? Set up one or more job alerts with your own criteria and we will send you an email when there are new positions available.</target>
       </trans-unit>
-      <trans-unit id="65f9e32b68eb42cbb47852b90e4a137c" resname="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
         <target state="translated">CREATE JOB ALERT</target>
       </trans-unit>
-      <trans-unit id="353ef4c948ee40bfa43927921f9603fe" resname="app.profile.section.jobAlerts.section.popup.title" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.title" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.title</source>
         <target state="translated">SAVE ALERT</target>
       </trans-unit>
-      <trans-unit id="353ef4c948ee40bfa43927921f960482" resname="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
         <target state="translated">EDIT ALERT</target>
       </trans-unit>
-      <trans-unit id="77d8678e2b934fc48f6c943ab7a2e681" resname="app.profile.section.jobAlerts.section.popup.note" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.note" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.note</source>
         <target state="translated">Please note: all fields signed with a (*) are mandatory.</target>
       </trans-unit>
-      <trans-unit id="4a92d23d8ddd4367b2e27fab07916706" resname="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.inputTitlePlaceholder</source>
         <target state="translated">Alert Title *</target>
       </trans-unit>
-      <trans-unit id="42713a7afcdd4c6b82f5f056009c65ea" resname="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.disabledFrequencyValue" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.disabledFrequencyValue</source>
         <target state="translated">Period to sent *</target>
       </trans-unit>
-      <trans-unit id="ddc813eba88b49f1a8b842c35353e46e" resname="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.dailyOption" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.dailyOption</source>
         <target state="translated">Daily</target>
       </trans-unit>
-      <trans-unit id="9d2332b8697b459aa30f318df509e210" resname="app.profile.section.jobAlerts.section.popup.weeklyOption" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.weeklyOption" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.weeklyOption</source>
         <target state="translated">Weekly</target>
       </trans-unit>
-      <trans-unit id="f0eccbbc9b944a9cac0ed4be45876ed5" resname="app.profile.section.jobAlerts.section.popup.monthlyOption" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.monthlyOption" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.monthlyOption</source>
         <target state="translated">Monthly</target>
       </trans-unit>
-      <trans-unit id="187021f89a8748ff903340b94621c6a4" resname="app.profile.section.jobAlerts.section.popup.saveButtonLabel" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.saveButtonLabel" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.saveButtonLabel</source>
         <target state="translated">SAVE</target>
       </trans-unit>
-      <trans-unit id="8cf9b47a88854c99bd22ac54becd214e" resname="app.profile.section.jobAlert.itemTitle" approved="yes">
+      <trans-unit id="app.profile.section.jobAlert.itemTitle" approved="yes">
         <source>app.profile.section.jobAlert.itemTitle</source>
         <target state="translated">Alert for</target>
       </trans-unit>
-      <trans-unit id="64463125ff384c0ebaf31f77ca76c9b1" resname="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
+      <trans-unit id="app.profile.section.jobAlert.deleteButtonLabel" approved="yes">
         <source>app.profile.section.jobAlert.deleteButtonLabel</source>
         <target state="translated">Delete</target>
       </trans-unit>
-      <trans-unit id="be38ccc621b04c4b8a32a0f44c329180" resname="app.profile.settings.language.label" approved="yes">
+      <trans-unit id="app.profile.settings.language.label" approved="yes">
         <source>app.profile.settings.language.label</source>
         <target state="translated">Language</target>
       </trans-unit>
-      <trans-unit id="409c6663c5a44a58bed3b1ba005363a9" resname="app.employer.disabledField.companyBranding" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyBranding" approved="yes">
         <source>app.employer.disabledField.companyBranding</source>
         <target state="translated">Company branding editing is disabled unless your account is approved.</target>
       </trans-unit>
-      <trans-unit id="9c70e8111c124a8a96cfd89af10b664c" resname="app.employer.disabledField.companyAddress" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyAddress" approved="yes">
         <source>app.employer.disabledField.companyAddress</source>
         <target state="translated">Company address editing is disabled unless your account is approved.</target>
       </trans-unit>
-      <trans-unit id="c6a654ab24ff4b7cbc57ebf18ddbb449" resname="app.employer.disabledField.companyInformation" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyInformation" approved="yes">
         <source>app.employer.disabledField.companyInformation</source>
         <target state="translated">Company information editing is disabled unless your account is approved.</target>
       </trans-unit>
-      <trans-unit id="21717c7e2e7f4c698c4daada8d456ed9" resname="app.profile.errors.requiredFields" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFields" approved="yes">
         <source>app.profile.errors.requiredFields</source>
         <target state="translated">Required fields should not be empty</target>
       </trans-unit>
-      <trans-unit id="3e1dc02d034d4e338092f6d2bd039361" resname="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFieldCurrentPassword" approved="yes">
         <source>app.profile.errors.requiredFieldCurrentPassword</source>
         <target state="translated">Current password is a required field</target>
       </trans-unit>
-      <trans-unit id="fcc45cbc146043cea412edd3a51ea303" resname="app.profile.errors.invalidCurrentPassword" approved="yes">
+      <trans-unit id="app.profile.errors.invalidCurrentPassword" approved="yes">
         <source>app.profile.errors.invalidCurrentPassword</source>
         <target state="translated">Current password is invalid</target>
       </trans-unit>
-      <trans-unit id="1d61a629c8534f4c874538a2211bbe10" resname="app.profile.errors.passwordIsNotMatch" approved="yes">
+      <trans-unit id="app.profile.errors.passwordIsNotMatch" approved="yes">
         <source>app.profile.errors.passwordIsNotMatch</source>
         <target state="translated">Passwords do not match</target>
       </trans-unit>
-      <trans-unit id="dc58bba378c04c81b7fdd44392ece28f" resname="app.profile.errors.emailAlreadyExist" approved="yes">
+      <trans-unit id="app.profile.errors.emailAlreadyExist" approved="yes">
         <source>app.profile.errors.emailAlreadyExist</source>
         <target state="translated">User with such email already exists</target>
       </trans-unit>
-      <trans-unit id="abfedc13c19c4c6fb78d14e09a2cc041" resname="app.profile.errors.invalidRescueEmail" approved="yes">
+      <trans-unit id="app.profile.errors.invalidRescueEmail" approved="yes">
         <source>app.profile.errors.invalidRescueEmail</source>
         <target state="translated">Invalid rescue email</target>
       </trans-unit>
-      <trans-unit id="665da491d2d04e748c862df2f8acff2c" resname="app.profile.pendingMessages.newEmail" approved="yes">
+      <trans-unit id="app.profile.pendingMessages.newEmail" approved="yes">
         <source>app.profile.pendingMessages.newEmail</source>
         <target state="translated">New email is pending, check your inbox to confirm it</target>
       </trans-unit>
-      <trans-unit id="8c552cc5ea964bf288547f9d88c60997" resname="app.profile.errors.requiredFieldFirstName" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFieldFirstName" approved="yes">
         <source>app.profile.errors.requiredFieldFirstName</source>
         <target state="translated">First name should not be empty</target>
       </trans-unit>
-      <trans-unit id="bbe9fa785f5c4ec5ab22b7af69f4adbd" resname="app.profile.errors.requiredFieldLastName" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFieldLastName" approved="yes">
         <source>app.profile.errors.requiredFieldLastName</source>
         <target state="translated">Last name should not be empty</target>
       </trans-unit>
-      <trans-unit id="0b2df26014504c70ae3490299639cf46" resname="app.profile.errors.requiredFieldCompanyName" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFieldCompanyName" approved="yes">
         <source>app.profile.errors.requiredFieldCompanyName</source>
         <target state="translated">Company name should not be empty</target>
       </trans-unit>
-      <trans-unit id="a872ee21285c4aa1a31d3baacb109f61" resname="app.profile.errors.invalidZip" approved="yes">
+      <trans-unit id="app.profile.errors.invalidZip" approved="yes">
         <source>app.profile.errors.invalidZip</source>
         <target state="translated">Zip can be only numeric and not be less than 0</target>
       </trans-unit>
-      <trans-unit id="5913b6b2eddd4293a781cde954552b53" resname="app.profile.errors.invalidSize" approved="yes">
+      <trans-unit id="app.profile.errors.invalidSize" approved="yes">
         <source>app.profile.errors.invalidSize</source>
         <target state="translated">Size can be only numeric and not be less than 0</target>
       </trans-unit>
-      <trans-unit id="0f95d32bc24e4e0f8b11c5200a7b08cf" resname="app.profile.errors.invalidTurnover" approved="yes">
+      <trans-unit id="app.profile.errors.invalidTurnover" approved="yes">
         <source>app.profile.errors.invalidTurnover</source>
         <target state="translated">Annual turnover can be only numeric and not be less than 0</target>
       </trans-unit>
-      <trans-unit id="2f60f02f87314904b81cbccf2b1dab19" resname="app.profile.errors.requiredFieldCountryRegion" approved="yes">
+      <trans-unit id="app.profile.errors.requiredFieldCountryRegion" approved="yes">
         <source>app.profile.errors.requiredFieldCountryRegion</source>
         <target state="translated">Country/region field should not be empty</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170089" resname="app.profile.editor.experience" approved="yes">
+      <trans-unit id="app.profile.editor.experience" approved="yes">
         <source>app.profile.editor.experience</source>
         <target state="translated">Experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170090" resname="app.profile.editor.specialityLabel" approved="yes">
+      <trans-unit id="app.profile.editor.specialityLabel" approved="yes">
         <source>app.profile.editor.specialityLabel</source>
         <target state="translated">What is your area of expertise?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170091" resname="app.profile.linkedinImportDataButton" approved="yes">
+      <trans-unit id="app.profile.linkedinImportDataButton" approved="yes">
         <source>app.profile.linkedinImportDataButton</source>
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170092" resname="app.profile.editor.congrats" approved="yes">
+      <trans-unit id="app.profile.editor.congrats" approved="yes">
         <source>app.profile.editor.congrats</source>
         <target state="translated">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170093" resname="app.profile.editor.DeleteCV" approved="yes">
+      <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
         <target state="translated">Delete CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170094" resname="app.profile.editor.cvSuccesPart1" approved="yes">
+      <trans-unit id="app.profile.editor.cvSuccesPart1" approved="yes">
         <source>app.profile.editor.cvSuccesPart1</source>
         <target state="translated">You've successfully imported</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170095" resname="app.profile.editor.cvSuccesPart2" approved="yes">
+      <trans-unit id="app.profile.editor.cvSuccesPart2" approved="yes">
         <source>app.profile.editor.cvSuccesPart2</source>
         <target state="translated">as your CV.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170096" resname="app.profile.editor.fileUpload" approved="yes">
+      <trans-unit id="app.profile.editor.fileUpload" approved="yes">
         <source>app.profile.editor.fileUpload</source>
         <target state="translated">Upload file</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170097" resname="app.profile.editor.cvRestriction" approved="yes">
+      <trans-unit id="app.profile.editor.cvRestriction" approved="yes">
         <source>app.profile.editor.cvRestriction</source>
         <target state="translated">The file must be a PDF and not larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170100" resname="app.profile.editor.generalHeader" approved="yes">
+      <trans-unit id="app.profile.editor.generalHeader" approved="yes">
         <source>app.profile.editor.generalHeader</source>
         <target state="translated">General</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170101" resname="app.profile.editor.photoHeader" approved="yes">
+      <trans-unit id="app.profile.editor.photoHeader" approved="yes">
         <source>app.profile.editor.photoHeader</source>
         <target state="translated">Photo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170103" resname="app.profile.editor.editPhoto" approved="yes">
+      <trans-unit id="app.profile.editor.editPhoto" approved="yes">
         <source>app.profile.editor.editPhoto</source>
         <target state="translated">Edit photo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170104" resname="app.profile.editor.deletePhoto" approved="yes">
+      <trans-unit id="app.profile.editor.deletePhoto" approved="yes">
         <source>app.profile.editor.deletePhoto</source>
         <target state="translated">Delete</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170105" resname="app.profile.editor.photoPixelsMinimum" approved="yes">
+      <trans-unit id="app.profile.editor.photoPixelsMinimum" approved="yes">
         <source>app.profile.editor.photoPixelsMinimum</source>
         <target state="translated">At least 150 x 150 pixel.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170106" resname="app.profile.editor.photoNotLarger" approved="yes">
+      <trans-unit id="app.profile.editor.photoNotLarger" approved="yes">
         <source>app.profile.editor.photoNotLarger</source>
         <target state="translated">The file must not be larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700109" resname="app.profile.editor.preferedJobCategories" approved="yes">
+      <trans-unit id="app.profile.editor.preferedJobCategories" approved="yes">
         <source>app.profile.editor.preferedJobCategories</source>
         <target state="translated">Preferred job categories</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170111" resname="app.profile.editor.preferedLocations" approved="yes">
+      <trans-unit id="app.profile.editor.preferedLocations" approved="yes">
         <source>app.profile.editor.preferedLocations</source>
         <target state="translated">Preferred regions &amp; countries</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170113" resname="app.profile.editor.salaryExpectations" approved="yes">
+      <trans-unit id="app.profile.editor.salaryExpectations" approved="yes">
         <source>app.profile.editor.salaryExpectations</source>
         <target state="translated">Salary expectations</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170124" resname="app.profile.editor.profileEdit" approved="yes">
+      <trans-unit id="app.profile.editor.profileEdit" approved="yes">
         <source>app.profile.editor.profileEdit</source>
         <target state="translated">Edit profile</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170114" resname="app.profile.editor.profileEditionHeader" approved="yes">
+      <trans-unit id="app.profile.editor.profileEditionHeader" approved="yes">
         <source>app.profile.editor.profileEditionHeader</source>
         <target state="translated">Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for Linkedin you might already find some data here.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170115" resname="app.profile.editor.experienceLabel" approved="yes">
+      <trans-unit id="app.profile.editor.experienceLabel" approved="yes">
         <source>app.profile.editor.experienceLabel</source>
         <target state="translated">Years of professional experience?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170116" resname="app.profile.editor.experiencePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.experiencePlaceholder" approved="yes">
         <source>app.profile.editor.experiencePlaceholder</source>
         <target state="translated">Years</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700117" resname="app.profile.editor.connectToLinkedInHeader" approved="yes">
+      <trans-unit id="app.profile.editor.connectToLinkedInHeader" approved="yes">
         <source>app.profile.editor.connectToLinkedInHeader</source>
         <target state="translated">Connect to LinkedIn</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170118" resname="app.profile.editor.residenceLabel" approved="yes">
+      <trans-unit id="app.profile.editor.residenceLabel" approved="yes">
         <source>app.profile.editor.residenceLabel</source>
         <target state="translated">Place of Residence</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170119" resname="app.profile.editor.salutationLabel" approved="yes">
+      <trans-unit id="app.profile.editor.salutationLabel" approved="yes">
         <source>app.profile.editor.salutationLabel</source>
         <target state="translated">Salutation</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170120" resname="app.profile.editor.salaryLabel" approved="yes">
+      <trans-unit id="app.profile.editor.salaryLabel" approved="yes">
         <source>app.profile.editor.salaryLabel</source>
         <target state="translated">Annual salary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170121" resname="app.profile.editor.salaryPlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.salaryPlaceholder" approved="yes">
         <source>app.profile.editor.salaryPlaceholder</source>
         <target state="translated">Enter your salary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170122" resname="app.profile.editor.currencyLabel" approved="yes">
+      <trans-unit id="app.profile.editor.currencyLabel" approved="yes">
         <source>app.profile.editor.currencyLabel</source>
         <target state="translated">Currency</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608123" resname="app.profile.editor.locationPlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.locationPlaceholder" approved="yes">
         <source>app.profile.editor.locationPlaceholder</source>
         <target state="translated">Enter a Location</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170125" resname="app.profile.editor.CvHeader" approved="yes">
+      <trans-unit id="app.profile.editor.CvHeader" approved="yes">
         <source>app.profile.editor.CvHeader</source>
         <target state="translated">CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170126" resname="app.profile.dashboard.congratulationsHeader" approved="yes">
+      <trans-unit id="app.profile.dashboard.congratulationsHeader" approved="yes">
         <source>app.profile.dashboard.congratulationsHeader</source>
         <target state="translated">Congratulations %firstName% %lastName%!</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170127" resname="app.profile.dashboard.congratulationsText" approved="yes">
+      <trans-unit id="app.profile.dashboard.congratulationsText" approved="yes">
         <source>app.profile.dashboard.congratulationsText</source>
         <target state="translated">You made it. Your profile is now full with all the information. And if we find something we think would be worth filling in later, we'll drop you a line.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170149" resname="app.profile.profileVM.profileHeader" approved="yes">
+      <trans-unit id="app.profile.profileVM.profileHeader" approved="yes">
         <source>app.profile.profileVM.profileHeader</source>
         <target state="translated">Profile</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170150" resname="app.profile.profileVM.profileHeaderText" approved="yes">
+      <trans-unit id="app.profile.profileVM.profileHeaderText" approved="yes">
         <source>app.profile.profileVM.profileHeaderText</source>
         <target state="translated">You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@transporttalent.com and we will take care. </target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170128" resname="app.profile.profileVM.summaryHeader" approved="yes">
+      <trans-unit id="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
         <target state="translated">Summary</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170129" resname="app.profile.profileVM.experienceText" approved="yes">
+      <trans-unit id="app.profile.profileVM.experienceText" approved="yes">
         <source>app.profile.profileVM.experienceText</source>
         <target state="translated">You have %count% year of experience|You have %count% years of experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170130" resname="app.profile.profileVM.noExperienceText" approved="yes">
+      <trans-unit id="app.profile.profileVM.noExperienceText" approved="yes">
         <source>app.profile.profileVM.noExperienceText</source>
         <target state="translated">You did not specify your experience</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170132" resname="app.profile.profileVM.specealityHeader" approved="yes">
+      <trans-unit id="app.profile.profileVM.specealityHeader" approved="yes">
         <source>app.profile.profileVM.specealityHeader</source>
         <target state="translated">Your area of expertise is</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170135" resname="app.profile.profileVM.connectedToLinkedIn" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectedToLinkedIn" approved="yes">
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Connected to LinkedIn?</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170136" resname="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="yes">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
         <target state="translated">You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170137" resname="app.profile.profileVM.successCv" approved="yes">
+      <trans-unit id="app.profile.profileVM.successCv" approved="yes">
         <source>app.profile.profileVM.successCv</source>
         <target state="translated">Your CV is</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170139" resname="app.profile.profileVM.birthday" approved="yes">
+      <trans-unit id="app.profile.profileVM.birthday" approved="yes">
         <source>app.profile.profileVM.birthday</source>
         <target state="translated">Birthday</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170141" resname="app.profile.profileVM.placeOfResidence" approved="yes">
+      <trans-unit id="app.profile.profileVM.placeOfResidence" approved="yes">
         <source>app.profile.profileVM.placeOfResidence</source>
         <target state="translated">Place of Residence</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170144" resname="app.salutations.placeholder" approved="yes">
+      <trans-unit id="app.salutations.placeholder" approved="yes">
         <source>app.salutations.placeholder</source>
         <target state="translated">Choose salutation...</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170145" resname="app.profile.profileVM.noSpecialtiesText" approved="yes">
+      <trans-unit id="app.profile.profileVM.noSpecialtiesText" approved="yes">
         <source>app.profile.profileVM.noSpecialtiesText</source>
         <target state="translated">You have no areas of expertise specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170146" resname="app.profile.profileVM.CvHeader" approved="yes">
+      <trans-unit id="app.profile.profileVM.CvHeader" approved="yes">
         <source>app.profile.profileVM.CvHeader</source>
         <target state="translated">CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170147" resname="app.profile.profileVM.noCV" approved="yes">
+      <trans-unit id="app.profile.profileVM.noCV" approved="yes">
         <source>app.profile.profileVM.noCV</source>
         <target state="translated">No CV uploaded</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170148" resname="app.profile.profileVM.noResidence" approved="yes">
+      <trans-unit id="app.profile.profileVM.noResidence" approved="yes">
         <source>app.profile.profileVM.noResidence</source>
         <target state="translated">Residence is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170151" resname="app.profile.profileVM.noBirthday" approved="yes">
+      <trans-unit id="app.profile.profileVM.noBirthday" approved="yes">
         <source>app.profile.profileVM.noBirthday</source>
         <target state="translated">Birthday is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170152" resname="app.profile.profileVM.noPreferredCategories" approved="yes">
+      <trans-unit id="app.profile.profileVM.noPreferredCategories" approved="yes">
         <source>app.profile.profileVM.noPreferredCategories</source>
         <target state="translated">Preferred categories are not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170153" resname="app.profile.profileVM.noPreferredLocations" approved="yes">
+      <trans-unit id="app.profile.profileVM.noPreferredLocations" approved="yes">
         <source>app.profile.profileVM.noPreferredLocations</source>
         <target state="translated">Preferred locations are not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170154" resname="app.profile.profileVM.noSalary" approved="yes">
+      <trans-unit id="app.profile.profileVM.noSalary" approved="yes">
         <source>app.profile.profileVM.noSalary</source>
         <target state="translated">Salary is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170155" resname="app.profile.editor.birthdayPlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.birthdayPlaceholder" approved="yes">
         <source>app.profile.editor.birthdayPlaceholder</source>
         <target state="translated">DD/MM/YYYY</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170156" resname="app.profile.dashboard.alerts.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.alerts.tile.title" approved="yes">
         <source>app.profile.dashboard.alerts.tile.title</source>
         <target state="translated">JOB ALERTS</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170157" resname="app.profile.dashboard.alerts.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.alerts.tile.description" approved="yes">
         <source>app.profile.dashboard.alerts.tile.description</source>
         <target state="translated">Setup and manage your tailored job alerts</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170158" resname="app.profile.editor.firstNamePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
         <source>app.profile.editor.firstNamePlaceholder</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170159" resname="app.profile.editor.lastNamePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.lastNamePlaceholder" approved="yes">
         <source>app.profile.editor.lastNamePlaceholder</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170160" resname="app.profile.editor.firstNameLabel" approved="yes">
+      <trans-unit id="app.profile.editor.firstNameLabel" approved="yes">
         <source>app.profile.editor.firstNameLabel</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170161" resname="app.profile.editor.lastNameLabel" approved="yes">
+      <trans-unit id="app.profile.editor.lastNameLabel" approved="yes">
         <source>app.profile.editor.lastNameLabel</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170162" resname="app.profile.profileVM.noFirstName" approved="yes">
+      <trans-unit id="app.profile.profileVM.noFirstName" approved="yes">
         <source>app.profile.profileVM.noFirstName</source>
         <target state="translated">First name is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170163" resname="app.profile.profileVM.noLastName" approved="yes">
+      <trans-unit id="app.profile.profileVM.noLastName" approved="yes">
         <source>app.profile.profileVM.noLastName</source>
         <target state="translated">Last name is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170164" resname="app.profile.profileVM.lastName" approved="yes">
+      <trans-unit id="app.profile.profileVM.lastName" approved="yes">
         <source>app.profile.profileVM.lastName</source>
         <target state="translated">Last name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170165" resname="app.profile.profileVM.firstName" approved="yes">
+      <trans-unit id="app.profile.profileVM.firstName" approved="yes">
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">First name</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170166" resname="app.profile.dashboard.applications.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.title" approved="yes">
         <source>app.profile.dashboard.applications.tile.title</source>
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170167" resname="app.profile.dashboard.applications.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="yes">
         <source>app.profile.dashboard.applications.tile.description</source>
         <target state="translated">See all jobs which you have applied to within Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170168" resname="app.profile.savedApplicationsCta" approved="yes">
+      <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
         <source>app.profile.savedApplicationsCta</source>
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170169" resname="app.profile.saved.applications.description" approved="yes">
+      <trans-unit id="app.profile.saved.applications.description" approved="yes">
         <source>app.profile.saved.applications.description</source>
         <target state="translated">Below is the list of all jobs you have applied to on Transport Talent. Please note that this list only includes jobs that use the Transport Talent application form. Job postings for which you are redirected to another company's website are not tracked by Transport Talent and will not show in your list of applied jobs.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170170" resname="app.profile.searchForNewApplications" approved="yes">
+      <trans-unit id="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
         <target state="translated">Find jobs</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170172" resname="app.profile.saved.applications.appliedToOn" approved="yes">
+      <trans-unit id="app.profile.saved.applications.appliedToOn" approved="yes">
         <source>app.profile.saved.applications.appliedToOn</source>
         <target state="translated">Sent on</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170173" resname="app.profile.saved.applications.hide" approved="yes">
+      <trans-unit id="app.profile.saved.applications.hide" approved="yes">
         <source>app.profile.saved.applications.hide</source>
         <target state="translated">Hide</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170174" resname="app.profile.saved.applications.undo" approved="yes">
+      <trans-unit id="app.profile.saved.applications.undo" approved="yes">
         <source>app.profile.saved.applications.undo</source>
         <target state="translated">Undo</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06479" resname="app.noApplicationsFound" approved="yes">
+      <trans-unit id="app.noApplicationsFound" approved="yes">
         <source>app.noApplicationsFound</source>
         <target state="translated">No applications found</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06480" resname="app.profile.alertForm.referrals" approved="yes">
+      <trans-unit id="app.profile.alertForm.referrals" approved="yes">
         <source>app.profile.alertForm.referrals</source>
         <target state="translated">Referral jobs only</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06500" resname="app.profile.chooseCurrency" approved="yes">
+      <trans-unit id="app.profile.chooseCurrency" approved="yes">
         <source>app.profile.chooseCurrency</source>
         <target state="translated">Choose currency</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06501" resname="app.profile.chooseSalary" approved="yes">
+      <trans-unit id="app.profile.chooseSalary" approved="yes">
         <source>app.profile.chooseSalary</source>
         <target state="translated">Choose salary range</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06502" resname="app.timezone" approved="yes">
+      <trans-unit id="app.timezone" approved="yes">
         <source>app.timezone</source>
         <target state="translated">Timezone</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06503" resname="app.profile.timezone.placeholder" approved="yes">
+      <trans-unit id="app.profile.timezone.placeholder" approved="yes">
         <source>app.profile.timezone.placeholder</source>
         <target state="translated">Choose timezone</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06505" resname="app.profile.editor.ambassadorLocations">
-        <source>app.profile.editor.ambassadorLocations</source>
-        <target>Ambassador Locations</target>
-      </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06506" resname="app.notification.causes.noJobCategories" approved="yes">
+      <trans-unit id="app.notification.causes.noJobCategories" approved="yes">
         <source>app.notification.causes.noJobCategories</source>
         <target state="translated">PREFERRED JOB CATEGORIES</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06507" resname="app.notification.causes.noLocations" approved="yes">
+      <trans-unit id="app.notification.causes.noLocations" approved="yes">
         <source>app.notification.causes.noLocations</source>
         <target state="translated">PREFERRED REGIONS &amp; COUNTRIES</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06508" resname="app.notification.causes.inactivity" approved="no">
+      <trans-unit id="app.notification.causes.inactivity" approved="no">
         <source>app.notification.causes.inactivity</source>
         <target state="translated">INACTIVITY</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06509" resname="app.notification.causes.notConfirmedAccount" approved="yes">
+      <trans-unit id="app.notification.causes.notConfirmedAccount" approved="yes">
         <source>app.notification.causes.notConfirmedAccount</source>
         <target state="translated">ACCOUNT IS NOT CONFIRMED</target>
       </trans-unit>
-      <trans-unit id="065200146c1028b99b0d13e6cdf06510" resname="app.notification.causes.noCV" approved="yes">
+      <trans-unit id="app.notification.causes.noCV" approved="yes">
         <source>app.notification.causes.noCV</source>
         <target state="translated">YOUR CV</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170194" resname="app.profileInputDateLeaveLabel" approved="yes">
+      <trans-unit id="app.profileInputDateLeaveLabel" approved="yes">
         <source>app.profileInputDateLeaveLabel</source>
         <target state="translated">Notice Period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170195" resname="app.profile.editor.dateLeavePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.dateLeavePlaceholder" approved="yes">
         <source>app.profile.editor.dateLeavePlaceholder</source>
         <target state="translated">1 month</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170196" resname="app.profile.editor.dateLeave" approved="yes">
+      <trans-unit id="app.profile.editor.dateLeave" approved="yes">
         <source>app.profile.editor.dateLeave</source>
         <target state="translated">Notice Period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170197" resname="app.profile.profileVM.noDateLeave" approved="yes">
+      <trans-unit id="app.profile.profileVM.noDateLeave" approved="yes">
         <source>app.profile.profileVM.noDateLeave</source>
         <target state="translated">Notice period is not specified</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170198" resname="app.profile.dashboard.manageTeam.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.manageTeam.tile.title" approved="yes">
         <source>app.profile.dashboard.manageTeam.tile.title</source>
         <target state="translated">Manage Team</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170199" resname="app.profile.dashboard.manageTeam.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.manageTeam.tile.description" approved="yes">
         <source>app.profile.dashboard.manageTeam.tile.description</source>
         <target state="translated">Manage company's organisation and team structure</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170200" resname="app.profile.dashboard.welcomeText" approved="yes">
+      <trans-unit id="app.profile.dashboard.welcomeText" approved="yes">
         <source>app.profile.dashboard.welcomeText</source>
         <target state="translated">Welcome </target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170201" resname="app.employer.disabledField.companyContactInfo.noAdminRole" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyContactInfo.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyContactInfo.noAdminRole</source>
         <target state="translated">Company contact info editing is disabled since your account has no rights.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170202" resname="app.employer.disabledField.companyBranding.noAdminRole" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyBranding.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyBranding.noAdminRole</source>
         <target state="translated">Company branding editing is disabled since your account has no rights.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170203" resname="app.employer.disabledField.companyAddress.noAdminRole" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyAddress.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyAddress.noAdminRole</source>
         <target state="translated">Company address editing is disabled since your account has no rights.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170204" resname="app.employer.disabledField.companyInformation.noAdminRole" approved="yes">
+      <trans-unit id="app.employer.disabledField.companyInformation.noAdminRole" approved="yes">
         <source>app.employer.disabledField.companyInformation.noAdminRole</source>
         <target state="translated">Company information editing is disabled since your account has no rights.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170205" resname="app.profile.editor.recruiterBusinessAreas" approved="yes">
+      <trans-unit id="app.profile.editor.recruiterBusinessAreas" approved="yes">
         <source>app.profile.editor.recruiterBusinessAreas</source>
         <target state="translated">Recruiting business areas</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170206" resname="app.profile.dateLeave.1m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.1m" approved="yes">
         <source>app.profile.dateLeave.1m</source>
         <target state="translated">1 month</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170207" resname="app.profile.dateLeave.2m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.2m" approved="yes">
         <source>app.profile.dateLeave.2m</source>
         <target state="translated">2 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170208" resname="app.profile.dateLeave.3m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.3m" approved="yes">
         <source>app.profile.dateLeave.3m</source>
         <target state="translated">3 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170209" resname="app.profile.dateLeave.4m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.4m" approved="yes">
         <source>app.profile.dateLeave.4m</source>
         <target state="translated">4 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170210" resname="app.profile.dateLeave.5m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.5m" approved="yes">
         <source>app.profile.dateLeave.5m</source>
         <target state="translated">5 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170211" resname="app.profile.dateLeave.6m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.6m" approved="yes">
         <source>app.profile.dateLeave.6m</source>
         <target state="translated">6 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170212" resname="app.profile.dateLeave.12m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.12m" approved="yes">
         <source>app.profile.dateLeave.12m</source>
         <target state="translated">12 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170213" resname="app.profile.dateLeave.24m" approved="yes">
+      <trans-unit id="app.profile.dateLeave.24m" approved="yes">
         <source>app.profile.dateLeave.24m</source>
         <target state="translated">24 months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d7170214" resname="app.profile.dateLeave.other" approved="yes">
+      <trans-unit id="app.profile.dateLeave.other" approved="yes">
         <source>app.profile.dateLeave.other</source>
         <target state="translated">other</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700100" resname="form.dateLeavePlaceholder" approved="yes">
+      <trans-unit id="form.dateLeavePlaceholder" approved="yes">
         <source>form.dateLeavePlaceholder</source>
         <target state="translated">Choose your notice period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700101" resname="app.profile.editor.noticePeriod" approved="yes">
+      <trans-unit id="app.profile.editor.noticePeriod" approved="yes">
         <source>app.profile.editor.noticePeriod</source>
         <target state="translated">Notice period</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700102" resname="app.profile.editor.editLogo" approved="yes">
+      <trans-unit id="app.profile.editor.editLogo" approved="yes">
         <source>app.profile.editor.editLogo</source>
         <target state="translated">Edit logo</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700103" resname="app.profile.editor.editBuilding" approved="yes">
+      <trans-unit id="app.profile.editor.editBuilding" approved="yes">
         <source>app.profile.editor.editBuilding</source>
         <target state="translated">Edit building</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700104" resname="app.profile.noticePeriod.month" approved="yes">
+      <trans-unit id="app.profile.noticePeriod.month" approved="yes">
         <source>app.profile.noticePeriod.month</source>
         <target state="translated">%count% month|%count% months</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700105" resname="app.profile.noticePeriod.other" approved="yes">
+      <trans-unit id="app.profile.noticePeriod.other" approved="yes">
         <source>app.profile.noticePeriod.other</source>
         <target state="translated">other</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700106" resname="app.recruiter.approving.error.notFound">
+      <trans-unit id="app.recruiter.approving.error.notFound" approved="no">
         <source>app.recruiter.approving.error.notFound</source>
         <target>This user already have been approved by you or another partner. Thank you.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700107" resname="app.recruiter.approving.success">
+      <trans-unit id="app.recruiter.approving.success" approved="no">
         <source>app.recruiter.approving.success</source>
         <target>The recruiter was approved successfully.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700108" resname="app.profile.confirmationPopup.title">
+      <trans-unit id="app.profile.confirmationPopup.title" approved="no">
         <source>app.profile.confirmationPopup.title</source>
         <target>You successful approved</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700109a" resname="app.profile.confirmationPopup.closeText">
+      <trans-unit id="app.profile.confirmationPopup.closeText" approved="no">
         <source>app.profile.confirmationPopup.closeText</source>
         <target>You can now close this window.</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700110" resname="app.profile.confirmationPopup.closeBtn">
+      <trans-unit id="app.profile.confirmationPopup.closeBtn" approved="no">
         <source>app.profile.confirmationPopup.closeBtn</source>
         <target>Close</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700111" resname="app.profile.applicationHistories.hideDetails">
+      <trans-unit id="app.profile.applicationHistories.hideDetails" approved="no">
         <source>app.profile.applicationHistories.hideDetails</source>
         <target>Hide details</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700112" resname="app.profile.applicationHistories.showDetails">
+      <trans-unit id="app.profile.applicationHistories.showDetails" approved="no">
         <source>app.profile.applicationHistories.showDetails</source>
         <target>Show application status</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700113" resname="app.profile.applicationHistories.updated">
+      <trans-unit id="app.profile.applicationHistories.updated" approved="no">
         <source>app.profile.applicationHistories.updated</source>
         <target>Updated</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700114" resname="app.profile.applicationHistories.status">
+      <trans-unit id="app.profile.applicationHistories.status" approved="no">
         <source>app.profile.applicationHistories.status</source>
         <target>Status</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700115" resname="app.profile.applicationHistories.updatedBy">
+      <trans-unit id="app.profile.applicationHistories.updatedBy" approved="no">
         <source>app.profile.applicationHistories.updatedBy</source>
         <target>Updated by</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700116" resname="app.profile.onLoginPopup.welcome">
+      <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
         <source>app.profile.onLoginPopup.welcome</source>
         <target>Welcome%firstName%!</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700117a" resname="app.profile.onLoginPopup.employer">
+      <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
         <source>app.profile.onLoginPopup.employer</source>
-        <target><![CDATA[
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 1</p>
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 2</p>
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 3</p>
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 4</p>
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 5</p>
-        <p>employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 6</p>
-        ]]></target>
+        <target>&lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 1&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 2&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 3&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 4&lt;/p&gt;</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700118" resname="app.profile.onLoginPopup.recruiter">
+      <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
         <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
         <target>recruiter</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700119" resname="app.profile.onLoginPopup.professional">
+      <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
         <source>app.profile.onLoginPopup.professional</source>
         <target><![CDATA[<p>professional paragraph 1</p><p>professional paragraph 2</p><p>professional paragraph 3</p>]]></target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700120" resname="app.profile.onLoginPopup.showThisWindow">
+      <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
         <source>app.profile.onLoginPopup.showThisWindow</source>
         <target>Show this window on every sign in</target>
       </trans-unit>
-      <trans-unit id="382ba41746874fac96eb5077d71700121" resname="app.profile.onLoginPopup.closeWindow">
+      <trans-unit id="app.profile.onLoginPopup.closeWindow" approved="no">
         <source>app.profile.onLoginPopup.closeWindow</source>
         <target>Close window</target>
       </trans-unit>

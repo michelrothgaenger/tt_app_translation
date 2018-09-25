@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.landing.button.register" approved="yes">
+      <trans-unit id="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
         <target state="translated">Tilmeld dig nu og søg på jobs</target>
       </trans-unit>
-      <trans-unit id="fd1c43aaf1225902e33d8493f1143970" resname="app.landing.jobsCount" approved="yes">
+      <trans-unit id="app.landing.jobsCount" approved="yes">
         <source>app.landing.jobsCount</source>
         <target state="translated">%count% job|%count% jobs</target>
       </trans-unit>

@@ -5,35 +5,35 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
+      <trans-unit id="app.signIn" approved="yes">
         <source>app.signIn</source>
         <target state="translated">Đăng nhập</target>
       </trans-unit>
-      <trans-unit id="90598139f0a47637f46c1d12f18c1279" resname="app.metaDescriptionEmployerLoginPage" approved="yes">
+      <trans-unit id="app.metaDescriptionEmployerLoginPage" approved="yes">
         <source>app.metaDescriptionEmployerLoginPage</source>
         <target state="translated">Đăng nhập để tìm các ứng cử viên tương lai cho công ty của bạn</target>
       </trans-unit>
-      <trans-unit id="ad6bcd6e5ce083dffa6e5029f54a8398" resname="app.employerLoginHeadline" approved="yes">
+      <trans-unit id="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
         <target state="translated">Vui mừng gặp lại Ngài.</target>
       </trans-unit>
-      <trans-unit id="5ac070c40ae711185d18249e55505770" resname="app.employerLoginCta" approved="yes">
+      <trans-unit id="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
         <target state="translated">Nếu Ngài đã có tài khoản, xin vui lòng tiếp tục.</target>
       </trans-unit>
-      <trans-unit id="3e6fda7a3e4805b55f02fb7d4732182e" resname="security.login.password" approved="yes">
+      <trans-unit id="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target state="translated">Mật khẩu</target>
       </trans-unit>
-      <trans-unit id="0d16dde524a0fbb1d69be593251325c2" resname="app.forgotPassword" approved="yes">
+      <trans-unit id="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
         <target state="translated">Quên mật khẩu?</target>
       </trans-unit>
-      <trans-unit id="eab2445b91e08139c983aed41704f73b" resname="security.login.submit" approved="yes">
+      <trans-unit id="security.login.submit" approved="yes">
         <source>security.login.submit</source>
         <target state="translated">Đăng nhập</target>
       </trans-unit>
-      <trans-unit id="18f589b93ed164fff99baf65ab95fbcd" resname="app.notRegisteredCta" approved="yes">
+      <trans-unit id="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
         <target state="translated">Chưa đăng ký? Nhấn vào đây để làm điều đó ngay bây giờ.</target>
       </trans-unit>

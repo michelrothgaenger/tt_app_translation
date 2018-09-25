@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21c" resname="app.applicationForwardedEmail" approved="yes">
+      <trans-unit id="app.applicationForwardedEmail" approved="yes">
         <source>app.applicationForwardedEmail</source>
         <target state="translated">Estimado %firstName%, &lt;br&gt; &lt;br&gt; Su aplicación para %jobTitle% ha sido enviada correctamente a %companyName%. Adjunto encontrarás el CV que proporciuonamos con tu inscripción. Los detalles de la aplicación también se han guardado en tu perfil. &lt;br&gt; &lt;br&gt; &lt;b&gt; Tu mensaje a %companyName%: &lt;/ b&gt; &lt;br&gt; &lt;br&gt; &lt;i&gt; %applicationMessage% &lt;/ i&gt; &lt;br&gt; &lt;br&gt; &lt;b&gt; ¿Qué sucede después? &lt;/ B&gt; &lt;br&gt; &lt;br&gt;%companyName% revisará tu aplicación y te contactará directamente en caso de necesitar alguna aclaración. Ten en cuenta que Transport Talent no te puede proporcionar información sobre el estado de tu solicitud. Todas tus preguntas deberás dirigirlas a %companyName%. Una vez finalizado el proceso, se te notificará por correo electrónico el resultado. &lt;br&gt; &lt;br&gt; Gracias por utilizar Transport Talent y buena suerte con tu aplicación. &lt;br&gt; &lt;br&gt; Saludos, Tu equipo en Transport Talent</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="app.applicationForwardedEmail.subject" approved="yes">
+      <trans-unit id="app.applicationForwardedEmail.subject" approved="yes">
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Tu solicitud ha sido enviada</target>
       </trans-unit>

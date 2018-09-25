@@ -5,23 +5,23 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Imprint</target>
       </trans-unit>
-      <trans-unit id="51773ee0a1cc6df8df023ebfc7a3c5da" resname="app.metaDescriptionImprintPage" approved="yes">
+      <trans-unit id="app.metaDescriptionImprintPage" approved="yes">
         <source>app.metaDescriptionImprintPage</source>
         <target state="translated">Leder du efter et nyt job i transport, logistik eller supply chain eller har du brug for at oprette en stillingsannonce for at finde en ny medarbejder? Kontakt os! Talent Talent teamet står til din rådighed.</target>
       </trans-unit>
-      <trans-unit id="60cf06b83c1c5650afeef2315f9e4993" resname="app.imprintHeadline" approved="yes">
+      <trans-unit id="app.imprintHeadline" approved="yes">
         <source>app.imprintHeadline</source>
         <target state="translated">Ansvarlig for internetsider hos Transport Talent ApS</target>
       </trans-unit>
-      <trans-unit id="e3c225dca89a669b37a0c79469c3e920" resname="app.imprintMsg" approved="yes">
+      <trans-unit id="app.imprintMsg" approved="yes">
         <source>app.imprintMsg</source>
         <target state="translated">&lt;b&gt;Name and address&lt;/b&gt;&lt;br&gt;&lt;span&gt;Transport Talent ApS&lt;br&gt;Rikkeshave 18&lt;br&gt;5250 Odense&lt;br&gt;Danmark&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;b&gt;Managing Director&lt;/b&gt;&lt;br&gt;&lt;span&gt;Ulrich Nissen&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Your contact to Transport Talent&lt;/b&gt;&lt;br&gt;&lt;span&gt;info@transporttalent.com&lt;br&gt;+49 40 53 799 1400&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Value-added tax identification number&lt;/b&gt;&lt;br&gt;&lt;span&gt;CVR: 37 39 50 48&lt;/span&gt;</target>
       </trans-unit>
-      <trans-unit id="12038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint.meta.title" approved="yes">
+      <trans-unit id="app.imprint.meta.title" approved="yes">
         <source>app.imprint.meta.title</source>
         <target state="translated">Imprint</target>
       </trans-unit>

@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="03ad24925b3a4787896103df0f7a1000" resname="app.notConfirmedEmail.subject" approved="yes">
+      <trans-unit id="app.notConfirmedEmail.subject" approved="yes">
         <source>app.notConfirmedEmail.subject</source>
         <target state="translated">La cuenta no ha sido confirmada</target>
       </trans-unit>
-      <trans-unit id="63eee8c047c24a8da1f3653875dab001" resname="app.notConfirmedEmail" approved="yes">
+      <trans-unit id="app.notConfirmedEmail" approved="yes">
         <source>app.notConfirmedEmail</source>
         <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt; Por favor activa tu cuenta en este enlace: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Saludos cordiales,&lt;br&gt;&lt;br&gt;Tu equipo de Transport Talent</target>
       </trans-unit>

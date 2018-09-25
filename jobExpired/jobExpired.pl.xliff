@@ -5,27 +5,27 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle">
+      <trans-unit id="app.jobExpiredPageTitle" approved="no">
         <source>app.jobExpiredPageTitle</source>
         <target>This job has expired</target>
       </trans-unit>
-      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
         <source>app.metaDescriptionExpiredPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc">
+      <trans-unit id="app.jobExpiredPageDesc" approved="no">
         <source>app.jobExpiredPageDesc</source>
         <target><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow">
+      <trans-unit id="app.signUpNow" approved="no">
         <source>app.signUpNow</source>
         <target>Register now - it's free</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs">
+      <trans-unit id="app.searchRelatedJobs" approved="no">
         <source>app.searchRelatedJobs</source>
         <target>Search related jobs</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs">
+      <trans-unit id="app.browseRelatedJobs" approved="no">
         <source>app.browseRelatedJobs</source>
         <target>Browse related jobs</target>
       </trans-unit>

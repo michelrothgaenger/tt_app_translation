@@ -5,83 +5,83 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="dea14b171b9a004dd6a261486d657a85" resname="app.register" approved="yes">
+      <trans-unit id="app.register" approved="yes">
         <source>app.register</source>
         <target state="translated">Tìm hiểu logistics talent của chúng tôi và đăng ký với chúng tôi</target>
       </trans-unit>
-      <trans-unit id="d542ff97ae11d45a0f218d6ebeebf5ff" resname="app.registration" approved="yes">
+      <trans-unit id="app.registration" approved="yes">
         <source>app.registration</source>
         <target state="translated">Đăng ký</target>
       </trans-unit>
-      <trans-unit id="9d0334f590ee04a231107bcf509d4dea" resname="app.signInWithLinkedIn" approved="yes">
+      <trans-unit id="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
         <target state="translated">Đăng nhập với LinkedIn</target>
       </trans-unit>
-      <trans-unit id="0a57523c77c9b93a49e1710e4e11d3be" resname="app.signInWithGoogle" approved="yes">
+      <trans-unit id="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
         <target state="translated">Đăng nhập với Google</target>
       </trans-unit>
-      <trans-unit id="fa611e6db48449e4e0d22498d5890232" resname="app.signInWithFB" approved="yes">
+      <trans-unit id="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
         <target state="translated">Đăng nhập với Facebook</target>
       </trans-unit>
-      <trans-unit id="b97a001fa01b193225cc64eba8b5b3a8" resname="app.or" approved="yes">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">hoặc</target>
       </trans-unit>
-      <trans-unit id="70b8eec748bd660568b8c24cb0ef874a" resname="app.iAgreeToThe" approved="yes">
+      <trans-unit id="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
         <target state="translated">Tôi đồng ý với</target>
       </trans-unit>
-      <trans-unit id="a8396af28fcd612d1dd3ab9dda9d6f71" resname="app.termsConditionsCheckbox" approved="yes">
+      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
         <target state="translated">Điều kiện chung</target>
       </trans-unit>
-      <trans-unit id="e9ade8c73d8a8ea7b6f53956dc36608b" resname="registration.check_email" approved="yes">
+      <trans-unit id="registration.check_email" approved="yes">
         <source>registration.check_email</source>
         <target state="translated">Một email đã được gửi đến %email%. Để hoàn tất việc đăng nhập, xin vui lòng tải lên vào liên kết xác nhận trong email.</target>
       </trans-unit>
-      <trans-unit id="408d6389baddfe73a1a432c4ea501cd2" resname="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>registration.emailemp.subject</source>
         <target state="translated">Cảm ơn đã đăng nhập vào Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="90997929bcfdafefc75086643afea54d" resname="registration.email.subject" approved="yes">
+      <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
         <target state="translated">Chào mừng %username%!</target>
       </trans-unit>
-      <trans-unit id="091283763c0244903c87d227aa50e259" resname="registration.emailemp.message" approved="yes">
+      <trans-unit id="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
         <target state="translated">Xin chào %tên%,&lt;br&gt; &lt;br&gt;để kích hoạt tài khoản sử dụng, hãy tải lên trang sau&lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt;Trân trọng &lt;br&gt; &lt;br&gt;Michel Rothgaenger&lt;br&gt; Giám đốc điều hành&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="9671dfcb489e04d7ece6c484bf2d92d9" resname="registration.email.message" approved="yes">
+      <trans-unit id="registration.email.message" approved="yes">
         <source>registration.email.message</source>
         <target state="translated">Xin chào %firstname%,&lt;br&gt; &lt;br&gt; để kích hoạt tài khoản sử dụng, hãy tải lên trang sau &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Trân trọng &lt;br&gt; &lt;br&gt;Michel Rothgaenger &lt;br&gt;Giám đốc điều hành &lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="01b234fe1a185c3a9f3804f284fcc8e2" resname="form.email" approved="yes">
+      <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target state="translated">email</target>
       </trans-unit>
-      <trans-unit id="e5643f8a9f067d1a42c18a78ed0b469d" resname="form.firstName" approved="yes">
+      <trans-unit id="form.firstName" approved="yes">
         <source>form.firstName</source>
         <target state="translated">Tên gọi</target>
       </trans-unit>
-      <trans-unit id="90c6625c02db5919924fb36f0e9efb63" resname="form.lastName" approved="yes">
+      <trans-unit id="form.lastName" approved="yes">
         <source>form.lastName</source>
         <target state="translated">Họ</target>
       </trans-unit>
-      <trans-unit id="5351aae16cf99cb2a1cd701770608927" resname="form.password" approved="yes">
+      <trans-unit id="form.password" approved="yes">
         <source>form.password</source>
         <target state="translated">Mật khẩu</target>
       </trans-unit>
-      <trans-unit id="dd602f68a209e7ad43d255223c273229" resname="form.password_confirmation" approved="yes">
+      <trans-unit id="form.password_confirmation" approved="yes">
         <source>form.password_confirmation</source>
         <target state="translated">Xác nhận mật khẩu</target>
       </trans-unit>
-      <trans-unit id="3667cc0b146684942ce0704d5e42a9b2" resname="fos_user.password.mismatch" approved="yes">
+      <trans-unit id="fos_user.password.mismatch" approved="yes">
         <source>fos_user.password.mismatch</source>
         <target state="translated">.</target>
       </trans-unit>
-    <trans-unit id="382ba41746874fac96eb5077d717b3e4" resname="app.userRegister.success" approved="yes">
+    <trans-unit id="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
         <target state="translated">Thành công</target>
       </trans-unit>

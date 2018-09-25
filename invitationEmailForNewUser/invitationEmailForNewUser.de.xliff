@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c21" resname="app.invitationEmailForNewUser.firstPart" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.firstPart" approved="yes">
         <source>app.invitationEmailForNewUser.firstPart</source>
         <target state="translated">Sehr geehrte Damen und Herren,&lt;br&gt;&lt;br&gt; Sie wurden als Nutzer</target>
       </trans-unit>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c22" resname="app.invitationEmailForNewUser.categoryPart" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.categoryPart" approved="yes">
         <source>app.invitationEmailForNewUser.categoryPart</source>
         <target state="translated">für den Bereich %category%</target>
       </trans-unit>
-      <trans-unit id="28ca3dcd8e0044cfa2db980a20073c23" resname="app.invitationEmailForNewUser.secondPart" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.secondPart" approved="yes">
         <source>app.invitationEmailForNewUser.secondPart</source>
         <target state="translated">bei %company% hinzugefügt. Nach einmaliger Anmeldung können Sie nun bei Transport Talent Stellenanzeigen für Ihr Unternehmen verwalten. Transport Talent ist ein Netzwerk für die Transport- und Logistikbranche, über welches Unternehmen ihre Vakanzen veröffentlichen können. Klicken Sie auf den folgenden Link, um ganz einfach ein Nutzerkonto bei Transport Talent anzulegen. &lt;br&gt;&lt;br&gt; %linkToRegistrationProcess% &lt;br&gt;&lt;br&gt;Bei Fragen erreichen Sie uns telefonisch unter +49 40 53 799 14 00, über den Chat auf unserer Website oder indem Sie einfach auf diese E-Mail antworten.&lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen&lt;br&gt; Ihr Team bei Transport Talent</target>
       </trans-unit>
-      <trans-unit id="555a3f735ce942b9a66bc081f5a453d3" resname="app.invitationEmailForNewUser.subject" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.subject" approved="yes">
         <source>app.invitationEmailForNewUser.subject</source>
         <target state="translated">Sie wurden eingeladen, auf Transport Talent Stellen für %company% zu verwalten</target>
       </trans-unit>

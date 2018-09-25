@@ -5,55 +5,55 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143911" resname="app.flash.companyUnsaved" approved="yes">
+        <trans-unit id="app.flash.companyUnsaved" approved="yes">
           <source>app.flash.companyUnsaved</source>
           <target state="translated">Компания удалена из профиля</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143910" resname="app.flash.companySaved" approved="yes">
+        <trans-unit id="app.flash.companySaved" approved="yes">
           <source>app.flash.companySaved</source>
           <target state="translated">Компания сохранена в профиль</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143909" resname="app.flash.jobUnsaved" approved="yes">
+        <trans-unit id="app.flash.jobUnsaved" approved="yes">
           <source>app.flash.jobUnsaved</source>
           <target state="translated">Вакансия удалена из профиля</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143908" resname="app.flash.jobSaved" approved="yes">
+        <trans-unit id="app.flash.jobSaved" approved="yes">
           <source>app.flash.jobSaved</source>
           <target state="translated">Вакансия сохранена в профиль</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143657" resname="app.flash.referral.linkCopiedToClipboard" approved="yes">
+        <trans-unit id="app.flash.referral.linkCopiedToClipboard" approved="yes">
           <source>app.flash.referral.linkCopiedToClipboard</source>
           <target state="translated">Ссылка скопирована</target>
         </trans-unit>
-        <trans-unit id="fd1c43aaf1225902e33d8493f1143658" resname="app.flash.error" approved="yes">
+        <trans-unit id="app.flash.error" approved="yes">
           <source>app.flash.error</source>
           <target state="translated">Ошибка</target>
         </trans-unit>
-        <trans-unit id="e8c4a10b815f4756b09b5689f2a68b78" resname="app.flash.oauthError" approved="yes">
+        <trans-unit id="app.flash.oauthError" approved="yes">
           <source>app.flash.oauthError</source>
           <target state="translated">Не получилось войти через %serviceName%, пожалуйста, попробуйте снова</target>
         </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b2d" resname="app.flash.job.employer.cantEditJobs" approved="yes">
+        <trans-unit id="app.flash.job.employer.cantEditJobs" approved="yes">
           <source>app.flash.job.employer.cantEditJobs</source>
           <target state="translated">Вы не можете редактировать эту вакансию</target>
         </trans-unit>
-        <trans-unit id="27c50b3a6c3f6cb0206ece2239172b21" resname="app.flash.job.employer.cantPostJobs" approved="yes">
+        <trans-unit id="app.flash.job.employer.cantPostJobs" approved="yes">
           <source>app.flash.job.employer.cantPostJobs</source>
           <target state="translated">Вы не можете публиковать вакансии</target>
         </trans-unit>
-        <trans-unit id="6ed318d84f7ca6039536286489086f55" resname="app.flash.job.employer.saved" approved="yes">
+        <trans-unit id="app.flash.job.employer.saved" approved="yes">
           <source>app.flash.job.employer.saved</source>
           <target state="translated">Вакансия сохранена</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa946" resname="app.flashMessageJobPosted" approved="yes">
+        <trans-unit id="app.flashMessageJobPosted" approved="yes">
           <source>app.flashMessageJobPosted</source>
           <target state="translated">Ваша вакансия опубликована</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa811" resname="app.flash.cv.upload.error.general" approved="yes">
+        <trans-unit id="app.flash.cv.upload.error.general" approved="yes">
           <source>app.flash.cv.upload.error.general</source>
           <target state="translated">Ошибка при загрузке резюме</target>
         </trans-unit>
-        <trans-unit id="0476595b0502266d74e5e621d2eaa812" resname="app.flash.cv.upload.error.wrongType" approved="yes">
+        <trans-unit id="app.flash.cv.upload.error.wrongType" approved="yes">
           <source>app.flash.cv.upload.error.wrongType</source>
           <target state="translated">Файл должен быть в формате PDF</target>
         </trans-unit>

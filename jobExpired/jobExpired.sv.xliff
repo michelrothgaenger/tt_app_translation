@@ -5,27 +5,27 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="89045bb424fc0179ad967b680ead77c5" resname="app.jobExpiredPageTitle" approved="yes">
+      <trans-unit id="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
         <target state="translated">This job has expired</target>
       </trans-unit>
-      <trans-unit id="a6f0264f846757b827b405f6d76f35df" resname="app.metaDescriptionExpiredPage" approved="yes">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
         <target state="translated">This job posting is no longer active. Save job ads to your Transport Talent profile to access them at any time.</target>
       </trans-unit>
-      <trans-unit id="e61dbaca91e16b1d8218a0b0f2c9b243" resname="app.jobExpiredPageDesc" approved="yes">
+      <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
         <target state="translated"><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>
       </trans-unit>
-      <trans-unit id="0c0ffef584966e605cd17cf271df4c6c" resname="app.signUpNow" approved="yes">
+      <trans-unit id="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target state="translated">Register now - it's free</target>
       </trans-unit>
-      <trans-unit id="dff4ec2028b872d82cf7ebf511d8747e" resname="app.searchRelatedJobs" approved="yes">
+      <trans-unit id="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
         <target state="translated">Search related jobs</target>
       </trans-unit>
-      <trans-unit id="00ea5b877f9c884ab4d605d24ec1b6bc" resname="app.browseRelatedJobs" approved="yes">
+      <trans-unit id="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
         <target state="translated">Browse related jobs</target>
       </trans-unit>

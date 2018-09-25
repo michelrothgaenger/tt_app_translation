@@ -5,183 +5,183 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="5216fd93b79a5120ec167bb381f91460" resname="app.editJobHeadline" approved="yes">
+      <trans-unit id="app.editJobHeadline" approved="yes">
         <source>app.editJobHeadline</source>
         <target state="translated">Rediger job</target>
       </trans-unit>
-      <trans-unit id="0a9236eff0b2fa7e6c09e5706bd7204a" resname="app.postJobHeadline" approved="yes">
+      <trans-unit id="app.postJobHeadline" approved="yes">
         <source>app.postJobHeadline</source>
         <target state="translated">Slå job op</target>
       </trans-unit>
-      <trans-unit id="0fe9abb1584eaf3014007a14d9fa41b0" resname="app.crudJobHeadlineDesc" approved="yes">
+      <trans-unit id="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
         <target state="translated">Udfyld de nødvendige oplysninger nedenfor og gem dem.</target>
       </trans-unit>
-      <trans-unit id="8b01a1755b68fa52cdcbda06915effc1" resname="app.employerJobCRUD.buttonLabel.cancel" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.cancel" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target state="translated">Abryd og gå tilbage til listen</target>
       </trans-unit>
-      <trans-unit id="32d746f64e514fcbbc3731e4395b1a13" resname="app.employerJobEdit.info.postTitle" approved="yes">
+      <trans-unit id="app.employerJobEdit.info.postTitle" approved="yes">
         <source>app.employerJobEdit.info.postTitle</source>
         <target state="translated">Jobopslag</target>
       </trans-unit>
-      <trans-unit id="5158e8e600ef4dc38be50a88e254748d" resname="app.employerJobEdit.info.jobId" approved="yes">
+      <trans-unit id="app.employerJobEdit.info.jobId" approved="yes">
         <source>app.employerJobEdit.info.jobId</source>
         <target state="translated">Job ID:</target>
       </trans-unit>
-      <trans-unit id="e70d6dd891de48d8822aff97c3d8dd5d" resname="app.email" approved="yes">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">Kontakt email</target>
       </trans-unit>
-      <trans-unit id="5b55318070dd1685bafa664fff143a57" resname="app.jobTitle" approved="yes">
+      <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target state="translated">Jobtitel</target>
       </trans-unit>
-      <trans-unit id="4f9ebae903dfbfb8ccbfa25601ddfc06" resname="app.salary" approved="yes">
+      <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
         <target state="translated">Løn</target>
       </trans-unit>
-      <trans-unit id="b285825bb4d88f9ae11ab7866cd0900d" resname="app.department" approved="yes">
+      <trans-unit id="app.department" approved="yes">
         <source>app.department</source>
         <target state="translated">Afdeling</target>
       </trans-unit>
-      <trans-unit id="af0862700a3daf94a87d39563ec91fa3" resname="app.employmentType" approved="yes">
+      <trans-unit id="app.employmentType" approved="yes">
         <source>app.employmentType</source>
         <target state="translated">Ansættelsestype</target>
       </trans-unit>
-      <trans-unit id="22d445a2236dd9b1ada6f4df12576602" resname="app.city" approved="yes">
+      <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">By</target>
       </trans-unit>
-      <trans-unit id="ea2f42eddfe215a8a9411a05f31fde55" resname="app.state" approved="yes">
+      <trans-unit id="app.state" approved="yes">
         <source>app.state</source>
         <target state="translated">Region</target>
       </trans-unit>
-      <trans-unit id="bfd97c0969f28a99a9b729c927fc1607" resname="app.country" approved="yes">
+      <trans-unit id="app.country" approved="yes">
         <source>app.country</source>
         <target state="translated">Land</target>
       </trans-unit>
-      <trans-unit id="3fe03121e3b58897a77dbf9d04406728" resname="app.contractTerm" approved="yes">
+      <trans-unit id="app.contractTerm" approved="yes">
         <source>app.contractTerm</source>
         <target state="translated">Kontraktperiode</target>
       </trans-unit>
-      <trans-unit id="57113d3492153916789e7339f05dec99" resname="app.jobDescription" approved="yes">
+      <trans-unit id="app.jobDescription" approved="yes">
         <source>app.jobDescription</source>
         <target state="translated">Beskrivelse</target>
       </trans-unit>
-      <trans-unit id="8515edbedae7b1b1999d13702f148e78" resname="app.save" approved="yes">
+      <trans-unit id="app.save" approved="yes">
         <source>app.save</source>
         <target state="translated">Gem</target>
       </trans-unit>
-      <trans-unit id="410a3405465687e94320cdb8675b4f19" resname="app.postAnotherJob" approved="yes">
+      <trans-unit id="app.postAnotherJob" approved="yes">
         <source>app.postAnotherJob</source>
         <target state="translated">Lav et nyt jobopslag</target>
       </trans-unit>
-      <trans-unit id="7cab6c0e9dcd49439b971605d33979c5" resname="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
         <target state="translated">Tag offline</target>
       </trans-unit>
-      <trans-unit id="e5ec522d2e864df0a9a9514559315c89" resname="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
         <target state="translated">Gør job offentligt nu</target>
       </trans-unit>
-      <trans-unit id="e2326198ca8144a584bd9b903cad0241" resname="app.employerJobCRUD.buttonLabel.preview" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.preview" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.preview</source>
         <target state="translated">Gennemse</target>
       </trans-unit>
-      <trans-unit id="e1945aa8232f4c0aa4e78c905c21cc12" resname="app.employerJobCRUD.buttonLabel.edit" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.edit" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.edit</source>
         <target state="translated">Rediger</target>
       </trans-unit>
-      <trans-unit id="19817cf6aed64332927e74ef8edf3310" resname="app.employerJobCRUD.delimiterLabel" approved="yes">
+      <trans-unit id="app.employerJobCRUD.delimiterLabel" approved="yes">
         <source>app.employerJobCRUD.delimiterLabel</source>
         <target state="translated">eller senere</target>
       </trans-unit>
-      <trans-unit id="6680d24c091a48388818a0479cfe3024" resname="app.employerJobCRUD.requiredErrorText" approved="yes">
+      <trans-unit id="app.employerJobCRUD.requiredErrorText" approved="yes">
         <source>app.employerJobCRUD.requiredErrorText</source>
         <target state="translated">Dette feldt er påkrævet.</target>
       </trans-unit>
-      <trans-unit id="8ab7350db20a4e6caec348ea76c309fc" resname="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
+      <trans-unit id="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
         <target state="translated">Dette felt er påkrævet for at slå job op senere.</target>
       </trans-unit>
-      <trans-unit id="49cd119a4f9d4f13b7f55f11884cc280" resname="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
         <target state="translated">SLÅ JOB OP SENERE</target>
       </trans-unit>
-      <trans-unit id="696116bd088248978fc7c142ae6bf3e2" resname="app.employerJobCRUD.saveJobForLaterButtonLabel" approved="yes">
+      <trans-unit id="app.employerJobCRUD.saveJobForLaterButtonLabel" approved="yes">
         <source>app.employerJobCRUD.saveJobForLaterButtonLabel</source>
         <target state="translated">GEM TIL SENERE</target>
       </trans-unit>
-      <trans-unit id="7c967134d70f42cd9acbac1af636d435" resname="app.employerJobCRUD.labelFromDate" approved="yes">
+      <trans-unit id="app.employerJobCRUD.labelFromDate" approved="yes">
         <source>app.employerJobCRUD.labelFromDate</source>
         <target state="translated">Fra</target>
       </trans-unit>
-      <trans-unit id="ef64a9fbab3c48839d15c1ca935b4e4d" resname="app.employerJobCRUD.labelFromTime" approved="yes">
+      <trans-unit id="app.employerJobCRUD.labelFromTime" approved="yes">
         <source>app.employerJobCRUD.labelFromTime</source>
         <target state="translated">på</target>
       </trans-unit>
-      <trans-unit id="a0bb972de5f04d389d333488a355b22e" resname="app.employerJobCRUD.labelAfterHourInput" approved="yes">
+      <trans-unit id="app.employerJobCRUD.labelAfterHourInput" approved="yes">
         <source>app.employerJobCRUD.labelAfterHourInput</source>
         <target state="translated">h</target>
       </trans-unit>
-      <trans-unit id="0e5bdbf1bedb43fd8133aa4edc9ecb66" resname="app.employerJobCRUD.disabledSelectOption" approved="yes">
+      <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
         <target state="translated">vælg en mulighed</target>
       </trans-unit>
-      <trans-unit id="523e6c14550747b69b5b9e2eb5bbe5ff" resname="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
+      <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Check venligt felter igen</target>
       </trans-unit>
-    <trans-unit id="32d746f64e514fcbbc3731e4395b1746" resname="app.employerJobEdit.info.editTitle" approved="yes">
+    <trans-unit id="app.employerJobEdit.info.editTitle" approved="yes">
         <source>app.employerJobEdit.info.editTitle</source>
         <target state="translated">Job redigering</target>
       </trans-unit>
-      <trans-unit id="cab16ec026242228b2789d44a6cd7e20" resname="app.profile.employer.jobs.title" approved="yes">
+      <trans-unit id="app.profile.employer.jobs.title" approved="yes">
           <source>app.profile.employer.jobs.title</source>
           <target state="translated">%company% jobs</target>
         </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029a" resname="app.profile.employer.jobs.description" approved="yes">
+        <trans-unit id="app.profile.employer.jobs.description" approved="yes">
           <source>app.profile.employer.jobs.description</source>
           <target state="translated">Nedenfor kan du se dine job opslag</target>
         </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029f" resname="app.profile.employer.jobs.meta.title" approved="yes">
+        <trans-unit id="app.profile.employer.jobs.meta.title" approved="yes">
           <source>app.profile.employer.jobs.meta.title</source>
           <target state="translated">%company% jobs</target>
         </trans-unit>
-        <trans-unit id="b2f0ce713f44b910f3ed6dcc25cf029b" resname="app.profile.employer.job.add" approved="yes">
+        <trans-unit id="app.profile.employer.job.add" approved="yes">
           <source>app.profile.employer.job.add</source>
           <target state="translated">Tilføj et job</target>
         </trans-unit>
-        <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029b" resname="app.jobs.searchForm.unpublished" approved="yes">
+        <trans-unit id="app.jobs.searchForm.unpublished" approved="yes">
           <source>app.jobs.searchForm.unpublished</source>
           <target state="translated">Vis upubliceret</target>
         </trans-unit>
-    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf029x" resname="app.reward" approved="yes">
+    <trans-unit id="app.reward" approved="yes">
           <source>app.reward</source>
           <target state="translated">Belønning til personen der anbefaler</target>
         </trans-unit>
-    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf030x" resname="app.job.form.referral.title" approved="yes">
+    <trans-unit id="app.job.form.referral.title" approved="yes">
         <source>app.job.form.referral.title</source>
         <target state="translated">Brug referral mulighed?</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf031x" resname="app.job.reward.greaterThanConstraint" approved="yes">
+      <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">Værdien skal være størrer eller lig med {{ compared_value }}.</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf032x" resname="app.email_confirmation" approved="yes">
+      <trans-unit id="app.email_confirmation" approved="yes">
         <source>app.email_confirmation</source>
         <target state="translated">Bekræft Kontakt Email</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf033x" resname="app.location" approved="yes">
+      <trans-unit id="app.location" approved="yes">
         <source>app.location</source>
         <target state="translated">Lokation</target>
       </trans-unit>
-      <trans-unit id="12f0ce713f44b910f3ed6dcc25cf034x" resname="app.currency" approved="yes">
+      <trans-unit id="app.currency" approved="yes">
         <source>app.currency</source>
         <target state="translated">Valuta</target>
       </trans-unit>
-    <trans-unit id="12f0ce713f44b910f3ed6dcc25cf035x" resname="app.employerJobCRUD.mismatchErrorText" approved="yes">
+    <trans-unit id="app.employerJobCRUD.mismatchErrorText" approved="yes">
         <source>app.employerJobCRUD.mismatchErrorText</source>
         <target state="translated">Emailadressen er forkert.</target>
       </trans-unit>

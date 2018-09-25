@@ -5,71 +5,71 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="3184266cee609ee6eb943835dbc9009d" resname="app.contact.meta.title" approved="yes">
+      <trans-unit id="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
         <target state="translated">Transport Talent - Contact us</target>
       </trans-unit>
-      <trans-unit id="95995ab87ac094c0a935199ccb8ef82c" resname="app.contact.h1">
+      <trans-unit id="app.contact.h1" approved="no">
         <source>app.contact.h1</source>
         <target>Contact us</target>
       </trans-unit>
-      <trans-unit id="544fa08269aca3d8079a8f44da35c09f" resname="app.contact.section.email.title" approved="yes">
+      <trans-unit id="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
         <target state="translated">Send us an e-mail for more information </target>
       </trans-unit>
-      <trans-unit id="62541e9fd9f11d801d9b075eab72e0a0" resname="app.contact.section.email.name">
+      <trans-unit id="app.contact.section.email.name" approved="no">
         <source>app.contact.section.email.name</source>
         <target>Name</target>
       </trans-unit>
-      <trans-unit id="e7967b9d2320c79ea67f243d2b441f45" resname="app.contact.section.email.email" approved="yes">
+      <trans-unit id="app.contact.section.email.email" approved="yes">
         <source>app.contact.section.email.email</source>
         <target state="translated">Send us an e-mail for more information</target>
       </trans-unit>
-      <trans-unit id="22780a31b6bcdc4ebc508ce4a0afdc38" resname="app.contact.section.email.subject">
+      <trans-unit id="app.contact.section.email.subject" approved="no">
         <source>app.contact.section.email.subject</source>
         <target>Subject</target>
       </trans-unit>
-      <trans-unit id="4296915edaceec1c657c1ecfc6ed759c" resname="app.contact.section.email.message">
+      <trans-unit id="app.contact.section.email.message" approved="no">
         <source>app.contact.section.email.message</source>
         <target>Message</target>
       </trans-unit>
-      <trans-unit id="84ef5f6c8eca039c45be4e8da3e4ba02" resname="app.contact.section.email.buttonLabel">
+      <trans-unit id="app.contact.section.email.buttonLabel" approved="no">
         <source>app.contact.section.email.buttonLabel</source>
         <target>Send</target>
       </trans-unit>
-      <trans-unit id="162b0f5f08b689b4f6145b49b0dc6ee4" resname="app.contact.section.email.thanksgiving">
+      <trans-unit id="app.contact.section.email.thanksgiving" approved="no">
         <source>app.contact.section.email.thanksgiving</source>
         <target>Thank you</target>
       </trans-unit>
-      <trans-unit id="eb1857245aa9d1f3475e9fb505f1e130" resname="app.contact.section.email.messageStatus" approved="yes">
+      <trans-unit id="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
         <target state="translated">Your message has been sent! We will be in touch soon.</target>
       </trans-unit>
-      <trans-unit id="a4ba051ce2ac3f3e0bd0f212ccd6617e" resname="app.contact.section.offices.title" approved="yes">
+      <trans-unit id="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
         <target state="translated">We are an internationally operating company. These are our offices:</target>
       </trans-unit>
-      <trans-unit id="56a4beec1aa5d82c82ad4f899756d729" resname="app.contact.section.offices.phone">
+      <trans-unit id="app.contact.section.offices.phone" approved="no">
         <source>app.contact.section.offices.phone</source>
         <target>Phone</target>
       </trans-unit>
-      <trans-unit id="fa07d96306437e66b1078a48efaa3afe" resname="app.contact.section.offices.directions.title">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="397858318d254782a5cd365f8fb3d06e" resname="app.contact.section.offices.directions.title">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="64293e7d1dd452a5c2b0dde8a90520de" resname="app.contact.page.confirm.meta.title">
+      <trans-unit id="app.contact.page.confirm.meta.title" approved="no">
         <source>app.contact.page.confirm.meta.title</source>
         <target>Confirmation</target>
       </trans-unit>
-      <trans-unit id="efffd505a8f5a08b899b2f60206b9689" resname="app.contact.page.confirm.h1">
+      <trans-unit id="app.contact.page.confirm.h1" approved="no">
         <source>app.contact.page.confirm.h1</source>
         <target>Thank you %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="58ed23f937b325f3cda5e34270d54b2a" resname="app.contact.page.confirm.description">
+      <trans-unit id="app.contact.page.confirm.description" approved="no">
         <source>app.contact.page.confirm.description</source>
         <target>Your request has been submitted successfully and will be considered quickly.</target>
       </trans-unit>

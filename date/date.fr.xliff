@@ -5,51 +5,51 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="034c2a2682554bafb135b437ceebfa28" resname="diff.ago.day" approved="yes">
+      <trans-unit id="diff.ago.day" approved="yes">
         <source>diff.ago.day</source>
         <target state="translated">il y a %count% jour|il y a %count% jours</target>
       </trans-unit>
-      <trans-unit id="be033df63b064d76a86c64a628caaf12" resname="diff.in.day" approved="yes">
+      <trans-unit id="diff.in.day" approved="yes">
         <source>diff.in.day</source>
         <target state="translated">dans %count% jour|in %count% days</target>
       </trans-unit>
-      <trans-unit id="132b14ed90524d3eb69b6cd45d75107b" resname="diff.ago.minute" approved="yes">
+      <trans-unit id="diff.ago.minute" approved="yes">
         <source>diff.ago.minute</source>
         <target state="translated">il y a %count% minute|il y a %count% minutes</target>
       </trans-unit>
-      <trans-unit id="736f2d03f00443e393e5203498473f55" resname="diff.in.minute" approved="yes">
+      <trans-unit id="diff.in.minute" approved="yes">
         <source>diff.in.minute</source>
         <target state="translated">dans %count% minute|dans %count% minutes</target>
       </trans-unit>
-      <trans-unit id="4fdec4fa4591410c8a68a92e6e2bfe7c" resname="diff.ago.second" approved="yes">
+      <trans-unit id="diff.ago.second" approved="yes">
         <source>diff.ago.second</source>
         <target state="translated">il y a %count% seconde|il y a%count% secondes</target>
       </trans-unit>
-      <trans-unit id="1a9fa314b94f4a159136195d26ed0b51" resname="diff.in.second" approved="yes">
+      <trans-unit id="diff.in.second" approved="yes">
         <source>diff.in.second</source>
         <target state="translated">dans %count% seconde|dans %count% secondes</target>
       </trans-unit>
-      <trans-unit id="16b4c0a32417451bb230baf7ee01bd24" resname="diff.ago.hour" approved="yes">
+      <trans-unit id="diff.ago.hour" approved="yes">
         <source>diff.ago.hour</source>
         <target state="translated">il y a %count% heure|il y a%count% heures</target>
       </trans-unit>
-      <trans-unit id="422163fdcf8c4d7b8640e86bdb128b4f" resname="diff.in.hour" approved="yes">
+      <trans-unit id="diff.in.hour" approved="yes">
         <source>diff.in.hour</source>
         <target state="translated">dans %count% heure|dans %count% heures</target>
       </trans-unit>
-      <trans-unit id="0a1150cbef1c48589a27eb311daeff23" resname="diff.ago.month" approved="yes">
+      <trans-unit id="diff.ago.month" approved="yes">
         <source>diff.ago.month</source>
         <target state="translated">il y a %count% mois|il y a %count% mois</target>
       </trans-unit>
-      <trans-unit id="196cd1c50ec9413187e30a5aef740716" resname="diff.in.month" approved="yes">
+      <trans-unit id="diff.in.month" approved="yes">
         <source>diff.in.month</source>
         <target state="translated">dans %count% mois|dans %count% mois</target>
       </trans-unit>
-      <trans-unit id="7adf693270424393956c717526a95261" resname="diff.ago.year" approved="yes">
+      <trans-unit id="diff.ago.year" approved="yes">
         <source>diff.ago.year</source>
         <target state="translated">il y a %count% an|il y a %count% ans</target>
       </trans-unit>
-      <trans-unit id="d3207fc5d3f6467c829f8002ad431a42" resname="diff.in.year" approved="yes">
+      <trans-unit id="diff.in.year" approved="yes">
         <source>diff.in.year</source>
         <target state="translated">dans %count% an|dans %count% ans</target>
       </trans-unit>

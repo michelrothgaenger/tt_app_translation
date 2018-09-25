@@ -5,75 +5,75 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="7c9ccec351ada962f945ffeb5d2aecd0" resname="app.profile" approved="yes">
+      <trans-unit id="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="eb6ccf748d59473a1259ff13626ca298" resname="app.signOut" approved="yes">
+      <trans-unit id="app.signOut" approved="yes">
         <source>app.signOut</source>
         <target state="translated">Abmelden</target>
       </trans-unit>
-      <trans-unit id="a1fd6f74f2f5edb39a829b8b7b15a751" resname="app.signIn" approved="yes">
+      <trans-unit id="app.signIn" approved="yes">
         <source>app.signIn</source>
         <target state="translated">Anmelden</target>
       </trans-unit>
-      <trans-unit id="00cf66e5655d640ef23b1d5858fe474e" resname="app.signUp" approved="yes">
+      <trans-unit id="app.signUp" approved="yes">
         <source>app.signUp</source>
         <target state="translated">Registrieren</target>
       </trans-unit>
-      <trans-unit id="93d7ab5f657c642120a0be2bb0a85175" resname="app.forEmployers" approved="yes">
+      <trans-unit id="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
         <target state="translated">Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="251aa82b5dfe79c66da8a876eefd07fc" resname="app.aboutUs" approved="yes">
+      <trans-unit id="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
         <target state="translated">Über uns</target>
       </trans-unit>
-      <trans-unit id="70a09c86058a9743ada2e1a92f08fe16" resname="app.termsConditions" approved="yes">
+      <trans-unit id="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
         <target state="translated">Allgemeine Geschäftsbedingungen</target>
       </trans-unit>
-      <trans-unit id="c2981e4ff362be6939ea30016b57947f" resname="app.dataPrivacy" approved="yes">
+      <trans-unit id="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
         <target state="translated">Datenschutz</target>
       </trans-unit>
-      <trans-unit id="dfd16d380781a1efb3566343c7f76a32" resname="app.contactUs" approved="yes">
+      <trans-unit id="app.contactUs" approved="yes">
         <source>app.contactUs</source>
         <target state="translated">Kontakt</target>
       </trans-unit>
-      <trans-unit id="72038d4be7b2234d28b3c5923a8f3ada" resname="app.imprint" approved="yes">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target state="translated">Impressum</target>
       </trans-unit>
-    <trans-unit id="66008a99eec6473896a12559c9d7cb3e" resname="app.footer.introductionLabel" approved="yes">
+    <trans-unit id="app.footer.introductionLabel" approved="yes">
         <source>app.footer.introductionLabel</source>
         <target state="translated">Angebote und Preise</target>
       </trans-unit>
-      <trans-unit id="4beb895ffd0d49c0be62ac9a118375a4" resname="app.footer.rowCandidates" approved="yes">
+      <trans-unit id="app.footer.rowCandidates" approved="yes">
         <source>app.footer.rowCandidates</source>
         <target state="translated">Benutzer</target>
       </trans-unit>
-      <trans-unit id="adbfff66753c4d5292f9d356aa21a6b3" resname="app.footer.rowHome" approved="yes">
+      <trans-unit id="app.footer.rowHome" approved="yes">
         <source>app.footer.rowHome</source>
         <target state="translated">Startseite</target>
       </trans-unit>
-      <trans-unit id="4610a2b8923f4e7088beba350cded0b5" resname="app.footer.rowJobs" approved="yes">
+      <trans-unit id="app.footer.rowJobs" approved="yes">
         <source>app.footer.rowJobs</source>
         <target state="translated">Stellenangebote</target>
       </trans-unit>
-      <trans-unit id="e4d4e80e634c44c997c9da52f305234a" resname="app.footer.rowCompanies" approved="yes">
+      <trans-unit id="app.footer.rowCompanies" approved="yes">
         <source>app.footer.rowCompanies</source>
         <target state="translated">Unternehmen</target>
       </trans-unit>
-      <trans-unit id="a1c3b170d7c94ec799548853ea96053e" resname="app.footer.rowEmployers" approved="yes">
+      <trans-unit id="app.footer.rowEmployers" approved="yes">
         <source>app.footer.rowEmployers</source>
         <target state="translated">Arbeitgeber</target>
       </trans-unit>
-      <trans-unit id="0eda874630144a00b6e446fd2e73a782" resname="app.footer.askHelpLabel" approved="yes">
+      <trans-unit id="app.footer.askHelpLabel" approved="yes">
         <source>app.footer.askHelpLabel</source>
         <target state="translated">Service</target>
       </trans-unit>
-      <trans-unit id="2f42ad16d2b044509b80a586981ce0ad" resname="app.blog" approved="yes">
+      <trans-unit id="app.blog" approved="yes">
         <source>app.blog</source>
         <target state="translated">Blog</target>
       </trans-unit>

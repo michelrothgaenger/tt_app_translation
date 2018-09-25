@@ -5,43 +5,43 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="febb417a5773e5897b0467102c28a699" resname="app.metaForSocialsSiteTitle" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteTitle" approved="yes">
         <source>app.metaForSocialsSiteTitle</source>
         <target state="translated">Jobs in transport, logistics and supply chain</target>
       </trans-unit>
-      <trans-unit id="915a4f8e2506eca2df19c13114f422be" resname="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
         <source>app.metaForSocialsSiteDescription</source>
         <target state="translated">At Transport Talent, we are dedicated to creating a platform where transport and logistics professionals can confidentially connect with the best employers in the industry.</target>
       </trans-unit>
-      <trans-unit id="d197f420fde2e8a8886df389e0c06486" resname="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="yes">
         <source>app.metaDescriptionBase</source>
         <target state="translated">At Transport Talent, we are dedicated to creating a platform where transport, logistics and supply chain professionals can confidentially connect with the best employers in the industry.</target>
       </trans-unit>
-      <trans-unit id="10931636d97438b6a1842cde767bbb8f" resname="app.cookieShortText" approved="yes">
+      <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
         <target state="translated">We use cookies on our website.</target>
       </trans-unit>
-      <trans-unit id="528f221d0bfd748e07fa755c91a48641" resname="app.cookieMessage" approved="yes">
+      <trans-unit id="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
         <target state="translated">We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our website. If you continue we'll assume that you are happy to receive all cookies on our website.</target>
       </trans-unit>
-      <trans-unit id="94cc0d97b7b76f2dd9fcc6ccb96c65b7" resname="app.cookiePolicyLinkText" approved="yes">
+      <trans-unit id="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
         <target state="translated">Read more about cookies and our cookie policy here.</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06478" resname="app.cookieButton" approved="yes">
+      <trans-unit id="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
         <target state="translated">Close</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06479" resname="app.index.intercomMapHeadline" approved="yes">
+      <trans-unit id="app.index.intercomMapHeadline" approved="yes">
         <source>app.index.intercomMapHeadline</source>
         <target state="translated"><![CDATA[We are <b>Transport Talent</b> with users in <b>126 countries.</b></br> When will <b>you join us?</b>]]></target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06480" resname="app.joinNow" approved="yes">
+      <trans-unit id="app.joinNow" approved="yes">
         <source>app.joinNow</source>
         <target state="translated">JOIN NOW</target>
       </trans-unit>
-      <trans-unit id="073200146c1028b99b0d13e6cdf06174" resname="app.layout.chat.title" approved="yes">
+      <trans-unit id="app.layout.chat.title" approved="yes">
         <source>app.layout.chat.title</source>
         <target state="translated">Ask your questions in our live chat</target>
       </trans-unit>

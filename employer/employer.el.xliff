@@ -5,43 +5,43 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="fb30027d33acaaa62d33c3f7d96f5b07" resname="app.companyProfile">
+      <trans-unit id="app.companyProfile" approved="no">
         <source>app.companyProfile</source>
         <target>Company profile</target>
       </trans-unit>
-      <trans-unit id="f5508b43ec0dd7b71a7ae852f2f8f42a" resname="app.employerInformation">
+      <trans-unit id="app.employerInformation" approved="no">
         <source>app.employerInformation</source>
         <target>Employer information</target>
       </trans-unit>
-      <trans-unit id="045de3e3882d65f917dd6bb96676f4d7" resname="app.numberOfEmployees">
+      <trans-unit id="app.numberOfEmployees" approved="no">
         <source>app.numberOfEmployees</source>
         <target>Number of employees</target>
       </trans-unit>
-      <trans-unit id="838b02679c2c2cecef5896c1f8b4b28f" resname="app.employees_lowercase" approved="yes">
+      <trans-unit id="app.employees_lowercase" approved="yes">
         <source>app.employees_lowercase</source>
         <target state="translated">εργαζόμενοι</target>
       </trans-unit>
-      <trans-unit id="c08ab921ca0cfece4e857f1c4e8a6da1" resname="app.headquater">
+      <trans-unit id="app.headquater" approved="no">
         <source>app.headquater</source>
         <target>Headquarter</target>
       </trans-unit>
-      <trans-unit id="d67207344437e43be0974aa72a7be2b1" resname="app.officesCountries">
+      <trans-unit id="app.officesCountries" approved="no">
         <source>app.officesCountries</source>
         <target>Offices/Countries</target>
       </trans-unit>
-      <trans-unit id="a099be7491df3991686d8d71722d44b4" resname="app.mainActivities">
+      <trans-unit id="app.mainActivities" approved="no">
         <source>app.mainActivities</source>
         <target>Main Activities</target>
       </trans-unit>
-      <trans-unit id="748b274579380be9b537c239528f53a5" resname="app.website">
+      <trans-unit id="app.website" approved="no">
         <source>app.website</source>
         <target>Ιστοσελίδα</target>
       </trans-unit>
-      <trans-unit id="2ccd03ae8882e600541e923dc311b6e4" resname="app.noCompanyDescription">
+      <trans-unit id="app.noCompanyDescription" approved="no">
         <source>app.noCompanyDescription</source>
         <target>Company description unavailable</target>
       </trans-unit>
-      <trans-unit id="2031f28cf711ad50fd2204fd8e6a2c80" resname="app.saveToProfilePage">
+      <trans-unit id="app.saveToProfilePage" approved="no">
         <source>app.saveToProfilePage</source>
         <target>Αποθήκευση στην ιστοσελίδα του λογαριασμού</target>
       </trans-unit>

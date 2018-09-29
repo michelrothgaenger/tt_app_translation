@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
-        <target state="translated">elige una opción</target>
+        <target state="translated">--elige una opción--</target>
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
@@ -170,10 +170,6 @@
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">El valor ha de se mayor o igual que {{ compared_value }}.</target>
       </trans-unit>
-      <trans-unit id="app.email_confirmation" approved="yes">
-        <source>app.email_confirmation</source>
-        <target state="translated">Confirma tu dirección de correo</target>
-      </trans-unit>
       <trans-unit id="app.location" approved="yes">
         <source>app.location</source>
         <target state="translated">Localización</target>
@@ -181,10 +177,6 @@
     <trans-unit id="app.currency" approved="yes">
         <source>app.currency</source>
         <target state="translated">Moneda</target>
-      </trans-unit>
-    <trans-unit id="app.employerJobCRUD.mismatchErrorText" approved="yes">
-        <source>app.employerJobCRUD.mismatchErrorText</source>
-        <target state="translated">Las direcciones de correo no coinciden.</target>
       </trans-unit>
     <trans-unit id="app.job.chooseCurrency" approved="yes">
         <source>app.job.chooseCurrency</source>

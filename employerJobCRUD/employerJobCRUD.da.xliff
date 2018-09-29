@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
-        <target state="translated">vælg en mulighed</target>
+        <target state="translated">--vælg en mulighed--</target>
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
@@ -169,10 +169,6 @@
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">Værdien skal være størrer eller lig med {{ compared_value }}.</target>
       </trans-unit>
-      <trans-unit id="app.email_confirmation" approved="yes">
-        <source>app.email_confirmation</source>
-        <target state="translated">Bekræft Kontakt Email</target>
-      </trans-unit>
       <trans-unit id="app.location" approved="yes">
         <source>app.location</source>
         <target state="translated">Lokation</target>
@@ -180,10 +176,6 @@
       <trans-unit id="app.currency" approved="yes">
         <source>app.currency</source>
         <target state="translated">Valuta</target>
-      </trans-unit>
-    <trans-unit id="app.employerJobCRUD.mismatchErrorText" approved="yes">
-        <source>app.employerJobCRUD.mismatchErrorText</source>
-        <target state="translated">Emailadressen er forkert.</target>
       </trans-unit>
     </body>
   </file>

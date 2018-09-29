@@ -115,7 +115,11 @@
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
-        <target state="translated">select an option</target>
+        <target state="translated">--select an option--</target>
+      </trans-unit>
+      <trans-unit id="app.job.template.label" approved="no">
+        <source>app.job.template.label</source>
+        <target>Choose Template</target>
       </trans-unit>
       <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
@@ -153,10 +157,6 @@
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">This value must be greater than or equal to {{ compared_value }}.</target>
       </trans-unit>
-      <trans-unit id="app.email_confirmation" approved="yes">
-        <source>app.email_confirmation</source>
-        <target state="translated">Confirm contact email</target>
-      </trans-unit>
       <trans-unit id="app.location" approved="yes">
         <source>app.location</source>
         <target state="translated">Location</target>
@@ -164,10 +164,6 @@
       <trans-unit id="app.currency" approved="yes">
         <source>app.currency</source>
         <target state="translated">Currency</target>
-      </trans-unit>
-      <trans-unit id="app.employerJobCRUD.mismatchErrorText" approved="yes">
-        <source>app.employerJobCRUD.mismatchErrorText</source>
-        <target state="translated">Email addresses don't match.</target>
       </trans-unit>
       <trans-unit id="app.job.chooseCurrency" approved="yes">
         <source>app.job.chooseCurrency</source>

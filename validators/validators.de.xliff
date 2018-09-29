@@ -29,10 +29,6 @@
                 <source>app.employerRegister.companyName.notBlank</source>
                 <target state="translated">Unternehmen darf nicht leer sein.</target>
             </trans-unit>
-            <trans-unit id="app.email.mismatch" approved="yes">
-                <source>app.email.mismatch</source>
-                <target state="translated">E-Mail-Adressen stimmen nicht überein.</target>
-            </trans-unit>
             <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
                 <source>app.job.reward.greaterThanConstraint</source>
                 <target state="translated">Der Mindestbetrag für Belohnungen liegt bei {{ compared_value }} für Ihr Unternehmen.</target>

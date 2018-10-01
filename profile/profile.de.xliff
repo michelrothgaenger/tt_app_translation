@@ -1162,6 +1162,18 @@
         <source>app.profile.onLoginPopup.welcome</source>
         <target>Willkommen, %firstName%!</target>
       </trans-unit>
-      </body>
+      <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
+        <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
+        <target>Personalberater</target>
+      </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
+        <source>app.profile.onLoginPopup.showThisWindow</source>
+        <target>Dieses Fenster bei jeder Anmeldung zeigen</target>
+      </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.closeWindow" approved="no">
+        <source>app.profile.onLoginPopup.closeWindow</source>
+        <target>Fenster schließen</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>

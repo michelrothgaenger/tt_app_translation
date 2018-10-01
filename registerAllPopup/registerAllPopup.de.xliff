@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.registerAllPopup.title" approved="no">
+        <source>app.registerAllPopup.title</source>
+        <target>Join the logistics industry's leading recruitment platform!</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.description" approved="no">
+        <source>app.registerAllPopup.description</source>
+        <target>To join Transport Talent, sign up below. It is free for everyone!</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
+        <source>app.registerAllPopup.employerTitle</source>
+        <target>I am hiring</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.employerText" approved="no">
+        <source>app.registerAllPopup.employerText</source>
+        <target>Screen only pre-qualified candidates referred from industry experts. Pay only for success.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.recruiterTitle" approved="no">
+        <source>app.registerAllPopup.recruiterTitle</source>
+        <target>I am recruiting</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.recruiterText" approved="no">
+        <source>app.registerAllPopup.recruiterText</source>
+        <target>Make the most of your candidates.  Get access top positions with top employers.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.professionalTitle" approved="no">
+        <source>app.registerAllPopup.professionalTitle</source>
+        <target>I want to share jobs</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.professionalText" approved="no">
+        <source>app.registerAllPopup.professionalText</source>
+        <target>Help your friends and get rewarded. Share jobs on your social networks.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
+        <source>app.registerAllPopup.registerBtn</source>
+        <target>Register</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.alreadyRegistered" approved="no">
+        <source>app.registerAllPopup.alreadyRegistered</source>
+        <target>Already registered?</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.loginHere" approved="no">
+        <source>app.registerAllPopup.loginHere</source>
+        <target> Login here</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Employer.title" approved="no">
+        <source>app.registerAllPopup.Employer.title</source>
+        <target>Join as Employer</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Employer.text" approved="no">
+        <source>app.registerAllPopup.Employer.text</source>
+        <target>Join the companies who save time and money by hiring with Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Recruiter.title" approved="no">
+        <source>app.registerAllPopup.Recruiter.title</source>
+        <target>Join as Recruiter</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Recruiter.text" approved="no">
+        <source>app.registerAllPopup.Recruiter.text</source>
+        <target>To join Transport Talent, sign up below...it's free to join!</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Professional.title" approved="no">
+        <source>app.registerAllPopup.Professional.title</source>
+        <target>Join as Professional</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.Professional.text" approved="no">
+        <source>app.registerAllPopup.Professional.text</source>
+        <target>Join the people who’ve found their job using Transport Talent.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.part1" approved="no">
+        <source>app.registerAllPopup.confirmation.part1</source>
+        <target>I agree to the </target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.part2" approved="no">
+        <source>app.registerAllPopup.confirmation.part2</source>
+        <target><![CDATA[terms & conditions]]></target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.part3" approved="no">
+        <source>app.registerAllPopup.confirmation.part3</source>
+        <target> as well as to the privacy policy.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.note.part1" approved="no">
+        <source>app.registerAllPopup.confirmation.note.part1</source>
+        <target>Please confirm that you agree to our </target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.note.part2" approved="no">
+        <source>app.registerAllPopup.confirmation.note.part2</source>
+        <target><![CDATA[terms & conditions]]></target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.confirmation.note.part3" approved="no">
+        <source>app.registerAllPopup.confirmation.note.part3</source>
+        <target> as well as to the privacy policy to proceed.</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.backLink" approved="no">
+        <source>app.registerAllPopup.backLink</source>
+        <target>Back</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

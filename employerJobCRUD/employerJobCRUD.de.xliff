@@ -45,10 +45,6 @@
         <source>app.department</source>
         <target state="translated">Bereich</target>
       </trans-unit>
-      <trans-unit id="app.employmentType" approved="yes">
-        <source>app.employmentType</source>
-        <target state="translated">Anstellungsart</target>
-      </trans-unit>
       <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">Stadt</target>
@@ -261,14 +257,6 @@
       <trans-unit id="app.job.salary.1.25-1.5M" approved="yes">
         <source>app.job.salary.1.25-1.5M</source>
         <target state="translated">1,25–1,5M</target>
-      </trans-unit>
-    <trans-unit id="app.job.timezone.label" approved="yes">
-        <source>app.job.timezone.label</source>
-        <target state="translated">Zeitzone (wenn der Veröffentlichtungszeitpunkt sich an einer anderen Zeitzone orientieren soll)</target>
-      </trans-unit>
-      <trans-unit id="app.job.timezone.placeholder" approved="yes">
-        <source>app.job.timezone.placeholder</source>
-        <target state="translated">Zeitzone wählen</target>
       </trans-unit>
       <trans-unit id="app.job.chooseSalary" approved="yes">
         <source>app.job.chooseSalary</source>

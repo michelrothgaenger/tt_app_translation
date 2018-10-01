@@ -45,10 +45,6 @@
         <source>app.department</source>
         <target state="translated">Afdeling</target>
       </trans-unit>
-      <trans-unit id="app.employmentType" approved="yes">
-        <source>app.employmentType</source>
-        <target state="translated">Ansættelsestype</target>
-      </trans-unit>
       <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target state="translated">By</target>

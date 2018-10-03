@@ -141,6 +141,10 @@
             <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
             <target>Dashboard</target>
         </trans-unit>
+        <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+          <source>app.jobs.replaceCompanyName</source>
+          <target>Transport Talent of behalf of a client</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

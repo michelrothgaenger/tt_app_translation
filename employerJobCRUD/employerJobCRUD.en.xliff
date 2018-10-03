@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
-        <target state="translated">Job title</target>
+        <target state="translated">Job Title</target>
       </trans-unit>
       <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
@@ -260,6 +260,14 @@
       <trans-unit id="app.job.blinding.title" approved="no">
         <source>app.job.blinding.title</source>
         <target>Blind job Posting</target>
+      </trans-unit>
+      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="no">
+        <source>app.employerJobCRUD.disabledSelectPreviousJobPosting</source>
+        <target>--select a previous job posting--</target>
+      </trans-unit>
+      <trans-unit id="app.job.targetAnnualSalary.title" approved="no">
+        <source>app.job.targetAnnualSalary.title</source>
+        <target>Target Annual Salary</target>
       </trans-unit>
     </body>
   </file>

@@ -517,9 +517,9 @@
         <source>app.register.profile.email.placeholder</source>
         <target state="translated">email@domain.com</target>
       </trans-unit>
-      <trans-unit id="app.register.profile.dateOfLeave.label" approved="yes">
+      <trans-unit id="app.register.profile.dateOfLeave.label" approved="no">
         <source>app.register.profile.dateOfLeave.label</source>
-        <target state="translated">Your approximate date of leave</target>
+        <target state="translated">Notice period</target>
       </trans-unit>
       <trans-unit id="app.register.profile.dateOfLeave.placeholder" approved="yes">
         <source>app.register.profile.dateOfLeave.placeholder</source>
@@ -553,9 +553,9 @@
          <source>app.register.profile.CV.uploaded</source>
          <target state="translated">CV uploaded</target>
      </trans-unit>
-     <trans-unit id="app.register.profile.dateOfLeave.error" approved="yes">
+     <trans-unit id="app.register.profile.dateOfLeave.error" approved="no">
          <source>app.register.profile.dateOfLeave.error</source>
-         <target state="translated">Choose your approximate date of leave</target>
+         <target state="translated">Notice Period</target>
      </trans-unit>
      <trans-unit id="form.dateLeaveLabel" approved="yes">
          <source>form.dateLeaveLabel</source>

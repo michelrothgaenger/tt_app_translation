@@ -484,11 +484,31 @@
         </trans-unit>
         <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
             <source>app.job.recruiterNotApprovedPopup.info</source>
-            <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
+            <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie Transport Talent mit allen Funktionen nutzen.</target>
         </trans-unit>
         <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="no">
             <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
             <target>Dashboard</target>
+        </trans-unit>
+    <trans-unit id="app.job.loginPopup.title" approved="no">
+            <source>app.job.loginPopup.title</source>
+            <target>Anmelden</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.description" approved="no">
+            <source>app.job.loginPopup.description</source>
+            <target>Sie müssen sich zuerst anmelden, um Zugang zu allen Jobs und Dienstleistungen auf der Website zu erhalten.</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.employerLoginLin" approved="no">
+            <source>app.job.loginPopup.employerLoginLink</source>
+            <target>Sind Sie ein Arbeitgeber? Melden Sie sich hier an.</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.notRegisteredYet" approved="no">
+            <source>app.job.loginPopup.notRegisteredYet</source>
+            <target>Noch nicht registriert?</target>
+        </trans-unit>
+        <trans-unit id="app.job.loginPopup.signUpHer" approved="no">
+            <source>app.job.loginPopup.signUpHere</source>
+            <target>Registrieren Sie sich hier.</target>
         </trans-unit>
     </body>
   </file>

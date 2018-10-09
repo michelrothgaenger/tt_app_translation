@@ -477,9 +477,9 @@
             <source>app.job.recruiterNotApprovedPopup.title</source>
             <target>Hi</target>
         </trans-unit>
-        <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
+        <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
             <source>app.job.recruiterNotApprovedPopup.info</source>
-            <target>your registration request was submitted for approval. Once approved you can use TT with all functions. </target>
+            <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
         </trans-unit>
         <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
             <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>

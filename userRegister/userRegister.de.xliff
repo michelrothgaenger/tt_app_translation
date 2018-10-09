@@ -469,9 +469,9 @@
          <source>app.register.profile.CV.uploaded</source>
          <target state="translated">Lebenslauf hochgeladen</target>
       </trans-unit>
-      <trans-unit id="app.register.profile.dateOfLeave.error" approved="yes">
+      <trans-unit id="app.register.profile.dateOfLeave.error" approved="no">
          <source>app.register.profile.dateOfLeave.error</source>
-         <target state="translated">Frühestes Startdatum</target>
+         <target state="translated">Kündigungsfrist</target>
       </trans-unit>
     <trans-unit id="app.userRegister.step2.agreementPart3" approved="yes">
         <source>app.userRegister.step2.agreementPart3</source>

@@ -489,6 +489,10 @@
           <source>app.job.replaceCompanyName</source>
           <target>Transport Talent of behalf of a client</target>
         </trans-unit>
+        <trans-unit id="app.jobs.blinding.title" approved="no">
+          <source>app.jobs.blinding.title</source>
+          <target>Blind job Posting</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

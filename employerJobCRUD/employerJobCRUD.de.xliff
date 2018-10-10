@@ -262,6 +262,10 @@
         <source>app.job.chooseSalary</source>
         <target state="translated">Gehalt wählen</target>
       </trans-unit>
+    <trans-unit id="app.jobCrud.company.label" approved="no">
+        <source>app.jobCrud.company.label</source>
+        <target state="translated">Unternehmen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

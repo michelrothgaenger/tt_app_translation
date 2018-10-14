@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target>Your application is still pending.</target>
+        <target>Your application is still pending</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
-        <target>Your application is still pending.</target>
+        <target>Your application is still pending</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>

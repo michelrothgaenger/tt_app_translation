@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.companyReminder.payment.subject" approved="no">
+        <source>app.companyReminder.payment.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.companyReminderPayment.content" approved="no">
+        <source>app.companyReminderPayment.content</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

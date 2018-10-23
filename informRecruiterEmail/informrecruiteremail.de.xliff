@@ -13,8 +13,8 @@
         <source>app.informRecruiterEmail.pendingConfirmation.content</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subjectt" approved="no">
-        <source>app.informRecruiterEmail.applicationConfirmed.subjectt</source>
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
+        <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
         <target state="translated"></target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">

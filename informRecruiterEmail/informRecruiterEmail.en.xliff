@@ -13,8 +13,8 @@
         <source>app.informRecruiterEmail.pendingConfirmation.content</source>
         <target state="translated">Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted an %candidateFirstName% %candidateLastName% for position %position%. Due data privacy reasons we send an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subjectt" approved="yes">
-        <source>app.informRecruiterEmail.applicationConfirmed.subjectt</source>
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
+        <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
         <target state="translated">Candidate was confirmed application</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">

@@ -29,9 +29,13 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Nuestra dirección de correo es:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="yes">
+      <trans-unit id="app.emailLayout.copyright" approved="no">
         <source>app.emailLayout.copyright</source>
-        <target state="translated">Derechos de autor © %year% Transport Talent ApS, Todos los derechos reservados.</target>
+        <target state="translated">Derechos de autor © %year% %companyName%, Todos los derechos reservados.</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+        <source>app.emailLayout.defaultCompanyName</source>
+        <target>Transport Talent ApS</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
+        <source>app.candidates.searchForm.term.placeholder</source>
+        <target>Use boolean operators AND, OR and NOT to get the best results</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.search.button" approved="no">
+        <source>app.candidates.search.button</source>
+        <target>Search</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
+        <source>app.candidates.searchForm.filterTitle</source>
+        <target state="translated">Filter</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
+        <source>app.candidates.searchForm.filterTitleShow</source>
+        <target state="translated">+ use filter</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
+        <source>app.candidates.searchForm.filterTitleHide</source>
+        <target state="translated">Hide filter</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
+        <source>app.candidates.searchForm.resetFilter</source>
+        <target state="translated">Reset filter</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
+        <source>app.candidates.searchForm.filterAdd</source>
+        <target state="translated">Add</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

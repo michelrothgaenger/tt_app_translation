@@ -37,6 +37,10 @@
         <source>app.findJobs</source>
         <target state="translated">Jobs</target>
       </trans-unit>
+      <trans-unit id="app.findCandidates" approved="no">
+        <source>app.findCandidates</source>
+        <target state="translated">Candidates</target>
+      </trans-unit>
       <trans-unit id="app.forCandidates" approved="yes">
         <source>app.forCandidates</source>
         <target state="translated">Сandidate</target>

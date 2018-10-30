@@ -5,6 +5,10 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="app.candidates.title" approved="no">
+        <source>app.candidates.title</source>
+        <target>Candidates search - </target>
+      </trans-unit>
       <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
         <source>app.candidates.searchForm.term.placeholder</source>
         <target>Use boolean operators AND, OR and NOT to get the best results</target>
@@ -15,23 +19,67 @@
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
         <source>app.candidates.searchForm.filterTitle</source>
-        <target state="translated">Filter</target>
+        <target>Filter</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
         <source>app.candidates.searchForm.filterTitleShow</source>
-        <target state="translated">+ use filter</target>
+        <target>+ use filter</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
         <source>app.candidates.searchForm.filterTitleHide</source>
-        <target state="translated">Hide filter</target>
+        <target>Hide filter</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
         <source>app.candidates.searchForm.resetFilter</source>
-        <target state="translated">Reset filter</target>
+        <target>Reset filter</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
         <source>app.candidates.searchForm.filterAdd</source>
-        <target state="translated">Add</target>
+        <target>Add</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.view" approved="no">
+        <source>app.candidates.view</source>
+        <target>View</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.title</source>
+        <target>Area of expertise</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.placeholder</source>
+        <target>e. g. Tax</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.title" approved="no">
+        <source>app.candidates.filter.location.title</source>
+        <target>Place of residence</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.placeholder" approved="no">
+        <source>app.candidates.filter.location.placeholder</source>
+        <target>e. g. Country / Location</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.title" approved="no">
+        <source>app.candidates.filter.category.title</source>
+        <target>Preferred job categories</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.placeholder" approved="no">
+        <source>app.candidates.filter.category.placeholder</source>
+        <target>e. g. Ocean Freight</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.title" approved="no">
+        <source>app.candidates.filter.preferredLocation.title</source>
+        <target><![CDATA[Preferred regions & countries]]></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="no">
+        <source>app.candidates.filter.preferredLocation.placeholder</source>
+        <target>e. g. Country / Location</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.title" approved="no">
+        <source>app.candidates.filter.salary.title</source>
+        <target>Salary range</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.placeholder" approved="no">
+        <source>app.candidates.filter.salary.placeholder</source>
+        <target>Salary range</target>
       </trans-unit>
     </body>
   </file>

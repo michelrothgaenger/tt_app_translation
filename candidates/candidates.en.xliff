@@ -81,6 +81,10 @@
         <source>app.candidates.filter.salary.placeholder</source>
         <target>Salary range</target>
       </trans-unit>
+      <trans-unit id="app.noCandidatesFound" approved="no">
+        <source>app.noCandidatesFound</source>
+        <target>No candidates found</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

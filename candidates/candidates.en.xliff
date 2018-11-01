@@ -85,6 +85,14 @@
         <source>app.noCandidatesFound</source>
         <target>No candidates found</target>
       </trans-unit>
+      <trans-unit id="app.noticePeriod" approved="no">
+        <source>app.noticePeriod</source>
+        <target>notice period</target>
+      </trans-unit>
+      <trans-unit id="app.salary" approved="no">
+        <source>app.salary</source>
+        <target>salary</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

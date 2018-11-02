@@ -87,7 +87,7 @@
       </trans-unit>
       <trans-unit id="app.jobs.selectAutocompleteItem" approved="no">
         <source>app.jobs.selectAutocompleteItem</source>
-        <target state="translated">Bitte wählen Sie ein Element der Liste, um fortzufahren</target>
+        <target state="translated">Bitte wählen Sie einen Eintrag aus der Liste, um fortzufahren!</target>
       </trans-unit>
     <trans-unit id="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>
@@ -140,6 +140,14 @@
         <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
             <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
             <target>Dashboard</target>
+        </trans-unit>
+    <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+          <source>app.jobs.replaceCompanyName</source>
+          <target>Transport Talent im Auftrag eines Kunden</target>
+        </trans-unit>
+        <trans-unit id="app.jobs.blinding.title" approved="no">
+          <source>app.jobs.blinding.title</source>
+          <target>Blind Job Buchung</target>
         </trans-unit>
     </body>
   </file>

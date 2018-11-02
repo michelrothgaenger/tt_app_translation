@@ -33,9 +33,9 @@
         <source>app.email</source>
         <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="app.jobTitle" approved="yes">
+      <trans-unit id="app.jobTitle" approved="no">
         <source>app.jobTitle</source>
-        <target state="translated">Position</target>
+        <target state="translated">Stellenbezeichnung</target>
       </trans-unit>
       <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
@@ -265,6 +265,26 @@
     <trans-unit id="app.jobCrud.company.label" approved="no">
         <source>app.jobCrud.company.label</source>
         <target state="translated">Unternehmen</target>
+      </trans-unit>
+    <trans-unit id="app.job.template.label" approved="no">
+        <source>app.job.template.label</source>
+        <target>Vorlage auswählen</target>
+      </trans-unit>
+      <trans-unit id="app.job.blinding.label" approved="no">
+        <source>app.job.blinding.label</source>
+        <target>Buchen Sie die Stelle, ohne den Arbeitgeber anzuzeigen. (Job wird im Namen des Kunden als TT angezeigt.)</target>
+      </trans-unit>
+      <trans-unit id="app.job.blinding.title" approved="no">
+        <source>app.job.blinding.title</source>
+        <target>Blind Job Buchung</target>
+      </trans-unit>
+      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="no">
+        <source>app.employerJobCRUD.disabledSelectPreviousJobPosting</source>
+        <target>-- eine frühere Stellenausschreibung auswählen --</target>
+      </trans-unit>
+      <trans-unit id="app.job.targetAnnualSalary.title" approved="no">
+        <source>app.job.targetAnnualSalary.title</source>
+        <target>Zielvorgabe Jahresgehalt</target>
       </trans-unit>
     </body>
   </file>

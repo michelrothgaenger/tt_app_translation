@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.checkPayment.subject" approved="no">
         <source>app.checkPayment.subject</source>
-        <target state="translated"></target>
+        <target state="translated">interne Mahnung: Zahlungseingang prüfen</target>
       </trans-unit>
       <trans-unit id="app.checkPayment.content" approved="no">
         <source>app.checkPayment.content</source>
-        <target state="translated"></target>
+        <target state="translated">%applicationID%</target>
       </trans-unit>
     </body>
   </file>

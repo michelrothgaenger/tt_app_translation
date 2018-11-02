@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.companyReminder.payment.subject" approved="no">
         <source>app.companyReminder.payment.subject</source>
-        <target state="translated"></target>
+        <target state="translated">interne Mahnung: Zahlungseingang prüfen</target>
       </trans-unit>
       <trans-unit id="app.companyReminderPayment.content" approved="no">
         <source>app.companyReminderPayment.content</source>
-        <target state="translated"></target>
+        <target state="translated">%firstNameHR% %lastNameHR% %jobTitle%</target>
       </trans-unit>
     </body>
   </file>

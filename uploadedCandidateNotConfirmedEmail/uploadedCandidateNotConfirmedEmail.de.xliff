@@ -7,19 +7,19 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target></target>
+        <target>Ihre Bewerbung ist noch offen</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
-        <target></target>
+        <target>%candidateEmail% %jobTitle%</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
-        <target></target>
+        <target>Ihre Bewerbung ist noch offen</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
-        <target></target>
+        <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
       </trans-unit>
     </body>
   </file>

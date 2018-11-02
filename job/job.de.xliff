@@ -510,6 +510,14 @@
             <source>app.job.loginPopup.signUpHere</source>
             <target>Registrieren Sie sich hier.</target>
         </trans-unit>
+    <trans-unit id="app.job.replaceCompanyName" approved="no">
+          <source>app.job.replaceCompanyName</source>
+          <target>Transport Talent im Auftrag eines Kunden</target>
+        </trans-unit>
+        <trans-unit id="app.job.blinding.title" approved="no">
+          <source>app.job.blinding.title</source>
+          <target>Blind Job Buchung</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

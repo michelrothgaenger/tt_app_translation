@@ -589,6 +589,26 @@
         <source>app.userRegister.step3.lookAround.recruiter</source>
         <target state="translated"><![CDATA[Pass & take a look around]]></target>
       </trans-unit>
+      <trans-unit id="registration.email.message.part1" approved="no">
+        <source>registration.email.message.part1</source>
+        <target state="translated">Hi</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.partFirstname" approved="no">
+        <source>registration.email.message.partFirstname</source>
+        <target state="translated"> %firstname%,</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.part2" approved="no">
+        <source>registration.email.message.part2</source>
+        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for register on transporttalent.com &mdash; to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.confirm" approved="no">
+        <source>registration.email.message.confirm</source>
+        <target state="translated">Confirm registration</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.part3" approved="no">
+        <source>registration.email.message.part3</source>
+        <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

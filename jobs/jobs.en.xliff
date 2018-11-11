@@ -149,6 +149,10 @@
           <source>app.jobs.blinding.title</source>
           <target>Blind job Posting</target>
         </trans-unit>
+        <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+          <source>app.jobs.jobBlock.showDetails</source>
+          <target>Show details</target>
+        </trans-unit>
     </body>
   </file>
 </xliff>

@@ -81,6 +81,22 @@
         <source>app.jobAlert.monthly.frequency</source>
         <target state="translated">Monthly</target>
       </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part1" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part1</source>
+        <target>Hi</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.partFirstname." approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.partFirstname</source>
+        <target> %firstname%,</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part2</source>
+        <target>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part3</source>
+        <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

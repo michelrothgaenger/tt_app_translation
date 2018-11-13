@@ -7,31 +7,31 @@
     <body>
       <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
         <source>app.candidates.searchForm.term.placeholder</source>
-        <target></target>
+        <target>Verwenden Sie boolesche Operatoren AND, OR und NOT, um die besten Ergebnisse zu erzielen.</target>
       </trans-unit>
       <trans-unit id="app.candidates.search.button" approved="no">
         <source>app.candidates.search.button</source>
-        <target></target>
+        <target>Suchen</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
         <source>app.candidates.searchForm.filterTitle</source>
-        <target state="translated"></target>
+        <target state="translated">Filter</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
         <source>app.candidates.searchForm.filterTitleShow</source>
-        <target state="translated"></target>
+        <target state="translated">Filter verwenden</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
         <source>app.candidates.searchForm.filterTitleHide</source>
-        <target state="translated"></target>
+        <target state="translated">Filter ausblenden</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
         <source>app.candidates.searchForm.resetFilter</source>
-        <target state="translated"></target>
+        <target state="translated">Filter zurücksetzen</target>
       </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
         <source>app.candidates.searchForm.filterAdd</source>
-        <target state="translated"></target>
+        <target state="translated">Hinzufügen</target>
       </trans-unit>
     </body>
   </file>

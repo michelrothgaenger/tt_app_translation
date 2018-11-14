@@ -1159,19 +1159,19 @@
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
         <source>app.profile.onLoginPopup.welcome</source>
-        <target>Welcome%firstName%!</target>
+        <target>Welcome%firstName%,</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
         <source>app.profile.onLoginPopup.employer</source>
-        <target>&lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 1&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 2&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 3&lt;/p&gt; &lt;p&gt;employer Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 4&lt;/p&gt;</target>
+        <target>Thank you for visiting Transport Talent. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
         <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
-        <target>recruiter</target>
+        <target>Thank you for visiting Transport Talent. Let us reward you for your references to us. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
         <source>app.profile.onLoginPopup.professional</source>
-        <target><![CDATA[<p>professional paragraph 1</p><p>professional paragraph 2</p><p>professional paragraph 3</p>]]></target>
+        <target>Thank you for visiting Transport Talent. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
         <source>app.profile.onLoginPopup.showThisWindow</source>

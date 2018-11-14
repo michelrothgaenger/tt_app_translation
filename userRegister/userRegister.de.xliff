@@ -433,7 +433,7 @@
         <source>app.register.profile.email.placeholder</source>
         <target state="translated">email@domain.com</target>
       </trans-unit>
-      <trans-unit id="app.register.profile.dateOfLeave.label" approved="yes">
+      <trans-unit id="app.register.profile.dateOfLeave.label" approved="no">
         <source>app.register.profile.dateOfLeave.label</source>
         <target state="translated">Frühestes Startdatum</target>
       </trans-unit>

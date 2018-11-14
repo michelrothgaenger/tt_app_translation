@@ -1163,7 +1163,7 @@
         <target>Willkommen, %firstName%!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
-        <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
+        <source>app.profile.onLoginPopup.recruiter</source>
         <target>Vielen Dank für Ihren Besuch bei Transport Talent. Lassen Sie sich für Ihre Empfehlungen von uns belohnen. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">

@@ -1164,7 +1164,7 @@
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
         <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
-        <target>Personalberater</target>
+        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Lassen Sie sich für Ihre Empfehlungen von uns belohnen. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
         <source>app.profile.onLoginPopup.showThisWindow</source>
@@ -1174,6 +1174,14 @@
         <source>app.profile.onLoginPopup.closeWindow</source>
         <target>Fenster schließen</target>
       </trans-unit>
-    </body>
+    <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
+        <source>app.profile.onLoginPopup.employer</source>
+        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Unser Ziel ist es, Sie mit qualifiziertem Personal zu verbinden. Unser Team unterstützt Sie gerne bei Ihrer Suche. Bitte kontaktieren Sie uns!</target>
+      </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
+        <source>app.profile.onLoginPopup.professional</source>
+        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Wir kennen die Komplexität der Stellensuche und unser Team vermittelt Ihnen gerne geeignete Stellenangebote. Kontaktieren Sie uns bitte!</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

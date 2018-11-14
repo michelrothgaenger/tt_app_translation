@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
         <source>app.candidates.searchForm.term.placeholder</source>
-        <target>Verwenden Sie boolesche Operatoren AND, OR und NOT, um die besten Ergebnisse zu erzielen.</target>
+        <target>Verwenden Sie boolesche Operatoren AND, OR und NOT, um die besten Ergebnisse zu erzielen</target>
       </trans-unit>
       <trans-unit id="app.candidates.search.button" approved="no">
         <source>app.candidates.search.button</source>
@@ -32,6 +32,66 @@
       <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
         <source>app.candidates.searchForm.filterAdd</source>
         <target state="translated">Hinzufügen</target>
+      </trans-unit>
+    <trans-unit id="app.candidates.title" approved="no">
+        <source>app.candidates.title</source>
+        <target>Kandidatensuche -</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.view" approved="no">
+        <source>app.candidates.view</source>
+        <target>Ansicht</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.title</source>
+        <target>Fachgebiet</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.placeholder</source>
+        <target>z. B. Steuern</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.title" approved="no">
+        <source>app.candidates.filter.location.title</source>
+        <target>Wohnort</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.placeholder" approved="no">
+        <source>app.candidates.filter.location.placeholder</source>
+        <target>z. B. Land / Standort</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.title" approved="no">
+        <source>app.candidates.filter.category.title</source>
+        <target>Bevorzugte Tätigkeitsfelder</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.placeholder" approved="no">
+        <source>app.candidates.filter.category.placeholder</source>
+        <target>z. B. Seefracht</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.title" approved="no">
+        <source>app.candidates.filter.preferredLocation.title</source>
+        <target>Bevorzugte Regionen &amp; Länder</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="no">
+        <source>app.candidates.filter.preferredLocation.placeholder</source>
+        <target>z. B. Land / Standort</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.title" approved="no">
+        <source>app.candidates.filter.salary.title</source>
+        <target>Gehaltsspanne</target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.placeholder" approved="no">
+        <source>app.candidates.filter.salary.placeholder</source>
+        <target>Gehaltsspanne</target>
+      </trans-unit>
+      <trans-unit id="app.noCandidatesFound" approved="no">
+        <source>app.noCandidatesFound</source>
+        <target>Keine Kandidaten gefunden</target>
+      </trans-unit>
+      <trans-unit id="app.noticePeriod" approved="no">
+        <source>app.noticePeriod</source>
+        <target>Kündigungsfrist</target>
+      </trans-unit>
+      <trans-unit id="app.salary" approved="no">
+        <source>app.salary</source>
+        <target>Gehalt</target>
       </trans-unit>
     </body>
   </file>

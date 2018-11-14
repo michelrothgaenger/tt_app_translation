@@ -1166,7 +1166,7 @@
         <target>Thank you for visiting Transport Talent. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
-        <source><![CDATA[<p>recruiter paragraph 1</p><p>recruiter paragraph 2</p><p>employer paragraph 3</p>]]></source>
+        <source>app.profile.onLoginPopup.recruiter</source>
         <target>Thank you for visiting Transport Talent. Let us reward you for your references to us. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="no">

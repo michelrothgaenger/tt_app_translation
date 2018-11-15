@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
         <source>app.emailLayout.defaultCompanyName</source>
-        <target>Transport Talent ApS</target>
+        <target>Transporttalent ApS</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
@@ -44,6 +44,26 @@
       <trans-unit id="app.emailLayout.unsubscribeLinkTitle" approved="yes">
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">Hier abmelden</target>
+      </trans-unit>
+    <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+        <source>app.emailLayout.unsubscribe</source>
+        <target state="translated">Abmelden</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.help" approved="no">
+        <source>app.emailLayout.help</source>
+        <target state="translated">Hilfe</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.copyright.line1" approved="no">
+        <source>app.emailLayout.copyright.line1</source>
+        <target state="translated">2018 Transport Talent ApS, Straße 1, 34523 Ort.</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.copyright.line2" approved="no">
+        <source>app.emailLayout.copyright.line2</source>
+        <target state="translated">Transport Talent ist ein eingetragener Markenname.</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
+        <source>app.emailLayout.contactTT.tile</source>
+        <target state="translated">Ihr Ansprechpartner bei Transport Talent</target>
       </trans-unit>
     </body>
   </file>

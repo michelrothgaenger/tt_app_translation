@@ -162,9 +162,9 @@
           <source>app.job.form.referral.title</source>
           <target state="translated">Empfehlungsfunktion nutzen?</target>
         </trans-unit>
-    <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
+    <trans-unit id="app.job.reward.greaterThanConstraint" approved="no">
         <source>app.job.reward.greaterThanConstraint</source>
-        <target state="translated">Wert muss größer oder gleich {{ compared_value }} sein</target>
+        <target state="translated">Dieser Wert muss größer oder gleich {{Vergleichswert }}} sein.</target>
       </trans-unit>
       <trans-unit id="app.location" approved="yes">
         <source>app.location</source>

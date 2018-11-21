@@ -589,6 +589,26 @@
         <source>app.userRegister.step3.lookAround.recruiter</source>
         <target state="translated">Überspringen &amp; Umsehen</target>
       </trans-unit>
+    <trans-unit id="registration.email.message.part1" approved="no">
+        <source>registration.email.message.part1</source>
+        <target state="translated">Hallo</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.partFirstname" approved="no">
+        <source>registration.email.message.partFirstname</source>
+        <target state="translated"> %firstname%,</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.part2" approved="no">
+        <source>registration.email.message.part2</source>
+        <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf transporttalent.com - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.confirm" approved="no">
+        <source>registration.email.message.confirm</source>
+        <target state="translated">Registrierung bestätigen</target>
+      </trans-unit>
+      <trans-unit id="registration.email.message.part3" approved="no">
+        <source>registration.email.message.part3</source>
+        <target state="translated">Sie können uns jederzeit kontaktieren, indem Sie auf diese Mail antworten.&lt;br&gt; &lt;br&gt; &lt;br&gt; Wir freuen uns, Sie an Bord zu haben!&lt;br&gt; &lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen,&lt;br&gt;Michel Rothgaenger</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

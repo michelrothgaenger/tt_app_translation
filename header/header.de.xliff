@@ -165,6 +165,10 @@
         <source>app.header.employerSubmenu.company.profile</source>
         <target state="translated">Unternehmensprofil</target>
       </trans-unit>
+      <trans-unit id="app.findCandidates" approved="no">
+        <source>app.findCandidates</source>
+        <target state="translated">Kandidaten</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

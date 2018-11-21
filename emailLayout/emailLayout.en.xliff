@@ -53,10 +53,6 @@
         <source>app.emailLayout.help</source>
         <target state="translated">Help</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright.line1" approved="no">
-        <source>app.emailLayout.copyright.line1</source>
-        <target state="translated"><![CDATA[© 2018 Transport Talent ApS, Street 1, 34523 Location.]]></target>
-      </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
         <source>app.emailLayout.copyright.line2</source>
         <target state="translated">Transport Talent is a registered brand name.</target>
@@ -64,6 +60,14 @@
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
         <source>app.emailLayout.contactTT.tile</source>
         <target state="translated">Your contact at Transport Talent:</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+        <source>app.emailLayout.defaultCompanyName</source>
+        <target state="translated">Transport Talent ApS</target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
+        <source>app.emailLayout.defaultCompanyAddress</source>
+        <target state="translated">Street 1, 34523 Location.</target>
       </trans-unit>
     </body>
   </file>

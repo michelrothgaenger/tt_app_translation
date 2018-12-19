@@ -609,6 +609,10 @@
         <source>registration.email.message.part3</source>
         <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
       </trans-unit>
+      <trans-unit id="app.userRegister.joinNow" approved="no">
+        <source>app.userRegister.joinNow</source>
+        <target>JOIN NOW</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

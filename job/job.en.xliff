@@ -281,6 +281,14 @@
         <source>app.job.popup.uploadCandidate.salary.initialOption</source>
         <target state="translated">Select Salary Range</target>
       </trans-unit>
+      <trans-unit id="app.job.popup.uploadCandidate.salary.input.placeholder">
+        <source>app.job.popup.uploadCandidate.salary.input.placeholder</source>
+        <target>Enter an amount</target>
+      </trans-unit>
+      <trans-unit id="app.job.popup.uploadCandidate.salary.input.title">
+        <source>app.job.popup.uploadCandidate.salary.input.title</source>
+        <target>Number with max length of 4 digits and shouldn't start with 0</target>
+      </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.currency.label" approved="yes">
         <source>app.job.popup.uploadCandidate.currency.label</source>
         <target state="translated">Curency</target>

@@ -287,7 +287,7 @@
       </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.salary.input.title">
         <source>app.job.popup.uploadCandidate.salary.input.title</source>
-        <target>Number with max length of 4 digits and shouldn't start with 0</target>
+        <target>Minimum 4 symbols, only numbers</target>
       </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.currency.label" approved="yes">
         <source>app.job.popup.uploadCandidate.currency.label</source>

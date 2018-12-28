@@ -121,6 +121,10 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Please check fields again</target>
       </trans-unit>
+      <trans-unit id="app.employerJobCRUD.salary.patternError" approved="no">
+        <source>app.employerJobCRUD.salary.patternError</source>
+        <target>Minimum 4 symbols, only numbers</target>
+      </trans-unit>
       <trans-unit id="app.profile.employer.jobs.title" approved="yes">
         <source>app.profile.employer.jobs.title</source>
         <target state="translated">%company% jobs</target>

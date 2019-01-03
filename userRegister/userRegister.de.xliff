@@ -609,6 +609,10 @@
         <source>registration.email.message.part3</source>
         <target state="translated">Sie können uns jederzeit kontaktieren, indem Sie auf diese Mail antworten.&lt;br&gt; &lt;br&gt; &lt;br&gt; Wir freuen uns, Sie an Bord zu haben!&lt;br&gt; &lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen,&lt;br&gt;Michel Rothgaenger</target>
       </trans-unit>
+    <trans-unit id="app.userRegister.joinNow" approved="no">
+        <source>app.userRegister.joinNow</source>
+        <target state="translated">JETZT ANMELDEN</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -518,6 +518,10 @@
           <source>app.job.blinding.title</source>
           <target>Blind Job Buchung</target>
         </trans-unit>
-    </body>
+    <trans-unit id="app.job.popup.uploadCandidate.salary.input.placeholder" approved="no">
+        <source>app.job.popup.uploadCandidate.salary.input.placeholder</source>
+        <target state="translated">Geben Sie einen Betrag ein</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

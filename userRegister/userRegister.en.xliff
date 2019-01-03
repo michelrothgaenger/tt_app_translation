@@ -171,7 +171,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step2.greeting" approved="no">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Great to have you on board. If you searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
+        <target state="translated">Great to have you on board. If you are searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
@@ -599,7 +599,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for register on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>

@@ -613,6 +613,10 @@
         <source>app.userRegister.joinNow</source>
         <target state="translated">JETZT ANMELDEN</target>
       </trans-unit>
-    </body>
+    <trans-unit id="form.salaryTitle" approved="no">
+        <source>form.salaryTitle</source>
+        <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

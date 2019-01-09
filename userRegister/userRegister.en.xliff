@@ -473,6 +473,10 @@
         <source>form.salaryPlaceholder</source>
         <target state="translated">Enter your salary</target>
       </trans-unit>
+      <trans-unit id="form.salaryTitle" approved="no">
+        <source>form.salaryTitle</source>
+        <target>Minimum 4 symbols, only numbers</target>
+      </trans-unit>
       <trans-unit id="form.experiencePlaceholder" approved="yes">
         <source>form.experiencePlaceholder</source>
         <target state="translated">Years</target>

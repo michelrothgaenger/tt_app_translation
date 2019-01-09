@@ -286,6 +286,10 @@
         <source>app.job.targetAnnualSalary.title</source>
         <target>Zielvorgabe Jahresgehalt</target>
       </trans-unit>
-    </body>
+    <trans-unit id="app.employerJobCRUD.salary.patternError" approved="no">
+        <source>app.employerJobCRUD.salary.patternError</source>
+        <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

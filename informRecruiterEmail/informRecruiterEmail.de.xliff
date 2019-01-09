@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
         <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
-        <target state="translated">Der Kandidat hat den Antrag für die Position "% position%" bestätigt.</target>
+        <target state="translated">Der Kandidat hat den Antrag für die Position "%position%" bestätigt.</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
         <source>app.informRecruiterEmail.applicationConfirmed.content</source>

@@ -33,10 +33,6 @@
         <source>app.cookieButton</source>
         <target state="translated">Close</target>
       </trans-unit>
-      <trans-unit id="app.index.intercomMapHeadline" approved="yes">
-        <source>app.index.intercomMapHeadline</source>
-        <target state="translated"><![CDATA[We are <b>Transport Talent</b> with users in <b>126 countries.</b></br> When will <b>you join us?</b>]]></target>
-      </trans-unit>
       <trans-unit id="app.joinNow" approved="yes">
         <source>app.joinNow</source>
         <target state="translated">JOIN NOW</target>

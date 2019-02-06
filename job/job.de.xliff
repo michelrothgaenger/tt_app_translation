@@ -42,13 +42,13 @@
         <source>app.job.section.main.title</source>
         <target state="translated">Stellenbeschreibung</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowTypeTitle" approved="yes">
+      <trans-unit id="app.job.section.main.rowTypeTitle" approved="no">
         <source>app.job.section.main.rowTypeTitle</source>
-        <target state="translated">Erfahrungsstufe</target>
-      </trans-unit>
-      <trans-unit id="app.job.section.main.rowLevelTitle" approved="yes">
-        <source>app.job.section.main.rowLevelTitle</source>
         <target state="translated">Berufsfeld</target>
+      </trans-unit>
+      <trans-unit id="app.job.section.main.rowLevelTitle" approved="no">
+        <source>app.job.section.main.rowLevelTitle</source>
+        <target state="translated">Erfahrungsstufe</target>
       </trans-unit>
       <trans-unit id="app.job.section.main.rowWhereTitle" approved="yes">
         <source>app.job.section.main.rowWhereTitle</source>
@@ -518,6 +518,14 @@
           <source>app.job.blinding.title</source>
           <target>Blind Job Buchung</target>
         </trans-unit>
-    </body>
+    <trans-unit id="app.job.popup.uploadCandidate.salary.input.placeholder" approved="no">
+        <source>app.job.popup.uploadCandidate.salary.input.placeholder</source>
+        <target state="translated">Geben Sie einen Betrag ein</target>
+      </trans-unit>
+      <trans-unit id="app.job.popup.uploadCandidate.salary.input.title" approved="no">
+        <source>app.job.popup.uploadCandidate.salary.input.title</source>
+        <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
+      </trans-unit>
+      </body>
   </file>
 </xliff>

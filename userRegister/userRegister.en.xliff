@@ -169,9 +169,9 @@
         <source>app.userRegister.popup.loginButton</source>
         <target state="translated">Log in</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.greeting" approved="yes">
+      <trans-unit id="app.userRegister.step2.greeting" approved="no">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Great to have you on board. If you searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
+        <target state="translated">Great to have you on board. If you are searching for a job it's time to setup your profile so we can match you with the right opportunities and employers. It only takes a couple of minutes. If you just want to start referring jobs to colleagues and friends just skip the profile and start right away.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
@@ -473,6 +473,10 @@
         <source>form.salaryPlaceholder</source>
         <target state="translated">Enter your salary</target>
       </trans-unit>
+      <trans-unit id="form.salaryTitle" approved="no">
+        <source>form.salaryTitle</source>
+        <target>Minimum 4 symbols, only numbers</target>
+      </trans-unit>
       <trans-unit id="form.experiencePlaceholder" approved="yes">
         <source>form.experiencePlaceholder</source>
         <target state="translated">Years</target>
@@ -599,7 +603,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for register on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>
@@ -608,6 +612,10 @@
       <trans-unit id="registration.email.message.part3" approved="no">
         <source>registration.email.message.part3</source>
         <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
+      </trans-unit>
+      <trans-unit id="app.userRegister.joinNow" approved="no">
+        <source>app.userRegister.joinNow</source>
+        <target>JOIN NOW</target>
       </trans-unit>
       <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
         <source>app.registration_form_step7.salary.lengthConstraint</source>

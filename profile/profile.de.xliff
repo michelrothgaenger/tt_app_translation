@@ -1182,6 +1182,14 @@
         <source>app.profile.onLoginPopup.professional</source>
         <target>Vielen Dank für Ihren Besuch bei Transport Talent. Wir kennen die Komplexität der Stellensuche und unser Team vermittelt Ihnen gerne geeignete Stellenangebote. Kontaktieren Sie uns bitte!</target>
       </trans-unit>
+      <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
+        <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
+        <target>You haven't access to delete this account</target>
+      </trans-unit>
+      <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
+        <source>app.profile.confirmationEmail.beforeDelete</source>
+        <target>Confirmation email has been sent to your email address %userEmail%.</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

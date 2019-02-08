@@ -1190,6 +1190,14 @@
         <source>app.profile.confirmationEmail.beforeDelete</source>
         <target>Confirmation email has been sent to your email address %userEmail%.</target>
       </trans-unit>
+      <trans-unit id="app.deleteAccount" approved="no">
+        <source>app.deleteAccount</source>
+        <target>Delete my account</target>
+      </trans-unit>
+      <trans-unit id="app.profile.reactivateAccount.message" approved="no">
+        <source>app.profile.reactivateAccount.message</source>
+        <target>Welcome back %firstName%. Your account has been reactivated</target>
+      </trans-unit>
       </body>
   </file>
 </xliff>

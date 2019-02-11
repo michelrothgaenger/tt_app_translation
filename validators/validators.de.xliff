@@ -89,6 +89,10 @@
                 <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
                 <target state="translated">Bitte geben Sie die Kündigungsfrist ein</target>
             </trans-unit>
+            <trans-unit id="app.registerForm.cv.notBlank" approved="no">
+                <source>app.registerForm.cv.notBlank</source>
+                <target>Please upload a CV</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

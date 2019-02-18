@@ -89,9 +89,9 @@
             <source>app.flash.inactivityJob.update</source>
             <target state="translated">Job was updated</target>
         </trans-unit>
-        <trans-unit id="app.flash.linkedin.alreadyInUse" approved="yes">
+        <trans-unit id="app.flash.linkedin.alreadyInUse" approved="no">
             <source>app.flash.linkedin.alreadyInUse</source>
-            <target state="translated">This LinkedIn account already in use by another account</target>
+            <target state="translated">This LinkedIn account is already in use by another account</target>
         </trans-unit>
     </body>
   </file>

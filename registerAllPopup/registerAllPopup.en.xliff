@@ -39,11 +39,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
         <source>app.registerAllPopup.registerBtn</source>
-        <target>Register</target>
+        <target state="translated">Sign up</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.alreadyRegistered" approved="no">
         <source>app.registerAllPopup.alreadyRegistered</source>
-        <target>Already registered?</target>
+        <target state="translated">Already signed up?</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.loginHere" approved="no">
         <source>app.registerAllPopup.loginHere</source>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Professional.title" approved="no">
         <source>app.registerAllPopup.Professional.title</source>
-        <target>Join as Professional</target>
+        <target state="translated">Join as Candidate</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Professional.text" approved="no">
         <source>app.registerAllPopup.Professional.text</source>

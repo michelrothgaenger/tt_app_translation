@@ -89,7 +89,7 @@
             <source>app.flash.inactivityJob.update</source>
             <target state="translated">Stellenanzeige wurde aktualisiert</target>
         </trans-unit>
-    <trans-unit id="app.flash.linkedin.alreadyInUse" approved="yes">
+    <trans-unit id="app.flash.linkedin.alreadyInUse" approved="no">
             <source>app.flash.linkedin.alreadyInUse</source>
             <target state="translated">Dieses LinkedIn Konto ist bereits mit einem anderen Konto verknüpft</target>
         </trans-unit>

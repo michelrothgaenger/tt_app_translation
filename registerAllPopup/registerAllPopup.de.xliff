@@ -39,11 +39,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
         <source>app.registerAllPopup.registerBtn</source>
-        <target state="translated">Registrieren</target>
+        <target state="translated">Anmelden</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.alreadyRegistered" approved="no">
         <source>app.registerAllPopup.alreadyRegistered</source>
-        <target state="translated">Bereits registriert?</target>
+        <target state="translated">Bereits angemeldet?</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.loginHere" approved="no">
         <source>app.registerAllPopup.loginHere</source>

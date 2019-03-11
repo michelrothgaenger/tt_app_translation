@@ -65,6 +65,14 @@
         <source>app.employer.currentJobs.title</source>
         <target state="translated">Nuværende stillinger fra %company%</target>
       </trans-unit>
+    <trans-unit id="app.employer.popup.chooseCompany.text" approved="no">
+        <source>app.employer.popup.chooseCompany.text</source>
+        <target state="translated">Jeg vil gerne have adgang til denne sektion som team member</target>
+      </trans-unit>
+      <trans-unit id="app.employer.popup.chooseCompany.placeholder" approved="no">
+        <source>app.employer.popup.chooseCompany.placeholder</source>
+        <target state="translated">Vælg virksomhed</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

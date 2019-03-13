@@ -619,8 +619,7 @@
       </trans-unit>
       <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
         <source>app.registration_form_step7.salary.lengthConstraint</source>
-        <target>Salary should contains minimum 4 digits</target>
-      </trans-unit>
+        <target>Salary should contain a minimum of 4 digits</target> </trans-unit>
     </body>
   </file>
 </xliff>

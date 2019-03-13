@@ -1184,19 +1184,19 @@
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
-        <target state="translated">You have no access to delete this account</target>
+        <target state="translated">Sie haben keinen Zugriff, um dieses Konto zu löschen</target>
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete</source>
-        <target state="translated">Confirmation email has been sent to your email address %userEmail%.</target>
+        <target state="translated">Die Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse %userEmail% gesendet.</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount" approved="no">
         <source>app.deleteAccount</source>
-        <target state="translated">Delete my account</target>
+        <target state="translated">Mein Konto löschen</target>
       </trans-unit>
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
-        <target state="translated">Welcome back %firstName%. Your account has been reactivated.</target>
+        <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert.</target>
       </trans-unit>
       </body>
   </file>

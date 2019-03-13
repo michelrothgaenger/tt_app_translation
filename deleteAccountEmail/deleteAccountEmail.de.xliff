@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
         <source>app.deleteAccount.informCountryManager.subject</source>
-        <target state="translated">Der Benutzer möchte sein Konto löschen.</target>
+        <target state="translated">Der Benutzer möchte sein Konto löschen</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
@@ -31,7 +31,7 @@
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
-        <target state="translated">Dein Konto wurde gelöscht.</target>
+        <target state="translated">Dein Konto wurde gelöscht</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.content</source>

@@ -1183,7 +1183,7 @@
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
-        <target>You haven't access to delete this account</target>
+        <target state="translated">You have no access to delete this account</target>
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete</source>
@@ -1195,7 +1195,7 @@
       </trans-unit>
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
-        <target>Welcome back %firstName%. Your account has been reactivated</target>
+        <target state="translated">Welcome back %firstName%. Your account has been reactivated.</target>
       </trans-unit>
     </body>
   </file>

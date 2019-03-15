@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
         <source>app.registerAllPopup.employerTitle</source>
-        <target state="translated">Unternehmen</target>
+        <target state="translated">Arbeitgeber</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.employerText" approved="no">
         <source>app.registerAllPopup.employerText</source>
-        <target state="translated">Erhalten Sie nur vorqualifizierte Kandidaten, die von Branchenexperten empfohlen werden. Bezahlen Sie nur für den Erfolg.</target>
+        <target state="translated">Sehen Sie nur qualifizierte Kandidaten, die von Branchenexperten empfohlen werden. Zahlen Sie nur bei Einstellung.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.recruiterTitle" approved="no">
         <source>app.registerAllPopup.recruiterTitle</source>
@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.professionalTitle" approved="no">
         <source>app.registerAllPopup.professionalTitle</source>
-        <target state="translated">Kandidaten</target>
+        <target state="translated">Arbeitnehmer</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.professionalText" approved="no">
         <source>app.registerAllPopup.professionalText</source>
-        <target state="translated">Helfen Sie Ihren Freunden und lassen Sie sich belohnen. Teilen Sie Jobs in Ihren sozialen Netzwerken.</target>
+        <target state="translated">Helfen Sie Ihren Freunden und werden Sie belohnt. Teilen Sie Jobs in Ihren sozialen Netzwerken.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
         <source>app.registerAllPopup.registerBtn</source>
@@ -59,11 +59,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Recruiter.title" approved="no">
         <source>app.registerAllPopup.Recruiter.title</source>
-        <target state="translated">Als Personalberater teilnehmen</target>
+        <target state="translated">Kostenloses Profil anlegen</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Recruiter.text" approved="no">
         <source>app.registerAllPopup.Recruiter.text</source>
-        <target state="translated">Um Transport Talent beizutreten, melden Sie sich unten an. Es ist für jeden kostenlos!</target>
+        <target state="translated">Finden Sie Ihren Traumjob – mit Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Professional.title" approved="no">
         <source>app.registerAllPopup.Professional.title</source>
@@ -100,6 +100,10 @@
       <trans-unit id="app.registerAllPopup.backLink" approved="no">
         <source>app.registerAllPopup.backLink</source>
         <target state="translated">Zurück</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.registerRecruiter" approved="no">
+        <source>app.registerAllPopup.registerRecruiter</source>
+        <target>Sign up as a recruiter? click here</target>
       </trans-unit>
     </body>
   </file>

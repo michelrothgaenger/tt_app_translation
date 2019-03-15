@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.description" approved="no">
         <source>app.registerAllPopup.description</source>
-        <target>To join Transport Talent, sign up below. It is free for everyone!</target>
+        <target>To join Transport Talent, sign up below...it's free to join!</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
         <source>app.registerAllPopup.employerTitle</source>
-        <target>I am hiring</target>
+        <target>Employers</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.employerText" approved="no">
         <source>app.registerAllPopup.employerText</source>
@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.professionalTitle" approved="no">
         <source>app.registerAllPopup.professionalTitle</source>
-        <target>I want to share jobs</target>
+        <target>Professionals</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.professionalText" approved="no">
         <source>app.registerAllPopup.professionalText</source>
-        <target>Help your friends and get rewarded. Share jobs on your social networks.</target>
+        <target>Interested in opportunities? Refer or apply for jobs.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
         <source>app.registerAllPopup.registerBtn</source>
@@ -100,6 +100,10 @@
       <trans-unit id="app.registerAllPopup.backLink" approved="no">
         <source>app.registerAllPopup.backLink</source>
         <target>Back</target>
+      </trans-unit>
+      <trans-unit id="app.registerAllPopup.registerRecruiter" approved="no">
+        <source>app.registerAllPopup.registerRecruiter</source>
+        <target>Sign up as a recruiter? click here</target>
       </trans-unit>
     </body>
   </file>

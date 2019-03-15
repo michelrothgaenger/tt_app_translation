@@ -7,16 +7,13 @@
     <body>
       <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="no">
         <source>app.deleteAccount.confirmationEmail.subject</source>
-        <target>Confirmation email about delete account</target>
-      </trans-unit>
+        <target>Confirmation of account deletion</target> </trans-unit>
       <trans-unit id="app.deleteAccount.confirmationEmail.content" approved="no">
         <source>app.deleteAccount.confirmationEmail.content</source>
-        <target><![CDATA[Your account will be deleted in %daysBeforeDeleting% days, <br> Click <a href="%confirmationLink%">here</a> to confirm this process ]]></target>
-      </trans-unit>
+        <target>D</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
         <source>app.deleteAccount.informCountryManager.subject</source>
-        <target>User want to delete their account</target>
-      </trans-unit>
+        <target>User wants to delete their account</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
         <target>User(%userEmail%) has deleted their account. Their data will be deleted on %deleteDate%</target>
@@ -27,16 +24,14 @@
       </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.content" approved="no">
         <source>app.deleteAccount.informUserBeforeExpiration.content</source>
-        <target>Sorry to hear you are leaving us. To reactivate your account log in before %expirationDate%</target>
-      </trans-unit>
+        <target>D</target> </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target>Your account has been deleted</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.content</source>
-        <target><![CDATA[Your account has been deleted. If you want to join, register any time.<br> <a href="%linkToTT%">TransportTalent website</a>]]></target>
-      </trans-unit>
+        <target>D</target> </trans-unit>
     </body>
   </file>
 </xliff>

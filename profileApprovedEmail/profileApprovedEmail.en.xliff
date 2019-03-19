@@ -11,12 +11,7 @@
       </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="yes">
         <source>app.profileApprovedEmail.content</source>
-        <target state="translated">Dear %userFirstName%,&lt;br&gt; &lt;br&gt;
-Your profile has been approved by %name%. We will contact you as soon as we have interesting offers for you. Please do not hesitate to get in touch with %name% at %email%, should you have further questions.
-&lt;br&gt; &lt;br&gt;
-Kind regards,
-&lt;br&gt;
-Your team at Transport Talent</target>
+        <target state="translated">Dear %userFirstName%,&lt;br&gt; &lt;br&gt;Your profile has been approved by %name%. We will contact you as soon as we have interesting offers for you. Please do not hesitate to get in touch with %name% at %email%, should you have further questions.&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>
   </file>

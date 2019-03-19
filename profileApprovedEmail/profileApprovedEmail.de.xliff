@@ -11,11 +11,11 @@
       </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="yes">
         <source>app.profileApprovedEmail.content</source>
-        <target state="translated">Hallo %userFirstName%,
-
+        <target state="translated">Hallo %userFirstName%,&lt;br&gt; &lt;br&gt;
 Ihr Profil wurde von %name% bestätigt. Sobald wir interessante Angebote für Sie haben, kommen wir wieder auf Sie zu. Bei Fragen erreichen Sie %name% per E-Mail unter %email%.
-
+&lt;br&gt; &lt;br&gt;
 Mit besten Grüßen
+&lt;br&gt;
 Ihr Team von Transport Talent</target>
       </trans-unit>
     </body>

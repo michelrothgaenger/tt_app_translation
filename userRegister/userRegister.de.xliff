@@ -33,10 +33,9 @@
         <source>app.iAgreeToThe</source>
         <target state="translated">Ich akzeptiere die</target>
       </trans-unit>
-      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
+      <trans-unit id="app.termsConditionsCheckbox" approved="no">
         <source>app.termsConditionsCheckbox</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
-      </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
       <trans-unit id="registration.check_email" approved="yes">
         <source>registration.check_email</source>
         <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
@@ -189,10 +188,9 @@
         <source>app.userRegister.step2.agreementPart1</source>
         <target state="translated">Mit meiner Registrierung akzeptiere ich die</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart2" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart2" approved="no">
         <source>app.userRegister.step2.agreementPart2</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
-      </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
       <trans-unit id="app.userRegister.step2.signUpButton" approved="yes">
         <source>app.userRegister.step2.signUpButton</source>
         <target state="translated">Registrieren</target>

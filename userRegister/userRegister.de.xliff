@@ -215,10 +215,9 @@
         <source>app.userRegister.step3.continueProfileFilling</source>
         <target state="translated">Profil ausfüllen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step3.lookAround" approved="yes">
+      <trans-unit id="app.userRegister.step3.lookAround" approved="no">
         <source>app.userRegister.step3.lookAround</source>
-        <target state="translated">Überspringen und umsehen</target>
-      </trans-unit>
+        <target state="translated">Überspringen und umsehen</target> </trans-unit>
       <trans-unit id="app.userRegister.step4.stepSummary" approved="yes">
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated">Schritt 1/4: Zusammenfassung</target>
@@ -471,10 +470,9 @@
          <source>app.register.profile.dateOfLeave.error</source>
          <target state="translated">Kündigungsfrist</target>
       </trans-unit>
-    <trans-unit id="app.userRegister.step2.agreementPart3" approved="yes">
+    <trans-unit id="app.userRegister.step2.agreementPart3" approved="no">
         <source>app.userRegister.step2.agreementPart3</source>
-        <target state="translated">Allgemeine Geschäftsbedingungen für Recruiter</target>
-      </trans-unit>
+        <target state="translated">Allgemeine Geschäftsbedingungen für Recruiter</target> </trans-unit>
         <trans-unit id="app.userRegister.step2.agreementPart4" approved="yes">
         <source>app.userRegister.step2.agreementPart4</source>
         <target state="translated">und Datenschutzerklärung</target>
@@ -515,10 +513,9 @@
         <source>app.userRegister.step6.chooseCategoryLabel</source>
         <target state="translated">Wählen Sie Ihre gewünschten Arbeitsfelder (z.B. Seefracht)</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step6.preferedLocations" approved="yes">
+      <trans-unit id="app.userRegister.step6.preferedLocations" approved="no">
         <source>app.userRegister.step6.preferedLocations</source>
-        <target state="translated">Bevorzugte Städte/Gebiete</target>
-      </trans-unit>
+        <target state="translated">Bevorzugte Städte/Gebiete</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.preferedLocationsLabel" approved="yes">
         <source>app.userRegister.step6.preferedLocationsLabel</source>
         <target state="translated">Wählen Sie Ihre bevorzugten Regionen/Länder/Städte</target>
@@ -559,10 +556,9 @@
         <source>app.userRegister.step2.agreementPart1.recruiter</source>
         <target state="translated">Mit der Anmeldung stimme ich den</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart2.recruiter" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart2.recruiter" approved="no">
         <source>app.userRegister.step2.agreementPart2.recruiter</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
-      </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
       <trans-unit id="app.userRegister.step2.signUpButton.recruiter" approved="yes">
         <source>app.userRegister.step2.signUpButton.recruiter</source>
         <target state="translated">Registrieren</target>
@@ -615,6 +611,9 @@
         <source>form.salaryTitle</source>
         <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
       </trans-unit>
-      </body>
+      <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
+        <source>app.registration_form_step7.salary.lengthConstraint</source>
+        <target>Gehalt sollte mindestens vierstellig sein</target> </trans-unit>
+    </body>
   </file>
 </xliff>

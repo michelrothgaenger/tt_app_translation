@@ -1196,8 +1196,7 @@
       </trans-unit>
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
-        <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert.</target>
-      </trans-unit>
+        <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert</target> </trans-unit>
       </body>
   </file>
 </xliff>

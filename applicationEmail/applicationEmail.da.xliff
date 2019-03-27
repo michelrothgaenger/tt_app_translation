@@ -37,6 +37,9 @@
         <source>app.application.generalSalutation</source>
         <target state="translated">Kære bruger</target>
       </trans-unit>
+    <trans-unit id="app.application.mail.ats" approved="no">
+        <source>app.application.mail.ats</source>
+        <target state="translated">ATS</target> </trans-unit>
     </body>
   </file>
 </xliff>

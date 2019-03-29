@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="no">
+        <source>app.deleteAccount.confirmationEmail.subject</source>
+        <target></target> </trans-unit>
+      <trans-unit id="app.deleteAccount.confirmationEmail.content" approved="no">
+        <source>app.deleteAccount.confirmationEmail.content</source>
+        <target></target> </trans-unit>
+      <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
+        <source>app.deleteAccount.informCountryManager.subject</source>
+        <target></target> </trans-unit>
+      <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
+        <source>app.deleteAccount.informCountryManager.content</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="no">
+        <source>app.deleteAccount.informUserBeforeExpiration.subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.deleteAccount.informUserBeforeExpiration.content" approved="no">
+        <source>app.deleteAccount.informUserBeforeExpiration.content</source>
+        <target></target> </trans-unit>
+      <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
+        <source>app.deleteAccount.emailInExpirationDate.subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
+        <source>app.deleteAccount.emailInExpirationDate.content</source>
+        <target></target> </trans-unit>
+    </body>
+  </file>
+</xliff>

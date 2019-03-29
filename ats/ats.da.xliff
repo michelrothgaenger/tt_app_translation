@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.ats.meta.title" approved="no">
+        <source>app.ats.meta.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.searchInput.placeholder" approved="no">
+        <source>app.ats.searchInput.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.aside.settings" approved="no">
+        <source>app.ats.aside.settings</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.aside.check.title" approved="no">
+        <source>app.ats.aside.check.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.aside.check.info" approved="no">
+        <source>app.ats.aside.check.info</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.save.btn" approved="no">
+        <source>app.ats.popup.save.btn</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.info.name.intro" approved="no">
+        <source>app.ats.popup.info.name.intro</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.info.job.intro" approved="no">
+        <source>app.ats.popup.info.job.intro</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.info.end" approved="no">
+        <source>app.ats.popup.info.end</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.info.allSelects" approved="no">
+        <source>app.ats.popup.info.allSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.salary.label" approved="no">
+        <source>app.ats.popup.salary.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.salary.input.title" approved="no">
+        <source>app.ats.popup.salary.input.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.currency.label" approved="no">
+        <source>app.ats.popup.currency.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.start.date.label" approved="no">
+        <source>app.ats.popup.start.date.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.start.date.error" approved="no">
+        <source>app.ats.popup.start.date.error</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.upload.contract.label" approved="no">
+        <source>app.ats.popup.upload.contract.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.flashMsg.part1" approved="no">
+        <source>app.ats.popup.flashMsg.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.popup.flashMsg.part2" approved="no">
+        <source>app.ats.popup.flashMsg.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.aside.link.settings" approved="no">
+        <source>app.ats.settings.aside.link.settings</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.aside.link.settings.locale" approved="no">
+        <source>app.ats.settings.aside.link.settings.locale</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.aside.link.emailText" approved="no">
+        <source>app.ats.settings.aside.link.emailText</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.aside.link.contactPerson" approved="no">
+        <source>app.ats.settings.aside.link.contactPerson</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.emalFooter.label" approved="no">
+        <source>app.ats.settings.main.emalFooter.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.welcome.title" approved="no">
+        <source>app.ats.settings.main.welcome.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.welcome.subject" approved="no">
+        <source>app.ats.settings.main.welcome.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.welcome.text" approved="no">
+        <source>app.ats.settings.main.welcome.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.shortlist.title" approved="no">
+        <source>app.ats.settings.main.shortlist.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.shortlist.subject" approved="no">
+        <source>app.ats.settings.main.shortlist.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.shortlist.text" approved="no">
+        <source>app.ats.settings.main.shortlist.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectBefore.title" approved="no">
+        <source>app.ats.settings.main.rejectBefore.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectBefore.subject" approved="no">
+        <source>app.ats.settings.main.rejectBefore.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectBefore.text" approved="no">
+        <source>app.ats.settings.main.rejectBefore.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectAfter.title" approved="no">
+        <source>app.ats.settings.main.rejectAfter.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectAfter.subject" approved="no">
+        <source>app.ats.settings.main.rejectAfter.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectAfter.text" approved="no">
+        <source>app.ats.settings.main.rejectAfter.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.footer.text" approved="no">
+        <source>app.ats.settings.main.footer.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.title" approved="no">
+        <source>app.ats.reject.popup.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.subtitle" approved="no">
+        <source>app.ats.reject.popup.subtitle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.subtitleAllSelects" approved="no">
+        <source>app.ats.reject.popup.subtitleAllSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.text" approved="no">
+        <source>app.ats.reject.popup.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.textAllSelects" approved="no">
+        <source>app.ats.reject.popup.textAllSelects</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.confirm.label.part1" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.confirm.label.part2" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.confirm.label.part3" approved="no">
+        <source>app.ats.reject.popup.confirm.label.part3</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.confirm.input.placeholder" approved="no">
+        <source>app.ats.reject.popup.confirm.input.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.reject.popup.save.btn" approved="no">
+        <source>app.ats.reject.popup.save.btn</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.welcome" approved="no">
+        <source>app.ats.email.defaultSubject.welcome</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.welcome" approved="no">
+        <source>app.ats.email.defaultContent.welcome</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
+        <source>app.ats.email.defaultSubject.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
+        <source>app.ats.email.defaultContent.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
+        <source>app.ats.email.defaultSubject.shortlist</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.shortlist" approved="no">
+        <source>app.ats.email.defaultContent.shortlist</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.hire" approved="no">
+        <source>app.ats.email.defaultSubject.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.hire" approved="no">
+        <source>app.ats.email.defaultContent.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.rejectBefore" approved="no">
+        <source>app.ats.email.defaultSubject.rejectBefore</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.rejectBefore" approved="no">
+        <source>app.ats.email.defaultContent.rejectBefore</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultSubject.rejectAfter" approved="no">
+        <source>app.ats.email.defaultSubject.rejectAfter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultContent.rejectAfter" approved="no">
+        <source>app.ats.email.defaultContent.rejectAfter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
+        <source>app.ats.settings.main.emailFooter.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.welcome.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.welcome.text.placeholder" approved="no">
+        <source>app.ats.settings.main.welcome.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.shortlist.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.shortlist.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.shortlist.text.placeholder" approved="no">
+        <source>app.ats.settings.main.shortlist.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectBefore.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectAfter.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
+        <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.hire.title" approved="no">
+        <source>app.ats.settings.main.hire.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.hire.subject" approved="no">
+        <source>app.ats.settings.main.hire.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.hire.text" approved="no">
+        <source>app.ats.settings.main.hire.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.hire.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.hire.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="no">
+        <source>app.ats.settings.main.hire.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.email.defaultFooter" approved="no">
+        <source>app.ats.email.defaultFooter</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.interview.title" approved="no">
+        <source>app.ats.settings.main.interview.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.interview.subject" approved="no">
+        <source>app.ats.settings.main.interview.subject</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.interview.text" approved="no">
+        <source>app.ats.settings.main.interview.text</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.interview.subject.placeholder" approved="no">
+        <source>app.ats.settings.main.interview.subject.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="no">
+        <source>app.ats.settings.main.interview.text.placeholder</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.infoEmail.noContactPerson" approved="no">
+        <source>app.ats.infoEmail.noContactPerson</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.label" approved="no">
+        <source>app.ats.settings.main.contactPerson.label</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.select.defaultOption" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.defaultOption</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.part1" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.part1</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.link" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.link</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.select.info.part2" approved="no">
+        <source>app.ats.settings.main.contactPerson.select.info.part2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.ats.settings.main.contactPerson.serverErrorMessage" approved="no">
+        <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.candidatePresentation" approved="no">
+        <source>app.coverCV.candidatePresentation</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.company" approved="no">
+        <source>app.coverCV.company</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.position" approved="no">
+        <source>app.coverCV.position</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.location" approved="no">
+        <source>app.coverCV.location</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.hrManager" approved="no">
+        <source>app.coverCV.hrManager</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.candidate" approved="no">
+        <source>app.coverCV.candidate</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.salary" approved="no">
+        <source>app.coverCV.salary</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.noticePeriod" approved="no">
+        <source>app.coverCV.noticePeriod</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.candidateEmail" approved="no">
+        <source>app.coverCV.candidateEmail</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.candidateMessage" approved="no">
+        <source>app.coverCV.candidateMessage</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.candidateContact">
+        <source>app.coverCV.candidateContact</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.coverCV.footer" approved="no">
+        <source>app.coverCV.footer</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.applied" approved="no">
+        <source>app.applicationStatus.applied</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.shortlisted" approved="no">
+        <source>app.applicationStatus.shortlisted</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.interview" approved="no">
+        <source>app.applicationStatus.interview</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.hire" approved="no">
+        <source>app.applicationStatus.hire</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.rejected" approved="no">
+        <source>app.applicationStatus.rejected</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.sent" approved="no">
+        <source>app.applicationStatus.sent</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applicationStatus.submitted" approved="no">
+        <source>app.applicationStatus.submitted</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.sideMenu.viewAll" approved="no">
+        <source>app.sideMenu.viewAll</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

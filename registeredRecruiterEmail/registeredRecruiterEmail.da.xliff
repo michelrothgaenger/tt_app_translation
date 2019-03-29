@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+        <header>
+            <tool tool-id="symfony" tool-name="Symfony"/>
+        </header>
+        <body>
+            <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
+                <source>app.registeredRecruiter.toPartner.content</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
+                <source>app.registeredRecruiter.toPartner.subject</source>
+                <target state="translated"></target>
+            </trans-unit>
+            <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
+                <source>app.registeredRecruiter.toRecruiter.content</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
+                <source>app.registeredRecruiter.toRecruiter.subject</source>
+                <target state="translated"></target>
+            </trans-unit>
+            <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="no">
+                <source>app.confirmedRecruiter.toPartner.subject</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
+                <source>app.confirmedRecruiter.toPartner.content</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
+                <source>app.confirmedRecruiter.toRecruiter.subject</source>
+                <target state="translated"></target>
+            </trans-unit>
+            <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
+                <source>app.confirmedRecruiter.toRecruiter.content</source>
+                <target></target>
+            </trans-unit>
+            <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">
+                <source>app.registeredRecruiter.toPartner.linkForApproving</source>
+                <target></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

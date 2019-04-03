@@ -226,9 +226,9 @@
         <source>app.userRegister.step4.shortCV</source>
         <target state="translated">Sie möchten von Transport Talent mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
-        <target state="translated">Kurze Zusammenfassung</target>
+        <target>Profil bearbeiten</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.experience" approved="yes">
         <source>app.userRegister.step4.experience</source>
@@ -509,16 +509,9 @@
         <source>app.userRegister.step6.preferedJobCategories</source>
         <target state="translated">Bevorzugte Arbeitsfelder</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step6.chooseCategoryLabel" approved="yes">
-        <source>app.userRegister.step6.chooseCategoryLabel</source>
-        <target state="translated">Wählen Sie Ihre gewünschten Arbeitsfelder (z.B. Seefracht)</target>
-      </trans-unit>
       <trans-unit id="app.userRegister.step6.preferedLocations" approved="no">
         <source>app.userRegister.step6.preferedLocations</source>
-        <target state="translated">Bevorzugte Städte/Gebiete</target> </trans-unit>
-      <trans-unit id="app.userRegister.step6.preferedLocationsLabel" approved="yes">
-        <source>app.userRegister.step6.preferedLocationsLabel</source>
-        <target state="translated">Wählen Sie Ihre bevorzugten Regionen/Länder/Städte</target>
+        <target state="translated">Bevorzugte Städte/Gebiete</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step6.salaryExpectations" approved="yes">
         <source>app.userRegister.step6.salaryExpectations</source>

@@ -269,17 +269,17 @@
         <source>app.userRegister.step4.shortCV</source>
         <target state="translated">Want to get headhunted and get the best out of Transport Talent? Make sure to complete the last part of your profile.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
-        <target state="translated">Short summary</target>
+        <target>Edit profile</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.experience" approved="yes">
         <source>app.userRegister.step4.experience</source>
         <target state="translated">Experience</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.specialityLabel" approved="yes">
+      <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">What areas do you have experience in? (e.g. Ocean Freight)</target>
+        <target>What is your area of expertise?</target>
       </trans-unit>
       <trans-unit id="app.userRegister.steps.backButton" approved="yes">
         <source>app.userRegister.steps.backButton</source>
@@ -289,9 +289,9 @@
         <source>app.userRegister.steps.saveProceedButton</source>
         <target state="translated"><![CDATA[Save & Proceed >]]></target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Let us know what your professional focus is, so we can find the best matches for you.</target>
+        <target>Tell us what kind of work you are looking for and in which part of the world. If you've used the importer for Linkedin you might already find some data here.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.stepSocialNetworksAndCV" approved="yes">
         <source>app.userRegister.step5.stepSocialNetworksAndCV</source>
@@ -405,17 +405,9 @@
         <source>app.userRegister.step6.preferedJobCategories</source>
         <target state="translated">Preferred job categories</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step6.chooseCategoryLabel" approved="yes">
-        <source>app.userRegister.step6.chooseCategoryLabel</source>
-        <target state="translated">Choose your desired fields of profession (e.g. Oceanfreight)</target>
-      </trans-unit>
       <trans-unit id="app.userRegister.step6.preferedLocations" approved="yes">
         <source>app.userRegister.step6.preferedLocations</source>
         <target state="translated">Preferred regions &amp; countries</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.step6.preferedLocationsLabel" approved="yes">
-        <source>app.userRegister.step6.preferedLocationsLabel</source>
-        <target state="translated">Choose preferred regions/countries/cities</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step6.salaryExpectations" approved="yes">
         <source>app.userRegister.step6.salaryExpectations</source>

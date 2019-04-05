@@ -93,6 +93,9 @@
             <source>app.flash.linkedin.alreadyInUse</source>
             <target state="translated">Dieses LinkedIn Konto ist bereits mit einem anderen Konto verknüpft</target>
         </trans-unit>
+    <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="no">
+            <source>app.flash.cv.upload.error.wrongSize</source>
+            <target>Die Datei darf nicht größer als 15 MB sein.</target> </trans-unit>
     </body>
   </file>
 </xliff>

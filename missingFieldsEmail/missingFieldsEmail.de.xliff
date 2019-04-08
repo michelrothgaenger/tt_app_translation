@@ -5,10 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.missingFieldsEmail.firstPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.firstPart" approved="no">
         <source>app.missingFieldsEmail.firstPart</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent möchte Ihnen den besten Service für Ihren nächsten Karriereschritt bieten. Um sicherzustellen, dass wir Sie nur bei relevanten Angeboten ansprechen, nutzten wir Ihr Profil. Uns ist aufgefallen, dass in Ihrem Profil die nachstehenden Angaben fehlen:&lt;br&gt;&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
         <source>app.missingFieldsEmail.secondPart</source>
         <target state="translated">&lt;br&gt;Klicken Sie &lt;a href="%profileUrl%"&gt;hier&lt;/a&gt; und vervollständigen Sie Ihre Informationen. Wir danke Ihnen, dass Sie sich die Zeit nehmen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>

@@ -49,10 +49,9 @@
         <source>app.jobAlertEmail.jobAlertCreated.subject</source>
         <target state="translated">Ihr Suchagent ist aktiv</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;Ihr Suchagent "%title%" wurde deaktiviert. Wir hoffen, Sie haben die Position gefunden, nach der Sie gesucht haben. Sie können jederzeit einen weiteren Agenten in Ihrem &lt;a href="%jobAlertsUrl%"&gt;Profil&lt;/a&gt; anlegen. Bitte lassen Sie uns wissen, wenn wir unseren Suchagenten verbessern können, um Sie bei Ihrer Suche optimal zu unterstützen.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport-Talent-Team</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Ihr Suchagent wurde deaktiviert</target>
@@ -61,10 +60,9 @@
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
         <target state="translated">Neue Stellen auf Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt;hier ist eine Liste der besten Stellen basierend auf Ihrem Job Agenten "%jobAlertTitle%". Wir hoffen, Sie finden die Position, welche Sie suchen. Job Agenten können Sie in Ihrem &lt;a href="%jobAlertsUrl%"&gt;Profil&lt;/a&gt; anpassen. Bitte lassen Sie uns wissen, sollten wir unseren Job Agent weiter entwickeln können, um Sie weiter bei Ihrer Suche zu unterstützen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team&lt;br&gt;&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
     <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Empfehlungsjobs</target>
@@ -83,8 +81,7 @@
       </trans-unit>
     <trans-unit id="app.jobAlertEmail.jobAlertJobs.part1" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part1</source>
-        <target>Hallo</target>
-      </trans-unit>
+        <target>Hej</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.partFirstname." approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.partFirstname</source>
         <target> %firstname%,</target>

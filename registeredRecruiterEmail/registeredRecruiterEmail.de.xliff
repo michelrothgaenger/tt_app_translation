@@ -7,8 +7,7 @@
         <body>
             <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
                 <source>app.registeredRecruiter.toPartner.content</source>
-                <target>Hallo %partnerFirstName%,&lt;br&gt;&lt;br&gt;&lt;br&gt; Ein Benutzer mit E-Mail %recruiterEmail% hat sich gerade als Personalvermittler registriert. Sie müssen seine Registrierung genehmigen, damit er die Stellenangebote einsehen kann.</target>
-            </trans-unit>
+                <target>H</target> </trans-unit>
             <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
                 <source>app.registeredRecruiter.toPartner.subject</source>
                 <target>Neuer Personalberater muss genehmigt werden</target>
@@ -27,8 +26,7 @@
             </trans-unit>
             <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
                 <source>app.confirmedRecruiter.toPartner.content</source>
-                <target>Hallo %partnerFirstName%,&lt;br&gt;&lt;br&gt;&lt;br&gt; der Personalvermittler mit E-Mail %recruiterEmail% wurde von Ihnen erfolgreich genehmigt und kann nun Stellen durchsuchen und Kandidaten empfehlen.</target>
-            </trans-unit>
+                <target>H</target> </trans-unit>
             <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
                 <source>app.confirmedRecruiter.toRecruiter.subject</source>
                 <target>Ihre Anfrage wurde erfolgreich bestätigt.</target>

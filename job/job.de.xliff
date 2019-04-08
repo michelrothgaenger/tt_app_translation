@@ -480,8 +480,7 @@
         </trans-unit>
     <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
             <source>app.job.recruiterNotApprovedPopup.title</source>
-            <target>Hallo</target>
-        </trans-unit>
+            <target>Hej</target> </trans-unit>
         <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
             <source>app.job.recruiterNotApprovedPopup.info</source>
             <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie Transport Talent mit allen Funktionen nutzen.</target>

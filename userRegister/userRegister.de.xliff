@@ -48,10 +48,9 @@
         <source>registration.email.subject</source>
         <target state="translated">Willkommen bei Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.message" approved="yes">
+      <trans-unit id="registration.emailemp.message" approved="no">
         <source>registration.emailemp.message</source>
-        <target state="translated">Hallo %firstname%,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren, rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">Hej %firstname%,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren, rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target> </trans-unit>
       <trans-unit id="registration.email.message" approved="yes">
         <source>registration.email.message</source>
         <target state="translated">Lieber Nutzer,&lt;br&gt; &lt;br&gt; um Ihr Nutzerkonto zu aktivieren rufen Sie bitte folgende Seite auf: &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
@@ -578,8 +577,7 @@
       </trans-unit>
     <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hallo</target>
-      </trans-unit>
+        <target state="translated">Hej</target> </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>
         <target state="translated"> %firstname%,</target>

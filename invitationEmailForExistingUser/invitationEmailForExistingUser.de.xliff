@@ -5,10 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="yes">
+      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="no">
         <source>app.invitationEmailForExistingUser.firstPart</source>
-        <target state="translated">Hallo %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% hat Sie als Nutzer</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.categoryPart" approved="yes">
         <source>app.invitationEmailForExistingUser.categoryPart</source>
         <target state="translated">für den Bereich %category%</target>

@@ -13,14 +13,12 @@
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
         <target state="translated">Eine neue Bewerbung wurde übermittelt</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
+      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen und ein Konto bei Transporttalent.com anzulegen.</target>
-      </trans-unit>
-      <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
+        <target state="translated">H</target> </trans-unit>
+      <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat soeben Ihre Bewerbung für die Position %position% eingereicht, &lt;br&gt;&lt;br&gt; Ist dies in Ihrem Interesse? Bitte klicken Sie hier: &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
     <trans-unit id="app.applicationForwardedEmail.firstPart" approved="yes">
         <source>app.applicationForwardedEmail.firstPart</source>
         <target state="translated">Lieber Nutzer,&lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>

@@ -7,8 +7,7 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target>Your application is still pending</target>
-      </trans-unit>
+        <target>You Submitted Candidate</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
         <target>%candidateEmail% %jobTitle%</target>

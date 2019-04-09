@@ -178,7 +178,7 @@
         <target state="translated">Welcome</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactDetails" approved="yes">
-        <source>app.userRegister.step2.contactDetails"</source>
+        <source>app.userRegister.step2.contactDetails</source>
         <target state="translated"><![CDATA[Basic information - Contact details]]></target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactName" approved="yes">
@@ -214,7 +214,7 @@
         <target state="translated">Hello fellow Recruiter, welcome to the Transport Talent platform. We will approve your application to become a Recruiter shortly. In the meantime, please fill in your profile so that we can improve the experience of finding jobs to recruit for. It'll only take a few minutes. If you just want to get started recruiting right way, you can skip the profile for now and do it later.  </target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactDetails.recruiter" approved="yes">
-        <source>app.userRegister.step2.contactDetails.recruiter"</source>
+        <source>app.userRegister.step2.contactDetails.recruiter</source>
         <target state="translated"><![CDATA[Basic information - Contact details]]></target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactName.recruiter" approved="yes">

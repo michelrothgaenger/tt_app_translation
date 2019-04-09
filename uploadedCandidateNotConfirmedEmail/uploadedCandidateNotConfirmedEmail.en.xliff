@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target>You Submitted Candidate</target> </trans-unit>
+        <target>Your Submitted Candidate</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
         <target>D</target> </trans-unit>

@@ -177,6 +177,14 @@
          <source>app.profile.dashboard.ats.tile.description</source>
          <target state="translated">Manage incoming jobs</target>
       </trans-unit>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.title" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.title</source>
+         <target state="translated">Upload Candidate</target>
+      </trans-unit>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.description" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.description</source>
+         <target state="translated">Upload candidate description. Upload candidate description.</target>
+      </trans-unit>
       <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target state="translated">or</target>
@@ -1196,6 +1204,86 @@
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
         <target state="translated">Welcome back %firstName%. Your account has been reactivated.</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.title</source>
+        <target state="translated">Upload Candidate</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.description" approved="no">
+        <source>app.profile.popup.uploadCandidate.description</source>
+        <target state="translated">Use the form below to upload candidate. Due data privacy reasons we will ask your candidate to confirm his/her application. After candidate's confirmation we will proceed with the candidate. </target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.label</source>
+        <target state="translated">Firstname</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.input.title</source>
+        <target state="translated">Firstname should contain only letters</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.label</source>
+        <target state="translated">Lastname</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.input.title</source>
+        <target state="translated">Lastname should contain only letters</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.email.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.email.label</source>
+        <target state="translated">Email</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.label</source>
+        <target state="translated">Salary Expectation</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.initialOption</source>
+        <target state="translated">Select Salary Range</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.placeholder" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.placeholder</source>
+        <target>Enter an amount</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.title</source>
+        <target>Minimum 4 symbols, only numbers</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.currency.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.currency.label</source>
+        <target state="translated">Curency</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.label</source>
+        <target state="translated">Notice Period</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.initialOption</source>
+        <target state="translated">Select Notice Period</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label</source>
+        <target state="translated">Upload CV</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label.uploaded" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label.uploaded</source>
+        <target state="translated">Change CV</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part1" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part1</source>
+        <target state="translated">You uploaded </target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part2</source>
+        <target state="translated"> as CV.</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.confirm.input.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.confirm.input.label</source>
+        <target state="translated">I have candidate's permission to submit his/her data for this position.</target>
+      </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.submitBtn" approved="no">
+        <source>app.profile.popup.uploadCandidate.submitBtn</source>
+        <target state="translated">Submit Candidate</target>
       </trans-unit>
     </body>
   </file>

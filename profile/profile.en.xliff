@@ -1285,6 +1285,14 @@
         <source>app.profile.popup.uploadCandidate.submitBtn</source>
         <target state="translated">Submit Candidate</target>
       </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part1" approved="no">
+          <source>app.profile.uploadCandidate.success.part1</source>
+          <target state="translated">You successful submitted </target>
+      </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part2" approved="no">
+          <source>app.profile.uploadCandidate.success.part2</source>
+          <target state="translated"> - please check your inbox for further information.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

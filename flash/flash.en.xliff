@@ -5,98 +5,106 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-        <trans-unit id="app.flash.companyUnsaved" approved="yes">
-          <source>app.flash.companyUnsaved</source>
-          <target state="translated">Company has been removed from profile</target>
-        </trans-unit>
-        <trans-unit id="app.flash.companySaved" approved="yes">
-          <source>app.flash.companySaved</source>
-          <target state="translated">Company has been saved to profile</target>
-        </trans-unit>
-        <trans-unit id="app.flash.jobUnsaved" approved="yes">
-          <source>app.flash.jobUnsaved</source>
-          <target state="translated">Job has been removed from profile</target>
-        </trans-unit>
-        <trans-unit id="app.flash.jobSaved" approved="yes">
-          <source>app.flash.jobSaved</source>
-          <target state="translated">Job has been saved to profile</target>
-        </trans-unit>
-        <trans-unit id="app.flash.referral.linkCopiedToClipboard" approved="yes">
-          <source>app.flash.referral.linkCopiedToClipboard</source>
-          <target state="translated">Link copied to clipboard</target>
-        </trans-unit>
-        <trans-unit id="app.flash.error" approved="yes">
-          <source>app.flash.error</source>
-          <target state="translated">Error</target>
-        </trans-unit>
-        <trans-unit id="app.flash.oauthError" approved="yes">
-          <source>app.flash.oauthError</source>
-          <target state="translated">Could not auth via %serviceName%, please try again</target>
-        </trans-unit>
-        <trans-unit id="app.flash.job.employer.cantEditJobs" approved="yes">
-          <source>app.flash.job.employer.cantEditJobs</source>
-          <target state="translated">You have no permissions to edit this job</target>
-        </trans-unit>
-        <trans-unit id="app.flash.job.employer.cantPostJobs" approved="yes">
-          <source>app.flash.job.employer.cantPostJobs</source>
-          <target state="translated">Your account needs to get approved. One of our customer success mangers will contact you shortly.</target>
-        </trans-unit>
-        <trans-unit id="app.flash.job.employer.saved" approved="yes">
-          <source>app.flash.job.employer.saved</source>
-          <target state="translated">Job has been saved</target>
-        </trans-unit>
-        <trans-unit id="app.flashMessageJobPosted" approved="yes">
-          <source>app.flashMessageJobPosted</source>
-          <target state="translated">Your job has been posted</target>
-        </trans-unit>
-        <trans-unit id="app.flash.cv.upload.error.general" approved="yes">
-          <source>app.flash.cv.upload.error.general</source>
-          <target state="translated">Error while uploading CV</target>
-        </trans-unit>
-        <trans-unit id="app.flash.cv.upload.error.wrongType" approved="yes">
-          <source>app.flash.cv.upload.error.wrongType</source>
-          <target state="translated">The file must be a PDF</target>
-        </trans-unit>
-        <trans-unit id="app.flash.unsubscribed" approved="yes">
-          <source>app.flash.unsubscribed</source>
-          <target state="translated">Unsubscribed</target>
-        </trans-unit>
-        <trans-unit id="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
-          <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
-          <target state="translated">It is not possible to unsubscribe from security emails. They are only sent action-based and very important to keep your account safe.</target>
-        </trans-unit>
-        <trans-unit id="app.flash.applicationHidden" approved="yes">
-          <source>app.flash.applicationHidden</source>
-          <target state="translated">Application hidden</target>
-        </trans-unit>
-        <trans-unit id="app.flash.applicationUndoHidden" approved="yes">
-          <source>app.flash.applicationUndoHidden</source>
-          <target state="translated">Application restored</target>
-        </trans-unit>
-        <trans-unit id="app.flash.registerAndApply" approved="yes">
-          <source>app.flash.registerAndApply</source>
-          <target state="translated">Application submitted successfully!</target>
-        </trans-unit>
-        <trans-unit id="app.flashMessageJobPostLater" approved="yes">
-            <source>app.flashMessageJobPostLater</source>
-            <target state="translated">Your job ad will be posted on %date% at %time%.</target>
-        </trans-unit>
-        <trans-unit id="app.flash.inactivityJob.deactivate" approved="yes">
-            <source>app.flash.inactivityJob.deactivate</source>
-            <target state="translated">Job was deactivated</target>
-        </trans-unit>
-        <trans-unit id="app.flash.inactivityJob.update" approved="yes">
-            <source>app.flash.inactivityJob.update</source>
-            <target state="translated">Job was updated</target>
-        </trans-unit>
-        <trans-unit id="app.flash.linkedin.alreadyInUse" approved="no">
-            <source>app.flash.linkedin.alreadyInUse</source>
-            <target state="translated">This LinkedIn account is already in use by another account</target>
-        </trans-unit>
-        <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="no">
-            <source>app.flash.cv.upload.error.wrongSize</source>
-            <target>The file must be not larger than 15 MB.</target>
-        </trans-unit>
+      <trans-unit id="app.flash.companyUnsaved" approved="yes">
+        <source>app.flash.companyUnsaved</source>
+        <target state="translated">Company has been removed from profile</target>
+      </trans-unit>
+      <trans-unit id="app.flash.companySaved" approved="yes">
+        <source>app.flash.companySaved</source>
+        <target state="translated">Company has been saved to profile</target>
+      </trans-unit>
+      <trans-unit id="app.flash.jobUnsaved" approved="yes">
+        <source>app.flash.jobUnsaved</source>
+        <target state="translated">Job has been removed from profile</target>
+      </trans-unit>
+      <trans-unit id="app.flash.jobSaved" approved="yes">
+        <source>app.flash.jobSaved</source>
+        <target state="translated">Job has been saved to profile</target>
+      </trans-unit>
+      <trans-unit id="app.flash.referral.linkCopiedToClipboard" approved="yes">
+        <source>app.flash.referral.linkCopiedToClipboard</source>
+        <target state="translated">Link copied to clipboard</target>
+      </trans-unit>
+      <trans-unit id="app.flash.error" approved="yes">
+        <source>app.flash.error</source>
+        <target state="translated">Error</target>
+      </trans-unit>
+      <trans-unit id="app.flash.oauthError" approved="yes">
+        <source>app.flash.oauthError</source>
+        <target state="translated">Could not auth via %serviceName%, please try again</target>
+      </trans-unit>
+      <trans-unit id="app.flash.job.employer.cantEditJobs" approved="yes">
+        <source>app.flash.job.employer.cantEditJobs</source>
+        <target state="translated">You have no permissions to edit this job</target>
+      </trans-unit>
+      <trans-unit id="app.flash.job.employer.cantPostJobs" approved="yes">
+        <source>app.flash.job.employer.cantPostJobs</source>
+        <target state="translated">Your account needs to get approved. One of our customer success mangers will contact
+          you shortly.
+        </target>
+      </trans-unit>
+      <trans-unit id="app.flash.job.employer.saved" approved="yes">
+        <source>app.flash.job.employer.saved</source>
+        <target state="translated">Job has been saved</target>
+      </trans-unit>
+      <trans-unit id="app.flashMessageJobPosted" approved="yes">
+        <source>app.flashMessageJobPosted</source>
+        <target state="translated">Your job has been posted</target>
+      </trans-unit>
+      <trans-unit id="app.flash.cv.upload.error.general" approved="yes">
+        <source>app.flash.cv.upload.error.general</source>
+        <target state="translated">Error while uploading CV</target>
+      </trans-unit>
+      <trans-unit id="app.flash.cv.upload.error.wrongType" approved="yes">
+        <source>app.flash.cv.upload.error.wrongType</source>
+        <target state="translated">The file must be a PDF</target>
+      </trans-unit>
+      <trans-unit id="app.flash.unsubscribed" approved="yes">
+        <source>app.flash.unsubscribed</source>
+        <target state="translated">Unsubscribed</target>
+      </trans-unit>
+      <trans-unit id="app.flash.unsubscribe.deniedBecauseOfSecurity" approved="yes">
+        <source>app.flash.unsubscribe.deniedBecauseOfSecurity</source>
+        <target state="translated">It is not possible to unsubscribe from security emails. They are only sent
+          action-based and very important to keep your account safe.
+        </target>
+      </trans-unit>
+      <trans-unit id="app.flash.applicationHidden" approved="yes">
+        <source>app.flash.applicationHidden</source>
+        <target state="translated">Application hidden</target>
+      </trans-unit>
+      <trans-unit id="app.flash.applicationUndoHidden" approved="yes">
+        <source>app.flash.applicationUndoHidden</source>
+        <target state="translated">Application restored</target>
+      </trans-unit>
+      <trans-unit id="app.flash.registerAndApply" approved="yes">
+        <source>app.flash.registerAndApply</source>
+        <target state="translated">Application submitted successfully!</target>
+      </trans-unit>
+      <trans-unit id="app.flashMessageJobPostLater" approved="yes">
+        <source>app.flashMessageJobPostLater</source>
+        <target state="translated">Your job ad will be posted on %date% at %time%.</target>
+      </trans-unit>
+      <trans-unit id="app.flash.inactivityJob.deactivate" approved="yes">
+        <source>app.flash.inactivityJob.deactivate</source>
+        <target state="translated">Job was deactivated</target>
+      </trans-unit>
+      <trans-unit id="app.flash.inactivityJob.update" approved="yes">
+        <source>app.flash.inactivityJob.update</source>
+        <target state="translated">Job was updated</target>
+      </trans-unit>
+      <trans-unit id="app.flash.linkedin.alreadyInUse" approved="no">
+        <source>app.flash.linkedin.alreadyInUse</source>
+        <target state="translated">This LinkedIn account is already in use by another account</target>
+      </trans-unit>
+      <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="no">
+        <source>app.flash.cv.upload.error.wrongSize</source>
+        <target>The file must be not larger than 15 MB.</target>
+      </trans-unit>
+      <trans-unit id="app.flash.error.noPermission" approved="no">
+        <source>app.flash.error.noPermission</source>
+        <target>You have no permission to access this link</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

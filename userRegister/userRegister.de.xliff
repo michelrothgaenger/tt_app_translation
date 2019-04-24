@@ -241,14 +241,12 @@
         <source>app.userRegister.steps.saveProceedButton</source>
         <target state="translated">Speichern und fortfahren &gt;</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Angaben zu Ihrer Berufserfahrung helfen uns, passende Stellen für Sie zu finden.</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.step4.specialityLabel" approved="yes">
+        <target state="translated">Angaben zu Ihrer Berufserfahrung helfen uns, passende Stellen für Sie zu finden.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">Was sind Ihre Fachgebiete (z. B. Seefracht)?</target>
-      </trans-unit>
+        <target state="translated">Was sind Ihre Fachgebiete (z. B. Seefracht)?</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
         <target state="translated">Importieren Sie Ihre Daten</target>

@@ -5,14 +5,12 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated"><![CDATA[<br>Hvis du ønsker at ændre indstillingerne for din jobagent, skal du gå til din <a href="%jobAlertsUrl%">profil</a>.<br><br>Venlig Hilsen,<br><br>Transport Talent]]></target>
-      </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
+        <target state="translated">&lt;</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Din jobagent er nu blevet oprettet. Følgende specifikationer er gældende:&lt;br&gt;&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>
         <target state="translated">Titel:</target>
@@ -21,10 +19,9 @@
         <source>app.jobAlertEmail.jobAlertCreated.frequecnyLabel</source>
         <target state="translated">Periode til at sende:</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.keywordLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.keywordLabel" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.keywordLabel</source>
-        <target state="translated">Keywords:</target>
-      </trans-unit>
+        <target state="translated">Søgeord:</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.countriesLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.countriesLabel</source>
         <target state="translated">Lande:</target>
@@ -49,26 +46,44 @@
         <source>app.jobAlertEmail.jobAlertCreated.subject</source>
         <target state="translated">Din jobagent er nu aktiv</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Din jobagent er blevet deaktiveret. Vi håber, at du har fundet den position, du søgte. Nye jobagenter kan altid oprettes i din &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Lad os vide, hvis der er noget vi kan forbedre om vores job alarmer til yderligere støtte din søgning.&lt;br&gt;&lt;br&gt; Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Din jobagent er blevet de-aktiveret</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">Nye stillinger på Transport Talent</target>
-      </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
+        <target state="translated">Nye jobs på Transport Talent</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Her er listen over de bedste jobs på Transport Talent baseret på din jobagent "%jobAlertTitle%". Vi håber, at du vil finde det job du søger. Jobagenter kan altid ændres på din &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Lad os endelig vide hvis der er noget vi kan ændre eller gøre bedre i vores job alerts for at forbedre din søgning.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent&lt;br&gt;&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
     <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Henvisningsjobs</target>
       </trans-unit>
+    <trans-unit id="app.jobAlert.daily.frequency" approved="no">
+        <source>app.jobAlert.daily.frequency</source>
+        <target state="translated">Dagligt</target> </trans-unit>
+      <trans-unit id="app.jobAlert.weekly.frequency" approved="no">
+        <source>app.jobAlert.weekly.frequency</source>
+        <target state="translated">Ugentligt</target> </trans-unit>
+      <trans-unit id="app.jobAlert.monthly.frequency" approved="no">
+        <source>app.jobAlert.monthly.frequency</source>
+        <target state="translated">Månedligt</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part1" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part1</source>
+        <target>Hej</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.partFirstname." approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.partFirstname</source>
+        <target state="translated">%firstname%,</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part2</source>
+        <target>Er du stadig på udkig efter spændende stillinger indenfor transport og logistik? Vi har bemærket at du ikke har brugt Transport Talent i noget tid. Vi har samlet nogle potentielle jobmuligheder til dig nedenfor:</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
+        <source>app.jobAlertEmail.jobAlertJobs.part3</source>
+        <target>D</target> </trans-unit>
     </body>
   </file>
 </xliff>

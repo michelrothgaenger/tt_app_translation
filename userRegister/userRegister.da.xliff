@@ -5,10 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.register" approved="yes">
+      <trans-unit id="app.register" approved="no">
         <source>app.register</source>
-        <target state="translated">Opret en profil og find fagfolk og specialister inden for logistik- og transport</target>
-      </trans-unit>
+        <target state="translated">For at se alle jobmulighederne indenfor transport og logistik skal du oprette en gratis profil</target> </trans-unit>
       <trans-unit id="app.registration" approved="yes">
         <source>app.registration</source>
         <target state="translated">Kom igang</target>
@@ -41,22 +40,19 @@
         <source>registration.check_email</source>
         <target state="translated">En e-mail er blevet sendt til %email%. Den indeholder et aktiveringslink som du skal klikke på for at aktivere din konto.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target state="translated">Tak fordi du har tilmeldt dig TransportTalent.com!</target>
-      </trans-unit>
+        <target state="translated">Tak fordi du har tilmeldt dig Transport Talent!</target> </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
         <target state="translated">Velkommen til Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.message" approved="yes">
+      <trans-unit id="registration.emailemp.message" approved="no">
         <source>registration.emailemp.message</source>
-        <target state="translated">Hej %firstname%,&lt;br&gt; &lt;br&gt; For at afslutte aktiveringen af din konto bedes du venligt klikke på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Venlig Hilsen, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
-      </trans-unit>
-      <trans-unit id="registration.email.message" approved="yes">
+        <target state="translated">Hej %firstname%,&lt;br&gt; &lt;br&gt; For at fuldende aktiveringen af din konto bedes du venligt klikke på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Venlig Hilsen, &lt;br&gt; &lt;br&gt;Transport Talent&lt;br&gt;</target> </trans-unit>
+      <trans-unit id="registration.email.message" approved="no">
         <source>registration.email.message</source>
-        <target state="translated">Hej %firstname%,&lt;br&gt; &lt;br&gt; For at afslutte aktiveringen af din konto bedes du venligt klikke på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Venlig Hilsen, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
-      </trans-unit>
+        <target state="translated">Hej %firstname%,&lt;br&gt; &lt;br&gt; For at afslutte aktiveringen af din konto bedes du venligt klikke på &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Venlig Hilsen, &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target> </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target state="translated">E-mail</target>
@@ -129,14 +125,12 @@
         <source>app.userRegister.popup.signUpAgreement</source>
         <target state="translated">Ved at oprette en profil anerkender jeg &lt;a target="_blank" href="%termsUrl%"&gt;terms &amp; conditions&lt;/a&gt;</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.registerHeader" approved="yes">
+      <trans-unit id="app.userRegister.popup.registerHeader" approved="no">
         <source>app.userRegister.popup.registerHeader</source>
-        <target state="translated">Registrer</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.popup.emailProviding" approved="yes">
+        <target state="translated">Tilmeld</target> </trans-unit>
+      <trans-unit id="app.userRegister.popup.emailProviding" approved="no">
         <source>app.userRegister.popup.emailProviding</source>
-        <target state="translated">Opret en gratis profil ved blot at skrive din e-mailadresse.</target>
-      </trans-unit>
+        <target state="translated">Opret en gratis profil ved blot at bruge din e-mailadresse.</target> </trans-unit>
       <trans-unit id="app.userRegister.popup.email.placeholder" approved="yes">
         <source>app.userRegister.popup.email.placeholder</source>
         <target state="translated">Din emailaddresse</target>
@@ -149,14 +143,12 @@
         <source>app.userRegister.popup.registerButton</source>
         <target state="translated">Opret en gratis profil</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.login" approved="yes">
+      <trans-unit id="app.userRegister.popup.login" approved="no">
         <source>app.userRegister.popup.login</source>
-        <target state="translated">Allerede registreret? Klik her for at logge ind.</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.popup.loginToBook" approved="yes">
+        <target state="translated">Allerede tilmeldt? Klik her for at logge ind.</target> </trans-unit>
+      <trans-unit id="app.userRegister.popup.loginToBook" approved="no">
         <source>app.userRegister.popup.loginToBook</source>
-        <target state="translated">Du skal logge ind først for at få adgang til alle jobs og andre services på sitet.</target>
-      </trans-unit>
+        <target state="translated">Du skal logge ind først for at få adgang til alle jobs og andre services.</target> </trans-unit>
       <trans-unit id="app.userRegister.popup.loginHeader" approved="yes">
         <source>app.userRegister.popup.loginHeader</source>
         <target state="translated">Log ind</target>
@@ -165,10 +157,9 @@
         <source>app.userRegister.popup.loginButton</source>
         <target state="translated">Log ind</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.greeting" approved="yes">
+      <trans-unit id="app.userRegister.step2.greeting" approved="no">
         <source>app.userRegister.step2.greeting</source>
-        <target state="translated">Fantastisk at have dig ombord. Nu er det tid til at få din profil sat op så vi kan matche dig med de rigtige muligheder og arbejdsgivere. Det tager kun et par minutter.</target>
-      </trans-unit>
+        <target state="translated">Dejligt at have dig med i netværket. Nu er det tid til at få din profil sat op så vi kan matche dig med de rigtige jobmuligheder og arbejdsgivere. Det tager kun et par minutter.</target> </trans-unit>
       <trans-unit id="app.userRegister.step2.welcome" approved="yes">
         <source>app.userRegister.step2.welcome</source>
         <target state="translated">Velkommen</target>
@@ -185,14 +176,12 @@
         <source>app.userRegister.step2.agreementPart1</source>
         <target state="translated">Ved at tilmelde mig accepterer jeg</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart2" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart2" approved="no">
         <source>app.userRegister.step2.agreementPart2</source>
-        <target state="translated">Handelsbetigelser</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.step2.signUpButton" approved="yes">
+        <target state="translated">terms &amp; conditions</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.signUpButton" approved="no">
         <source>app.userRegister.step2.signUpButton</source>
-        <target state="translated">Sign op</target>
-      </trans-unit>
+        <target state="translated">Tilmeld</target> </trans-unit>
       <trans-unit id="app.userRegister.step3.greeting" approved="yes">
         <source>app.userRegister.step3.greeting</source>
         <target state="translated">Sådan! Første del er færdig.</target>
@@ -225,10 +214,9 @@
         <source>app.userRegister.step4.shortCV</source>
         <target state="translated">Ønsker du at blive headhuntet og få det meste ud af din profil på Transport Talent? Sørg for at færdiggøre den sidste del af din profil.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
-        <target state="translated">Kort resumé</target>
-      </trans-unit>
+        <target state="translated">Ret profil</target> </trans-unit>
       <trans-unit id="app.userRegister.step4.experience" approved="yes">
         <source>app.userRegister.step4.experience</source>
         <target state="translated">Erfaring</target>
@@ -241,34 +229,29 @@
         <source>app.userRegister.steps.saveProceedButton</source>
         <target state="translated">Gem &amp; Fortsæt &gt;</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Fortæl os hvad dit faglige fokus er så vi kan finde de jobs der passer bedst til dig.</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.step4.specialityLabel" approved="yes">
+        <target state="translated">Fortæl os hvad dit faglige fokus er så vi kan finde de jobs der passer bedst til dig.Hvis du har brugt LinkedIn til at tilmelde dig så er der nok allerede nogle af dine informationer her.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
         <source>app.userRegister.step4.specialityLabel</source>
-        <target state="translated">Hvad er dit speciale?</target>
-      </trans-unit>
+        <target state="translated">Hvad er dit speciale/fagområde?</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.stepImportLinkedIn" approved="yes">
         <source>app.userRegister.step5.stepImportLinkedIn</source>
         <target state="translated">Step 2/4: Sociale netværk og CV</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.savingTimeByImport" approved="yes">
+      <trans-unit id="app.userRegister.step5.savingTimeByImport" approved="no">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target state="translated">Hjælp os med at forbedre vores matchning af jobs ved at dele yderligere detaljer med os.</target>
-      </trans-unit>
+        <target state="translated">Du skal knytte dit cv til din brugerprofil for at kunne benytte vores one-click-application funktion.</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
         <target state="translated">Importer dine oplysninger</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.funPart" approved="yes">
+      <trans-unit id="app.userRegister.step5.funPart" approved="no">
         <source>app.userRegister.step5.funPart</source>
-        <target state="translated">Importer dine data via LinkedIn så vi har de oplysninger vi skal bruge.</target>
-      </trans-unit>
-      <trans-unit id="app.userRegister.connectToLinkedInHeader" approved="yes">
+        <target state="translated">Tilknyt din LinkedIn profil eller dit cv til din brugerprofil for at give os de oplysninger vi skal bruge.</target> </trans-unit>
+      <trans-unit id="app.userRegister.connectToLinkedInHeader" approved="no">
         <source>app.userRegister.connectToLinkedInHeader</source>
-        <target state="translated">Importer via LinkedIn</target>
-      </trans-unit>
+        <target state="translated">Connect via LinkedIn</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.stepImportDataButton" approved="yes">
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Importer via LinkedIn</target>
@@ -293,10 +276,9 @@
         <source>app.userRegister.step5.cvSuccesPart2</source>
         <target state="translated">som dit CV.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.fileUpload" approved="yes">
+      <trans-unit id="app.userRegister.step5.fileUpload" approved="no">
         <source>app.userRegister.step5.fileUpload</source>
-        <target state="translated">Upload fil</target>
-      </trans-unit>
+        <target state="translated">Opdater fil</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.cvRestriction" approved="yes">
         <source>app.userRegister.step5.cvRestriction</source>
         <target state="translated">Filen skal være en PDF og ikke større end 15 MB.</target>
@@ -305,10 +287,9 @@
         <source>app.userRegister.step6.stepPersonalData</source>
         <target state="translated">Step 3/4: Personlige oplysinger</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step6.dataFilling" approved="yes">
+      <trans-unit id="app.userRegister.step6.dataFilling" approved="no">
         <source>app.userRegister.step6.dataFilling</source>
-        <target state="translated">Hvis du har importeret oplysinger via LinkedIn, så har vi nok det vi skal bruge Ellers skal du udfylde dem manuelt.</target>
-      </trans-unit>
+        <target state="translated">Hvis du har importeret oplysinger via LinkedIn, så har vi nok det vi skal bruge. Ellers skal du udfylde dem manuelt.</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.personalProfile" approved="yes">
         <source>app.userRegister.step6.personalProfile</source>
         <target state="translated">Personlig profil</target>
@@ -413,10 +394,9 @@
         <source>form.residenceLabel</source>
         <target state="translated">Bopæl</target>
       </trans-unit>
-      <trans-unit id="form.salutationLabel" approved="yes">
+      <trans-unit id="form.salutationLabel" approved="no">
         <source>form.salutationLabel</source>
-        <target state="translated">Titel</target>
-      </trans-unit>
+        <target state="translated">Tiltaleform</target> </trans-unit>
       <trans-unit id="form.salaryLabel" approved="yes">
         <source>form.salaryLabel</source>
         <target state="translated">Årlig løn</target>
@@ -437,10 +417,168 @@
         <source>form.experiencemLabel</source>
         <target state="translated">Antal års erhvervserfaring?</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.flash.confirmEmail.confirmationTokenNotFound" approved="yes">
+      <trans-unit id="app.userRegister.flash.confirmEmail.confirmationTokenNotFound" approved="no">
         <source>app.userRegister.flash.confirmEmail.confirmationTokenNotFound</source>
-        <target state="translated">Bruger med en sådan bekræftelse token eksisterer ikke</target>
-      </trans-unit>
+        <target state="translated">Bruger med en sådan bekræftelsestoken eksisterer ikke</target> </trans-unit>
+    <trans-unit id="app.userRegister.loginWithLinkedIn" approved="no">
+        <source>app.userRegister.loginWithLinkedIn</source>
+        <target state="translated">Log ind med Linkedin</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.agreementPart3" approved="no">
+        <source>app.userRegister.step2.agreementPart3</source>
+        <target state="translated">terms &amp; conditions for recruiters</target> </trans-unit>
+        <trans-unit id="app.userRegister.step2.agreementPart4" approved="no">
+        <source>app.userRegister.step2.agreementPart4</source>
+        <target state="translated">og privatlivspolitik</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.welcome.recruiter" approved="no">
+        <source>app.userRegister.step2.welcome.recruiter</source>
+        <target state="translated">Velkommen</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.greeting.recruiter" approved="no">
+        <source>app.userRegister.step2.greeting.recruiter</source>
+        <target state="translated">Hejsa, velkommen til Transport Talent. Vi vil godkende til anmodning om at blive en Recruiter på vores platform så hurtigt som muligt. I mellemtiden beder vi dig udfylde din profil så vi kan give dig de bedst mulige forudsætninger for at finde de stillinger du vil rekruttere til. Det tager kun et par minutter.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.contactDetails.recruiter" approved="no">
+        <source>app.userRegister.step2.contactDetails.recruiter</source>
+        <target state="translated">Grundlæggende information - Kontaktdetaljer</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.contactName.recruiter" approved="no">
+        <source>app.userRegister.step2.contactName.recruiter</source>
+        <target state="translated">Vi starter med det helt basale. What is your name and how can we get in touch with you?</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.agreementPart1.recruiter" approved="no">
+        <source>app.userRegister.step2.agreementPart1.recruiter</source>
+        <target state="translated">Ved at tilmelde mig anerkender jeg</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.agreementPart2.recruiter" approved="no">
+        <source>app.userRegister.step2.agreementPart2.recruiter</source>
+        <target state="translated">terms &amp; conditions</target> </trans-unit>
+      <trans-unit id="app.userRegister.step2.signUpButton.recruiter" approved="no">
+        <source>app.userRegister.step2.signUpButton.recruiter</source>
+        <target state="translated">Tilmeld</target> </trans-unit>
+      <trans-unit id="app.userRegister.popup.login.recruiter" approved="no">
+        <source>app.userRegister.popup.login.recruiter</source>
+        <target state="translated">Allerede tilmeldt? Log ind.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step5.stepSocialNetworksAndCV" approved="no">
+        <source>app.userRegister.step5.stepSocialNetworksAndCV</source>
+        <target state="translated">Step 2/3: Sociale netværk og CV</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.stepYourPreferences" approved="no">
+        <source>app.userRegister.step6.stepYourPreferences</source>
+        <target state="translated">Step 3/3: Dine Præferencer</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.kindOfWorkYouLookingFor" approved="no">
+        <source>app.userRegister.step6.kindOfWorkYouLookingFor</source>
+        <target state="translated">Mange tak fordi gav os dine oplysninger! Nedenform kan du specificere din ønsker til en fremtidig stilling og den by eller region du gerne vil arbejde i.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.jobPreferences" approved="no">
+        <source>app.userRegister.step6.jobPreferences</source>
+        <target state="translated">Jobpræferencer</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.jobPreferencesText" approved="no">
+        <source>app.userRegister.step6.jobPreferencesText</source>
+        <target state="translated">Ved at informere os omkring dine ønsker hjælper du os til at finde de mest spændende jobs til dig.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.preferedJobCategories" approved="no">
+        <source>app.userRegister.step6.preferedJobCategories</source>
+        <target state="translated">Foretrukne jobkategorier</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.preferedLocations" approved="no">
+        <source>app.userRegister.step6.preferedLocations</source>
+        <target state="translated">Foretrukne regioner &amp; countries</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.salaryExpectations" approved="no">
+        <source>app.userRegister.step6.salaryExpectations</source>
+        <target state="translated">Lønforventninger</target> </trans-unit>
+      <trans-unit id="app.userRegister.step6.noticePeriod" approved="no">
+        <source>app.userRegister.step6.noticePeriod</source>
+        <target state="translated">Opsigelsesperiode</target> </trans-unit>
+      <trans-unit id="form.salaryTitle" approved="no">
+        <source>form.salaryTitle</source>
+        <target>Minimum 4 symboler, kun tal</target> </trans-unit>
+      <trans-unit id="app.register.profile.chooseSalary" approved="no">
+        <source>app.register.profile.chooseSalary</source>
+        <target state="translated">Vælg løn</target> </trans-unit>
+      <trans-unit id="app.register.profile.chooseCurrency" approved="no">
+        <source>app.register.profile.chooseCurrency</source>
+        <target state="translated">Vælg valuta</target> </trans-unit>
+      <trans-unit id="app.register.profile.yourMessage" approved="no">
+        <source>app.register.profile.yourMessage</source>
+        <target state="translated">Din besked</target> </trans-unit>
+      <trans-unit id="app.register.profile.salary.label" approved="no">
+        <source>app.register.profile.salary.label</source>
+        <target state="translated">Din ønskede løn</target> </trans-unit>
+      <trans-unit id="app.register.profile.currency.label" approved="no">
+        <source>app.register.profile.currency.label</source>
+        <target state="translated">Valuta</target> </trans-unit>
+      <trans-unit id="app.register.profile.email.label" approved="no">
+        <source>app.register.profile.email.label</source>
+        <target state="translated">Din email-adresse</target> </trans-unit>
+      <trans-unit id="app.register.profile.email.placeholder" approved="no">
+        <source>app.register.profile.email.placeholder</source>
+        <target state="translated">email@domain.com</target> </trans-unit>
+      <trans-unit id="app.register.profile.dateOfLeave.label" approved="no">
+        <source>app.register.profile.dateOfLeave.label</source>
+        <target state="translated">Opsigelsesperiode</target> </trans-unit>
+      <trans-unit id="app.register.profile.dateOfLeave.placeholder" approved="no">
+        <source>app.register.profile.dateOfLeave.placeholder</source>
+        <target state="translated">DD.MM.YYYY</target> </trans-unit>
+      <trans-unit id="app.register.profile.Header" approved="no">
+        <source>app.register.profile.Header</source>
+        <target state="translated">Ansøg til dette job</target> </trans-unit>
+      <trans-unit id="app.register.profile.HeaderDescription" approved="no">
+        <source>app.register.profile.HeaderDescription</source>
+        <target state="translated">Venligst udfyld din email-adresse, vedhæft dit CV og tryk på nedenstående knap hvis du ønsker at søge dette job.</target> </trans-unit>
+      <trans-unit id="app.register.profile.SubmitBtn" approved="no">
+        <source>app.register.profile.SubmitBtn</source>
+        <target state="translated">Tilmeld dig &amp; ansøg</target> </trans-unit>
+      <trans-unit id="app.register.profile.SalaryLabel" approved="no">
+        <source>app.register.profile.SalaryLabel</source>
+        <target state="translated">Din lønforventning</target> </trans-unit>
+      <trans-unit id="app.register.profile.CV.label" approved="no">
+         <source>app.register.profile.CV.label</source>
+         <target state="translated">Tilføj CV</target> </trans-unit>
+      <trans-unit id="app.register.profile.message.label" approved="no">
+         <source>app.register.profile.message.label</source>
+         <target state="translated">Din besked</target> </trans-unit>
+      <trans-unit id="app.register.profile.CV.uploaded" approved="no">
+         <source>app.register.profile.CV.uploaded</source>
+         <target state="translated">CV tilføjet</target> </trans-unit>
+     <trans-unit id="app.register.profile.dateOfLeave.error" approved="no">
+         <source>app.register.profile.dateOfLeave.error</source>
+         <target state="translated">Opsigelsesperiode</target> </trans-unit>
+     <trans-unit id="form.dateLeaveLabel" approved="no">
+         <source>form.dateLeaveLabel</source>
+         <target state="translated">Opsigelsesperiode</target> </trans-unit>
+     <trans-unit id="form.dateLeavePlaceholder" approved="no">
+         <source>form.dateLeavePlaceholder</source>
+         <target state="translated">Vælg din opsigelsesperiode</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.greeting.recruiter" approved="no">
+        <source>app.userRegister.step3.greeting.recruiter</source>
+        <target state="translated">Tak! Første del er udfyldt.</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.waitForMore.recruiter" approved="no">
+        <source>app.userRegister.step3.waitForMore.recruiter</source>
+        <target state="translated">Brug et par minutter mere på din fremtidige rekrutteringer:</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.profileFilling.recruiter" approved="no">
+        <source>app.userRegister.step3.profileFilling.recruiter</source>
+        <target state="translated">Udfyld dine præferencer</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.lookAroundOrContinue.recruiter" approved="no">
+        <source>app.userRegister.step3.lookAroundOrContinue.recruiter</source>
+        <target state="translated">Fortsæt med at udfylde dine profil</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.continueProfileFilling.recruiter" approved="no">
+        <source>app.userRegister.step3.continueProfileFilling.recruiter</source>
+        <target state="translated">Udfyld mine præferencer</target> </trans-unit>
+      <trans-unit id="app.userRegister.step3.lookAround.recruiter" approved="no">
+        <source>app.userRegister.step3.lookAround.recruiter</source>
+        <target state="translated">Fortsæt &amp; kig dig omkring</target> </trans-unit>
+      <trans-unit id="registration.email.message.part1" approved="no">
+        <source>registration.email.message.part1</source>
+        <target state="translated">Hej</target> </trans-unit>
+      <trans-unit id="registration.email.message.partFirstname" approved="no">
+        <source>registration.email.message.partFirstname</source>
+        <target state="translated">%firstname%,</target> </trans-unit>
+      <trans-unit id="registration.email.message.part2" approved="no">
+        <source>registration.email.message.part2</source>
+        <target state="translated">&lt;br&gt; &lt;br&gt; tak for din tilmelding til transporttalent.com — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target> </trans-unit>
+      <trans-unit id="registration.email.message.confirm" approved="no">
+        <source>registration.email.message.confirm</source>
+        <target state="translated">Bekræft tilmelding</target> </trans-unit>
+      <trans-unit id="registration.email.message.part3" approved="no">
+        <source>registration.email.message.part3</source>
+        <target state="translated">Du kan altid komme i kontakt med os ved at svar på denne email.&lt;br&gt; &lt;br&gt;Vi er glade for at have dig med i netværket!&lt;br&gt; &lt;br&gt;Venlig Hilsen,&lt;br&gt;Michel Rothgaenger</target> </trans-unit>
+      <trans-unit id="app.userRegister.joinNow" approved="no">
+        <source>app.userRegister.joinNow</source>
+        <target>TILMELD DIG NU</target> </trans-unit>
+      <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
+        <source>app.registration_form_step7.salary.lengthConstraint</source>
+        <target>Løn skal indeholde et nummer med minimum 4 tal</target> </trans-unit>
     </body>
   </file>
 </xliff>

@@ -17,23 +17,21 @@
         <target state="translated">Der Benutzer möchte sein Konto löschen</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
-        <target state="translated">Benutzer (%userEmail%) hat sein Konto gelöscht. Ihre Daten werden am %deleteDate% gelöscht.</target> </trans-unit>
+        <target state="translated">Benutzer (%userEmail%) hat sein Konto gelöscht. Die Kontodaten werden am %deleteDate% gelöscht.</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="no">
         <source>app.deleteAccount.informUserBeforeExpiration.subject</source>
         <target state="translated">Es tut mir leid zu hören, dass Sie uns verlassen.</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.content" approved="no">
         <source>app.deleteAccount.informUserBeforeExpiration.content</source>
-        <target state="translated">Es tut mir leid zu hören, dass Sie uns verlassen. Um Ihr Konto erneut zu aktivieren, melden Sie sich vor% expirationDate% an.</target>
-      </trans-unit>
+        <target state="translated">Es tut uns Leid zu hören, dass Sie uns verlassen. Um Ihr Konto erneut zu aktivieren, loggen Sie sich vor %expirationDate% wieder ein.</target> </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target state="translated">Dein Konto wurde gelöscht</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.content</source>
-        <target state="translated">Dein Konto wurde gelöscht. Wenn du mitmachen möchtest, registriere dich jederzeit. &lt;br&gt; &lt;a href="%linkToTT%"&gt;TransportTalent Website&lt;/a&gt;</target>
-      </trans-unit>
+        <target state="translated">Ihr Konto wurde gelöscht. Wenn Sie erneut mitmachen möchten, registrieren Sie sich jederzeit. &lt;br&gt; &lt;a href="%linkToTT%"&gt;TransportTalent Website&lt;/a&gt;</target> </trans-unit>
     </body>
   </file>
 </xliff>

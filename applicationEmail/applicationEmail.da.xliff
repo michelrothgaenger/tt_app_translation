@@ -5,30 +5,25 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.application.salutation" approved="yes">
+      <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Kære %firstname%</target>
-      </trans-unit>
-      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
+        <target state="translated">Hej %firstname%</target> </trans-unit>
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">Vi har modtaget en ansøgning til din jobannonce.</target>
-      </trans-unit>
-      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
+        <target state="translated">Der er kommet en ansøgning til dit jobopslag.</target> </trans-unit>
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
         <source>app.application.appliedMsgSecondPart</source>
-        <target state="translated">Nedenstående er et CV og en personlig besked fra ansøgeren.</target>
-      </trans-unit>
+        <target state="translated">Vi har vedhæftet et CV og en personlig besked fra ansøgeren i denne mail.</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
         <source>app.application.appliedMsgLastPart</source>
         <target state="translated">Ansøgeren skrev:</target>
       </trans-unit>
-      <trans-unit id="app.application.replyingMsgFirstPart" approved="yes">
+      <trans-unit id="app.application.replyingMsgFirstPart" approved="no">
         <source>app.application.replyingMsgFirstPart</source>
-        <target state="translated">I kan kontakte ansøgeren ved at svare på denne besked. Hvis I skulle have nogen spørgsmål er I velkommen til at kontakte os.</target>
-      </trans-unit>
-      <trans-unit id="app.application.respect" approved="yes">
+        <target state="translated">I kan kontakte ansøgeren ved at svare på denne besked. Har I nogen spørgsmål, sidder vi altid klar til at besvare dem.</target> </trans-unit>
+      <trans-unit id="app.application.respect" approved="no">
         <source>app.application.respect</source>
-        <target state="translated">Med Venlig Hilsen,</target>
-      </trans-unit>
+        <target state="translated">Med venlig hilsen,</target> </trans-unit>
       <trans-unit id="app.application.sender" approved="yes">
         <source>app.application.sender</source>
         <target state="translated">Transport Talent</target>
@@ -37,6 +32,9 @@
         <source>app.application.generalSalutation</source>
         <target state="translated">Kære bruger</target>
       </trans-unit>
+    <trans-unit id="app.application.mail.ats" approved="no">
+        <source>app.application.mail.ats</source>
+        <target state="translated">ATS</target> </trans-unit>
     </body>
   </file>
 </xliff>

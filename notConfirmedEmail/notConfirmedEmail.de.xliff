@@ -9,10 +9,9 @@
         <source>app.notConfirmedEmail.subject</source>
         <target state="translated">Ihr Nutzerkonto wurde noch nicht bestätigt</target>
       </trans-unit>
-      <trans-unit id="app.notConfirmedEmail" approved="yes">
+      <trans-unit id="app.notConfirmedEmail" approved="no">
         <source>app.notConfirmedEmail</source>
-        <target state="translated">Hallo %firstName%,&lt;br&gt;&lt;br&gt; bitte bestätigen Sie Ihr Nutzerkonto bei Transport Talent über folgenden Link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen&lt;br&gt;&lt;br&gt;Ihr Transport-Talent-Team</target>
-      </trans-unit>
+        <target state="translated">Hej %firstName%,&lt;br&gt;&lt;br&gt; bitte bestätigen Sie Ihr Nutzerkonto bei Transport Talent über folgenden Link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen&lt;br&gt;&lt;br&gt;Ihr Transport-Talent-Team</target> </trans-unit>
     </body>
   </file>
 </xliff>

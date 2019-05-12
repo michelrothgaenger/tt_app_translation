@@ -11,8 +11,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.description" approved="no">
         <source>app.registerAllPopup.description</source>
-        <target state="translated">Um Transport Talent beizutreten, melden Sie sich unten an. Es ist für jeden kostenlos!</target>
-      </trans-unit>
+        <target state="translated">Um Transport Talent beizutreten, melden Sie sich unten an...es ist für jeden kostenlos!</target> </trans-unit>
       <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
         <source>app.registerAllPopup.employerTitle</source>
         <target state="translated">Arbeitgeber</target>
@@ -79,8 +78,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.part2" approved="no">
         <source>app.registerAllPopup.confirmation.part2</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
-      </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.part3" approved="no">
         <source>app.registerAllPopup.confirmation.part3</source>
         <target state="translated">sowie die Datenschutzerklärung.</target>
@@ -91,8 +89,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.note.part2" approved="no">
         <source>app.registerAllPopup.confirmation.note.part2</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
-      </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.note.part3" approved="no">
         <source>app.registerAllPopup.confirmation.note.part3</source>
         <target state="translated">sowie der Datenschutzerklärung, um fortzufahren.</target>
@@ -103,8 +100,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerRecruiter" approved="no">
         <source>app.registerAllPopup.registerRecruiter</source>
-        <target>Sign up as a recruiter? click here</target>
-      </trans-unit>
+        <target>Klicken Sie hier um sich als Recruiter anzumelden</target> </trans-unit>
     </body>
   </file>
 </xliff>

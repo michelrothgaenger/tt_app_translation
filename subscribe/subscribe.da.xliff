@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="da" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="subscribe.form.candidate" approved="no">
+        <source>subscribe.form.candidate</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.employer" approved="no">
+        <source>subscribe.form.employer</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.email" approved="no">
+        <source>subscribe.form.email</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.firstName" approved="no">
+        <source>subscribe.form.firstName</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.lastName" approved="no">
+        <source>subscribe.form.lastName</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.submit" approved="no">
+        <source>subscribe.form.submit</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.result.title" approved="no">
+         <source>subscribe.result.title</source>
+         <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.result.text" approved="no">
+         <source>subscribe.result.text</source>
+         <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="subscribe.form.email.exist" approved="no">
+        <source>subscribe.form.email.exist</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

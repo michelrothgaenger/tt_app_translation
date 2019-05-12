@@ -131,8 +131,7 @@
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
             <source>app.jobs.recruiterNotApprovedPopup.title</source>
-            <target>Hallo</target>
-        </trans-unit>
+            <target>Hej</target> </trans-unit>
         <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
             <source>app.jobs.recruiterNotApprovedPopup.info</source>
             <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>

@@ -153,6 +153,12 @@
         <source>app.header.userSubmenu.manageTeam</source>
         <target>Manage Team</target>
       </trans-unit>
-    </body>
+    <trans-unit id="app.header.employerSubmenu.company.profile" approved="no">
+        <source>app.header.employerSubmenu.company.profile</source>
+        <target state="translated">Virksomhedsprofil</target> </trans-unit>
+      <trans-unit id="app.findCandidates" approved="no">
+        <source>app.findCandidates</source>
+        <target state="translated">Kandidater</target> </trans-unit>
+      </body>
   </file>
 </xliff>

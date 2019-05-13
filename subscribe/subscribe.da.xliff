@@ -7,40 +7,31 @@
     <body>
       <trans-unit id="subscribe.form.candidate" approved="no">
         <source>subscribe.form.candidate</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Jeg er kandidat</target> </trans-unit>
       <trans-unit id="subscribe.form.employer" approved="no">
         <source>subscribe.form.employer</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Jeg er en arbejdsgiver</target> </trans-unit>
       <trans-unit id="subscribe.form.email" approved="no">
         <source>subscribe.form.email</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Din e-mail</target> </trans-unit>
       <trans-unit id="subscribe.form.firstName" approved="no">
         <source>subscribe.form.firstName</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Dit fornavn</target> </trans-unit>
       <trans-unit id="subscribe.form.lastName" approved="no">
         <source>subscribe.form.lastName</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Dit efternavn</target> </trans-unit>
       <trans-unit id="subscribe.form.submit" approved="no">
         <source>subscribe.form.submit</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Opret profil</target> </trans-unit>
       <trans-unit id="subscribe.result.title" approved="no">
          <source>subscribe.result.title</source>
-         <target state="translated"></target>
-      </trans-unit>
+         <target state="translated">Vi holder dig opdateret!</target> </trans-unit>
       <trans-unit id="subscribe.result.text" approved="no">
          <source>subscribe.result.text</source>
-         <target state="translated"></target>
-      </trans-unit>
+         <target state="translated">Tak fordi du har tilmeldt vores nyhedsbrev. Du modtager de seneste nyheder om Transport Talent, arbejde og karriere samt indsigter fra transport og logistiksektoren.</target> </trans-unit>
       <trans-unit id="subscribe.form.email.exist" approved="no">
         <source>subscribe.form.email.exist</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Du er allerede tilmeldt</target> </trans-unit>
     </body>
   </file>
 </xliff>

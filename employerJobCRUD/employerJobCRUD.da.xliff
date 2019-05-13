@@ -70,10 +70,9 @@
         <source>app.postAnotherJob</source>
         <target state="translated">Lav et nyt jobopslag</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="no">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
-        <target state="translated">Tag offline</target>
-      </trans-unit>
+        <target state="translated">Tag job offline</target> </trans-unit>
       <trans-unit id="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
         <target state="translated">Gør job offentligt nu</target>
@@ -151,10 +150,9 @@
           <source>app.reward</source>
           <target state="translated">Belønning til personen der anbefaler</target>
         </trans-unit>
-    <trans-unit id="app.job.form.referral.title" approved="yes">
+    <trans-unit id="app.job.form.referral.title" approved="no">
         <source>app.job.form.referral.title</source>
-        <target state="translated">Brug referral mulighed?</target>
-      </trans-unit>
+        <target state="translated">Brug anbefaling?</target> </trans-unit>
       <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">Værdien skal være størrer eller lig med {{ compared_value }}.</target>

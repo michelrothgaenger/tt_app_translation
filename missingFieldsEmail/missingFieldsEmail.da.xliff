@@ -9,10 +9,9 @@
         <source>app.missingFieldsEmail.firstPart</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent ønsker at yde den bedste mulige service i forhold til dit næste jobskifte. For at sikre at vi kun kontakter dig med relevante tilbud er vi meget afhængige af dine profiloplysninger. Vi har bemærket at din profil mangler følgende oplysninger:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.secondPart" approved="no">
         <source>app.missingFieldsEmail.secondPart</source>
-        <target state="translated">&lt;br&gt;Click &lt;a href="%profileUrl%"&gt;here&lt;/a&gt; for at tilføje oplysningerne til din profil. Vi takker dig for at din tid. &lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
-      </trans-unit>
+        <target state="translated">&lt;</target> </trans-unit>
       <trans-unit id="app.missingFieldsEmail.subject" approved="yes">
         <source>app.missingFieldsEmail.subject</source>
         <target state="translated">Hjælp os med at finde interessante stillinger til dig</target>

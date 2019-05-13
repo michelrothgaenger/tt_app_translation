@@ -7,132 +7,100 @@
     <body>
       <trans-unit id="app.employerManageTeam.meta.title" approved="no">
         <source>app.employerManageTeam.meta.title</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Administrer team</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.header" approved="no">
         <source>app.employerManageTeam.header</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Tak skal du have! Din profil er udfyldt. Nu er det tid til at oprette din virksomheds organisation og teamstruktur.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.description" approved="no">
         <source>app.employerManageTeam.description</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Udfyld din virksomheds profil for at tiltrække fremtidige medarbejdere ved at fortælle dem om jeres virksomhed.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.addCompany.btn" approved="no">
         <source>app.employerManageTeam.addCompany.btn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Tilføj virksomhed</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.edit.btn" approved="no">
         <source>app.employerManageTeam.edit.btn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Ændre</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.delete.btn" approved="no">
         <source>app.employerManageTeam.delete.btn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Slet</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.addCategory.btn" approved="no">
         <source>app.employerManageTeam.addCategory.btn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Tilføj forretningsenhed</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.addTeamMember.btn" approved="no">
         <source>app.employerManageTeam.addTeamMember.btn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Tilføj kollega</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.header.edit" approved="no">
         <source>app.employerManageTeam.popup.header.edit</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Ændre</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.company.companyName.field" approved="no">
         <source>app.employerManageTeam.popup.company.companyName.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Virksomhedsnavn</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.company.address.field" approved="no">
         <source>app.employerManageTeam.popup.company.address.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Adresse</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.company.parent.field" approved="no">
         <source>app.employerManageTeam.popup.company.parent.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Vælg moderselskabet</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.company.placeholder" approved="no">
         <source>app.employerManageTeam.popup.company.placeholder</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Vælg virksomhed</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.company.saveBtn" approved="no">
         <source>app.employerManageTeam.popup.company.saveBtn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Gem virksomhed</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.category.CategoryName.field" approved="no">
         <source>app.employerManageTeam.popup.category.CategoryName.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Navn på kategori</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.category.placeholder" approved="no">
         <source>app.employerManageTeam.popup.category.placeholder</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Vælg forretningsenhed</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.category.company.field" approved="no">
         <source>app.employerManageTeam.popup.category.company.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Vælg det firma, som dette gælder for</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.category.saveBtn" approved="no">
         <source>app.employerManageTeam.popup.category.saveBtn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Gem kategori</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.email.field" approved="no">
         <source>app.employerManageTeam.popup.teamMember.email.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Email</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.firstName.field" approved="no">
         <source>app.employerManageTeam.popup.teamMember.firstName.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Fornavn</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.lastName.field" approved="no">
         <source>app.employerManageTeam.popup.teamMember.lastName.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Efternavn</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.field" approved="no">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Bruger</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.description" approved="no">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.description</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Kan se, oprette og redigere job, men ikke ændre indstillingerne.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.field" approved="no">
         <source>app.employerManageTeam.popup.teamMember.AdminRole.field</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Admin</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.description" approved="no">
         <source>app.employerManageTeam.popup.teamMember.AdminRole.description</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Kan se, oprette og redigere virksomhedsprofil, fakturere og ændre indstillinger for holdet.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.teamMember.saveBtn" approved="no">
         <source>app.employerManageTeam.popup.teamMember.saveBtn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Gem teammedlem</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.header.add" approved="no">
         <source>app.employerManageTeam.popup.header.add</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Tilføj</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.deleteAlertPopup.text1" approved="no">
         <source>app.employerManageTeam.deleteAlertPopup.text1</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Du er ved at slette</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.deleteAlertPopup.text2" approved="no">
         <source>app.employerManageTeam.deleteAlertPopup.text2</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Vil du fortsætte?</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.deleteAlertPopup.yesBtn" approved="no">
         <source>app.employerManageTeam.deleteAlertPopup.yesBtn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Ja, slet.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.deleteAlertPopup.rejectBtn" approved="no">
         <source>app.employerManageTeam.deleteAlertPopup.rejectBtn</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Nej, afbryd.</target> </trans-unit>
       <trans-unit id="app.employerManageTeam.popup.delete.yourself" approved="no">
         <source>app.employerManageTeam.popup.delete.yourself</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">dig selv</target> </trans-unit>
     </body>
   </file>
 </xliff>

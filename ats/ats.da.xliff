@@ -172,204 +172,154 @@
         <target state="translated">Din ansøgning</target> </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.rejectBefore" approved="no">
         <source>app.ats.email.defaultContent.rejectBefore</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, Tak for din interesse i at blive en del af vores team. Vi må hermed meddele dig at vi har valgt at gå videre med andre kandidater til stillingen. Vi ønsker dig alt det bedste i din jobsøgning og håber vi får mulighed for at overveje dig til en anden rolle i fremtiden.</target> </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.rejectAfter" approved="no">
         <source>app.ats.email.defaultSubject.rejectAfter</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Din ansøgning og interview</target> </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.rejectAfter" approved="no">
         <source>app.ats.email.defaultContent.rejectAfter</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, Tak fordi du har taget tid til at mødes med vores team omkring den søgte rolle hos os. Det var en fornøjelse at stifte bekendskab med dig og lære mere om dine færdigheder. Desværre har vi valgt at gå videre med andre kandidater. Vi takker igen for din interesse i vores virksomhed og ønsker dig held og lykke med din videre jobsøgning.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Med venlig hilsen,</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Tak for din ansøgning</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.text.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger,  tak for din ansøgning. Vi bekræfter hermed at vi har modtaget din ansøgning. Vores team er pt igang med at gennemgå alle ansøgninger og planlægger interviews i de næste par uger. Hvis vi skønner at du er et godt match så vil du modtage en kald eller en email fra en af vores kollegaer for at få et interview arrangeret. Vi vil holde dig dig løbende informeret omkring processen. Endnu engang tak for din interesse i den søgte stilling.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.shortlist.subject.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Vi er interesserede i din ansøgning</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.shortlist.text.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, mange tak for din ansøgning som vi fandt meget interessant. Vi er igang med at gennemgå alle ansøgninger og arrangere interviews indenfor de næste par uger. Hvis du er iblandet du udvalgte kandidater så vil ud modtage et kald eller en email fra os for at arrangere et interview med dig. Vi vil holde løbende orienteret omkring processen. Vi takker for din interesse i vores virksomhed.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.subject.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Din ansøgning</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, Tak for din interesse i at blive en del af vores team. Vi må hermed meddele dig at vi har valgt at gå videre med andre kandidater til stillingen. Vi ønsker dig alt det bedste i din jobsøgning og håber vi får mulighed for at overveje dig til en anden rolle i fremtiden.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.subject.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Din ansøgning</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, Tak fordi du har taget tid til at mødes med vores team omkring den søgte rolle hos os. Det var en fornøjelse at stifte bekendskab med dig og lære mere om dine færdigheder. Desværre har vi valgt at gå videre med andre kandidater. Vi takker igen for din interesse i vores virksomhed og ønsker dig held og lykke med din videre jobsøgning.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.title" approved="no">
         <source>app.ats.settings.main.hire.title</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Ansæt</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.subject" approved="no">
         <source>app.ats.settings.main.hire.subject</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Ansat Emne Tekst</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.text" approved="no">
         <source>app.ats.settings.main.hire.text</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Ansat text til kandidaten</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.subject.placeholder" approved="no">
         <source>app.ats.settings.main.hire.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Din ansøgning / jobtilbud</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="no">
         <source>app.ats.settings.main.hire.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, tak for et godt interview forleden. Du gjorde et godt indtryk og vi vil gerne tilbyde dig jobbet. Vi vender tilbage med et officielt jobtilbud indenfor kort tid. Vi ser frem til at du forhåbentligt bliver en del af vores team.</target> </trans-unit>
       <trans-unit id="app.ats.email.defaultFooter" approved="no">
         <source>app.ats.email.defaultFooter</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Med venlig hilsen, dit HR-team</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.title" approved="no">
         <source>app.ats.settings.main.interview.title</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Jobsamtale</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.subject" approved="no">
         <source>app.ats.settings.main.interview.subject</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Jobsamtale mail emne</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.text" approved="no">
         <source>app.ats.settings.main.interview.text</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Jobsamtale tekst til kandidat</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.subject.placeholder" approved="no">
         <source>app.ats.settings.main.interview.subject.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Invitation til jobsamtale</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="no">
         <source>app.ats.settings.main.interview.text.placeholder</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære ansøger, tak for din ansøgning til vores virksomhed. Vi vil gerne invitere dig til et interview for at komme til at kende dig lidt bedre. Du vil modtage et opkald eller email fra en af vores kollegaer med henblik på at arrangere et interview.</target> </trans-unit>
       <trans-unit id="app.ats.infoEmail.noContactPerson" approved="no">
         <source>app.ats.infoEmail.noContactPerson</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kære TT team, Virksomheden% companyName% med ID:% companyId% har ikke kontaktperson. Derfor modtager ingen nogen e-mail om ny ansøgning.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.label" approved="no">
         <source>app.ats.settings.main.contactPerson.label</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Vælg din kontaktperson</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.select.defaultOption" approved="no">
         <source>app.ats.settings.main.contactPerson.select.defaultOption</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Vælg venligst</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.select.info.part1" approved="no">
         <source>app.ats.settings.main.contactPerson.select.info.part1</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Sørg for, at din kontaktperson allerede er</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.select.info.link" approved="no">
         <source>app.ats.settings.main.contactPerson.select.info.link</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">er registreret i dit team</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.select.info.part2" approved="no">
         <source>app.ats.settings.main.contactPerson.select.info.part2</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">og har angivet et gyldigt email og telefonnummer.</target> </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.serverErrorMessage" approved="no">
         <source>app.ats.settings.main.contactPerson.serverErrorMessage</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Server Fejl</target> </trans-unit>
       <trans-unit id="app.coverCV.candidatePresentation" approved="no">
         <source>app.coverCV.candidatePresentation</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kandidatpræsentation</target> </trans-unit>
       <trans-unit id="app.coverCV.company" approved="no">
         <source>app.coverCV.company</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Virksomhed</target> </trans-unit>
       <trans-unit id="app.coverCV.position" approved="no">
         <source>app.coverCV.position</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Stilling</target> </trans-unit>
       <trans-unit id="app.coverCV.location" approved="no">
         <source>app.coverCV.location</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Lokation</target> </trans-unit>
       <trans-unit id="app.coverCV.hrManager" approved="no">
         <source>app.coverCV.hrManager</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Ansættende leder</target> </trans-unit>
       <trans-unit id="app.coverCV.candidate" approved="no">
         <source>app.coverCV.candidate</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kandidat navn</target> </trans-unit>
       <trans-unit id="app.coverCV.salary" approved="no">
         <source>app.coverCV.salary</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Lønforventninger</target> </trans-unit>
       <trans-unit id="app.coverCV.noticePeriod" approved="no">
         <source>app.coverCV.noticePeriod</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Opsigelsesperiode</target> </trans-unit>
       <trans-unit id="app.coverCV.candidateEmail" approved="no">
         <source>app.coverCV.candidateEmail</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Kandidat Email</target> </trans-unit>
       <trans-unit id="app.coverCV.candidateMessage" approved="no">
         <source>app.coverCV.candidateMessage</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Meddelelse fra kandidat</target> </trans-unit>
       <trans-unit id="app.coverCV.candidateContact">
         <source>app.coverCV.candidateContact</source>
-        <target/>
-      </trans-unit>
+        <target>Din kontakt hos Transport Talent:</target> </trans-unit>
       <trans-unit id="app.coverCV.footer" approved="no">
         <source>app.coverCV.footer</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Genereret på</target> </trans-unit>
       <trans-unit id="app.applicationStatus.applied" approved="no">
         <source>app.applicationStatus.applied</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">anvendt</target> </trans-unit>
       <trans-unit id="app.applicationStatus.shortlisted" approved="no">
         <source>app.applicationStatus.shortlisted</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">udvalgt</target> </trans-unit>
       <trans-unit id="app.applicationStatus.interview" approved="no">
         <source>app.applicationStatus.interview</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">interview</target> </trans-unit>
       <trans-unit id="app.applicationStatus.hire" approved="no">
         <source>app.applicationStatus.hire</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">ansæt</target> </trans-unit>
       <trans-unit id="app.applicationStatus.rejected" approved="no">
         <source>app.applicationStatus.rejected</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">afvist</target> </trans-unit>
       <trans-unit id="app.applicationStatus.sent" approved="no">
         <source>app.applicationStatus.sent</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">sendt</target> </trans-unit>
       <trans-unit id="app.applicationStatus.submitted" approved="no">
         <source>app.applicationStatus.submitted</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">indsendt</target> </trans-unit>
       <trans-unit id="app.sideMenu.viewAll" approved="no">
         <source>app.sideMenu.viewAll</source>
-        <target state="translated"/>
-      </trans-unit>
+        <target state="translated">Se alt</target> </trans-unit>
     </body>
   </file>
 </xliff>

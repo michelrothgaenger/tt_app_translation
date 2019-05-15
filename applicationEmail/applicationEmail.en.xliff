@@ -7,8 +7,7 @@
     <body>
       <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Dear %firstname%</target>
-      </trans-unit>
+        <target state="translated">Dear %firstname%,</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">We received an application for your job posting.</target>

@@ -11,8 +11,7 @@
       </trans-unit>
       <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
-        <target>Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
-      </trans-unit>
+        <target>Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;The Transport Talent Team</target> </trans-unit>
       <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
         <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>
         <target>Candidate was submitted</target>

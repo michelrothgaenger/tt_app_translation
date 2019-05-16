@@ -13,10 +13,9 @@
         <source>app.invitationEmailForExistingUser.categoryPart</source>
         <target state="translated">for %category% </target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="yes">
+      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
         <source>app.invitationEmailForExistingUser.secondPart</source>
-        <target state="translated"><![CDATA[for %company%. You can now manage all vacancies for your department %category% %company% via your dashboard. <br><br> %linkToDashboard% <br><br> If you have any questions regarding this process, please do not hesitate to contact us by replying to this email. <br><br> Kind regards, <br> Your team at Transport Talent]]></target>
-      </trans-unit>
+        <target state="translated">f</target> </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
         <source>app.invitationEmailForExistingUser.subject</source>
         <target state="translated">You can now manage jobs for %company% on Transport Talent</target>

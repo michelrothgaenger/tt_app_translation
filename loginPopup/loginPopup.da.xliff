@@ -7,28 +7,22 @@
     <body>
       <trans-unit id="app.loginPopup.title" approved="no">
         <source>app.loginPopup.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Log ind</target> </trans-unit>
       <trans-unit id="app.loginPopup.description" approved="no">
         <source>app.loginPopup.description</source>
-        <target></target>
-      </trans-unit>
+        <target>Du skal logge ind først, før du kan se alle job og services på hjemmesiden.</target> </trans-unit>
       <trans-unit id="app.loginPopup.employerLoginLink" approved="no">
         <source>app.loginPopup.employerLoginLink</source>
-        <target></target>
-      </trans-unit>
+        <target>Er du en arbejdsgiver? Log ind her.</target> </trans-unit>
       <trans-unit id="app.loginPopup.candidateLoginLink" approved="no">
         <source>app.loginPopup.candidateLoginLink</source>
-        <target></target>
-      </trans-unit>
+        <target>Leder du efter jobs? Log ind her.</target> </trans-unit>
       <trans-unit id="app.loginPopup.notRegisteredYet" approved="no">
         <source>app.loginPopup.notRegisteredYet</source>
-        <target></target>
-      </trans-unit>
+        <target>Er du ikke tilmeldt endnu?</target> </trans-unit>
       <trans-unit id="app.loginPopup.signUpHer" approved="no">
         <source>app.loginPopup.signUpHere</source>
-        <target></target>
-      </trans-unit>
+        <target>Opret dig her.</target> </trans-unit>
     </body>
   </file>
 </xliff>

@@ -5,14 +5,12 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.job.meta.title" approved="yes">
+      <trans-unit id="app.job.meta.title" approved="no">
         <source>app.job.meta.title</source>
-        <target state="translated">Stilling</target>
-      </trans-unit>
-      <trans-unit id="app.job.meta.description" approved="yes">
+        <target state="translated">Job</target> </trans-unit>
+      <trans-unit id="app.job.meta.description" approved="no">
         <source>app.job.meta.description</source>
-        <target state="translated">Søg efter passende jobtilbud fra logistik- og transportvirksomheder</target>
-      </trans-unit>
+        <target state="translated">Søg efter spændende jobs hos logistik- og transportvirksomheder</target> </trans-unit>
       <trans-unit id="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
         <target state="translated">Dette job er gemt!</target>
@@ -29,10 +27,9 @@
         <source>app.jobSavedToProfile</source>
         <target state="translated">Gemt i profilen</target>
       </trans-unit>
-      <trans-unit id="app.saveToProfile" approved="yes">
+      <trans-unit id="app.saveToProfile" approved="no">
         <source>app.saveToProfile</source>
-        <target state="translated">Gemt i profilen</target>
-      </trans-unit>
+        <target state="translated">Gem i profil</target> </trans-unit>
       <trans-unit id="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
         <target state="translated">Leveret til dig af</target>

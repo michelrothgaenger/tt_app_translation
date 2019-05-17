@@ -69,10 +69,9 @@
         <source>app.ats.popup.upload.contract.label</source>
         <target state="translated">Upload Contract</target>
       </trans-unit>
-      <trans-unit id="app.ats.popup.flashMsg.part1" approved="yes">
+      <trans-unit id="app.ats.popup.flashMsg.part1" approved="no">
         <source>app.ats.popup.flashMsg.part1</source>
-        <target state="translated">You successful submitted </target>
-      </trans-unit>
+        <target state="translated">You successfully submitted</target> </trans-unit>
       <trans-unit id="app.ats.popup.flashMsg.part2" approved="yes">
         <source>app.ats.popup.flashMsg.part2</source>
         <target state="translated"> for the position </target>

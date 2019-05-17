@@ -953,6 +953,9 @@
         <source>app.profile.chooseSalary</source>
         <target state="translated">Vælg lønniveau</target>
       </trans-unit>
-    </body>
+    <trans-unit id="form.dateLeavePlaceholder" approved="no">
+        <source>form.dateLeavePlaceholder</source>
+        <target state="translated">Vælg din opsigelsesperiode</target> </trans-unit>
+      </body>
   </file>
 </xliff>

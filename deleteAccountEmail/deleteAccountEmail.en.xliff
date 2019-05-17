@@ -7,17 +7,16 @@
     <body>
       <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="no">
         <source>app.deleteAccount.confirmationEmail.subject</source>
-        <target>Confirmation of account deletion</target> </trans-unit>
+        <target>Confirmation of profile deletion</target> </trans-unit>
       <trans-unit id="app.deleteAccount.confirmationEmail.content" approved="no">
         <source>app.deleteAccount.confirmationEmail.content</source>
         <target>D</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
         <source>app.deleteAccount.informCountryManager.subject</source>
-        <target>User wants to delete their account</target> </trans-unit>
+        <target>User wants to delete their profile</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
-        <target>User(%userEmail%) has deleted their account. Their data will be deleted on %deleteDate%</target>
-      </trans-unit>
+        <target>User(%userEmail%) has deleted their profile. Their data will be deleted on %deleteDate%</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="no">
         <source>app.deleteAccount.informUserBeforeExpiration.subject</source>
         <target>Sorry to hear you are leaving us.</target>
@@ -27,8 +26,7 @@
         <target>D</target> </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
-        <target>Your account has been deleted</target>
-      </trans-unit>
+        <target>Your profile has been deleted</target> </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.content</source>
         <target>D</target> </trans-unit>

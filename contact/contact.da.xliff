@@ -13,10 +13,9 @@
         <source>app.contact.h1</source>
         <target state="translated">Kontakt os</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.title" approved="yes">
+      <trans-unit id="app.contact.section.email.title" approved="no">
         <source>app.contact.section.email.title</source>
-        <target state="translated">Send os en e-mail hvis du ønsker mere information</target>
-      </trans-unit>
+        <target state="translated">Send os en e-mail hvis du ønsker yderligere information</target> </trans-unit>
       <trans-unit id="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
         <target state="translated">Navn</target>
@@ -49,10 +48,9 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">Vi er en international virksomhed. Disse er vores kontorer:</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="no">
         <source>app.contact.section.offices.location.denmark</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Danmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 København&lt;/div&gt;</target>
-      </trans-unit>
+        <target state="translated"><div><b>Danmark:</b></div><div>Transport Talent DK</div><div>Samsøvej 31</div><div>DK-8382 Hinnerup (Aarhus)</div></target> </trans-unit>
       <trans-unit id="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target state="translated">Telefon</target>

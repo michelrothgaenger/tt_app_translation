@@ -35,8 +35,7 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
         <source>app.emailLayout.defaultCompanyName</source>
-        <target>Transport Talent ApS</target>
-      </trans-unit>
+        <target>Transport Talent International ApS</target> </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
         <target state="translated">Ønsker du at afmelde denne type e-mails?</target>
@@ -53,13 +52,13 @@
         <target state="translated">Hjælp</target> </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
         <source>app.emailLayout.copyright.line2</source>
-        <target state="translated">Transport Talent is a registered brand name.</target> </trans-unit>
+        <target state="translated">Transport Talent er et registreret varemærke.</target> </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
         <source>app.emailLayout.contactTT.tile</source>
         <target state="translated">Din kontakt hos Transport Talent:</target> </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
         <source>app.emailLayout.defaultCompanyAddress</source>
-        <target state="translated">Street 1, 34523 Location.</target> </trans-unit>
+        <target state="translated">Samsøvej 31, DK-8382 Hinnerup (Aarhus).</target> </trans-unit>
     </body>
   </file>
 </xliff>

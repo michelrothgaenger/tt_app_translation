@@ -10,15 +10,13 @@
         <target state="translated">&lt;</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated">H</target> </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
+        <target state="translated">Kære bruger,&lt;br&gt;&lt;br&gt;Din jobagent er nu aktiv med de følgende kriterier:&lt;br&gt;&lt;br&gt;</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>
-        <target state="translated">Titel:</target>
-      </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.frequecnyLabel" approved="yes">
+        <target state="translated">Type:</target> </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.frequecnyLabel" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.frequecnyLabel</source>
-        <target state="translated">Periode til at sende:</target>
-      </trans-unit>
+        <target state="translated">Notifikationsfrekvens:</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.keywordLabel" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.keywordLabel</source>
         <target state="translated">Søgeord:</target> </trans-unit>
@@ -30,10 +28,9 @@
         <source>app.jobAlertEmail.jobAlertCreated.citiesLabel</source>
         <target state="translated">Byer:</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.typesLabel" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.typesLabel" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.typesLabel</source>
-        <target state="translated">Jobtyper:</target>
-      </trans-unit>
+        <target state="translated">Jobkategori:</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.levelsLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.levelsLabel</source>
         <target state="translated">Jobniveauer:</target>
@@ -48,7 +45,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">H</target> </trans-unit>
+        <target state="translated">D</target> </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Din jobagent er blevet de-aktiveret</target>

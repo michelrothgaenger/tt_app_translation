@@ -7,92 +7,70 @@
     <body>
       <trans-unit id="app.candidates.title" approved="no">
         <source>app.candidates.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Kandidat søgning -</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
         <source>app.candidates.searchForm.term.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>Brug boolean kommandoer OG, ELLER og IKKE for at opnå de bedste resultater</target> </trans-unit>
       <trans-unit id="app.candidates.search.button" approved="no">
         <source>app.candidates.search.button</source>
-        <target></target>
-      </trans-unit>
+        <target>Søg</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
         <source>app.candidates.searchForm.filterTitle</source>
-        <target></target>
-      </trans-unit>
+        <target>Filter</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
         <source>app.candidates.searchForm.filterTitleShow</source>
-        <target></target>
-      </trans-unit>
+        <target>+ brug filter</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
         <source>app.candidates.searchForm.filterTitleHide</source>
-        <target></target>
-      </trans-unit>
+        <target>Gem filter</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
         <source>app.candidates.searchForm.resetFilter</source>
-        <target></target>
-      </trans-unit>
+        <target>Nulstil filter</target> </trans-unit>
       <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
         <source>app.candidates.searchForm.filterAdd</source>
-        <target></target>
-      </trans-unit>
+        <target>Tilføj</target> </trans-unit>
       <trans-unit id="app.candidates.view" approved="no">
         <source>app.candidates.view</source>
-        <target></target>
-      </trans-unit>
+        <target>Se</target> </trans-unit>
       <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="no">
         <source>app.candidates.filter.AreaOfExpertise.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Fagområde</target> </trans-unit>
       <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="no">
         <source>app.candidates.filter.AreaOfExpertise.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>f.eks. Søfragt</target> </trans-unit>
       <trans-unit id="app.candidates.filter.location.title" approved="no">
         <source>app.candidates.filter.location.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Bopæl</target> </trans-unit>
       <trans-unit id="app.candidates.filter.location.placeholder" approved="no">
         <source>app.candidates.filter.location.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>fx. Land / By</target> </trans-unit>
       <trans-unit id="app.candidates.filter.category.title" approved="no">
         <source>app.candidates.filter.category.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Foretrukne jobkategorier</target> </trans-unit>
       <trans-unit id="app.candidates.filter.category.placeholder" approved="no">
         <source>app.candidates.filter.category.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>fx. søfragt</target> </trans-unit>
       <trans-unit id="app.candidates.filter.preferredLocation.title" approved="no">
         <source>app.candidates.filter.preferredLocation.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Foretrukne regioner og lande</target> </trans-unit>
       <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="no">
         <source>app.candidates.filter.preferredLocation.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>fx. Land / By</target> </trans-unit>
       <trans-unit id="app.candidates.filter.salary.title" approved="no">
         <source>app.candidates.filter.salary.title</source>
-        <target></target>
-      </trans-unit>
+        <target>Lønniveau</target> </trans-unit>
       <trans-unit id="app.candidates.filter.salary.placeholder" approved="no">
         <source>app.candidates.filter.salary.placeholder</source>
-        <target></target>
-      </trans-unit>
+        <target>Lønniveau</target> </trans-unit>
       <trans-unit id="app.noCandidatesFound" approved="no">
         <source>app.noCandidatesFound</source>
-        <target></target>
-      </trans-unit>
+        <target>Ingen kandidater fundet</target> </trans-unit>
       <trans-unit id="app.noticePeriod" approved="no">
         <source>app.noticePeriod</source>
-        <target></target>
-      </trans-unit>
+        <target>Opsigelsesperiode</target> </trans-unit>
       <trans-unit id="app.salary" approved="no">
         <source>app.salary</source>
-        <target></target>
-      </trans-unit>
+        <target>løn</target> </trans-unit>
     </body>
   </file>
 </xliff>

@@ -7,12 +7,10 @@
     <body>
       <trans-unit id="app.inactivityApplications.subject" approved="no">
         <source>app.inactivityApplications.subject</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Ansøgningen skal tjekkes.</target> </trans-unit>
       <trans-unit id="app.inactivityApplications.content" approved="no">
         <source>app.inactivityApplications.content</source>
-        <target state="translated"></target>
-      </trans-unit>
+        <target state="translated">Kære %firstName% %lastName%,&lt;br&gt;&lt;br&gt; Ansøgning skal tjekkes. &lt;br&gt;&lt;br&gt; Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent teamet</target> </trans-unit>
     </body>
   </file>
 </xliff>

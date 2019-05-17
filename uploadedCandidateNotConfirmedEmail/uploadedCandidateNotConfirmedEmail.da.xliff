@@ -7,20 +7,16 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target></target>
-      </trans-unit>
+        <target>Din indsendte kandidat</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
-        <target></target>
-      </trans-unit>
+        <target>H</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
-        <target></target>
-      </trans-unit>
+        <target>Din ansøgning afventer stadig.</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
-        <target></target>
-      </trans-unit>
+        <target>H</target> </trans-unit>
     </body>
   </file>
 </xliff>

@@ -825,10 +825,9 @@
         <source>app.profile.profileVM.placeOfResidence</source>
         <target state="translated">Bopæl</target>
       </trans-unit>
-      <trans-unit id="app.salutations.placeholder" approved="yes">
+      <trans-unit id="app.salutations.placeholder" approved="no">
         <source>app.salutations.placeholder</source>
-        <target state="translated">Vælg titel....</target>
-      </trans-unit>
+        <target state="translated">Vælg tiltaleform....</target> </trans-unit>
       <trans-unit id="app.profile.profileVM.noSpecialtiesText" approved="yes">
         <source>app.profile.profileVM.noSpecialtiesText</source>
         <target state="translated">Du har ikke angivet dine ekspertiseområder</target>

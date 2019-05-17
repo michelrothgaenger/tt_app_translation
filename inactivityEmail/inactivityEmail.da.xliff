@@ -9,16 +9,15 @@
         <source>app.inactivityEmail.subject</source>
         <target state="translated">Stadig interesseret i nye karrieremuligheder?</target>
       </trans-unit>
-      <trans-unit id="app.inactivityEmail" approved="yes">
+      <trans-unit id="app.inactivityEmail" approved="no">
         <source>app.inactivityEmail</source>
-        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Er du stadig på udkig efter interessante jobs indenfor transport og logistik? Vi har bemærket, at du ikke har brugt / logget ind på Transport Talent i noget tid. Nedenfor har vi samlet nogle jobannoncer som vi mener kunne have din interesse:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;Se også hvem der ellers ansætter i øjeblikket&lt;/a&gt;&lt;br&gt;&lt;a href="%blogUrl%"&gt;Læs vores seneste blog post&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Hold dig opdateret ved at følge os på&lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt;, or &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Hvis du har nogen spørgsmål må du endelig kontakt os.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
-      </trans-unit>
+        <target state="translated">H</target> </trans-unit>
     <trans-unit id="app.inactivityEmail.firstNotify" approved="no">
         <source>app.inactivityEmail.firstNotify</source>
-        <target state="translated">K</target> </trans-unit>
+        <target state="translated">H</target> </trans-unit>
       <trans-unit id="app.inactivityEmail.secondNotify" approved="no">
         <source>app.inactivityEmail.secondNotify</source>
-        <target state="translated">K</target> </trans-unit>
+        <target state="translated">H</target> </trans-unit>
     </body>
   </file>
 </xliff>

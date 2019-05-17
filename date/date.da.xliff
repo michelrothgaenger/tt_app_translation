@@ -5,14 +5,12 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="diff.ago.day" approved="yes">
+      <trans-unit id="diff.ago.day" approved="no">
         <source>diff.ago.day</source>
-        <target state="translated">%count% day ago|%count% dage siden</target>
-      </trans-unit>
-      <trans-unit id="diff.in.day" approved="yes">
+        <target state="translated">%count% dage siden|%count% dage siden</target> </trans-unit>
+      <trans-unit id="diff.in.day" approved="no">
         <source>diff.in.day</source>
-        <target state="translated">om %count% day|in %count% dage</target>
-      </trans-unit>
+        <target state="translated">om %count% dag|om %count% dage</target> </trans-unit>
       <trans-unit id="diff.ago.minute" approved="yes">
         <source>diff.ago.minute</source>
         <target state="translated">%count% minut siden|%count% minutter siden</target>

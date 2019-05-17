@@ -7,12 +7,10 @@
     <body>
       <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Dear %firstname%</target>
-      </trans-unit>
-      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
+        <target state="translated">Dear %firstname%,</target> </trans-unit>
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">We received an application for your job posting.</target>
-      </trans-unit>
+        <target state="translated">We received an application for your job posting...</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">Please find enclosed the CV and also a personal message by the candidate below.</target>
@@ -29,10 +27,9 @@
         <source>app.application.respect</source>
         <target state="translated">Kind Regards,</target>
       </trans-unit>
-      <trans-unit id="app.application.sender" approved="yes">
+      <trans-unit id="app.application.sender" approved="no">
         <source>app.application.sender</source>
-        <target state="translated">Transport Talent Recruiting Team</target>
-      </trans-unit>
+        <target state="translated">The Transport Talent Team </target> </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>
         <target state="translated">Dear user</target>

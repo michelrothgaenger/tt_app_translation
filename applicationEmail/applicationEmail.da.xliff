@@ -10,10 +10,10 @@
         <target state="translated">Hej %firstname%</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">Der er kommet en ansøgning til dit jobopslag.</target> </trans-unit>
+        <target state="translated">Vi har modtaget en ansøgning til dit jobopslag.</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
         <source>app.application.appliedMsgSecondPart</source>
-        <target state="translated">Vi har vedhæftet et CV og en personlig besked fra ansøgeren i denne mail.</target> </trans-unit>
+        <target state="translated">Vi har vedhæftet CV og en personlig besked fra ansøgeren i denne mail.</target> </trans-unit>
       <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
         <source>app.application.appliedMsgLastPart</source>
         <target state="translated">Ansøgeren skrev:</target>

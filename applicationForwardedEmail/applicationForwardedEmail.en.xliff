@@ -9,10 +9,9 @@
         <source>app.applicationForwardedEmail.firstPart</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application for</target>
       </trans-unit>
-      <trans-unit id="app.applicationForwardedEmail.secondPart" approved="yes">
+      <trans-unit id="app.applicationForwardedEmail.secondPart" approved="no">
         <source>app.applicationForwardedEmail.secondPart</source>
-        <target state="translated">at %companyName% has been submitted. For your own record, we attached the CV you handed in.&lt;br&gt;&lt;br&gt;&lt;b&gt;Please find a copy of your application message below:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;%applicationMessage%&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;What happens next?&lt;/b&gt;&lt;br&gt;&lt;br&gt;We will review your application and contact you directly in case of questions. &lt;br&gt;&lt;br&gt;Thank you for using Transport Talent and good luck with your application.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
-      </trans-unit>
+        <target state="translated">a</target> </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.subject" approved="yes">
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Your application has been submitted</target>
@@ -21,10 +20,9 @@
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
         <target state="translated">New application has been submitted</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
+      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; to confirm your application and sign up with TT.</target>
-      </trans-unit>
+        <target state="translated">D</target> </trans-unit>
       <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; to confirm your application.</target>

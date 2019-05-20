@@ -53,10 +53,9 @@
         <source>app.searchForNewJobs</source>
         <target state="translated">Søg efter nye jobs</target>
       </trans-unit>
-      <trans-unit id="app.profileSavedCompaniesCta" approved="yes">
+      <trans-unit id="app.profileSavedCompaniesCta" approved="no">
         <source>app.profileSavedCompaniesCta</source>
-        <target state="translated">Se dine gemte virksomheder nedenfor. Tilføj og slet som du vil.</target>
-      </trans-unit>
+        <target state="translated">Få et overblik over dine gemte virksomheder har gemt.</target> </trans-unit>
       <trans-unit id="app.searchForNewCompanies" approved="yes">
         <source>app.searchForNewCompanies</source>
         <target state="translated">Søg efter nye virksomheder</target>
@@ -73,10 +72,9 @@
         <source>app.contactInfo</source>
         <target state="translated">Kontakt info</target>
       </trans-unit>
-      <trans-unit id="app.title" approved="yes">
+      <trans-unit id="app.title" approved="no">
         <source>app.title</source>
-        <target state="translated">Titel</target>
-      </trans-unit>
+        <target state="translated">Tiltaleform</target> </trans-unit>
       <trans-unit id="app.firstName" approved="yes">
         <source>app.firstName</source>
         <target state="translated">Fornavn</target>
@@ -445,10 +443,9 @@
         <source>app.profile.dashboard.profile.tile.description</source>
         <target state="translated">Sørg for at din profil er opdateret så virksomhederne kan få øje på dig.</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.settings.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.settings.tile.description" approved="no">
         <source>app.profile.dashboard.settings.tile.description</source>
-        <target state="translated">Manage dine kontoindstillinger, fx emailadresse og kodeord.</target>
-      </trans-unit>
+        <target state="translated">Administrer dine profilindstillinger (f.eks. emailadresse og kodeord).</target> </trans-unit>
       <trans-unit id="app.profile.dashboard.companyJobs.tile.description" approved="yes">
         <source>app.profile.dashboard.companyJobs.tile.description</source>
         <target state="translated">Manage dine virksomhedsjobs.</target>
@@ -461,14 +458,12 @@
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Manage din virksomhedsprofil.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.companies.description" approved="yes">
+      <trans-unit id="app.profile.saved.companies.description" approved="no">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Transport Talent gør det muligt for dig at huske på interessante virksomheder fra transport og logistikbranchen. Tilføj virksomheder til din oversigt eller slet dem hvis du ønsker.</target>
-      </trans-unit>
-      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
+        <target state="translated">Mange af vores medlemsvirksomheder har lavet en profil på Transport Talent som du kan følge ved at tilføje dem her.</target> </trans-unit>
+      <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Administrer dit job jagt med Transport Talent - du kan tilføje og slette job som du ønsker det. Jobopslag  vil stadig være til rådighed efter deaktivering af arbejdsgiveren, så du kan forberede dig til interviews.</target>
-      </trans-unit>
+        <target state="translated">Få et godt overblik over din jobsøgning. Tilføj de jobannoncer der har din interesse og forbered dig til interviews.</target> </trans-unit>
       <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
         <target state="translated">Henvisninger</target>
@@ -729,10 +724,9 @@
         <source>app.profile.editor.profileEdit</source>
         <target state="translated">Rediger profil</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.profileEditionHeader" approved="yes">
+      <trans-unit id="app.profile.editor.profileEditionHeader" approved="no">
         <source>app.profile.editor.profileEditionHeader</source>
-        <target state="translated">Fortæl os, hvilken slags jobs du søger, og i hvilken del af verden. Hvis du har importeret dine data fra Linkedin så kan du allerede finde nogle af dine data her.</target>
-      </trans-unit>
+        <target state="translated">Fortæl os, hvilken slags jobs du søger, og hvor henne. Hvis du har importeret dine data fra Linkedin så kan du allerede finde nogle af dine data her.</target> </trans-unit>
       <trans-unit id="app.profile.editor.experienceLabel" approved="yes">
         <source>app.profile.editor.experienceLabel</source>
         <target state="translated">Antal års erhvervserfaring?</target>
@@ -784,10 +778,9 @@
         <source>app.profile.profileVM.profileHeader</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.profileHeaderText" approved="yes">
+      <trans-unit id="app.profile.profileVM.profileHeaderText" approved="no">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated">Dine profil oplysninger hjælper os med at finde frem til de meste interessante jobtilbud for dig. Du kan til enhver tid vende tilbage til din profil og lave de ændringer du ønsker.</target>
-      </trans-unit>
+        <target state="translated">En god profil der indeholdende alle dine oplysninger inklusiv dit CV øger dine chancer for at blive headhuntet til dit næste job markant. Du kan til enhver tid vende tilbage til din profil og lave de ændringer du ønsker.</target> </trans-unit>
       <trans-unit id="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
         <target state="translated">Resume</target>
@@ -911,10 +904,9 @@
         <source>app.profile.savedApplicationsCta</source>
         <target state="translated">ANSØGNINGER</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.applications.description" approved="yes">
+      <trans-unit id="app.profile.saved.applications.description" approved="no">
         <source>app.profile.saved.applications.description</source>
-        <target state="translated">Nedenfor er listen over alle de stillinger du har ansøgt på via Transport Talent. Bemærk dog at listen udelukkende indeholder stillinger hvor Transport Talent's ansøgningsform er brugt. Jobsopslag der sender dig videre til en anden virksomheds hjemmeside er ikke tracked af Transport Talent og vil derfor ikke være synlig på din liste af ansøgte stillinger.</target>
-      </trans-unit>
+        <target state="translated">Her kan du få et overblik over alle de stillinger du har søgt via Transport Talent. Hvis du bemærker at der mangler nogen så må du meget gerne kontakte os.</target> </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
         <target state="translated">Find stillinger</target>

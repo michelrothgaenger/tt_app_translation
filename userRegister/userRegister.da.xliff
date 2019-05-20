@@ -450,19 +450,19 @@
         <target state="translated">Step 3/3: Dine ønsker</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.kindOfWorkYouLookingFor" approved="no">
         <source>app.userRegister.step6.kindOfWorkYouLookingFor</source>
-        <target state="translated">Nedenform kan du specificere din ønsker til en fremtidig stilling og den eller de lokationer du gerne vil søge job i.</target> </trans-unit>
+        <target state="translated">Fortæl os hvilken jobs du er mest interesseret i og hvor i landet du gerne vil arbejde.</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.jobPreferences" approved="no">
         <source>app.userRegister.step6.jobPreferences</source>
-        <target state="translated">Dit primære interesseområde</target> </trans-unit>
+        <target state="translated">Hvilken type jobs leder du efter?</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.jobPreferencesText" approved="no">
         <source>app.userRegister.step6.jobPreferencesText</source>
-        <target state="translated">Ved at informere os omkring dine ønsker hjælper du os til at finde de mest aktuelle jobs til dig.</target> </trans-unit>
+        <target state="translated">Ved at fortælle os om dine ønsker hjælper du os til at finde de mest relevante jobs til dig.</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.preferedJobCategories" approved="no">
         <source>app.userRegister.step6.preferedJobCategories</source>
-        <target state="translated">Jobtyper</target> </trans-unit>
+        <target state="translated">Hvilken roller er du mest interesseret i?</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.preferedLocations" approved="no">
         <source>app.userRegister.step6.preferedLocations</source>
-        <target state="translated">Jobbets lokation</target> </trans-unit>
+        <target state="translated">Hvor vil du gerne have at dit næste job skal være? Lokationer?</target> </trans-unit>
       <trans-unit id="app.userRegister.step6.salaryExpectations" approved="no">
         <source>app.userRegister.step6.salaryExpectations</source>
         <target state="translated">Lønforventninger</target> </trans-unit>

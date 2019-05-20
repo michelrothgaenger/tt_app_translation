@@ -749,10 +749,9 @@
         <source>app.profile.editor.residenceLabel</source>
         <target state="translated">Bopæl</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.salutationLabel" approved="yes">
+      <trans-unit id="app.profile.editor.salutationLabel" approved="no">
         <source>app.profile.editor.salutationLabel</source>
-        <target state="translated">Title</target>
-      </trans-unit>
+        <target state="translated">Tiltaleform</target> </trans-unit>
       <trans-unit id="app.profile.editor.salaryLabel" approved="yes">
         <source>app.profile.editor.salaryLabel</source>
         <target state="translated">Årlig løn</target>
@@ -801,10 +800,9 @@
         <source>app.profile.profileVM.noExperienceText</source>
         <target state="translated">Du har ikke angivet din erfaring</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.specealityHeader" approved="yes">
+      <trans-unit id="app.profile.profileVM.specealityHeader" approved="no">
         <source>app.profile.profileVM.specealityHeader</source>
-        <target state="translated">Dit fagområde er</target>
-      </trans-unit>
+        <target state="translated">Dit fagområde/ekspertise er</target> </trans-unit>
       <trans-unit id="app.profile.profileVM.connectedToLinkedIn" approved="yes">
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Connected til LinkedIn?</target>
@@ -828,10 +826,9 @@
       <trans-unit id="app.salutations.placeholder" approved="no">
         <source>app.salutations.placeholder</source>
         <target state="translated">Vælg tiltaleform....</target> </trans-unit>
-      <trans-unit id="app.profile.profileVM.noSpecialtiesText" approved="yes">
+      <trans-unit id="app.profile.profileVM.noSpecialtiesText" approved="no">
         <source>app.profile.profileVM.noSpecialtiesText</source>
-        <target state="translated">Du har ikke angivet dine ekspertiseområder</target>
-      </trans-unit>
+        <target state="translated">Du har ikke angivet dit fagområde/erfaring</target> </trans-unit>
       <trans-unit id="app.profile.profileVM.CvHeader" approved="yes">
         <source>app.profile.profileVM.CvHeader</source>
         <target state="translated">CV</target>
@@ -848,10 +845,9 @@
         <source>app.profile.profileVM.noBirthday</source>
         <target state="translated">Fødselsdag er ikke angivet</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.noPreferredCategories" approved="yes">
+      <trans-unit id="app.profile.profileVM.noPreferredCategories" approved="no">
         <source>app.profile.profileVM.noPreferredCategories</source>
-        <target state="translated">Ønskede kategorier er ikke angivet</target>
-      </trans-unit>
+        <target state="translated">Dine primære interesseområder er ikke angivet</target> </trans-unit>
       <trans-unit id="app.profile.profileVM.noPreferredLocations" approved="yes">
         <source>app.profile.profileVM.noPreferredLocations</source>
         <target state="translated">Foretrukne lokationer er ikke angivet</target>
@@ -868,10 +864,9 @@
         <source>app.profile.dashboard.alerts.tile.title</source>
         <target state="translated">JOBAGENT</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.alerts.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.alerts.tile.description" approved="no">
         <source>app.profile.dashboard.alerts.tile.description</source>
-        <target state="translated">Opret og styr dine jobagenter</target>
-      </trans-unit>
+        <target state="translated">Opret og administrer dine jobagenter</target> </trans-unit>
       <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
         <source>app.profile.editor.firstNamePlaceholder</source>
         <target state="translated">Fornavn</target>
@@ -940,10 +935,9 @@
         <source>app.profile.saved.applications.undo</source>
         <target state="translated">Fortryd</target>
       </trans-unit>
-      <trans-unit id="app.profile.alertForm.referrals" approved="yes">
+      <trans-unit id="app.profile.alertForm.referrals" approved="no">
         <source>app.profile.alertForm.referrals</source>
-        <target state="translated">Kun Referral jobs</target>
-      </trans-unit>
+        <target state="translated">Kun henvisningsjobs</target> </trans-unit>
       <trans-unit id="app.profile.chooseCurrency" approved="yes">
         <source>app.profile.chooseCurrency</source>
         <target state="translated">Vælg valuta</target>
@@ -955,6 +949,258 @@
     <trans-unit id="form.dateLeavePlaceholder" approved="no">
         <source>form.dateLeavePlaceholder</source>
         <target state="translated">Vælg din opsigelsesperiode</target> </trans-unit>
-      </body>
+      <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="no">
+        <source>app.profile.dashboard.contactTT.tile.title</source>
+        <target state="translated">Din kontakt hos Transport Talent</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="no">
+        <source>app.profile.dashboard.contactTT.tile.SheduleCallBtn</source>
+        <target state="translated">Planlæg Opkald</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.ambassador.tile.title" approved="no">
+         <source>app.profile.dashboard.ambassador.tile.title</source>
+         <target state="translated">Præferencer for rekruttering</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.ambassador.tile.description" approved="no">
+         <source>app.profile.dashboard.ambassador.tile.description</source>
+         <target state="translated">Administrer dine rekrutteringspræferencer</target> </trans-unit>
+      <trans-unit id="app.profile.editor.ambassadorLocations" approved="no">
+         <source>app.profile.editor.ambassadorLocations</source>
+         <target state="translated">Lokationer du kan henvise kandidater i</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.ats.tile.title" approved="no">
+         <source>app.profile.dashboard.ats.tile.title</source>
+         <target state="translated">ATS</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.ats.tile.description" approved="no">
+         <source>app.profile.dashboard.ats.tile.description</source>
+         <target state="translated">Administrer jobs</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.title" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.title</source>
+         <target state="translated">Upload kandidat</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.description" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.description</source>
+         <target state="translated">Upload kandidatbeskrivelse. Update kandidatbeskrivelse</target> </trans-unit>
+      <trans-unit id="app.timezone" approved="no">
+        <source>app.timezone</source>
+        <target state="translated">Tidszone</target> </trans-unit>
+      <trans-unit id="app.profile.timezone.placeholder" approved="no">
+        <source>app.profile.timezone.placeholder</source>
+        <target state="translated">Vælg tidszone</target> </trans-unit>
+      <trans-unit id="app.notification.causes.noJobCategories" approved="no">
+        <source>app.notification.causes.noJobCategories</source>
+        <target state="translated">PRIMÆRE INTERESSEOMRÅDER</target> </trans-unit>
+      <trans-unit id="app.notification.causes.noLocations" approved="no">
+        <source>app.notification.causes.noLocations</source>
+        <target state="translated">FORETRUKNE LOKATIONER</target> </trans-unit>
+      <trans-unit id="app.notification.causes.inactivity" approved="no">
+        <source>app.notification.causes.inactivity</source>
+        <target state="translated">INAKTIVITET</target> </trans-unit>
+      <trans-unit id="app.notification.causes.notConfirmedAccount" approved="no">
+        <source>app.notification.causes.notConfirmedAccount</source>
+        <target state="translated">PROFIL ER IKKE BEKRÆFTET</target> </trans-unit>
+      <trans-unit id="app.notification.causes.noCV" approved="no">
+        <source>app.notification.causes.noCV</source>
+        <target state="translated">DIT CV</target> </trans-unit>
+      <trans-unit id="app.profileInputDateLeaveLabel" approved="no">
+        <source>app.profileInputDateLeaveLabel</source>
+        <target state="translated">OPSIGELSESVARSEL</target> </trans-unit>
+      <trans-unit id="app.profile.editor.dateLeavePlaceholder" approved="no">
+        <source>app.profile.editor.dateLeavePlaceholder</source>
+        <target state="translated">1 måned</target> </trans-unit>
+      <trans-unit id="app.profile.editor.dateLeave" approved="no">
+        <source>app.profile.editor.dateLeave</source>
+        <target state="translated">Opsigelsesvarsel</target> </trans-unit>
+      <trans-unit id="app.profile.profileVM.noDateLeave" approved="no">
+        <source>app.profile.profileVM.noDateLeave</source>
+        <target state="translated">Opsigelsesvarsel er ikke valgt</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.manageTeam.tile.title" approved="no">
+        <source>app.profile.dashboard.manageTeam.tile.title</source>
+        <target state="translated">Administrer team</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.manageTeam.tile.description" approved="no">
+        <source>app.profile.dashboard.manageTeam.tile.description</source>
+        <target state="translated">Administrer din virksomheds organisation og teamstruktur</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.welcomeText" approved="no">
+        <source>app.profile.dashboard.welcomeText</source>
+        <target state="translated">Velkommen</target> </trans-unit>
+      <trans-unit id="app.employer.disabledField.companyContactInfo.noAdminRole" approved="no">
+        <source>app.employer.disabledField.companyContactInfo.noAdminRole</source>
+        <target state="translated">Virksomheds kontaktinfo redigering er deaktiveret da din profil ikke har rettigheder til dette</target> </trans-unit>
+      <trans-unit id="app.employer.disabledField.companyBranding.noAdminRole" approved="no">
+        <source>app.employer.disabledField.companyBranding.noAdminRole</source>
+        <target state="translated">Virksomheds brandredigering er deaktiveret da din profil ikke har rettigheder til dette</target> </trans-unit>
+      <trans-unit id="app.employer.disabledField.companyAddress.noAdminRole" approved="no">
+        <source>app.employer.disabledField.companyAddress.noAdminRole</source>
+        <target state="translated">Virksomheds adresse redigering er deaktiveret da din profil ikke har rettigheder til dette</target> </trans-unit>
+      <trans-unit id="app.employer.disabledField.companyInformation.noAdminRole" approved="no">
+        <source>app.employer.disabledField.companyInformation.noAdminRole</source>
+        <target state="translated">Virksomheds informationsredigering er deaktiveret da din profil ikke har rettigheder til dette</target> </trans-unit>
+      <trans-unit id="app.profile.editor.recruiterBusinessAreas" approved="no">
+        <source>app.profile.editor.recruiterBusinessAreas</source>
+        <target state="translated">Rekruttering forretningsområder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.1m" approved="no">
+        <source>app.profile.dateLeave.1m</source>
+        <target state="translated">1 måned</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.2m" approved="no">
+        <source>app.profile.dateLeave.2m</source>
+        <target state="translated">2 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.3m" approved="no">
+        <source>app.profile.dateLeave.3m</source>
+        <target state="translated">3 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.4m" approved="no">
+        <source>app.profile.dateLeave.4m</source>
+        <target state="translated">4 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.5m" approved="no">
+        <source>app.profile.dateLeave.5m</source>
+        <target state="translated">5 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.6m" approved="no">
+        <source>app.profile.dateLeave.6m</source>
+        <target state="translated">6 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.12m" approved="no">
+        <source>app.profile.dateLeave.12m</source>
+        <target state="translated">12 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.24m" approved="no">
+        <source>app.profile.dateLeave.24m</source>
+        <target state="translated">24 måneder</target> </trans-unit>
+      <trans-unit id="app.profile.dateLeave.other" approved="no">
+        <source>app.profile.dateLeave.other</source>
+        <target state="translated">andre</target> </trans-unit>
+      <trans-unit id="app.profile.editor.noticePeriod" approved="no">
+        <source>app.profile.editor.noticePeriod</source>
+        <target state="translated">Opsigelsesvarsel</target> </trans-unit>
+      <trans-unit id="app.profile.editor.editLogo" approved="no">
+        <source>app.profile.editor.editLogo</source>
+        <target state="translated">Rediger logo</target> </trans-unit>
+      <trans-unit id="app.profile.editor.editBuilding" approved="no">
+        <source>app.profile.editor.editBuilding</source>
+        <target state="translated">Rediger bygning</target> </trans-unit>
+      <trans-unit id="app.profile.noticePeriod.month" approved="no">
+        <source>app.profile.noticePeriod.month</source>
+        <target state="translated">%count% month|%count% måneder</target> </trans-unit>
+      <trans-unit id="app.profile.noticePeriod.other" approved="no">
+        <source>app.profile.noticePeriod.other</source>
+        <target state="translated">andre</target> </trans-unit>
+      <trans-unit id="app.recruiter.approving.error.notFound" approved="no">
+        <source>app.recruiter.approving.error.notFound</source>
+        <target>Denne bruger er allerede blevet godkendt af dig eller en anden partner. Tak</target> </trans-unit>
+      <trans-unit id="app.recruiter.approving.success" approved="no">
+        <source>app.recruiter.approving.success</source>
+        <target>Recruiter er godkendt.</target> </trans-unit>
+      <trans-unit id="app.profile.confirmationPopup.title" approved="no">
+        <source>app.profile.confirmationPopup.title</source>
+        <target>Du godkendte</target> </trans-unit>
+      <trans-unit id="app.profile.confirmationPopup.closeText" approved="no">
+        <source>app.profile.confirmationPopup.closeText</source>
+        <target>Du kan nu lukke dette vindue</target> </trans-unit>
+      <trans-unit id="app.profile.confirmationPopup.closeBtn" approved="no">
+        <source>app.profile.confirmationPopup.closeBtn</source>
+        <target>Luk</target> </trans-unit>
+      <trans-unit id="app.profile.applicationHistories.hideDetails" approved="no">
+        <source>app.profile.applicationHistories.hideDetails</source>
+        <target>Gem detaljer</target> </trans-unit>
+      <trans-unit id="app.profile.applicationHistories.showDetails" approved="no">
+        <source>app.profile.applicationHistories.showDetails</source>
+        <target>Vis ansøgningsstatus</target> </trans-unit>
+      <trans-unit id="app.profile.applicationHistories.updated" approved="no">
+        <source>app.profile.applicationHistories.updated</source>
+        <target>Opdateret</target> </trans-unit>
+      <trans-unit id="app.profile.applicationHistories.status" approved="no">
+        <source>app.profile.applicationHistories.status</source>
+        <target>Status</target> </trans-unit>
+      <trans-unit id="app.profile.applicationHistories.updatedBy" approved="no">
+        <source>app.profile.applicationHistories.updatedBy</source>
+        <target>Opdateret af</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
+        <source>app.profile.onLoginPopup.welcome</source>
+        <target>Velkommen%firstName%,</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
+        <source>app.profile.onLoginPopup.employer</source>
+        <target>Tak fordi du besøgte Transport Talent. Vores formål er at formidle kontakten til kvalificerede kandidater og vi står klar til at assistere dig i din søgning. Venligst kontakt os!</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
+        <source>app.profile.onLoginPopup.recruiter</source>
+        <target>Tak fordi du besøgte Transport Talent.</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
+        <source>app.profile.onLoginPopup.professional</source>
+        <target>Tak fordi besøgte Transport Talent. Vi er helt med på hvor svært det kan være at finde det rette job og vores team er klar til at hjælpe dig hvor end det er muligt. Venligst kontakt os!</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
+        <source>app.profile.onLoginPopup.showThisWindow</source>
+        <target>Vis dette vindue ved hvert sign-in</target> </trans-unit>
+      <trans-unit id="app.profile.onLoginPopup.closeWindow" approved="no">
+        <source>app.profile.onLoginPopup.closeWindow</source>
+        <target>Luk vidue</target> </trans-unit>
+      <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
+        <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
+        <target state="translated">Du har ikke ret til at slette denne konto</target> </trans-unit>
+      <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
+        <source>app.profile.confirmationEmail.beforeDelete</source>
+        <target>Bekræftelse email er blevet sendt til din email adresse %userEmail%.</target> </trans-unit>
+      <trans-unit id="app.deleteAccount" approved="no">
+        <source>app.deleteAccount</source>
+        <target>Slet min konto</target> </trans-unit>
+      <trans-unit id="app.profile.reactivateAccount.message" approved="no">
+        <source>app.profile.reactivateAccount.message</source>
+        <target state="translated">Velkommen tilbage %firstName%. Din konto er blevet re-aktiveret.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.title</source>
+        <target state="translated">Opload kandidat</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.description" approved="no">
+        <source>app.profile.popup.uploadCandidate.description</source>
+        <target state="translated">Brug nedenstående form til at upload din kandidat. Grundet GDPR regler vil vi bede din kandidat om at Due data privacy reasons we will ask your candidate to confirm his/her application. After candidate's confirmation we will proceed with the candidate.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.label</source>
+        <target state="translated">Fornavn</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.input.title</source>
+        <target state="translated">Fornavn må kun indeholde bogstaver</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.label</source>
+        <target state="translated">Efternavn</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.input.title</source>
+        <target state="translated">Efternavn må kun indholde bogstaver</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.email.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.email.label</source>
+        <target state="translated">Email</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.label</source>
+        <target state="translated">Lønforventning</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.initialOption</source>
+        <target state="translated">Vælg lønniveau</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.placeholder" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.placeholder</source>
+        <target>Indtast et beløb</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.title</source>
+        <target>Minimum 4 symboler, kun tal</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.currency.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.currency.label</source>
+        <target state="translated">Vauta</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.label</source>
+        <target state="translated">Opsigelsesperiode</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.initialOption</source>
+        <target state="translated">Vælg opgsigelsesperiode</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label</source>
+        <target state="translated">Upload CV</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label.uploaded" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label.uploaded</source>
+        <target state="translated">Ændre CV</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part1" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part1</source>
+        <target state="translated">Du uploadede</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part2</source>
+        <target state="translated">om CV.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.confirm.input.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.confirm.input.label</source>
+        <target state="translated">Jeg har kandidatens autorisation til at indsende hans/hendes informationer til denne stilling.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.submitBtn" approved="no">
+        <source>app.profile.popup.uploadCandidate.submitBtn</source>
+        <target state="translated">Indsend kandidat</target> </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part1" approved="no">
+          <source>app.profile.uploadCandidate.success.part1</source>
+          <target state="translated">Du har nu indsendt</target> </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part2" approved="no">
+          <source>app.profile.uploadCandidate.success.part2</source>
+          <target state="translated">- venligst tjek din inbox for yderligere informationer.</target> </trans-unit>
+    </body>
   </file>
 </xliff>

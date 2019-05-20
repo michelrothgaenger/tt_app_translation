@@ -45,10 +45,9 @@
         <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="app.header.mainSearchForm.term.placeholder" approved="yes">
+      <trans-unit id="app.header.mainSearchForm.term.placeholder" approved="no">
         <source>app.header.mainSearchForm.term.placeholder</source>
-        <target state="translated">Keyword fx søfragt</target>
-      </trans-unit>
+        <target state="translated">Søgeord fx søfragt</target> </trans-unit>
       <trans-unit id="app.header.mainSearchForm.location.placeholder" approved="yes">
         <source>app.header.mainSearchForm.location.placeholder</source>
         <target state="translated">Lokation</target>

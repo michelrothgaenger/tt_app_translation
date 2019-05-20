@@ -468,10 +468,9 @@
         <source>app.profile.referrals.sectionTitle</source>
         <target state="translated">Henvisninger</target>
       </trans-unit>
-      <trans-unit id="app.profile.referrals.sectionDescription" approved="yes">
+      <trans-unit id="app.profile.referrals.sectionDescription" approved="no">
         <source>app.profile.referrals.sectionDescription</source>
-        <target state="translated">Her finder du alle henvisninger til alle de stillinger du har anbefalet til dit netværk. Husk at når en stilling er blevet besat takket være dig, vil få blive belønnet med det beløb du kan se ved siden af det anbefalede job.</target>
-      </trans-unit>
+        <target state="translated">Her finder du henvisninger til alle de stillinger du har anbefalet til dit netværk. Husk at når en stilling er blevet besat takket være dig, vil få blive belønnet med det beløb der er vist ved det anbefalede job.</target> </trans-unit>
       <trans-unit id="app.profile.referrals.sharedOn" approved="yes">
         <source>app.profile.referrals.sharedOn</source>
         <target state="translated">Først delt på</target>
@@ -1099,7 +1098,7 @@
         <target>Opdateret af</target> </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
         <source>app.profile.onLoginPopup.welcome</source>
-        <target>Velkommen%firstName%,</target> </trans-unit>
+        <target>Hej%firstName%,</target> </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
         <source>app.profile.onLoginPopup.employer</source>
         <target>Tak fordi du besøgte Transport Talent. Vores formål er at formidle kontakten til kvalificerede kandidater og vi står klar til at assistere dig i din søgning. Venligst kontakt os!</target> </trans-unit>

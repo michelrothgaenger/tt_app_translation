@@ -94,14 +94,12 @@
         <source>app.userRegister.provideEmail</source>
         <target state="translated">Angiv email</target>
       </trans-unit>
-      <trans-unit id="app.specialties.placeholder" approved="yes">
+      <trans-unit id="app.specialties.placeholder" approved="no">
         <source>app.specialties.placeholder</source>
-        <target state="translated">Indtast fagområde</target>
-      </trans-unit>
-      <trans-unit id="app.jobCategories.placeholder" approved="yes">
+        <target state="translated">Arbejdsområder du har erfaring med</target> </trans-unit>
+      <trans-unit id="app.jobCategories.placeholder" approved="no">
         <source>app.jobCategories.placeholder</source>
-        <target state="translated">Indtast jobkategori</target>
-      </trans-unit>
+        <target state="translated">Dine primære interesseområder</target> </trans-unit>
       <trans-unit id="app.locations.placeholder" approved="yes">
         <source>app.locations.placeholder</source>
         <target state="translated">Indtast lokation</target>
@@ -220,7 +218,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Fortæl os hvad dit faglige fokus er så vi kan finde de jobs der passer bedst til dig. Hvis du har brugt LinkedIn til at tilmelde dig så er der nok allerede nogle af dine informationer her.</target> </trans-unit>
+        <target state="translated">Fortæl os lidt mere om hvad du søger i dit næste job så vi kan hjælpe dig bedst muligt. Hvis du importere din data via LinkedIn går det hurtigt.</target> </trans-unit>
       <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
         <source>app.userRegister.step4.specialityLabel</source>
         <target state="translated">Hvad er dit speciale/fagområde?</target> </trans-unit>
@@ -230,7 +228,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step5.savingTimeByImport" approved="no">
         <source>app.userRegister.step5.savingTimeByImport</source>
-        <target state="translated">Det er vigtigt at du vedhæfter dit cv til din profil for at kunne benytte vores one-click-application funktion.</target> </trans-unit>
+        <target state="translated">Hvis du vedhæfter dit cv kan vi bedre målrette din jobsøgning og du kan benytte vores one-click-application funktion.</target> </trans-unit>
       <trans-unit id="app.userRegister.step5.importDataHeader" approved="yes">
         <source>app.userRegister.step5.importDataHeader</source>
         <target state="translated">Importer dine oplysninger</target>

@@ -1071,7 +1071,7 @@
         <target state="translated">Rediger bygning</target> </trans-unit>
       <trans-unit id="app.profile.noticePeriod.month" approved="no">
         <source>app.profile.noticePeriod.month</source>
-        <target state="translated">%count% month|%count% måneder</target> </trans-unit>
+        <target state="translated">%count% måned|%count% måneder</target> </trans-unit>
       <trans-unit id="app.profile.noticePeriod.other" approved="no">
         <source>app.profile.noticePeriod.other</source>
         <target state="translated">andre</target> </trans-unit>

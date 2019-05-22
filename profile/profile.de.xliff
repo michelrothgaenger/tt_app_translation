@@ -249,10 +249,9 @@
         <source>Close</source>
         <target state="translated">Schließen</target>
       </trans-unit>
-      <trans-unit id="Crop &amp; Use !" approved="yes">
+      <trans-unit id="Crop &amp; Use !" approved="no">
         <source>Crop &amp; Use !</source>
-        <target state="translated">Zuschneiden und verwenden!</target>
-      </trans-unit>
+        <target state="translated">Zuschneiden und verwenden!</target> </trans-unit>
       <trans-unit id="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
         <target state="translated">Die ausgewählte Datei überschreitet die maximal zulässige Größe.</target>
@@ -710,10 +709,9 @@
         <source>app.profile.editor.preferedJobCategories</source>
         <target state="translated">Bevorzugte Tätigkeitsfelder</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.preferedLocations" approved="yes">
+      <trans-unit id="app.profile.editor.preferedLocations" approved="no">
         <source>app.profile.editor.preferedLocations</source>
-        <target state="translated">Bevorzugte Arbeitsorte</target>
-      </trans-unit>
+        <target state="translated">Bevorzugte Arbeitsorte</target> </trans-unit>
       <trans-unit id="app.profile.editor.salaryExpectations" approved="yes">
         <source>app.profile.editor.salaryExpectations</source>
         <target state="translated">Gehaltsvorstellungen</target>
@@ -970,10 +968,9 @@
         <source>app.notification.causes.noJobCategories</source>
         <target state="translated">BEVORZUGTE TÄTIGKEITSFELDER</target>
       </trans-unit>
-      <trans-unit id="app.notification.causes.noLocations" approved="yes">
+      <trans-unit id="app.notification.causes.noLocations" approved="no">
         <source>app.notification.causes.noLocations</source>
-        <target state="translated">BEVORZUGTE ARBEITSORTE</target>
-      </trans-unit>
+        <target state="translated">BEVORZUGTE ARBEITSORTE</target> </trans-unit>
       <trans-unit id="app.notification.causes.inactivity" approved="yes">
         <source>app.notification.causes.inactivity</source>
         <target state="translated">INAKTIVITÄT</target>
@@ -1184,8 +1181,7 @@
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
-        <target state="translated">Sie haben keinen Zugriff, um dieses Konto zu löschen</target>
-      </trans-unit>
+        <target state="translated">Sie haben keine Befugnis, um dieses Konto zu löschen</target> </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete</source>
         <target state="translated">Die Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse %userEmail% gesendet.</target>
@@ -1197,6 +1193,78 @@
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
         <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert</target> </trans-unit>
-      </body>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.title" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.title</source>
+         <target state="translated">Kandidat hochladen</target> </trans-unit>
+      <trans-unit id="app.profile.dashboard.uploadCandidate.tile.description" approved="no">
+         <source>app.profile.dashboard.uploadCandidate.tile.description</source>
+         <target state="translated">Beschreibung des Kandidaten hochladen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.title</source>
+        <target state="translated">Kandidat hochladen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.description" approved="no">
+        <source>app.profile.popup.uploadCandidate.description</source>
+        <target state="translated">Nutzen Sie das nachfolgende Formular um einen Kandidaten hochzuladen. Aus Gründen des Datenschutzes werden wir zunächst den Kunden um Bestätigung Ihrer Bewerbung bitten, bevor wir mit dem Bewerbungsprozess fortfahren.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.label</source>
+        <target state="translated">Vorname</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.firstname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.firstname.input.title</source>
+        <target state="translated">Vorname sollte nur Buchstaben enthalten</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.label</source>
+        <target state="translated">Nachname</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.lastname.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.lastname.input.title</source>
+        <target state="translated">Nachname sollte nur Buchstaben enthalten</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.email.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.email.label</source>
+        <target state="translated">Email</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.label</source>
+        <target state="translated">Gehaltsvorstellung</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.initialOption</source>
+        <target state="translated">Gehaltsspanne auswählen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.placeholder" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.placeholder</source>
+        <target>Betrag angeben</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.salary.input.title" approved="no">
+        <source>app.profile.popup.uploadCandidate.salary.input.title</source>
+        <target>Mindestens 4 Zeichen, nur Zahlen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.currency.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.currency.label</source>
+        <target state="translated">Währung</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.label</source>
+        <target state="translated">Kündigungsfrist</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.initialOption" approved="no">
+        <source>app.profile.popup.uploadCandidate.noticePeriod.initialOption</source>
+        <target state="translated">Kündigungsfrist auswählen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label</source>
+        <target state="translated">Lebenslauf hochladen</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.label.uploaded" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.label.uploaded</source>
+        <target state="translated">Lebenslauf ändern</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part1" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part1</source>
+        <target state="translated">Sie haben</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
+        <source>app.profile.popup.uploadCandidate.cv.fileinfo.part2</source>
+        <target state="translated">als Lebenslauf hochgeladen.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.confirm.input.label" approved="no">
+        <source>app.profile.popup.uploadCandidate.confirm.input.label</source>
+        <target state="translated">Ich habe die Befugnis des Kandidaten seine/ihre Daten für diese Position zu einzureichen.</target> </trans-unit>
+      <trans-unit id="app.profile.popup.uploadCandidate.submitBtn" approved="no">
+        <source>app.profile.popup.uploadCandidate.submitBtn</source>
+        <target state="translated">Kandidat einreichen</target> </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part1" approved="no">
+          <source>app.profile.uploadCandidate.success.part1</source>
+          <target state="translated">Sie haben erfolgreich eingereicht:</target> </trans-unit>
+      <trans-unit id="app.profile.uploadCandidate.success.part2" approved="no">
+          <source>app.profile.uploadCandidate.success.part2</source>
+          <target state="translated">- bitte checken Sie für weitere Informationen Ihre Inbox.</target> </trans-unit>
+    </body>
   </file>
 </xliff>

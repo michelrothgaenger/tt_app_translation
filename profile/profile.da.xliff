@@ -435,10 +435,9 @@
         <source>app.profile.dashboard.saved-job.tile.description</source>
         <target state="translated">Her kan du se dine shortlistede jobs.</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="no">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
-        <target state="translated">Hold styr på på virksomheder du er interesseret i.</target>
-      </trans-unit>
+        <target state="translated">Hold styr på de virksomheder du er interesseret i.</target> </trans-unit>
       <trans-unit id="app.profile.dashboard.profile.tile.description" approved="yes">
         <source>app.profile.dashboard.profile.tile.description</source>
         <target state="translated">Sørg for at din profil er opdateret så virksomhederne kan få øje på dig.</target>

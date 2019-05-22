@@ -1287,8 +1287,7 @@
       </trans-unit>
       <trans-unit id="app.profile.uploadCandidate.success.part1" approved="no">
           <source>app.profile.uploadCandidate.success.part1</source>
-          <target state="translated">You successful submitted </target>
-      </trans-unit>
+          <target state="translated">You successfully submitted</target> </trans-unit>
       <trans-unit id="app.profile.uploadCandidate.success.part2" approved="no">
           <source>app.profile.uploadCandidate.success.part2</source>
           <target state="translated"> - please check your inbox for further information.</target>

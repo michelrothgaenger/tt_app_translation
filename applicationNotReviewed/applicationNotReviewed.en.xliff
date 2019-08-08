@@ -6,12 +6,13 @@
     </header>
     <body>
       <trans-unit id="app.applicationNotReviewed.subject" approved="no">
-        <source>app.applicationNotReviewed.subject</source>
+        <source>Your application is still pending</source>
         <target state="translated">Your application is still pending.</target>
       </trans-unit>
       <trans-unit id="app.applicationNotReviewed.content" approved="no">
         <source>app.applicationNotReviewed.content</source>
-        <target state="translated">D</target> </trans-unit>
+        <target state="translated">D</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

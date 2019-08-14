@@ -6,12 +6,13 @@
     </header>
     <body>
       <trans-unit id="app.applicationInProcess.subject" approved="no">
-        <source>app.applicationInProcess.subject</source>
+        <source>Application needs review.</source>
         <target state="translated">Appli1cation needs review.</target>
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
         <source>app.applicationInProcess.content</source>
-        <target state="translated">D</target> </trans-unit>
+        <target state="translated">D</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

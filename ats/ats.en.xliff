@@ -37,8 +37,8 @@
         <source>app.ats.popup.info.job.intro</source>
         <target state="translated"> in our company for the position </target>
       </trans-unit>
-      <trans-unit id="app.ats.popup.info.end" approved="yes">
-        <source>app.ats.popup.info.end</source>
+      <trans-unit id="app.ats.popup.info.end" approved="no">
+        <source>A corresponding employment contract has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the preceding information.</source>
         <target state="translated">. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
       <trans-unit id="app.ats.popup.info.allSelects" approved="yes">
@@ -71,7 +71,8 @@
       </trans-unit>
       <trans-unit id="app.ats.popup.flashMsg.part1" approved="no">
         <source>app.ats.popup.flashMsg.part1</source>
-        <target state="translated">You successfully submitted</target> </trans-unit>
+        <target state="translated">You successfully submitted</target>
+      </trans-unit>
       <trans-unit id="app.ats.popup.flashMsg.part2" approved="yes">
         <source>app.ats.popup.flashMsg.part2</source>
         <target state="translated"> for the position </target>

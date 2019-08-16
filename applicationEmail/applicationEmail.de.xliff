@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Guten Tag %title% %lastname%</target> </trans-unit>
+        <target state="translated">Guten Tag %title% %lastname%</target>
+      </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">Es gibt eine neue Bewerbung zur Ihrer Stellenausschreibung.</target> </trans-unit>
+        <target state="translated">Es gibt eine neue Bewerbung zur Ihrer Stellenausschreibung.</target>
+      </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">Im Anhang finden Sie den Lebenslauf des Kandidaten sowie nachfolgend eine persönliche Nachricht, die zusammen mit der Bewerbung eingegeben wurde.</target>
@@ -29,12 +31,13 @@
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
         <source>app.application.sender</source>
-        <target state="translated">Das Transport-Talent-Team</target> </trans-unit>
-    <trans-unit id="app.application.generalSalutation" approved="yes">
+        <target state="translated">Das Transport Talent Team</target>
+      </trans-unit>
+      <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>
         <target state="translated">Guten Tag,</target>
       </trans-unit>
-    <trans-unit id="app.application.mail.ats" approved="yes">
+      <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>
         <target state="translated">ATS</target>
       </trans-unit>

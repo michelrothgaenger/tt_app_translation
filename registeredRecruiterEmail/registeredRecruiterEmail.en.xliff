@@ -6,15 +6,15 @@
     </header>
     <body>
       <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
-        <source>app.registeredRecruiter.toPartner.content</source>
+        <source>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% just registered as recruiter. Please approve his/her registration to enable him/her able to browse jobs.</source>
         <target>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% just registered as recruiter. You have to approve his/her registration to make him/her able to browse jobs.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
-        <source>app.registeredRecruiter.toPartner.subject</source>
+        <source>A new recruiter has to be approved</source>
         <target state="translated">New recruiter has to be approved</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
-        <source>Dear %FirstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.</source>
+        <source>Hej %FirstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt; Best Regards </source>
         <target>Dear user, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">

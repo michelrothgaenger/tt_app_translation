@@ -9,17 +9,19 @@
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Ihre Bewerbung wurde eingereicht</target>
       </trans-unit>
-    <trans-unit id="app.uploadedCandidate.applicationSubmitted.subject" approved="yes">
+      <trans-unit id="app.uploadedCandidate.applicationSubmitted.subject" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
         <target state="translated">Eine neue Bewerbung wurde übermittelt</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">H</target> </trans-unit>
+        <target state="translated">H</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">H</target> </trans-unit>
-    <trans-unit id="app.applicationForwardedEmail.firstPart" approved="yes">
+        <target state="translated">Hej %firstName%,1&lt;br2&gt;3&lt;br4&gt; %recruiterFirstName% %recruiterLastName% hat Ihre Bewerbung für %position%, 5&lt;br6&gt;7&lt;br8&gt; ist das in Ihrem Sinne? Bitte klicken Sie 9&lt;a href="%confirmationLink% "0&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
+      </trans-unit>
+      <trans-unit id="app.applicationForwardedEmail.firstPart" approved="yes">
         <source>app.applicationForwardedEmail.firstPart</source>
         <target state="translated">Lieber Nutzer,&lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>
       </trans-unit>
@@ -27,6 +29,6 @@
         <source>app.applicationForwardedEmail.secondPart</source>
         <target state="translated">bei der Firma %companyName% wurde übermittelt. Wir haben den CV, den Sie eingereicht haben, angehängt. &lt;br&gt;&lt;br&gt;&lt;b&gt;Eine Kopie Ihrer Bewerbung finden Sie unten:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;%applicationMessage%&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Was passiert nun?&lt;/b&gt;&lt;br&gt;&lt;br&gt;Wir werden Ihre Bewerbung prüfen und Sie bei Fragen direkt kontaktieren. &lt;br&gt;&lt;br&gt;Vielen Dank, dass Sie Transport Talent nutzen und viel Erfolg bei Ihrer Bewerbung. &lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport Talent-Team</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

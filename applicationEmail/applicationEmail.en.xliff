@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Dear %firstname%,</target> </trans-unit>
+        <target state="translated">Dear %firstname%,</target>
+      </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
-        <source>app.application.appliedMsgFirstPart</source>
-        <target state="translated">We received an application for your job posting...</target> </trans-unit>
+        <source>We received an application for your job posting.</source>
+        <target state="translated">We received an application for your job posting...</target>
+      </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">Please find enclosed the CV and also a personal message by the candidate below.</target>
@@ -23,13 +25,14 @@
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">You can get in touch with the candidate by replying to this message. Please do not hesitate to contact us, should you have any questions.</target>
       </trans-unit>
-      <trans-unit id="app.application.respect" approved="yes">
-        <source>app.application.respect</source>
+      <trans-unit id="app.application.respect" approved="no">
+        <source>Best Regards,</source>
         <target state="translated">Kind Regards,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
-        <source>app.application.sender</source>
-        <target state="translated">The Transport Talent Team </target> </trans-unit>
+        <source>Transport Talent </source>
+        <target state="translated">The Transport Talent Team</target>
+      </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>
         <target state="translated">Dear user</target>

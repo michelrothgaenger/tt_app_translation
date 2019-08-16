@@ -33,9 +33,9 @@
         <source>Transport Talent</source>
         <target state="translated">Ihr Transport Talent Team</target>
       </trans-unit>
-      <trans-unit id="app.application.generalSalutation" approved="yes">
+      <trans-unit id="app.application.generalSalutation" approved="no">
         <source>app.application.generalSalutation</source>
-        <target state="translated">Guten Tag,</target>
+        <target state="translated">Guten Tag</target>
       </trans-unit>
       <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>

@@ -25,13 +25,13 @@
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">Antworten Sie einfach auf diese E-Mail, um mit dem Bewerber in Kontakt zu treten. Bei Fragen stehen wir Ihnen gerne zur Verfügung.</target>
       </trans-unit>
-      <trans-unit id="app.application.respect" approved="yes">
-        <source>app.application.respect</source>
-        <target state="translated">Mit freundlichen Grüßen</target>
+      <trans-unit id="app.application.respect" approved="no">
+        <source>Best Regards,</source>
+        <target state="translated">Viele Grüße,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
-        <source>app.application.sender</source>
-        <target state="translated">Das Transport Talent Team</target>
+        <source>Transport Talent</source>
+        <target state="translated">Ihr Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>

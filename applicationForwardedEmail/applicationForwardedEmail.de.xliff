@@ -21,9 +21,9 @@
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
         <target state="translated">Hej %firstName%,1&lt;br2&gt;3&lt;br4&gt; %recruiterFirstName% %recruiterLastName% hat Ihre Bewerbung für %position%, 5&lt;br6&gt;7&lt;br8&gt; ist das in Ihrem Sinne? Bitte klicken Sie 9&lt;a href="%confirmationLink% "0&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
       </trans-unit>
-      <trans-unit id="app.applicationForwardedEmail.firstPart" approved="yes">
-        <source>app.applicationForwardedEmail.firstPart</source>
-        <target state="translated">Lieber Nutzer,&lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>
+      <trans-unit id="app.applicationForwardedEmail.firstPart" approved="no">
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application</source>
+        <target state="translated">Hej,&lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.secondPart" approved="yes">
         <source>app.applicationForwardedEmail.secondPart</source>

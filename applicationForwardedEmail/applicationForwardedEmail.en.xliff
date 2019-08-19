@@ -6,12 +6,14 @@
     </header>
     <body>
       <trans-unit id="app.applicationForwardedEmail.firstPart" approved="no">
-        <source>app.applicationForwardedEmail.firstPart</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application </source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application for</target>
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.secondPart" approved="no">
-        <source>app.applicationForwardedEmail.secondPart</source>
-        <target state="translated">a</target> </trans-unit>
+        <source>Thank you for expressing interest in this position. We have received your application to the company %companyName%. Your application and submitted CV have been transmitted. Below is a copy of your application&lt;/b&gt;&gt;br&gt;&lt;g&gt;applicationMessage%&lt;/i&gt;br&gt;&gt; Our recruiters are currently reviewing it. Our recruiters will contact you to discuss further proceedings or should any questions arise.&lt;br&gt;br&gt; Good luck with your application. &lt;br&gt;br&gt;Best Regards &lt;br&gt;br&gt;Your Transport Talent Team
+</source>
+        <target state="translated">a</target>
+      </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.subject" approved="yes">
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Your application has been submitted</target>
@@ -22,7 +24,8 @@
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">D</target> </trans-unit>
+        <target state="translated">D</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% submitted your application for %position%, &lt;br&gt;&lt;br&gt; Is this on behalf of you? Please click &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; to confirm your application.</target>

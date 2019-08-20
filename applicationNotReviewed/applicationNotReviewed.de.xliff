@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.applicationNotReviewed.content" approved="no">
         <source>app.applicationNotReviewed.content</source>
-        <target state="translated"></target>
+        <target state="translated">Hej %firstName%,1&lt;br2&gt;3&lt;br4&gt;Ihre Bewerbung bei der Firma %companyName% für die Position:%jobTitle% ist noch offen. Unsere Personalvermittler werden es überprüfen und Sie kontaktieren, um das weitere Vorgehen zu besprechen oder wenn Fragen auftauchen.5&lt;br6&gt;br7&gt;Viel Glück mit Ihrer Bewerbung.8&lt;br9&gt;br0&gt;Mit freundlichen Grüßen, &lt;br&gt;br&gt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

@@ -7,15 +7,15 @@
     <body>
       <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="no">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject</source>
-        <target>Candidate was submitted</target>
+        <target>Der Kandidat wurde übermittelt</target>
       </trans-unit>
       <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
-        <target>Dear, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target>Lieber %recruiterFirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt; Sie haben gerade %candidateFirstName% %candidateLastName% übermittelt. Aus Datenschutzgründen haben wir eine E-Mail an den Kandidaten geschickt und um Bestätigung gebeten.&lt;br&gt;&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen,&lt;br&gt;&lt;br&gt; Viele Grüße Michel Rothgaenger</target>
       </trans-unit>
       <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
         <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>
-        <target>Candidate was submitted</target>
+        <target>Kandidat wurde übermittelt</target>
       </trans-unit>
       <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
         <source>app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
@@ -27,7 +27,7 @@
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="no">
         <source>app.informRecruiterEmail.candidateConfirmed.subject</source>
-        <target>The candidate has confirmed authorisation request</target>
+        <target>Der Kandidat hat den Autorisierungsantrag bestätigt.</target>
       </trans-unit>
       <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="no">
         <source>app.informRecruiter.candidateConfirmed.content</source>

@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
-        <source>app.registeredRecruiter.toPartner.content</source>
-        <target>H</target>
+        <source>Hej, %partnerFirstName% &lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% just registered as recruiter. Please approve his/her registration to enable him/her able to browse jobs.</source>
+        <target>Hej, %partnerFirstName% 1&lt;br2&gt;3&lt;br4&gt; Ein Benutzer mit E-Mail %recruiterEmail% hat sich gerade als Recruiter registriert. Sie müssen seine Registrierung genehmigen, damit er die Stellenangebote einsehen kann.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
         <source>app.registeredRecruiter.toPartner.subject</source>
@@ -26,8 +26,8 @@
         <target>Personalberater wurde bestätigt</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
-        <source>app.confirmedRecruiter.toPartner.content</source>
-        <target>H</target>
+        <source>Hej %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successfully approved by you and can now browse jobs and refer candidates.</source>
+        <target>Hej, %partnerFirstName%,9&lt;br0&gt;&lt;br&gt;Der Personalvermittler mit E-Mail %recruiterEmail% wurde von Ihnen erfolgreich genehmigt und kann nun Stellen durchsuchen und Kandidaten empfehlen.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
         <source>app.confirmedRecruiter.toRecruiter.subject</source>

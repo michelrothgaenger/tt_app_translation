@@ -5,19 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.email.welcomeEmployer" approved="yes">
-        <source>app.email.welcomeEmployer</source>
-        <target state="translated">Lieber Nutzer,&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt; vielen Dank für Ihre Anmeldung bei Transport Talent. Sie profitieren ab sofort von unserem Netzwerk ausgewählter Fachkräfte. Gerne stehen wir Ihnen auch für ein persönliches Gespräch zur Verfügung, um weitere Schritte zu besprechen. Wählen Sie hierzu einfach unter folgendem Link einen passenden Termin aus: https://calendly.com/michel-rothgaenger. &lt;br&gt;
-&lt;br&gt;Sollten sich in der Zwischenzeit Fragen zu einem unserer Services ergeben, antworten Sie einfach auf diese E-Mail. Wir melden uns zeitnah bei Ihnen zurück.
-&lt;br&gt;
-&lt;br&gt; Mit freundlichen Grüßen 
-&lt;br&gt;
-&lt;br&gt;Michel Rothgaenger&lt;br&gt;
-Operativer Geschäftsführer&lt;br&gt;
-Transport Talent&lt;br&gt;
-&lt;br&gt; &lt;br&gt;</target>
+      <trans-unit id="app.email.welcomeEmployer" approved="no">
+        <source>Hej, % firstName%, &lt;br&gt; &lt;br&gt; thank you for registering with Transport Talent. From now on, you will benefit from our network of selected specialists. We will also be happy to talk to you in person to discuss further steps. Simply select a suitable date under the following link: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;In the meantime, if you have any questions about any of our services, simply reply to this e-mail. We will get back to you as soon as possible. &lt;br&gt; &lt;br&gt; Best regards &lt;br&gt;Michel Rothgaenger&lt;br&gt; Chief Operating Officer&lt;br&gt; Transport Talent&lt;br&gt; &lt;br&gt; &lt;font color="#ffff00"&gt;Transport Talent&lt;font color="#ffff00"&gt;</source>
+        <target state="translated">Lieber Nutzer,&lt;br&gt; &lt;br&gt; &lt;br&gt; vielen Dank für Ihre Anmeldung bei Transport Talent. Sie profitieren ab sofort von unserem Netzwerk ausgewählter Fachkräfte. Gerne stehen wir Ihnen auch für ein persönliches Gespräch zur Verfügung, um weitere Schritte zu besprechen. Wählen Sie hierzu einfach unter folgendem Link einen passenden Termin aus: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;Sollten sich in der Zwischenzeit Fragen zu einem unserer Services ergeben, antworten Sie einfach auf diese E-Mail. Wir melden uns zeitnah bei Ihnen zurück. &lt;br&gt; &lt;br&gt; Viele Grüße &lt;br&gt; &lt;br&gt;Michel Rothgaenger&lt;br&gt; Operativer Geschäftsführer&lt;br&gt; Transport Talent&lt;br&gt; &lt;br&gt; &lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.welcomeEmailSubjectEmployer" approved="yes">
         <source>app.welcomeEmailSubjectEmployer</source>

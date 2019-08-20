@@ -6,15 +6,15 @@
     </header>
     <body>
       <trans-unit id="app.application.salutation" approved="no">
-        <source>Hej %firstname%,</source>
+        <source>Hej %firstName%,</source>
         <target state="translated">Dear %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>We received an application for your job posting.</source>
         <target state="translated">We received an application for your job posting...</target>
       </trans-unit>
-      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
-        <source>app.application.appliedMsgSecondPart</source>
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
+        <source>In the attachment, you will subsequently find the CV of the candidate as well as a personal message which was submitted alongside the application.</source>
         <target state="translated">Please find enclosed the CV and also a personal message by the candidate below.</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
@@ -30,7 +30,7 @@
         <target state="translated">Kind Regards,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
-        <source>Transport Talent </source>
+        <source>Transport Talent</source>
         <target state="translated">The Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">

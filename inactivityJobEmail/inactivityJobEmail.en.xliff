@@ -10,8 +10,9 @@
         <target state="translated">Inactivity job "%jobTitle%" for company "%companyName%"</target>
       </trans-unit>
       <trans-unit id="app.inactivityJobEmail.text" approved="no">
-        <source>app.inactivityJobEmail.text</source>
-        <target state="translated">Dear, %firstName%, Your ad in the subject line has been online for 30 days. It is important for us that our candidates always receive current offers. Please click here if the ad is still up to date: %confirmUrl% Please click here if you want to deactivate the display: %deactivateUrl% Thank you for your cooperation! With kind regards, The Transport Talent Team</target> </trans-unit>
+        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;Your ad in the subject line has been online for 30 days. It is important to us, that our candidates receive current offers always. Please click here if the ad is still up to date: %confirmUrl% Please click here if you would like to deactivate the display: %deactivateUrl%Thank you for your cooperation! &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">Dear, %firstName%, Your ad in the subject line has been online for 30 days. It is important for us that our candidates always receive current offers. Please click here if the ad is still up to date: %confirmUrl% Please click here if you want to deactivate the display: %deactivateUrl% Thank you for your cooperation! With kind regards, The Transport Talent Team</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

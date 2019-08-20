@@ -14,16 +14,16 @@
         <target state="translated">Eine neue Bewerbung wurde übermittelt</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
-        <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">H</target>
+        <source>Thank you for expressing interest in this position. We have received your application to the company %companyName%. Your application and submitted CV have been transmitted. Below is a copy of your application&lt;/b&gt;&gt;br&gt;&lt;g&gt;applicationMessage%&lt;/i&gt;br&gt;&gt; Our recruiters are currently reviewing it and will contact you to discuss further proceedings or should any questions arise.&lt;br&gt;br&gt; Good luck with your application. &lt;br&gt;br&gt;Best Regards &lt;br&gt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">Vielen Dank für Ihr Interesse an dieser Position. Wir haben Ihre Bewerbung an die Firma %companyName% erhalten. Ihre Bewerbung und Ihr eingereichter Lebenslauf wurden übermittelt. Nachfolgend finden Sie eine Kopie Ihrer Bewerbung&lt;/b&gt;&gt;br&gt;&lt;g&gt;applicationMessage%&lt;/i&gt;br&gt;&gt; Unsere Personalvermittler prüfen sie derzeit und werden sich mit Ihnen in Verbindung setzen, um das weitere Vorgehen zu besprechen oder wenn Fragen auftauchen.&lt;br&gt;br&gt;br&gt; Ihr Transport Talent Team wünscht Ihnen viel Glück mit Ihrer Bewerbung.</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
         <target state="translated">Hej %firstName%,1&lt;br2&gt;3&lt;br4&gt; %recruiterFirstName% %recruiterLastName% hat Ihre Bewerbung für %position%, 5&lt;br6&gt;7&lt;br8&gt; ist das in Ihrem Sinne? Bitte klicken Sie 9&lt;a href="%confirmationLink% "0&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.firstPart" approved="no">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application</source>
-        <target state="translated">Hej,&lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>
+        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;</source>
+        <target state="translated">Hej &lt;br&gt;&lt;br&gt;Ihre Bewerbung auf</target>
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.secondPart" approved="yes">
         <source>app.applicationForwardedEmail.secondPart</source>

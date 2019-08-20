@@ -10,7 +10,7 @@
         <target state="translated">Appli1cation needs review.</target>
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
-        <source>Hej %firstNameHR%,&lt;br&gt;&lt;br&gt; Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under process.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt;&lt;br&gt; Your Transport Talent Team</source>
+        <source>Hej %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">D</target>
       </trans-unit>
     </body>

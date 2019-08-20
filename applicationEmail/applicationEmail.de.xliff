@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.application.salutation" approved="no">
         <source>app.application.salutation</source>
-        <target state="translated">Guten Tag %title% %lastname%</target>
+        <target state="translated">Hej %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>app.application.appliedMsgFirstPart</source>
@@ -31,11 +31,11 @@
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
         <source>Transport Talent</source>
-        <target state="translated">Ihr Transport Talent Team</target>
+        <target state="translated">Michel Rothgaenger</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">
         <source>app.application.generalSalutation</source>
-        <target state="translated">Guten Tag</target>
+        <target state="translated">Hej %firstName%,</target>
       </trans-unit>
       <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>

@@ -10,14 +10,17 @@
         <target state="translated">Still interested in career opportunities?</target>
       </trans-unit>
       <trans-unit id="app.inactivityEmail" approved="no">
-        <source>app.inactivityEmail</source>
-        <target>D</target> </trans-unit>
+        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;Long time no see! Need a new challenge or better opportunities? Vist www.transporttalent.com to view our job postings .&lt;br&gt;br&gt;Best Regards,&lt;Your Transport Talent Team</source>
+        <target>D</target>
+      </trans-unit>
       <trans-unit id="app.inactivityEmail.firstNotify" approved="no">
-        <source>app.inactivityEmail.firstNotify</source>
-        <target state="translated">D</target> </trans-unit>
+        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;It’s been a long minute since you were last active on Transport Talent. Please visit www.transporttalent.com today to see what we have been upto.&lt;br&gt;br&gt;Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">D</target>
+      </trans-unit>
       <trans-unit id="app.inactivityEmail.secondNotify" approved="no">
-        <source>app.inactivityEmail.secondNotify</source>
-        <target state="translated">D</target> </trans-unit>
+        <source>Hej %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gt Still interested in career opportunities? Visit us today on www.transporttalent.com to browse our published jobs.&amp;lt;br&amp;gt;br&amp;gt;Best Regards,&amp;lt;br&amp;gt;Your Transport Talent Team</source>
+        <target state="translated">D</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

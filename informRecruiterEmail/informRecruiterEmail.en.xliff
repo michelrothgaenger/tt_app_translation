@@ -10,15 +10,17 @@
         <target state="translated">Candidate was submitted</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="no">
-        <source>app.informRecruiterEmail.pendingConfirmation.content</source>
-        <target state="translated">D</target> </trans-unit>
+        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their application before our recruiters can review it.&lt;br&gt;Thank you for your continued support.&lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">D</target>
+      </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
-        <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
+        <source>Candidate has confirmed the application</source>
         <target state="translated">The candidate has confirmed the application for the position "%position%".</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
-        <source>app.informRecruiterEmail.applicationConfirmed.content</source>
-        <target state="translated">D</target> </trans-unit>
+        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;The candidate has confirmed thier application for the position: "%position%". Our recruiters are curretly reviewing the application. Kindly check  %jobTitle%" with the status "%applicationStatus% for flow the application process. &lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">D</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

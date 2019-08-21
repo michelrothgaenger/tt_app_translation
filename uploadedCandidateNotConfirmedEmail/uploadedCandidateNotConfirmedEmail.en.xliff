@@ -7,17 +7,20 @@
     <body>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
-        <target>Your Submitted Candidate</target> </trans-unit>
+        <target>Your Submitted Candidate</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
-        <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
-        <target>D</target> </trans-unit>
+        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their account.&lt;br&gt;Thank you for your continued support.&lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <target>D</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
         <target>Your application is still pending</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
-        <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
-        <target>D</target> </trans-unit>
+        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their application before our recruiters can review it.&lt;br&gt;Thank you for your continued support.&lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <target>D</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

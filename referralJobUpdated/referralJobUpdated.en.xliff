@@ -9,8 +9,8 @@
         <source>app.referralJobUpdated.subject</source>
         <target state="translated">Referral award for %jobAdTitle% updated</target>
       </trans-unit>
-      <trans-unit id="app.referralJobUpdated" approved="yes">
-        <source>app.referralJobUpdated</source>
+      <trans-unit id="app.referralJobUpdated" approved="no">
+        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;The referral reward for your job ad %jobAdTitle% has been updated. The referrer will now receive %referralReward% if you hire a referred candidate for this position. Please do not hesitate to contact us should you have any questions regarding this process.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;The referral reward for your job ad %jobAdTitle% has been updated. The referrer will now receive %referralReward% if you hire a referred candidate for this position. Please do not hesitate to contact us should you have any questions regarding this process.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>

@@ -18,7 +18,7 @@
         <target state="translated">The candidate has confirmed the application for the position "%position%".</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
-        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;The candidate has confirmed thier application for the position: "%position%". Our recruiters are curretly reviewing the application. Kindly check  %jobTitle%" with the status "%applicationStatus% to follow the application process. &lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <source>Hej %firstNameHR%,;br&gt;&lt;br&gt;The candidate has confirmed thier application for the position: "%position%". Our recruiters are curretly reviewing the application. Kindly check %jobTitle%" with the status "%applicationStatus% to follow the application process. &lt;br&gt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">D</target>
       </trans-unit>
     </body>

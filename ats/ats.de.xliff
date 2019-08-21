@@ -200,7 +200,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
         <source>Dear applicant, Thank you for applying to our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</source>
-        <target state="translated">Hej %FirstName%, vielen Dank für Ihre Bewerbung bei uns. Ihre Bewerbung ist uns aufgefallen und wir möchten Sie zu einem Vorstellungsgespräch einladen, um Sie besser kennen zu lernen. Sie erhalten einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. Wir werden Sie in einer separaten Nachricht über die Details Ihres Interviews kurzfristig informieren.</target>
+        <target state="translated">Hej %firstName%, vielen Dank für Ihre Bewerbung bei uns. Ihre Bewerbung ist uns aufgefallen und wir möchten Sie zu einem Vorstellungsgespräch einladen, um Sie besser kennen zu lernen. Sie erhalten einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. Wir werden Sie in einer separaten Nachricht über die Details Ihres Interviews kurzfristig informieren.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
         <source>app.ats.email.defaultSubject.shortlist</source>
@@ -208,7 +208,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.shortlist" approved="no">
         <source>app.ats.email.defaultContent.shortlist</source>
-        <target state="translated">Hej %FirstName%, vielen Dank für Ihre Bewerbung, die uns bei der ersten Prüfung gefallen hat. Unser Einstellungsteam prüft derzeit alle Bewerbungen und wir planen, in den nächsten zwei Wochen Bewerbungsgespräche zu führen. Wenn Sie zu den qualifizierten Kandidaten gehören, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Status Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
+        <target state="translated">Hej %firstName%, vielen Dank für Ihre Bewerbung, die uns bei der ersten Prüfung gefallen hat. Unser Einstellungsteam prüft derzeit alle Bewerbungen und wir planen, in den nächsten zwei Wochen Bewerbungsgespräche zu führen. Wenn Sie zu den qualifizierten Kandidaten gehören, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Status Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.hire" approved="no">
         <source>app.ats.email.defaultSubject.hire</source>
@@ -216,7 +216,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.hire" approved="no">
         <source>app.ats.email.defaultContent.hire</source>
-        <target state="translated">Hej %FirstName%, wir waren mit unserem Interview neulich zufrieden und beeindruckt von Ihrem Hintergrund und möchten Ihnen die Stelle anbieten. Wir werden uns in Kürze mit einem formellen Angebot an Sie wenden. Wir alle freuen uns darauf, Sie in unserem Team zu haben.</target>
+        <target state="translated">Hej %firstName%, wir waren mit unserem Interview neulich zufrieden und beeindruckt von Ihrem Hintergrund und möchten Ihnen die Stelle anbieten. Wir werden uns in Kürze mit einem formellen Angebot an Sie wenden. Wir alle freuen uns darauf, Sie in unserem Team zu haben.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.rejectBefore" approved="no">
         <source>app.ats.email.defaultSubject.rejectBefore</source>
@@ -224,7 +224,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.rejectBefore" approved="no">
         <source>app.ats.email.defaultContent.rejectBefore</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank für Ihr Interesse an einer Mitarbeit in unserem Team. Wir wollten Sie wissen lassen, dass Ihr Lebenslauf und Ihr Anschreiben zwar sehr konkurrenzfähig waren, aber unser Einstellungsteam Ihre Bewerbung geprüft und nicht für weitere Überlegungen ausgewählt hat. Wir wünschen Ihnen alles Gute bei Ihrer Jobsuche und hoffen, dass wir Sie in Zukunft für eine andere Aufgabe in Betracht ziehen können.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank für Ihr Interesse an einer Mitarbeit in unserem Team. Wir wollten Sie wissen lassen, dass Ihr Lebenslauf und Ihr Anschreiben zwar sehr konkurrenzfähig waren, aber unser Einstellungsteam Ihre Bewerbung geprüft und nicht für weitere Überlegungen ausgewählt hat. Wir wünschen Ihnen alles Gute bei Ihrer Jobsuche und hoffen, dass wir Sie in Zukunft für eine andere Aufgabe in Betracht ziehen können.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.rejectAfter" approved="no">
         <source>app.ats.email.defaultSubject.rejectAfter</source>
@@ -232,7 +232,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.rejectAfter" approved="no">
         <source>app.ats.email.defaultContent.rejectAfter</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank, dass Sie sich die Zeit nehmen, sich mit unserem Team über die Rolle in unserem Unternehmen zu treffen. Es war eine Freude, mehr über Ihre Fähigkeiten und Leistungen zu erfahren. Leider hat unser Team Sie nicht für weitere Überlegungen ausgewählt. Wir möchten darauf hinweisen, dass der Wettbewerb um Arbeitsplätze in unserem Unternehmen immer stark ist und wir oft schwierige Entscheidungen zwischen vielen hochkarätigen Kandidaten treffen müssen. Nochmals vielen Dank für Ihr Interesse an unserem Unternehmen und viel Glück bei der Jobsuche.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank, dass Sie sich die Zeit nehmen, sich mit unserem Team über die Rolle in unserem Unternehmen zu treffen. Es war eine Freude, mehr über Ihre Fähigkeiten und Leistungen zu erfahren. Leider hat unser Team Sie nicht für weitere Überlegungen ausgewählt. Wir möchten darauf hinweisen, dass der Wettbewerb um Arbeitsplätze in unserem Unternehmen immer stark ist und wir oft schwierige Entscheidungen zwischen vielen hochkarätigen Kandidaten treffen müssen. Nochmals vielen Dank für Ihr Interesse an unserem Unternehmen und viel Glück bei der Jobsuche.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
@@ -240,7 +240,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.text.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank für Ihre Bewerbung. Wir möchten Sie darüber informieren, dass wir Ihre Bewerbung erhalten haben. Unser Team prüft derzeit alle Bewerbungen und wir planen ein Vorstellungsgespräch in den nächsten zwei Wochen. Wenn Sie ein qualifizierter Kandidat sind, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Stand Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank für Ihre Bewerbung. Wir möchten Sie darüber informieren, dass wir Ihre Bewerbung erhalten haben. Unser Team prüft derzeit alle Bewerbungen und wir planen ein Vorstellungsgespräch in den nächsten zwei Wochen. Wenn Sie ein qualifizierter Kandidat sind, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Stand Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.shortlist.subject.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.subject.placeholder</source>
@@ -248,7 +248,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.shortlist.text.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank für Ihre Bewerbung, die uns bei der ersten Prüfung gefallen hat. Unser Einstellungsteam prüft derzeit alle Bewerbungen und wir planen, in den nächsten zwei Wochen Bewerbungsgespräche zu führen. Wenn Sie zu den qualifizierten Kandidaten gehören, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Status Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank für Ihre Bewerbung, die uns bei der ersten Prüfung gefallen hat. Unser Einstellungsteam prüft derzeit alle Bewerbungen und wir planen, in den nächsten zwei Wochen Bewerbungsgespräche zu führen. Wenn Sie zu den qualifizierten Kandidaten gehören, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Status Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.subject.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.subject.placeholder</source>
@@ -256,7 +256,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank für Ihr Interesse an einer Mitarbeit in unserem Team. Wir wollten Sie wissen lassen, dass Ihr Lebenslauf und Ihr Anschreiben zwar sehr konkurrenzfähig waren, aber unser Einstellungsteam Ihre Bewerbung geprüft und nicht für weitere Überlegungen ausgewählt hat. Wir wünschen Ihnen alles Gute bei Ihrer Jobsuche und hoffen, dass wir Sie in Zukunft für eine andere Aufgabe in Betracht ziehen können.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank für Ihr Interesse an einer Mitarbeit in unserem Team. Wir wollten Sie wissen lassen, dass Ihr Lebenslauf und Ihr Anschreiben zwar sehr konkurrenzfähig waren, aber unser Einstellungsteam Ihre Bewerbung geprüft und nicht für weitere Überlegungen ausgewählt hat. Wir wünschen Ihnen alles Gute bei Ihrer Jobsuche und hoffen, dass wir Sie in Zukunft für eine andere Aufgabe in Betracht ziehen können.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.subject.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
@@ -264,7 +264,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank, dass Sie sich die Zeit nehmen, sich mit unserem Team über die Rolle in unserem Unternehmen zu treffen. Es war eine Freude, mehr über Ihre Fähigkeiten und Leistungen zu erfahren. Leider hat unser Team Sie nicht für weitere Überlegungen ausgewählt. Wir möchten darauf hinweisen, dass der Wettbewerb um Arbeitsplätze in unserem Unternehmen immer stark ist und wir oft schwierige Entscheidungen zwischen vielen hochkarätigen Kandidaten treffen müssen. Nochmals vielen Dank für Ihr Interesse an unserem Unternehmen und viel Glück bei der Jobsuche.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank, dass Sie sich die Zeit nehmen, sich mit unserem Team über die Rolle in unserem Unternehmen zu treffen. Es war eine Freude, mehr über Ihre Fähigkeiten und Leistungen zu erfahren. Leider hat unser Team Sie nicht für weitere Überlegungen ausgewählt. Wir möchten darauf hinweisen, dass der Wettbewerb um Arbeitsplätze in unserem Unternehmen immer stark ist und wir oft schwierige Entscheidungen zwischen vielen hochkarätigen Kandidaten treffen müssen. Nochmals vielen Dank für Ihr Interesse an unserem Unternehmen und viel Glück bei der Jobsuche.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.title" approved="no">
         <source>app.ats.settings.main.hire.title</source>
@@ -284,7 +284,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="no">
         <source>app.ats.settings.main.hire.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Wir waren mit unserem Interview neulich zufrieden und beeindruckt von Ihrem Hintergrund und möchten Ihnen die Stelle anbieten. Wir werden uns in Kürze mit einem formellen Angebot an Sie wenden. Wir alle freuen uns darauf, Sie in unserem Team zu haben.</target>
+        <target state="translated">Hej %firstName%, Wir waren mit unserem Interview neulich zufrieden und beeindruckt von Ihrem Hintergrund und möchten Ihnen die Stelle anbieten. Wir werden uns in Kürze mit einem formellen Angebot an Sie wenden. Wir alle freuen uns darauf, Sie in unserem Team zu haben.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultFooter" approved="no">
         <source>app.ats.email.defaultFooter</source>
@@ -308,7 +308,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="no">
         <source>app.ats.settings.main.interview.text.placeholder</source>
-        <target state="translated">Hej %FirstName%, Vielen Dank für Ihre Bewerbung bei uns. Ihre Bewerbung ist uns aufgefallen und wir möchten Sie zu einem Vorstellungsgespräch einladen, um Sie besser kennen zu lernen. Sie erhalten einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. Wir werden Sie in einer separaten Nachricht über die Details Ihres Interviews kurzfristig informieren.</target>
+        <target state="translated">Hej %firstName%, Vielen Dank für Ihre Bewerbung bei uns. Ihre Bewerbung ist uns aufgefallen und wir möchten Sie zu einem Vorstellungsgespräch einladen, um Sie besser kennen zu lernen. Sie erhalten einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. Wir werden Sie in einer separaten Nachricht über die Details Ihres Interviews kurzfristig informieren.</target>
       </trans-unit>
       <trans-unit id="app.ats.infoEmail.noContactPerson" approved="no">
         <source>app.ats.infoEmail.noContactPerson</source>

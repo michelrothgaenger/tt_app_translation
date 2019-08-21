@@ -5,17 +5,18 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="yes">
-        <source>app.invitationEmailForExistingUser.firstPart</source>
-        <target state="translated"><![CDATA[Hi %userFirstName%, <br> %adminFirstName% %adminLastName% has added you as a user ]]></target>
+      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="no">
+        <source>Hej %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% has added you as a user</source>
+        <target state="translated">Hi %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% has added you as a user</target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.categoryPart" approved="yes">
         <source>app.invitationEmailForExistingUser.categoryPart</source>
         <target state="translated">for %category% </target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
-        <source>app.invitationEmailForExistingUser.secondPart</source>
-        <target state="translated">f</target> </trans-unit>
+        <source>at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</source>
+        <target state="translated">f</target>
+      </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
         <source>app.invitationEmailForExistingUser.subject</source>
         <target state="translated">You can now manage jobs for %company% on Transport Talent</target>

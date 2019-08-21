@@ -7,9 +7,10 @@
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;</target> </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
-        <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
+        <target state="translated">&lt;</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
+        <source>Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</source>
         <target state="translated">Dear user,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
@@ -50,7 +51,8 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">D</target> </trans-unit>
+        <target state="translated">D</target>
+      </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Your job alert has been deactivated</target>
@@ -61,7 +63,8 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">D</target> </trans-unit>
+        <target state="translated">D</target>
+      </trans-unit>
       <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Referral jobs</target>
@@ -92,7 +95,8 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part3</source>
-        <target>F</target> </trans-unit>
+        <target>F</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

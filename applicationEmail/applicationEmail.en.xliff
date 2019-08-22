@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="app.application.salutation" approved="no">
-        <source>Hej %firstName%,</source>
+        <source>Hej %firstName%, test</source>
         <target state="translated">Dear %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">

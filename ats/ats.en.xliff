@@ -38,8 +38,8 @@
         <target state="translated"> in our company for the position </target>
       </trans-unit>
       <trans-unit id="app.ats.popup.info.end" approved="no">
-        <source>A corresponding employment contract has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the preceding information.</source>
-        <target state="translated">. A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
+        <source>app.ats.popup.info.end</source>
+        <target state="translated">A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
       <trans-unit id="app.ats.popup.info.allSelects" approved="yes">
         <source>app.ats.popup.info.allSelects</source>
@@ -194,7 +194,7 @@
         <target state="translated">Thank you for your application</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.welcome" approved="no">
-        <source>Dear %firstname%, Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and planning for an interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</source>
+        <source>app.ats.email.defaultContent.welcome</source>
         <target state="translated">Dear applicant, Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we plan to interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
@@ -202,7 +202,7 @@
         <target state="translated">Invitation to interview</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
-        <source>Dear applicant, Thank you for applying to our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</source>
+        <source>app.ats.email.defaultContent.interview</source>
         <target state="translated">Dear applicant, Thank you for applying at our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
@@ -249,12 +249,12 @@ We wish you all the best in your job search and hope we will have the chance to 
         <target state="translated">Dear applicant,
 
 Thank you for taking the time to meet with our team about the role at our company. It was a pleasure to learn more about your skills and accomplishments.
-Unfortunately, our team did not select you for further consideration. We would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates. 
+Unfortunately, our team did not select you for further consideration. We would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates.
 Thanks again for your interest in our company and best of luck with your job search.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target state="translated">Kind regards, 
+        <target state="translated">Kind regards,
 Your Recruiting Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
@@ -263,7 +263,7 @@ Your Recruiting Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.text.placeholder" approved="no">
         <source>app.ats.settings.main.welcome.text.placeholder</source>
-        <target state="translated">Dear applicant, 
+        <target state="translated">Dear applicant,
 
 Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we plan to interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
@@ -273,7 +273,7 @@ Thank you for your application. We would like to inform you that we have receive
       </trans-unit>
       <trans-unit id="app.ats.settings.main.shortlist.text.placeholder" approved="no">
         <source>app.ats.settings.main.shortlist.text.placeholder</source>
-        <target state="translated">Dear applicant, 
+        <target state="translated">Dear applicant,
 
 Thank you very much for your application, which appealed to us during the first review. Our hiring team is currently reviewing all applications and we are planning to schedule interviews in the next two weeks. If you are among qualified candidates, you will receive a call/email from our one of our recruiters to schedule an interview. In any case, we will keep you posted on the status of your application. Thank you, again, for taking the time to apply to a role at our company.</target>
       </trans-unit>
@@ -283,7 +283,7 @@ Thank you very much for your application, which appealed to us during the first 
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target state="translated">Dear applicant, 
+        <target state="translated">Dear applicant,
 
 Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration. We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.</target>
       </trans-unit>
@@ -293,7 +293,7 @@ Thank you for your interest in joining our team. We wanted to let you know that 
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectAfter.text.placeholder</source>
-        <target state="translated">Dear applicant, 
+        <target state="translated">Dear applicant,
 
 Thank you for taking the time to meet with our team. It was a pleasure to learn more about your skills and accomplishments. Unfortunately, our team did not select you for further consideration. I would like to note that competition for jobs at our company is always strong and that we often have to make difficult choices between many high-caliber candidates. Thanks again for your interest in our company and best of luck with your job search.</target>
       </trans-unit>

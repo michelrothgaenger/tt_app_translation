@@ -8,27 +8,18 @@
       <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="no">
         <source>app.deleteAccount.confirmationEmail.subject</source>
         <target state="translated">Bekræftelse af sletning af konto</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.confirmationEmail.content" approved="no">
-        <source>app.deleteAccount.confirmationEmail.content</source>
-        <target>K</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
         <source>app.deleteAccount.informCountryManager.subject</source>
         <target>Bruger ønsker at slette profil</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
-        <target>Bruger (% userEmail%) har slettet profil. Deres data vil blive slettet på% deleteDate%</target> </trans-unit>
+        <target>Bruger (%userEmail%) har slettet profil. Deres data vil blive slettet på% deleteDate%</target> </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="no">
         <source>app.deleteAccount.informUserBeforeExpiration.subject</source>
         <target>Vi er kede af at du forlader os.</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.informUserBeforeExpiration.content" approved="no">
-        <source>app.deleteAccount.informUserBeforeExpiration.content</source>
-        <target>K</target> </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target>Din profil er blevet slettet</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
-        <source>app.deleteAccount.emailInExpirationDate.content</source>
-        <target>K</target> </trans-unit>
     </body>
   </file>
 </xliff>

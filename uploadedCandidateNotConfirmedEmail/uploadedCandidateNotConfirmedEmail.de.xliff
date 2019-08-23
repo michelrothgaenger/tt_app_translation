@@ -10,14 +10,16 @@
         <target>Ihr vorgeschlagener Kandidat</target> </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
-        <target>H</target> </trans-unit>
+        <target>%candidateEmail% %jobTitle%</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
         <target>Ihre Bewerbung ist noch offen</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
-        <target>H</target> </trans-unit>
+        <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

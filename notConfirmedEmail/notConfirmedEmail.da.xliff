@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.notConfirmedEmail" approved="no">
         <source>app.notConfirmedEmail</source>
-        <target state="translated">hej %firstName%,&lt;br&gt;&lt;br&gt; Venligst aktiver din profil ved at benytte dette link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent teamet</target> </trans-unit>
+        <target state="translated">Hej %firstName%,&lt;br&gt;&lt;br&gt; Venligst aktiver din profil ved at benytte dette link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent teamet</target> </trans-unit>
     </body>
   </file>
 </xliff>

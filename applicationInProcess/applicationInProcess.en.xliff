@@ -6,12 +6,12 @@
     </header>
     <body>
       <trans-unit id="app.applicationInProcess.subject" approved="no">
-        <source>Application needs review</source>
-        <target state="translated">Appli1cation needs review.</target>
+        <source>app.applicationInProcess.subject</source>
+        <target state="translated">Application needs review</target>
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
-        <source>Hej %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
-        <target state="translated">D</target>
+        <source>app.applicationInProcess.content</source>
+        <target state="translated">Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

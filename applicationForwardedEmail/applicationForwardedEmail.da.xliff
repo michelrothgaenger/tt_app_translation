@@ -13,21 +13,10 @@
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Din ansøgning er blevet sendt videre</target>
       </trans-unit>
-    <trans-unit id="app.applicationForwardedEmail.firstPart" approved="no">
-        <source>app.applicationForwardedEmail.firstPart</source>
-        <target state="translated">H</target> </trans-unit>
-      <trans-unit id="app.applicationForwardedEmail.secondPart" approved="no">
-        <source>app.applicationForwardedEmail.secondPart</source>
-        <target state="translated">a</target> </trans-unit>
       <trans-unit id="app.uploadedCandidate.applicationSubmitted.subject" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
-        <target state="translated">Ny ansøgning er indsendt</target> </trans-unit>
-      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
-        <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">K</target> </trans-unit>
-      <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
-        <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
-        <target state="translated">K</target> </trans-unit>
+        <target state="translated">Ny ansøgning er indsendt</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

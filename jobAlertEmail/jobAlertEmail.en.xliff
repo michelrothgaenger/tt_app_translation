@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;</target>
+        <target state="translated"><![CDATA[<br>If you want to change the settings for your job alert, please go to your <a href="%jobAlertsUrl%">profile</a>.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
-        <source>Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</source>
-        <target state="translated">Dear user,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
+        <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
+        <target state="translated">Hi %firstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>
@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">D</target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">D</target>
+        <target state="translated"><![CDATA[Dear %firstName%,<br><br>Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your <a href="%jobAlertsUrl%">profile</a>. Please let us know if there is anything we can improve about our job alerts to further support your search.<br><br>Kind regards,<br><br>Your team at Transport Talent<br><br>]]></target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part3</source>
-        <target>F</target>
+        <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
       </trans-unit>
     </body>
   </file>

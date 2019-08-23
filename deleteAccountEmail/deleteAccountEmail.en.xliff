@@ -10,12 +10,12 @@
         <target>Confirmation of profile deletion</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.confirmationEmail.content" approved="no">
-        <source>Hej %firstname%,&lt;br&gt;&lt;br&gt;We have deleted your account as requested and would be pleased if you would contact us in future. &lt;br&gt;&lt;br&gt;Best Regards, &lt;br&gt;Your Transport Talent Team</source>
-        <target>D</target>
+        <source>app.deleteAccount.confirmationEmail.content</source>
+        <target><![CDATA[Your account will be deleted in %daysBeforeDeleting% days, <br> Click <a href="%confirmationLink%">here</a> to confirm this process ]]></target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
-        <source>The user %userEmail% wants to delete their profile</source>
-        <target>User wants to delete their profile</target>
+        <source>app.deleteAccount.informCountryManager.subject</source>
+        <target>The user %userEmail% wants to delete their profile</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
         <source>app.deleteAccount.informCountryManager.content</source>
@@ -26,16 +26,16 @@
         <target>Sorry to hear you are leaving us.</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.informUserBeforeExpiration.content" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;We're sad to learn that you would like to delete your account. To reactivate your account, log back in before %expirationDate%.Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</source>
-        <target>D</target>
+        <source>app.deleteAccount.informUserBeforeExpiration.content</source>
+        <target>Sorry to hear you are leaving us. To reactivate your account log in before %expirationDate%</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target>Your profile has been deleted</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;We're sad to learn that you would like to delete your account. T</source>
-        <target>D</target>
+        <source>app.deleteAccount.emailInExpirationDate.content</source>
+        <target><![CDATA[Your account has been deleted. If you want to join, register any time.<br> <a href="%linkToTT%">TransportTalent website</a>]]></target>
       </trans-unit>
     </body>
   </file>

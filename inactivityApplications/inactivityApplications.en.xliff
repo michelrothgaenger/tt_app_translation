@@ -6,12 +6,12 @@
     </header>
     <body>
       <trans-unit id="app.inactivityApplications.subject" approved="no">
-        <source>The application needs a review.</source>
-        <target state="translated">Application needs to review.</target>
+        <source>app.inactivityApplications.subject</source>
+        <target state="translated">The application needs a review</target>
       </trans-unit>
       <trans-unit id="app.inactivityApplications.content" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;The submitted application needs a review. &lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;&lt;br&gt;Your Transport Talent team</source>
-        <target state="translated">Dear %firstName% %lastName%,&lt;br&gt;&lt;br&gt; Application needs to review. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <source>app.inactivityApplications.content</source>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; Application needs to review. &lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your Transport Talent team</target>
       </trans-unit>
     </body>
   </file>

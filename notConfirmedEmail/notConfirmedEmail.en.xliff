@@ -10,8 +10,8 @@
         <target state="translated">Your account is still not confirmed</target>
       </trans-unit>
       <trans-unit id="app.notConfirmedEmail" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
-        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;The Transport Talent Team</target>
+        <source>app.notConfirmedEmail</source>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

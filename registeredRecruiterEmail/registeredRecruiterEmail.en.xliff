@@ -6,16 +6,16 @@
     </header>
     <body>
       <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
-        <source>Hej %partnerFirstName%,&lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% has just registered as a recruiter. You are required to approve his registration in order for him to view the vacancies.</source>
-        <target>Hi, %partnerFirstName% &lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% just registered as recruiter. You have to approve his/her registration to make him/her able to browse jobs.</target>
+        <source>app.registeredRecruiter.toPartner.content</source>
+        <target>Hej %partnerFirstName%,&lt;br&gt;&lt;br&gt; A user with email %recruiterEmail% has just registered as a recruiter. You are required to approve his registration in order for him to view the vacancies.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
-        <source>A new recruiter has to be approved</source>
-        <target state="translated">New recruiter has to be approved</target>
+        <source>app.registeredRecruiter.toPartner.subject</source>
+        <target state="translated">A new recruiter has to be approved</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
-        <source>Hej %FirstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transpsort Talent Teaam</source>
-        <target>Dear user, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.</target>
+        <source>app.registeredRecruiter.toRecruiter.content</source>
+        <target>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transpsort Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
         <source>app.registeredRecruiter.toRecruiter.subject</source>
@@ -26,16 +26,16 @@
         <target>Recruiter was confirmed</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
-        <source>Hej %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successfully approved by you and can now browse jobs and refer candidates.</source>
-        <target>Hi %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successfully approved by you and can now browse jobs and refer candidates.</target>
+        <source>app.confirmedRecruiter.toPartner.content</source>
+        <target>Dear %partnerFirstName%,&lt;br&gt;&lt;br&gt;the recruiter with email %recruiterEmail% was successfully approved by you and can now browse jobs and refer candidates.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
         <source>app.confirmedRecruiter.toRecruiter.subject</source>
         <target state="translated">Your request was successfully confirmed.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
-        <source>Hej % firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Transport Talent platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
-        <target>Dear user, your registration request was approved by %partnerFirstName% %partnerLastName%. Now you can use all recruiter functions of the Transport Talent platform.</target>
+        <source>app.confirmedRecruiter.toRecruiter.content</source>
+        <target>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Transport Talent platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">
         <source>app.registeredRecruiter.toPartner.linkForApproving</source>

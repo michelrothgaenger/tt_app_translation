@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target state="translated">Mit freundlichen Grüßen, 
+        <target state="translated">Mit freundlichen Grüßen,
 Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.meta.title" approved="no">
@@ -43,7 +43,7 @@ Ihr Recruiting-Team</target>
         <target state="translated">in unserem Unternehmen für die Position</target>
       </trans-unit>
       <trans-unit id="app.ats.popup.info.end" approved="no">
-        <source>A corresponding employment contract has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the preceding information.</source>
+        <source>app.ats.popup.info.end</source>
         <target state="translated">Ein entsprechendes Arbeitsverhältnis wurde von beiden Seiten unterzeichnet. Wir bitten Sie, die Rechnung gemäß dem Rahmenvertrag auf der Grundlage der vorstehenden Informationen einzureichen.</target>
       </trans-unit>
       <trans-unit id="app.ats.popup.info.allSelects" approved="no">
@@ -191,7 +191,7 @@ Ihr Recruiting-Team</target>
         <target state="translated">Vielen Dank für Ihre Bewerbung</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.welcome" approved="no">
-        <source>Dear %firstname%, Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and planning for an interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</source>
+        <source>app.ats.email.defaultContent.welcome</source>
         <target state="translated">Hej, vielen Dank für Ihre Bewerbung. Wir möchten Sie darüber informieren, dass wir Ihre Bewerbung erhalten haben. Unser Team prüft derzeit alle Bewerbungen und wir planen ein Vorstellungsgespräch in den nächsten zwei Wochen. Wenn Sie ein qualifizierter Kandidat sind, erhalten Sie einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. In jedem Fall halten wir Sie über den Stand Ihrer Bewerbung auf dem Laufenden. Nochmals vielen Dank, dass Sie sich die Zeit nehmen, sich für eine Stelle in unserem Unternehmen zu bewerben.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
@@ -199,7 +199,7 @@ Ihr Recruiting-Team</target>
         <target state="translated">Einladung zum Vorstellungsgespräch</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
-        <source>Dear applicant, Thank you for applying to our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</source>
+        <source>app.ats.email.defaultContent.interview</source>
         <target state="translated">Hej %firstName%, vielen Dank für Ihre Bewerbung bei uns. Ihre Bewerbung ist uns aufgefallen und wir möchten Sie zu einem Vorstellungsgespräch einladen, um Sie besser kennen zu lernen. Sie erhalten einen Anruf/E-Mail von einem unserer Recruiter, um ein Interview zu vereinbaren. Wir werden Sie in einer separaten Nachricht über die Details Ihres Interviews kurzfristig informieren.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
@@ -312,7 +312,7 @@ Ihr Recruiting-Team</target>
       </trans-unit>
       <trans-unit id="app.ats.infoEmail.noContactPerson" approved="no">
         <source>app.ats.infoEmail.noContactPerson</source>
-        <target state="translated">Sehr geehrtes TT-Team, 
+        <target state="translated">Sehr geehrtes TT-Team,
 
 die Firma %companyName% mit ID: %companyId% hat keine hinterlegte Kontaktperson. Daher erhält niemand eine E-Mail über neue Bewerbungen.</target>
       </trans-unit>

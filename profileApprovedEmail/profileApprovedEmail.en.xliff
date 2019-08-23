@@ -10,8 +10,8 @@
         <target state="translated">Your profile has been approved</target>
       </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="no">
-        <source>Hej %userFirstName%,&lt;br&gt;&lt;br&gt; Great to have you on board! Your profile on Transport Talent has been approved by %name%. To receive job offers that match your profile, please ensure that you have a well detailed profile. Our Team is enthusiastic about making your job search as swift and effortless as possible. Should you have any questions, please do not hesitate to get in touch with %name% at %email%.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent Team</source>
-        <target>Dear %userFirstName%,&lt;br&gt;&lt;br&gt;Your profile has been approved by %name%. We will contact you as soon as we have interesting offers for you. Please do not hesitate to get in touch with %name% at %email%, should you have further questions.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;The Transport Talent Team</target>
+        <source>app.profileApprovedEmail.content</source>
+        <target>Dear %userFirstName%,&lt;br&gt;&lt;br&gt; Great to have you on board! Your profile on Transport Talent has been approved by %name%. To receive job offers that match your profile, please ensure that you have a well detailed profile. Our Team is enthusiastic about making your job search as swift and effortless as possible. Should you have any questions, please do not hesitate to get in touch with %name% at %email%.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="app.rescueEmailAdded.message" approved="no">
-        <source>&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent team</source>
-        <target state="translated">&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best regards,&lt;br&gt; The Transport Talent team</target>
+        <source>app.rescueEmailAdded.message</source>
+        <target state="translated">&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent team</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>

@@ -10,7 +10,7 @@
                 <target state="translated">Påmindelse om udstedelse af faktura</target> </trans-unit>
             <trans-unit id="app.remindIssuingInvoiceEmail.content" approved="no">
                 <source>app.remindIssuingInvoiceEmail.content</source>
-                <target state="translated">%ApplicationID%</target> </trans-unit>
+                <target state="translated">%applicationID%</target> </trans-unit>
             <trans-unit id="app.remindIssuingInvoiceEmail.referrerBlock.content" approved="no">
                 <source>app.remindIssuingInvoiceEmail.referrerBlock.content</source>
                 <target state="translated">%Henviser%</target> </trans-unit>

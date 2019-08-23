@@ -62,8 +62,8 @@
         <target state="translated">Your contact at Transport Talent:</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
-        <source>Bernstorffstrasse 120, 22767 Hamburg.</source>
-        <target state="translated">Street 1, 34523 Location.</target>
+        <source>app.emailLayout.defaultCompanyAddress</source>
+        <target state="translated">Bernstorffstrasse 120, 22767 Hamburg.</target>
       </trans-unit>
     </body>
   </file>

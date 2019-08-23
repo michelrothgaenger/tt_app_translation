@@ -6,12 +6,12 @@
     </header>
     <body>
       <trans-unit id="app.applicationInProcess.subject" approved="no">
-        <source>Application needs review</source>
+        <source>app.applicationInProcess.subject</source>
         <target state="translated">Bewerbung benötigt Bewertung</target>
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
-        <source>Hej %firstNameHR%,&lt;br&gt;&lt;br&gt; Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under process.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt;&lt;br&gt; Your Transport Talent Team</source>
-        <target state="translated">Hej %firstNameHR%,1&lt;br2&gt;3&lt;br4&gt;Ihre Bewerbung für die Stelle: %jobTitle%" mit dem Status "%applicationStatus%" wird noch geprüft. Unsere Personalvermittler werden Sie kontaktieren, wenn weitere Informationen benötigt werden. 5&lt;br6&gt;7&lt;br8&gt;Mit freundlichen Grüßen,9&lt;br0&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+        <source>app.applicationInProcess.content</source>
+        <target state="translated">Hej %firstNameHR%,&lt;br&gt;&lt;br&gt;Ihre Bewerbung für die Stelle: %jobTitle%" mit dem Status "%applicationStatus%" wird noch geprüft. Unsere Personalvermittler werden Sie kontaktieren, wenn weitere Informationen benötigt werden. &lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

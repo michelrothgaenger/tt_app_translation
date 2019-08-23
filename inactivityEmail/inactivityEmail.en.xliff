@@ -10,16 +10,16 @@
         <target state="translated">Still interested in career opportunities?</target>
       </trans-unit>
       <trans-unit id="app.inactivityEmail" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;Long time no see! Need a new challenge or better opportunities? Vist www.transporttalent.com to view our job postings .&lt;br&gt;br&gt;Best Regards,&lt;Your Transport Talent Team</source>
-        <target>D</target>
+        <source>app.inactivityEmail</source>
+        <target>Dear %firstName%,&lt;br&gt;&lt;br&gt;Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;See who else is currently hiring&lt;/a&gt;&lt;br&gt;&lt;a href="%blogUrl%"&gt;Read our latest blog article&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Stay tuned by following us on &lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt;, or &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Please do not hesitate to contact us should you have any questions. We are always happy to help.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.inactivityEmail.firstNotify" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;It’s been a long minute since you were last active on Transport Talent. Please visit www.transporttalent.com today to see what we have been upto.&lt;br&gt;br&gt;Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</source>
-        <target state="translated">D</target>
+      <trans-unit id="app.inactivityEmail.firstNotify" approved="yes">
+        <source>app.inactivityEmail.firstNotify</source>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;See who else is currently hiring&lt;/a&gt;&lt;br&gt;&lt;a href="%blogUrl%"&gt;Read our latest blog article&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Stay tuned by following us on &lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt;, or &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Please do not hesitate to contact us should you have any questions. We are always happy to help.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.inactivityEmail.secondNotify" approved="no">
-        <source>Hej %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gt Still interested in career opportunities? Visit us today on www.transporttalent.com to browse our published jobs.&amp;lt;br&amp;gt;br&amp;gt;Best Regards,&amp;lt;br&amp;gt;Your Transport Talent Team</source>
-        <target state="translated">D</target>
+      <trans-unit id="app.inactivityEmail.secondNotify" approved="yes">
+        <source>app.inactivityEmail.secondNotify</source>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:&lt;br&gt;&lt;br&gt;%renderedJobs%&lt;br&gt;&lt;a href="%companiesUrl%"&gt;See who else is currently hiring&lt;/a&gt;&lt;br&gt;&lt;a href="%blogUrl%"&gt;Read our latest blog article&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Stay tuned by following us on &lt;a href="www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="www.twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt;, or &lt;a href="www.linkedin.com/company/transport-talent"&gt;LinkedIn&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Please do not hesitate to contact us should you have any questions. We are always happy to help.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>
   </file>

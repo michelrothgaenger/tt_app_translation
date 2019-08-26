@@ -26,12 +26,12 @@
         <target state="translated">Antworten Sie einfach auf diese E-Mail, um mit dem Bewerber in Kontakt zu treten. Bei Fragen stehen wir Ihnen gerne zur Verfügung.</target>
       </trans-unit>
       <trans-unit id="app.application.respect" approved="no">
-        <source>Best Regards,</source>
+        <source>app.application.respect</source>
         <target state="translated">Viele Grüße,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
-        <source>Transport Talent</source>
-        <target state="translated">Michel Rothgaenger</target>
+        <source>app.application.sender</source>
+        <target state="translated">Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">
         <source>app.application.generalSalutation</source>

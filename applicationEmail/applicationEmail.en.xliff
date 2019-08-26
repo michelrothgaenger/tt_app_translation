@@ -10,12 +10,12 @@
         <target state="translated">Dear %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
-        <source>We received an application for your job posting.</source>
+        <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">We received an application for your job posting</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
-        <source>In the attachment, you will subsequently find the CV of the candidate as well as a personal message which was submitted alongside the application.</source>
-        <target state="translated">Please find enclosed the CV and also a personal message by the candidate below.</target>
+        <source>app.application.appliedMsgSecondPart</source>
+        <target state="translated">In the attachment, you will subsequently find the CV of the candidate as well as a personal message which was submitted alongside the application.</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgLastPart" approved="yes">
         <source>app.application.appliedMsgLastPart</source>
@@ -26,15 +26,15 @@
         <target state="translated">You can get in touch with the candidate by replying to this message. Please do not hesitate to contact us, should you have any questions.</target>
       </trans-unit>
       <trans-unit id="app.application.respect" approved="no">
-        <source>Best Regards,</source>
+        <source>app.application.respect</source>
         <target state="translated">Best Regards,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
-        <source>Transport Talent</source>
+        <source>pp.application.sender</source>
         <target state="translated">Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">
-        <source>Hej %firstName%,</source>
+        <source>app.application.generalSalutation</source>
         <target state="translated">Dear %firstName%,</target>
       </trans-unit>
       <trans-unit id="app.application.mail.ats" approved="yes">

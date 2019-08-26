@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="nl" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.candidates.title" approved="no">
+        <source>app.candidates.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
+        <source>app.candidates.searchForm.term.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.search.button" approved="no">
+        <source>app.candidates.search.button</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
+        <source>app.candidates.searchForm.filterTitle</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
+        <source>app.candidates.searchForm.filterTitleShow</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
+        <source>app.candidates.searchForm.filterTitleHide</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
+        <source>app.candidates.searchForm.resetFilter</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
+        <source>app.candidates.searchForm.filterAdd</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.view" approved="no">
+        <source>app.candidates.view</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="no">
+        <source>app.candidates.filter.AreaOfExpertise.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.title" approved="no">
+        <source>app.candidates.filter.location.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.location.placeholder" approved="no">
+        <source>app.candidates.filter.location.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.title" approved="no">
+        <source>app.candidates.filter.category.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.category.placeholder" approved="no">
+        <source>app.candidates.filter.category.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.title" approved="no">
+        <source>app.candidates.filter.preferredLocation.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="no">
+        <source>app.candidates.filter.preferredLocation.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.title" approved="no">
+        <source>app.candidates.filter.salary.title</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.candidates.filter.salary.placeholder" approved="no">
+        <source>app.candidates.filter.salary.placeholder</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.noCandidatesFound" approved="no">
+        <source>app.noCandidatesFound</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.noticePeriod" approved="no">
+        <source>app.noticePeriod</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.salary" approved="no">
+        <source>app.salary</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

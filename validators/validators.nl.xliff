@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="nl" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.employerRegister.password.lengthConstraint" approved="no">
+        <source>app.employerRegister.password.lengthConstraint</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.lastName.notBlank" approved="no">
+        <source>app.employerRegister.lastName.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.firstName.notBlank" approved="no">
+        <source>app.employerRegister.firstName.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.email.validation" approved="no">
+        <source>app.employerRegister.email.validation</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.companyName.notBlank" approved="no">
+        <source>app.employerRegister.companyName.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.job.reward.greaterThanConstraint" approved="no">
+        <source>app.job.reward.greaterThanConstraint</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.companyName.alreadyUsed" approved="no">
+        <source>app.employerRegister.companyName.alreadyUsed</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.applyPopup.message.notBlank" approved="no">
+        <source>app.applyPopup.message.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.registerForm.csrf.notValid" approved="no">
+        <source>app.registerForm.csrf.notValid</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.registerForm.cv.mimeType" approved="no">
+        <source>app.registerForm.cv.mimeType</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.registerForm.cv.maxSize" approved="no">
+        <source>app.registerForm.cv.maxSize</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.teamManage.company.needParent" approved="no">
+        <source>app.teamManage.company.needParent</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.hirePopup.contract.notBlank" approved="no">
+        <source>app.hirePopup.contract.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.cv.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.cv.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.firstName.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.firstName.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.lastName.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.lastName.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.email.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.email.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.salary.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.salary.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.currency.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.currency.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="no">
+        <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.registerForm.cv.notBlank" approved="no">
+        <source>app.registerForm.cv.notBlank</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

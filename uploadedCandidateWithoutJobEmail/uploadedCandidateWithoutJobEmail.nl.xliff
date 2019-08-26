@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="nl" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="no">
+        <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+        <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
+        <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+        <source>app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+        <source>app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="no">
+        <source>app.informRecruiterEmail.candidateConfirmed.subject</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="no">
+        <source>app.informRecruiter.candidateConfirmed.content</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

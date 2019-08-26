@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.aboutUs" approved="no">
+        <source>app.aboutUs</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.termsConditions" approved="no">
+        <source>app.termsConditions</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.dataPrivacy" approved="no">
+        <source>app.dataPrivacy</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.contactUs" approved="no">
+        <source>app.contactUs</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.imprint" approved="no">
+        <source>app.imprint</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.mailingAddress.title" approved="no">
+        <source>app.emailLayout.mailingAddress.title</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.copyright" approved="no">
+        <source>app.emailLayout.copyright</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+        <source>app.emailLayout.defaultCompanyName</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="no">
+        <source>app.emailLayout.wantToUnsubscribe</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.unsubscribeLinkTitle" approved="no">
+        <source>app.emailLayout.unsubscribeLinkTitle</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+        <source>app.emailLayout.unsubscribe</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.help" approved="no">
+        <source>app.emailLayout.help</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.copyright.line2" approved="no">
+        <source>app.emailLayout.copyright.line2</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
+        <source>app.emailLayout.contactTT.tile</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
+        <source>app.emailLayout.defaultCompanyAddress</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

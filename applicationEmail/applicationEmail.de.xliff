@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">
         <source>app.application.generalSalutation</source>
-        <target state="translated">Hej %firstName%,</target>
+        <target state="translated">Hej,</target>
       </trans-unit>
       <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>

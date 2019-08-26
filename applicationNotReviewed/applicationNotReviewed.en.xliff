@@ -6,12 +6,12 @@
     </header>
     <body>
       <trans-unit id="app.applicationNotReviewed.subject" approved="no">
-        <source>Your application is still pending</source>
+        <source>app.applicationNotReviewed.subject</source>
         <target state="translated">Your application is still pending.</target>
       </trans-unit>
       <trans-unit id="app.applicationNotReviewed.content" approved="no">
-        <source>Hej %firstName%,&lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position:%jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;br&gt;Good luck with your application.&lt;br&gt;br&gt;Best Regards, &lt;br&gt;br&gt;Your Transport Talent Team</source>
-        <target state="translated">D</target>
+        <source>app.applicationNotReviewed.content</source>
+        <target state="translated"><![CDATA[Dear %firstName%, <br><br>Your application to the company %companyName% for the position: %jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.<br><br>Good luck with your application.<br><br>Best Regards, <br><br>Your Transport Talent Team]]></target>
       </trans-unit>
     </body>
   </file>

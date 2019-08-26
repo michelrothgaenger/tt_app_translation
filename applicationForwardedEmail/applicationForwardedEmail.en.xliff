@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.secondPart" approved="no">
         <source>app.applicationForwardedEmail.secondPart</source>
-        <target state="translated">Thank you for expressing interest in this position. We have received your application to the company %companyName%. Your application and submitted CV have been transmitted. Below is a copy of your application&lt;/b&gt;&gt;br&gt;&lt;g&gt;%applicationMessage:%&lt;/i&gt;br&gt;&gt;Our recruiters are currently reviewing it and will contact you to discuss further proceedings or should any questions arise.&lt;br&gt;br&gt;Good luck with your application.&lt;br&gt;br&gt;Best Regards &lt;br&gt;br&gt;Your Transport Talent Team</target>
+        <target state="translated"><![CDATA[Thank you for expressing interest in this position. We have received your application to the company %companyName%. Your application and submitted CV have been transmitted. Below is a copy of your application</b>>br><g>%applicationMessage%:</i>br>Our recruiters are currently reviewing it and will contact you to discuss further proceedings or should any questions arise.<br><br>Good luck with your application.<br><br>Best Regards <br><br>Your Transport Talent Team]]></target>
       </trans-unit>
       <trans-unit id="app.applicationForwardedEmail.subject" approved="yes">
         <source>app.applicationForwardedEmail.subject</source>

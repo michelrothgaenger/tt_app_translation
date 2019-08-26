@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
-        <target state="translated">Dear %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;Thank you for expressing interest in this position. We have received your application to the company %companyName%. Your application and submitted CV have been transmitted. Below is a copy of your application&amp;lt;/b&amp;gt;&amp;gt;br&amp;gt;&amp;lt;g&amp;gt;%applicationMessage%&amp;lt;/i&amp;gt;br&amp;gt;&amp;gt;Our recruiters are currently reviewing it and will contact you to discuss further proceedings or should any questions arise.&amp;lt;br&amp;gt;br&amp;gt;Good luck with your application.&amp;lt;br&amp;gt;br&amp;g</target>
+        <target state="translated"><![CDATA[Dear %firstName%,<br><br> %recruiterFirstName% %recruiterLastName% submitted your application for %position%, <br><br> Is this on behalf of you? Please click <a href="%confirmationLink%">%confirmationLink%</a> to confirm your application and sign up with Transport Talent. <br><br>Best Regards <br><br>Your Transport Talent Team]]></target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>

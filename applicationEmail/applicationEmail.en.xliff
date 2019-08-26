@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
         <source>We received an application for your job posting.</source>
-        <target state="translated">We received an application for your job posting...</target>
+        <target state="translated">We received an application for your job posting</target>
       </trans-unit>
       <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
         <source>In the attachment, you will subsequently find the CV of the candidate as well as a personal message which was submitted alongside the application.</source>
@@ -27,15 +27,15 @@
       </trans-unit>
       <trans-unit id="app.application.respect" approved="no">
         <source>Best Regards,</source>
-        <target state="translated">Kind Regards,</target>
+        <target state="translated">Best Regards,</target>
       </trans-unit>
       <trans-unit id="app.application.sender" approved="no">
         <source>Transport Talent</source>
-        <target state="translated">The Transport Talent Team</target>
+        <target state="translated">Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.application.generalSalutation" approved="no">
         <source>Hej %firstName%,</source>
-        <target state="translated">Dear user</target>
+        <target state="translated">Dear %firstName%,</target>
       </trans-unit>
       <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>

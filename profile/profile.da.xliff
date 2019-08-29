@@ -653,13 +653,13 @@
         <source>app.profile.editor.specialityLabel</source>
         <target state="translated">Hvor er din ekspertise?</target>
       </trans-unit>
-      <trans-unit id="app.profile.linkedinImportDataButton" approved="yes">
+      <trans-unit id="app.profile.linkedinImportDataButton" approved="no">
         <source>app.profile.linkedinImportDataButton</source>
-        <target state="translated">Connect med LinkedIn</target>
+        <target state="translated">Forbind med LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.congrats" approved="yes">
+      <trans-unit id="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target state="translated">Tillykke! Du har nu connected din LinkedIn-konto til Transport Talent.</target>
+        <target state="translated">Tillykke! Du har nu forbundet din LinkedIn-konto til Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.profile" approved="yes">
+      <trans-unit id="app.profile" approved="no">
         <source>app.profile</source>
-        <target state="translated">Profile</target>
+        <target state="translated">Profiel</target>
       </trans-unit>
       <trans-unit id="app.signOut" approved="yes">
         <source>app.signOut</source>

@@ -69,9 +69,9 @@
         <source>app.jobDescription</source>
         <target state="translated">Description</target>
       </trans-unit>
-      <trans-unit id="app.save" approved="yes">
+      <trans-unit id="app.save" approved="no">
         <source>app.save</source>
-        <target state="translated">Save</target>
+        <target state="translated">Opslaan</target>
       </trans-unit>
       <trans-unit id="app.postAnotherJob" approved="yes">
         <source>app.postAnotherJob</source>
@@ -133,26 +133,26 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Please check fields again</target>
       </trans-unit>
-        <trans-unit id="app.profile.employer.jobs.title" approved="yes">
-          <source>app.profile.employer.jobs.title</source>
-          <target state="translated">%company% jobs</target>
-        </trans-unit>
-        <trans-unit id="app.profile.employer.jobs.description" approved="yes">
-          <source>app.profile.employer.jobs.description</source>
-          <target state="translated">Find below your company job listings</target>
-        </trans-unit>
-        <trans-unit id="app.profile.employer.jobs.meta.title" approved="yes">
-          <source>app.profile.employer.jobs.meta.title</source>
-          <target state="translated">%company% jobs</target>
-        </trans-unit>
-        <trans-unit id="app.profile.employer.job.add" approved="yes">
-          <source>app.profile.employer.job.add</source>
-          <target state="translated">Add a job</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.searchForm.unpublished" approved="yes">
-          <source>app.jobs.searchForm.unpublished</source>
-          <target state="translated">Show unpublished</target>
-        </trans-unit>
+      <trans-unit id="app.profile.employer.jobs.title" approved="yes">
+        <source>app.profile.employer.jobs.title</source>
+        <target state="translated">%company% jobs</target>
+      </trans-unit>
+      <trans-unit id="app.profile.employer.jobs.description" approved="yes">
+        <source>app.profile.employer.jobs.description</source>
+        <target state="translated">Find below your company job listings</target>
+      </trans-unit>
+      <trans-unit id="app.profile.employer.jobs.meta.title" approved="yes">
+        <source>app.profile.employer.jobs.meta.title</source>
+        <target state="translated">%company% jobs</target>
+      </trans-unit>
+      <trans-unit id="app.profile.employer.job.add" approved="yes">
+        <source>app.profile.employer.job.add</source>
+        <target state="translated">Add a job</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.searchForm.unpublished" approved="yes">
+        <source>app.jobs.searchForm.unpublished</source>
+        <target state="translated">Show unpublished</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

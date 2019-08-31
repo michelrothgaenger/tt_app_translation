@@ -17,17 +17,17 @@
         <source>app.signInWithLinkedIn</source>
         <target state="translated">Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.signInWithGoogle" approved="yes">
+      <trans-unit id="app.signInWithGoogle" approved="no">
         <source>app.signInWithGoogle</source>
-        <target state="translated">Sign in with Google</target>
+        <target state="translated">Aanmelden met Google</target>
       </trans-unit>
       <trans-unit id="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
         <target state="translated">Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="app.or" approved="yes">
+      <trans-unit id="app.or" approved="no">
         <source>app.or</source>
-        <target state="translated">or</target>
+        <target state="translated">of</target>
       </trans-unit>
       <trans-unit id="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>

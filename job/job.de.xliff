@@ -453,9 +453,9 @@
         <source>app.job.section.main.rowSalaryRangeTitle</source>
         <target state="translated">Gehaltsvorstellung</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.uploadCV" approved="yes">
+      <trans-unit id="app.job.section.main.uploadCV" approved="no">
         <source>app.job.section.main.uploadCV</source>
-        <target state="translated">CV hochladen</target>
+        <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
       <trans-unit id="app.job.apply.error.noPermission" approved="yes">
         <source>app.job.apply.error.noPermission</source>

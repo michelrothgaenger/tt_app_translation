@@ -377,9 +377,9 @@
         <source>app.job.apply.defaultMessage</source>
         <target state="translated">Eingereicht von %recruiterFirstName% %recruiterLastName%</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.title" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.title" approved="no">
         <source>app.job.popup.uploadCandidate.title</source>
-        <target state="translated">CV hochladen</target>
+        <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.description" approved="yes">
         <source>app.job.popup.uploadCandidate.description</source>
@@ -425,21 +425,21 @@
         <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
         <target state="translated">Kündigungsfrist auswählen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="no">
         <source>app.job.popup.uploadCandidate.cv.label</source>
-        <target state="translated">CV hochladen</target>
+        <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="no">
         <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
-        <target state="translated">CV ändern</target>
+        <target state="translated">Lebenslauf ändern</target>
       </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
         <target state="translated">Sie haben hochgeladen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
-        <target state="translated">als CV.</target>
+        <target state="translated">als Lebenslauf.</target>
       </trans-unit>
       <trans-unit id="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
         <source>app.job.popup.uploadCandidate.confirm.input.label</source>

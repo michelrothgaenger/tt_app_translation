@@ -10,7 +10,7 @@
         <target>Candidate was submitted</target>
       </trans-unit>
       <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
-        <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
+        <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; You just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and requested for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;YourTransport Talent Team</source>
         <target>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;YourTransport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">

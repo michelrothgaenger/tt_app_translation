@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="no">
         <source>app.invitationEmailForExistingUser.firstPart</source>
-        <target state="translated">Hallo %firstName%, &lt;br&gt; %adminFirstName% %adminLastName% hat Sie als Benutzer hinzugefügt</target>
+        <target state="translated">Hallo %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% hat Sie als Benutzer hinzugefügt</target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.categoryPart" approved="yes">
         <source>app.invitationEmailForExistingUser.categoryPart</source>

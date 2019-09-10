@@ -281,13 +281,13 @@
         <source>app.userRegister.step5.DeleteCV</source>
         <target state="translated">Lebenslauf löschen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.cvSuccesPart1" approved="yes">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart1" approved="no">
         <source>app.userRegister.step5.cvSuccesPart1</source>
-        <target state="translated">Sie haben</target>
+        <target state="translated">Sie haben erfolgreich</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.cvSuccesPart2" approved="yes">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart2" approved="no">
         <source>app.userRegister.step5.cvSuccesPart2</source>
-        <target state="translated">erfolgreich als Ihren Lebenslauf importiert.</target>
+        <target state="translated">Ihren Lebenslauf hochgeladen.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.fileUpload" approved="yes">
         <source>app.userRegister.step5.fileUpload</source>
@@ -477,9 +477,9 @@
         <source>app.userRegister.step2.agreementPart3</source>
         <target state="translated">Allgemeine Geschäftsbedingungen für Recruiter</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart4" approved="yes">
+      <trans-unit id="app.userRegister.step2.agreementPart4" approved="no">
         <source>app.userRegister.step2.agreementPart4</source>
-        <target state="translated">und Datenschutzerklärung</target>
+        <target state="translated">und die Datenschutzerklärung</target>
       </trans-unit>
       <trans-unit id="form.dateLeaveLabel" approved="yes">
         <source>form.dateLeaveLabel</source>

@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hej</target>
+        <target state="translated">Hej %userFirstName%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>

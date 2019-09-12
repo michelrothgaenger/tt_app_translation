@@ -51,11 +51,11 @@
       </trans-unit>
       <trans-unit id="registration.emailemp.message" approved="yes">
         <source>registration.emailemp.message</source>
-        <target state="translated">Hi %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt;Transport Talent&lt;br&gt;</target>
+        <target state="translated">Dear %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt;Transport Talent&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="registration.email.message" approved="yes">
         <source>registration.email.message</source>
-        <target state="translated">Dear user,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
+        <target state="translated">Dear %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Transport Talent&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
@@ -587,7 +587,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hi</target>
+        <target state="translated">Hi </target>
       </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>
@@ -595,7 +595,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browse jobs.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browsing jobs.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part3" approved="no">
         <source>registration.email.message.part3</source>
-        <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
+        <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.userRegister.joinNow" approved="no">
         <source>app.userRegister.joinNow</source>

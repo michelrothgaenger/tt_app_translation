@@ -49,19 +49,6 @@
         <source>registration.email.subject</source>
         <target state="translated">Καλώς ήρθες %username%!</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.message" approved="no">
-        <source>registration.emailemp.message</source>
-        <target><![CDATA[Hi %firstname%,<br> <br> To finish activating your account - please visit <a href="%confirmationUrl%">%confirmationUrl%</a><br> <br> Regards, <br> <br> Ulrich Nissen<br> Managing Director<br>]]></target>
-      </trans-unit>
-      <trans-unit id="registration.email.message" approved="no">
-        <source>registration.email.message</source>
-        <target>Αγαπητέ %username%!
-
-  Για να ολοκληρώσετε την ενεργοποίηση του λογαριασμού σας - επισκεφθείτε %confirmationUrl%
-
-Ευχαριστούμε πολύ.
-</target>
-      </trans-unit>
       <trans-unit id="form.email" approved="no">
         <source>form.email</source>
         <target>Email</target>

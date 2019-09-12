@@ -49,14 +49,6 @@
         <source>registration.email.subject</source>
         <target state="translated">Welcome to Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.message" approved="yes">
-        <source>registration.emailemp.message</source>
-        <target state="translated">Hi %firstname%,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
-      </trans-unit>
-      <trans-unit id="registration.email.message" approved="yes">
-        <source>registration.email.message</source>
-        <target state="translated">Dear user,&lt;br&gt; &lt;br&gt; To finish activating your account - please visit &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; Regards, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
-      </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target state="translated">Email</target>

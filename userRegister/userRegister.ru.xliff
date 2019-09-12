@@ -49,14 +49,6 @@
         <source>registration.email.subject</source>
         <target state="translated">Добро пожаловать на Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.message" approved="yes">
-        <source>registration.emailemp.message</source>
-        <target state="translated">Здравствуйте, %firstname%,&lt;br&gt; &lt;br&gt; Для активации Вашего аккаунта, пожалуйста, пройдите по ссылке &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; С уважением, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; Управляющий директор&lt;br&gt;</target>
-      </trans-unit>
-      <trans-unit id="registration.email.message" approved="yes">
-        <source>registration.email.message</source>
-        <target state="translated">Приветствуем Вас,&lt;br&gt; &lt;br&gt; для подтверждения Вашей регистрации, пройдите по ссылке &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt; &lt;br&gt; С уважением, &lt;br&gt; &lt;br&gt; Ulrich Nissen&lt;br&gt; CEO&lt;br&gt;</target>
-      </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target state="translated">Электронная почта</target>

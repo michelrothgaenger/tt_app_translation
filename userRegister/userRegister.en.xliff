@@ -579,7 +579,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hi </target>
+        <target state="translated">Hi %userFirstName%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>
@@ -587,7 +587,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on transporttalent.com — to confirm your registration please push the button below to finish your registration and start browsing jobs.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on Transport Talent — to confirm your registration please push the button below to finish your registration and start browsing jobs.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>
@@ -603,7 +603,8 @@
       </trans-unit>
       <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
         <source>app.registration_form_step7.salary.lengthConstraint</source>
-        <target>Salary should contain a minimum of 4 digits</target> </trans-unit>
+        <target>Salary should contain a minimum of 4 digits</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -321,11 +321,9 @@ We were pleased with our interview the other day and impressed with your backgro
 
 We are all looking forward to having you on our team.</target>
       </trans-unit>
-      <trans-unit id="app.ats.email.defaultFooter" approved="yes">
+      <trans-unit id="app.ats.email.defaultFooter" approved="no">
         <source>app.ats.email.defaultFooter</source>
-        <target state="translated">With kind regards,
-
-your HR team</target>
+        <target state="translated">Kind Regards,&lt;br&gt; Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.title" approved="yes">
         <source>app.ats.settings.main.interview.title</source>

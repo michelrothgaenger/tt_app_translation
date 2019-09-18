@@ -9,14 +9,14 @@
         <source>app.missingFieldsEmail.firstPart</source>
         <target state="translated"><![CDATA[Dear %firstName%,<br><br>Transport Talent wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:<br><br>]]></target>
       </trans-unit>
-      <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.secondPart" approved="no">
         <source>app.missingFieldsEmail.secondPart</source>
-        <target state="translated"><![CDATA[<br>Click <a href="%profileUrl%">here</a> to add the information to your profile. We really thank you for taking the time.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+        <target state="translated">&lt;br&gt;Click &lt;a href="%profileUrl%"&gt;here&lt;/a&gt; to add the information to your profile. We really thank you for taking the time.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.subject" approved="yes">
         <source>app.missingFieldsEmail.subject</source>
         <target state="translated">Help us find interesting positions for you</target>
-      </trans-unit>      
+      </trans-unit>
     </body>
   </file>
 </xliff>

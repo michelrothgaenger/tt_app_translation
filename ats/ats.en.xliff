@@ -41,9 +41,9 @@
         <source>app.ats.popup.info.end</source>
         <target state="translated">A corresponding employment has been signed by both sides. We ask you to submit the invoice in accordance with the framework agreement based on the precending information.</target>
       </trans-unit>
-      <trans-unit id="app.ats.popup.info.allSelects" approved="yes">
+      <trans-unit id="app.ats.popup.info.allSelects" approved="no">
         <source>app.ats.popup.info.allSelects</source>
-        <target state="translated">I hereby confirm that we will employ these applicants in our company. A corresponding employments have been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the precending information.</target>
+        <target state="translated">I hereby confirm that we will employ these applicants in our company. A corresponding employment contract has been signed by both sides. We ask you to submit invoices in accordance with the framework agreement based on the preceding information.</target>
       </trans-unit>
       <trans-unit id="app.ats.popup.salary.label" approved="yes">
         <source>app.ats.popup.salary.label</source>
@@ -199,11 +199,11 @@
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
         <source>app.ats.email.defaultSubject.interview</source>
-        <target state="translated">Invitation to interview</target>
+        <target state="translated">Invitation to the interview</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.interview" approved="no">
         <source>app.ats.email.defaultContent.interview</source>
-        <target state="translated">Dear applicant, Thank you for applying at our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; Thank you for applying at our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.shortlist" approved="no">
         <source>app.ats.email.defaultSubject.shortlist</source>
@@ -223,10 +223,7 @@ Thank you, again, for taking the time to apply to a role at our company.</target
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.hire" approved="no">
         <source>app.ats.email.defaultContent.hire</source>
-        <target state="translated">Dear applicant,
-
-We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer. We are all looking forward to having you on our team.
-</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer. We are all looking forward to having you on our team.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.rejectBefore" approved="no">
         <source>app.ats.email.defaultSubject.rejectBefore</source>
@@ -234,11 +231,7 @@ We were pleased with our interview the other day and impressed with your backgro
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.rejectBefore" approved="no">
         <source>app.ats.email.defaultContent.rejectBefore</source>
-        <target state="translated">Dear applicant,
-
-Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration.
-We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.
-</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration. We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.rejectAfter" approved="no">
         <source>app.ats.email.defaultSubject.rejectAfter</source>
@@ -254,8 +247,7 @@ Thanks again for your interest in our company and best of luck with your job sea
       </trans-unit>
       <trans-unit id="app.ats.settings.main.emailFooter.placeholder" approved="no">
         <source>app.ats.settings.main.emailFooter.placeholder</source>
-        <target state="translated">Kind regards,
-Your Recruiting Team</target>
+        <target state="translated">Best Regards, Your Recruiting Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.welcome.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.welcome.subject.placeholder</source>
@@ -283,9 +275,7 @@ Thank you very much for your application, which appealed to us during the first 
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectBefore.text.placeholder" approved="no">
         <source>app.ats.settings.main.rejectBefore.text.placeholder</source>
-        <target state="translated">Dear applicant,
-
-Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration. We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; Thank you for your interest in joining our team. We wanted to let you know that although your resume and cover letter were very competitive, our hiring team reviewed your application and did not select it for further consideration. We wish you all the best in your job search and hope we will have the chance to consider you for another role in the future.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.rejectAfter.subject.placeholder" approved="yes">
         <source>app.ats.settings.main.rejectAfter.subject.placeholder</source>
@@ -313,17 +303,13 @@ Thank you for taking the time to meet with our team. It was a pleasure to learn 
         <source>app.ats.settings.main.hire.subject.placeholder</source>
         <target state="translated">Your application / job offer</target>
       </trans-unit>
-      <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.hire.text.placeholder" approved="no">
         <source>app.ats.settings.main.hire.text.placeholder</source>
-        <target state="translated">Dear applicant,
-
-We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer.
-
-We are all looking forward to having you on our team.</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer. We are all looking forward to having you on our team.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultFooter" approved="no">
         <source>app.ats.email.defaultFooter</source>
-        <target state="translated">Kind Regards,&lt;br&gt; Your Transport Talent Team</target>
+        <target state="translated">Best Regards,&lt;br&gt; Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.title" approved="yes">
         <source>app.ats.settings.main.interview.title</source>
@@ -341,21 +327,13 @@ We are all looking forward to having you on our team.</target>
         <source>app.ats.settings.main.interview.subject.placeholder</source>
         <target state="translated">Invitation to interview</target>
       </trans-unit>
-      <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="yes">
+      <trans-unit id="app.ats.settings.main.interview.text.placeholder" approved="no">
         <source>app.ats.settings.main.interview.text.placeholder</source>
-        <target state="translated">Dear applicant,
-
-Thank you for applying at our company.
-
-Your application stood out to us and we would like to invite you for an interview  to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview.
-
-We will inform you in a separate message about the details of your interview at short notice.</target>
+        <target state="translated">Dear %userFirstName%, &lt;br&gt;&lt;br&gt; Thank you for applying at our company. Your application stood out to us and we would like to invite you for an interview to get to know you a bit better. You will receive a call/email from our one of our recruiters to schedule an interview. We will inform you in a separate message about the details of your interview at short notice.</target>
       </trans-unit>
-      <trans-unit id="app.ats.infoEmail.noContactPerson" approved="yes">
+      <trans-unit id="app.ats.infoEmail.noContactPerson" approved="no">
         <source>app.ats.infoEmail.noContactPerson</source>
-        <target state="translated">Dear TT team,
-
-The company %companyName% with ID: %companyId% haven't contact person. Therefore nobody receive an email about new application.</target>
+        <target state="translated">Dear TT team, The company %companyName% with ID: %companyId% does not have a contact person. Therefore nobody receives an email about a new application.</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.contactPerson.label" approved="yes">
         <source>app.ats.settings.main.contactPerson.label</source>

@@ -235,7 +235,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
         <source>app.userRegister.step4.shortSummaryText</source>
-        <target state="translated">Fortæl os lidt mere om hvad du søger i dit næste job så vi kan hjælpe dig bedst muligt. Hvis du importere din data via LinkedIn går det hurtigt.</target>
+        <target state="translated">Fortæl os lidt mere om hvad du søger i dit næste job så vi kan hjælpe dig bedst muligt. Hvis du importerer din data via LinkedIn går det hurtigt.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
         <source>app.userRegister.step4.specialityLabel</source>
@@ -259,7 +259,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.connectToLinkedInHeader" approved="no">
         <source>app.userRegister.connectToLinkedInHeader</source>
-        <target state="translated">Connect via LinkedIn</target>
+        <target state="translated">Forbind til LinkedIn</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.stepImportDataButton" approved="yes">
         <source>app.userRegister.step5.stepImportDataButton</source>
@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hej </target>
+        <target state="translated">Hej %firstname%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>
@@ -627,7 +627,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; tak for din tilmelding til transporttalent.com — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; Tak for din tilmelding til transporttalent.com — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>

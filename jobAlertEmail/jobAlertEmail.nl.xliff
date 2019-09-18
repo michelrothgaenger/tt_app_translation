@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated"><![CDATA[<br>If you want to change the settings for your job alert, please go to your <a href="%jobAlertsUrl%">profile</a>.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+        <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated"><![CDATA[Dear %firstName%,<br><br>Your job alert has been set up successfully. The following specifics apply:<br><br>]]></target>
+        <target state="translated">Dear %userFirstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>

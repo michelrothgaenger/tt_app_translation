@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated"><![CDATA[<br>If you want to change the settings for your job alert, please go to your <a href="%jobAlertsUrl%">profile</a>.<br><br>Kind regards,<br><br>Your team at Transport Talent]]></target>
+        <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
@@ -95,7 +95,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part3</source>
-        <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Kind regards,&lt;br&gt;Michel Rothgaenger</target>
+        <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

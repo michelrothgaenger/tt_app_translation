@@ -15,7 +15,7 @@
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
         <source>app.registeredRecruiter.toRecruiter.content</source>
-        <target>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transpsort Talent Team</target>
+        <target>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
         <source>app.registeredRecruiter.toRecruiter.subject</source>

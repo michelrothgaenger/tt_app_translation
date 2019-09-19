@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.referralJobUpdated.subject" approved="yes">
+      <trans-unit id="app.referralJobUpdated.subject" approved="no">
         <source>app.referralJobUpdated.subject</source>
-        <target state="translated">Referral award for %jobAdTitle% updated</target>
+        <target state="translated">Reminder for issuing an invoice</target>
       </trans-unit>
       <trans-unit id="app.referralJobUpdated" approved="no">
         <source>app.referralJobUpdated</source>

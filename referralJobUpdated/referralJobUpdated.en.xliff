@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.referralJobUpdated.subject" approved="no">
         <source>app.referralJobUpdated.subject</source>
-        <target state="translated">Reminder for issuing an invoice</target>
+        <target state="translated">Referral award for %jobAdTitle% updated</target>
       </trans-unit>
       <trans-unit id="app.referralJobUpdated" approved="no">
         <source>app.referralJobUpdated</source>

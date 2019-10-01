@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.notConfirmedEmail" approved="no">
         <source>app.notConfirmedEmail</source>
-        <target state="translated">Hej %firstName%,&lt;br&gt;&lt;br&gt; bitte bestätigen Sie Ihr Nutzerkonto bei Transport Talent über folgenden Link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt; Viele Grüße&lt;br&gt;&lt;br&gt; Michel Rothgaenger</target>
+        <target state="translated">Hej%firstName%,&lt;br&gt;&lt;br&gt; bitte bestätigen Sie Ihr Nutzerkonto bei Transport Talent über folgenden Link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt; Viele Grüße&lt;br&gt;&lt;br&gt; Michel Rothgaenger</target>
       </trans-unit>
     </body>
   </file>

@@ -619,7 +619,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part1" approved="no">
         <source>registration.email.message.part1</source>
-        <target state="translated">Hej %firstname%,</target>
+        <target state="translated">Hej </target>
       </trans-unit>
       <trans-unit id="registration.email.message.partFirstname" approved="no">
         <source>registration.email.message.partFirstname</source>

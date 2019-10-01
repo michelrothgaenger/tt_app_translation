@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
-        <target state="translated">Dear %userFirstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert has been set up successfully. The following specifics apply:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.titleLabel" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.titleLabel</source>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en-US" target-language="de" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="app.employers.meta.companiesWord" approved="no">
+        <source>app.employers.meta.companiesWord</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.companyProfiles" approved="no">
+        <source>app.companyProfiles</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.pageDescription" approved="no">
+        <source>app.employers.pageDescription</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.noCompaniesFound" approved="no">
+        <source>app.noCompaniesFound</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.various" approved="no">
+        <source>app.employers.various</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.company.jobsOnline" approved="no">
+        <source>app.employers.company.jobsOnline</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.button.companySave" approved="no">
+        <source>app.employers.button.companySave</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.button.companySaved" approved="no">
+        <source>app.employers.button.companySaved</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.company.cities" approved="no">
+        <source>app.employers.company.cities</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.company.jobTypes" approved="no">
+        <source>app.employers.company.jobTypes</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit id="app.employers.company.levels" approved="no">
+        <source>app.employers.company.levels</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

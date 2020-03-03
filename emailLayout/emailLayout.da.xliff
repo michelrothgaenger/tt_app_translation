@@ -25,7 +25,7 @@
         <source>app.imprint</source>
         <target state="translated">Imprint</target>
       </trans-unit>
-    <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
+      <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Vores postadresse er:</target>
       </trans-unit>
@@ -35,7 +35,8 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
         <source>app.emailLayout.defaultCompanyName</source>
-        <target>Transport Talent International ApS</target> </trans-unit>
+        <target state="translated">Matchico International ApS</target>
+      </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
         <target state="translated">Ønsker du at afmelde denne type e-mails?</target>
@@ -44,21 +45,26 @@
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">afmeld dig fra denne liste</target>
       </trans-unit>
-    <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
         <source>app.emailLayout.unsubscribe</source>
-        <target state="translated">Afmeld</target> </trans-unit>
+        <target state="translated">Afmeld</target>
+      </trans-unit>
       <trans-unit id="app.emailLayout.help" approved="no">
         <source>app.emailLayout.help</source>
-        <target state="translated">Hjælp</target> </trans-unit>
+        <target state="translated">Hjælp</target>
+      </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
         <source>app.emailLayout.copyright.line2</source>
-        <target state="translated">Transport Talent er et registreret varemærke.</target> </trans-unit>
+        <target state="translated">Matchico er et registreret varemærke.</target>
+      </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
         <source>app.emailLayout.contactTT.tile</source>
-        <target state="translated">Din kontakt hos Transport Talent:</target> </trans-unit>
+        <target state="translated">Din kontakt hos Matchico:</target>
+      </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
         <source>app.emailLayout.defaultCompanyAddress</source>
-        <target state="translated">Samsøvej 31, DK-8382 Hinnerup (Aarhus).</target> </trans-unit>
+        <target state="translated">Samsøvej 31, DK-8382 Hinnerup (Aarhus).</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

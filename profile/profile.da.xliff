@@ -335,7 +335,7 @@
       </trans-unit>
       <trans-unit id="app.profile.settings.tab.login.description" approved="no">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">For at bruge en eksisterende konto til login skal du tilføje en af dine sociale media konti. Tilføj en back-up email hvis du skulle glemme dine log-in detaljer til Transport Talent. Alle ændringer skal bekræftes med dit nuværende kodeord.</target>
+        <target state="translated">For at bruge en eksisterende konto til login skal du tilføje en af dine sociale media konti. Tilføj en back-up email hvis du skulle glemme dine log-in detaljer til Matchico. Alle ændringer skal bekræftes med dit nuværende kodeord.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.social-media.description" approved="no">
         <source>app.profile.settings.social-media.description</source>
@@ -463,7 +463,7 @@
       </trans-unit>
       <trans-unit id="app.profile.saved.companies.description" approved="no">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Mange af vores medlemsvirksomheder har lavet en profil på Transport Talent som du kan følge ved at tilføje dem her.</target>
+        <target state="translated">Mange af vores medlemsvirksomheder har lavet en profil på Matchico som du kan følge ved at tilføje dem her.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
@@ -659,7 +659,7 @@
       </trans-unit>
       <trans-unit id="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target state="translated">Tillykke! Du har nu forbundet din LinkedIn-konto til Transport Talent.</target>
+        <target state="translated">Tillykke! Du har nu forbundet din LinkedIn-konto til Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
@@ -809,9 +809,9 @@
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Connected til LinkedIn?</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
-        <target state="translated">Du har oprettet forbindelse mellem din LinkedIn-konto og Transport Talent.</target>
+        <target state="translated">Du har oprettet forbindelse mellem din LinkedIn-konto og Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">
         <source>app.profile.profileVM.successCv</source>
@@ -909,9 +909,9 @@
         <source>app.profile.dashboard.applications.tile.title</source>
         <target state="translated">ANSØGNINGER</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="no">
         <source>app.profile.dashboard.applications.tile.description</source>
-        <target state="translated">Se alle stillinger du har ansøgt på via Transport Talent.</target>
+        <target state="translated">Se alle stillinger du har ansøgt på via Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
         <source>app.profile.savedApplicationsCta</source>
@@ -919,7 +919,7 @@
       </trans-unit>
       <trans-unit id="app.profile.saved.applications.description" approved="no">
         <source>app.profile.saved.applications.description</source>
-        <target state="translated">Her kan du få et overblik over alle de stillinger du har søgt via Transport Talent. Hvis du bemærker at der mangler nogen så må du meget gerne kontakte os.</target>
+        <target state="translated">Her kan du få et overblik over alle de stillinger du har søgt via Matchico. Hvis du bemærker at der mangler nogen så må du meget gerne kontakte os.</target>
       </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
@@ -959,7 +959,7 @@
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="no">
         <source>app.profile.dashboard.contactTT.tile.title</source>
-        <target state="translated">Din kontakt hos Transport Talent</target>
+        <target state="translated">Din kontakt hos Matchico</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="no">
         <source>app.profile.dashboard.contactTT.tile.SheduleCallBtn</source>
@@ -1171,15 +1171,15 @@
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
         <source>app.profile.onLoginPopup.employer</source>
-        <target>Tak fordi du besøgte Transport Talent. Vores formål er at formidle kontakten til kvalificerede kandidater og vi står klar til at assistere dig i din søgning. Venligst kontakt os!</target>
+        <target state="translated">Tak fordi du besøgte Matchico. Vores formål er at formidle kontakten til kvalificerede kandidater og vi står klar til at assistere dig i din søgning. Venligst kontakt os!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
         <source>app.profile.onLoginPopup.recruiter</source>
-        <target>Tak fordi du besøgte Transport Talent.</target>
+        <target state="translated">Tak fordi du besøgte Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
         <source>app.profile.onLoginPopup.professional</source>
-        <target>Tak fordi besøgte Transport Talent. Vi er helt med på hvor svært det kan være at finde det rette job og vores team er klar til at hjælpe dig hvor end det er muligt. Venligst kontakt os!</target>
+        <target state="translated">Tak fordi besøgte Matchico. Vi er helt med på hvor svært det kan være at finde det rette job og vores team er klar til at hjælpe dig hvor end det er muligt. Venligst kontakt os!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
         <source>app.profile.onLoginPopup.showThisWindow</source>

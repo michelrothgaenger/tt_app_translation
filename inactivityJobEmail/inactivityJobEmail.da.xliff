@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.inactivityJobEmail.subject" approved="no">
         <source>app.inactivityJobEmail.subject</source>
-        <target state="translated">Inaktivt job "%jobTitle%" for virksomhed "%companyName%"</target> </trans-unit>
+        <target state="translated">Inaktivt job "%jobTitle%" for virksomhed "%companyName%"</target>
+      </trans-unit>
       <trans-unit id="app.inactivityJobEmail.text" approved="no">
         <source>app.inactivityJobEmail.text</source>
-        <target state="translated">Kære,% firstName%, Din annonce i emnefeltet har været online i 30 dage. Det er vigtigt for os at vores brugere altid modtager aktuelle jobannoncer. Klik her, hvis annoncen stadig er aktuel: %confirmUrl% Klik venligst her, hvis du vil deaktivere annoncen: %deaktivereUrl% På forhånd tak, Transport Talent teamet</target> </trans-unit>
+        <target state="translated">Kære,% firstName%, Din annonce i emnefeltet har været online i 30 dage. Det er vigtigt for os at vores brugere altid modtager aktuelle jobannoncer. Klik her, hvis annoncen stadig er aktuel: %confirmUrl% Klik venligst her, hvis du vil deaktivere annoncen: %deaktivereUrl% På forhånd tak, Matchico teamet</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

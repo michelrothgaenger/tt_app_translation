@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.rescueEmailAdded.message" approved="yes">
+      <trans-unit id="app.rescueEmailAdded.message" approved="no">
         <source>app.rescueEmailAdded.message</source>
-        <target state="translated">&lt;h1&gt;Запасной электронный адрес добавлен&lt;/h1&gt; &lt;p&gt;Электронный адрес %email% был добавлен в качестве запасного. Если это было сделано Вами, то просто игнорируйте это сообщение&lt;/p&gt; &lt;br&gt; С уважением,&lt;br&gt; Ваша команда Transport Talent</target>
+        <target state="translated">&lt;h1&gt;Запасной электронный адрес добавлен&lt;/h1&gt; &lt;p&gt;Электронный адрес %email% был добавлен в качестве запасного. Если это было сделано Вами, то просто игнорируйте это сообщение&lt;/p&gt; &lt;br&gt; С уважением,&lt;br&gt; Ваша команда Matchico</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>

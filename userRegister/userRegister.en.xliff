@@ -41,12 +41,12 @@
         <source>registration.check_email</source>
         <target state="translated"><![CDATA[What will happen next?<br><br>1. An email has been sent to %email%. It contains an activation link you must click to verify your email.<br>2. We will review your account and approve it within one working day and you will receive a confirmation email.<br>3. You're ready to use Transporttalent.com<br>]]></target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="yes">
-        <source>registration.emailemp.subject</source>
+      <trans-unit id="registration.emailemp.subject" approved="no">
+        <source>Thank you for signing up with Matchico!</source>
         <target state="translated">Thank you for signing up with Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="yes">
-        <source>registration.email.subject</source>
+      <trans-unit id="registration.email.subject" approved="no">
+        <source>Welcome to Matchico!</source>
         <target state="translated">Welcome to Transport Talent!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
@@ -202,8 +202,8 @@
         <target state="translated">Welcome</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.greeting.recruiter" approved="no">
-        <source>app.userRegister.step2.greeting.recruiter</source>
-        <target state="translated">Hello fellow Recruiter, welcome to the Transport Talent platform. We will approve your application to become a Recruiter shortly. In the meantime, please fill in your profile so that we can improve the experience of finding jobs to recruit for. It'll only take a few minutes. If you just want to get started recruiting right way, you can skip the profile for now and do it later.  </target>
+        <source>Hello fellow Recruiter, welcome to the Matchico platform. We will approve your application to become a Recruiter shortly. In the meantime, please fill in your profile so that we can improve the experience of finding jobs to recruit for. It'll only take a few minutes. If you just want to get started recruiting right way, you can skip the profile for now and do it later.</source>
+        <target state="translated">Hello fellow Recruiter, welcome to the Transport Talent platform. We will approve your application to become a Recruiter shortly. In the meantime, please fill in your profile so that we can improve the experience of finding jobs to recruit for. It'll only take a few minutes. If you just want to get started recruiting right way, you can skip the profile for now and do it later.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactDetails.recruiter" approved="yes">
         <source>app.userRegister.step2.contactDetails.recruiter</source>
@@ -257,8 +257,8 @@
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated"><![CDATA[Step 1/4: Summary]]></target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
-        <source>app.userRegister.step4.shortCV</source>
+      <trans-unit id="app.userRegister.step4.shortCV" approved="no">
+        <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
         <target state="translated">Want to get headhunted and get the best out of Transport Talent? Make sure to complete the last part of your profile.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
@@ -309,8 +309,8 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
-        <source>app.userRegister.step5.congrats</source>
+      <trans-unit id="app.userRegister.step5.congrats" approved="no">
+        <source>Congrats! You've successfully connected your LinkedIn account with Matchico.</source>
         <target state="translated">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
@@ -586,7 +586,7 @@
         <target state="translated"> %firstname%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
-        <source>registration.email.message.part2</source>
+        <source>&lt;br&gt; &lt;br&gt; thank you for registering on Matchico — to confirm your registration please push the button below to finish your registration and start browsing jobs.</source>
         <target state="translated">&lt;br&gt; &lt;br&gt; thank you for registering on Transport Talent — to confirm your registration please push the button below to finish your registration and start browsing jobs.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
@@ -594,7 +594,7 @@
         <target state="translated">Confirm registration</target>
       </trans-unit>
       <trans-unit id="registration.email.message.part3" approved="no">
-        <source>registration.email.message.part3</source>
+        <source>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.userRegister.joinNow" approved="no">

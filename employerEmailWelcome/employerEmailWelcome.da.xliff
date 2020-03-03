@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.email.welcomeEmployer" approved="no">
         <source>app.email.welcomeEmployer</source>
-        <target state="translated">H</target> </trans-unit>
-    <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
-        <source>app.welcomeEmailSubjectEmployer&gt;</source>
-        <target>Velkommen til Transport Talent!</target> </trans-unit>
+        <target state="translated">H</target>
+      </trans-unit>
+      <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
+        <source>app.welcomeEmailSubjectEmployer</source>
+        <target>Velkommen til Matchico!</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

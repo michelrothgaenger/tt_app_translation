@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaForSocialsSiteTitle" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteTitle" approved="no">
         <source>app.metaForSocialsSiteTitle</source>
-        <target state="translated">Jobs in den Bereichen Transport, Logistik und Supply Chain</target>
+        <target state="translated">Kein Risiko. Nur Matchico!</target>
       </trans-unit>
       <trans-unit id="app.metaForSocialsSiteDescription" approved="no">
         <source>app.metaForSocialsSiteDescription</source>

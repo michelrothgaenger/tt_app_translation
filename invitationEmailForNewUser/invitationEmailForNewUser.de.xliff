@@ -13,13 +13,13 @@
         <source>app.invitationEmailForNewUser.categoryPart</source>
         <target state="translated">für den Bereich %category%</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForNewUser.secondPart" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.secondPart" approved="no">
         <source>app.invitationEmailForNewUser.secondPart</source>
-        <target state="translated">bei %company% hinzugefügt. Nach einmaliger Anmeldung können Sie nun bei Transport Talent Stellenanzeigen für Ihr Unternehmen verwalten. Transport Talent ist ein Netzwerk für die Transport- und Logistikbranche, über welches Unternehmen ihre Vakanzen veröffentlichen können. Klicken Sie auf den folgenden Link, um ganz einfach ein Nutzerkonto bei Transport Talent anzulegen. &lt;br&gt;&lt;br&gt; %linkToRegistrationProcess% &lt;br&gt;&lt;br&gt;Bei Fragen erreichen Sie uns telefonisch unter +49 40 53 799 14 00, über den Chat auf unserer Website oder indem Sie einfach auf diese E-Mail antworten.&lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen&lt;br&gt; Ihr Team bei Transport Talent</target>
+        <target state="translated">bei %company% hinzugefügt. Nach einmaliger Anmeldung können Sie nun bei Matchico Stellenanzeigen für Ihr Unternehmen verwalten. Matchico ist ein Netzwerk für die Transport- und Logistikbranche, über welches Unternehmen ihre Vakanzen veröffentlichen können. Klicken Sie auf den folgenden Link, um ganz einfach ein Nutzerkonto bei Matchico anzulegen. &lt;br&gt;&lt;br&gt; %linkToRegistrationProcess% &lt;br&gt;&lt;br&gt;Bei Fragen erreichen Sie uns telefonisch unter +49 40 53 799 14 00, über den Chat auf unserer Website oder indem Sie einfach auf diese E-Mail antworten.&lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen&lt;br&gt; Ihr Team bei Matchico</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForNewUser.subject" approved="yes">
+      <trans-unit id="app.invitationEmailForNewUser.subject" approved="no">
         <source>app.invitationEmailForNewUser.subject</source>
-        <target state="translated">Sie wurden eingeladen, auf Transport Talent Stellen für %company% zu verwalten</target>
+        <target state="translated">Sie wurden eingeladen, auf Matchico Stellen für %company% zu verwalten</target>
       </trans-unit>
     </body>
   </file>

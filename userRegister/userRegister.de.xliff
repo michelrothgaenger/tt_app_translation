@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.register" approved="no">
         <source>app.register</source>
-        <target state="translated">Registrieren Sie sich, um alle Karrieremöglichkeiten in Transport und Logistik zu sehen</target>
+        <target state="translated">Registrieren Sie sich, um alle Karrieremöglichkeiten in Ihrem Fachgebiet zu sehen</target>
       </trans-unit>
       <trans-unit id="app.registration" approved="yes">
         <source>app.registration</source>
@@ -41,13 +41,13 @@
         <source>registration.check_email</source>
         <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target state="translated">Vielen Dank für die Anmeldung bei Transport Talent!</target>
+        <target state="translated">Vielen Dank für die Anmeldung bei Matchico!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="yes">
+      <trans-unit id="registration.email.subject" approved="no">
         <source>registration.email.subject</source>
-        <target state="translated">Willkommen bei Transport Talent!</target>
+        <target state="translated">Willkommen bei Matchico!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
@@ -145,9 +145,9 @@
         <source>app.userRegister.popup.registerButton</source>
         <target state="translated">Profil anlegen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.login" approved="yes">
+      <trans-unit id="app.userRegister.popup.login" approved="no">
         <source>app.userRegister.popup.login</source>
-        <target state="translated">Sie haben bereits ein Nutzerkonto? Klicken Sie hier, um sich einzuloggen.</target>
+        <target state="translated">Sie haben bereits ein Konto bei Matchico? Klicken Sie hier, um sich einzuloggen.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.popup.loginToBook" approved="yes">
         <source>app.userRegister.popup.loginToBook</source>
@@ -217,9 +217,9 @@
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated">Schritt 1/4: Zusammenfassung</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
+      <trans-unit id="app.userRegister.step4.shortCV" approved="no">
         <source>app.userRegister.step4.shortCV</source>
-        <target state="translated">Sie möchten von Transport Talent mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
+        <target state="translated">Sie möchten von Matchico mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
@@ -261,9 +261,9 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
+      <trans-unit id="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Matchico verbunden.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>
@@ -583,7 +583,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf transporttalent.com - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf matchico.de - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>

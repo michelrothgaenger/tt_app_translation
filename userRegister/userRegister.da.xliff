@@ -43,11 +43,11 @@
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target state="translated">Tak fordi du har oprettet en profil på Transport Talent!</target>
+        <target state="translated">Tak fordi du har oprettet en profil på Matchico!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="yes">
+      <trans-unit id="registration.email.subject" approved="no">
         <source>registration.email.subject</source>
-        <target state="translated">Velkommen til Transport Talent!</target>
+        <target state="translated">Velkommen til Matchico!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
@@ -215,7 +215,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortCV" approved="no">
         <source>app.userRegister.step4.shortCV</source>
-        <target state="translated">Ønsker du at blive headhuntet og få det meste ud af din profil på Transport Talent? Så sørg for at færdiggøre den sidste del af din profil.</target>
+        <target state="translated">Ønsker du at blive headhuntet og få det meste ud af din profil på Matchico? Så sørg for at færdiggøre den sidste del af din profil.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
@@ -265,9 +265,9 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Importer via LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
+      <trans-unit id="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">Tillykke! Du har nu importeret dine oplysninger til Transport Talent via LinkedIn.</target>
+        <target state="translated">Tillykke! Du har nu importeret dine oplysninger til Matchico via LinkedIn.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>
@@ -451,7 +451,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step2.greeting.recruiter" approved="no">
         <source>app.userRegister.step2.greeting.recruiter</source>
-        <target state="translated">Hejsa, velkommen til Transport Talent. Vi vil godkende til anmodning om at blive en Recruiter på vores platform så hurtigt som muligt. I mellemtiden beder vi dig udfylde din profil så vi kan give dig de bedst mulige forudsætninger for at finde de stillinger du vil rekruttere til. Det tager kun et par minutter.</target>
+        <target state="translated">Hejsa, velkommen til Matchico. Vi vil godkende til anmodning om at blive en Recruiter på vores platform så hurtigt som muligt. I mellemtiden beder vi dig udfylde din profil så vi kan give dig de bedst mulige forudsætninger for at finde de stillinger du vil rekruttere til. Det tager kun et par minutter.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step2.contactDetails.recruiter" approved="no">
         <source>app.userRegister.step2.contactDetails.recruiter</source>
@@ -627,7 +627,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
         <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt; Tak for din tilmelding til transporttalent.com — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target>
+        <target state="translated">&lt;br&gt; &lt;br&gt; Tak for din tilmelding til matchico.de — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>
@@ -635,7 +635,7 @@
       </trans-unit>
       <trans-unit id="registration.email.message.part3" approved="no">
         <source>registration.email.message.part3</source>
-        <target state="translated">Du kan altid komme i kontakt med os ved at svare på denne email.&lt;br&gt; &lt;br&gt;Vi er glade for at have dig med i netværket!&lt;br&gt; &lt;br&gt;Venlig Hilsen,&lt;br&gt;Transport Talent teamet</target>
+        <target state="translated">Du kan altid komme i kontakt med os ved at svare på denne email.&lt;br&gt; &lt;br&gt;Vi er glade for at have dig med i netværket!&lt;br&gt; &lt;br&gt;Venlig Hilsen,&lt;br&gt;Matchico teamet</target>
       </trans-unit>
       <trans-unit id="app.userRegister.joinNow" approved="no">
         <source>app.userRegister.joinNow</source>

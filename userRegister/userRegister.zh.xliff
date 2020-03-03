@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en-US" target-language="zh" datatype="plaintext" original="file.ext">
     <header>
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target>Thank you for signing up with Transport Talent!</target>
+        <target>Thank you for signing up with Matchico!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="no">
         <source>registration.email.subject</source>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="fos_user.password.mismatch" approved="no">
         <source>fos_user.password.mismatch</source>
-        <target></target>
+        <target/>
       </trans-unit>
     </body>
   </file>

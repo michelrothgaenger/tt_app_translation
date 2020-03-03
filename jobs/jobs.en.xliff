@@ -126,33 +126,33 @@
         <target state="translated">All Companies</target>
       </trans-unit>
       <trans-unit id="app.jobs.popup.referral.shareTitle" approved="yes">
-         <source>app.jobs.popup.referral.shareTitle</source>
-         <target state="translated">Hi, checkout this job ad "%title%".</target>
+        <source>app.jobs.popup.referral.shareTitle</source>
+        <target state="translated">Hi, checkout this job ad "%title%".</target>
       </trans-unit>
-        <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.title</source>
-            <target>Hi</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.info</source>
-            <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
-            <target>Dashboard</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.replaceCompanyName" approved="no">
-          <source>app.jobs.replaceCompanyName</source>
-          <target>Transport Talent on behalf of a client</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.blinding.title" approved="no">
-          <source>app.jobs.blinding.title</source>
-          <target>Blind job Posting</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
-          <source>app.jobs.jobBlock.showDetails</source>
-          <target>Show details</target>
-        </trans-unit>
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
+        <source>app.jobs.recruiterNotApprovedPopup.title</source>
+        <target>Hi</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
+        <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
+        <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
+        <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
+        <target>Dashboard</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+        <source>Matchico on behalf of a client</source>
+        <target>Transport Talent on behalf of a client</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.blinding.title" approved="no">
+        <source>app.jobs.blinding.title</source>
+        <target>Blind job Posting</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+        <source>app.jobs.jobBlock.showDetails</source>
+        <target>Show details</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.email.welcomeEmployer" approved="yes">
+      <trans-unit id="app.email.welcomeEmployer" approved="no">
         <source>app.email.welcomeEmployer</source>
-        <target state="translated">Hola %title% %lastname%,&lt;br&gt;&lt;br&gt; Gracias por unirte a TransportTalent.com.&lt;br&gt;&lt;br&gt;Ya puedes beneficiarte de nuestra red de talentos y empleadores. Un asesor de nuestro equipo se pondrá en contacto contigo en los próximos días para el caso de que necesites nuestra ayuda con los primeros pasos en nuestro portal.&lt;br&gt;&lt;br&gt;Si tuvieras alguna duda y necesitas que nos pongamos en contacto contigo a la mayor brevedad, contesta a este correo solicitándolo.&lt;br&gt;&lt;br&gt;Saludos cordiales&lt;br&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;Director gerente&lt;br&gt;</target>
+        <target state="translated">Hola %title% %lastname%,&lt;br&gt;&lt;br&gt; Gracias por unirte a Matchico.com.&lt;br&gt;&lt;br&gt;Ya puedes beneficiarte de nuestra red de talentos y empleadores. Un asesor de nuestro equipo se pondrá en contacto contigo en los próximos días para el caso de que necesites nuestra ayuda con los primeros pasos en nuestro portal.&lt;br&gt;&lt;br&gt;Si tuvieras alguna duda y necesitas que nos pongamos en contacto contigo a la mayor brevedad, contesta a este correo solicitándolo.&lt;br&gt;&lt;br&gt;Saludos cordiales&lt;br&gt;&lt;br&gt;Michel Rothgaenger&lt;br&gt;Director gerente&lt;br&gt;</target>
       </trans-unit>
-    <trans-unit id="app.welcomeEmailSubjectEmployer" approved="yes">
+      <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
         <source>app.welcomeEmailSubjectEmployer</source>
-        <target>¡Transport Talent te da la bienvenida!</target>
+        <target>¡Matchico te da la bienvenida!</target>
       </trans-unit>
     </body>
   </file>

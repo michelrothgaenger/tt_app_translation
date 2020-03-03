@@ -9,13 +9,13 @@
         <source>app.privacyPolicy</source>
         <target state="translated">Protección de datos</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionPrivacyPolicyPage" approved="yes">
+      <trans-unit id="app.metaDescriptionPrivacyPolicyPage" approved="no">
         <source>app.metaDescriptionPrivacyPolicyPage</source>
-        <target state="translated">En Transport Talent nos tomamos la seguridad de tus datos muy en serio. Al acceder a TransportTalent con la clave de acceso garantizamos la seguridad de los mismos.</target>
+        <target state="translated">En Matchico nos tomamos la seguridad de tus datos muy en serio. Al acceder a Matchico con la clave de acceso garantizamos la seguridad de los mismos.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="yes">
+      <trans-unit id="app.transportTalentEndeavoursToEnsureThatTheInformationThat" approved="no">
         <source>app.transportTalentEndeavoursToEnsureThatTheInformationThat</source>
-        <target state="translated">Transport Talent ApS, Company No. 37395048 ("TransportTalent") se esfuerza por garantizar la privacidad de los datos de nuestros usuarios. Esta serán utilizados únicamente para los fines descritos a continuación. Nuestro objetivo es proporcionar una experiencia segura para nuestros usuarios.</target>
+        <target state="translated">Staffhero GmbH &amp; Co. KG, Company No. 37395048 ("Matchico") se esfuerza por garantizar la privacidad de los datos de nuestros usuarios. Esta serán utilizados únicamente para los fines descritos a continuación. Nuestro objetivo es proporcionar una experiencia segura para nuestros usuarios.</target>
       </trans-unit>
       <trans-unit id="app.disclosureOfPersonalInformation" approved="yes">
         <source>app.disclosureOfPersonalInformation</source>
@@ -25,9 +25,9 @@
         <source>app.informationMayBeGatheredFromYourRegistrationForm</source>
         <target state="translated">Recopilamos información a través de su(s) formulario(s) de registro y de su uso de los Sitios y/o de los Servicios Interactivos, y también a través de las denominadas "cookies". Las cookies son bloques de texto insertados en los archivos del disco duro del ordenador y se activan cuando un usuario visita un sitio web para identificarlo. Una cookie no contiene información personal alguna proporcionada, excepto el nombre de usuario, a menos que la cookie adjuntada a información personal se recoja por otro medio, como pudiera ser el uso de un formulario de registro en línea.</target>
       </trans-unit>
-      <trans-unit id="app.theInformationGatheredMayBeUsedByTransportTalent" approved="yes">
+      <trans-unit id="app.theInformationGatheredMayBeUsedByTransportTalent" approved="no">
         <source>app.theInformationGatheredMayBeUsedByTransportTalent</source>
-        <target state="translated">La información recopilada puede ser utilizada internamente por Transport Talent ApS y empresas del mismo grupo para propósitos relacionados con su uso de los sitios y servicios interactivos y para actividades de marketing, y puede ser compartida con terceros estrictamente seleccionados con fines relacionados a actividades de marketing. Por actividades de marketing nos referimos al envío a comunicación con particulares (via correo electrónico, correo postal o teléfono) de material publicitario o de marketing. Si no deseas recibir publicidad de Transport Talent ApS, de empresas del mismo grupo que Transport Talent ApS o de terceros cuidadosamente seleccionados, debes marcar la casilla correspondiente en el formulario de registro o notificárnoslo por correo electrónico. Si posteriormente decides que ya no desea recibir información, publicidad o marketing directo de Transport Talent ApS o empresas del mismo grupo que Transport Talent Ap, o que ya no deseas que compartamos tu información con terceros, deberás notificárnoslo nuevamente por correo electrónico.</target>
+        <target state="translated">La información recopilada puede ser utilizada internamente por Staffhero GmbH &amp; Co. KG y empresas del mismo grupo para propósitos relacionados con su uso de los sitios y servicios interactivos y para actividades de marketing, y puede ser compartida con terceros estrictamente seleccionados con fines relacionados a actividades de marketing. Por actividades de marketing nos referimos al envío a comunicación con particulares (via correo electrónico, correo postal o teléfono) de material publicitario o de marketing. Si no deseas recibir publicidad de Staffhero GmbH &amp; Co. KG, de empresas del mismo grupo que Staffhero GmbH &amp; Co. KG o de terceros cuidadosamente seleccionados, debes marcar la casilla correspondiente en el formulario de registro o notificárnoslo por correo electrónico. Si posteriormente decides que ya no desea recibir información, publicidad o marketing directo de Staffhero GmbH &amp; Co. KG o empresas del mismo grupo que Matchico Ap, o que ya no deseas que compartamos tu información con terceros, deberás notificárnoslo nuevamente por correo electrónico.</target>
       </trans-unit>
       <trans-unit id="app.otherThanAsSetOutElsewhereInThisClause" approved="yes">
         <source>app.otherThanAsSetOutElsewhereInThisClause</source>
@@ -37,53 +37,53 @@
         <source>app.whatThisPrivacyPolicyCovers</source>
         <target state="translated">Lo que cubre la protección de datos</target>
       </trans-unit>
-      <trans-unit id="app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation" approved="yes">
+      <trans-unit id="app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation" approved="no">
         <source>app.thisPrivacyPolicyCoversTreatmentOfPersonallyIdentifiableInformation</source>
-        <target state="translated">Nuestra Política de Privacidad cubre el tratamiento de la información de identificación personal que recopilamos cuando un usuario visita el sitio web de TransportTalent, se registra en TransportTalent, sube un CV, configura una alerta de empleo o solicita un trabajo a través del sitio web de TransportTalent. Esta política no se aplica a las empresas que TransportTalent no posee o controla, o a personas que TransportTalent no emplea.</target>
+        <target state="translated">Nuestra Política de Privacidad cubre el tratamiento de la información de identificación personal que recopilamos cuando un usuario visita el sitio web de Matchico, se registra en Matchico, sube un CV, configura una alerta de empleo o solicita un trabajo a través del sitio web de Matchico. Esta política no se aplica a las empresas que Matchico no posee o controla, o a personas que Matchico no emplea.</target>
       </trans-unit>
       <trans-unit id="app.informationCollectionAndUse" approved="yes">
         <source>app.informationCollectionAndUse</source>
         <target state="translated">Custodia y uso de la información</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentCollectsPersonallyIdentifiableInformation" approved="yes">
+      <trans-unit id="app.transportTalentCollectsPersonallyIdentifiableInformation" approved="no">
         <source>app.transportTalentCollectsPersonallyIdentifiableInformation</source>
-        <target state="translated">TransportTalent recopila información de identificación personal cuando un usuario se registra en TransportTalent, cuando utiliza ciertos productos o servicios de TransportTalent, p.ej., si solicita un empleo a través del sitio de TransportTalent, cuando visita las páginas web de TransportTalent y cuando participa en concursos. TransportTalent también puede recibir información de identificación personal de los clientes.</target>
+        <target state="translated">Matchico recopila información de identificación personal cuando un usuario se registra en Matchico, cuando utiliza ciertos productos o servicios de Matchico, p.ej., si solicita un empleo a través del sitio de Matchico, cuando visita las páginas web de Matchico y cuando participa en concursos. Matchico también puede recibir información de identificación personal de los clientes.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentAutomaticallyReceivesAndRecordsInformation" approved="yes">
+      <trans-unit id="app.transportTalentAutomaticallyReceivesAndRecordsInformation" approved="no">
         <source>app.transportTalentAutomaticallyReceivesAndRecordsInformation</source>
-        <target state="translated">TransportTalent recibe y registra automáticamente información en nuestros registros del servidor web desde el navegador del usuario, incluyendo la dirección de Protocolo de Internet (dirección IP). Cada ordenador en Internet tiene una dirección IP que es un número único e identificable. TransportTalent registra las direcciones IP con fines estadísticos anónimos, para la administración de nuestro sitio web y servidores y para mejorar nuestros servicios.</target>
+        <target state="translated">Matchico recibe y registra automáticamente información en nuestros registros del servidor web desde el navegador del usuario, incluyendo la dirección de Protocolo de Internet (dirección IP). Cada ordenador en Internet tiene una dirección IP que es un número único e identificable. Matchico registra las direcciones IP con fines estadísticos anónimos, para la administración de nuestro sitio web y servidores y para mejorar nuestros servicios.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentMaySetAndAccessCookiesOnYourComputer" approved="yes">
+      <trans-unit id="app.transportTalentMaySetAndAccessCookiesOnYourComputer" approved="no">
         <source>app.transportTalentMaySetAndAccessCookiesOnYourComputer</source>
-        <target state="translated">TransportTalent puede establecer y acceder a las cookies en el ordenador de un usuario. Una cookie es una pequeño paquete de datos, que a menudo incluye un identificador único anónimo, el cual se envía al navegador desde un sitio web y se almacena en el disco duro de su ordenador. Cada sitio web puede enviar sus propias cookies al navegador si la configuración de preferencias del mismo lo permite. Para proteger la privacidad del usuario, el navegador solo permitirá que un sitio web tenga acceso a las cookies que ya le han enviado. El usuario puede elegir si acepta o no las cookies.  En caso dei no aceptar las cookies de TransportTalent, es posible que algunos de nuestros servicios no estén disponibles.</target>
+        <target state="translated">Matchico puede establecer y acceder a las cookies en el ordenador de un usuario. Una cookie es una pequeño paquete de datos, que a menudo incluye un identificador único anónimo, el cual se envía al navegador desde un sitio web y se almacena en el disco duro de su ordenador. Cada sitio web puede enviar sus propias cookies al navegador si la configuración de preferencias del mismo lo permite. Para proteger la privacidad del usuario, el navegador solo permitirá que un sitio web tenga acceso a las cookies que ya le han enviado. El usuario puede elegir si acepta o no las cookies. En caso dei no aceptar las cookies de Matchico, es posible que algunos de nuestros servicios no estén disponibles.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentUsesGoogleAnalyticsTaggingToCollectDataOnWebsiteActivity" approved="yes">
+      <trans-unit id="app.transportTalentUsesGoogleAnalyticsTaggingToCollectDataOnWebsiteActivity" approved="no">
         <source>app.transportTalentUsesGoogleAnalyticsTaggingToCollectDataOnWebsiteActivity</source>
-        <target state="translated">TransportTalent utiliza el etiquetado de Google Analytics para recopilar datos sobre la actividad del sitio web. Los usuarios pueden optar por no participar en Google Analytics instalando un complemento de navegador desde el siguiente enlace: https://tools.google.com/dlpage/gaoptout.</target>
+        <target state="translated">Matchico utiliza el etiquetado de Google Analytics para recopilar datos sobre la actividad del sitio web. Los usuarios pueden optar por no participar en Google Analytics instalando un complemento de navegador desde el siguiente enlace: https://tools.google.com/dlpage/gaoptout.</target>
       </trans-unit>
       <trans-unit id="app.generalInformation" approved="yes">
         <source>app.generalInformation</source>
         <target state="translated">Información general</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentGathersGeneralInformationAboutUsers" approved="yes">
+      <trans-unit id="app.transportTalentGathersGeneralInformationAboutUsers" approved="no">
         <source>app.transportTalentGathersGeneralInformationAboutUsers</source>
-        <target state="translated">TransportTalent reúne información general sobre los usuarios, por ejemplo, sobre los servicios a los que los usuarios acceden con mayor asiduidad y las áreas del sitio TransportTalent más visitadas. Estos datos se utilizan en conjunto para ayudarnos a entender cómo los usuarios usan nuestra web. Reunimos esta información para poder mejorar y desarrollar nuestros servicios en beneficio de nuestros usuarios. Podemos poner esta información a disposición de los usuarios del sitio de TransportTalent, a la de nuestros clientes y también a la de los auditores. Estas estadísticas son anónimas, no contienen información personal y no pueden utilizarse para recopilar dicha información.</target>
+        <target state="translated">Matchico reúne información general sobre los usuarios, por ejemplo, sobre los servicios a los que los usuarios acceden con mayor asiduidad y las áreas del sitio Matchico más visitadas. Estos datos se utilizan en conjunto para ayudarnos a entender cómo los usuarios usan nuestra web. Reunimos esta información para poder mejorar y desarrollar nuestros servicios en beneficio de nuestros usuarios. Podemos poner esta información a disposición de los usuarios del sitio de Matchico, a la de nuestros clientes y también a la de los auditores. Estas estadísticas son anónimas, no contienen información personal y no pueden utilizarse para recopilar dicha información.</target>
       </trans-unit>
       <trans-unit id="app.yourPersonalInformation" approved="yes">
         <source>app.yourPersonalInformation</source>
         <target state="translated">Tu información personal</target>
       </trans-unit>
-      <trans-unit id="app.whenYouRegisterWithTransportTalentUploadCv" approved="yes">
+      <trans-unit id="app.whenYouRegisterWithTransportTalentUploadCv" approved="no">
         <source>app.whenYouRegisterWithTransportTalentUploadCv</source>
-        <target state="translated">Cuando te registras en TransportTalent, subes un CV, configuras una alerta de trabajo, participas en un concurso o contratas un servicio, te pedimos información personal como tu nombre, fecha de nacimiento, datos de contacto y otros detalles. Una vez que registrado en TransportTalent y aceptados nuestros Términos y Condiciones, no eres anónimo para nosotros. Podemos utilizar la información que nos proporcionas para informar sobre nuestros propios productos y servicios, y podemos ponernos en contacto contigo para informarte de cambios en el sitio o en los productos o servicios de TransportTalent.</target>
+        <target state="translated">Cuando te registras en Matchico, subes un CV, configuras una alerta de trabajo, participas en un concurso o contratas un servicio, te pedimos información personal como tu nombre, fecha de nacimiento, datos de contacto y otros detalles. Una vez que registrado en Matchico y aceptados nuestros Términos y Condiciones, no eres anónimo para nosotros. Podemos utilizar la información que nos proporcionas para informar sobre nuestros propios productos y servicios, y podemos ponernos en contacto contigo para informarte de cambios en el sitio o en los productos o servicios de Matchico.</target>
       </trans-unit>
-      <trans-unit id="app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent" approved="yes">
+      <trans-unit id="app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent" approved="no">
         <source>app.weDoNotDiscloseInformationAboutYourIndividualVisitsToTheTransportTalent</source>
-        <target state="translated">No revelamos información sobre las visitas individuales al sitio web de Transport Talent, o información personal que nos proporciones, como nombre y datos de contacto, a menos que nos haya dado su permiso o creamos que la ley lo requiere. Podemos guardar y compartir información agregada con nuestros clientes. Además, si ingresas tu información en una página de registro de marca compartida o en una página de solicitud de trabajo, p. ej., una página de registro de empresa como cliente de TransportTalent, la información que proporcionas se convierte en propiedad de TransportTalent y del cliente. TransportTalent no se hace responsable de la información que el cliente recibe.</target>
+        <target state="translated">No revelamos información sobre las visitas individuales al sitio web de Matchico, o información personal que nos proporciones, como nombre y datos de contacto, a menos que nos haya dado su permiso o creamos que la ley lo requiere. Podemos guardar y compartir información agregada con nuestros clientes. Además, si ingresas tu información en una página de registro de marca compartida o en una página de solicitud de trabajo, p. ej., una página de registro de empresa como cliente de Matchico, la información que proporcionas se convierte en propiedad de Matchico y del cliente. Matchico no se hace responsable de la información que el cliente recibe.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou" approved="yes">
+      <trans-unit id="app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou" approved="no">
         <source>app.transportTalentMaySendPersonallyIdentifiableInformationAboutYou</source>
-        <target state="translated">TransportTalent puede enviar información fiable y personal tuya a otros clientes, en caso de que:</target>
+        <target state="translated">Matchico puede enviar información fiable y personal tuya a otros clientes, en caso de que:</target>
       </trans-unit>
       <trans-unit id="app.weHaveYourConsentToShareTheInformation" approved="yes">
         <source>app.weHaveYourConsentToShareTheInformation</source>
@@ -93,9 +93,9 @@
         <source>app.weNeedToShareYourInformationToProvideTheServiceYouHaveRequested</source>
         <target state="translated">2. necesitemos compartir la información para dar el servicio solicitado;</target>
       </trans-unit>
-      <trans-unit id="app.weNeedToSendTheInformationToCompaniesWhoWork" approved="yes">
+      <trans-unit id="app.weNeedToSendTheInformationToCompaniesWhoWork" approved="no">
         <source>app.weNeedToSendTheInformationToCompaniesWhoWork</source>
-        <target state="translated">3. necesitemos enviar la información a las empresas que trabajan en nombre de TransportTalent para proporcionar un producto o servicio (a menos que se indique lo contrario, estas empresas no tienen el derecho de usar la información de identificación personal que les proporcionamos más allá de lo que sea necesario para ayudarnos); respondemos a citaciones, órdenes judiciales o procesos legales.</target>
+        <target state="translated">3. necesitemos enviar la información a las empresas que trabajan en nombre de Matchico para proporcionar un producto o servicio (a menos que se indique lo contrario, estas empresas no tienen el derecho de usar la información de identificación personal que les proporcionamos más allá de lo que sea necesario para ayudarnos); respondemos a citaciones, órdenes judiciales o procesos legales.</target>
       </trans-unit>
       <trans-unit id="app.otherWaysOfEnsuringYourPrivacy" approved="yes">
         <source>app.otherWaysOfEnsuringYourPrivacy</source>
@@ -121,17 +121,17 @@
         <source>app.contactingUsOn</source>
         <target state="translated">3. contactando con nosotros:</target>
       </trans-unit>
-      <trans-unit id="app.contactTransportTalent" approved="yes">
+      <trans-unit id="app.contactTransportTalent" approved="no">
         <source>app.contactTransportTalent</source>
-        <target state="translated">Contactar a Transport Talent</target>
+        <target state="translated">Contactar a Matchico</target>
       </trans-unit>
-      <trans-unit id="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
+      <trans-unit id="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="no">
         <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target state="translated">Si tienes cualquier duda o deseas hacer un comentario sobre Transport Talent o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
+        <target state="translated">Si tienes cualquier duda o deseas hacer un comentario sobre Matchico o sobre nuestra web, te rogamos que nos lo comuniques a:</target>
       </trans-unit>
-      <trans-unit id="app.termsPageAddress" approved="yes">
+      <trans-unit id="app.termsPageAddress" approved="no">
         <source>app.termsPageAddress</source>
-        <target state="translated">Transport Talent, Rikkeshave 18, DK-5250 Odense, Dinamarca</target>
+        <target state="translated">Matchico, Rikkeshave 18, DK-5250 Odense, Dinamarca</target>
       </trans-unit>
       <trans-unit id="app.email" approved="yes">
         <source>app.email</source>

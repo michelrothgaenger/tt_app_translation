@@ -25,7 +25,7 @@
         <source>app.imprint</source>
         <target state="translated">Impressum</target>
       </trans-unit>
-    <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
+      <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Unsere E-Mail-Adresse lautet:</target>
       </trans-unit>
@@ -34,7 +34,7 @@
         <target state="translated">Copyright © %year% %companyName%, alle Rechte vorbehalten.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
-        <source>app.emailLayout.defaultCompanyName</source>
+        <source>Staffhero GmbH &amp; Co. KG</source>
         <target>Transporttalent ApS</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
@@ -45,7 +45,7 @@
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">Hier abmelden</target>
       </trans-unit>
-    <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
         <source>app.emailLayout.unsubscribe</source>
         <target state="translated">Abmelden</target>
       </trans-unit>
@@ -54,16 +54,16 @@
         <target state="translated">Hilfe</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
-        <source>app.emailLayout.copyright.line2</source>
+        <source>Matchico ist ein gemeinsames Projekt von Staffhero GmbH  &amp; Co. KG und der Blaupause KfK GmbH &amp; Co. KG.</source>
         <target state="translated">Transport Talent ist ein eingetragener Markenname.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
-        <source>app.emailLayout.contactTT.tile</source>
+        <source>Ihr Ansprechpartner bei Matchico:</source>
         <target state="translated">Ihr Ansprechpartner bei Transport Talent:</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
-        <source>app.emailLayout.defaultCompanyAddress</source>
-        <target state="translated"> Straße 1, 34523 Ort.</target>
+        <source>Bernstorffstrasse 120, 22767 Hamburg</source>
+        <target state="translated">Straße 1, 34523 Ort.</target>
       </trans-unit>
     </body>
   </file>

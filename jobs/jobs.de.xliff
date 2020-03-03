@@ -41,7 +41,7 @@
         <source>app.noJobsFound</source>
         <target state="translated">Keine Jobs gefunden</target>
       </trans-unit>
-    <trans-unit id="app.jobs.searchForm.term.placeholder" approved="yes">
+      <trans-unit id="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>
         <target state="translated">Suchbegriff z.B. Fracht</target>
       </trans-unit>
@@ -73,7 +73,7 @@
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Sprachen</target>
       </trans-unit>
-    <trans-unit id="app.jobs.searchForm.referrals" approved="yes">
+      <trans-unit id="app.jobs.searchForm.referrals" approved="yes">
         <source>app.jobs.searchForm.referrals</source>
         <target state="translated">Empfehlungen anzeigen</target>
       </trans-unit>
@@ -81,7 +81,7 @@
         <source>app.jobs.createJobAlertButtonLabel</source>
         <target state="translated">SUCHAGENTEN ANLEGEN</target>
       </trans-unit>
-    <trans-unit id="app.jobs.alert.editCreate.noTitleError" approved="yes">
+      <trans-unit id="app.jobs.alert.editCreate.noTitleError" approved="yes">
         <source>app.jobs.alert.editCreate.noTitleError</source>
         <target state="translated">Bitte geben Sie eine Bezeichnung ein</target>
       </trans-unit>
@@ -89,7 +89,7 @@
         <source>app.jobs.selectAutocompleteItem</source>
         <target state="translated">Bitte wählen Sie einen Eintrag aus der Liste, um fortzufahren!</target>
       </trans-unit>
-    <trans-unit id="app.jobs.edit" approved="yes">
+      <trans-unit id="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>
         <target state="translated">BEARBEITEN</target>
       </trans-unit>
@@ -101,13 +101,13 @@
         <source>app.jobs.searchForm.filterTitleHide</source>
         <target state="translated">Filter verbergen</target>
       </trans-unit>
-    <trans-unit id="app.jobs.jobBlock.reward" approved="yes">
+      <trans-unit id="app.jobs.jobBlock.reward" approved="yes">
         <source>app.jobs.jobBlock.reward</source>
         <target state="translated">Bonus</target>
       </trans-unit>
       <trans-unit id="app.jobs.jobBlock.claim" approved="yes">
         <source>app.jobs.jobBlock.claim</source>
-      <target state="translated">Empfehlen</target>
+        <target state="translated">Empfehlen</target>
       </trans-unit>
       <trans-unit id="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>
@@ -116,12 +116,12 @@
       <trans-unit id="app.allCompanies" approved="yes">
         <source>app.allCompanies</source>
         <target state="translated">Alle Unternehmen</target>
-    </trans-unit>
-      <trans-unit id="app.jobs.popup.referral.shareTitle" approved="yes">
-         <source>app.jobs.popup.referral.shareTitle</source>
-         <target state="translated">Hi, sieh dir diesen Job an: %title%!</target>
       </trans-unit>
-    <trans-unit id="app.jobs.jobBlock.apply" approved="yes">
+      <trans-unit id="app.jobs.popup.referral.shareTitle" approved="yes">
+        <source>app.jobs.popup.referral.shareTitle</source>
+        <target state="translated">Hi, sieh dir diesen Job an: %title%!</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.jobBlock.apply" approved="yes">
         <source>app.jobs.jobBlock.apply</source>
         <target state="translated">Bewerben</target>
       </trans-unit>
@@ -130,28 +130,29 @@
         <target state="translated">CV hochladen</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.title</source>
-            <target>Hej</target> </trans-unit>
-        <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.info</source>
-            <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
-            <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
-            <target>Dashboard</target>
-        </trans-unit>
-    <trans-unit id="app.jobs.replaceCompanyName" approved="no">
-          <source>app.jobs.replaceCompanyName</source>
-          <target>Transport Talent im Auftrag eines Kunden</target>
-        </trans-unit>
-        <trans-unit id="app.jobs.blinding.title" approved="no">
-          <source>app.jobs.blinding.title</source>
-          <target>Blind Job Buchung</target>
-        </trans-unit>
-    <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
-          <source>app.jobs.jobBlock.showDetails</source>
-          <target>Details anzeigen</target>
-        </trans-unit>
+        <source>app.jobs.recruiterNotApprovedPopup.title</source>
+        <target>Hej</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
+        <source>app.jobs.recruiterNotApprovedPopup.info</source>
+        <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
+        <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
+        <target>Dashboard</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+        <source>app.jobs.replaceCompanyName</source>
+        <target state="translated">Matchico im Auftrag eines Kunden</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.blinding.title" approved="no">
+        <source>app.jobs.blinding.title</source>
+        <target>Blind Job Buchung</target>
+      </trans-unit>
+      <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+        <source>app.jobs.jobBlock.showDetails</source>
+        <target>Details anzeigen</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -251,7 +251,8 @@
       </trans-unit>
       <trans-unit id="Crop &amp; Use !" approved="no">
         <source>Crop &amp; Use !</source>
-        <target state="translated">Zuschneiden und verwenden!</target> </trans-unit>
+        <target state="translated">Zuschneiden und verwenden!</target>
+      </trans-unit>
       <trans-unit id="The uploaded file exceeds the upload_max_filesize directive in php.ini" approved="yes">
         <source>The uploaded file exceeds the upload_max_filesize directive in php.ini</source>
         <target state="translated">Die ausgewählte Datei überschreitet die maximal zulässige Größe.</target>
@@ -324,8 +325,7 @@
         <source>Failed to resize image</source>
         <target state="translated">Größe konnte nicht angepasst werden</target>
       </trans-unit>
-
-    <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Profil</target>
       </trans-unit>
@@ -345,11 +345,11 @@
         <source>app.profile.dashboard.saved-job.tile.description</source>
         <target state="translated">Hier sehen Sie Ihre ausgewählten Stellen.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf Ihre Vorstellungsgespräche vorbereiten.</target>
+        <target state="translated">Organisieren Sie Ihre Jobsuche mit Matchico: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf Ihre Vorstellungsgespräche vorbereiten.</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
         <source>app.profile.dashboard.saved-companies.tile.description</source>
         <target state="translated">Verwalten Sie Ihre Auswahl interessanter Unternehmen.</target>
       </trans-unit>
@@ -361,9 +361,9 @@
         <source>app.profile.dashboard.settings.tile.description</source>
         <target state="translated">Verwalten Sie Ihre Kontoeinstellungen, z.B. E-Mail-Adresse und Passwort.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.companies.description" approved="yes">
+      <trans-unit id="app.profile.saved.companies.description" approved="no">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Mit Transport behalten Sie interessante Unternehmen aus Transport und Logistik im Blick. Fügen Sie weitere Unternehmen hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen.</target>
+        <target state="translated">Mit Transport behalten Sie interessante Unternehmen aus Ihrem Fachgebiet im Blick. Fügen Sie weitere Unternehmen hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen.</target>
       </trans-unit>
       <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
@@ -413,7 +413,7 @@
         <source>app.profile.dashboard.referrals.tile.title</source>
         <target state="translated">Empfehlungen</target>
       </trans-unit>
-    <trans-unit id="app.profile.settings.password.title" approved="yes">
+      <trans-unit id="app.profile.settings.password.title" approved="yes">
         <source>app.profile.settings.password.title</source>
         <target state="translated">Passwort</target>
       </trans-unit>
@@ -492,7 +492,7 @@
       <trans-unit id="app.profile.section.jobAlerts.descr" approved="yes">
         <source>app.profile.section.jobAlerts.descr</source>
         <target state="translated">Sie möchten über neue Stellenanzeigen informiert werden? Legen Sie einen oder mehrere Suchagenten an und wir benachrichtigen Sie per E-Mail.</target>
-    </trans-unit>
+      </trans-unit>
       <trans-unit id="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
         <target state="translated">SUCHAGENTEN EINRICHTEN</target>
@@ -621,17 +621,17 @@
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Verwalten Sie Ihr Unternehmensprofil.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.description" approved="yes">
+      <trans-unit id="app.profile.settings.description" approved="no">
         <source>app.profile.settings.description</source>
-        <target state="translated">Hier finden Sie alle Einstellungen zu Ihrem Profil bei Transport Talent.</target>
+        <target state="translated">Hier finden Sie alle Einstellungen zu Ihrem Profil bei Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
         <target state="translated">Ändern Sie hier Ihre Login-Daten und legen Sie die Spracheinstellungen fest.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.tab.login.description" approved="yes">
+      <trans-unit id="app.profile.settings.tab.login.description" approved="no">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">Für den Login mit anderen Accounts verknüpfen Sie hier Ihre Social-Media-Konten. Hinterlegen Sie eine E-Mail-Adresse zur Wiederherstellung, falls Sie einmal Ihre Login-Daten für Transport Talent vergessen.</target>
+        <target state="translated">Für den Login mit anderen Accounts verknüpfen Sie hier Ihre Social-Media-Konten. Hinterlegen Sie eine E-Mail-Adresse zur Wiederherstellung, falls Sie einmal Ihre Login-Daten für Matchico vergessen.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
@@ -657,9 +657,9 @@
         <source>app.profile.linkedinImportDataButton</source>
         <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.congrats" approved="yes">
+      <trans-unit id="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+        <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Matchico verbunden.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
@@ -711,7 +711,8 @@
       </trans-unit>
       <trans-unit id="app.profile.editor.preferedLocations" approved="no">
         <source>app.profile.editor.preferedLocations</source>
-        <target state="translated">Bevorzugte Arbeitsorte</target> </trans-unit>
+        <target state="translated">Bevorzugte Arbeitsorte</target>
+      </trans-unit>
       <trans-unit id="app.profile.editor.salaryExpectations" approved="yes">
         <source>app.profile.editor.salaryExpectations</source>
         <target state="translated">Gehaltsvorstellungen</target>
@@ -772,9 +773,9 @@
         <source>app.profile.profileVM.profileHeader</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.profileHeaderText" approved="yes">
+      <trans-unit id="app.profile.profileVM.profileHeaderText" approved="no">
         <source>app.profile.profileVM.profileHeaderText</source>
-        <target state="translated">Sie können Ihre Daten bearbeiten, indem Sie unten auf die Schaltfläche "Bearbeiten" klicken. Wenn Sie Ihr Profil löschen möchten, senden Sie bitte eine E-Mail an profiles@transporttalent.com und wir werden uns darum kümmern.</target>
+        <target state="translated">Sie können Ihre Daten bearbeiten, indem Sie unten auf die Schaltfläche "Bearbeiten" klicken. Wenn Sie Ihr Profil löschen möchten, senden Sie bitte eine E-Mail an profiles@matchico.de und wir werden uns darum kümmern.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.summaryHeader" approved="yes">
         <source>app.profile.profileVM.summaryHeader</source>
@@ -796,9 +797,9 @@
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Mit LinkedIn verbunden?</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
-        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
+        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Matchico verbunden.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">
         <source>app.profile.profileVM.successCv</source>
@@ -844,11 +845,11 @@
         <source>app.profile.profileVM.noSalary</source>
         <target state="translated">Gehaltsvorstellungen fehlen</target>
       </trans-unit>
-    <trans-unit id="app.profile.editor.birthdayPlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.birthdayPlaceholder" approved="yes">
         <source>app.profile.editor.birthdayPlaceholder</source>
         <target state="translated">TT/MM/JJJJ</target>
       </trans-unit>
-    <trans-unit id="app.profile.editor.profileEditionHeader" approved="yes">
+      <trans-unit id="app.profile.editor.profileEditionHeader" approved="yes">
         <source>app.profile.editor.profileEditionHeader</source>
         <target state="translated">Basierend auf Ihrem Profil schlagen wir Ihnen interessante Stellen vor. Wenn Sie Ihr LinkedIn-Profil verknüpft haben, wurden ggf. Informationen übernommen.</target>
       </trans-unit>
@@ -872,7 +873,7 @@
         <source>app.profile.dashboard.alerts.tile.description</source>
         <target state="translated">Legen Sie neue Suchagenten an und verwalten Sie vorhandene</target>
       </trans-unit>
-    <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
         <source>app.profile.editor.firstNamePlaceholder</source>
         <target state="translated">Vorname</target>
       </trans-unit>
@@ -904,21 +905,21 @@
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">Vorname</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.applications.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.title" approved="yes">
         <source>app.profile.dashboard.applications.tile.title</source>
         <target state="translated">BEWERBUNGEN</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="no">
         <source>app.profile.dashboard.applications.tile.description</source>
-        <target state="translated">Alle Stellen auf die Sie sich über Transport Talent beworben haben.</target>
+        <target state="translated">Alle Stellen auf die Sie sich über Matchico beworben haben.</target>
       </trans-unit>
       <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
         <source>app.profile.savedApplicationsCta</source>
         <target state="translated">BEWERBUNGEN</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.applications.description" approved="yes">
+      <trans-unit id="app.profile.saved.applications.description" approved="no">
         <source>app.profile.saved.applications.description</source>
-        <target state="translated">Nachstehend sehen Sie eine Übersicht aller Positionen, auf die Sie sich über Transport Talent beworben haben. Bitte beachten Sie, dass nur solche Stellen aufgeführt werden, deren Bewerbungsprozess über das Transport-Talent-Bewerbungsformular läuft. Stellenanzeigen für welche Sie auf die Seite eines anderen Anbieters weitergeleitet werden, verarbeitet Transport Talent nicht und kann diese dementsprechend nicht in dieser Übersicht aufführen.</target>
+        <target state="translated">Nachstehend sehen Sie eine Übersicht aller Positionen, auf die Sie sich über Matchico beworben haben. Bitte beachten Sie, dass nur solche Stellen aufgeführt werden, deren Bewerbungsprozess über das Matchico-Bewerbungsformular läuft. Stellenanzeigen für welche Sie auf die Seite eines anderen Anbieters weitergeleitet werden, verarbeitet Matchico nicht und kann diese dementsprechend nicht in dieser Übersicht aufführen.</target>
       </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
@@ -936,7 +937,7 @@
         <source>app.noApplicationsFound</source>
         <target state="translated">Keine Bewerbungen gefunden</target>
       </trans-unit>
-    <trans-unit id="app.profile.saved.applications.undo" approved="yes">
+      <trans-unit id="app.profile.saved.applications.undo" approved="yes">
         <source>app.profile.saved.applications.undo</source>
         <target state="translated">Rückgängig machen</target>
       </trans-unit>
@@ -970,7 +971,8 @@
       </trans-unit>
       <trans-unit id="app.notification.causes.noLocations" approved="no">
         <source>app.notification.causes.noLocations</source>
-        <target state="translated">BEVORZUGTE ARBEITSORTE</target> </trans-unit>
+        <target state="translated">BEVORZUGTE ARBEITSORTE</target>
+      </trans-unit>
       <trans-unit id="app.notification.causes.inactivity" approved="yes">
         <source>app.notification.causes.inactivity</source>
         <target state="translated">INAKTIVITÄT</target>
@@ -983,13 +985,13 @@
         <source>app.notification.causes.noCV</source>
         <target state="translated">IHR LEBENSLAUF</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.ambassador.tile.title" approved="yes">
-         <source>app.profile.dashboard.ambassador.tile.title</source>
-         <target state="translated">Recruitment-Voreinstellungen</target>
+      <trans-unit id="app.profile.dashboard.ambassador.tile.title" approved="yes">
+        <source>app.profile.dashboard.ambassador.tile.title</source>
+        <target state="translated">Recruitment-Voreinstellungen</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.ambassador.tile.description" approved="yes">
-         <source>app.profile.dashboard.ambassador.tile.description</source>
-         <target state="translated">Verwaltungen Sie Ihre Voreinstellungen als Recruiter.</target>
+        <source>app.profile.dashboard.ambassador.tile.description</source>
+        <target state="translated">Verwaltungen Sie Ihre Voreinstellungen als Recruiter.</target>
       </trans-unit>
       <trans-unit id="app.profileInputDateLeaveLabel" approved="yes">
         <source>app.profileInputDateLeaveLabel</source>
@@ -1008,12 +1010,12 @@
         <target state="translated">Kündigungsfrist ist nicht angegeben</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.ats.tile.title" approved="yes">
-         <source>app.profile.dashboard.ats.tile.title</source>
-         <target state="translated">ATS</target>
+        <source>app.profile.dashboard.ats.tile.title</source>
+        <target state="translated">ATS</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.ats.tile.description" approved="yes">
-         <source>app.profile.dashboard.ats.tile.description</source>
-         <target state="translated">Verwaltung eingehender Stellen</target>
+        <source>app.profile.dashboard.ats.tile.description</source>
+        <target state="translated">Verwaltung eingehender Stellen</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.manageTeam.tile.title" approved="yes">
         <source>app.profile.dashboard.manageTeam.tile.title</source>
@@ -1039,7 +1041,7 @@
         <source>app.employer.disabledField.companyInformation.noAdminRole</source>
         <target state="translated">Die Bearbeitung von Firmeninformationen ist deaktiviert, da Ihr Konto keine Rechte hat.</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.welcomeText" approved="yes">
+      <trans-unit id="app.profile.dashboard.welcomeText" approved="yes">
         <source>app.profile.dashboard.welcomeText</source>
         <target state="translated">Willkommen</target>
       </trans-unit>
@@ -1083,7 +1085,7 @@
         <source>app.profile.dateLeave.other</source>
         <target state="translated">Andere</target>
       </trans-unit>
-    <trans-unit id="form.dateLeavePlaceholder" approved="yes">
+      <trans-unit id="form.dateLeavePlaceholder" approved="yes">
         <source>form.dateLeavePlaceholder</source>
         <target state="translated">Wählen Sie Ihre Kündigungsfrist</target>
       </trans-unit>
@@ -1091,7 +1093,7 @@
         <source>app.profile.editor.noticePeriod</source>
         <target state="translated">Kündigungsfrist</target>
       </trans-unit>
-    <trans-unit id="app.profile.editor.editLogo" approved="yes">
+      <trans-unit id="app.profile.editor.editLogo" approved="yes">
         <source>app.profile.editor.editLogo</source>
         <target state="translated">Logo bearbeiten</target>
       </trans-unit>
@@ -1099,7 +1101,7 @@
         <source>app.profile.editor.editBuilding</source>
         <target state="translated">Bild bearbeiten</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="yes">
         <source>app.profile.dashboard.contactTT.tile.title</source>
         <target state="translated">Ihr Ansprechpartner</target>
       </trans-unit>
@@ -1115,7 +1117,7 @@
         <source>app.profile.noticePeriod.other</source>
         <target state="translated">Andere</target>
       </trans-unit>
-    <trans-unit id="app.recruiter.approving.error.notFound" approved="no">
+      <trans-unit id="app.recruiter.approving.error.notFound" approved="no">
         <source>app.recruiter.approving.error.notFound</source>
         <target>Dieser Benutzer wurde bereits von Ihnen oder einem anderen Partner genehmigt. Vielen Dank.</target>
       </trans-unit>
@@ -1135,7 +1137,7 @@
         <source>app.profile.confirmationPopup.closeBtn</source>
         <target>Schließen</target>
       </trans-unit>
-    <trans-unit id="app.profile.applicationHistories.hideDetails" approved="no">
+      <trans-unit id="app.profile.applicationHistories.hideDetails" approved="no">
         <source>app.profile.applicationHistories.hideDetails</source>
         <target>Details ausblenden</target>
       </trans-unit>
@@ -1155,13 +1157,13 @@
         <source>app.profile.applicationHistories.updatedBy</source>
         <target>Aktualisiert von</target>
       </trans-unit>
-    <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
+      <trans-unit id="app.profile.onLoginPopup.welcome" approved="no">
         <source>app.profile.onLoginPopup.welcome</source>
         <target>Willkommen, %firstName%!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
         <source>app.profile.onLoginPopup.recruiter</source>
-        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Lassen Sie sich für Ihre Empfehlungen von uns belohnen. Bitte kontaktieren Sie uns!</target>
+        <target state="translated">Vielen Dank für Ihren Besuch bei Matchico. Lassen Sie sich für Ihre Empfehlungen von uns belohnen. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">
         <source>app.profile.onLoginPopup.showThisWindow</source>
@@ -1171,17 +1173,18 @@
         <source>app.profile.onLoginPopup.closeWindow</source>
         <target>Fenster schließen</target>
       </trans-unit>
-    <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
+      <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
         <source>app.profile.onLoginPopup.employer</source>
-        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Unser Ziel ist es, Sie mit qualifiziertem Personal zu verbinden. Unser Team unterstützt Sie gerne bei Ihrer Suche. Bitte kontaktieren Sie uns!</target>
+        <target state="translated">Vielen Dank für Ihren Besuch bei Matchico. Unser Ziel ist es, Sie mit qualifiziertem Personal zu verbinden. Unser Team unterstützt Sie gerne bei Ihrer Suche. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
         <source>app.profile.onLoginPopup.professional</source>
-        <target>Vielen Dank für Ihren Besuch bei Transport Talent. Wir kennen die Komplexität der Stellensuche und unser Team vermittelt Ihnen gerne geeignete Stellenangebote. Kontaktieren Sie uns bitte!</target>
+        <target state="translated">Vielen Dank für Ihren Besuch bei Matchico. Wir kennen die Komplexität der Stellensuche und unser Team vermittelt Ihnen gerne geeignete Stellenangebote. Kontaktieren Sie uns bitte!</target>
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete.accessDenied</source>
-        <target state="translated">Sie haben keine Befugnis, um dieses Konto zu löschen</target> </trans-unit>
+        <target state="translated">Sie haben keine Befugnis, um dieses Konto zu löschen</target>
+      </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete" approved="no">
         <source>app.profile.confirmationEmail.beforeDelete</source>
         <target state="translated">Die Bestätigungs-E-Mail wurde an Ihre E-Mail-Adresse %userEmail% gesendet.</target>
@@ -1192,79 +1195,104 @@
       </trans-unit>
       <trans-unit id="app.profile.reactivateAccount.message" approved="no">
         <source>app.profile.reactivateAccount.message</source>
-        <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert</target> </trans-unit>
+        <target state="translated">Willkommen zurück %firstName%. Ihr Konto wurde reaktiviert</target>
+      </trans-unit>
       <trans-unit id="app.profile.dashboard.uploadCandidate.tile.title" approved="no">
-         <source>app.profile.dashboard.uploadCandidate.tile.title</source>
-         <target state="translated">Kandidat hochladen</target> </trans-unit>
+        <source>app.profile.dashboard.uploadCandidate.tile.title</source>
+        <target state="translated">Kandidat hochladen</target>
+      </trans-unit>
       <trans-unit id="app.profile.dashboard.uploadCandidate.tile.description" approved="no">
-         <source>app.profile.dashboard.uploadCandidate.tile.description</source>
-         <target state="translated">Beschreibung des Kandidaten hochladen</target> </trans-unit>
+        <source>app.profile.dashboard.uploadCandidate.tile.description</source>
+        <target state="translated">Beschreibung des Kandidaten hochladen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.title" approved="no">
         <source>app.profile.popup.uploadCandidate.title</source>
-        <target state="translated">Kandidat hochladen</target> </trans-unit>
+        <target state="translated">Kandidat hochladen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.description" approved="no">
         <source>app.profile.popup.uploadCandidate.description</source>
-        <target state="translated">Nutzen Sie das nachfolgende Formular um einen Kandidaten hochzuladen. Aus Gründen des Datenschutzes werden wir zunächst den Kunden um Bestätigung Ihrer Bewerbung bitten, bevor wir mit dem Bewerbungsprozess fortfahren.</target> </trans-unit>
+        <target state="translated">Nutzen Sie das nachfolgende Formular um einen Kandidaten hochzuladen. Aus Gründen des Datenschutzes werden wir zunächst den Kunden um Bestätigung Ihrer Bewerbung bitten, bevor wir mit dem Bewerbungsprozess fortfahren.</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.firstname.label" approved="no">
         <source>app.profile.popup.uploadCandidate.firstname.label</source>
-        <target state="translated">Vorname</target> </trans-unit>
+        <target state="translated">Vorname</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.firstname.input.title" approved="no">
         <source>app.profile.popup.uploadCandidate.firstname.input.title</source>
-        <target state="translated">Vorname sollte nur Buchstaben enthalten</target> </trans-unit>
+        <target state="translated">Vorname sollte nur Buchstaben enthalten</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.lastname.label" approved="no">
         <source>app.profile.popup.uploadCandidate.lastname.label</source>
-        <target state="translated">Nachname</target> </trans-unit>
+        <target state="translated">Nachname</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.lastname.input.title" approved="no">
         <source>app.profile.popup.uploadCandidate.lastname.input.title</source>
-        <target state="translated">Nachname sollte nur Buchstaben enthalten</target> </trans-unit>
+        <target state="translated">Nachname sollte nur Buchstaben enthalten</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.email.label" approved="no">
         <source>app.profile.popup.uploadCandidate.email.label</source>
-        <target state="translated">Email</target> </trans-unit>
+        <target state="translated">Email</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.salary.label" approved="no">
         <source>app.profile.popup.uploadCandidate.salary.label</source>
-        <target state="translated">Gehaltsvorstellung</target> </trans-unit>
+        <target state="translated">Gehaltsvorstellung</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.salary.initialOption" approved="no">
         <source>app.profile.popup.uploadCandidate.salary.initialOption</source>
-        <target state="translated">Gehaltsspanne auswählen</target> </trans-unit>
+        <target state="translated">Gehaltsspanne auswählen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.salary.input.placeholder" approved="no">
         <source>app.profile.popup.uploadCandidate.salary.input.placeholder</source>
-        <target>Betrag angeben</target> </trans-unit>
+        <target>Betrag angeben</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.salary.input.title" approved="no">
         <source>app.profile.popup.uploadCandidate.salary.input.title</source>
-        <target>Mindestens 4 Zeichen, nur Zahlen</target> </trans-unit>
+        <target>Mindestens 4 Zeichen, nur Zahlen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.currency.label" approved="no">
         <source>app.profile.popup.uploadCandidate.currency.label</source>
-        <target state="translated">Währung</target> </trans-unit>
+        <target state="translated">Währung</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.label" approved="no">
         <source>app.profile.popup.uploadCandidate.noticePeriod.label</source>
-        <target state="translated">Kündigungsfrist</target> </trans-unit>
+        <target state="translated">Kündigungsfrist</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.noticePeriod.initialOption" approved="no">
         <source>app.profile.popup.uploadCandidate.noticePeriod.initialOption</source>
-        <target state="translated">Kündigungsfrist auswählen</target> </trans-unit>
+        <target state="translated">Kündigungsfrist auswählen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.cv.label" approved="no">
         <source>app.profile.popup.uploadCandidate.cv.label</source>
-        <target state="translated">Lebenslauf hochladen</target> </trans-unit>
+        <target state="translated">Lebenslauf hochladen</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.cv.label.uploaded" approved="no">
         <source>app.profile.popup.uploadCandidate.cv.label.uploaded</source>
-        <target state="translated">Lebenslauf ändern</target> </trans-unit>
+        <target state="translated">Lebenslauf ändern</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part1" approved="no">
         <source>app.profile.popup.uploadCandidate.cv.fileinfo.part1</source>
-        <target state="translated">Sie haben</target> </trans-unit>
+        <target state="translated">Sie haben</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
         <source>app.profile.popup.uploadCandidate.cv.fileinfo.part2</source>
-        <target state="translated">als Lebenslauf hochgeladen.</target> </trans-unit>
+        <target state="translated">als Lebenslauf hochgeladen.</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.confirm.input.label" approved="no">
         <source>app.profile.popup.uploadCandidate.confirm.input.label</source>
-        <target state="translated">Ich habe die Befugnis des Kandidaten seine/ihre Daten für diese Position zu einzureichen.</target> </trans-unit>
+        <target state="translated">Ich habe die Befugnis des Kandidaten seine/ihre Daten für diese Position zu einzureichen.</target>
+      </trans-unit>
       <trans-unit id="app.profile.popup.uploadCandidate.submitBtn" approved="no">
         <source>app.profile.popup.uploadCandidate.submitBtn</source>
-        <target state="translated">Kandidat einreichen</target> </trans-unit>
+        <target state="translated">Kandidat einreichen</target>
+      </trans-unit>
       <trans-unit id="app.profile.uploadCandidate.success.part1" approved="no">
-          <source>app.profile.uploadCandidate.success.part1</source>
-          <target state="translated">Sie haben erfolgreich eingereicht:</target> </trans-unit>
+        <source>app.profile.uploadCandidate.success.part1</source>
+        <target state="translated">Sie haben erfolgreich eingereicht:</target>
+      </trans-unit>
       <trans-unit id="app.profile.uploadCandidate.success.part2" approved="no">
-          <source>app.profile.uploadCandidate.success.part2</source>
-          <target state="translated">- bitte checken Sie für weitere Informationen Ihre Inbox.</target> </trans-unit>
+        <source>app.profile.uploadCandidate.success.part2</source>
+        <target state="translated">- bitte checken Sie für weitere Informationen Ihre Inbox.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

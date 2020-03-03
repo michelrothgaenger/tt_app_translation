@@ -34,7 +34,7 @@
         <target>Copyright © %year% %companyName%, All rights reserved.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
-        <source>app.emailLayout.defaultCompanyName</source>
+        <source>Staffhero GmbH &amp; Co. KG</source>
         <target>Transport Talent ApS</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
@@ -54,11 +54,11 @@
         <target state="translated">Help</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
-        <source>app.emailLayout.copyright.line2</source>
+        <source>Matchico is a registered brand name.</source>
         <target state="translated">Transport Talent is a registered brand name.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
-        <source>app.emailLayout.contactTT.tile</source>
+        <source>Your contact at Matchico:</source>
         <target state="translated">Your contact at Transport Talent:</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">

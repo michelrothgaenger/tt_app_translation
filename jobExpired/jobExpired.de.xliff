@@ -9,9 +9,9 @@
         <source>app.jobExpiredPageTitle</source>
         <target state="translated">Stellenanzeige abgelaufen</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
         <source>app.metaDescriptionExpiredPage</source>
-        <target state="translated">Die gesuchte Stellenanzeige ist nicht mehr aktiv. Speichern Sie Stellenanzeigen in Ihrem Profil auf Transport Talent, um diese auch später noch einsehen zu können.</target>
+        <target state="translated">Die gesuchte Stellenanzeige ist nicht mehr aktiv. Speichern Sie Stellenanzeigen in Ihrem Profil auf Matchico, um diese auch später noch einsehen zu können.</target>
       </trans-unit>
       <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
@@ -29,7 +29,7 @@
         <source>app.browseRelatedJobs</source>
         <target state="translated">Ähnliche Jobs ansehen</target>
       </trans-unit>
-    <trans-unit id="app.linkToJobsTitle" approved="yes">
+      <trans-unit id="app.linkToJobsTitle" approved="yes">
         <source>app.linkToJobsTitle</source>
         <target state="translated">Alle Jobs anzeigen</target>
       </trans-unit>

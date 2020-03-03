@@ -13,13 +13,13 @@
         <source>app.invitationEmailForExistingUser.categoryPart</source>
         <target state="translated">für den Bereich %category%</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="yes">
+      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
         <source>app.invitationEmailForExistingUser.secondPart</source>
-        <target state="translated">bei %company% hinzugefügt. Sie können jetzt alle Stellenausschreibungen für Ihre Abteilung (%category% bei %company%) über das Dashboard verwalten. &lt;br&gt;&lt;br&gt; %linkToDashboard% &lt;br&gt;&lt;br&gt; Bei Fragen zu diesem Prozess stehen wir Ihnen gernen zur Verfügung. Antworten Sie dazu einfach auf diese E-Mail. &lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; Ihr Team von Transport Talent</target>
+        <target state="translated">bei %company% hinzugefügt. Sie können jetzt alle Stellenausschreibungen für Ihre Abteilung (%category% bei %company%) über das Dashboard verwalten. &lt;br&gt;&lt;br&gt; %linkToDashboard% &lt;br&gt;&lt;br&gt; Bei Fragen zu diesem Prozess stehen wir Ihnen gernen zur Verfügung. Antworten Sie dazu einfach auf diese E-Mail. &lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; Ihr Team von Matchico</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
+      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="no">
         <source>app.invitationEmailForExistingUser.subject</source>
-        <target state="translated">Sie können jetzt Stellen für %company% bei Transport Talent verwalten</target>
+        <target state="translated">Sie können jetzt Stellen für %company% bei Matchico verwalten</target>
       </trans-unit>
     </body>
   </file>

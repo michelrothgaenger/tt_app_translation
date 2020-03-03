@@ -261,9 +261,9 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Forbind dine venner til jobs, tjen %reward% og anerkendelse</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="yes">
+      <trans-unit id="app.job.referral.explanation" approved="no">
         <source>app.job.referral.explanation</source>
-        <target state="translated">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral  er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
+        <target state="translated">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Matchico Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Matchico Referral er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
       </trans-unit>
       <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
         <source>app.job.section.popup.apply.cvTitle</source>
@@ -447,7 +447,7 @@
       </trans-unit>
       <trans-unit id="app.job.twitter.statusText" approved="no">
         <source>app.job.twitter.statusText</source>
-        <target state="translated">Ønsket: %title%! Se alle detaljer på Transport Talent: %jobUrl%</target>
+        <target state="translated">Ønsket: %title%! Se alle detaljer på Matchico: %jobUrl%</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.hashTags" approved="no">
         <source>app.job.twitter.hashTags</source>
@@ -491,7 +491,7 @@
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
         <source>app.job.recruiterNotApprovedPopup.info</source>
-        <target>din anmodning om at blive registreret er indsendt til godkendelse. Når den er godkendt kan du bruge alle funktioner på Transport Talent.</target>
+        <target>din anmodning om at blive registreret er indsendt til godkendelse. Når den er godkendt kan du bruge alle funktioner på Matchico.</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="no">
         <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
@@ -499,7 +499,7 @@
       </trans-unit>
       <trans-unit id="app.job.replaceCompanyName" approved="no">
         <source>app.job.replaceCompanyName</source>
-        <target>Transport Talent på vegne af kunde</target>
+        <target>Matchico på vegne af kunde</target>
       </trans-unit>
       <trans-unit id="app.job.blinding.title" approved="no">
         <source>app.job.blinding.title</source>

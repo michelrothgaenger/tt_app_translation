@@ -25,7 +25,7 @@
         <source>app.imprint</source>
         <target state="translated">Mentions légales</target>
       </trans-unit>
-    <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
+      <trans-unit id="app.emailLayout.mailingAddress.title" approved="yes">
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Voici notre courriel :</target>
       </trans-unit>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
         <source>app.emailLayout.defaultCompanyName</source>
-        <target>Transport Talent ApS</target>
+        <target>Staffhero GmbH &amp; Co. KG</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>

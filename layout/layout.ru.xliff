@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="no">
         <source>app.metaForSocialsSiteDescription</source>
-        <target state="translated">В Transport Talent мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
+        <target state="translated">В Matchico мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="no">
         <source>app.metaDescriptionBase</source>
-        <target state="translated">В Transport Talent мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
+        <target state="translated">В Matchico мы нацелены на создание платформы, где профессионалы из логистической и транспортной отрасли могут конфиденциально налаживать связь с лучшими работодателями в индустрии.</target>
       </trans-unit>
       <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>

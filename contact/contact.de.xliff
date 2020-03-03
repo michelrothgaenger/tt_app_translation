@@ -49,9 +49,9 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">Wir sind ein weltweit tätiges Unternehmen. Hier finden Sie unsere Standorte:</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="no">
         <source>app.contact.section.offices.location.denmark</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Dänemark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Kopenhagen&lt;/div&gt;</target>
+        <target state="translated">&amp;lt;div&amp;gt;&amp;lt;b&amp;gt;Dänemark:&amp;lt;/b&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Staffhero GmbH &amp; Co. KG&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Danneskiold-Samsøes Allé 41&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;DK-1434 Kopenhagen&amp;lt;/div&amp;gt;</target>
       </trans-unit>
       <trans-unit id="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
@@ -73,14 +73,14 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Ihre Anfrage wurde erfolgreich übertragen und wird schnellstmöglich bearbeitet.</target>
       </trans-unit>
-    <trans-unit id="app.contact.meta.description" approved="yes">
+      <trans-unit id="app.contact.meta.description" approved="no">
         <source>app.contact.meta.description</source>
-        <target state="translated">Transport Talent ist das führende Stellenportal für Transport und Logistik. Nehmen Sie Kontakt mit uns auf, wenn wir Sie bei Ihrem nächsten Karriereschritt oder dem Besetzen von Vakanzen unterstützen können.</target>
+        <target state="translated">Matchico ist das führende Stellenportal für Ihrem Fachgebiet. Nehmen Sie Kontakt mit uns auf, wenn wir Sie bei Ihrem nächsten Karriereschritt oder dem Besetzen von Vakanzen unterstützen können.</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.germany" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.germany" approved="no">
         <source>app.contact.section.offices.location.germany</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Deutschland:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Deutschland:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Matchico&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

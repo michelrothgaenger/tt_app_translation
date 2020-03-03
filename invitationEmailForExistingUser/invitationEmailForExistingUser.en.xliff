@@ -14,11 +14,11 @@
         <target state="translated">for %category% </target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
-        <source>app.invitationEmailForExistingUser.secondPart</source>
+        <source>at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Matchico Team</source>
         <target state="translated">at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
-        <source>app.invitationEmailForExistingUser.subject</source>
+      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="no">
+        <source>You can now manage jobs for %company% on Matchico</source>
         <target state="translated">You can now manage jobs for %company% on Transport Talent</target>
       </trans-unit>
     </body>

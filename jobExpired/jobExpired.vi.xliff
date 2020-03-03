@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobExpiredPageTitle" approved="yes">
+      <trans-unit id="app.jobExpiredPageTitle" approved="no">
         <source>app.jobExpiredPageTitle</source>
-        <target state="translated">Transport Talent – Công việc này đã hết</target>
+        <target state="translated">Matchico – Công việc này đã hết</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
         <source>app.metaDescriptionExpiredPage</source>
-        <target state="translated">Các quảng cáo được yêu cầu đã không còn hoạt động. Ngài hãy lưu các thông tin quảng cáo trong hồ sơ của Transport Talent để có thể xem lại sau này</target>
+        <target state="translated">Các quảng cáo được yêu cầu đã không còn hoạt động. Ngài hãy lưu các thông tin quảng cáo trong hồ sơ của Matchico để có thể xem lại sau này</target>
       </trans-unit>
       <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>

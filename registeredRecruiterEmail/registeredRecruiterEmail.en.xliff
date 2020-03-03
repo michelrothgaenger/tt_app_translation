@@ -14,11 +14,11 @@
         <target state="translated">A new recruiter has to be approved</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
-        <source>app.registeredRecruiter.toRecruiter.content</source>
+        <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Matchico platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
         <target>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
-        <source>app.registeredRecruiter.toRecruiter.subject</source>
+        <source>Your registration to become a recruiter on the platform will have to be confirmed by Matchico.</source>
         <target state="translated">Your registration to become a recruiter on the platform will have to be confirmed by Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="no">
@@ -34,7 +34,7 @@
         <target state="translated">Your request was successfully confirmed.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
-        <source>app.confirmedRecruiter.toRecruiter.content</source>
+        <source>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Matchico platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Transport Talent platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">

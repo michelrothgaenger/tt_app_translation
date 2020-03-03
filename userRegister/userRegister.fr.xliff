@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target>Thank you for signing up with Transport Talent!</target>
+        <target>Thank you for signing up with Matchico!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="no">
         <source>registration.email.subject</source>
@@ -73,10 +73,10 @@
         <source>fos_user.password.mismatch</source>
         <target/>
       </trans-unit>
-    <trans-unit id="app.forgotPassword" approved="yes">
+      <trans-unit id="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
         <target state="translated">Mot de passe oublié ?</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

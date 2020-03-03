@@ -5,13 +5,13 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaForSocialsSiteDescription" approved="yes">
+      <trans-unit id="app.metaForSocialsSiteDescription" approved="no">
         <source>app.metaForSocialsSiteDescription</source>
-        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
+        <target state="translated">Matchico cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionBase" approved="yes">
+      <trans-unit id="app.metaDescriptionBase" approved="no">
         <source>app.metaDescriptionBase</source>
-        <target state="translated">Transport Talent cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
+        <target state="translated">Matchico cung cấp cho lực lượng lao động trong lĩnh vực kho vận và vận tải một nền tảng mà qua đó họ có thể liên lạc riêng với các nhà tuyển dụng tốt nhất trong ngành.</target>
       </trans-unit>
       <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>

@@ -325,7 +325,7 @@
         <source>Failed to resize image</source>
         <target state="translated">Error al ajustar el tamaño de la imagen</target>
       </trans-unit>
-    <trans-unit id="app.signInWithGoogle" approved="yes">
+      <trans-unit id="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
         <target state="translated">Iniciar sesión con Google</target>
       </trans-unit>
@@ -333,9 +333,9 @@
         <source>app.profile.saved.companies.description</source>
         <target state="translated">Sigue a las principales empresas del sector Transporte y Logística. Añade o elimina empresas en tu perfil para ajustar tu búsqueda.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Organiza tu búsqueda de empleo con Transport Talent: añade y elimina vacantes a tu lista. Los avisos seguirán disponibles después de la desactivación por parte del empleador para que puedas prepararte para las entrevistas.</target>
+        <target state="translated">Organiza tu búsqueda de empleo con Matchico: añade y elimina vacantes a tu lista. Los avisos seguirán disponibles después de la desactivación por parte del empleador para que puedas prepararte para las entrevistas.</target>
       </trans-unit>
       <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
@@ -390,9 +390,9 @@
         <target state="translated">Alertas de empleo</target>
       </trans-unit>
       <trans-unit id="app.profile.section.jobAlerts.descr" approved="yes">
-              <source>app.profile.section.jobAlerts.descr</source>
-              <target state="translated">¿Quieres que te avisemos cuando nos entren nuevas ofertas de empleo? Programa cuantos agentes de búsqueda desees y las alertas te llegarán a tu email.</target>
-            </trans-unit>
+        <source>app.profile.section.jobAlerts.descr</source>
+        <target state="translated">¿Quieres que te avisemos cuando nos entren nuevas ofertas de empleo? Programa cuantos agentes de búsqueda desees y las alertas te llegarán a tu email.</target>
+      </trans-unit>
       <trans-unit id="app.profile.section.jobAlerts.createButtonTitle" approved="yes">
         <source>app.profile.section.jobAlerts.createButtonTitle</source>
         <target state="translated">CREAR UNA ALERTA DE EMPLEO</target>
@@ -509,7 +509,7 @@
         <source>app.profile.errors.requiredFieldCountryRegion</source>
         <target state="translated">Añade tu país o región</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Perfil</target>
       </trans-unit>
@@ -557,21 +557,21 @@
         <source>app.profile.dashboard.companyProfile.tile.description</source>
         <target state="translated">Gestiona tu perfil de empresa.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.description" approved="yes">
+      <trans-unit id="app.profile.settings.description" approved="no">
         <source>app.profile.settings.description</source>
-        <target state="translated">Configura aquí la información de tu perfil en Transport Talent.</target>
+        <target state="translated">Configura aquí la información de tu perfil en Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.tab.general.description" approved="yes">
         <source>app.profile.settings.tab.general.description</source>
         <target state="translated">Configura el acceso a tu cuenta y elige tu idioma.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.tab.login.description" approved="yes">
+      <trans-unit id="app.profile.settings.tab.login.description" approved="no">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">Para acceder por medio de otras cuentas de tus redes sociales, necesitamos un email de recuperación para el caso de que olvides tus datos de acceso a Transport Talent y necesites recuperarlos.</target>
+        <target state="translated">Para acceder por medio de otras cuentas de tus redes sociales, necesitamos un email de recuperación para el caso de que olvides tus datos de acceso a Matchico y necesites recuperarlos.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.social-media.description" approved="yes">
+      <trans-unit id="app.profile.settings.social-media.description" approved="no">
         <source>app.profile.settings.social-media.description</source>
-        <target state="translated">Añade o desactiva una cuenta en una red social con la que acceder a Transport Talent.</target>
+        <target state="translated">Añade o desactiva una cuenta en una red social con la que acceder a Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.rescue.desciption" approved="yes">
         <source>app.profile.settings.rescue.desciption</source>
@@ -657,9 +657,9 @@
         <source>app.profile.linkedinImportDataButton</source>
         <target state="translated">Conectar con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.congrats" approved="yes">
+      <trans-unit id="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target state="translated">¡Perfecto! Has conectado tu cuenta de LinkedIn a la de Transport Talent.</target>
+        <target state="translated">¡Perfecto! Has conectado tu cuenta de LinkedIn a la de Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
@@ -801,9 +801,9 @@
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Estás conectado a LinkedIn?</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
-        <target state="translated">Tus cuentas de LinkedIn y Transport Talent están conectadas.</target>
+        <target state="translated">Tus cuentas de LinkedIn y Matchico están conectadas.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">
         <source>app.profile.profileVM.successCv</source>
@@ -853,7 +853,7 @@
         <source>app.profile.editor.birthdayPlaceholder</source>
         <target state="translated">DD/MM/AAAA</target>
       </trans-unit>
-    <trans-unit id="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
+      <trans-unit id="app.profile.section.jobAlerts.section.popup.editTitle" approved="yes">
         <source>app.profile.section.jobAlerts.section.popup.editTitle</source>
         <target state="translated">EDITAR ALERTAS DE EMPLEO</target>
       </trans-unit>
@@ -873,7 +873,7 @@
         <source>app.profile.dashboard.alerts.tile.description</source>
         <target state="translated">Configura tus alertas de empleo</target>
       </trans-unit>
-    <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
+      <trans-unit id="app.profile.editor.firstNamePlaceholder" approved="yes">
         <source>app.profile.editor.firstNamePlaceholder</source>
         <target state="translated">Nombre</target>
       </trans-unit>
@@ -905,21 +905,21 @@
         <source>app.profile.profileVM.firstName</source>
         <target state="translated">Nombre</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.applications.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.title" approved="yes">
         <source>app.profile.dashboard.applications.tile.title</source>
         <target state="translated">SOLICITUD DE EMPLEO</target>
       </trans-unit>
-      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="yes">
+      <trans-unit id="app.profile.dashboard.applications.tile.description" approved="no">
         <source>app.profile.dashboard.applications.tile.description</source>
-        <target state="translated">Los puestos a los que has enviado tu solicitud de empleo en Transport Talent.</target>
+        <target state="translated">Los puestos a los que has enviado tu solicitud de empleo en Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
         <source>app.profile.savedApplicationsCta</source>
         <target state="translated">SOLICITUDES</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.applications.description" approved="yes">
+      <trans-unit id="app.profile.saved.applications.description" approved="no">
         <source>app.profile.saved.applications.description</source>
-        <target state="translated">Aquí verás todos los puestos a los que has enviado una solicitud. Si no has usado nuestro formulario de solicitud, no podrás ver aquí la misma. Solo gestionamos ofertas y solicitudes de empleo que hayas tramitado a través de nuestro portal Transport Talent.</target>
+        <target state="translated">Aquí verás todos los puestos a los que has enviado una solicitud. Si no has usado nuestro formulario de solicitud, no podrás ver aquí la misma. Solo gestionamos ofertas y solicitudes de empleo que hayas tramitado a través de nuestro portal Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">
         <source>app.profile.searchForNewApplications</source>
@@ -937,7 +937,7 @@
         <source>app.noApplicationsFound</source>
         <target state="translated">No se han encontrado solicitudes</target>
       </trans-unit>
-    <trans-unit id="app.profile.saved.applications.undo" approved="yes">
+      <trans-unit id="app.profile.saved.applications.undo" approved="yes">
         <source>app.profile.saved.applications.undo</source>
         <target state="translated">Deshacer</target>
       </trans-unit>

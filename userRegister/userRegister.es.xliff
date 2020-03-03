@@ -41,9 +41,9 @@
         <source>registration.check_email</source>
         <target state="translated">Te hemos enviado un correo a %email%. Para activar tu cuenta, deberás hacer clic en el enlace que te enviamos.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target state="translated">¡Gracias por unirte a Transport Talent!</target>
+        <target state="translated">¡Gracias por unirte a Matchico!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
@@ -73,7 +73,7 @@
         <source>fos_user.password.mismatch</source>
         <target state="translated">Las contraseñas no coinciden</target>
       </trans-unit>
-    <trans-unit id="app.userRegister.success" approved="yes">
+      <trans-unit id="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
         <target state="translated">¡Hecho!</target>
       </trans-unit>
@@ -82,14 +82,14 @@
         <target state="translated">Introduce aquí tu email</target>
       </trans-unit>
       <trans-unit id="app.forgotPassword" approved="yes">
-          <source>app.forgotPassword</source>
-          <target state="translated">¿Has olvidado tu contraseña?</target>
-        </trans-unit>
-        <trans-unit id="app.notRegisteredCta" approved="yes">
-          <source>app.notRegisteredCta</source>
-          <target state="translated">¿Aún no te has registrado? Haz clic aquí.</target>
-        </trans-unit>
-    <trans-unit id="app.specialties.placeholder" approved="yes">
+        <source>app.forgotPassword</source>
+        <target state="translated">¿Has olvidado tu contraseña?</target>
+      </trans-unit>
+      <trans-unit id="app.notRegisteredCta" approved="yes">
+        <source>app.notRegisteredCta</source>
+        <target state="translated">¿Aún no te has registrado? Haz clic aquí.</target>
+      </trans-unit>
+      <trans-unit id="app.specialties.placeholder" approved="yes">
         <source>app.specialties.placeholder</source>
         <target state="translated">Dinos cual es tu especialidad</target>
       </trans-unit>
@@ -133,9 +133,9 @@
         <source>app.userRegister.popup.email.placeholder</source>
         <target state="translated">Tu email</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.emailConfirmation" approved="yes">
+      <trans-unit id="app.userRegister.popup.emailConfirmation" approved="no">
         <source>app.userRegister.popup.emailConfirmation</source>
-        <target state="translated">Recibirás un correo de confirmación de tu registro en Transport Talent.</target>
+        <target state="translated">Recibirás un correo de confirmación de tu registro en Matchico.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.popup.registerButton" approved="yes">
         <source>app.userRegister.popup.registerButton</source>
@@ -265,9 +265,9 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
+      <trans-unit id="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">¡Perfecto! Tu perfil de LinkedIn ya está conectado a TransportTalent.</target>
+        <target state="translated">¡Perfecto! Tu perfil de LinkedIn ya está conectado a Matchico.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>

@@ -5,10 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-
-      <trans-unit id="app.job.meta.title" approved="yes">
+      <trans-unit id="app.job.meta.title" approved="no">
         <source>app.job.meta.title</source>
-        <target state="translated">Transport Talent – Job</target>
+        <target state="translated">Matchico – Job</target>
       </trans-unit>
       <trans-unit id="app.job.meta.description" approved="no">
         <source>app.job.meta.description</source>

@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
         <source>app.metaDescriptionIndexPage</source>
-        <target state="translated">Transport Talent ist das führende Portal für Fachkräfte aus den Bereichen Transport, Logistik und Supply Chain. Melden Sie sich jetzt kostenlos an für Ihren nächsten Karriereschritt!</target>
+        <target state="translated">Matchico ist das führende Portal für Fachkräfte aus den Bereichen Transport, Logistik und Supply Chain. Melden Sie sich jetzt kostenlos an für Ihren nächsten Karriereschritt!</target>
       </trans-unit>
       <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
@@ -33,7 +33,7 @@
         <source>app.seeAllCompanies</source>
         <target state="translated">Alle Unternehmen ansehen</target>
       </trans-unit>
-    <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
         <target state="translated">Kandidaten</target>
       </trans-unit>
@@ -41,9 +41,9 @@
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target state="translated">Tausende Karrieremöglichkeiten.</target>
       </trans-unit>
-      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="no">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
-        <target state="translated">Der richtige Job wartet schon auf Sie. Finden Sie ihn in mehr als 6.000 Anzeigen auf Transport Talent. Lassen Sie Ihr Profil führenden Unternehmen präsentieren oder verdienen Sie eine Provision, indem Sie Stellen an Freunde oder Bekannte weiterempfehlen.</target>
+        <target state="translated">Der richtige Job wartet schon auf Sie. Finden Sie ihn in mehr als 6.000 Anzeigen auf Matchico. Lassen Sie Ihr Profil führenden Unternehmen präsentieren oder verdienen Sie eine Provision, indem Sie Stellen an Freunde oder Bekannte weiterempfehlen.</target>
       </trans-unit>
       <trans-unit id="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>

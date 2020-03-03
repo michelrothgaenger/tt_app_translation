@@ -10,8 +10,8 @@
         <target>Your Submitted Candidate</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
-        <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
-        <target><![CDATA[Dear %firstNameHR%,<br><br>Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their account.<br>Thank you for your continued support.<br><br>Best Regards,<br>Your Transport Talent Team]]></target>
+        <source>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their account.&lt;br&gt;Thank you for your continued support.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
+        <target>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their account.&lt;br&gt;Thank you for your continued support.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>

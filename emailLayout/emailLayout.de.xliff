@@ -34,8 +34,8 @@
         <target state="translated">Copyright © %year% %companyName%, alle Rechte vorbehalten.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
-        <source>Staffhero GmbH &amp; Co. KG</source>
-        <target>Transporttalent ApS</target>
+        <source>app.emailLayout.defaultCompanyName</source>
+        <target>Staffhero GmbH &amp; Co. KG</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
@@ -54,16 +54,16 @@
         <target state="translated">Hilfe</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
-        <source>Matchico ist ein gemeinsames Projekt von Staffhero GmbH  &amp; Co. KG und der Blaupause KfK GmbH &amp; Co. KG.</source>
-        <target state="translated">Transport Talent ist ein eingetragener Markenname.</target>
+        <source>app.emailLayout.copyright.line2</source>
+        <target state="translated">Matchico ist ein gemeinsames Projekt von Staffhero GmbH &amp; Co. KG und der Blaupause KfK GmbH &amp; Co. KG.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
-        <source>Ihr Ansprechpartner bei Matchico:</source>
-        <target state="translated">Ihr Ansprechpartner bei Transport Talent:</target>
+        <source>app.emailLayout.contactTT.tile</source>
+        <target state="translated">Ihr Ansprechpartner bei Matchico:</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
-        <source>Bernstorffstrasse 120, 22767 Hamburg</source>
-        <target state="translated">Straße 1, 34523 Ort.</target>
+        <source>app.emailLayout.defaultCompanyAddress</source>
+        <target state="translated">Bernstorffstrasse 120, 22767 Hamburg.</target>
       </trans-unit>
     </body>
   </file>

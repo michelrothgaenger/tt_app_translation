@@ -13,9 +13,9 @@
         <source>app.profile.settings.tab.general.description</source>
         <target state="translated">Change your login credentials and choose your language.</target>
       </trans-unit>
-      <trans-unit id="app.profile.settings.tab.login.description" approved="yes">
+      <trans-unit id="app.profile.settings.tab.login.description" approved="no">
         <source>app.profile.settings.tab.login.description</source>
-        <target state="translated">To use an existing account for login, add one of your social media accounts. Add a recovery email in case you forget your login details for Transport Talent. All changes must be confirmed with your current password.</target>
+        <target state="translated">To use an existing account for login, add one of your social media accounts. Add a recovery email in case you forget your login details for Matchico. All changes must be confirmed with your current password.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.social-media.description" approved="yes">
         <source>app.profile.settings.social-media.description</source>
@@ -469,13 +469,13 @@
         <source>Failed to resize image</source>
         <target state="translated">Failed to resize image</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.companies.description" approved="yes">
+      <trans-unit id="app.profile.saved.companies.description" approved="no">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Transport Talent allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</target>
+        <target state="translated">Matchico allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
+        <target state="translated">Manage your job hunt with Matchico – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
       </trans-unit>
       <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
         <source>app.profile.referrals.sectionTitle</source>
@@ -665,9 +665,9 @@
         <source>app.profile.linkedinImportDataButton</source>
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.profile.editor.congrats" approved="yes">
+      <trans-unit id="app.profile.editor.congrats" approved="no">
         <source>app.profile.editor.congrats</source>
-        <target state="translated">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
+        <target state="translated">Congrats! You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
         <source>app.profile.editor.DeleteCV</source>
@@ -809,9 +809,9 @@
         <source>app.profile.profileVM.connectedToLinkedIn</source>
         <target state="translated">Connected to LinkedIn?</target>
       </trans-unit>
-      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="yes">
+      <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
         <source>app.profile.profileVM.connectLinkedInToTT</source>
-        <target state="translated">You've successfully connected your LinkedIn account with Transport Talent.</target>
+        <target state="translated">You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">
         <source>app.profile.profileVM.successCv</source>

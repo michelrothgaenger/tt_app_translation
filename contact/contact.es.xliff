@@ -69,18 +69,18 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Tu solicitud ha sido enviada con éxito y será atendida lo antes posible.</target>
       </trans-unit>
-    <trans-unit id="app.contact.meta.description" approved="yes">
+      <trans-unit id="app.contact.meta.description" approved="no">
         <source>app.contact.meta.description</source>
-        <target state="translated">Transport Talent es el portal de empleo líder en el sector del transporte y la logística. Póngase en contacto con nosotros si desea dar el próximo salto en su carrera o si cree que podemos ayudarle a encontrar los mejores talentos en su proceso de contratación.</target>
+        <target state="translated">Matchico es el portal de empleo líder en el sector del transporte y la logística. Póngase en contacto con nosotros si desea dar el próximo salto en su carrera o si cree que podemos ayudarle a encontrar los mejores talentos en su proceso de contratación.</target>
       </trans-unit>
-    <trans-unit id="app.contact.section.offices.location.germany" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.germany" approved="no">
         <source>app.contact.section.offices.location.germany</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Alemania:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburgo&lt;/div&gt;</target>
+        <target state="translated">&lt;div&gt;&lt;b&gt;Alemania:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Matchico&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburgo&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="no">
         <source>app.contact.section.offices.location.denmark</source>
-        <target state="translated">&lt;div&gt;&lt;b&gt;Dinamarca:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent ApS&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Kopenhagen&lt;/div&gt;</target>
+        <target state="translated">&amp;lt;div&amp;gt;&amp;lt;b&amp;gt;Dinamarca:&amp;lt;/b&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Staffhero GmbH &amp; Co. KG&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Danneskiold-Samsøes Allé 41&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;DK-1434 Kopenhagen&amp;lt;/div&amp;gt;</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

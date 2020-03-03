@@ -201,11 +201,11 @@
         <source>app.job.forward.button.ok</source>
         <target state="translated">Tiếp tục</target>
       </trans-unit>
-    <trans-unit id="app.job.section.popup.saveLinkLabel" approved="yes">
+      <trans-unit id="app.job.section.popup.saveLinkLabel" approved="yes">
         <source>app.job.section.popup.saveLinkLabel</source>
         <target state="translated">Lưu và đến hồ sơ</target>
       </trans-unit>
-    <trans-unit id="app.section.main.referralButtonTitle" approved="yes">
+      <trans-unit id="app.section.main.referralButtonTitle" approved="yes">
         <source>app.section.main.referralButtonTitle</source>
         <target state="translated">Đề nghị</target>
       </trans-unit>
@@ -253,9 +253,9 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Một việc làm mới cho bạn Ngài và %reward% cho Ngài</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="yes">
+      <trans-unit id="app.job.referral.explanation" approved="no">
         <source>app.job.referral.explanation</source>
-        <target state="translated">Hãy hỗ trợ một người bạn để tìm một công việc và nhận được một khoản hoa hồng. &lt;br&gt; Bạn Ngài có một công việc là động cơ thúc đẩy anh ta. &lt;br&gt; Hãy liên hệ với Transport Talent để tự giới thiệu bản thân với bộ phận tuyển dụng &lt;br&gt; Tư vấn trực tiếp việc làm qua các mạng xã hội và nghề nghiệp như LinkedIn, Facebook, Twitter và XING hoặc gửi trực tiếp email đến một địa chỉ liên lạc. Hãy kiếm tiền qua mạng cá nhân của Ngài và giúp đỡ người khác trong sự nghiệp của họ - Transport Talent Referal biến điều này thành sự thật. &lt;br&gt; &lt;br&gt; Tư vấn&lt;br&gt; Một công việc không phù hợp với Ngài? Chuyển thông tin quảng cáo cho người có hồ sơ thích hợp và nhận được một phần thưởng cho sự hỗ trợ của Ngài. Điều quan trọng là các quảng cáo được thực hiện qua các liên kết của Ngài. Chỉ khi đó chúng tôi có thể xác định các lời tư vấn rõ ràng và thanh toán hoa hồng sau khi ký kết hợp đồng. &lt;br&gt; &lt;br&gt; không có rủi ro: Ngài không phải ký bất kỳ hợp đồng nào.&lt;br&gt; &lt;br&gt;Và vô danh tính: Chúng tôi không chuyển tiếp tên của Ngài cho bất cứ công ty nào.</target>
+        <target state="translated">Hãy hỗ trợ một người bạn để tìm một công việc và nhận được một khoản hoa hồng. &lt;br&gt; Bạn Ngài có một công việc là động cơ thúc đẩy anh ta. &lt;br&gt; Hãy liên hệ với Matchico để tự giới thiệu bản thân với bộ phận tuyển dụng &lt;br&gt; Tư vấn trực tiếp việc làm qua các mạng xã hội và nghề nghiệp như LinkedIn, Facebook, Twitter và XING hoặc gửi trực tiếp email đến một địa chỉ liên lạc. Hãy kiếm tiền qua mạng cá nhân của Ngài và giúp đỡ người khác trong sự nghiệp của họ - Matchico Referal biến điều này thành sự thật. &lt;br&gt; &lt;br&gt; Tư vấn&lt;br&gt; Một công việc không phù hợp với Ngài? Chuyển thông tin quảng cáo cho người có hồ sơ thích hợp và nhận được một phần thưởng cho sự hỗ trợ của Ngài. Điều quan trọng là các quảng cáo được thực hiện qua các liên kết của Ngài. Chỉ khi đó chúng tôi có thể xác định các lời tư vấn rõ ràng và thanh toán hoa hồng sau khi ký kết hợp đồng. &lt;br&gt; &lt;br&gt; không có rủi ro: Ngài không phải ký bất kỳ hợp đồng nào.&lt;br&gt; &lt;br&gt;Và vô danh tính: Chúng tôi không chuyển tiếp tên của Ngài cho bất cứ công ty nào.</target>
       </trans-unit>
     </body>
   </file>

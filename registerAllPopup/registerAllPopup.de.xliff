@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.registerAllPopup.title" approved="no">
         <source>app.registerAllPopup.title</source>
-        <target state="translated">Wir informieren Sie über neue Stellenangebote!</target> </trans-unit>
+        <target state="translated">Wir informieren Sie über neue Stellenangebote!</target>
+      </trans-unit>
       <trans-unit id="app.registerAllPopup.description" approved="no">
         <source>app.registerAllPopup.description</source>
-        <target state="translated">Um Transport Talent beizutreten, melden Sie sich unten an...es ist für jeden kostenlos!</target> </trans-unit>
+        <target state="translated">Um Matchico beizutreten, melden Sie sich unten an...es ist für jeden kostenlos!</target>
+      </trans-unit>
       <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
         <source>app.registerAllPopup.employerTitle</source>
         <target state="translated">Arbeitgeber</target>
@@ -53,7 +55,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Employer.text" approved="no">
         <source>app.registerAllPopup.Employer.text</source>
-        <target state="translated">Schließen Sie sich den Unternehmen an, die Zeit und Geld sparen, indem Sie bei Transport Talent einstellen.</target>
+        <target state="translated">Schließen Sie sich den Unternehmen an, die Zeit und Geld sparen, indem Sie bei Matchico einstellen.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Recruiter.title" approved="no">
         <source>app.registerAllPopup.Recruiter.title</source>
@@ -61,7 +63,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Recruiter.text" approved="no">
         <source>app.registerAllPopup.Recruiter.text</source>
-        <target state="translated">Finden Sie Ihren Traumjob – mit Transport Talent.</target>
+        <target state="translated">Finden Sie Ihren Traumjob – mit Matchico.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Professional.title" approved="no">
         <source>app.registerAllPopup.Professional.title</source>
@@ -69,7 +71,7 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.Professional.text" approved="no">
         <source>app.registerAllPopup.Professional.text</source>
-        <target state="translated">Schließen Sie sich den Menschen an, die mit Transport Talent ihren Job gefunden haben.</target>
+        <target state="translated">Schließen Sie sich den Menschen an, die mit Matchico ihren Job gefunden haben.</target>
       </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.part1" approved="no">
         <source>app.registerAllPopup.confirmation.part1</source>
@@ -77,7 +79,8 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.part2" approved="no">
         <source>app.registerAllPopup.confirmation.part2</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
+      </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.part3" approved="no">
         <source>app.registerAllPopup.confirmation.part3</source>
         <target state="translated">sowie die Datenschutzerklärung.</target>
@@ -88,7 +91,8 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.note.part2" approved="no">
         <source>app.registerAllPopup.confirmation.note.part2</source>
-        <target state="translated">Allgemeinen Geschäftsbedingungen</target> </trans-unit>
+        <target state="translated">Allgemeinen Geschäftsbedingungen</target>
+      </trans-unit>
       <trans-unit id="app.registerAllPopup.confirmation.note.part3" approved="no">
         <source>app.registerAllPopup.confirmation.note.part3</source>
         <target state="translated">sowie der Datenschutzerklärung, um fortzufahren.</target>
@@ -99,7 +103,8 @@
       </trans-unit>
       <trans-unit id="app.registerAllPopup.registerRecruiter" approved="no">
         <source>app.registerAllPopup.registerRecruiter</source>
-        <target>Klicken Sie hier um sich als Recruiter anzumelden</target> </trans-unit>
+        <target>Klicken Sie hier um sich als Recruiter anzumelden</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

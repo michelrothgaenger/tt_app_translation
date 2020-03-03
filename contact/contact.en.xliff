@@ -49,12 +49,12 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">We are an internationally operating company. These are our offices:</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.germany" approved="yes">
-        <source>app.contact.section.offices.location.germany</source>
+      <trans-unit id="app.contact.section.offices.location.germany" approved="no">
+        <source>&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Matchico&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</source>
         <target state="translated">&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
-        <source>app.contact.section.offices.location.denmark</source>
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="no">
+        <source>&lt;div&gt;&lt;b&gt;Denmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Matchico&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Copenhagen&lt;/div&gt;</source>
         <target state="translated">&lt;div&gt;&lt;b&gt;Denmark:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Danneskiold-Samsøes Allé 41&lt;/div&gt;&lt;div&gt;DK-1434 Copenhagen&lt;/div&gt;</target>
       </trans-unit>
       <trans-unit id="app.contact.section.offices.phone" approved="yes">
@@ -81,8 +81,8 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Your request has been submitted successfully and will be considered quickly.</target>
       </trans-unit>
-      <trans-unit id="app.contact.meta.description" approved="yes">
-        <source>app.contact.meta.description</source>
+      <trans-unit id="app.contact.meta.description" approved="no">
+        <source>Matchico is the leading job portal for the transport and logistics industry. Get in touch with us if we can help you make your next career move or if you want us to support your hiring process.</source>
         <target state="translated">Transport Talent is the leading job portal for the transport and logistics industry. Get in touch with us if we can help you make your next career move or if you want us to support your hiring process.</target>
       </trans-unit>
     </body>

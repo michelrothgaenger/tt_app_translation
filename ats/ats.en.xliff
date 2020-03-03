@@ -308,7 +308,7 @@ Thank you for taking the time to meet with our team. It was a pleasure to learn 
         <target state="translated">Dear applicant, &lt;br&gt;&lt;br&gt; We were pleased with our interview the other day and impressed with your background and would like to offer you the position. We will revert to you shortly with a formal offer. We are all looking forward to having you on our team.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultFooter" approved="no">
-        <source>app.ats.email.defaultFooter</source>
+        <source>Best Regards,&lt;br&gt; Your Matchico Team</source>
         <target state="translated">Best Regards,&lt;br&gt; Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.title" approved="yes">
@@ -400,7 +400,7 @@ Thank you for taking the time to meet with our team. It was a pleasure to learn 
         <target state="translated">Message from Candidate</target>
       </trans-unit>
       <trans-unit id="app.coverCV.candidateContact">
-        <source>app.coverCV.candidateContact</source>
+        <source>Your contact at Matchico</source>
         <target>Your contact at Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.coverCV.footer" approved="yes">

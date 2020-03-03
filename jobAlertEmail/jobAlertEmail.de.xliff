@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Suchagenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Suchagenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
@@ -51,19 +51,21 @@
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">H</target> </trans-unit>
+        <target state="translated">H</target>
+      </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Ihr Suchagent wurde deaktiviert</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">Neue Stellen auf Transport Talent</target>
+        <target state="translated">Neue Stellen auf Matchico</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">H</target> </trans-unit>
-    <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
+        <target state="translated">H</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
         <target state="translated">Empfehlungsjobs</target>
       </trans-unit>
@@ -79,16 +81,17 @@
         <source>app.jobAlert.monthly.frequency</source>
         <target state="translated">Monatlich</target>
       </trans-unit>
-    <trans-unit id="app.jobAlertEmail.jobAlertJobs.part1" approved="no">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part1" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part1</source>
-        <target>Hej</target> </trans-unit>
+        <target>Hej</target>
+      </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.partFirstname." approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.partFirstname</source>
         <target> %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part2</source>
-        <target>Sind Sie noch auf der Suche nach interessanten Positionen aus der Transport- und Logistikbranche? Wir haben festgestellt, dass Sie sich schon seit einiger Zeit nicht mehr bei Transport Talent angemeldet haben. Nachfolgend haben wir einige interessante Stellenangebote für Sie zusammengestellt:</target>
+        <target>Sind Sie noch auf der Suche nach interessanten Positionen aus der Transport- und Logistikbranche? Wir haben festgestellt, dass Sie sich schon seit einiger Zeit nicht mehr bei Matchico angemeldet haben. Nachfolgend haben wir einige interessante Stellenangebote für Sie zusammengestellt:</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part3</source>

@@ -29,16 +29,15 @@
         <source>subscribe.form.submit</source>
         <target state="translated">Anmelden</target>
       </trans-unit>
-    <trans-unit id="subscribe.result.title" approved="yes">
+      <trans-unit id="subscribe.result.title" approved="yes">
         <source>subscribe.result.title</source>
-         <target state="translated">Wir halten Sie auf dem Laufenden!</target>
+        <target state="translated">Wir halten Sie auf dem Laufenden!</target>
       </trans-unit>
-      <trans-unit id="subscribe.result.text" approved="yes">
+      <trans-unit id="subscribe.result.text" approved="no">
         <source>subscribe.result.text</source>
-         <target state="translated">Danke, dass Sie sich für unseren Newsletter angemeldet haben. So bleiben Sie über
-alle wichtigen Neuigkeiten rund um Transport Talent, die Transport- und Logistikbranche sowie Karrierethemen informiert.</target>
+        <target state="translated">Danke, dass Sie sich für unseren Newsletter angemeldet haben. So bleiben Sie über alle wichtigen Neuigkeiten rund um Matchico, die Transport- und Logistikbranche sowie Karrierethemen informiert.</target>
       </trans-unit>
-    <trans-unit id="subscribe.form.email.exist" approved="yes">
+      <trans-unit id="subscribe.form.email.exist" approved="yes">
         <source>subscribe.form.email.exist</source>
         <target state="translated">Sie sind bereits angemeldet</target>
       </trans-unit>

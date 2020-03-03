@@ -10,7 +10,7 @@
         <target state="translated">The application needs a review</target>
       </trans-unit>
       <trans-unit id="app.inactivityApplications.content" approved="no">
-        <source>app.inactivityApplications.content</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt; Your application needs to be reviewed. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt; Your application needs to be reviewed. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>

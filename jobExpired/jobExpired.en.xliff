@@ -9,8 +9,8 @@
         <source>app.jobExpiredPageTitle</source>
         <target state="translated">This job has expired</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
-        <source>app.metaDescriptionExpiredPage</source>
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
+        <source>This job posting is no longer active. Save job ads to your Matchico profile to access them at any time.</source>
         <target state="translated">This job posting is no longer active. Save job ads to your Transport Talent profile to access them at any time.</target>
       </trans-unit>
       <trans-unit id="app.jobExpiredPageDesc" approved="yes">

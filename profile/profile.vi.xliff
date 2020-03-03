@@ -325,15 +325,15 @@
         <source>Failed to resize image</source>
         <target state="translated">Không thể thay đổi kích thước hình ảnh</target>
       </trans-unit>
-    <trans-unit id="app.profile.saved.companies.description" approved="yes">
+      <trans-unit id="app.profile.saved.companies.description" approved="no">
         <source>app.profile.saved.companies.description</source>
-        <target state="translated">Transport Talent cho phép Ngài kiểm soát được các công ty thú vị từ lĩnh vực vận tải và kho vận. Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài.</target>
+        <target state="translated">Matchico cho phép Ngài kiểm soát được các công ty thú vị từ lĩnh vực vận tải và kho vận. Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài.</target>
       </trans-unit>
-      <trans-unit id="app.profile.saved.jobs.description" approved="yes">
+      <trans-unit id="app.profile.saved.jobs.description" approved="no">
         <source>app.profile.saved.jobs.description</source>
-        <target state="translated">Tổ chức tìm kiếm công việc với Transport Talent:Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài. Tất cả các quảng cáo vẫn  được lưu trữ ở đây, khi chúng bị vô hiệu hóa bởi các nhà cung cấp. Như vậy Ngài có thể chuẩn bị một cách lý tưởng cho cuộc phỏng vấn.</target>
+        <target state="translated">Tổ chức tìm kiếm công việc với Matchico:Thêm hoặc xóa các công ty để phù hợp với lựa chọn của Ngài. Tất cả các quảng cáo vẫn được lưu trữ ở đây, khi chúng bị vô hiệu hóa bởi các nhà cung cấp. Như vậy Ngài có thể chuẩn bị một cách lý tưởng cho cuộc phỏng vấn.</target>
       </trans-unit>
-    <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
+      <trans-unit id="app.profile.dashboard.profile.tile.title" approved="yes">
         <source>app.profile.dashboard.profile.tile.title</source>
         <target state="translated">Hồ sơ</target>
       </trans-unit>

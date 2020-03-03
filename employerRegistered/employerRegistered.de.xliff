@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.registeredTitle" approved="yes">
+      <trans-unit id="app.registeredTitle" approved="no">
         <source>app.registeredTitle</source>
-        <target state="translated">Vielen Dank für Ihre Anmeldung bei Transport Talent</target>
+        <target state="translated">Vielen Dank für Ihre Anmeldung bei Matchico</target>
       </trans-unit>
       <trans-unit id="app.registeredMsg" approved="yes">
         <source>app.registeredMsg</source>

@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.email.welcomeEmployer" approved="no">
         <source>app.email.welcomeEmployer</source>
-        <target state="translated">Hej, %firstName%,&lt;br&gt; &lt;br&gt; &lt;br&gt; vielen Dank für Ihre Anmeldung bei Transport Talent. Sie profitieren ab sofort von unserem Netzwerk ausgewählter Fachkräfte. Gerne stehen wir Ihnen auch für ein persönliches Gespräch zur Verfügung, um weitere Schritte zu besprechen. Wählen Sie hierzu einfach unter folgendem Link einen passenden Termin aus: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;Sollten sich in der Zwischenzeit Fragen zu einem unserer Services ergeben, antworten Sie einfach auf diese E-Mail. Wir melden uns zeitnah bei Ihnen zurück. &lt;br&gt; &lt;br&gt; Viele Grüße &lt;br&gt; &lt;br&gt;Michel Rothgaenger&lt;br&gt; Operativer Geschäftsführer&lt;br&gt; Transport Talent&lt;br&gt; &lt;br&gt; &lt;br&gt;</target>
+        <target state="translated">Hej, %firstName%,&lt;br&gt; &lt;br&gt; &lt;br&gt; vielen Dank für Ihre Anmeldung bei Matchico. Sie profitieren ab sofort von unserem Netzwerk ausgewählter Fachkräfte. Gerne stehen wir Ihnen auch für ein persönliches Gespräch zur Verfügung, um weitere Schritte zu besprechen. Wählen Sie hierzu einfach unter folgendem Link einen passenden Termin aus: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;Sollten sich in der Zwischenzeit Fragen zu einem unserer Services ergeben, antworten Sie einfach auf diese E-Mail. Wir melden uns zeitnah bei Ihnen zurück. &lt;br&gt; &lt;br&gt; Viele Grüße &lt;br&gt; &lt;br&gt;Michel Rothgaenger&lt;br&gt; Operativer Geschäftsführer&lt;br&gt; Matchico&lt;br&gt; &lt;br&gt; &lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="app.welcomeEmailSubjectEmployer" approved="yes">
+      <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
         <source>app.welcomeEmailSubjectEmployer</source>
-        <target><![CDATA[Willkommen bei Transport Talent!]]></target>
+        <target>Willkommen bei Matchico!</target>
       </trans-unit>
     </body>
   </file>

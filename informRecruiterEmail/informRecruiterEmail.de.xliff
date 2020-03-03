@@ -18,8 +18,8 @@
         <target state="translated">Der Kandidat hat die Bewerbung auf die Position "%position%" bestätigt.</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
-        <source>app.informRecruiterEmail.applicationConfirmed.content</source>
-        <target state="translated">Hej, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; dein Kandidat %candidateFirstName% %candidateLastName% hat soeben die Zustimmung zum Vorschlag für die Position "%position%" gegeben.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Dein Team von Matchico</target>
+        <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
+        <target state="translated">Hej, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; Ihr Kandidat %candidateFirstName% %candidateLastName% hat soeben die Zustimmung zum Vorschlag für die Position "%position%" gegeben.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Dein Team von Matchico</target>
       </trans-unit>
     </body>
   </file>

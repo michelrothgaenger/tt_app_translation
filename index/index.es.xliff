@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
         <source>app.metaDescriptionIndexPage</source>
-        <target state="translated">Somos el portal de empleo especializado en transporte, logística y cadena de suministro. ¡Regístrate y da un salto en tu carrera con Transport Talent!</target>
+        <target state="translated">Somos el portal de empleo especializado en transporte, logística y cadena de suministro. ¡Regístrate y da un salto en tu carrera con Matchico!</target>
       </trans-unit>
       <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>
@@ -33,7 +33,7 @@
         <source>app.seeAllCompanies</source>
         <target state="translated">Ver todas las empresas</target>
       </trans-unit>
-    <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.title" approved="yes">
         <source>app.index.signupCTA.candidates.title</source>
         <target state="translated">Candidatos</target>
       </trans-unit>
@@ -41,9 +41,9 @@
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target state="translated">Miles de carreras, miles de posibilidades.</target>
       </trans-unit>
-      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="yes">
+      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="no">
         <source>app.index.signupCTA.candidates.ctaDescription</source>
-        <target state="translated">Tu nuevo empleo te está esperando. Encuéntralo entre las más de 6.000 vacantes en Transport Talent. Crea tu perfil y comienza a recibir ofertas de trabajo. Si no te interesan, podrás reenviarlas a tus contactos y llevarte una comisión en el caso de que consigan un empleo gracias a tu recomendación.</target>
+        <target state="translated">Tu nuevo empleo te está esperando. Encuéntralo entre las más de 6.000 vacantes en Matchico. Crea tu perfil y comienza a recibir ofertas de trabajo. Si no te interesan, podrás reenviarlas a tus contactos y llevarte una comisión en el caso de que consigan un empleo gracias a tu recomendación.</target>
       </trans-unit>
       <trans-unit id="app.index.signupCTA.candidates.button" approved="yes">
         <source>app.index.signupCTA.candidates.button</source>

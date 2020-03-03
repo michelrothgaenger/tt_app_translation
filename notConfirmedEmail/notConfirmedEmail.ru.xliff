@@ -9,9 +9,9 @@
         <source>app.notConfirmedEmail.subject</source>
         <target state="translated">Ваша учетная запись все еще неактивирована</target>
       </trans-unit>
-      <trans-unit id="app.notConfirmedEmail" approved="yes">
+      <trans-unit id="app.notConfirmedEmail" approved="no">
         <source>app.notConfirmedEmail</source>
-        <target state="translated">Здравствуйте%firstName%,&lt;br&gt;&lt;br&gt; Пожалуйста, активируйте Вашу учетную запись, перейдя по этой ссылке &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;С уважением,&lt;br&gt;&lt;br&gt;Ваша команда Transport Talent</target>
+        <target state="translated">Здравствуйте%firstName%,&lt;br&gt;&lt;br&gt; Пожалуйста, активируйте Вашу учетную запись, перейдя по этой ссылке &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;С уважением,&lt;br&gt;&lt;br&gt;Ваша команда Matchico</target>
       </trans-unit>
     </body>
   </file>

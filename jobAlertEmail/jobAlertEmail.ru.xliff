@@ -7,7 +7,7 @@
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
+        <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
@@ -49,21 +49,21 @@
         <source>app.jobAlertEmail.jobAlertCreated.subject</source>
         <target state="translated">Your job alert is active</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
         <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">Уважаемы%firstName%,&lt;br&gt;&lt;br&gt;Ваше оповещение о наличии вакансии было деактивировано. Мы надеемся что Вы нашли вакансию, которую искали. Новые оповещения всегда могут быть настроены в Вашем&lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.Если у Вас есть какие-либо предложения по улучшению системы оповещений по вакансиям,пожалуйста, сообщите нам.&lt;br&gt;&lt;br&gt;С уважением,&lt;br&gt;&lt;br&gt;Ваша команда на Transport Talent</target>
+        <target state="translated">Уважаемы%firstName%,&lt;br&gt;&lt;br&gt;Ваше оповещение о наличии вакансии было деактивировано. Мы надеемся что Вы нашли вакансию, которую искали. Новые оповещения всегда могут быть настроены в Вашем&lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.Если у Вас есть какие-либо предложения по улучшению системы оповещений по вакансиям,пожалуйста, сообщите нам.&lt;br&gt;&lt;br&gt;С уважением,&lt;br&gt;&lt;br&gt;Ваша команда на Matchico</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Your job alert has been deactived</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">New jobs on Transport Talent</target>
+        <target state="translated">New jobs on Matchico</target>
       </trans-unit>
-      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated"><![CDATA[Dear %firstName%,<br><br>Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your <a href="%jobAlertsUrl%">profile</a>. Please let us know if there is anything we can improve about our job alerts to further support your search.<br><br>Kind regards,<br><br>Your team at Transport Talent<br><br>]]></target>
+        <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Matchico based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
     </body>
   </file>

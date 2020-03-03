@@ -41,9 +41,9 @@
         <source>registration.check_email</source>
         <target state="translated">Một email đã được gửi đến %email%. Để hoàn tất việc đăng nhập, xin vui lòng tải lên vào liên kết xác nhận trong email.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="yes">
+      <trans-unit id="registration.emailemp.subject" approved="no">
         <source>registration.emailemp.subject</source>
-        <target state="translated">Cảm ơn đã đăng nhập vào Transport Talent!</target>
+        <target state="translated">Cảm ơn đã đăng nhập vào Matchico!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
@@ -73,7 +73,7 @@
         <source>fos_user.password.mismatch</source>
         <target state="translated">.</target>
       </trans-unit>
-    <trans-unit id="app.userRegister.success" approved="yes">
+      <trans-unit id="app.userRegister.success" approved="yes">
         <source>app.userRegister.success</source>
         <target state="translated">Thành công</target>
       </trans-unit>

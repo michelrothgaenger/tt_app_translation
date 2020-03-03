@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
         <source>app.metaDescriptionIndexPage</source>
-        <target state="translated">Transport Talent is the leading portal for transport, logistics and supply chain professionals. Make your next career move and sign up for free!</target>
+        <target state="translated">Matchico is the leading portal for transport, logistics and supply chain professionals. Make your next career move and sign up for free!</target>
       </trans-unit>
       <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>

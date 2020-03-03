@@ -9,9 +9,9 @@
         <source>app.referralJobUpdated.subject</source>
         <target state="translated">Henvisningsbonus for %jobAdTitle% updateret</target>
       </trans-unit>
-      <trans-unit id="app.referralJobUpdated" approved="yes">
+      <trans-unit id="app.referralJobUpdated" approved="no">
         <source>app.referralJobUpdated</source>
-        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Henvisningsbonusen fra din jobannonce %jobAdTitle% er blevet updateret. Henviseren vil nu modtage %referralReward% hvis du ansætter the henviste kandidat til denne stilling. Venligst kontakt os hvis du har nogen spørgsmål til denne process. &lt;br&gt;&lt;br&gt;Med Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent</target>
+        <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt; Henvisningsbonusen fra din jobannonce %jobAdTitle% er blevet updateret. Henviseren vil nu modtage %referralReward% hvis du ansætter the henviste kandidat til denne stilling. Venligst kontakt os hvis du har nogen spørgsmål til denne process. &lt;br&gt;&lt;br&gt;Med Venlig Hilsen,&lt;br&gt;&lt;br&gt;Matchico</target>
       </trans-unit>
     </body>
   </file>

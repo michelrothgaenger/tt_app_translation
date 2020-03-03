@@ -5,18 +5,18 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.missingFieldsEmail.firstPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.firstPart" approved="no">
         <source>app.missingFieldsEmail.firstPart</source>
-        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent quiere ofrecerte el mejor servicio para tu próximo salto profesional. Queremos asegurarnos de que solo te enviamos ofertas que te interesen. Para ello, nos guiamos por la información en tu perfil. Hemos observado que tu perfil no está del todo completo:&lt;br&gt;&lt;br&gt;</target>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Matchico quiere ofrecerte el mejor servicio para tu próximo salto profesional. Queremos asegurarnos de que solo te enviamos ofertas que te interesen. Para ello, nos guiamos por la información en tu perfil. Hemos observado que tu perfil no está del todo completo:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.secondPart" approved="no">
         <source>app.missingFieldsEmail.secondPart</source>
-        <target state="translated">&lt;br&gt;Haz clic &lt;a href="%profileUrl%"&gt;aquí&lt;/a&gt; para completar la información de tu perfil. Muchas gracias por tu tiempo.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Tu equipo de Transport Talent</target>
+        <target state="translated">&lt;br&gt;Haz clic &lt;a href="%profileUrl%"&gt;aquí&lt;/a&gt; para completar la información de tu perfil. Muchas gracias por tu tiempo.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;Tu equipo de Matchico</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.subject" approved="yes">
         <source>app.missingFieldsEmail.subject</source>
         <target state="translated">Ayúdanos a encontrar las vacantes que más te interesen</target>
-      </trans-unit>      
+      </trans-unit>
     </body>
   </file>
 </xliff>

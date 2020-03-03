@@ -9,9 +9,9 @@
         <source>app.inactivityEmail.subject</source>
         <target state="translated">Все еще заинтересованы в карьерных возможностях?</target>
       </trans-unit>
-      <trans-unit id="app.inactivityEmail" approved="yes">
+      <trans-unit id="app.inactivityEmail" approved="no">
         <source>app.inactivityEmail</source>
-        <target state="translated"><![CDATA[Здравствуйте %firstName%, <br> <br> Вы все еще ищете интересные позиции в индустрии транспорта и логистики? Мы заметили, что вы не пользовались/не заходили на Transport Talent какое-то время. Ниже мы собрали интересные объявления о работе для Вас: <br> <br>%renderedJobs% <br> <a href="%companiesUrl%">Посмотрите, кто еще нанимает сотрудников в настоящее время</a> <br> <a href="%blogUrl%">Ознакомьтесь с нашей последней статьей в блоге </a>. <br> <br> Оставайтесь с нами, следуя за нами на <a href="https://www.facebook.com/transportTALENT/">Facebook</a>, <a href="https://twitter.com/transportTALENT/">Twitter</a> или <a href="http://www.linkedin.com/company/10355313/">LinkedIn</a>. <br> <br > Пожалуйста, обращайтесь к нам, если у Вас есть какие-либо вопросы. Мы всегда рады помочь. <br> <br> С уважением, <br> <br> Ваша команда Transport Talent]]></target>
+        <target state="translated">Здравствуйте %firstName%, &lt;br&gt; &lt;br&gt; Вы все еще ищете интересные позиции в индустрии транспорта и логистики? Мы заметили, что вы не пользовались/не заходили на Matchico какое-то время. Ниже мы собрали интересные объявления о работе для Вас: &lt;br&gt; &lt;br&gt;%renderedJobs% &lt;br&gt; &lt;a href="%companiesUrl%"&gt;Посмотрите, кто еще нанимает сотрудников в настоящее время&lt;/a&gt; &lt;br&gt; &lt;a href="%blogUrl%"&gt;Ознакомьтесь с нашей последней статьей в блоге &lt;/a&gt;. &lt;br&gt; &lt;br&gt; Оставайтесь с нами, следуя за нами на &lt;a href="https://www.facebook.com/transportTALENT/"&gt;Facebook&lt;/a&gt;, &lt;a href="https://twitter.com/transportTALENT/"&gt;Twitter&lt;/a&gt; или &lt;a href="http://www.linkedin.com/company/10355313/"&gt;LinkedIn&lt;/a&gt;. &lt;br&gt; &lt;br &gt; Пожалуйста, обращайтесь к нам, если у Вас есть какие-либо вопросы. Мы всегда рады помочь. &lt;br&gt; &lt;br&gt; С уважением, &lt;br&gt; &lt;br&gt; Ваша команда Matchico</target>
       </trans-unit>
     </body>
   </file>

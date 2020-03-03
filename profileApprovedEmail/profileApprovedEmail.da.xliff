@@ -7,10 +7,12 @@
     <body>
       <trans-unit id="app.profileApprovedEmail.subject" approved="no">
         <source>app.profileApprovedEmail.subject</source>
-        <target state="translated">Din profil er blevet godkendt</target> </trans-unit>
+        <target state="translated">Din profil er blevet godkendt</target>
+      </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="no">
         <source>app.profileApprovedEmail.content</source>
-        <target>Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Din profil er nu blevet godkendt at %name%. Vi kontakter dig så snart vi har jobmuligheder der passer til dine ønsker. Hvis du har nogen spørgsmål til os så kan du kontakte %name% på %email%, .&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;Transport Talent teamet</target> </trans-unit>
+        <target state="translated">Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Din profil er nu blevet godkendt at %name%. Vi kontakter dig så snart vi har jobmuligheder der passer til dine ønsker. Hvis du har nogen spørgsmål til os så kan du kontakte %name% på %email%, .&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;Matchico teamet</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

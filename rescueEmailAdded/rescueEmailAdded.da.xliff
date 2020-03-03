@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.rescueEmailAdded.message" approved="yes">
+      <trans-unit id="app.rescueEmailAdded.message" approved="no">
         <source>app.rescueEmailAdded.message</source>
-        <target state="translated">&lt;h1&gt;Rescue email tilføjet&lt;/h1&gt; &lt;p&gt; Blot så du ved det er %email% blevet tilføjet til din konto som rescue email. Hvis det var dig der loggede på skal du bare ignorere denne meddelelse.&lt;/p&gt; &lt;br&gt; Venlig Hilsen &lt;br&gt; Transport Talent</target>
+        <target state="translated">&lt;h1&gt;Rescue email tilføjet&lt;/h1&gt; &lt;p&gt; Blot så du ved det er %email% blevet tilføjet til din konto som rescue email. Hvis det var dig der loggede på skal du bare ignorere denne meddelelse.&lt;/p&gt; &lt;br&gt; Venlig Hilsen &lt;br&gt; Matchico</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>

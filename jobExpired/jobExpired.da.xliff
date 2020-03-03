@@ -9,9 +9,9 @@
         <source>app.jobExpiredPageTitle</source>
         <target state="translated">Dette job er ikke længere aktuelt</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
         <source>app.metaDescriptionExpiredPage</source>
-        <target state="translated">Denne jobannonce er ikke længere aktiv. Gem jobannoncer til din Transport Talent profil for at få adgang til dem når som helst.</target>
+        <target state="translated">Denne jobannonce er ikke længere aktiv. Gem jobannoncer til din Matchico profil for at få adgang til dem når som helst.</target>
       </trans-unit>
       <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
@@ -29,7 +29,7 @@
         <source>app.browseRelatedJobs</source>
         <target state="translated">Søg på lignende jobs</target>
       </trans-unit>
-    <trans-unit id="app.linkToJobsTitle" approved="yes">
+      <trans-unit id="app.linkToJobsTitle" approved="yes">
         <source>app.linkToJobsTitle</source>
         <target state="translated">Se alle jobs</target>
       </trans-unit>

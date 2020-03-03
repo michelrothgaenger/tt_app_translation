@@ -338,11 +338,11 @@
         <target state="translated">Connect your friends to jobs, earn %reward% and recognition</target>
       </trans-unit>
       <trans-unit id="app.job.referral.explanationTitleAmbassador" approved="yes">
-         <source>app.job.referral.explanationTitleAmbassador</source>
-         <target state="translated">Connect your friends to jobs, earn %reward% + bonus %ambassador_bonus% and recognition</target>
+        <source>app.job.referral.explanationTitleAmbassador</source>
+        <target state="translated">Connect your friends to jobs, earn %reward% + bonus %ambassador_bonus% and recognition</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="yes">
-        <source>app.job.referral.explanation</source>
+      <trans-unit id="app.job.referral.explanation" approved="no">
+        <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Matchico Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Matchico Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
         <target state="translated">You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</target>
       </trans-unit>
       <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
@@ -400,107 +400,107 @@
       <trans-unit id="app.job.section.main.ShareJob" approved="yes">
         <source>app.job.section.main.ShareJob</source>
         <target state="translated">Share Job</target>
-       </trans-unit>
+      </trans-unit>
       <trans-unit id="app.job.section.main.uploadCV" approved="yes">
         <source>app.job.section.main.uploadCV</source>
         <target state="translated">Upload CV</target>
       </trans-unit>
-       <trans-unit id="app.section.main.JobApplyButtonTitle" approved="yes">
-          <source>app.section.main.JobApplyButtonTitle</source>
-          <target state="translated">Apply</target>
-       </trans-unit>
-       <trans-unit id="app.section.main.ShowLessTitle" approved="yes">
-          <source>app.section.main.ShowLessTitle</source>
-          <target state="translated">Show less</target>
-       </trans-unit>
-       <trans-unit id="app.section.main.ReferText" approved="yes">
-          <source>app.section.main.ReferText</source>
-          <target state="translated">Refer to a friend, or share this job on your social network and receive the referral reward if they get the job.</target>
-       </trans-unit>
-       <trans-unit id="app.job.referral.showLess" approved="yes">
-           <source>app.job.referral.showLess</source>
-           <target state="translated">Show less</target>
-       </trans-unit>
-       <trans-unit id="app.job.FollowCompany" approved="yes">
-           <source>app.job.FollowCompany</source>
-           <target state="translated">Follow company</target>
-       </trans-unit>
-       <trans-unit id="app.job.section.left.headlineFurtherJobs" approved="yes">
-           <source>app.job.section.left.headlineFurtherJobs</source>
-           <target state="translated">Further jobs from </target>
-       </trans-unit>
-       <trans-unit id="app.job.section.left.SeeAllJobsLink" approved="yes">
-          <source>app.job.section.left.SeeAllJobsLink</source>
-          <target state="translated">See all jobs</target>
-        </trans-unit>
-        <trans-unit id="app.job.button.saveToProfile" approved="yes">
-            <source>app.job.button.saveToProfile</source>
-            <target state="translated">Follow company</target>
-        </trans-unit>
-        <trans-unit id="app.job.button.savedToProfile" approved="yes">
-            <source>app.job.button.savedToProfile</source>
-            <target state="translated">Unfollow company</target>
-        </trans-unit>
-        <trans-unit id="app.job.twitter.statusText" approved="yes">
-          <source>app.job.twitter.statusText</source>
-          <target state="translated">Wanted: %title%! Find all details at Transport Talent: %jobUrl%</target>
-        </trans-unit>
-        <trans-unit id="app.job.twitter.hashTags" approved="yes">
-          <source>app.job.twitter.hashTags</source>
-          <target state="translated">#logistics #transport #supplychain #jobs #hiring #jobopening</target>
-        </trans-unit>
-        <trans-unit id="app.job.edit" approved="yes">
-          <source>app.job.edit</source>
-          <target state="translated">Edit</target>
-        </trans-unit>
-        <trans-unit id="app.job.apply.error.alreadyExist" approved="yes">
-          <source>app.job.apply.error.alreadyExist</source>
-          <target state="translated">You already have applied for this position.</target>
-        </trans-unit>
-        <trans-unit id="app.job.apply.defaultMessage" approved="yes">
-          <source>app.job.apply.defaultMessage</source>
-          <target state="translated">Uploaded by %recruiterFirstName% %recruiterLastName%</target>
-        </trans-unit>
-        <trans-unit id="app.job.apply.error.noPermission" approved="yes">
-            <source>app.job.apply.error.noPermission</source>
-            <target state="translated">You have no permission to access this link</target>
-        </trans-unit>
-        <trans-unit id="app.job.apply.error.SignInAndTryAgain" approved="yes">
-            <source>app.job.apply.error.SignInAndTryAgain</source>
-            <target state="translated">This link related to existing user in system. Please, sign in and try access by link again.</target>
-        </trans-unit>
-        <trans-unit id="app.job.apply.uploadCandidate.success" approved="yes">
-            <source>app.job.apply.uploadCandidate.success</source>
-            <target state="translated">You successfully submitted an application</target>
-        </trans-unit>
-        <trans-unit id="app.job.uploadCV.success.part1" approved="yes">
-            <source>app.job.uploadCV.success.part1</source>
-            <target state="translated">You successful submitted </target>
-        </trans-unit>
-        <trans-unit id="app.job.uploadCV.success.part2" approved="yes">
-            <source>app.job.uploadCV.success.part2</source>
-            <target state="translated"> - please check your inbox for further information.</target>
-        </trans-unit>
-        <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
-            <source>app.job.recruiterNotApprovedPopup.title</source>
-            <target>Hi</target>
-        </trans-unit>
-        <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
-            <source>app.job.recruiterNotApprovedPopup.info</source>
-            <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
-        </trans-unit>
-        <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
-            <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
-            <target>Dashboard</target>
-        </trans-unit>
-        <trans-unit id="app.job.replaceCompanyName" approved="no">
-          <source>app.job.replaceCompanyName</source>
-          <target>Transport Talent on behalf of a client</target>
-        </trans-unit>
-        <trans-unit id="app.job.blinding.title" approved="no">
-          <source>app.job.blinding.title</source>
-          <target>Blind job Posting</target>
-        </trans-unit>
+      <trans-unit id="app.section.main.JobApplyButtonTitle" approved="yes">
+        <source>app.section.main.JobApplyButtonTitle</source>
+        <target state="translated">Apply</target>
+      </trans-unit>
+      <trans-unit id="app.section.main.ShowLessTitle" approved="yes">
+        <source>app.section.main.ShowLessTitle</source>
+        <target state="translated">Show less</target>
+      </trans-unit>
+      <trans-unit id="app.section.main.ReferText" approved="yes">
+        <source>app.section.main.ReferText</source>
+        <target state="translated">Refer to a friend, or share this job on your social network and receive the referral reward if they get the job.</target>
+      </trans-unit>
+      <trans-unit id="app.job.referral.showLess" approved="yes">
+        <source>app.job.referral.showLess</source>
+        <target state="translated">Show less</target>
+      </trans-unit>
+      <trans-unit id="app.job.FollowCompany" approved="yes">
+        <source>app.job.FollowCompany</source>
+        <target state="translated">Follow company</target>
+      </trans-unit>
+      <trans-unit id="app.job.section.left.headlineFurtherJobs" approved="yes">
+        <source>app.job.section.left.headlineFurtherJobs</source>
+        <target state="translated">Further jobs from </target>
+      </trans-unit>
+      <trans-unit id="app.job.section.left.SeeAllJobsLink" approved="yes">
+        <source>app.job.section.left.SeeAllJobsLink</source>
+        <target state="translated">See all jobs</target>
+      </trans-unit>
+      <trans-unit id="app.job.button.saveToProfile" approved="yes">
+        <source>app.job.button.saveToProfile</source>
+        <target state="translated">Follow company</target>
+      </trans-unit>
+      <trans-unit id="app.job.button.savedToProfile" approved="yes">
+        <source>app.job.button.savedToProfile</source>
+        <target state="translated">Unfollow company</target>
+      </trans-unit>
+      <trans-unit id="app.job.twitter.statusText" approved="no">
+        <source>Wanted: %title%! Find all details at Matchico: %jobUrl%</source>
+        <target state="translated">Wanted: %title%! Find all details at Transport Talent: %jobUrl%</target>
+      </trans-unit>
+      <trans-unit id="app.job.twitter.hashTags" approved="yes">
+        <source>app.job.twitter.hashTags</source>
+        <target state="translated">#logistics #transport #supplychain #jobs #hiring #jobopening</target>
+      </trans-unit>
+      <trans-unit id="app.job.edit" approved="yes">
+        <source>app.job.edit</source>
+        <target state="translated">Edit</target>
+      </trans-unit>
+      <trans-unit id="app.job.apply.error.alreadyExist" approved="yes">
+        <source>app.job.apply.error.alreadyExist</source>
+        <target state="translated">You already have applied for this position.</target>
+      </trans-unit>
+      <trans-unit id="app.job.apply.defaultMessage" approved="yes">
+        <source>app.job.apply.defaultMessage</source>
+        <target state="translated">Uploaded by %recruiterFirstName% %recruiterLastName%</target>
+      </trans-unit>
+      <trans-unit id="app.job.apply.error.noPermission" approved="yes">
+        <source>app.job.apply.error.noPermission</source>
+        <target state="translated">You have no permission to access this link</target>
+      </trans-unit>
+      <trans-unit id="app.job.apply.error.SignInAndTryAgain" approved="yes">
+        <source>app.job.apply.error.SignInAndTryAgain</source>
+        <target state="translated">This link related to existing user in system. Please, sign in and try access by link again.</target>
+      </trans-unit>
+      <trans-unit id="app.job.apply.uploadCandidate.success" approved="yes">
+        <source>app.job.apply.uploadCandidate.success</source>
+        <target state="translated">You successfully submitted an application</target>
+      </trans-unit>
+      <trans-unit id="app.job.uploadCV.success.part1" approved="yes">
+        <source>app.job.uploadCV.success.part1</source>
+        <target state="translated">You successful submitted </target>
+      </trans-unit>
+      <trans-unit id="app.job.uploadCV.success.part2" approved="yes">
+        <source>app.job.uploadCV.success.part2</source>
+        <target state="translated"> - please check your inbox for further information.</target>
+      </trans-unit>
+      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
+        <source>app.job.recruiterNotApprovedPopup.title</source>
+        <target>Hi</target>
+      </trans-unit>
+      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
+        <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
+        <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
+      </trans-unit>
+      <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
+        <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
+        <target>Dashboard</target>
+      </trans-unit>
+      <trans-unit id="app.job.replaceCompanyName" approved="no">
+        <source>Matchico on behalf of a client</source>
+        <target>Transport Talent on behalf of a client</target>
+      </trans-unit>
+      <trans-unit id="app.job.blinding.title" approved="no">
+        <source>app.job.blinding.title</source>
+        <target>Blind job Posting</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

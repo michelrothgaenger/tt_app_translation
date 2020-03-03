@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
         <source>app.metaDescriptionIndexPage</source>
-        <target state="translated">Hãy để cập nhật mạng lưới của chúng tôi và Ngài hãy tìm thấy những công việc tốt nhất trong lĩnh vực kho vận thông qua Transport Talent</target>
+        <target state="translated">Hãy để cập nhật mạng lưới của chúng tôi và Ngài hãy tìm thấy những công việc tốt nhất trong lĩnh vực kho vận thông qua Matchico</target>
       </trans-unit>
       <trans-unit id="app.theFastestWayToFindNewJobIn" approved="yes">
         <source>app.theFastestWayToFindNewJobIn</source>

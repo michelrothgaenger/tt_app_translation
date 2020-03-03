@@ -15,11 +15,11 @@
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
         <source>app.registeredRecruiter.toRecruiter.content</source>
-        <target>Hej %FirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt;Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Genehmigung können Sie alle Personalberaterfunktionen auf der Transport Talent Plattform nutzen.</target>
+        <target state="translated">Hej %FirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt;Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Genehmigung können Sie alle Personalberaterfunktionen auf der Matchico Plattform nutzen.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
         <source>app.registeredRecruiter.toRecruiter.subject</source>
-        <target>Ihre Registrierung als Personalvermittler auf der Plattform muss von Transport Talent bestätigt werden.</target>
+        <target state="translated">Ihre Registrierung als Personalvermittler auf der Plattform muss von Matchico bestätigt werden.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="no">
         <source>app.confirmedRecruiter.toPartner.subject</source>
@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
         <source>app.confirmedRecruiter.toRecruiter.content</source>
-        <target>Sehr geehrter Benutzer, Ihr Registrierungsantrag wurde von %partnerFirstName% %partnerLastName% genehmigt. Sie können nun alle Personalberaterfunktionen der Transport Talent Plattform nutzen.</target>
+        <target state="translated">Sehr geehrter Benutzer, Ihr Registrierungsantrag wurde von %partnerFirstName% %partnerLastName% genehmigt. Sie können nun alle Personalberaterfunktionen der Matchico Plattform nutzen.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">
         <source>app.registeredRecruiter.toPartner.linkForApproving</source>

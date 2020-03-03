@@ -5,9 +5,9 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.rescueEmailAdded.message" approved="yes">
+      <trans-unit id="app.rescueEmailAdded.message" approved="no">
         <source>app.rescueEmailAdded.message</source>
-        <target state="translated">&lt;h1&gt;Zweite E-Mail hinzugefügt&lt;/h1&gt; &lt;p&gt;Sie haben erfolgreich %email% als zweite E-Mail-Adresse zu Ihrem Konto hinzugefügt. Sollten Sie dies gewesen sein, können Sie diese Nachricht ignorieren.&lt;/p&gt; &lt;br&gt; Viele Grüße&lt;br&gt; Ihr Transport Talent Team</target>
+        <target state="translated">&lt;h1&gt;Zweite E-Mail hinzugefügt&lt;/h1&gt; &lt;p&gt;Sie haben erfolgreich %email% als zweite E-Mail-Adresse zu Ihrem Konto hinzugefügt. Sollten Sie dies gewesen sein, können Sie diese Nachricht ignorieren.&lt;/p&gt; &lt;br&gt; Viele Grüße&lt;br&gt; Ihr Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>

@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.email.welcomeEmployer" resname="app.email.welcomeEmployer">
         <source>app.email.welcomeEmployer</source>
-        <target></target>
+        <target/>
       </trans-unit>
-    <trans-unit id="app.welcomeEmailSubjectEmployer" approved="yes">
+      <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
         <source>app.welcomeEmailSubjectEmployer</source>
-        <target>Chào mừng đến với Transport Talent!</target>
+        <target>Chào mừng đến với Matchico!</target>
       </trans-unit>
     </body>
   </file>

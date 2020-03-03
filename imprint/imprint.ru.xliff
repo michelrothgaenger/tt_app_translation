@@ -13,18 +13,18 @@
         <source>app.metaDescriptionImprintPage</source>
         <target state="translated">Вы ищете новую работу в отрасли логистики или хотите опубликовать объявление о работе? Свяжитесь с нами! Команда Транспортного Таланта в вашем распоряжении.</target>
       </trans-unit>
-      <trans-unit id="app.imprintHeadline" approved="yes">
+      <trans-unit id="app.imprintHeadline" approved="no">
         <source>app.imprintHeadline</source>
-        <target state="translated">Ответственный за интернет страницы Transport Talent Aps</target>
+        <target state="translated">Ответственный за интернет страницы Matchico Aps</target>
       </trans-unit>
-      <trans-unit id="app.imprintMsg" approved="yes">
+      <trans-unit id="app.imprintMsg" approved="no">
         <source>app.imprintMsg</source>
-        <target state="translated">&lt;b&gt;Имя и адрес&lt;/b&gt;&lt;br&gt;Transport Talent ApS&lt;br&gt;Islands Brygge 77D, 4 TH&lt;br&gt;DK-2300 Копенгаген&lt;br&gt;Дания&lt;br&gt;&lt;br&gt;&lt;b&gt;Управляющий директор&lt;/b&gt;&lt;br&gt;Ulrich Nissen&lt;br&gt;&lt;br&gt;&lt;b&gt;Ваше контактное лицо в Transport Talent&lt;/b&gt;&lt;br&gt;info@transporttalent.com&lt;br&gt;+49 40 53 799 1400&lt;br&gt;&lt;br&gt;&lt;b&gt;Идентификационный номер налога на добавленную стоимость&lt;/b&gt;&lt;br&gt;CVR: 37 39 50 48</target>
+        <target state="translated">&amp;lt;b&amp;gt;Имя и адрес&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;Staffhero GmbH &amp; Co. KG&amp;lt;br&amp;gt;Islands Brygge 77D, 4 TH&amp;lt;br&amp;gt;DK-2300 Копенгаген&amp;lt;br&amp;gt;Дания&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Управляющий директор&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;Michel Rothgaenger&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Ваше контактное лицо в Matchico&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;info@matchico.de&amp;lt;br&amp;gt;+49 40 53 799 1400&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;b&amp;gt;Идентификационный номер налога на добавленную стоимость&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;CVR: 37 39 50 48</target>
       </trans-unit>
-    <trans-unit id="app.imprint.meta.title" approved="yes">
+      <trans-unit id="app.imprint.meta.title" approved="yes">
         <source>app.imprint.meta.title</source>
         <target state="translated">Импринт</target>
       </trans-unit>
-      </body>
+    </body>
   </file>
 </xliff>

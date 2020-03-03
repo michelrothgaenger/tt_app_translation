@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.missingFieldsEmail.firstPart" approved="no">
         <source>app.missingFieldsEmail.firstPart</source>
-        <target state="translated">Hej %firstName%, &lt;br&gt;&lt;br&gt; Transport Talent möchte den besten Service für Ihren nächsten Karriereschritt bieten. Um sicherzustellen, dass wir Sie nur mit relevanten Angeboten ansprechen, sind wir stark auf Ihre Profilinformationen angewiesen. Wir haben festgestellt, dass Ihrem Profil folgende Angaben fehlen: &lt;br&gt;&lt;br&gt;br&gt;</target>
+        <target state="translated">Hej %firstName%, &lt;br&gt;&lt;br&gt; Matchico möchte den besten Service für Ihren nächsten Karriereschritt bieten. Um sicherzustellen, dass wir Sie nur mit relevanten Angeboten ansprechen, sind wir stark auf Ihre Profilinformationen angewiesen. Wir haben festgestellt, dass Ihrem Profil folgende Angaben fehlen: &lt;br&gt;&lt;br&gt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
+      <trans-unit id="app.missingFieldsEmail.secondPart" approved="no">
         <source>app.missingFieldsEmail.secondPart</source>
-        <target state="translated">&lt;br&gt;Klicken Sie &lt;a href="%profileUrl%"&gt;hier&lt;/a&gt; und vervollständigen Sie Ihre Informationen. Wir danke Ihnen, dass Sie sich die Zeit nehmen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
+        <target state="translated">&lt;br&gt;Klicken Sie &lt;a href="%profileUrl%"&gt;hier&lt;/a&gt; und vervollständigen Sie Ihre Informationen. Wir danke Ihnen, dass Sie sich die Zeit nehmen.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.subject" approved="yes">
         <source>app.missingFieldsEmail.subject</source>

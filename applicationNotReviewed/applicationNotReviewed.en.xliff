@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.applicationNotReviewed.content" approved="no">
         <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position: %jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;&lt;br&gt;Good luck with your application.&lt;br&gt;&lt;br&gt;Best Regards, &lt;br&gt;&lt;br&gt;Your Matchico Team</source>
-        <target state="translated">Dear %firstName%, &lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position: %jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;&lt;br&gt;Good luck with your application.&lt;br&gt;&lt;br&gt;Best Regards, &lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
+        <target state="translated">Dear %firstName%, &lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position: %jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;&lt;br&gt;Good luck with your application.&lt;br&gt;&lt;br&gt;Best Regards, &lt;br&gt;&lt;br&gt;Your Matchico Team</target>
       </trans-unit>
     </body>
   </file>

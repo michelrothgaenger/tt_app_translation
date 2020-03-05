@@ -194,7 +194,7 @@
         <target state="translated">Thank you for your application</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultContent.welcome" approved="no">
-        <source>Dear %userFirstName%, &lt;br&gt;&lt;br&gt;Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we're planning to hold an interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to schedule for an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent Team</source>
+        <source>Dear %userFirstName%, &lt;br&gt;&lt;br&gt;Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we're planning to hold an interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to schedule for an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Matchico Team</source>
         <target state="translated">Dear applicant, Thank you for your application. We would like to inform you that we have received your application. Our team is currently reviewing all applications and we plan to interview in the next two weeks. If you are a qualified candidate, you will receive a call/e-mail from one of our recruiters to arrange an interview. In any case, we will keep you informed of the status of your application. Thank you again for taking the time to apply for a job in our company.</target>
       </trans-unit>
       <trans-unit id="app.ats.email.defaultSubject.interview" approved="no">
@@ -309,7 +309,7 @@ Thank you for taking the time to meet with our team. It was a pleasure to learn 
       </trans-unit>
       <trans-unit id="app.ats.email.defaultFooter" approved="no">
         <source>Best Regards,&lt;br&gt; Your Matchico Team</source>
-        <target state="translated">Best Regards,&lt;br&gt; Your Transport Talent Team</target>
+        <target state="translated">Best Regards,&lt;br&gt; Your Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.ats.settings.main.interview.title" approved="yes">
         <source>app.ats.settings.main.interview.title</source>
@@ -401,7 +401,7 @@ Thank you for taking the time to meet with our team. It was a pleasure to learn 
       </trans-unit>
       <trans-unit id="app.coverCV.candidateContact">
         <source>Your contact at Matchico</source>
-        <target>Your contact at Transport Talent</target>
+        <target>Your contact at Matchico</target>
       </trans-unit>
       <trans-unit id="app.coverCV.footer" approved="yes">
         <source>app.coverCV.footer</source>

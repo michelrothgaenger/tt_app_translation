@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="no">
         <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
-        <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
+        <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
         <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
@@ -19,7 +19,7 @@
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
         <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
-        <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
+        <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</target>
       </trans-unit>
     </body>
   </file>

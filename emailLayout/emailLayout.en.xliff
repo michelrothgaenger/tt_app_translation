@@ -35,7 +35,7 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
         <source>Staffhero GmbH &amp; Co. KG</source>
-        <target>Transport Talent ApS</target>
+        <target>Matchico ApS</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.wantToUnsubscribe" approved="yes">
         <source>app.emailLayout.wantToUnsubscribe</source>
@@ -55,11 +55,11 @@
       </trans-unit>
       <trans-unit id="app.emailLayout.copyright.line2" approved="no">
         <source>Matchico is a registered brand name.</source>
-        <target state="translated">Transport Talent is a registered brand name.</target>
+        <target state="translated">Matchico is a registered brand name.</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
         <source>Your contact at Matchico:</source>
-        <target state="translated">Your contact at Transport Talent:</target>
+        <target state="translated">Your contact at Matchico:</target>
       </trans-unit>
       <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
         <source>app.emailLayout.defaultCompanyAddress</source>

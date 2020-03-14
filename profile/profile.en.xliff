@@ -846,7 +846,7 @@
         <target state="translated">Connected to LinkedIn?</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
-        <source>You've successfully connected your LinkedIn account with Matchico.</source>
+        <source>app.profile.profileVM.connectLinkedInToTT</source>
         <target state="translated">You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">

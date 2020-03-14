@@ -14,7 +14,7 @@
         <target state="translated">Change your login credentials and choose your language.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.tab.login.description" approved="no">
-        <source>To use an existing account for login, add one of your social media accounts and a recovery email in case you forget your login details for Matchico. All changes must be confirmed with your current password.</source>
+        <source>app.profile.settings.tab.login.description</source>
         <target state="translated">To use an existing account for login, add one of your social media accounts and a recovery email in case you forget your login details for Matchico. All changes must be confirmed with your current password.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.social-media.description" approved="yes">

@@ -310,7 +310,7 @@
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.congrats" approved="no">
-        <source>Congrats! You've successfully connected your LinkedIn account with Matchico.</source>
+        <source>app.userRegister.step5.congrats</source>
         <target state="translated">Congrats! You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">

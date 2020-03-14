@@ -946,7 +946,7 @@
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.applications.tile.description" approved="no">
-        <source>See all jobs which you have applied to within Matchico.</source>
+        <source>app.profile.dashboard.applications.tile.description</source>
         <target state="translated">See all jobs which you have applied to within Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
@@ -954,7 +954,7 @@
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.applications.description" approved="no">
-        <source>Below is the list of all jobs you have applied to on Matchico. Please note that this list only includes jobs that use the Matchico application form. Job postings for which you are redirected to another company's website are not tracked by Matchico and will not show in your list of applied jobs.</source>
+        <source>app.profile.saved.applications.description</source>
         <target state="translated">Below is the list of all jobs you have applied to on Matchico. Please note that this list only includes jobs that use the Matchico application form. Job postings for which you are redirected to another company's website are not tracked by Matchico and will not show in your list of applied jobs.</target>
       </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">

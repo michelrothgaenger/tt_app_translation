@@ -822,7 +822,7 @@
         <target state="translated">Profile</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.profileHeaderText" approved="no">
-        <source>You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@matchico.de and we will take care.</source>
+        <source>app.profile.profileVM.profileHeaderText</source>
         <target state="translated">You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@matchico.de and we will take care.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.summaryHeader" approved="yes">

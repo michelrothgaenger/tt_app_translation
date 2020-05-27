@@ -42,8 +42,8 @@
         <target state="translated">Một email đã được gửi đến %email%. Để hoàn tất việc đăng nhập, xin vui lòng tải lên vào liên kết xác nhận trong email.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
-        <source>registration.emailemp.subject</source>
-        <target state="translated">Cảm ơn đã đăng nhập vào Matchico!</target>
+        <source>Thank you for signing up with Matchico!</source>
+        <target state="translated">Cảm ơn đã đăng nhập vào Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>

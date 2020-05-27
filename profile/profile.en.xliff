@@ -14,7 +14,7 @@
         <target state="translated">Change your login credentials and choose your language.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.tab.login.description" approved="no">
-        <source>app.profile.settings.tab.login.description</source>
+        <source>To use an existing account for login, add one of your social media accounts and a recovery email in case you forget your login details for Transport Talent. All changes must be confirmed with your current password.</source>
         <target state="translated">To use an existing account for login, add one of your social media accounts and a recovery email in case you forget your login details for Matchico. All changes must be confirmed with your current password.</target>
       </trans-unit>
       <trans-unit id="app.profile.settings.social-media.description" approved="yes">
@@ -102,7 +102,7 @@
         <target state="translated">Login</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="no">
-        <source>Your contact at Matchico</source>
+        <source>Your contact at Transport Talent</source>
         <target state="translated">Your contact at Matchico</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="yes">
@@ -506,11 +506,11 @@
         <target state="translated">Failed to resize image</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.companies.description" approved="no">
-        <source>Matchico allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</source>
+        <source>Transport Talent allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</source>
         <target state="translated">Matchico allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.jobs.description" approved="no">
-        <source>Manage your job hunt with Matchico – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</source>
+        <source>Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</source>
         <target state="translated">Manage your job hunt with Matchico – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</target>
       </trans-unit>
       <trans-unit id="app.profile.referrals.sectionTitle" approved="yes">
@@ -702,7 +702,7 @@
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.congrats" approved="no">
-        <source>Congrats! You've successfully connected your LinkedIn account with Matchico.</source>
+        <source>Congrats! You've successfully connected your LinkedIn account with Transport Talent.</source>
         <target state="translated">Congrats! You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
@@ -822,7 +822,7 @@
         <target state="translated">Profile</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.profileHeaderText" approved="no">
-        <source>app.profile.profileVM.profileHeaderText</source>
+        <source>You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@transporttalent.de and we will take care.</source>
         <target state="translated">You can edit your details be simply clicking the EDIT button down below. If you want to delete your profile please send an email to profiles@matchico.de and we will take care.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.summaryHeader" approved="yes">
@@ -846,7 +846,7 @@
         <target state="translated">Connected to LinkedIn?</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.connectLinkedInToTT" approved="no">
-        <source>app.profile.profileVM.connectLinkedInToTT</source>
+        <source>You've successfully connected your LinkedIn account with Transport Talent.</source>
         <target state="translated">You've successfully connected your LinkedIn account with Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.profileVM.successCv" approved="yes">
@@ -946,7 +946,7 @@
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.applications.tile.description" approved="no">
-        <source>app.profile.dashboard.applications.tile.description</source>
+        <source>See all jobs which you have applied to within Transport Talent.</source>
         <target state="translated">See all jobs which you have applied to within Matchico.</target>
       </trans-unit>
       <trans-unit id="app.profile.savedApplicationsCta" approved="yes">
@@ -954,7 +954,7 @@
         <target state="translated">APPLICATIONS</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.applications.description" approved="no">
-        <source>app.profile.saved.applications.description</source>
+        <source>Below is the list of all jobs you have applied to on Transport Talent. Please note that this list only includes jobs that use the Transport Talent application form. Job postings for which you are redirected to another company's website are not tracked by Transport Talent and will not show in your list of applied jobs.</source>
         <target state="translated">Below is the list of all jobs you have applied to on Matchico. Please note that this list only includes jobs that use the Matchico application form. Job postings for which you are redirected to another company's website are not tracked by Matchico and will not show in your list of applied jobs.</target>
       </trans-unit>
       <trans-unit id="app.profile.searchForNewApplications" approved="yes">
@@ -1170,15 +1170,15 @@
         <target>Welcome%firstName%,</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="no">
-        <source>Thank you for visiting Matchico. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
         <target>Thank you for visiting Matchico. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="no">
-        <source>Thank you for visiting Matchico. Let us reward you for your references to us. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Let us reward you for your references to us. Kindly contact us!</source>
         <target>Thank you for visiting Matchico. Let us reward you for your references to us. Kindly contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="no">
-        <source>Thank you for visiting Matchico. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
+        <source>Thank you for visiting Transport Talent. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
         <target>Thank you for visiting Matchico. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="no">

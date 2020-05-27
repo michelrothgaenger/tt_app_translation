@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="app.rescueEmailAdded.message" approved="no">
-        <source>app.rescueEmailAdded.message</source>
-        <target state="translated">&lt;h1&gt;Correo de rescate de cuenta&lt;/h1&gt;&lt;p&gt;Te informamos de que %email% se ha agregado a tu cuenta como correo electrónico de rescate. Si estás de acuerdo, puedes ignorar este mensaje.&lt;/ P&gt;&lt;br&gt;Saludos,&lt;br&gt;Tu equipo de Matchico</target>
+        <source>&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best Regards,&lt;br&gt; Your Matchico team</source>
+        <target state="translated">&lt;h1&gt;Correo de rescate de cuenta&lt;/h1&gt;&lt;p&gt;Te informamos de que %email% se ha agregado a tu cuenta como correo electrónico de rescate. Si estás de acuerdo, puedes ignorar este mensaje.&lt;/ P&gt;&lt;br&gt;Saludos,&lt;br&gt;Tu equipo de Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">
         <source>app.rescueEmailAdded.subject</source>

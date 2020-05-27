@@ -134,7 +134,7 @@
         <target>Hi</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
-        <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
+        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
         <target>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
@@ -142,7 +142,7 @@
         <target>Dashboard</target>
       </trans-unit>
       <trans-unit id="app.jobs.replaceCompanyName" approved="no">
-        <source>Matchico on behalf of a client</source>
+        <source>Transport Talent on behalf of a client</source>
         <target>Matchico on behalf of a client</target>
       </trans-unit>
       <trans-unit id="app.jobs.blinding.title" approved="no">

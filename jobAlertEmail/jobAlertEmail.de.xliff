@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
-        <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Suchagenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Matchico Team</target>
+        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <target state="translated">&lt;br&gt;Zum Bearbeiten der Einstellungen Ihres Suchagenten klicken Sie &lt;a href="%jobAlertsUrl%"&gt;hier&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt;Ihr Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
@@ -58,8 +58,8 @@
         <target state="translated">Ihr Suchagent wurde deaktiviert</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">Neue Stellen auf Matchico</target>
+        <source>New jobs on Matchico</source>
+        <target state="translated">Neue Stellen auf Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
@@ -90,8 +90,8 @@
         <target> %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.part2</source>
-        <target>Sind Sie noch auf der Suche nach interessanten Positionen aus der Transport- und Logistikbranche? Wir haben festgestellt, dass Sie sich schon seit einiger Zeit nicht mehr bei Matchico angemeldet haben. Nachfolgend haben wir einige interessante Stellenangebote für Sie zusammengestellt:</target>
+        <source>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Matchico for some time. Below we have collected some interesting job ads for you:</source>
+        <target state="translated">Sind Sie noch auf der Suche nach interessanten Positionen aus der Transport- und Logistikbranche? Wir haben festgestellt, dass Sie sich schon seit einiger Zeit nicht mehr bei Transport Talent angemeldet haben. Nachfolgend haben wir einige interessante Stellenangebote für Sie zusammengestellt:</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
         <source>app.jobAlertEmail.jobAlertJobs.part3</source>

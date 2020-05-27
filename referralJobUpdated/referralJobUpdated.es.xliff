@@ -10,8 +10,8 @@
         <target state="translated">Recompensa para %jobAdTitle% actualizada</target>
       </trans-unit>
       <trans-unit id="app.referralJobUpdated" approved="no">
-        <source>app.referralJobUpdated</source>
-        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt; El importe de la recompensa para la oferta de la empresa: %company% ha sido actualizado. El recomendador recibe una gratificación de %referralReward% únicamente en el caso de que su recomendación lleve a la firma de un contrato de trabajo por tu parte. Si tiene dudas con respecto a nuestro sistema de bonificaciones, no dudes en consultarnos.&lt;br&gt;&lt;br&gt;Saludos cordiales,&lt;br&gt;&lt;br&gt;Tu equipo de Matchico</target>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;The referral reward for your job ad %jobAdTitle% has been updated. The referrer will now receive %referralReward% if you hire a referred candidate for this position. Please do not hesitate to contact us should you have any questions regarding this process.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt; El importe de la recompensa para la oferta de la empresa: %company% ha sido actualizado. El recomendador recibe una gratificación de %referralReward% únicamente en el caso de que su recomendación lleve a la firma de un contrato de trabajo por tu parte. Si tiene dudas con respecto a nuestro sistema de bonificaciones, no dudes en consultarnos.&lt;br&gt;&lt;br&gt;Saludos cordiales,&lt;br&gt;&lt;br&gt;Tu equipo de Transport Talent</target>
       </trans-unit>
     </body>
   </file>

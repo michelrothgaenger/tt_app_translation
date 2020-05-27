@@ -6,8 +6,8 @@
     </header>
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
-        <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
-        <target state="translated">&lt;br&gt;Si deseas cambiar la configuración de tu alerta de empleo, puedes hacerlo entrando en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos&lt;br&gt;&lt;br&gt;El equipo de Matchico</target>
+        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <target state="translated">&lt;br&gt;Si deseas cambiar la configuración de tu alerta de empleo, puedes hacerlo entrando en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Saludos&lt;br&gt;&lt;br&gt;El equipo de Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
@@ -50,20 +50,20 @@
         <target state="translated">Tu alerta de trabajo está activa</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
-        <source>app.jobAlertEmail.jobAlertDeleted</source>
-        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Tu alerta de empleo "%title%" ha sido desactivada. Esperamos que hayas tenido éxito con tu búsqueda. Te recordamos que siempre podrás configurar nuevas alertas en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;. Ayúdanos a mejorar: háznoslo saber, si crees que podemos mejorar nuestro servicio.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;El equipo de Matchico</target>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Tu alerta de empleo "%title%" ha sido desactivada. Esperamos que hayas tenido éxito con tu búsqueda. Te recordamos que siempre podrás configurar nuevas alertas en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;. Ayúdanos a mejorar: háznoslo saber, si crees que podemos mejorar nuestro servicio.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;El equipo de Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
         <source>app.jobAlertEmail.jobAlertDeleted.subject</source>
         <target state="translated">Tu agente de búsqueda ha sido desactivado</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">Nuevas vacantes en Matchico</target>
+        <source>New jobs on Matchico</source>
+        <target state="translated">Nuevas vacantes en Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.emailIntro</source>
-        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Aquí está la lista de las vacantes en Matchico que mejor se ajustan a tu alerta de trabajo "%jobAlertTitle%". Puedes modificar tus alertas de trabajo entrando en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;. Ayúdanos a mejorar: háznoslo saber, si crees que podemos mejorar nuestro servicio.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;El equipo de Matchico&lt;br&gt;&lt;br&gt;</target>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Matchico based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico&lt;br&gt;&lt;br&gt;</source>
+        <target state="translated">Hola %firstName%,&lt;br&gt;&lt;br&gt;Aquí está la lista de las vacantes en Transport Talent que mejor se ajustan a tu alerta de trabajo "%jobAlertTitle%". Puedes modificar tus alertas de trabajo entrando en tu &lt;a href="%jobAlertsUrl%"&gt;perfil&lt;/a&gt;. Ayúdanos a mejorar: háznoslo saber, si crees que podemos mejorar nuestro servicio.&lt;br&gt;&lt;br&gt;Saludos,&lt;br&gt;&lt;br&gt;El equipo de Transport Talent&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>

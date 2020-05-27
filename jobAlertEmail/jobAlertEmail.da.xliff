@@ -54,8 +54,8 @@
         <target state="translated">Din jobagent er blevet de-aktiveret</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.subject</source>
-        <target state="translated">Nye jobs på Matchico</target>
+        <source>New jobs on Matchico</source>
+        <target state="translated">Nye jobs på Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
         <source>app.jobAlertEmail.referralJobs</source>
@@ -82,8 +82,8 @@
         <target state="translated">%firstname%,</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
-        <source>app.jobAlertEmail.jobAlertJobs.part2</source>
-        <target>Er du stadig på udkig efter spændende stillinger indenfor transport og logistik? Vi har bemærket at du ikke har brugt Matchico i noget tid. Vi har samlet nogle potentielle jobmuligheder til dig nedenfor:</target>
+        <source>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Matchico for some time. Below we have collected some interesting job ads for you:</source>
+        <target>Er du stadig på udkig efter spændende stillinger indenfor transport og logistik? Vi har bemærket at du ikke har brugt Transport Talent i noget tid. Vi har samlet nogle potentielle jobmuligheder til dig nedenfor:</target>
       </trans-unit>
     </body>
   </file>

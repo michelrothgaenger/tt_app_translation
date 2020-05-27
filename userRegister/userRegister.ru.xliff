@@ -42,12 +42,12 @@
         <target state="translated">Письмо было послано по адресу электронной почты %email%. Оно содержит ссылку, на которую Вам нужно нажать, чтобы активировать аккаунт.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
-        <source>registration.emailemp.subject</source>
-        <target state="translated">Спасибо за регистрацию на Matchico!</target>
+        <source>Thank you for signing up with Matchico!</source>
+        <target state="translated">Спасибо за регистрацию на Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="no">
-        <source>registration.email.subject</source>
-        <target state="translated">Добро пожаловать на Matchico!</target>
+        <source>Welcome to Matchico!</source>
+        <target state="translated">Добро пожаловать на Transport Talent!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
@@ -214,8 +214,8 @@
         <target state="translated">Шаг 1/4: Краткое резюме</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortCV" approved="no">
-        <source>app.userRegister.step4.shortCV</source>
-        <target state="translated">Хотите быть нанятым и получить максимум от Matchico? Обязательно заполните последнюю часть своего профиля.</target>
+        <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
+        <target state="translated">Хотите быть нанятым и получить максимум от Transport Talent? Обязательно заполните последнюю часть своего профиля.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
         <source>app.userRegister.step4.shortSummary</source>
@@ -267,7 +267,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">Поздравляем! Вы успешно подключили свою учетную запись LinkedIn к Matchico.</target>
+        <target state="translated">Поздравляем! Вы успешно подключили свою учетную запись LinkedIn к Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>

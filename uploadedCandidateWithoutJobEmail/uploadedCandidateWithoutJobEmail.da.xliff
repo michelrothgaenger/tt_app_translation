@@ -10,8 +10,8 @@
         <target>Kandidat er blevet indsendt</target>
       </trans-unit>
       <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
-        <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
-        <target state="translated">Kære, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; du har netop indsendt %candidateFirstName% %candidateLastName%. Grundet GDPR regner har vi sendt en email til kandidaten og har bedt dem om at bekræfte.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Matchico team</target>
+        <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; You just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and requested for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;YourMatchico Team</source>
+        <target state="translated">Kære, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; du har netop indsendt %candidateFirstName% %candidateLastName%. Grundet GDPR regner har vi sendt en email til kandidaten og har bedt dem om at bekræfte.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent team</target>
       </trans-unit>
       <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
         <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>

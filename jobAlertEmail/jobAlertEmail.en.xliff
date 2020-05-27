@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="no">
-        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="no">
@@ -50,7 +50,7 @@
         <target state="translated">Your job alert is active</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="no">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
@@ -58,11 +58,11 @@
         <target state="translated">Your job alert has been deactivated</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="no">
-        <source>New jobs on Matchico</source>
+        <source>New jobs on Transport Talent</source>
         <target state="translated">New jobs on Matchico</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="no">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Matchico based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico&lt;br&gt;&lt;br&gt;</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent&lt;br&gt;&lt;br&gt;</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Matchico based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.referralJobs" approved="yes">
@@ -90,11 +90,11 @@
         <target> %firstname%,</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="no">
-        <source>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Matchico for some time. Below we have collected some interesting job ads for you:</source>
+        <source>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Transport Talent for some time. Below we have collected some interesting job ads for you:</source>
         <target>Are you still looking for interesting positions from the Transport and Logistics industry? We noticed that you haven’t used/logged in to Matchico for some time. Below we have collected some interesting job ads for you:</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="no">
-        <source>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
+        <source>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
         <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</target>
       </trans-unit>
     </body>

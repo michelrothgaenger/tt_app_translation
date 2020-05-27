@@ -14,20 +14,20 @@
         <target/>
       </trans-unit>
       <trans-unit id="app.transportTalentCandidateTermsAndConditions" approved="no">
-        <source>app.transportTalentCandidateTermsAndConditions</source>
-        <target state="translated">Условия и положения кандидата Matchico</target>
+        <source>Matchico Candidate Terms and Conditions</source>
+        <target state="translated">Условия и положения кандидата Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.pleaseReadThisAgreementCarefully" approved="no">
-        <source>app.pleaseReadThisAgreementCarefully</source>
-        <target state="translated">Пожалуйста, внимательно прочитайте этот договор. Он устанавливает условия, по которым Staffhero GmbH &amp; Co. KG предлагает Вам использовать его услуги, указанные в пункте 1.1 этого договора посредством TransportTalent (Веб-сайт). Пользуясь любыми услугами и/ или сайтом Вы соглашаетесь с тем, что прочитали и приняли эти условия и положения и что Вы должны им следовать. Если Вы не хотите быть ими связаны, пожалуйста, не регистрируйтесь или не пользуйтесь данным Веб-сайтом.</target>
+        <source>Please read this agreement carefully. It sets out the terms under which Staffhero GmbH &amp; Co. KG offers you use of its services as defined in clause 1.1 of this agreement by means of Matchico (The "website"). By using any of the services and/or the website you agree that you have read and accepted these terms and conditions and that you should apply these to your use. If you do not wish to be bound by them, please do not register or use this website.</source>
+        <target state="translated">Пожалуйста, внимательно прочитайте этот договор. Он устанавливает условия, по которым Transport Talent предлагает Вам использовать его услуги, указанные в пункте 1.1 этого договора посредством TransportTalent (Веб-сайт). Пользуясь любыми услугами и/ или сайтом Вы соглашаетесь с тем, что прочитали и приняли эти условия и положения и что Вы должны им следовать. Если Вы не хотите быть ими связаны, пожалуйста, не регистрируйтесь или не пользуйтесь данным Веб-сайтом.</target>
       </trans-unit>
       <trans-unit id="app.thisAgreementIsMadeBetween" approved="no">
-        <source>app.thisAgreementIsMadeBetween</source>
-        <target state="translated">Этот договор заключен между Вами и Staffhero GmbH &amp; Co. KG, зарегистрированный офис которого находится по адресу</target>
+        <source>This Agreement is made between you and Staffhero GmbH &amp; Co. KG whose registered office is</source>
+        <target state="translated">Этот договор заключен между Вами и Transport Talent, зарегистрированный офис которого находится по адресу</target>
       </trans-unit>
       <trans-unit id="app.termsPageAddress" approved="no">
-        <source>app.termsPageAddress</source>
-        <target state="translated">Matchico, Islands Brygge 77D, 4 TH, Copenhagen DK-2300, Denmark</target>
+        <source>Matchico, Rikkeshave 18, DK-5250 Odense, Denmark</source>
+        <target state="translated">Transport Talent, Samsøvej 31, DK-8382 Hinnerup, Denmark</target>
       </trans-unit>
       <trans-unit id="app.theServices" approved="no">
         <source>app.theServices</source>
@@ -198,12 +198,12 @@
         <target>This Agreement shall be governed by the laws of Denmark and you hereby submit to the exclusive jurisdiction of the Danish courts.</target>
       </trans-unit>
       <trans-unit id="app.contactTransportTalent" approved="no">
-        <source>app.contactTransportTalent</source>
-        <target>Contact TransportTalent</target>
+        <source>Contact Matchico</source>
+        <target>Contact Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="no">
-        <source>app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent</source>
-        <target>If you have any questions, concerns or comments regarding TransportTalent or this website, please contact us:</target>
+        <source>If you have any questions, concerns or comments regarding Matchico or this website, please contact us:</source>
+        <target>If you have any questions, concerns or comments regarding Transport Talent or this website, please contact us:</target>
       </trans-unit>
       <trans-unit id="app.email" approved="yes">
         <source>app.email</source>

@@ -134,16 +134,16 @@
         <target>Hej</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
-        <source>app.jobs.recruiterNotApprovedPopup.info</source>
-        <target state="translated">din profiloprettelse er indsendt til godkendelse. Når vi har godkendt den vil du have fuld adgang til at benytte alle funktioner på Matchico platformen.</target>
+        <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
+        <target state="translated">din profiloprettelse er indsendt til godkendelse. Når vi har godkendt den vil du have fuld adgang til at benytte alle funktioner på Transport Talent platformen.</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
         <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
       <trans-unit id="app.jobs.replaceCompanyName" approved="no">
-        <source>app.jobs.replaceCompanyName</source>
-        <target state="translated">Matchico på vegne af kunde</target>
+        <source>Matchico on behalf of a client</source>
+        <target state="translated">Transport Talent på vegne af kunde</target>
       </trans-unit>
       <trans-unit id="app.jobs.blinding.title" approved="no">
         <source>app.jobs.blinding.title</source>

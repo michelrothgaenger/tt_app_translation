@@ -10,8 +10,8 @@
         <target state="translated">Ihr Profil wurde bestätigt</target>
       </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="no">
-        <source>app.profileApprovedEmail.content</source>
-        <target state="translated">Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Ihr Profil wurde von %name% bestätigt. Sobald wir interessante Angebote für Sie haben, kommen wir wieder auf Sie zu. Bei Fragen erreichen Sie %name% per E-Mail unter %email%.&lt;br&gt;&lt;br&gt;Mit besten Grüßen&lt;br&gt;Ihr Team von Matchico</target>
+        <source>Dear %userFirstName%,&lt;br&gt;&lt;br&gt; Great to have you on board! Your profile on Matchico has been approved by %name%. To receive job offers that match your profile, please ensure that you have a well detailed profile. Our Team is enthusiastic about making your job search as swift and effortless as possible. Should you have any questions, please do not hesitate to get in touch with %name% at %email%.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Matchico Team</source>
+        <target state="translated">Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Ihr Profil wurde von %name% bestätigt. Sobald wir interessante Angebote für Sie haben, kommen wir wieder auf Sie zu. Bei Fragen erreichen Sie %name% per E-Mail unter %email%.&lt;br&gt;&lt;br&gt;Mit besten Grüßen&lt;br&gt;Ihr Team von Transport Talent</target>
       </trans-unit>
     </body>
   </file>

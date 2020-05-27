@@ -14,12 +14,12 @@
         <target state="translated">für den Bereich %category%</target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
-        <source>app.invitationEmailForExistingUser.secondPart</source>
-        <target state="translated">bei %company% hinzugefügt. Sie können jetzt alle Stellenausschreibungen für Ihre Abteilung (%category% bei %company%) über das Dashboard verwalten. &lt;br&gt;&lt;br&gt; %linkToDashboard% &lt;br&gt;&lt;br&gt; Bei Fragen zu diesem Prozess stehen wir Ihnen gernen zur Verfügung. Antworten Sie dazu einfach auf diese E-Mail. &lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; Ihr Team von Matchico</target>
+        <source>at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Matchico Team</source>
+        <target state="translated">bei %company% hinzugefügt. Sie können jetzt alle Stellenausschreibungen für Ihre Abteilung (%category% bei %company%) über das Dashboard verwalten. &lt;br&gt;&lt;br&gt; %linkToDashboard% &lt;br&gt;&lt;br&gt; Bei Fragen zu diesem Prozess stehen wir Ihnen gernen zur Verfügung. Antworten Sie dazu einfach auf diese E-Mail. &lt;br&gt;&lt;br&gt; Mit freundlichen Grüßen &lt;br&gt; Ihr Team von Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.invitationEmailForExistingUser.subject" approved="no">
-        <source>app.invitationEmailForExistingUser.subject</source>
-        <target state="translated">Sie können jetzt Stellen für %company% bei Matchico verwalten</target>
+        <source>You can now manage jobs for %company% on Matchico</source>
+        <target state="translated">Sie können jetzt Stellen für %company% bei Transport Talent verwalten</target>
       </trans-unit>
     </body>
   </file>

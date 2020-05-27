@@ -42,12 +42,12 @@
         <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="no">
-        <source>registration.emailemp.subject</source>
-        <target state="translated">Vielen Dank für die Anmeldung bei Matchico!</target>
+        <source>Thank you for signing up with Matchico!</source>
+        <target state="translated">Vielen Dank für die Anmeldung bei Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="no">
-        <source>registration.email.subject</source>
-        <target state="translated">Willkommen bei Matchico!</target>
+        <source>Welcome to Matchico!</source>
+        <target state="translated">Willkommen bei Transport Talent!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
@@ -147,7 +147,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.popup.login" approved="no">
         <source>app.userRegister.popup.login</source>
-        <target state="translated">Sie haben bereits ein Konto bei Matchico? Klicken Sie hier, um sich einzuloggen.</target>
+        <target state="translated">Sie haben bereits ein Konto bei Transport Talent? Klicken Sie hier, um sich einzuloggen.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.popup.loginToBook" approved="yes">
         <source>app.userRegister.popup.loginToBook</source>
@@ -218,8 +218,8 @@
         <target state="translated">Schritt 1/4: Zusammenfassung</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortCV" approved="no">
-        <source>app.userRegister.step4.shortCV</source>
-        <target state="translated">Sie möchten von Matchico mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
+        <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
+        <target state="translated">Sie möchten von Transport Talent mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
         <source>app.userRegister.step4.shortSummary</source>
@@ -263,7 +263,7 @@
       </trans-unit>
       <trans-unit id="app.userRegister.step5.congrats" approved="no">
         <source>app.userRegister.step5.congrats</source>
-        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Matchico verbunden.</target>
+        <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step5.CvHeader" approved="yes">
         <source>app.userRegister.step5.CvHeader</source>
@@ -582,8 +582,8 @@
         <target state="translated"> %firstname%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="no">
-        <source>registration.email.message.part2</source>
-        <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf matchico.de - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
+        <source>&lt;br&gt; &lt;br&gt; thank you for registering on Matchico — to confirm your registration please push the button below to finish your registration and start browsing jobs.</source>
+        <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf transporttalent.com - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="no">
         <source>registration.email.message.confirm</source>

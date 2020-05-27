@@ -34,7 +34,7 @@
         <target>Your profile has been deleted</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="no">
-        <source>Your account has been deleted. If you want to join, register any time.&lt;br&gt; &lt;a href="%linkToTT%"&gt;Matchico website&lt;/a&gt;</source>
+        <source>Your account has been deleted. If you want to join, register any time.&lt;br&gt; &lt;a href="%linkToTT%"&gt;Transport Talent website&lt;/a&gt;</source>
         <target>Your account has been deleted. If you want to join, register any time.&lt;br&gt; &lt;a href="%linkToTT%"&gt;TransportTalent website&lt;/a&gt;</target>
       </trans-unit>
     </body>

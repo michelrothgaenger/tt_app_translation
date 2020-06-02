@@ -7,11 +7,11 @@
     <body>
       <trans-unit id="app.registeredTitle" approved="no">
         <source>Welcome to Transport Talent</source>
-        <target state="translated">Welcome to Matchico</target>
+        <target state="translated">Welcome to Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.registeredMsg" approved="no">
         <source>Dear %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gtThank you for registering on Transport Talent. We will contact you shortly.&amp;lt;br&amp;gt;br&amp;gt;Best Regards,&amp;lt;br&amp;gt;br&amp;gt;Your Transport Talent Team</source>
-        <target state="translated">Dear %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gtThank you for registering on Matchico. We will contact you shortly.&amp;lt;br&amp;gt;br&amp;gt;Best Regards,&amp;lt;br&amp;gt;br&amp;gt;Your Matchico Team</target>
+        <target state="translated">Dear %firstName%,&amp;lt;br&amp;gt;&amp;lt;br&amp;gtThank you for registering on Transport Talent. We will contact you shortly.&amp;lt;br&amp;gt;br&amp;gt;Best Regards,&amp;lt;br&amp;gt;br&amp;gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

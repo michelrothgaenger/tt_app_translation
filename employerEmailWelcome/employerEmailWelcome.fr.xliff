@@ -6,11 +6,11 @@
     </header>
     <body>
       <trans-unit id="app.email.welcomeEmployer" approved="no">
-        <source>Hej %firstName%, &lt;br&gt; &lt;br&gt; thank you for registering with Matchico. From now on, you will benefit from our network of selected specialists. We will also be happy to talk to you in person to discuss further steps. Simply select a suitable date under the following link: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;In the meantime, if you have any questions about any of our services, simply reply to this e-mail. We will get back to you as soon as possible. &lt;br&gt; &lt;br&gt; Best regards, &lt;br&gt;Michel Rothgaenger&lt;br&gt; Chief Operating Officer&lt;br&gt; Matchico&lt;br&gt; &lt;br&gt; &lt;font color="#ffff00"&gt;Matchico&lt;font color="#ffff00"&gt;</source>
+        <source>Hej %firstName%, &lt;br&gt; &lt;br&gt; thank you for registering with Transport Talent. From now on, you will benefit from our network of selected specialists. We will also be happy to talk to you in person to discuss further steps. Simply select a suitable date under the following link: https://calendly.com/michel-rothgaenger. &lt;br&gt; &lt;br&gt;In the meantime, if you have any questions about any of our services, simply reply to this e-mail. We will get back to you as soon as possible. &lt;br&gt; &lt;br&gt; Best regards, &lt;br&gt;Michel Rothgaenger&lt;br&gt; Chief Operating Officer&lt;br&gt; Transport Talent&lt;br&gt; &lt;br&gt; &lt;font color="#ffff00"&gt;Transport Talent&lt;font color="#ffff00"&gt;</source>
         <target state="translated">Bonjour %firstname%,&lt;br&gt; &lt;br&gt; Merci d'avoir créer votre compte entreprise sur transporttalent.com. Un membre de notre équipe vous contactera dans les prochains jours afin de vous aidez à faire vos premiers pas sur le site. &lt;br&gt; &lt;br&gt; Si vous avez des doutes ou des questions entre-temps, n'hésitez pas à répondre à cet e-mail et nous réponderons dans les plus brefs délais.&lt;br&gt; &lt;br&gt; Michel Rothgaenger&lt;br&gt; Managing Director&lt;br&gt; Transport Talent&lt;br&gt; &lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.welcomeEmailSubjectEmployer" approved="no">
-        <source>Welcome to Matchico!</source>
+        <source>Welcome to Transport Talent!</source>
         <target>Transport Talent vous souhaite la bienvenue !</target>
       </trans-unit>
     </body>

@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
         <source>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
-        <target state="translated">Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</target>
+        <target state="translated">Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

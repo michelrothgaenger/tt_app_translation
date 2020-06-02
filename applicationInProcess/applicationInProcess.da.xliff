@@ -10,7 +10,7 @@
         <target state="translated">Ansøgning mangler gennemgang.</target>
       </trans-unit>
       <trans-unit id="app.applicationInProcess.content" approved="no">
-        <source>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your application for the position: %jobTitle%" with the status "%applicationStatus%" is still under review. Our recruiters will contact you, if more information is required. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">Kære %firstNameHR% %lastNameHR%,&lt;br&gt;&lt;br&gt; din ansøgning til stilling: "%jobTitle%" med status "%applicationStatus%" er stadig i ansøgningsprocess. &lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt; Transport Talent teamet</target>
       </trans-unit>
     </body>

@@ -42,7 +42,7 @@
         <target state="translated">En e-mail er blevet sendt til %email%. Den indeholder et aktiveringslink som du skal klikke på for at aktivere din konto.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="yes">
-        <source>Thank you for signing up with Transport Talent!</source>
+        <source>registration.emailemp.subject</source>
         <target state="translated">Tak fordi du har oprettet en profil på Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">

@@ -73,6 +73,14 @@
         <source>app.employerRegister.popup.cta</source>
         <target state="translated">Tilmeld dig her ved at skrive din emailaddresse.</target>
       </trans-unit>
+      <trans-unit id="app.signUpStep1" approved="yes">
+        <source>app.signUpStep1</source>
+        <target>Register</target>
+      </trans-unit>
+      <trans-unit id="app.employerRegister.emailExists" approved="yes">
+          <source>app.employerRegister.emailExists</source>
+          <target state="translated">This email address is already registered</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

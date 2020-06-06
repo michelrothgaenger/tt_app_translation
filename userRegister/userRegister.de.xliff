@@ -42,7 +42,7 @@
         <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="yes">
-        <source>Thank you for signing up with Transport Talent!</source>
+        <source>registration.emailemp.subject</source>
         <target state="translated">Vielen Dank für die Anmeldung bei Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">

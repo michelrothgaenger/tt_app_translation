@@ -10,7 +10,7 @@
         <target state="translated">Ваша учетная запись все еще неактивирована</target>
       </trans-unit>
       <trans-unit id="app.notConfirmedEmail" approved="yes">
-        <source>Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">Здравствуйте%firstName%,&lt;br&gt;&lt;br&gt; Пожалуйста, активируйте Вашу учетную запись, перейдя по этой ссылке &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;С уважением,&lt;br&gt;&lt;br&gt;Ваша команда Transport Talent</target>
       </trans-unit>
     </body>

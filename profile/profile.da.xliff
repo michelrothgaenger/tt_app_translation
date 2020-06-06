@@ -462,7 +462,7 @@
         <target state="translated">Manage din virksomhedsprofil.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.companies.description" approved="yes">
-        <source>Matchico allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</source>
+        <source>Transport Talent allows you to keep in mind interesting companies from transport and logistics. Add companies to your overview or delete them as you see fit.</source>
         <target state="translated">Mange af vores medlemsvirksomheder har lavet en profil på Transport Talent som du kan følge ved at tilføje dem her.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.jobs.description" approved="yes">
@@ -658,7 +658,7 @@
         <target state="translated">Forbind med LinkedIn</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.congrats" approved="yes">
-        <source>Congrats! You've successfully connected your LinkedIn account with Matchico.</source>
+        <source>Congrats! You've successfully connected your LinkedIn account with Transport Talent.</source>
         <target state="translated">Tillykke! Du har nu forbundet din LinkedIn-konto til Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
@@ -958,7 +958,7 @@
         <target state="translated">Vælg din opsigelsesperiode</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.title" approved="yes">
-        <source>Your contact at Matchico</source>
+        <source>Your contact at Transport Talent</source>
         <target state="translated">Din kontakt hos Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.contactTT.tile.SheduleCallBtn" approved="yes">
@@ -1170,15 +1170,15 @@
         <target>Hej%firstName%,</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="yes">
-        <source>Thank you for visiting Matchico. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
         <target state="translated">Tak fordi du besøgte Transport Talent. Vores formål er at formidle kontakten til kvalificerede kandidater og vi står klar til at assistere dig i din søgning. Venligst kontakt os!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="yes">
-        <source>Thank you for visiting Matchico. Let us reward you for your references to us. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Let us reward you for your references to us. Kindly contact us!</source>
         <target state="translated">Tak fordi du besøgte Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="yes">
-        <source>Thank you for visiting Matchico. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
+        <source>Thank you for visiting Transport Talent. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
         <target state="translated">Tak fordi besøgte Transport Talent. Vi er helt med på hvor svært det kan være at finde det rette job og vores team er klar til at hjælpe dig hvor end det er muligt. Venligst kontakt os!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="yes">

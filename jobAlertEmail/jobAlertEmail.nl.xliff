@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
-        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
@@ -50,7 +50,7 @@
         <target state="translated">Your job alert is active</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted" approved="yes">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your job alert "%title%" has been deactivated. We hope that you have found the position you were looking for. New job alerts can always be set up in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertDeleted.subject" approved="yes">
@@ -58,11 +58,11 @@
         <target state="translated">Your job alert has been deactived</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.subject" approved="yes">
-        <source>New jobs on Matchico</source>
+        <source>New jobs on Transport Talent</source>
         <target state="translated">New jobs on Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.emailIntro" approved="yes">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Matchico based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico&lt;br&gt;&lt;br&gt;</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent&lt;br&gt;&lt;br&gt;</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Here is the list of top jobs on Transport Talent based on your Job Alert "%jobAlertTitle%". We hope that you will find the position you are looking for. Job alerts can always be configured in your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;. Please let us know if there is anything we can improve about our job alerts to further support your search.&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
     </body>

@@ -10,7 +10,7 @@
         <target state="translated">Din profil er blevet godkendt</target>
       </trans-unit>
       <trans-unit id="app.profileApprovedEmail.content" approved="yes">
-        <source>Dear %userFirstName%,&lt;br&gt;&lt;br&gt; Great to have you on board! Your profile on Matchico has been approved by %name%. To receive job offers that match your profile, please ensure that you have a well detailed profile. Our Team is enthusiastic about making your job search as swift and effortless as possible. Should you have any questions, please do not hesitate to get in touch with %name% at %email%.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Matchico Team</source>
+        <source>Dear %userFirstName%,&lt;br&gt;&lt;br&gt; Great to have you on board! Your profile on Transport Talent has been approved by %name%. To receive job offers that match your profile, please ensure that you have a well detailed profile. Our Team is enthusiastic about making your job search as swift and effortless as possible. Should you have any questions, please do not hesitate to get in touch with %name% at %email%.&lt;br&gt;&lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent Team</source>
         <target state="translated">Hej %userFirstName%,&lt;br&gt;&lt;br&gt;Din profil er nu blevet godkendt at %name%. Vi kontakter dig så snart vi har jobmuligheder der passer til dine ønsker. Hvis du har nogen spørgsmål til os så kan du kontakte %name% på %email%, .&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;Transport Talent teamet</target>
       </trans-unit>
     </body>

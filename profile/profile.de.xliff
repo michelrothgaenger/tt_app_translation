@@ -346,7 +346,7 @@
         <target state="translated">Hier sehen Sie Ihre ausgewählten Stellen.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.jobs.description" approved="yes">
-        <source>Manage your job hunt with Matchico – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</source>
+        <source>Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</source>
         <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf Ihre Vorstellungsgespräche vorbereiten.</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
@@ -658,7 +658,7 @@
         <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.congrats" approved="yes">
-        <source>Congrats! You've successfully connected your LinkedIn account with Matchico.</source>
+        <source>Congrats! You've successfully connected your LinkedIn account with Transport Talent.</source>
         <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">
@@ -1162,7 +1162,7 @@
         <target>Willkommen, %firstName%!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.recruiter" approved="yes">
-        <source>Thank you for visiting Matchico. Let us reward you for your references to us. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Let us reward you for your references to us. Kindly contact us!</source>
         <target state="translated">Vielen Dank für Ihren Besuch bei Transport Talent. Lassen Sie sich für Ihre Empfehlungen von uns belohnen. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.showThisWindow" approved="yes">
@@ -1174,11 +1174,11 @@
         <target>Fenster schließen</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.employer" approved="yes">
-        <source>Thank you for visiting Matchico. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
+        <source>Thank you for visiting Transport Talent. Our objective is to connect you with qualified personnel and our team will be glad to assist you in your search. Kindly contact us!</source>
         <target state="translated">Vielen Dank für Ihren Besuch bei Transport Talent. Unser Ziel ist es, Sie mit qualifiziertem Personal zu verbinden. Unser Team unterstützt Sie gerne bei Ihrer Suche. Bitte kontaktieren Sie uns!</target>
       </trans-unit>
       <trans-unit id="app.profile.onLoginPopup.professional" approved="yes">
-        <source>Thank you for visiting Matchico. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
+        <source>Thank you for visiting Transport Talent. We understand the complexities of job hunting and our team will be glad to connect you with suitable vacancies. Kindly Contact us!</source>
         <target state="translated">Vielen Dank für Ihren Besuch bei Transport Talent. Wir kennen die Komplexität der Stellensuche und unser Team vermittelt Ihnen gerne geeignete Stellenangebote. Kontaktieren Sie uns bitte!</target>
       </trans-unit>
       <trans-unit id="app.profile.confirmationEmail.beforeDelete.accessDenied" approved="yes">

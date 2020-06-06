@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="app.rescueEmailAdded.message" approved="yes">
-        <source>&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best Regards,&lt;br&gt; Your Matchico team</source>
+        <source>&lt;h1&gt;Rescue email added&lt;/h1&gt; &lt;p&gt;Just so you know %email% has been added to your account as rescue email. If that was you - just ignore this message.&lt;/p&gt; &lt;br&gt; Best Regards,&lt;br&gt; Your Transport Talent team</source>
         <target state="translated">&lt;h1&gt;Запасной электронный адрес добавлен&lt;/h1&gt; &lt;p&gt;Электронный адрес %email% был добавлен в качестве запасного. Если это было сделано Вами, то просто игнорируйте это сообщение&lt;/p&gt; &lt;br&gt; С уважением,&lt;br&gt; Ваша команда Transport Talent</target>
       </trans-unit>
       <trans-unit id="app.rescueEmailAdded.subject" approved="yes">

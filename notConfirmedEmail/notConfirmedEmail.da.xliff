@@ -10,7 +10,7 @@
         <target state="translated">Din konto er stadig ikke bekræftet</target>
       </trans-unit>
       <trans-unit id="app.notConfirmedEmail" approved="yes">
-        <source>Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">Hej%firstName%,&lt;br&gt;&lt;br&gt; Venligst aktiver din profil ved at benytte dette link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent teamet</target>
       </trans-unit>
     </body>

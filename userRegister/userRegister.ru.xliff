@@ -42,11 +42,11 @@
         <target state="translated">Письмо было послано по адресу электронной почты %email%. Оно содержит ссылку, на которую Вам нужно нажать, чтобы активировать аккаунт.</target>
       </trans-unit>
       <trans-unit id="registration.emailemp.subject" approved="yes">
-        <source>Thank you for signing up with Matchico!</source>
+        <source>Thank you for signing up with Transport Talent!</source>
         <target state="translated">Спасибо за регистрацию на Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
-        <source>Welcome to Matchico!</source>
+        <source>Welcome to Transport Talent!</source>
         <target state="translated">Добро пожаловать на Transport Talent!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
@@ -214,7 +214,7 @@
         <target state="translated">Шаг 1/4: Краткое резюме</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
-        <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
+        <source>Want to get headhunted and get the best out of Transport Talent? Make sure to complete the last part of your profile.</source>
         <target state="translated">Хотите быть нанятым и получить максимум от Transport Talent? Обязательно заполните последнюю часть своего профиля.</target>
       </trans-unit>
       <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">

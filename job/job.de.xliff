@@ -258,7 +258,7 @@
         <target state="translated">Ein neuer Job für Ihren Freund und %reward% für Sie</target>
       </trans-unit>
       <trans-unit id="app.job.referral.explanation" approved="yes">
-        <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Matchico Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Matchico Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
+        <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
         <target state="translated">Unterstützen Sie einen Freund bei der Stellensuche und erhalten Sie dafür eine Provision.&lt;br&gt;Ihr Freund bekommt einen Job, der ihn motiviert.&lt;br&gt; &lt;br&gt; &lt;br&gt; Werden Sie mit Transport Talent Referral selbst zum Headhunter&lt;br&gt; Empfehlen Sie Stellen über soziale und berufliche Netzwerke wie LinkedIn, Facebook und Twitter oder schicken Sie direkt eine E-Mail an einen Kontakt. Machen Sie Ihr persönliches Netzwerk zu Geld und helfen Sie anderen mit ihrer Karriere – Transport Talent Referral macht es möglich.&lt;br&gt; &lt;br&gt; Empfehlen&lt;br&gt; Ein Job, der nicht zu Ihnen passt? Leiten Sie die Anzeige an jemanden mit dem passenden Profil weiter und erhalten Sie eine Belohnung für Ihre Unterstützung. Wichtig ist, dass die Bewerbung über den von Ihnen geteilten Link erfolgt. Nur so können wir die Empfehlung eindeutig zuordnen und nach Vertragsabschluss die Provision auszahlen. &lt;br&gt; &lt;br&gt; Ohne Risiko: Sie müssen keinen Vertrag unterschreiben.&lt;br&gt; &lt;br&gt; Und anonym: Wir geben Ihren Namen nicht an das jeweilige Unternehmen weiter.</target>
       </trans-unit>
       <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
@@ -354,7 +354,7 @@
         <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.statusText" approved="yes">
-        <source>Wanted: %title%! Find all details at Matchico: %jobUrl%</source>
+        <source>Wanted: %title%! Find all details at Transport Talent: %jobUrl%</source>
         <target state="translated">%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.hashTags" approved="yes">
@@ -482,7 +482,7 @@
         <target>Hej</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
-        <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
+        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
         <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie Transport Talent mit allen Funktionen nutzen.</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
@@ -510,7 +510,7 @@
         <target>Registrieren Sie sich hier.</target>
       </trans-unit>
       <trans-unit id="app.job.replaceCompanyName" approved="yes">
-        <source>Matchico on behalf of a client</source>
+        <source>Transport Talent on behalf of a client</source>
         <target>Transport Talent im Auftrag eines Kunden</target>
       </trans-unit>
       <trans-unit id="app.job.blinding.title" approved="yes">

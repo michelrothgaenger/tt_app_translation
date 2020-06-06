@@ -34,7 +34,7 @@
         <target state="translated">Dein Konto wurde gelöscht</target>
       </trans-unit>
       <trans-unit id="app.deleteAccount.emailInExpirationDate.content" approved="yes">
-        <source>Your account has been deleted. If you want to join, register any time.&lt;br&gt; &lt;a href="%linkToTT%"&gt;Transport Talent website&lt;/a&gt;</source>
+        <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target state="translated">Ihr Konto wurde gelöscht. Wenn Sie erneut mitmachen möchten, registrieren Sie sich jederzeit. &lt;br&gt; &lt;a href="%linkToTT%"&gt;Transport Talent Website&lt;/a&gt;</target>
       </trans-unit>
     </body>

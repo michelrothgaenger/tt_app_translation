@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="app.missingFieldsEmail.firstPart" approved="yes">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Matchico wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:&lt;br&gt;&lt;br&gt;</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:&lt;br&gt;&lt;br&gt;</source>
         <target state="translated">Kære %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent ønsker at yde den bedste mulige service i forhold til dit næste jobskifte. For at sikre at vi kun kontakter dig med relevante tilbud er vi meget afhængige af dine profiloplysninger. Vi har bemærket at din profil mangler følgende oplysninger:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">

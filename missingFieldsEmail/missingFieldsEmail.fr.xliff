@@ -6,11 +6,11 @@
     </header>
     <body>
       <trans-unit id="app.missingFieldsEmail.firstPart" approved="yes">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Matchico wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:&lt;br&gt;&lt;br&gt;</source>
+        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:&lt;br&gt;&lt;br&gt;</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Transport Talent wants to provide the best service for your next career move. To ensure we only approach you with relevant offers, we heavily rely on your profile information. We noticed that your profile is missing the following details:&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.secondPart" approved="yes">
-        <source>&lt;br&gt;Click &lt;a href=“%profileUrl%“&gt;here&lt;/a&gt; to add the information to your profile. We really thank you for taking the time.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
+        <source>&lt;br&gt;Click &lt;a href=“%profileUrl%“&gt;here&lt;/a&gt; to add the information to your profile. We really thank you for taking the time.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">&lt;br&gt;Click &lt;a href="%profileUrl%"&gt;here&lt;/a&gt; to add the information to your profile. We really thank you for taking the time.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.missingFieldsEmail.subject" approved="yes">

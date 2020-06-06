@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.signIn" approved="no">
+      <trans-unit id="app.signIn" approved="yes">
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
@@ -13,27 +13,27 @@
         <source>app.metaDescriptionEmployerLoginPage</source>
         <target state="translated">Sign in to find the future candidates for your company</target>
       </trans-unit>
-      <trans-unit id="app.employerLoginHeadline" approved="no">
+      <trans-unit id="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
         <target>Great to have you back.</target>
       </trans-unit>
-      <trans-unit id="app.employerLoginCta" approved="no">
+      <trans-unit id="app.employerLoginCta" approved="yes">
         <source>app.employerLoginCta</source>
         <target>If you already have an account please proceed.</target>
       </trans-unit>
-      <trans-unit id="security.login.password" approved="no">
+      <trans-unit id="security.login.password" approved="yes">
         <source>security.login.password</source>
         <target>Password</target>
       </trans-unit>
-      <trans-unit id="app.forgotPassword" approved="no">
+      <trans-unit id="app.forgotPassword" approved="yes">
         <source>app.forgotPassword</source>
         <target>Forgot password?</target>
       </trans-unit>
-      <trans-unit id="security.login.submit" approved="no">
+      <trans-unit id="security.login.submit" approved="yes">
         <source>security.login.submit</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="app.notRegisteredCta" approved="no">
+      <trans-unit id="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
         <target>Not registered yet? Click here to register.</target>
       </trans-unit>

@@ -5,103 +5,103 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.registerAllPopup.title" approved="no">
+      <trans-unit id="app.registerAllPopup.title" approved="yes">
         <source>app.registerAllPopup.title</source>
         <target>We deliver job offers to you!</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.description" approved="no">
+      <trans-unit id="app.registerAllPopup.description" approved="yes">
         <source>To join Transport Talent, sign up below...it's free forever!</source>
         <target>To join Matchico, sign up below...it's free forever!</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.employerTitle" approved="no">
+      <trans-unit id="app.registerAllPopup.employerTitle" approved="yes">
         <source>app.registerAllPopup.employerTitle</source>
         <target>Employers</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.employerText" approved="no">
+      <trans-unit id="app.registerAllPopup.employerText" approved="yes">
         <source>app.registerAllPopup.employerText</source>
         <target>Screen only pre-qualified candidates referred from industry experts. Pay only for success.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.recruiterTitle" approved="no">
+      <trans-unit id="app.registerAllPopup.recruiterTitle" approved="yes">
         <source>app.registerAllPopup.recruiterTitle</source>
         <target>I am recruiting</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.recruiterText" approved="no">
+      <trans-unit id="app.registerAllPopup.recruiterText" approved="yes">
         <source>app.registerAllPopup.recruiterText</source>
         <target state="translated">Make the most of your candidates. Get access to top positions with top employers.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.professionalTitle" approved="no">
+      <trans-unit id="app.registerAllPopup.professionalTitle" approved="yes">
         <source>app.registerAllPopup.professionalTitle</source>
         <target>Professionals</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.professionalText" approved="no">
+      <trans-unit id="app.registerAllPopup.professionalText" approved="yes">
         <source>app.registerAllPopup.professionalText</source>
         <target>Interested in opportunities? Refer or apply for jobs.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.registerBtn" approved="no">
+      <trans-unit id="app.registerAllPopup.registerBtn" approved="yes">
         <source>app.registerAllPopup.registerBtn</source>
         <target state="translated">Sign up</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.alreadyRegistered" approved="no">
+      <trans-unit id="app.registerAllPopup.alreadyRegistered" approved="yes">
         <source>app.registerAllPopup.alreadyRegistered</source>
         <target state="translated">Already signed up?</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.loginHere" approved="no">
+      <trans-unit id="app.registerAllPopup.loginHere" approved="yes">
         <source>app.registerAllPopup.loginHere</source>
         <target> Login here</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Employer.title" approved="no">
+      <trans-unit id="app.registerAllPopup.Employer.title" approved="yes">
         <source>app.registerAllPopup.Employer.title</source>
         <target>Join as Employer</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Employer.text" approved="no">
+      <trans-unit id="app.registerAllPopup.Employer.text" approved="yes">
         <source>Join the companies who save time and money by hiring with Transport Talent.</source>
         <target>Join the companies who save time and money by hiring with Matchico.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Recruiter.title" approved="no">
+      <trans-unit id="app.registerAllPopup.Recruiter.title" approved="yes">
         <source>app.registerAllPopup.Recruiter.title</source>
         <target>Join as Recruiter</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Recruiter.text" approved="no">
+      <trans-unit id="app.registerAllPopup.Recruiter.text" approved="yes">
         <source>To join Transport Talent, sign up below. It is free for everyone!</source>
         <target state="translated">To join Matchico, sign up below. It is free for everyone!</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Professional.title" approved="no">
+      <trans-unit id="app.registerAllPopup.Professional.title" approved="yes">
         <source>app.registerAllPopup.Professional.title</source>
         <target state="translated">Join as Candidate</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.Professional.text" approved="no">
+      <trans-unit id="app.registerAllPopup.Professional.text" approved="yes">
         <source>Join the people who’ve found their job using Transport Talent.</source>
         <target>Join the people who’ve found their job using Matchico.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.part1" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.part1" approved="yes">
         <source>app.registerAllPopup.confirmation.part1</source>
         <target>I agree to the </target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.part2" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.part2" approved="yes">
         <source>app.registerAllPopup.confirmation.part2</source>
         <target><![CDATA[terms & conditions]]></target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.part3" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.part3" approved="yes">
         <source>app.registerAllPopup.confirmation.part3</source>
         <target> as well as to the privacy policy.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.note.part1" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.note.part1" approved="yes">
         <source>app.registerAllPopup.confirmation.note.part1</source>
         <target>Please confirm that you agree to our </target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.note.part2" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.note.part2" approved="yes">
         <source>app.registerAllPopup.confirmation.note.part2</source>
         <target><![CDATA[terms & conditions]]></target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.confirmation.note.part3" approved="no">
+      <trans-unit id="app.registerAllPopup.confirmation.note.part3" approved="yes">
         <source>app.registerAllPopup.confirmation.note.part3</source>
         <target> as well as to the privacy policy to proceed.</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.backLink" approved="no">
+      <trans-unit id="app.registerAllPopup.backLink" approved="yes">
         <source>app.registerAllPopup.backLink</source>
         <target>Back</target>
       </trans-unit>
-      <trans-unit id="app.registerAllPopup.registerRecruiter" approved="no">
+      <trans-unit id="app.registerAllPopup.registerRecruiter" approved="yes">
         <source>app.registerAllPopup.registerRecruiter</source>
         <target>Sign up as a recruiter? click here</target>
       </trans-unit>

@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.signIn" approved="no">
+      <trans-unit id="app.signIn" approved="yes">
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionEmployerLoginPage" approved="no">
+      <trans-unit id="app.metaDescriptionEmployerLoginPage" approved="yes">
         <source>app.metaDescriptionEmployerLoginPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="app.employerLoginHeadline" approved="no">
+      <trans-unit id="app.employerLoginHeadline" approved="yes">
         <source>app.employerLoginHeadline</source>
         <target>Great to have you back.</target>
       </trans-unit>
@@ -33,7 +33,7 @@
         <source>security.login.submit</source>
         <target state="translated">Accès compte</target>
       </trans-unit>
-      <trans-unit id="app.notRegisteredCta" approved="no">
+      <trans-unit id="app.notRegisteredCta" approved="yes">
         <source>app.notRegisteredCta</source>
         <target>Not registered yet? Click here to register.</target>
       </trans-unit>

@@ -5,23 +5,23 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.aboutUs" approved="no">
+      <trans-unit id="app.aboutUs" approved="yes">
         <source>app.aboutUs</source>
         <target>Ποιοί είμαστε</target>
       </trans-unit>
-      <trans-unit id="app.termsConditions" approved="no">
+      <trans-unit id="app.termsConditions" approved="yes">
         <source>app.termsConditions</source>
         <target>Όροι και προϋποθέσεις</target>
       </trans-unit>
-      <trans-unit id="app.dataPrivacy" approved="no">
+      <trans-unit id="app.dataPrivacy" approved="yes">
         <source>app.dataPrivacy</source>
         <target>Data Privacy</target>
       </trans-unit>
-      <trans-unit id="app.contactUs" approved="no">
+      <trans-unit id="app.contactUs" approved="yes">
         <source>app.contactUs</source>
         <target>Επικοινωνία</target>
       </trans-unit>
-      <trans-unit id="app.imprint" approved="no">
+      <trans-unit id="app.imprint" approved="yes">
         <source>app.imprint</source>
         <target>Imprint</target>
       </trans-unit>

@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.content" approved="yes">
         <source>app.registeredRecruiter.toPartner.content</source>
         <target>Hej, %partnerFirstName% &lt;br&gt;&lt;br&gt; En bruger med email %recruiterEmail% har netop registreret sig som recruiter. Du skal godkende hans / hendes registrering for at gøre ham / hende i stand til at søge job.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="yes">
         <source>app.registeredRecruiter.toPartner.subject</source>
         <target state="translated">Ny recruiter skal godkendes</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
+      <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="yes">
         <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Matchico platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
         <target state="translated">Kære bruger, &lt;br&gt;&lt;br&gt;din ansøgning om tilmelding er modtaget til godkendelse. Når du er godkendt vil du være i stand til at bruge alle recruiter funktioner på Transport Talent platformen.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
+      <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="yes">
         <source>Your registration to become a recruiter on the platform will have to be confirmed by Matchico.</source>
         <target state="translated">Din anmodning om at blive godkendt som recruiter på platformen skal bekræftes af Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="yes">
         <source>app.confirmedRecruiter.toPartner.subject</source>
         <target>Recruiter blev bekræftet</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="yes">
         <source>app.confirmedRecruiter.toPartner.content</source>
         <target>Hej %partnerFirstName%,&lt;br&gt;&lt;br&gt;recruiter med email %recruiterEmail% er blevet godkendt af dig og kan nu søge på jobs og invitere kandidater.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="yes">
         <source>app.confirmedRecruiter.toRecruiter.subject</source>
         <target state="translated">Din anmodning blev bekræftet.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="yes">
         <source>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Matchico platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Kære bruger, din anmodning blev godkendt af% partnerFirstName%% partnerLastName%. Nu kan du bruge alle recruiter funktioner på Transport Talent -platformen.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="yes">
         <source>app.registeredRecruiter.toPartner.linkForApproving</source>
         <target>Godkend recruiter</target>
       </trans-unit>

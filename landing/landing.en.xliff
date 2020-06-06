@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.landing.button.register" approved="no">
+      <trans-unit id="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
         <target state="translated">Sign up now to apply for jobs</target>
       </trans-unit>

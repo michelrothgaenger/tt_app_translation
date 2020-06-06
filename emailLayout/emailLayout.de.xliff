@@ -29,11 +29,11 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Unsere E-Mail-Adresse lautet:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="no">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target state="translated">Copyright © %year% %companyName%, alle Rechte vorbehalten.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="yes">
         <source>app.emailLayout.defaultCompanyName</source>
         <target>Staffhero GmbH &amp; Co. KG</target>
       </trans-unit>
@@ -45,23 +45,23 @@
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">Hier abmelden</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+      <trans-unit id="app.emailLayout.unsubscribe" approved="yes">
         <source>app.emailLayout.unsubscribe</source>
         <target state="translated">Abmelden</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.help" approved="no">
+      <trans-unit id="app.emailLayout.help" approved="yes">
         <source>app.emailLayout.help</source>
         <target state="translated">Hilfe</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright.line2" approved="no">
+      <trans-unit id="app.emailLayout.copyright.line2" approved="yes">
         <source>app.emailLayout.copyright.line2</source>
         <target state="translated">Transport Talent ist ein gemeinsames Projekt von Staffhero GmbH &amp; Co. KG und der Blaupause KfK GmbH &amp; Co. KG.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
+      <trans-unit id="app.emailLayout.contactTT.tile" approved="yes">
         <source>app.emailLayout.contactTT.tile</source>
         <target state="translated">Ihr Ansprechpartner bei Transport Talent:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="yes">
         <source>app.emailLayout.defaultCompanyAddress</source>
         <target state="translated">Bernstorffstrasse 120, 22767 Hamburg.</target>
       </trans-unit>

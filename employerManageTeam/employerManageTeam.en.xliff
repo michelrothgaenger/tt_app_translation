@@ -13,7 +13,7 @@
         <source>app.employerManageTeam.header</source>
         <target state="translated">Thank you! Your profile is complete. Now it's time to set up your company's organisation and team structure.</target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.description" approved="no">
+      <trans-unit id="app.employerManageTeam.description" approved="yes">
         <source>app.employerManageTeam.description</source>
         <target state="translated">Fill in your company profile to attract future employees by telling them about their future employer. Remember, there is something and someone to make a first impression.</target>
       </trans-unit>

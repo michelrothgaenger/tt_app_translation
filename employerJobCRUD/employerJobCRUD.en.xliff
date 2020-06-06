@@ -113,7 +113,7 @@
         <source>app.employerJobCRUD.disabledSelectOption</source>
         <target state="translated">--select an option--</target>
       </trans-unit>
-      <trans-unit id="app.job.template.label" approved="no">
+      <trans-unit id="app.job.template.label" approved="yes">
         <source>app.job.template.label</source>
         <target>Choose Template</target>
       </trans-unit>
@@ -121,7 +121,7 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Please check fields again</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.salary.patternError" approved="no">
+      <trans-unit id="app.employerJobCRUD.salary.patternError" approved="yes">
         <source>app.employerJobCRUD.salary.patternError</source>
         <target>Minimum 4 symbols, only numbers</target>
       </trans-unit>
@@ -177,23 +177,23 @@
         <source>app.job.chooseSalary</source>
         <target state="translated">Choose salary</target>
       </trans-unit>
-      <trans-unit id="app.jobCrud.company.label" approved="no">
+      <trans-unit id="app.jobCrud.company.label" approved="yes">
         <source>app.jobCrud.company.label</source>
         <target state="translated">Company</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.label" approved="no">
+      <trans-unit id="app.job.blinding.label" approved="yes">
         <source>app.job.blinding.label</source>
         <target>Post the job without showing the employer. (Job will be displayed as TT on behalf of client.)</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind job Posting</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="no">
+      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="yes">
         <source>app.employerJobCRUD.disabledSelectPreviousJobPosting</source>
         <target>--select a previous job posting--</target>
       </trans-unit>
-      <trans-unit id="app.job.targetAnnualSalary.title" approved="no">
+      <trans-unit id="app.job.targetAnnualSalary.title" approved="yes">
         <source>app.job.targetAnnualSalary.title</source>
         <target>Target Annual Salary</target>
       </trans-unit>

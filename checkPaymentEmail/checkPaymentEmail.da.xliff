@@ -5,10 +5,10 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.checkPayment.subject" approved="no">
+      <trans-unit id="app.checkPayment.subject" approved="yes">
         <source>app.checkPayment.subject</source>
         <target state="translated">intern påmindelse: Kontroller modtagelse af betaling</target> </trans-unit>
-      <trans-unit id="app.checkPayment.content" approved="no">
+      <trans-unit id="app.checkPayment.content" approved="yes">
         <source>app.checkPayment.content</source>
         <target state="translated">% ApplicationID%</target> </trans-unit>
     </body>

@@ -5,131 +5,131 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.employerManageTeam.meta.title" approved="no">
+      <trans-unit id="app.employerManageTeam.meta.title" approved="yes">
         <source>app.employerManageTeam.meta.title</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.header" approved="no">
+      <trans-unit id="app.employerManageTeam.header" approved="yes">
         <source>app.employerManageTeam.header</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.description" approved="no">
+      <trans-unit id="app.employerManageTeam.description" approved="yes">
         <source>app.employerManageTeam.description</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.addCompany.btn" approved="no">
+      <trans-unit id="app.employerManageTeam.addCompany.btn" approved="yes">
         <source>app.employerManageTeam.addCompany.btn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.edit.btn" approved="no">
+      <trans-unit id="app.employerManageTeam.edit.btn" approved="yes">
         <source>app.employerManageTeam.edit.btn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.delete.btn" approved="no">
+      <trans-unit id="app.employerManageTeam.delete.btn" approved="yes">
         <source>app.employerManageTeam.delete.btn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.addCategory.btn" approved="no">
+      <trans-unit id="app.employerManageTeam.addCategory.btn" approved="yes">
         <source>app.employerManageTeam.addCategory.btn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.addTeamMember.btn" approved="no">
+      <trans-unit id="app.employerManageTeam.addTeamMember.btn" approved="yes">
         <source>app.employerManageTeam.addTeamMember.btn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.header.edit" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.header.edit" approved="yes">
         <source>app.employerManageTeam.popup.header.edit</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.company.companyName.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.company.companyName.field" approved="yes">
         <source>app.employerManageTeam.popup.company.companyName.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.company.address.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.company.address.field" approved="yes">
         <source>app.employerManageTeam.popup.company.address.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.company.parent.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.company.parent.field" approved="yes">
         <source>app.employerManageTeam.popup.company.parent.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.company.placeholder" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.company.placeholder" approved="yes">
         <source>app.employerManageTeam.popup.company.placeholder</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.company.saveBtn" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.company.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.company.saveBtn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.category.CategoryName.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.category.CategoryName.field" approved="yes">
         <source>app.employerManageTeam.popup.category.CategoryName.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.category.placeholder" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.category.placeholder" approved="yes">
         <source>app.employerManageTeam.popup.category.placeholder</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.category.company.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.category.company.field" approved="yes">
         <source>app.employerManageTeam.popup.category.company.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.category.saveBtn" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.category.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.category.saveBtn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.email.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.email.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.email.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.firstName.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.firstName.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.firstName.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.lastName.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.lastName.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.lastName.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.description" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.NormalRole.description" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.NormalRole.description</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.field" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.field" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.AdminRole.field</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.description" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.AdminRole.description" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.AdminRole.description</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.teamMember.saveBtn" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.teamMember.saveBtn" approved="yes">
         <source>app.employerManageTeam.popup.teamMember.saveBtn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.header.add" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.header.add" approved="yes">
         <source>app.employerManageTeam.popup.header.add</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.deleteAlertPopup.text1" approved="no">
+      <trans-unit id="app.employerManageTeam.deleteAlertPopup.text1" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.text1</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.deleteAlertPopup.text2" approved="no">
+      <trans-unit id="app.employerManageTeam.deleteAlertPopup.text2" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.text2</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.deleteAlertPopup.yesBtn" approved="no">
+      <trans-unit id="app.employerManageTeam.deleteAlertPopup.yesBtn" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.yesBtn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.deleteAlertPopup.rejectBtn" approved="no">
+      <trans-unit id="app.employerManageTeam.deleteAlertPopup.rejectBtn" approved="yes">
         <source>app.employerManageTeam.deleteAlertPopup.rejectBtn</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employerManageTeam.popup.delete.yourself" approved="no">
+      <trans-unit id="app.employerManageTeam.popup.delete.yourself" approved="yes">
         <source>app.employerManageTeam.popup.delete.yourself</source>
         <target state="translated"></target>
       </trans-unit>

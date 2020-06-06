@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="no">
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="yes">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject</source>
         <target>Der Kandidat wurde übermittelt</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
         <target>Lieber %recruiterFirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt; Sie haben gerade %candidateFirstName% %candidateLastName% übermittelt. Aus Datenschutzgründen haben wir eine E-Mail an den Kandidaten geschickt und um Bestätigung gebeten.&lt;br&gt;&lt;br&gt;&lt;br&gt;Mit freundlichen Grüßen,&lt;br&gt;&lt;br&gt; Viele Grüße Michel Rothgaenger</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="yes">
         <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>
         <target>Kandidat wurde übermittelt</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
         <target>%candidateFirstName% %recruiterFirstName% %recruiterLastName% %confirmationLink%</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
         <target>%candidateFirstName% %recruiterFirstName% %recruiterLastName% %confirmationLink%</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="yes">
         <source>app.informRecruiterEmail.candidateConfirmed.subject</source>
         <target>Der Kandidat hat den Autorisierungsantrag bestätigt.</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="no">
+      <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="yes">
         <source>app.informRecruiter.candidateConfirmed.content</source>
         <target>%recruiterFirstName% %candidateFirstName% %candidateLastName%</target>
       </trans-unit>

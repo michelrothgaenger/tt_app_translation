@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="yes">
         <source>app.invitationEmailForExistingUser.firstPart</source>
         <target state="translated">Hej %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% har tilføjet dig som bruger</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
         <source>You can now manage jobs for %company% on Matchico</source>
         <target state="translated">Du kan nu administrere alle jobs for %company% på Transport Talent</target>
       </trans-unit>

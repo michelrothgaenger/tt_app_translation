@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.profile" approved="no">
+      <trans-unit id="app.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Profiel</target>
       </trans-unit>

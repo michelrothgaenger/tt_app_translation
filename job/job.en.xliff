@@ -341,7 +341,7 @@
         <source>app.job.referral.explanationTitleAmbassador</source>
         <target state="translated">Connect your friends to jobs, earn %reward% + bonus %ambassador_bonus% and recognition</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="no">
+      <trans-unit id="app.job.referral.explanation" approved="yes">
         <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
         <target state="translated">You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Matchico Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Matchico Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</target>
       </trans-unit>
@@ -441,7 +441,7 @@
         <source>app.job.button.savedToProfile</source>
         <target state="translated">Unfollow company</target>
       </trans-unit>
-      <trans-unit id="app.job.twitter.statusText" approved="no">
+      <trans-unit id="app.job.twitter.statusText" approved="yes">
         <source>Wanted: %title%! Find all details at Transport Talent: %jobUrl%</source>
         <target state="translated">Wanted: %title%! Find all details at Matchico: %jobUrl%</target>
       </trans-unit>
@@ -481,11 +481,11 @@
         <source>app.job.uploadCV.success.part2</source>
         <target state="translated"> - please check your inbox for further information.</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.job.recruiterNotApprovedPopup.title</source>
         <target>Hi</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
         <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
         <target>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</target>
       </trans-unit>
@@ -493,11 +493,11 @@
         <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.job.replaceCompanyName" approved="no">
+      <trans-unit id="app.job.replaceCompanyName" approved="yes">
         <source>Transport Talent on behalf of a client</source>
         <target>Matchico on behalf of a client</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind job Posting</target>
       </trans-unit>

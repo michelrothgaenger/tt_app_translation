@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.cookieShortText" approved="no">
+      <trans-unit id="app.cookieShortText" approved="yes">
         <source>app.cookieShortText</source>
         <target>We use cookies on our website.</target>
       </trans-unit>
-      <trans-unit id="app.cookieMessage" approved="no">
+      <trans-unit id="app.cookieMessage" approved="yes">
         <source>app.cookieMessage</source>
         <target>We use cookies to ensure that we give you the best experience on our website. This includes cookies from third party social media websites if you visit a page which contains embedded content from social media. Such third party cookies may track your use of our website. If you continue we'll assume that you are happy to receive all cookies on our website.</target>
       </trans-unit>
-      <trans-unit id="app.cookiePolicyLinkText" approved="no">
+      <trans-unit id="app.cookiePolicyLinkText" approved="yes">
         <source>app.cookiePolicyLinkText</source>
         <target>Read more about cookies and our cookie policy here.</target>
       </trans-unit>
-      <trans-unit id="app.cookieButton" approved="no">
+      <trans-unit id="app.cookieButton" approved="yes">
         <source>app.cookieButton</source>
         <target>Close</target>
       </trans-unit>

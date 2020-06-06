@@ -41,7 +41,7 @@
         <source>app.noJobsFound</source>
         <target state="translated">Ingen jobs blev fundet</target>
       </trans-unit>
-      <trans-unit id="app.jobs.searchForm.term.placeholder" approved="no">
+      <trans-unit id="app.jobs.searchForm.term.placeholder" approved="yes">
         <source>app.jobs.searchForm.term.placeholder</source>
         <target state="translated">Søgeord fx søfragt</target>
       </trans-unit>
@@ -73,7 +73,7 @@
         <source>app.jobs.searchForm.languagesTitle</source>
         <target state="translated">Sprog</target>
       </trans-unit>
-      <trans-unit id="app.jobs.searchForm.referrals" approved="no">
+      <trans-unit id="app.jobs.searchForm.referrals" approved="yes">
         <source>app.jobs.searchForm.referrals</source>
         <target state="translated">Vis henvisninger</target>
       </trans-unit>
@@ -89,67 +89,67 @@
         <source>app.jobs.selectAutocompleteItem</source>
         <target state="translated">Vælg venligst en mulighed fra listen for at fortsætte!</target>
       </trans-unit>
-      <trans-unit id="app.jobs.searchForm.filterTitleShow" approved="no">
+      <trans-unit id="app.jobs.searchForm.filterTitleShow" approved="yes">
         <source>app.jobs.searchForm.filterTitleShow</source>
         <target state="translated">+ brug filter</target>
       </trans-unit>
-      <trans-unit id="app.jobs.searchForm.filterTitleHide" approved="no">
+      <trans-unit id="app.jobs.searchForm.filterTitleHide" approved="yes">
         <source>app.jobs.searchForm.filterTitleHide</source>
         <target state="translated">Gem filter</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.reward" approved="no">
+      <trans-unit id="app.jobs.jobBlock.reward" approved="yes">
         <source>app.jobs.jobBlock.reward</source>
         <target state="translated">Findeløn</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.claim" approved="no">
+      <trans-unit id="app.jobs.jobBlock.claim" approved="yes">
         <source>app.jobs.jobBlock.claim</source>
         <target state="translated">Henvis</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.apply" approved="no">
+      <trans-unit id="app.jobs.jobBlock.apply" approved="yes">
         <source>app.jobs.jobBlock.apply</source>
         <target state="translated">Søg job</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.uploadCV" approved="no">
+      <trans-unit id="app.jobs.jobBlock.uploadCV" approved="yes">
         <source>app.jobs.jobBlock.uploadCV</source>
         <target state="translated">Tilføj CV</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.claimed" approved="no">
+      <trans-unit id="app.jobs.jobBlock.claimed" approved="yes">
         <source>app.jobs.jobBlock.claimed</source>
         <target state="translated">Henvist</target>
       </trans-unit>
-      <trans-unit id="app.jobs.edit" approved="no">
+      <trans-unit id="app.jobs.edit" approved="yes">
         <source>app.jobs.edit</source>
         <target state="translated">RET</target>
       </trans-unit>
-      <trans-unit id="app.allCompanies" approved="no">
+      <trans-unit id="app.allCompanies" approved="yes">
         <source>app.allCompanies</source>
         <target state="translated">Alle virksomheder</target>
       </trans-unit>
-      <trans-unit id="app.jobs.popup.referral.shareTitle" approved="no">
+      <trans-unit id="app.jobs.popup.referral.shareTitle" approved="yes">
         <source>app.jobs.popup.referral.shareTitle</source>
         <target state="translated">Hej, tag et kig på denne jobannonce "%title%".</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.title</source>
         <target>Hej</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="yes">
         <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
         <target state="translated">din profiloprettelse er indsendt til godkendelse. Når vi har godkendt den vil du have fuld adgang til at benytte alle funktioner på Transport Talent platformen.</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+      <trans-unit id="app.jobs.replaceCompanyName" approved="yes">
         <source>Matchico on behalf of a client</source>
         <target state="translated">Transport Talent på vegne af kunde</target>
       </trans-unit>
-      <trans-unit id="app.jobs.blinding.title" approved="no">
+      <trans-unit id="app.jobs.blinding.title" approved="yes">
         <source>app.jobs.blinding.title</source>
         <target>Anonym jobannonce</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+      <trans-unit id="app.jobs.jobBlock.showDetails" approved="yes">
         <source>app.jobs.jobBlock.showDetails</source>
         <target>Vis detaljer</target>
       </trans-unit>

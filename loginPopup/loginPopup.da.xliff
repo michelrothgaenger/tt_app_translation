@@ -5,22 +5,22 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.loginPopup.title" approved="no">
+      <trans-unit id="app.loginPopup.title" approved="yes">
         <source>app.loginPopup.title</source>
         <target>Log ind</target> </trans-unit>
-      <trans-unit id="app.loginPopup.description" approved="no">
+      <trans-unit id="app.loginPopup.description" approved="yes">
         <source>app.loginPopup.description</source>
         <target>Du skal logge ind først, før du kan se alle job og services på hjemmesiden.</target> </trans-unit>
-      <trans-unit id="app.loginPopup.employerLoginLink" approved="no">
+      <trans-unit id="app.loginPopup.employerLoginLink" approved="yes">
         <source>app.loginPopup.employerLoginLink</source>
         <target>Er du en arbejdsgiver? Log ind her.</target> </trans-unit>
-      <trans-unit id="app.loginPopup.candidateLoginLink" approved="no">
+      <trans-unit id="app.loginPopup.candidateLoginLink" approved="yes">
         <source>app.loginPopup.candidateLoginLink</source>
         <target>Leder du efter jobs? Log ind her.</target> </trans-unit>
-      <trans-unit id="app.loginPopup.notRegisteredYet" approved="no">
+      <trans-unit id="app.loginPopup.notRegisteredYet" approved="yes">
         <source>app.loginPopup.notRegisteredYet</source>
         <target>Er du ikke tilmeldt endnu?</target> </trans-unit>
-      <trans-unit id="app.loginPopup.signUpHer" approved="no">
+      <trans-unit id="app.loginPopup.signUpHer" approved="yes">
         <source>app.loginPopup.signUpHere</source>
         <target>Opret dig her.</target> </trans-unit>
     </body>

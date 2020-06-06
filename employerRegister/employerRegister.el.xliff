@@ -5,79 +5,79 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.register" approved="no">
+      <trans-unit id="app.register" approved="yes">
         <source>app.register</source>
         <target>Register</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionEmployerRegisterPage" approved="no">
+      <trans-unit id="app.metaDescriptionEmployerRegisterPage" approved="yes">
         <source>app.metaDescriptionEmployerRegisterPage</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="app.employerRegisterHeadline" approved="no">
+      <trans-unit id="app.employerRegisterHeadline" approved="yes">
         <source>app.employerRegisterHeadline</source>
         <target>Set up your Transport Talent account</target>
       </trans-unit>
-      <trans-unit id="app.employerRegisterDesc1" approved="no">
+      <trans-unit id="app.employerRegisterDesc1" approved="yes">
         <source>app.employerRegisterDesc1</source>
         <target><![CDATA[Create your free company profile here and get immediate access to top-tier talent.<br><br>]]></target>
       </trans-unit>
-      <trans-unit id="app.employerRegisterDesc2" approved="no">
+      <trans-unit id="app.employerRegisterDesc2" approved="yes">
         <source>app.employerRegisterDesc2</source>
         <target>* Indicates required field.</target>
       </trans-unit>
-      <trans-unit id="app.iAgreeToThe" approved="no">
+      <trans-unit id="app.iAgreeToThe" approved="yes">
         <source>app.iAgreeToThe</source>
         <target>I agree to the</target>
       </trans-unit>
-      <trans-unit id="app.termsConditionsCheckbox" approved="no">
+      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
         <target><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
-      <trans-unit id="app.checkBoxRequiredMsg" approved="no">
+      <trans-unit id="app.checkBoxRequiredMsg" approved="yes">
         <source>app.checkBoxRequiredMsg</source>
         <target>Please check this box if you want to proceed.</target>
       </trans-unit>
-      <trans-unit id="app.title" approved="no">
+      <trans-unit id="app.title" approved="yes">
         <source>app.title</source>
         <target>Title</target>
       </trans-unit>
-      <trans-unit id="app.selectAnOption" approved="no">
+      <trans-unit id="app.selectAnOption" approved="yes">
         <source>app.selectAnOption</source>
         <target>select an option</target>
       </trans-unit>
-      <trans-unit id="app.first_name" approved="no">
+      <trans-unit id="app.first_name" approved="yes">
         <source>app.first_name</source>
         <target>First name</target>
       </trans-unit>
-      <trans-unit id="app.last_name" approved="no">
+      <trans-unit id="app.last_name" approved="yes">
         <source>app.last_name</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="app.position" approved="no">
+      <trans-unit id="app.position" approved="yes">
         <source>app.position</source>
         <target>Επίπεδο</target>
       </trans-unit>
-      <trans-unit id="app.email" approved="no">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="app.company_name" approved="no">
+      <trans-unit id="app.company_name" approved="yes">
         <source>app.company_name</source>
         <target>Company name</target>
       </trans-unit>
-      <trans-unit id="app.password" approved="no">
+      <trans-unit id="app.password" approved="yes">
         <source>app.password</source>
         <target>Password</target>
       </trans-unit>
-      <trans-unit id="app.password_confirmation" approved="no">
+      <trans-unit id="app.password_confirmation" approved="yes">
         <source>app.password_confirmation</source>
         <target>Confirm password</target>
       </trans-unit>
-      <trans-unit id="app.password.mismatch" approved="no">
+      <trans-unit id="app.password.mismatch" approved="yes">
         <source>app.password.mismatch</source>
         <target></target>
       </trans-unit>
-      <trans-unit id="app.signUp" approved="no">
+      <trans-unit id="app.signUp" approved="yes">
         <source>app.signUp</source>
         <target>Εγγραφή</target>
       </trans-unit>

@@ -13,7 +13,7 @@
         <source>app.applicationForwardedEmail.subject</source>
         <target state="translated">Din ansøgning er blevet sendt videre</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidate.applicationSubmitted.subject" approved="no">
+      <trans-unit id="app.uploadedCandidate.applicationSubmitted.subject" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
         <target state="translated">Ny ansøgning er indsendt</target>
       </trans-unit>

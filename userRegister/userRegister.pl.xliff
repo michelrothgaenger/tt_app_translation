@@ -9,23 +9,23 @@
         <source>app.register</source>
         <target state="translated">check our logistics talent and register with us</target>
       </trans-unit>
-      <trans-unit id="app.registration" approved="no">
+      <trans-unit id="app.registration" approved="yes">
         <source>app.registration</source>
         <target>Get Started</target>
       </trans-unit>
-      <trans-unit id="app.signInWithLinkedIn" approved="no">
+      <trans-unit id="app.signInWithLinkedIn" approved="yes">
         <source>app.signInWithLinkedIn</source>
         <target>Sign in with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.signInWithGoogle" approved="no">
+      <trans-unit id="app.signInWithGoogle" approved="yes">
         <source>app.signInWithGoogle</source>
         <target>Sign in with Google</target>
       </trans-unit>
-      <trans-unit id="app.signInWithFB" approved="no">
+      <trans-unit id="app.signInWithFB" approved="yes">
         <source>app.signInWithFB</source>
         <target>Sign in with Facebook</target>
       </trans-unit>
-      <trans-unit id="app.or" approved="no">
+      <trans-unit id="app.or" approved="yes">
         <source>app.or</source>
         <target>or</target>
       </trans-unit>
@@ -37,39 +37,39 @@
         <source>app.termsConditionsCheckbox</source>
         <target state="translated"><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
-      <trans-unit id="registration.check_email" approved="no">
+      <trans-unit id="registration.check_email" approved="yes">
         <source>registration.check_email</source>
         <target>An email has been sent to %email%. It contains an activation link you must click to activate your account.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="no">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>Thank you for signing up with Matchico!</source>
         <target>Thank you for signing up with Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="no">
+      <trans-unit id="registration.email.subject" approved="yes">
         <source>registration.email.subject</source>
         <target>Welcome %username%!</target>
       </trans-unit>
-      <trans-unit id="form.email" approved="no">
+      <trans-unit id="form.email" approved="yes">
         <source>form.email</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="form.firstName" approved="no">
+      <trans-unit id="form.firstName" approved="yes">
         <source>form.firstName</source>
         <target>First name</target>
       </trans-unit>
-      <trans-unit id="form.lastName" approved="no">
+      <trans-unit id="form.lastName" approved="yes">
         <source>form.lastName</source>
         <target>Last name</target>
       </trans-unit>
-      <trans-unit id="form.password" approved="no">
+      <trans-unit id="form.password" approved="yes">
         <source>form.password</source>
         <target>Password</target>
       </trans-unit>
-      <trans-unit id="form.password_confirmation" approved="no">
+      <trans-unit id="form.password_confirmation" approved="yes">
         <source>form.password_confirmation</source>
         <target>Repeat password</target>
       </trans-unit>
-      <trans-unit id="fos_user.password.mismatch" approved="no">
+      <trans-unit id="fos_user.password.mismatch" approved="yes">
         <source>fos_user.password.mismatch</source>
         <target/>
       </trans-unit>

@@ -9,23 +9,23 @@
         <source>app.termsConditions</source>
         <target state="translated"><![CDATA[Terms & Conditions]]></target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionTermsPage" approved="no">
+      <trans-unit id="app.metaDescriptionTermsPage" approved="yes">
         <source>Find the best positions in transport, logistics and supply chain with Matchico. Here are the terms of use for our services.</source>
         <target state="translated">Find the best positions in transport, logistics and supply chain with Transport Talent. Here are the terms of use for our services.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentCandidateTermsAndConditions" approved="no">
+      <trans-unit id="app.transportTalentCandidateTermsAndConditions" approved="yes">
         <source>Matchico Candidate Terms and Conditions</source>
         <target state="translated">Transport Talent Candidate Terms and Conditions</target>
       </trans-unit>
-      <trans-unit id="app.pleaseReadThisAgreementCarefully" approved="no">
+      <trans-unit id="app.pleaseReadThisAgreementCarefully" approved="yes">
         <source>app.pleaseReadThisAgreementCarefully</source>
         <target state="translated">Please read this agreement carefully. It sets out the terms under which Staffhero GmbH &amp; Co. KG offers you use of its services as defined in clause 1.1 of this agreement by means of TransportTalent (The "website"). By using any of the services and/or the website you agree that you have read and accepted these terms and conditions and that you should apply these to your use. If you do not wish to be bound by them, please do not register or use this website.</target>
       </trans-unit>
-      <trans-unit id="app.thisAgreementIsMadeBetween" approved="no">
+      <trans-unit id="app.thisAgreementIsMadeBetween" approved="yes">
         <source>app.thisAgreementIsMadeBetween</source>
         <target state="translated">This Agreement is made between you and Staffhero GmbH &amp; Co. KG whose registered office is</target>
       </trans-unit>
-      <trans-unit id="app.termsPageAddress" approved="no">
+      <trans-unit id="app.termsPageAddress" approved="yes">
         <source>Matchico, Rikkeshave 18, DK-5250 Odense, Denmark</source>
         <target state="translated">Transport Talent, Samsøvej 31, DK-8382 Hinnerup, Denmark</target>
       </trans-unit>
@@ -113,7 +113,7 @@
         <source>app.whenTheUserEstablishesProfileOnTransportTalent</source>
         <target state="translated">When the user establishes a profile on TransportTalent the user also accepts that personal information will be stored on our servers and that part hereof can be shared with the Employers using the services provided by TransportTalent.</target>
       </trans-unit>
-      <trans-unit id="app.yourPersonalDataWillBeCollectedAndProcessed" approved="no">
+      <trans-unit id="app.yourPersonalDataWillBeCollectedAndProcessed" approved="yes">
         <source>app.yourPersonalDataWillBeCollectedAndProcessed</source>
         <target state="translated">Your personal data will be collected and processed by TransportTalent in accordance with its privacy policy. The personal data collected may include, without limitation, your name, address, telephone and fax details, email contact address, and other data obtained from you from time to time. Information may be gathered from your registration form(s) and your use of the Sites and/or the Interactive Services including through "cookies". Cookies are blocks of text placed in files on your computer's hard drive when you visit a web site which contain information to identify you. A cookie does not contain any personal information you have provided us with, except your user name, unless the cookie attached to personal information collected another way, such as by means of your on-line registration form. The information gathered may be used by Staffhero GmbH &amp; Co. KG and companies in the same group as Staffhero GmbH &amp; Co. KG (ie companies which share the same ultimate parent company) internally, for purposes relating to your use of the Sites and the Interactive Services and for marketing activities, and may be passed to carefully selected third parties to use for marketing activities. By marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material. If you do not wish to receive marketing material from Staffhero GmbH &amp; Co. KG, from companies in the same group as Staffhero GmbH &amp; Co. KG or from carefully selected third parties you should tick the appropriate box on the registration form(s) or notify us by e-mail. If you subsequently decide you no longer wish to receive direct marketing/information from Staffhero GmbH &amp; Co. KG or companies in the same group as Staffhero GmbH &amp; Co. KG or no longer wish us to pass your information to third parties you should again notify us by e-mail. Other than as set out elsewhere in this clause 5 your information shall not be disclosed or used by us. You hereby agree to these terms in this clause 5 by your agreement to the terms and conditions of this Agreement.</target>
       </trans-unit>
@@ -129,7 +129,7 @@
         <source>app.claims</source>
         <target state="translated">Refers</target>
       </trans-unit>
-      <trans-unit id="app.youAgreeToIndemnifyTransportTalentAndAllCompanies" approved="no">
+      <trans-unit id="app.youAgreeToIndemnifyTransportTalentAndAllCompanies" approved="yes">
         <source>app.youAgreeToIndemnifyTransportTalentAndAllCompanies</source>
         <target state="translated">You agree to indemnify TransportTalent and all companies within the TransportTalent group for all losses, costs, actions, claims, damages, expenses (including reasonable legal costs and expenses) or liabilities, whatsoever suffered or incurred by TransportTalent or companies within the Staffhero GmbH &amp; Co. KG group in or as a consequence of your breach of this Agreement and/or your use of the Website and/or Services (save to the extent that a court of competent jurisdiction holds that such a claim arose due to an act or omission of TransportTalent).</target>
       </trans-unit>
@@ -157,7 +157,7 @@
         <source>app.thisAgreementShallBePersonalToYouAndYouMayNotAssign</source>
         <target state="translated">This Agreement shall be personal to you and you may not assign, transfer, sublet, lease or delegate all or any of your rights and obligations, without TransportTalenet’s prior written consent.</target>
       </trans-unit>
-      <trans-unit id="app.transportTalentReservesTheRightToAssignOrTransfer" approved="no">
+      <trans-unit id="app.transportTalentReservesTheRightToAssignOrTransfer" approved="yes">
         <source>app.transportTalentReservesTheRightToAssignOrTransfer</source>
         <target state="translated">TransportTalent reserves the right to assign or transfer all or any of its rights and obligations under this Agreement to any companies in the same group as Staffhero GmbH &amp; Co. KG or any other third party. In the event of assignment or transfer, notification will either be given to you by e-mail or posted on the Website.</target>
       </trans-unit>
@@ -197,11 +197,11 @@
         <source>app.thisAgreementShallBeGovernedByTheLawsDenmark</source>
         <target state="translated">This Agreement shall be governed by the laws of Denmark and you hereby submit to the exclusive jurisdiction of the Danish courts.</target>
       </trans-unit>
-      <trans-unit id="app.contactTransportTalent" approved="no">
+      <trans-unit id="app.contactTransportTalent" approved="yes">
         <source>Contact Matchico</source>
         <target state="translated">Contact Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="no">
+      <trans-unit id="app.ifYouHaveAnyQuestionsConcernsOrCommentsRegardingTransportTalent" approved="yes">
         <source>If you have any questions, concerns or comments regarding Matchico or this website, please contact us:</source>
         <target state="translated">If you have any questions, concerns or comments regarding Transport Talent or this website, please contact us:</target>
       </trans-unit>

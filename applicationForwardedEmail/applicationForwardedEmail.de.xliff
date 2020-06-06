@@ -13,19 +13,19 @@
         <source>app.uploadedCandidate.applicationSubmitted.subject</source>
         <target state="translated">Eine neue Bewerbung wurde übermittelt</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="no">
+      <trans-unit id="app.uploadedCandidate.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.applicationSubmitted.content</source>
         <target state="translated">Vielen Dank für Ihr Interesse an dieser Position. Wir haben Ihre Bewerbung an die Firma %companyName% erhalten. Ihre Bewerbung und Ihr eingereichter Lebenslauf wurden übermittelt. Nachfolgend finden Sie eine Kopie Ihrer Bewerbung&lt;/b&gt;&gt;br&gt;&lt;g&gt;applicationMessage%&lt;/i&gt;br&gt;&gt; Unsere Personalvermittler prüfen sie derzeit und werden sich mit Ihnen in Verbindung setzen, um das weitere Vorgehen zu besprechen oder wenn Fragen auftauchen.&lt;br&gt;br&gt;br&gt; Viel Erfolg mit Ihrer Bewerbung, Michel Rothgaenger</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="no">
+      <trans-unit id="app.uploadedCandidate.existingUser.applicationSubmitted.content" approved="yes">
         <source>app.uploadedCandidate.existingUser.applicationSubmitted.content</source>
         <target state="translated">Hej %firstName%,&lt;br&gt;&lt;br&gt; %recruiterFirstName% %recruiterLastName% hat Ihre Bewerbung für %position%, &lt;br&gt;&lt;br&gt; übermittelt, ist das in Ihrem Sinne? Bitte klicken Sie &lt;a href="%confirmationLink% "&gt;%confirmationLink%&lt;/a&gt; um Ihre Bewerbung zu bestätigen.</target>
       </trans-unit>
-      <trans-unit id="app.applicationForwardedEmail.firstPart" approved="no">
+      <trans-unit id="app.applicationForwardedEmail.firstPart" approved="yes">
         <source>app.applicationForwardedEmail.firstPart</source>
         <target state="translated">Hej %firstName%,&lt;br&gt;&lt;br&gt;</target>
       </trans-unit>
-      <trans-unit id="app.applicationForwardedEmail.secondPart" approved="no">
+      <trans-unit id="app.applicationForwardedEmail.secondPart" approved="yes">
         <source>app.applicationForwardedEmail.secondPart</source>
         <target state="translated">Ihre Bewerbung bei der Firma %companyName% wurde übermittelt. Wir haben den CV, den Sie eingereicht haben, angehängt. &lt;br&gt;&lt;br&gt;&lt;b&gt;Eine Kopie Ihrer Bewerbung finden Sie unten:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;%applicationMessage%&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Was passiert nun?&lt;/b&gt;&lt;br&gt;&lt;br&gt;Wir werden Ihre Bewerbung prüfen und Sie bei Fragen direkt kontaktieren. &lt;br&gt;&lt;br&gt;Vielen Dank, dass Sie Transport Talent nutzen und viel Erfolg bei Ihrer Bewerbung. &lt;br&gt;&lt;br&gt;Viele Grüße&lt;br&gt;&lt;br&gt; Michel Rothgaenger</target>
       </trans-unit>

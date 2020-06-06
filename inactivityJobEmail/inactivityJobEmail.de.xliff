@@ -9,7 +9,7 @@
         <source>app.inactivityJobEmail.subject</source>
         <target state="translated">Inaktive Stellenanzeige "%jobTitle%" für das Unternehmen "%companyName%"</target>
       </trans-unit>
-      <trans-unit id="app.inactivityJobEmail.text" approved="no">
+      <trans-unit id="app.inactivityJobEmail.text" approved="yes">
         <source>Dear %firstName%,&lt;br&gt;&lt;br&gt;Your ad in the subject line has been online for 30 days. It is important to us, that our candidates receive current offers always. Please click here if the ad is still up to date: %confirmUrl% Please click here if you would like to deactivate the display: %deactivateUrl%Thank you for your cooperation! &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Hej %firstName%, Ihre im Betreff genannte Anzeige ist bereits seit 30 Tagen online. Wir haben großes Interesse, dass unsere Nutzer stets aktuelle Angebote erhalten. Bitte klicken Sie hier, wenn die Anzeige weiterhin aktuell ist: %confirmUrl% Bitte klicken Sie hier, wenn die Anzeige deaktiviert werden soll: %deactivateUrl% Vielen Dank für Ihre Mitarbeit! Mit besten Grüßen, Ihr Transport Talent Team</target>
       </trans-unit>

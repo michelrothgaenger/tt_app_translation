@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.email.welcomeEmployer" approved="no">
+      <trans-unit id="app.email.welcomeEmployer" approved="yes">
         <source>app.email.welcomeEmployer</source>
         <target></target>
       </trans-unit>

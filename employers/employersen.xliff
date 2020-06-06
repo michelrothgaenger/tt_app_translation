@@ -5,47 +5,47 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.employers.meta.companiesWord" approved="no">
+      <trans-unit id="app.employers.meta.companiesWord" approved="yes">
         <source>app.employers.meta.companiesWord</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.companyProfiles" approved="no">
+      <trans-unit id="app.companyProfiles" approved="yes">
         <source>app.companyProfiles</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.pageDescription" approved="no">
+      <trans-unit id="app.employers.pageDescription" approved="yes">
         <source>app.employers.pageDescription</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.noCompaniesFound" approved="no">
+      <trans-unit id="app.noCompaniesFound" approved="yes">
         <source>app.noCompaniesFound</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.various" approved="no">
+      <trans-unit id="app.employers.various" approved="yes">
         <source>app.employers.various</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.company.jobsOnline" approved="no">
+      <trans-unit id="app.employers.company.jobsOnline" approved="yes">
         <source>app.employers.company.jobsOnline</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.button.companySave" approved="no">
+      <trans-unit id="app.employers.button.companySave" approved="yes">
         <source>app.employers.button.companySave</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.button.companySaved" approved="no">
+      <trans-unit id="app.employers.button.companySaved" approved="yes">
         <source>app.employers.button.companySaved</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.company.cities" approved="no">
+      <trans-unit id="app.employers.company.cities" approved="yes">
         <source>app.employers.company.cities</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.company.jobTypes" approved="no">
+      <trans-unit id="app.employers.company.jobTypes" approved="yes">
         <source>app.employers.company.jobTypes</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.employers.company.levels" approved="no">
+      <trans-unit id="app.employers.company.levels" approved="yes">
         <source>app.employers.company.levels</source>
         <target state="translated"></target>
       </trans-unit>

@@ -29,11 +29,11 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Nuestra dirección de correo es:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="no">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target state="translated">Derechos de autor © %year% %companyName%, Todos los derechos reservados.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="yes">
         <source>app.emailLayout.defaultCompanyName</source>
         <target>Staffhero GmbH &amp; Co. KG</target>
       </trans-unit>

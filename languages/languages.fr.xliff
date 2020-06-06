@@ -17,7 +17,7 @@
         <source>Afrikaans</source>
         <target state="translated">Afrikaans</target>
       </trans-unit>
-      <trans-unit id="Akan" approved="no">
+      <trans-unit id="Akan" approved="yes">
         <source>Akan</source>
         <target>Akan</target>
       </trans-unit>
@@ -77,7 +77,7 @@
         <source>Belarusian</source>
         <target state="translated">Biélorusse</target>
       </trans-unit>
-      <trans-unit id="Bengali" approved="no">
+      <trans-unit id="Bengali" approved="yes">
         <source>Bengali</source>
         <target>Bengali</target>
       </trans-unit>
@@ -97,7 +97,7 @@
         <source>Bosnian</source>
         <target state="translated">Bosnien</target>
       </trans-unit>
-      <trans-unit id="Breton" approved="no">
+      <trans-unit id="Breton" approved="yes">
         <source>Breton</source>
         <target>Breton</target>
       </trans-unit>
@@ -109,7 +109,7 @@
         <source>Burmese</source>
         <target state="translated">Birman</target>
       </trans-unit>
-      <trans-unit id="Catalan" approved="no">
+      <trans-unit id="Catalan" approved="yes">
         <source>Catalan</source>
         <target>Catalan</target>
       </trans-unit>
@@ -117,7 +117,7 @@
         <source>Central Khmer</source>
         <target state="translated">Khmer Kandal</target>
       </trans-unit>
-      <trans-unit id="Chamorro" approved="no">
+      <trans-unit id="Chamorro" approved="yes">
         <source>Chamorro</source>
         <target>Chamorro</target>
       </trans-unit>
@@ -145,7 +145,7 @@
         <source>Corsican</source>
         <target state="translated">Corse</target>
       </trans-unit>
-      <trans-unit id="Cree" approved="no">
+      <trans-unit id="Cree" approved="yes">
         <source>Cree</source>
         <target>Cree</target>
       </trans-unit>
@@ -177,7 +177,7 @@
         <source>English</source>
         <target state="translated">Anglais</target>
       </trans-unit>
-      <trans-unit id="Esperanto" approved="no">
+      <trans-unit id="Esperanto" approved="yes">
         <source>Esperanto</source>
         <target>Esperanto</target>
       </trans-unit>
@@ -409,7 +409,7 @@
         <source>Malay</source>
         <target state="translated">Malais</target>
       </trans-unit>
-      <trans-unit id="Malayalam" approved="no">
+      <trans-unit id="Malayalam" approved="yes">
         <source>Malayalam</source>
         <target>Malayalam</target>
       </trans-unit>
@@ -421,11 +421,11 @@
         <source>Manx</source>
         <target state="translated">Mannois</target>
       </trans-unit>
-      <trans-unit id="Maori" approved="no">
+      <trans-unit id="Maori" approved="yes">
         <source>Maori</source>
         <target>Maori</target>
       </trans-unit>
-      <trans-unit id="Marathi" approved="no">
+      <trans-unit id="Marathi" approved="yes">
         <source>Marathi</source>
         <target>Marathi</target>
       </trans-unit>
@@ -565,11 +565,11 @@
         <source>Serbian</source>
         <target state="translated">Serbe</target>
       </trans-unit>
-      <trans-unit id="Shona" approved="no">
+      <trans-unit id="Shona" approved="yes">
         <source>Shona</source>
         <target>Shona</target>
       </trans-unit>
-      <trans-unit id="Sindhi" approved="no">
+      <trans-unit id="Sindhi" approved="yes">
         <source>Sindhi</source>
         <target>Sindhi</target>
       </trans-unit>
@@ -601,7 +601,7 @@
         <source>Sundanese</source>
         <target state="translated">Soudanais</target>
       </trans-unit>
-      <trans-unit id="Swahili" approved="no">
+      <trans-unit id="Swahili" approved="yes">
         <source>Swahili</source>
         <target>Swahili</target>
       </trans-unit>
@@ -613,7 +613,7 @@
         <source>Swedish</source>
         <target state="translated">Suédois</target>
       </trans-unit>
-      <trans-unit id="Tagalog" approved="no">
+      <trans-unit id="Tagalog" approved="yes">
         <source>Tagalog</source>
         <target>Tagalog</target>
       </trans-unit>
@@ -629,7 +629,7 @@
         <source>Tamil</source>
         <target state="translated">Tamoul</target>
       </trans-unit>
-      <trans-unit id="Tatar" approved="no">
+      <trans-unit id="Tatar" approved="yes">
         <source>Tatar</source>
         <target>Tatar</target>
       </trans-unit>
@@ -645,7 +645,7 @@
         <source>Tibetan</source>
         <target state="translated">Tibétain</target>
       </trans-unit>
-      <trans-unit id="Tigrinya" approved="no">
+      <trans-unit id="Tigrinya" approved="yes">
         <source>Tigrinya</source>
         <target>Tigrinya</target>
       </trans-unit>
@@ -653,7 +653,7 @@
         <source>Tonga (Tonga Islands)</source>
         <target state="translated">Tongien</target>
       </trans-unit>
-      <trans-unit id="Tsonga" approved="no">
+      <trans-unit id="Tsonga" approved="yes">
         <source>Tsonga</source>
         <target>Tsonga</target>
       </trans-unit>
@@ -689,7 +689,7 @@
         <source>Uzbek</source>
         <target state="translated">Ouzbek</target>
       </trans-unit>
-      <trans-unit id="Venda" approved="no">
+      <trans-unit id="Venda" approved="yes">
         <source>Venda</source>
         <target>Venda</target>
       </trans-unit>
@@ -713,7 +713,7 @@
         <source>Western Frisian</source>
         <target state="translated">Frison occidental</target>
       </trans-unit>
-      <trans-unit id="Wolof" approved="no">
+      <trans-unit id="Wolof" approved="yes">
         <source>Wolof</source>
         <target>Wolof</target>
       </trans-unit>
@@ -721,11 +721,11 @@
         <source>Xhosa</source>
         <target state="translated">Xhosa</target>
       </trans-unit>
-      <trans-unit id="Yiddish" approved="no">
+      <trans-unit id="Yiddish" approved="yes">
         <source>Yiddish</source>
         <target>Yiddish</target>
       </trans-unit>
-      <trans-unit id="Yoruba" approved="no">
+      <trans-unit id="Yoruba" approved="yes">
         <source>Yoruba</source>
         <target>Yoruba</target>
       </trans-unit>

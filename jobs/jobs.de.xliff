@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobs" approved="no">
+      <trans-unit id="app.jobs" approved="yes">
         <source>app.jobs</source>
         <target state="translated">Stellenanzeigen</target>
       </trans-unit>
@@ -85,7 +85,7 @@
         <source>app.jobs.alert.editCreate.noTitleError</source>
         <target state="translated">Bitte geben Sie eine Bezeichnung ein</target>
       </trans-unit>
-      <trans-unit id="app.jobs.selectAutocompleteItem" approved="no">
+      <trans-unit id="app.jobs.selectAutocompleteItem" approved="yes">
         <source>app.jobs.selectAutocompleteItem</source>
         <target state="translated">Bitte wählen Sie einen Eintrag aus der Liste, um fortzufahren!</target>
       </trans-unit>
@@ -129,27 +129,27 @@
         <source>app.jobs.jobBlock.uploadCV</source>
         <target state="translated">CV hochladen</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.title</source>
         <target>Hej</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.info</source>
         <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie TT mit allen Funktionen nutzen.</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+      <trans-unit id="app.jobs.replaceCompanyName" approved="yes">
         <source>Matchico on behalf of a client</source>
         <target state="translated">Transport Talent im Auftrag eines Kunden</target>
       </trans-unit>
-      <trans-unit id="app.jobs.blinding.title" approved="no">
+      <trans-unit id="app.jobs.blinding.title" approved="yes">
         <source>app.jobs.blinding.title</source>
         <target>Blind Job Buchung</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+      <trans-unit id="app.jobs.jobBlock.showDetails" approved="yes">
         <source>app.jobs.jobBlock.showDetails</source>
         <target>Details anzeigen</target>
       </trans-unit>

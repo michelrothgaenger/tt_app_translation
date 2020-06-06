@@ -41,11 +41,11 @@
         <source>registration.check_email</source>
         <target state="translated">An email has been sent to %email%. It contains an activation link you must click to activate your account.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="no">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>Thank you for signing up with Matchico!</source>
         <target state="translated">Thank you for signing up with Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="no">
+      <trans-unit id="registration.email.subject" approved="yes">
         <source>Welcome to Matchico!</source>
         <target state="translated">Welcome to Transport Talent!</target>
       </trans-unit>
@@ -213,7 +213,7 @@
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated"><![CDATA[Step 1/3: Summary]]></target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortCV" approved="no">
+      <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
         <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
         <target state="translated">Want to get headhunted and get the best out of Transport Talent? Make sure to complete the last part of your profile.</target>
       </trans-unit>
@@ -265,7 +265,7 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Connect with LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="no">
+      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
         <source>app.userRegister.step5.congrats</source>
         <target state="translated">Congrats! You've successfully connected your LinkedIn account with Transport Talent.</target>
       </trans-unit>

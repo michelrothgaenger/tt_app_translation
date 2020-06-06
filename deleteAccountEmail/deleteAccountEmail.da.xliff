@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="no">
+      <trans-unit id="app.deleteAccount.confirmationEmail.subject" approved="yes">
         <source>app.deleteAccount.confirmationEmail.subject</source>
         <target state="translated">Bekræftelse af sletning af konto</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="no">
+      <trans-unit id="app.deleteAccount.informCountryManager.subject" approved="yes">
         <source>app.deleteAccount.informCountryManager.subject</source>
         <target>Bruger ønsker at slette profil</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.informCountryManager.content" approved="no">
+      <trans-unit id="app.deleteAccount.informCountryManager.content" approved="yes">
         <source>app.deleteAccount.informCountryManager.content</source>
         <target>Bruger (%userEmail%) har slettet profil. Deres data vil blive slettet på% deleteDate%</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="no">
+      <trans-unit id="app.deleteAccount.informUserBeforeExpiration.subject" approved="yes">
         <source>app.deleteAccount.informUserBeforeExpiration.subject</source>
         <target>Vi er kede af at du forlader os.</target> </trans-unit>
-      <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="no">
+      <trans-unit id="app.deleteAccount.emailInExpirationDate.subject" approved="yes">
         <source>app.deleteAccount.emailInExpirationDate.subject</source>
         <target>Din profil er blevet slettet</target> </trans-unit>
     </body>

@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.landing.button.register" approved="no">
+      <trans-unit id="app.landing.button.register" approved="yes">
         <source>app.landing.button.register</source>
         <target>Check our logistics talent and register with us</target>
       </trans-unit>
-      <trans-unit id="app.landing.jobsCount" approved="no">
+      <trans-unit id="app.landing.jobsCount" approved="yes">
         <source>app.landing.jobsCount</source>
         <target>%count% job|%count% jobs</target>
       </trans-unit>

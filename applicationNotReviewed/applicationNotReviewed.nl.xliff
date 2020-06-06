@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.applicationNotReviewed.subject" approved="no">
+      <trans-unit id="app.applicationNotReviewed.subject" approved="yes">
         <source>app.applicationNotReviewed.subject</source>
         <target state="translated">Your application is still pending</target>
       </trans-unit>
-      <trans-unit id="app.applicationNotReviewed.content" approved="no">
+      <trans-unit id="app.applicationNotReviewed.content" approved="yes">
         <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position: %jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;&lt;br&gt;Good luck with your application.&lt;br&gt;&lt;br&gt;Best Regards, &lt;br&gt;&lt;br&gt;Your Transport Talent Team</source>
         <target state="translated">Dear %firstName%,&lt;br&gt;&lt;br&gt;Your application to the company %companyName% for the position:%jobTitle% is still pending. Our recruiters will review it and contact you to discuss further proceedings or should any questions arise.&lt;br&gt;br&gt;Good luck with your application.&lt;br&gt;br&gt;Best Regards, &lt;br&gt;br&gt;Your Transport Talent Team</target>
       </trans-unit>

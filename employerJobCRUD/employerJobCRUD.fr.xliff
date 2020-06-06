@@ -5,127 +5,127 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.editJobHeadline" approved="no">
+      <trans-unit id="app.editJobHeadline" approved="yes">
         <source>app.editJobHeadline</source>
         <target>Edit your job</target>
       </trans-unit>
-      <trans-unit id="app.postJobHeadline" approved="no">
+      <trans-unit id="app.postJobHeadline" approved="yes">
         <source>app.postJobHeadline</source>
         <target>Post your job</target>
       </trans-unit>
-      <trans-unit id="app.crudJobHeadlineDesc" approved="no">
+      <trans-unit id="app.crudJobHeadlineDesc" approved="yes">
         <source>app.crudJobHeadlineDesc</source>
         <target>Fill in below the necessary information and save.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.cancel" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.cancel" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target>Abort and back to list</target>
       </trans-unit>
-      <trans-unit id="app.employerJobEdit.info.postTitle" approved="no">
+      <trans-unit id="app.employerJobEdit.info.postTitle" approved="yes">
         <source>app.employerJobEdit.info.postTitle</source>
         <target>Job post</target>
       </trans-unit>
-      <trans-unit id="app.employerJobEdit.info.jobId" approved="no">
+      <trans-unit id="app.employerJobEdit.info.jobId" approved="yes">
         <source>app.employerJobEdit.info.jobId</source>
         <target>Job ID:</target>
       </trans-unit>
-      <trans-unit id="app.email" approved="no">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target>Contact Email</target>
       </trans-unit>
-      <trans-unit id="app.jobTitle" approved="no">
+      <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target>Job title</target>
       </trans-unit>
-      <trans-unit id="app.salary" approved="no">
+      <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
         <target>Salary</target>
       </trans-unit>
-      <trans-unit id="app.department" approved="no">
+      <trans-unit id="app.department" approved="yes">
         <source>app.department</source>
         <target>Department</target>
       </trans-unit>
-      <trans-unit id="app.city" approved="no">
+      <trans-unit id="app.city" approved="yes">
         <source>app.city</source>
         <target>City</target>
       </trans-unit>
-      <trans-unit id="app.state" approved="no">
+      <trans-unit id="app.state" approved="yes">
         <source>app.state</source>
         <target>State</target>
       </trans-unit>
-      <trans-unit id="app.country" approved="no">
+      <trans-unit id="app.country" approved="yes">
         <source>app.country</source>
         <target>Country</target>
       </trans-unit>
-      <trans-unit id="app.contractTerm" approved="no">
+      <trans-unit id="app.contractTerm" approved="yes">
         <source>app.contractTerm</source>
         <target>Contract term</target>
       </trans-unit>
-      <trans-unit id="app.jobDescription" approved="no">
+      <trans-unit id="app.jobDescription" approved="yes">
         <source>app.jobDescription</source>
         <target>Description</target>
       </trans-unit>
-      <trans-unit id="app.save" approved="no">
+      <trans-unit id="app.save" approved="yes">
         <source>app.save</source>
         <target>Save</target>
       </trans-unit>
-      <trans-unit id="app.postAnotherJob" approved="no">
+      <trans-unit id="app.postAnotherJob" approved="yes">
         <source>app.postAnotherJob</source>
         <target>Post another job</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
         <target>Take offline</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.publishJobNow" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.publishJobNow" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.publishJobNow</source>
         <target>Publish job now</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.preview" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.preview" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.preview</source>
         <target>Preview</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.edit" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.edit" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.edit</source>
         <target>Edit</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.delimiterLabel" approved="no">
+      <trans-unit id="app.employerJobCRUD.delimiterLabel" approved="yes">
         <source>app.employerJobCRUD.delimiterLabel</source>
         <target>or later</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.requiredErrorText" approved="no">
+      <trans-unit id="app.employerJobCRUD.requiredErrorText" approved="yes">
         <source>app.employerJobCRUD.requiredErrorText</source>
         <target>This field is required.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.datetimeRequiredErrorText" approved="no">
+      <trans-unit id="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
         <target>This field is required for post job later.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.postJobLater" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
         <target>POST JOB LATER</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.saveJobForLaterButtonLabel" approved="no">
+      <trans-unit id="app.employerJobCRUD.saveJobForLaterButtonLabel" approved="yes">
         <source>app.employerJobCRUD.saveJobForLaterButtonLabel</source>
         <target>SAVE FOR LATER</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.labelFromDate" approved="no">
+      <trans-unit id="app.employerJobCRUD.labelFromDate" approved="yes">
         <source>app.employerJobCRUD.labelFromDate</source>
         <target>From</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.labelFromTime" approved="no">
+      <trans-unit id="app.employerJobCRUD.labelFromTime" approved="yes">
         <source>app.employerJobCRUD.labelFromTime</source>
         <target>at</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.labelAfterHourInput" approved="no">
+      <trans-unit id="app.employerJobCRUD.labelAfterHourInput" approved="yes">
         <source>app.employerJobCRUD.labelAfterHourInput</source>
         <target>h</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="no">
+      <trans-unit id="app.employerJobCRUD.disabledSelectOption" approved="yes">
         <source>app.employerJobCRUD.disabledSelectOption</source>
         <target>--select an option--</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="no">
+      <trans-unit id="app.employerJobCRUD.emptyRequiredInputsAlertMessage" approved="yes">
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target>Please check fields again</target>
       </trans-unit>

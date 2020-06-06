@@ -29,11 +29,11 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Our mailing address is:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="no">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target state="translated">Copyright © %year% %companyName%, All rights reserved.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="yes">
         <source>app.emailLayout.defaultCompanyName</source>
         <target>Transport Talent GmbH &amp; Co. KG</target>
       </trans-unit>

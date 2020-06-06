@@ -49,7 +49,7 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">Wir sind ein weltweit tätiges Unternehmen. Hier finden Sie unsere Standorte:</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.denmark" approved="no">
+      <trans-unit id="app.contact.section.offices.location.denmark" approved="yes">
         <source>app.contact.section.offices.location.denmark</source>
         <target state="translated">&amp;lt;div&amp;gt;&amp;lt;b&amp;gt;Dänemark:&amp;lt;/b&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Transport Talent GmbH &amp; Co. KG&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;Danneskiold-Samsøes Allé 41&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;DK-1434 Kopenhagen&amp;lt;/div&amp;gt;</target>
       </trans-unit>
@@ -73,11 +73,11 @@
         <source>app.contact.page.confirm.description</source>
         <target state="translated">Ihre Anfrage wurde erfolgreich übertragen und wird schnellstmöglich bearbeitet.</target>
       </trans-unit>
-      <trans-unit id="app.contact.meta.description" approved="no">
+      <trans-unit id="app.contact.meta.description" approved="yes">
         <source>Transport Talent is the leading job portal for the transport and logistics industry. Get in touch with us if we can help you make your next career move or if you want us to support your hiring process.</source>
         <target state="translated">Transport Talen ist das führende Stellenportal für Ihrem Fachgebiet. Nehmen Sie Kontakt mit uns auf, wenn wir Sie bei Ihrem nächsten Karriereschritt oder dem Besetzen von Vakanzen unterstützen können.</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.location.germany" approved="no">
+      <trans-unit id="app.contact.section.offices.location.germany" approved="yes">
         <source>&lt;div&gt;&lt;b&gt;Germany:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</source>
         <target state="translated">&lt;div&gt;&lt;b&gt;Deutschland:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Transport Talent&lt;/div&gt;&lt;div&gt;Bernstorfstrasse 120&lt;/div&gt;&lt;div&gt;D-22767 Hamburg&lt;/div&gt;</target>
       </trans-unit>

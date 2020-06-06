@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.applicationInProcess.subject" approved="no">
+      <trans-unit id="app.applicationInProcess.subject" approved="yes">
         <source>app.applicationInProcess.subject</source>
         <target state="translated">Bewerbung benötigt Bewertung</target>
       </trans-unit>
-      <trans-unit id="app.applicationInProcess.content" approved="no">
+      <trans-unit id="app.applicationInProcess.content" approved="yes">
         <source>app.applicationInProcess.content</source>
         <target state="translated">Hej %firstNameHR%,&lt;br&gt;&lt;br&gt;Ihre Bewerbung für die Stelle: %jobTitle%" mit dem Status "%applicationStatus%" wird noch geprüft. Unsere Personalvermittler werden Sie kontaktieren, wenn weitere Informationen benötigt werden. &lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Ihr Michel Rothgaenger</target>
       </trans-unit>

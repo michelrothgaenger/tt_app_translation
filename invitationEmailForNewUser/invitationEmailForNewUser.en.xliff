@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.invitationEmailForNewUser.firstPart" approved="no">
+      <trans-unit id="app.invitationEmailForNewUser.firstPart" approved="yes">
         <source>app.invitationEmailForNewUser.firstPart</source>
         <target state="translated">Hi %userFirstName%, &lt;br&gt; %adminFirstName% %adminLastName% has added you as a user</target>
       </trans-unit>
@@ -13,11 +13,11 @@
         <source>app.invitationEmailForNewUser.categoryPart</source>
         <target state="translated">for %category% </target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForNewUser.secondPart" approved="no">
+      <trans-unit id="app.invitationEmailForNewUser.secondPart" approved="yes">
         <source>at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Transport Talent Team</source>
         <target state="translated">at %company%. You can now manage all job postings for your department (%category% at %company%) via the dashboard. &lt;br&gt;br&gt;br&gt;%linkToDashboard% &lt;br&gt;&lt;lt;br&gt;If you have any questions about this process, please feel free to contact us. To do so, simply reply to this e-mail. &lt;Br&gt;Br&gt;Best Regards,&lt;br&gt;br&gt;Your Matchico Team</target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForNewUser.subject" approved="no">
+      <trans-unit id="app.invitationEmailForNewUser.subject" approved="yes">
         <source>You have been invited to manage jobs for %company% on Transport Talent</source>
         <target state="translated">You have been invited to manage jobs for %company% on Matchico</target>
       </trans-unit>

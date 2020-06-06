@@ -129,27 +129,27 @@
         <source>app.jobs.popup.referral.shareTitle</source>
         <target state="translated">Hi, checkout this job ad "%title%".</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.title</source>
         <target>Hi</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="yes">
         <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
         <target>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</target>
       </trans-unit>
-      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="no">
+      <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="yes">
         <source>app.jobs.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.jobs.replaceCompanyName" approved="no">
+      <trans-unit id="app.jobs.replaceCompanyName" approved="yes">
         <source>Transport Talent on behalf of a client</source>
         <target>Matchico on behalf of a client</target>
       </trans-unit>
-      <trans-unit id="app.jobs.blinding.title" approved="no">
+      <trans-unit id="app.jobs.blinding.title" approved="yes">
         <source>app.jobs.blinding.title</source>
         <target>Blind job Posting</target>
       </trans-unit>
-      <trans-unit id="app.jobs.jobBlock.showDetails" approved="no">
+      <trans-unit id="app.jobs.jobBlock.showDetails" approved="yes">
         <source>app.jobs.jobBlock.showDetails</source>
         <target>Show details</target>
       </trans-unit>

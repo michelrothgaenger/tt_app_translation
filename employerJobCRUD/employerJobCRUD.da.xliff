@@ -9,7 +9,7 @@
         <source>app.editJobHeadline</source>
         <target state="translated">Rediger job</target>
       </trans-unit>
-      <trans-unit id="app.postJobHeadline" approved="no">
+      <trans-unit id="app.postJobHeadline" approved="yes">
         <source>app.postJobHeadline</source>
         <target state="translated">Lav jobopslag</target>
       </trans-unit>
@@ -17,7 +17,7 @@
         <source>app.crudJobHeadlineDesc</source>
         <target state="translated">Udfyld de nødvendige oplysninger nedenfor og gem dem.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.cancel" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.cancel" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.cancel</source>
         <target state="translated">Afbryd og gå tilbage til listen</target>
       </trans-unit>
@@ -37,7 +37,7 @@
         <source>app.jobTitle</source>
         <target state="translated">Jobtitel</target>
       </trans-unit>
-      <trans-unit id="app.salary" approved="no">
+      <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
         <target state="translated">Årlig lønniveau</target>
       </trans-unit>
@@ -73,7 +73,7 @@
         <source>app.postAnotherJob</source>
         <target state="translated">Lav et nyt jobopslag</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.unpublish" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.unpublish</source>
         <target state="translated">Tag job offline</target>
       </trans-unit>
@@ -97,11 +97,11 @@
         <source>app.employerJobCRUD.requiredErrorText</source>
         <target state="translated">Dette feldt er påkrævet.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.datetimeRequiredErrorText" approved="no">
+      <trans-unit id="app.employerJobCRUD.datetimeRequiredErrorText" approved="yes">
         <source>app.employerJobCRUD.datetimeRequiredErrorText</source>
         <target state="translated">Dette felt er påkrævet for at lave jobopslag senere.</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.buttonLabel.postJobLater" approved="no">
+      <trans-unit id="app.employerJobCRUD.buttonLabel.postJobLater" approved="yes">
         <source>app.employerJobCRUD.buttonLabel.postJobLater</source>
         <target state="translated">LAV JOBOPSLAG SENERE</target>
       </trans-unit>
@@ -129,7 +129,7 @@
         <source>app.employerJobCRUD.emptyRequiredInputsAlertMessage</source>
         <target state="translated">Check venligt felter igen</target>
       </trans-unit>
-      <trans-unit id="app.employerJobEdit.info.editTitle" approved="no">
+      <trans-unit id="app.employerJobEdit.info.editTitle" approved="yes">
         <source>app.employerJobEdit.info.editTitle</source>
         <target state="translated">Job redigering</target>
       </trans-unit>
@@ -157,7 +157,7 @@
         <source>app.reward</source>
         <target state="translated">Belønning til personen der anbefaler</target>
       </trans-unit>
-      <trans-unit id="app.job.form.referral.title" approved="no">
+      <trans-unit id="app.job.form.referral.title" approved="yes">
         <source>app.job.form.referral.title</source>
         <target state="translated">Brug anbefaling?</target>
       </trans-unit>
@@ -173,43 +173,43 @@
         <source>app.currency</source>
         <target state="translated">Valuta</target>
       </trans-unit>
-      <trans-unit id="app.job.template.label" approved="no">
+      <trans-unit id="app.job.template.label" approved="yes">
         <source>app.job.template.label</source>
         <target>Vælg skabelon</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.salary.patternError" approved="no">
+      <trans-unit id="app.employerJobCRUD.salary.patternError" approved="yes">
         <source>app.employerJobCRUD.salary.patternError</source>
         <target>Minimum 4 symboler, kun numeriske tegn</target>
       </trans-unit>
-      <trans-unit id="app.job.chooseCurrency" approved="no">
+      <trans-unit id="app.job.chooseCurrency" approved="yes">
         <source>app.job.chooseCurrency</source>
         <target state="translated">Vælg valuta</target>
       </trans-unit>
-      <trans-unit id="app.job.currency.label" approved="no">
+      <trans-unit id="app.job.currency.label" approved="yes">
         <source>app.job.currency.label</source>
         <target state="translated">Valuta</target>
       </trans-unit>
-      <trans-unit id="app.job.chooseSalary" approved="no">
+      <trans-unit id="app.job.chooseSalary" approved="yes">
         <source>app.job.chooseSalary</source>
         <target state="translated">Vælg løn</target>
       </trans-unit>
-      <trans-unit id="app.jobCrud.company.label" approved="no">
+      <trans-unit id="app.jobCrud.company.label" approved="yes">
         <source>app.jobCrud.company.label</source>
         <target state="translated">Virksomhed</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.label" approved="no">
+      <trans-unit id="app.job.blinding.label" approved="yes">
         <source>app.job.blinding.label</source>
         <target>Lav jobopslag uden at virksomhedsnavn fremgår (Job vil fremgå som Transport Talent på vegne af kunde.)</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind jobannonce</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="no">
+      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="yes">
         <source>app.employerJobCRUD.disabledSelectPreviousJobPosting</source>
         <target>--vælg a tidligere job annonce--</target>
       </trans-unit>
-      <trans-unit id="app.job.targetAnnualSalary.title" approved="no">
+      <trans-unit id="app.job.targetAnnualSalary.title" approved="yes">
         <source>app.job.targetAnnualSalary.title</source>
         <target>Årlige lønniveau</target>
       </trans-unit>

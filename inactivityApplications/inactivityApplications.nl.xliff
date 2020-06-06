@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.inactivityApplications.subject" approved="no">
+      <trans-unit id="app.inactivityApplications.subject" approved="yes">
         <source>app.inactivityApplications.subject</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.inactivityApplications.content" approved="no">
+      <trans-unit id="app.inactivityApplications.content" approved="yes">
         <source>app.inactivityApplications.content</source>
         <target state="translated"></target>
       </trans-unit>

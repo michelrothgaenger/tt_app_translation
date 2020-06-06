@@ -45,7 +45,7 @@
         <source>app.header.userSubmenu.profile</source>
         <target state="translated">Profil</target>
       </trans-unit>
-      <trans-unit id="app.header.mainSearchForm.term.placeholder" approved="no">
+      <trans-unit id="app.header.mainSearchForm.term.placeholder" approved="yes">
         <source>app.header.mainSearchForm.term.placeholder</source>
         <target state="translated">Søgeord fx søfragt</target> </trans-unit>
       <trans-unit id="app.header.mainSearchForm.location.placeholder" approved="yes">
@@ -152,10 +152,10 @@
         <source>app.header.userSubmenu.manageTeam</source>
         <target>Manage Team</target>
       </trans-unit>
-    <trans-unit id="app.header.employerSubmenu.company.profile" approved="no">
+    <trans-unit id="app.header.employerSubmenu.company.profile" approved="yes">
         <source>app.header.employerSubmenu.company.profile</source>
         <target state="translated">Virksomhedsprofil</target> </trans-unit>
-      <trans-unit id="app.findCandidates" approved="no">
+      <trans-unit id="app.findCandidates" approved="yes">
         <source>app.findCandidates</source>
         <target state="translated">Kandidater</target> </trans-unit>
       </body>

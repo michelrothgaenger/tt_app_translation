@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.registeredRecruiter.toPartner.content" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.content" approved="yes">
         <source>app.registeredRecruiter.toPartner.content</source>
         <target>Hej, %partnerFirstName% &lt;br&gt;&lt;br&gt; Ein Benutzer mit E-Mail %recruiterEmail% hat sich gerade als Recruiter registriert. Sie müssen seine Registrierung genehmigen, damit er die Stellenangebote einsehen kann.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.subject" approved="yes">
         <source>app.registeredRecruiter.toPartner.subject</source>
         <target>Neuer Personalberater muss genehmigt werden</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="no">
+      <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="yes">
         <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Matchico platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
         <target state="translated">Hej %FirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt;Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Genehmigung können Sie alle Personalberaterfunktionen auf der Transport Talent Plattform nutzen.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="no">
+      <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="yes">
         <source>Your registration to become a recruiter on the platform will have to be confirmed by Matchico.</source>
         <target state="translated">Ihre Registrierung als Personalvermittler auf der Plattform muss von Transport Talent bestätigt werden.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="yes">
         <source>app.confirmedRecruiter.toPartner.subject</source>
         <target>Personalberater wurde bestätigt</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toPartner.content" approved="yes">
         <source>app.confirmedRecruiter.toPartner.content</source>
         <target>Hej, %partnerFirstName%,&lt;br&gt;&lt;br&gt;Der Personalvermittler mit E-Mail %recruiterEmail% wurde von Ihnen erfolgreich genehmigt und kann nun Stellen durchsuchen und Kandidaten empfehlen.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toRecruiter.subject" approved="yes">
         <source>app.confirmedRecruiter.toRecruiter.subject</source>
         <target>Ihre Anfrage wurde erfolgreich bestätigt.</target>
       </trans-unit>
-      <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="no">
+      <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="yes">
         <source>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Matchico platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Sehr geehrter Benutzer, Ihr Registrierungsantrag wurde von %partnerFirstName% %partnerLastName% genehmigt. Sie können nun alle Personalberaterfunktionen der Transport Talent Plattform nutzen.</target>
       </trans-unit>
-      <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="no">
+      <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="yes">
         <source>app.registeredRecruiter.toPartner.linkForApproving</source>
         <target>Personalberater genehmigen</target>
       </trans-unit>

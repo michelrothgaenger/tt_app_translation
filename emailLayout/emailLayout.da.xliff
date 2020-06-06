@@ -29,11 +29,11 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Vores postadresse er:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="no">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target state="translated">Copyright © %year% %companyName%, All rights reserved.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="yes">
         <source>app.emailLayout.defaultCompanyName</source>
         <target state="translated">Transport Talent International ApS</target>
       </trans-unit>
@@ -45,23 +45,23 @@
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">afmeld dig fra denne liste</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+      <trans-unit id="app.emailLayout.unsubscribe" approved="yes">
         <source>app.emailLayout.unsubscribe</source>
         <target state="translated">Afmeld</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.help" approved="no">
+      <trans-unit id="app.emailLayout.help" approved="yes">
         <source>app.emailLayout.help</source>
         <target state="translated">Hjælp</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright.line2" approved="no">
+      <trans-unit id="app.emailLayout.copyright.line2" approved="yes">
         <source>app.emailLayout.copyright.line2</source>
         <target state="translated">Transport Talent er et registreret varemærke.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
+      <trans-unit id="app.emailLayout.contactTT.tile" approved="yes">
         <source>app.emailLayout.contactTT.tile</source>
         <target state="translated">Din kontakt hos Transport Talent:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="yes">
         <source>app.emailLayout.defaultCompanyAddress</source>
         <target state="translated">Samsøvej 31, DK-8382 Hinnerup (Aarhus).</target>
       </trans-unit>

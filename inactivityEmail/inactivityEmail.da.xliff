@@ -9,13 +9,13 @@
         <source>app.inactivityEmail.subject</source>
         <target state="translated">Stadig interesseret i nye karrieremuligheder?</target>
       </trans-unit>
-      <trans-unit id="app.inactivityEmail" approved="no">
+      <trans-unit id="app.inactivityEmail" approved="yes">
         <source>app.inactivityEmail</source>
         <target state="translated">H</target> </trans-unit>
-    <trans-unit id="app.inactivityEmail.firstNotify" approved="no">
+    <trans-unit id="app.inactivityEmail.firstNotify" approved="yes">
         <source>app.inactivityEmail.firstNotify</source>
         <target state="translated">H</target> </trans-unit>
-      <trans-unit id="app.inactivityEmail.secondNotify" approved="no">
+      <trans-unit id="app.inactivityEmail.secondNotify" approved="yes">
         <source>app.inactivityEmail.secondNotify</source>
         <target state="translated">H</target> </trans-unit>
     </body>

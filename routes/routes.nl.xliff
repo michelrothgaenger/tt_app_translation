@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="presentation_terms" approved="no">
+      <trans-unit id="presentation_terms" approved="yes">
         <source>presentation_terms</source>
         <target state="translated"></target>
       </trans-unit>

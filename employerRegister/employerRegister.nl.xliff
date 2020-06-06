@@ -57,7 +57,7 @@
         <source>app.position</source>
         <target state="translated">Level</target>
       </trans-unit>
-      <trans-unit id="app.email" approved="no">
+      <trans-unit id="app.email" approved="yes">
         <source>app.email</source>
         <target state="translated">E-mail</target>
       </trans-unit>

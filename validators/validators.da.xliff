@@ -5,71 +5,71 @@
             <tool tool-id="symfony" tool-name="Symfony"/>
         </header>
         <body>
-            <trans-unit id="app.password.mismatch" approved="no">
+            <trans-unit id="app.password.mismatch" approved="yes">
                 <source>app.password.mismatch</source>
                 <target>Forkert kodeord</target>
             </trans-unit>
-        <trans-unit id="app.employerRegister.password.lengthConstraint" approved="no">
+        <trans-unit id="app.employerRegister.password.lengthConstraint" approved="yes">
                 <source>app.employerRegister.password.lengthConstraint</source>
                 <target state="translated">Adgangskoden er for kort. Det skal have {{limit}} tegn eller mere.</target> </trans-unit>
-            <trans-unit id="app.employerRegister.lastName.notBlank" approved="no">
+            <trans-unit id="app.employerRegister.lastName.notBlank" approved="yes">
                 <source>app.employerRegister.lastName.notBlank</source>
                 <target state="translated">Efternavn må ikke være tomt.</target> </trans-unit>
-            <trans-unit id="app.employerRegister.firstName.notBlank" approved="no">
+            <trans-unit id="app.employerRegister.firstName.notBlank" approved="yes">
                 <source>app.employerRegister.firstName.notBlank</source>
                 <target state="translated">Fornavn må ikke være tomt.</target> </trans-unit>
-            <trans-unit id="app.employerRegister.email.validation" approved="no">
+            <trans-unit id="app.employerRegister.email.validation" approved="yes">
                 <source>app.employerRegister.email.validation</source>
                 <target state="translated">ugyldig emailadresse</target> </trans-unit>
-            <trans-unit id="app.employerRegister.companyName.notBlank" approved="no">
+            <trans-unit id="app.employerRegister.companyName.notBlank" approved="yes">
                 <source>app.employerRegister.companyName.notBlank</source>
                 <target state="translated">Virksomhedens navn må ikke være tomt.</target> </trans-unit>
-            <trans-unit id="app.job.reward.greaterThanConstraint" approved="no">
+            <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
                 <source>app.job.reward.greaterThanConstraint</source>
                 <target state="translated">Den mindste henvisningsbelønning for din virksomhed er {{compared_value}}.</target> </trans-unit>
-            <trans-unit id="app.employerRegister.companyName.alreadyUsed" approved="no">
+            <trans-unit id="app.employerRegister.companyName.alreadyUsed" approved="yes">
                 <source>app.employerRegister.companyName.alreadyUsed</source>
                 <target state="translated">Dette firma har allerede en konto. Kontakt venligst kontoejeren for at få adgang. Der er oprettet en supportbillet til yderligere støtte med denne proces.</target> </trans-unit>
-            <trans-unit id="app.applyPopup.message.notBlank" approved="no">
+            <trans-unit id="app.applyPopup.message.notBlank" approved="yes">
                 <source>app.applyPopup.message.notBlank</source>
                 <target state="translated">Skriv venligst en besked for at fortsætte.</target> </trans-unit>
-            <trans-unit id="app.registerForm.csrf.notValid" approved="no">
+            <trans-unit id="app.registerForm.csrf.notValid" approved="yes">
                 <source>app.registerForm.csrf.notValid</source>
                 <target state="translated">Siden er forældet, genindlæs og prøv igen.</target> </trans-unit>
-            <trans-unit id="app.registerForm.cv.mimeType" approved="no">
+            <trans-unit id="app.registerForm.cv.mimeType" approved="yes">
                 <source>app.registerForm.cv.mimeType</source>
                 <target state="translated">Denne fil skal være en PDF</target> </trans-unit>
-            <trans-unit id="app.registerForm.cv.maxSize" approved="no">
+            <trans-unit id="app.registerForm.cv.maxSize" approved="yes">
                 <source>app.registerForm.cv.maxSize</source>
                 <target state="translated">Filen må ikke være større end 15 MB.</target> </trans-unit>
-            <trans-unit id="app.teamManage.company.needParent" approved="no">
+            <trans-unit id="app.teamManage.company.needParent" approved="yes">
                 <source>app.teamManage.company.needParent</source>
                 <target state="translated">Vælg venligst moderselskab.</target> </trans-unit>
-            <trans-unit id="app.hirePopup.contract.notBlank" approved="no">
+            <trans-unit id="app.hirePopup.contract.notBlank" approved="yes">
                 <source>app.hirePopup.contract.notBlank</source>
                 <target state="translated">Venligst upload en kontrakt</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.cv.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.cv.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.cv.notBlank</source>
                 <target state="translated">Upload venligst et CV</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.firstName.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.firstName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.firstName.notBlank</source>
                 <target state="translated">Indtast venligst et fornavn</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.lastName.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.lastName.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.lastName.notBlank</source>
                 <target state="translated">Indtast venligst et efternavn</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.email.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.email.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.email.notBlank</source>
                 <target state="translated">Skriv venligst en email</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.salary.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.salary.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.salary.notBlank</source>
                 <target state="translated">Vælg venligst en løn</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.currency.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.currency.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.currency.notBlank</source>
                 <target state="translated">Vælg venligst en valuta</target> </trans-unit>
-            <trans-unit id="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="no">
+            <trans-unit id="app.uploadCandidatePopup.dateOfLeave.notBlank" approved="yes">
                 <source>app.uploadCandidatePopup.dateOfLeave.notBlank</source>
                 <target state="translated">Vælg venligst en opsigelsesperiode</target> </trans-unit>
-            <trans-unit id="app.registerForm.cv.notBlank" approved="no">
+            <trans-unit id="app.registerForm.cv.notBlank" approved="yes">
                 <source>app.registerForm.cv.notBlank</source>
                 <target>Upload venligst et CV</target> </trans-unit>
         </body>

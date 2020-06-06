@@ -93,15 +93,15 @@
         <source>app.flash.inactivityJob.update</source>
         <target state="translated">Job was updated</target>
       </trans-unit>
-      <trans-unit id="app.flash.linkedin.alreadyInUse" approved="no">
+      <trans-unit id="app.flash.linkedin.alreadyInUse" approved="yes">
         <source>app.flash.linkedin.alreadyInUse</source>
         <target state="translated">This LinkedIn account is already in use by another account</target>
       </trans-unit>
-      <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="no">
+      <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="yes">
         <source>app.flash.cv.upload.error.wrongSize</source>
         <target>The file must be not larger than 15 MB.</target>
       </trans-unit>
-      <trans-unit id="app.flash.error.noPermission" approved="no">
+      <trans-unit id="app.flash.error.noPermission" approved="yes">
         <source>app.flash.error.noPermission</source>
         <target>You have no permission to access this link</target>
       </trans-unit>

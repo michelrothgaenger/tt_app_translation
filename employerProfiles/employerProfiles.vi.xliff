@@ -50,7 +50,7 @@
               <source>app.sealandDescription</source>
               <target state="translated">&lt;div class="tiêu đề tiêu đề-font"&gt;Về Sealand&lt;/div&gt; &lt;p&gt;Trở lại những năm 50 của Mỹ đã có một tuyến vận chuyển họ tự hào có thể gọi của riêng mình. Sealand thủa ban đầu được tạo ra bởi nhà doanh nghiệp vận tải đường bộ, Malcolm McLean người đã cung cấp cho địa phương dịch vụ vận chuyển chuyên dụng đầu tiên, đồng thời cho thế giới khoảnh khắc đầu tiên của vận tải công ten nơ. &lt;/ P&gt; &lt;p&gt; Những người yêu mến Sealand. Đó là tuyến vận chuyển  được xây dựng xung quanh nhu cầu của nó và đặt chúng lên trên hàng đầu của sự đổi mới. Sealand đã sang tay nhiều lần, nhưng đối với người dân châu Mỹ, nó chưa bao giờ không phải là tuyến vận chuyển của họ. Ngay cả sau khi Maersk mua Sealand và đổi tên nó vào năm 1999, người dân ở các nước châu Mỹ vẫn gọi nó là Sealand. &lt;/ P&gt; &lt;p&gt; Vì vậy, sau khi nhìn thấy cách mọi người cảm thấy và nhận ra những thành công của Sealand cho khu vực, chúng tôi quyết định trả nó lại. Giới thiệu lại thương hiệu Sealand như một hãng vận tải đầu tiên trong khu vực dường như là một điều tự nhiên đối với đội ngũ quản lý của chúng tôi. Và kể từ khi khởi động lại, sự hỗ trợ mà chúng tôi nhận được thật to lớn. &lt;/ P&gt; &lt;p&gt; Tất cả chúng tôi đều đã cam kết để thấy rằng các chương tiếp theo của lịch sử Sealand là tuyến vận chuyển đã giúp đưa châu Mỹ đứng đầu thương mại thế giới và thành công kinh doanh. &lt;/ p&gt; &lt;br&gt; &lt;div class = "tiêu đề tiêu đề-font"&gt; Làm việc tại Sealand &lt;/ div&gt; &lt;p&gt; Bất kể nơi nào bạn đến hoặc với ai bạn nói chuyện tại Sealand, bạn sẽ tìm thấy cùng khẩu hiệu "Có thể làm được", tinh thần Vamos Juntos định nghĩa chúng tôi là một tổ chức. Tùy thuộc vào người bạn hỏi tại Sealand, khẩu hiệu của chúng tôi có nghĩa là "Chúng tôi đi với bạn" hay "Hãy đi cùng nhau." &lt;/ P&gt; &lt;p&gt; Dù bằng cách nào, chúng tôi nghiêm túc trong nó với khách hàng. Đó là một sự bảo đảm mà chuyển thành sự yên tâm cho khách hàng của chúng tôi và hàng hóa của họ sẽ đến nơi an toàn. Và nó có thể cung cấp cho khách hàng của chúng tôi một sự tự tin đáng kinh ngạc khi họ đang mạo hiểm vào những cơ hội mới cho doanh nghiệp của họ. &lt;/ P&gt; &lt;p&gt; Vamos Juntos! có nghĩa là SeaLanders đi ở trên và vượt ra ngoài những gì mong đợi. Đó là lợi thế khi làm việc với một đường dây vận chuyển mà các giá trị mối quan hệ và thực sự được biết các khách hàng của chúng tôi và kinh doanh của mình. &lt;/ P&gt; &lt;p&gt; khẩu hiệu của chúng tôi là một câu thần chú mà tự biểu lộ trong hỗ trợ bệnh nhân, dịch vụ chủ động, các giải pháp sẵn sàng cho những thách thức khách hàng của chúng tôi phải đối mặt - và tất nhiên, không thể so sánh một thể-làm tinh thần &lt;/ p&gt;.</target>
             </trans-unit>
-            <trans-unit id="app.seagoLineDescription" approved="no">
+            <trans-unit id="app.seagoLineDescription" approved="yes">
               <source>app.seagoLineDescription</source>
               <target><![CDATA[<div class="headline headline-font">About Seago Line</div>
               <p>At Seago Line, we want to provide our customers with the best possible short sea and feeder container shipping services in Europe — from the Black Sea through the Mediterranean to the North Sea and the Baltic Sea.</p>
@@ -64,7 +64,7 @@
               <p>As part of the Maersk Group, Seago Line can help develop employees’ skills and experience while opening the door to international career opportunities at sister companies.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.safmarineDescription" approved="no">
+            <trans-unit id="app.safmarineDescription" approved="yes">
               <source>app.safmarineDescription</source>
               <target><![CDATA[<div class="headline headline-font">About Safmarine</div>
               <p>Safmarine is an international container carrier focused on trade to and from emerging markets in Africa and West Central Asia.</p>
@@ -82,7 +82,7 @@
               <p>You’ll find that your colleagues are interesting, supportive and great to work with. You will work with a diverse category of customers, and make a genuine impact on the success of their business. And you‘ll get the space to advance your career.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.mccDescription" approved="no">
+            <trans-unit id="app.mccDescription" approved="yes">
               <source>app.mccDescription</source>
               <target><![CDATA[<div class="headline headline-font">About MCC</div>
               <p>MCC Transport is a regional specialist handling all Intra–Asia containerized cargo for the Maersk Group in addition to providing feeder services for a wide range of regional and global shipping lines. Having operated in the market for more than 20 years, MCC Transport represents a group of service oriented and knowledgeable people providing customers with a wide-range direct port coverage and a large corridor portfolio in the Intra Asian market.</p>
@@ -94,7 +94,7 @@
               <p>The job variety is huge, but can be roughly split into two: maritime jobs and commercial jobs. Maritime positions are available for experienced transport industry personnel, or for people who have completed our entry-level shipping programmes. Commercial transport positions are available to people from a broad spectrum of degree disciplines and other backgrounds.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.maerskLineDescription" approved="no">
+            <trans-unit id="app.maerskLineDescription" approved="yes">
               <source>app.maerskLineDescription</source>
               <target><![CDATA[<div class="headline headline-font">About MAERSK LINE</div>
               <p>Maersk Line is the world’s largest container shipping company, known for reliable, flexible and eco-efficient services. We are part of the Maersk Group, headquartered in Copenhagen, Denmark, and we operate 610 container vessels providing ocean transportation in all parts of the world.</p>
@@ -107,7 +107,7 @@
               <p>If you had to sum up the reasons for the Maersk success story in two words, we believe those words would be performance and values. At Maersk, we choose the best people and we encourage and enable each individual to perform their very best within highly professional teams, acting within the framework of our company’s values. We’ll provide the opportunity to achieve, and your achievements will be well rewarded. But our focus is always on long- term, sustainable performance – and to achieve this, we believe it is essential that all our decisions are guided by a shared framework of ethical values.<p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.damcoDescription" approved="no">
+            <trans-unit id="app.damcoDescription" approved="yes">
               <source>app.damcoDescription</source>
               <target><![CDATA[<div class="headline headline-font">About DAMCO</div>
               <p>Damco is one of the world’s leading providers of freight forwarding and supply chain management services. For more than 100 years, we have been providing our customers with transportation and logistics solutions that support the way they want to do business, wherever they are in the world.</p>
@@ -119,7 +119,7 @@
               <p>When you join Damco, you’ll find that the world is your workplace. You’ll work in a culturally diverse, performance stimulating environment. Working at Damco brings a unique blend of being part of a rich heritage and an exuberant, youthful, fast-paced logistics company.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.geodisDescription" approved="no">
+            <trans-unit id="app.geodisDescription" approved="yes">
               <source>app.geodisDescription</source>
               <target><![CDATA[<div class="headline headline-font">About Geodis</div>
               <p>GEODIS is a Supply Chain Operator ranking among the top companies in its field in Europe and the World. GEODIS, which is part of SNCF Logistics, which in turn is a business line of the SNCF Group, is the number one Transport and Logistics operator in France and ranked number four in Europe. The international reach includes a direct presence in 67 countries and a global network spanning over 120 countries. With its five Lines of Business (Supply Chain Optimization, Freight Forwarding, Contract Logistics, Distribution & Express and Road Transport), GEODIS manages its customers Supply Chain by providing end-to-end solutions enabled by our people, our infrastructure, processes and systems.</p>
@@ -130,7 +130,7 @@
               <p>The talent of our teams is at the heart of our strategy. To support our development and reach our ambitious and sustainable goals, we need to attract and retain the best talents.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.apmTerminalsDescription" approved="no">
+            <trans-unit id="app.apmTerminalsDescription" approved="yes">
               <source>app.apmTerminalsDescription</source>
               <target><![CDATA[<div class="headline headline-font">About APM TERMINALS</div>
               <p>APM Terminals operates a Global Terminal Network of 20,600 employees on five continents which includes 62 operating port and terminal facilities in 38 countries, and 135 Inland Services operations in 39 countries. The company provides port management and operations to over 60 liner shipping customers who serve the world’s leading importers and exporters of containerized and other cargoes.</p>
@@ -143,7 +143,7 @@
               <p>Our growth ambitions and business plans call for the best people, generalists and specialists alike, to help us succeed in all markets in any economic cycle. Our job portal offers you the ability to search current job openings around the world. Lifting your career at APM Terminals starts with you.</p>
               ]]></target>
             </trans-unit>
-            <trans-unit id="app.agilityDescription" approved="no">
+            <trans-unit id="app.agilityDescription" approved="yes">
               <source>app.agilityDescription</source>
               <target><![CDATA[<div class="headline headline-font">About AGILITY</div>
               <p>Agility builds durable, efficient supply chains that power businesses and drive trade, creating access to new opportunities.</p>

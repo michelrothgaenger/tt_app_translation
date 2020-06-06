@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.employers.pageDescription" approved="no">
+      <trans-unit id="app.employers.pageDescription" approved="yes">
         <source>app.employers.pageDescription</source>
         <target state="translated">Erfahren Sie, was unsere Unternehmen suchen und was sie zu bieten haben</target>
       </trans-unit>

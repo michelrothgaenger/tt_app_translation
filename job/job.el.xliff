@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.job.meta.title" approved="no">
+      <trans-unit id="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="app.job.meta.description" approved="no">
+      <trans-unit id="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="app.job.section.top.status" approved="no">
+      <trans-unit id="app.job.section.top.status" approved="yes">
         <source>app.job.section.top.status</source>
         <target>This job is hidden!</target>
       </trans-unit>
@@ -29,11 +29,11 @@
         <source>app.jobSavedToProfile</source>
         <target state="translated">Αποθηκεύθηκε στο λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="app.saveToProfile" approved="no">
+      <trans-unit id="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
         <target>Αποθήκευση στον λογαριασμό</target>
       </trans-unit>
-      <trans-unit id="app.job.section.right.manualMessage" approved="no">
+      <trans-unit id="app.job.section.right.manualMessage" approved="yes">
         <source>app.job.section.right.manualMessage</source>
         <target>Brought to you exclusively by</target>
       </trans-unit>
@@ -41,11 +41,11 @@
         <source>app.job.section.main.title</source>
         <target state="translated">Λεπτομέρειες εργασίας</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowTypeTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowTypeTitle" approved="yes">
         <source>app.job.section.main.rowTypeTitle</source>
         <target>Χαρακτηριστικό εργασίας</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowLevelTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowLevelTitle" approved="yes">
         <source>app.job.section.main.rowLevelTitle</source>
         <target>Επίπεδο εργασίας</target>
       </trans-unit>
@@ -57,7 +57,7 @@
         <source>app.job.section.main.openMapLinkTitle</source>
         <target state="translated">Τοποθεσία στον χάρτη</target>
       </trans-unit>
-      <trans-unit id="app.section.main.applyButtonTitle" approved="no">
+      <trans-unit id="app.section.main.applyButtonTitle" approved="yes">
         <source>app.section.main.applyButtonTitle</source>
         <target>Υπόβαλλε αίτηση τώρα</target>
       </trans-unit>
@@ -81,7 +81,7 @@
         <source>app.job.section.left.rowOfficesTitle</source>
         <target state="translated">γραφεία/ χώρες</target>
       </trans-unit>
-      <trans-unit id="app.job.section.left.rowIndustiesTitle" approved="no">
+      <trans-unit id="app.job.section.left.rowIndustiesTitle" approved="yes">
         <source>app.job.section.left.rowIndustiesTitle</source>
         <target>Main Activities</target>
       </trans-unit>
@@ -113,19 +113,19 @@
         <source>app.section.left.linkPrintTitle</source>
         <target state="translated">Εκτύπωση αγγελίας</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.title" approved="no">
+      <trans-unit id="app.job.section.popup.title" approved="yes">
         <source>app.job.section.popup.title</source>
         <target>Get matched</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.jobTitle" approved="no">
+      <trans-unit id="app.job.section.popup.jobTitle" approved="yes">
         <source>app.job.section.popup.jobTitle</source>
         <target>Job</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.applyButtonTitle" approved="no">
+      <trans-unit id="app.job.section.popup.applyButtonTitle" approved="yes">
         <source>app.job.section.popup.applyButtonTitle</source>
         <target>Get matched</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="no">
+      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target>Cancel</target>
       </trans-unit>

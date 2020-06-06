@@ -25,19 +25,19 @@
         <source>app.contact.section.email.email</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.subject" approved="no">
+      <trans-unit id="app.contact.section.email.subject" approved="yes">
         <source>app.contact.section.email.subject</source>
         <target>Subject</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.message" approved="no">
+      <trans-unit id="app.contact.section.email.message" approved="yes">
         <source>app.contact.section.email.message</source>
         <target>Message</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.buttonLabel" approved="no">
+      <trans-unit id="app.contact.section.email.buttonLabel" approved="yes">
         <source>app.contact.section.email.buttonLabel</source>
         <target>Send</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.thanksgiving" approved="no">
+      <trans-unit id="app.contact.section.email.thanksgiving" approved="yes">
         <source>app.contact.section.email.thanksgiving</source>
         <target>Thank you</target>
       </trans-unit>
@@ -49,31 +49,31 @@
         <source>app.contact.section.offices.title</source>
         <target state="translated">We are an internationally operating company. These are our offices:</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.phone" approved="no">
+      <trans-unit id="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target>Phone</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="yes">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="yes">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.meta.title" approved="no">
+      <trans-unit id="app.contact.page.confirm.meta.title" approved="yes">
         <source>app.contact.page.confirm.meta.title</source>
         <target>Confirmation</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.h1" approved="no">
+      <trans-unit id="app.contact.page.confirm.h1" approved="yes">
         <source>app.contact.page.confirm.h1</source>
         <target>Thank you %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.description" approved="no">
+      <trans-unit id="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
         <target>Your request has been submitted successfully and will be considered quickly.</target>
       </trans-unit>
-      <trans-unit id="app.contact.meta.description" approved="no">
+      <trans-unit id="app.contact.meta.description" approved="yes">
         <source>app.contact.meta.description</source>
         <target/>
       </trans-unit>

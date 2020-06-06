@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
         <target>Din indsendte kandidat</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
         <target>Din ansøgning afventer stadig.</target>
       </trans-unit>

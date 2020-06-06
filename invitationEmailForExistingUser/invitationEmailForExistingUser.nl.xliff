@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.firstPart" approved="yes">
         <source>app.invitationEmailForExistingUser.firstPart</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.categoryPart" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.categoryPart" approved="yes">
         <source>app.invitationEmailForExistingUser.categoryPart</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.secondPart" approved="yes">
         <source>app.invitationEmailForExistingUser.secondPart</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="no">
+      <trans-unit id="app.invitationEmailForExistingUser.subject" approved="yes">
         <source>app.invitationEmailForExistingUser.subject</source>
         <target state="translated"></target>
       </trans-unit>

@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.subject" approved="yes">
         <source>app.informRecruiterEmail.pendingConfirmation.subject</source>
         <target state="translated">Kandidat er blevet indsendt</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
         <target state="translated">Kandidaten har bekræftet ansøgningen om stillingen "%position%".</target>
       </trans-unit>

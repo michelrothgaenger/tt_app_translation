@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.metaDescriptionIndexPage" approved="no">
+      <trans-unit id="app.metaDescriptionIndexPage" approved="yes">
         <source>Matchico is the leading portal for transport, logistics and supply chain professionals. Make your next career move and sign up for free!</source>
         <target state="translated">Somos el portal de empleo especializado en transporte, logística y cadena de suministro. ¡Regístrate y da un salto en tu carrera con Transport Talent!</target>
       </trans-unit>
@@ -41,7 +41,7 @@
         <source>app.index.signupCTA.candidates.ctaTitle</source>
         <target state="translated">Miles de carreras, miles de posibilidades.</target>
       </trans-unit>
-      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="no">
+      <trans-unit id="app.index.signupCTA.candidates.ctaDescription" approved="yes">
         <source>The right job is out there. With over 6.000 jobs online use Matchico to find it. Get presented to top companies, or make money by referring your friends or contacts to jobs.</source>
         <target state="translated">Tu nuevo empleo te está esperando. Encuéntralo entre las más de 6.000 vacantes en Transport Talent. Crea tu perfil y comienza a recibir ofertas de trabajo. Si no te interesan, podrás reenviarlas a tus contactos y llevarte una comisión en el caso de que consigan un empleo gracias a tu recomendación.</target>
       </trans-unit>

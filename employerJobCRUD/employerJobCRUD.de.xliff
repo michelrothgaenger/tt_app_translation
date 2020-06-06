@@ -33,7 +33,7 @@
         <source>app.email</source>
         <target state="translated">E-Mail</target>
       </trans-unit>
-      <trans-unit id="app.jobTitle" approved="no">
+      <trans-unit id="app.jobTitle" approved="yes">
         <source>app.jobTitle</source>
         <target state="translated">Stellenbezeichnung</target>
       </trans-unit>
@@ -162,7 +162,7 @@
           <source>app.job.form.referral.title</source>
           <target state="translated">Empfehlungsfunktion nutzen?</target>
         </trans-unit>
-    <trans-unit id="app.job.reward.greaterThanConstraint" approved="no">
+    <trans-unit id="app.job.reward.greaterThanConstraint" approved="yes">
         <source>app.job.reward.greaterThanConstraint</source>
         <target state="translated">Dieser Wert muss größer oder gleich {{Vergleichswert }}} sein.</target>
       </trans-unit>
@@ -186,31 +186,31 @@
         <source>app.job.chooseSalary</source>
         <target state="translated">Gehalt wählen</target>
       </trans-unit>
-    <trans-unit id="app.jobCrud.company.label" approved="no">
+    <trans-unit id="app.jobCrud.company.label" approved="yes">
         <source>app.jobCrud.company.label</source>
         <target state="translated">Unternehmen</target>
       </trans-unit>
-    <trans-unit id="app.job.template.label" approved="no">
+    <trans-unit id="app.job.template.label" approved="yes">
         <source>app.job.template.label</source>
         <target>Vorlage auswählen</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.label" approved="no">
+      <trans-unit id="app.job.blinding.label" approved="yes">
         <source>app.job.blinding.label</source>
         <target>Buchen Sie die Stelle, ohne den Arbeitgeber anzuzeigen. (Job wird im Namen des Kunden als TT angezeigt.)</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind Job Buchung</target>
       </trans-unit>
-      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="no">
+      <trans-unit id="app.employerJobCRUD.disabledSelectPreviousJobPosting" approved="yes">
         <source>app.employerJobCRUD.disabledSelectPreviousJobPosting</source>
         <target>-- eine frühere Stellenausschreibung auswählen --</target>
       </trans-unit>
-      <trans-unit id="app.job.targetAnnualSalary.title" approved="no">
+      <trans-unit id="app.job.targetAnnualSalary.title" approved="yes">
         <source>app.job.targetAnnualSalary.title</source>
         <target>Zielvorgabe Jahresgehalt</target>
       </trans-unit>
-    <trans-unit id="app.employerJobCRUD.salary.patternError" approved="no">
+    <trans-unit id="app.employerJobCRUD.salary.patternError" approved="yes">
         <source>app.employerJobCRUD.salary.patternError</source>
         <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
       </trans-unit>

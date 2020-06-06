@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.job.meta.title" approved="no">
+      <trans-unit id="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
         <target state="translated">Job</target>
       </trans-unit>
-      <trans-unit id="app.job.meta.description" approved="no">
+      <trans-unit id="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
         <target state="translated">Søg efter spændende jobs hos logistik- og transportvirksomheder</target>
       </trans-unit>
@@ -29,7 +29,7 @@
         <source>app.jobSavedToProfile</source>
         <target state="translated">Gemt i profilen</target>
       </trans-unit>
-      <trans-unit id="app.saveToProfile" approved="no">
+      <trans-unit id="app.saveToProfile" approved="yes">
         <source>app.saveToProfile</source>
         <target state="translated">Gem i profil</target>
       </trans-unit>
@@ -125,7 +125,7 @@
         <source>app.job.section.popup.applyButtonTitle</source>
         <target state="translated">Ansøg nu</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="no">
+      <trans-unit id="app.job.section.popup.cancelButtonTitle" approved="yes">
         <source>app.job.section.popup.cancelButtonTitle</source>
         <target state="translated">Annuller</target>
       </trans-unit>
@@ -261,7 +261,7 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Forbind dine venner til jobs, tjen %reward% og anerkendelse</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="no">
+      <trans-unit id="app.job.referral.explanation" approved="yes">
         <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Matchico Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Matchico Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
         <target state="translated">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
       </trans-unit>
@@ -277,43 +277,43 @@
         <source>app.job.isReferral.no</source>
         <target state="translated">Nej</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.referral.directLinkText" approved="no">
+      <trans-unit id="app.job.popup.referral.directLinkText" approved="yes">
         <source>app.job.popup.referral.directLinkText</source>
         <target state="translated">Eller kopier dette Url og indsæt det:</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.title" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.title" approved="yes">
         <source>app.job.popup.uploadCandidate.title</source>
         <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.description" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.description" approved="yes">
         <source>app.job.popup.uploadCandidate.description</source>
         <target state="translated">Brug formularen nedenform til at indsende kandidaten til denne givne stilling. Pga data privacy vil vi bede din kandidat om at bekræfte ansøgningen. Efter kandidaten har bekræftet ansøgningen vil vi tage kontakt til ham/hende omkring deres kandidatur.</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.firstname.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.firstname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.label</source>
         <target state="translated">Fornavn</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.firstname.input.title" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.firstname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.firstname.input.title</source>
         <target state="translated">Fornavn må kun indeholde bogstaver</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.lastname.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.lastname.label" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.label</source>
         <target state="translated">Efternavn</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.lastname.input.title" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.lastname.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.lastname.input.title</source>
         <target state="translated">Efternavn må kun indeholde bogstaver</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.email.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.email.label" approved="yes">
         <source>app.job.popup.uploadCandidate.email.label</source>
         <target state="translated">Email</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.salary.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.label" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.label</source>
         <target state="translated">Lønforventning</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.salary.initialOption" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.initialOption</source>
         <target state="translated">Vælg lønramme</target>
       </trans-unit>
@@ -325,183 +325,183 @@
         <source>app.job.popup.uploadCandidate.salary.input.title</source>
         <target>Minimum 4 tegn, kun tal</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.currency.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.currency.label" approved="yes">
         <source>app.job.popup.uploadCandidate.currency.label</source>
         <target state="translated">Valuta</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.label" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.label</source>
         <target state="translated">Opsigelsesperiode</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.noticePeriod.initialOption" approved="yes">
         <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
         <target state="translated">Vælg opsigelsesperiode</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label</source>
         <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
         <target state="translated">Ændre CV</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part1" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
         <target state="translated">Du uploadede</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
         <target state="translated">som CV.</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.confirm.input.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.confirm.input.label" approved="yes">
         <source>app.job.popup.uploadCandidate.confirm.input.label</source>
         <target state="translated">Jeg har kandidatens tilladelse til at indsende hans/hendes informationer til denne stilling.</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.submitBtn" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.submitBtn" approved="yes">
         <source>app.job.popup.uploadCandidate.submitBtn</source>
         <target state="translated">Indsend kandidat</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanationTitleAmbassador" approved="no">
+      <trans-unit id="app.job.referral.explanationTitleAmbassador" approved="yes">
         <source>app.job.referral.explanationTitleAmbassador</source>
         <target state="translated">Forbind dine venner til jobs, modtag %reward% + bonus %ambassador_bonus% og få anerkendelse</target>
       </trans-unit>
-      <trans-unit id="app.job.section.popup.section.page2.accessDeniedError" approved="no">
+      <trans-unit id="app.job.section.popup.section.page2.accessDeniedError" approved="yes">
         <source>app.job.section.popup.section.page2.accessDeniedError</source>
         <target state="translated">Du kan kun ansøge en gang per stilling.</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowPositionTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowPositionTitle" approved="yes">
         <source>app.job.section.main.rowPositionTitle</source>
         <target state="translated">Stilling</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowSalaryRangeTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowSalaryRangeTitle" approved="yes">
         <source>app.job.section.main.rowSalaryRangeTitle</source>
         <target state="translated">Lønniveau</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowLocationTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowLocationTitle" approved="yes">
         <source>app.job.section.main.rowLocationTitle</source>
         <target state="translated">Lokation</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.MapLinkTitle" approved="no">
+      <trans-unit id="app.job.section.main.MapLinkTitle" approved="yes">
         <source>app.job.section.main.MapLinkTitle</source>
         <target state="translated">Kort</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.LearnMoreTitle" approved="no">
+      <trans-unit id="app.job.section.main.LearnMoreTitle" approved="yes">
         <source>app.job.section.main.LearnMoreTitle</source>
         <target state="translated">Lær mere</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.ReferralRewardTitle" approved="no">
+      <trans-unit id="app.job.section.main.ReferralRewardTitle" approved="yes">
         <source>app.job.section.main.ReferralRewardTitle</source>
         <target state="translated">Henvisningsbonus</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.Curr" approved="no">
+      <trans-unit id="app.job.referral.Curr" approved="yes">
         <source>app.job.referral.Curr</source>
         <target state="translated">%valuta%</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.Val" approved="no">
+      <trans-unit id="app.job.referral.Val" approved="yes">
         <source>app.job.referral.Val</source>
         <target state="translated">%bonus%</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.ShareJob" approved="no">
+      <trans-unit id="app.job.section.main.ShareJob" approved="yes">
         <source>app.job.section.main.ShareJob</source>
         <target state="translated">Del job</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.uploadCV" approved="no">
+      <trans-unit id="app.job.section.main.uploadCV" approved="yes">
         <source>app.job.section.main.uploadCV</source>
         <target state="translated">Upload CV</target>
       </trans-unit>
-      <trans-unit id="app.section.main.JobApplyButtonTitle" approved="no">
+      <trans-unit id="app.section.main.JobApplyButtonTitle" approved="yes">
         <source>app.section.main.JobApplyButtonTitle</source>
         <target state="translated">Ansøg</target>
       </trans-unit>
-      <trans-unit id="app.section.main.ShowLessTitle" approved="no">
+      <trans-unit id="app.section.main.ShowLessTitle" approved="yes">
         <source>app.section.main.ShowLessTitle</source>
         <target state="translated">Vis mindre</target>
       </trans-unit>
-      <trans-unit id="app.section.main.ReferText" approved="no">
+      <trans-unit id="app.section.main.ReferText" approved="yes">
         <source>app.section.main.ReferText</source>
         <target state="translated">Henvis en ven, eller del jobbet med dit netværk via social medier and modtag en bonus hvis de får jobbet.</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.showLess" approved="no">
+      <trans-unit id="app.job.referral.showLess" approved="yes">
         <source>app.job.referral.showLess</source>
         <target state="translated">Vi mindre</target>
       </trans-unit>
-      <trans-unit id="app.job.FollowCompany" approved="no">
+      <trans-unit id="app.job.FollowCompany" approved="yes">
         <source>app.job.FollowCompany</source>
         <target state="translated">Følg virksomhed</target>
       </trans-unit>
-      <trans-unit id="app.job.section.left.headlineFurtherJobs" approved="no">
+      <trans-unit id="app.job.section.left.headlineFurtherJobs" approved="yes">
         <source>app.job.section.left.headlineFurtherJobs</source>
         <target state="translated">Flere jobs fra</target>
       </trans-unit>
-      <trans-unit id="app.job.section.left.SeeAllJobsLink" approved="no">
+      <trans-unit id="app.job.section.left.SeeAllJobsLink" approved="yes">
         <source>app.job.section.left.SeeAllJobsLink</source>
         <target state="translated">Se alle jobs</target>
       </trans-unit>
-      <trans-unit id="app.job.button.saveToProfile" approved="no">
+      <trans-unit id="app.job.button.saveToProfile" approved="yes">
         <source>app.job.button.saveToProfile</source>
         <target state="translated">Følg virksomhed</target>
       </trans-unit>
-      <trans-unit id="app.job.button.savedToProfile" approved="no">
+      <trans-unit id="app.job.button.savedToProfile" approved="yes">
         <source>app.job.button.savedToProfile</source>
         <target state="translated">Unfollow virksomhed</target>
       </trans-unit>
-      <trans-unit id="app.job.twitter.statusText" approved="no">
+      <trans-unit id="app.job.twitter.statusText" approved="yes">
         <source>Wanted: %title%! Find all details at Matchico: %jobUrl%</source>
         <target state="translated">Ønsket: %title%! Se alle detaljer på Transport Talent: %jobUrl%</target>
       </trans-unit>
-      <trans-unit id="app.job.twitter.hashTags" approved="no">
+      <trans-unit id="app.job.twitter.hashTags" approved="yes">
         <source>app.job.twitter.hashTags</source>
         <target state="translated">#logistics #transport #supplychain #jobs #hiring #jobopening</target>
       </trans-unit>
-      <trans-unit id="app.job.edit" approved="no">
+      <trans-unit id="app.job.edit" approved="yes">
         <source>app.job.edit</source>
         <target state="translated">Ændre</target>
       </trans-unit>
-      <trans-unit id="app.job.apply.error.alreadyExist" approved="no">
+      <trans-unit id="app.job.apply.error.alreadyExist" approved="yes">
         <source>app.job.apply.error.alreadyExist</source>
         <target state="translated">Du har allerede søgt dette job.</target>
       </trans-unit>
-      <trans-unit id="app.job.apply.defaultMessage" approved="no">
+      <trans-unit id="app.job.apply.defaultMessage" approved="yes">
         <source>app.job.apply.defaultMessage</source>
         <target state="translated">Uploaded af %recruiterFirstName% %recruiterLastName%</target>
       </trans-unit>
-      <trans-unit id="app.job.apply.error.noPermission" approved="no">
+      <trans-unit id="app.job.apply.error.noPermission" approved="yes">
         <source>app.job.apply.error.noPermission</source>
         <target state="translated">Du har ikke adgang til at tilgå dette link</target>
       </trans-unit>
-      <trans-unit id="app.job.apply.error.SignInAndTryAgain" approved="no">
+      <trans-unit id="app.job.apply.error.SignInAndTryAgain" approved="yes">
         <source>app.job.apply.error.SignInAndTryAgain</source>
         <target state="translated">Dette link er til en eksisterende bruger i systemet. Venligt sign in og prøv tilgang med linked igen.</target>
       </trans-unit>
-      <trans-unit id="app.job.apply.uploadCandidate.success" approved="no">
+      <trans-unit id="app.job.apply.uploadCandidate.success" approved="yes">
         <source>app.job.apply.uploadCandidate.success</source>
         <target state="translated">Du har nu indsendt en ansøgning</target>
       </trans-unit>
-      <trans-unit id="app.job.uploadCV.success.part1" approved="no">
+      <trans-unit id="app.job.uploadCV.success.part1" approved="yes">
         <source>app.job.uploadCV.success.part1</source>
         <target state="translated">Du har nu indsendt</target>
       </trans-unit>
-      <trans-unit id="app.job.uploadCV.success.part2" approved="no">
+      <trans-unit id="app.job.uploadCV.success.part2" approved="yes">
         <source>app.job.uploadCV.success.part2</source>
         <target state="translated">- venligst check din inbox for yderligere information.</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.job.recruiterNotApprovedPopup.title</source>
         <target>Hej</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
         <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
         <target>din anmodning om at blive registreret er indsendt til godkendelse. Når den er godkendt kan du bruge alle funktioner på Transport Talent.</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
         <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.job.replaceCompanyName" approved="no">
+      <trans-unit id="app.job.replaceCompanyName" approved="yes">
         <source>Matchico on behalf of a client</source>
         <target>Transport Talent på vegne af kunde</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind jobannonce</target>
       </trans-unit>

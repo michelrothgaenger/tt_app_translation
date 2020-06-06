@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="no">
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject" approved="yes">
         <source>app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.subject</source>
         <target>Kandidat er blevet indsendt</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informRecruiter.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; You just submitted %candidateFirstName% %candidateLastName%. Due to data privacy reasons we sent an email to the candidate and requested for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;YourMatchico Team</source>
         <target state="translated">Kære, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; du har netop indsendt %candidateFirstName% %candidateLastName%. Grundet GDPR regner har vi sendt en email til kandidaten og har bedt dem om at bekræfte.&lt;br&gt;&lt;br&gt;Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent team</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="no">
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject" approved="yes">
         <source>app.informCandidate.uploadedCandidateWithoutJob.confirmation.subject</source>
         <target>Kandidat er blevet indsendt</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>app.informCandidate.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
         <target>%candidateFirstName% %recruiterFirstName% %recruiterLastName% %confirmationLink%</target>
       </trans-unit>
-      <trans-unit id="app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content" approved="yes">
         <source>app.informCandidate.existingUser.uploadedCandidateWithoutJob.pendingConfirmation.content</source>
         <target>%candidateFirstName% %recruiterFirstName% %recruiterLastName% %confirmationLink%</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.candidateConfirmed.subject" approved="yes">
         <source>app.informRecruiterEmail.candidateConfirmed.subject</source>
         <target>Kandidaten har bekræftet godkendelsesanmodning</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="no">
+      <trans-unit id="app.informRecruiter.candidateConfirmed.content" approved="yes">
         <source>app.informRecruiter.candidateConfirmed.content</source>
         <target>%recruiterFirstName% %candidateFirstName% %candidateLastName%</target>
       </trans-unit>

@@ -9,7 +9,7 @@
         <source>app.home</source>
         <target state="translated">Trang chủ</target>
       </trans-unit>
-      <trans-unit id="app.header.userSubmenu.profile" approved="no">
+      <trans-unit id="app.header.userSubmenu.profile" approved="yes">
         <source>app.profile</source>
         <target state="translated">Hồ sơ cá nhân</target>
       </trans-unit>

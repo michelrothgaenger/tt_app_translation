@@ -29,11 +29,11 @@
         <source>app.emailLayout.mailingAddress.title</source>
         <target state="translated">Our mailing address is:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright" approved="no">
+      <trans-unit id="app.emailLayout.copyright" approved="yes">
         <source>app.emailLayout.copyright</source>
         <target>Copyright © %year% %companyName%, All rights reserved.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyName" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyName" approved="yes">
         <source>app.emailLayout.defaultCompanyName</source>
         <target>Staffhero GmbH u. Co. KG</target>
       </trans-unit>
@@ -45,23 +45,23 @@
         <source>app.emailLayout.unsubscribeLinkTitle</source>
         <target state="translated">unsubscribe from this list</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.unsubscribe" approved="no">
+      <trans-unit id="app.emailLayout.unsubscribe" approved="yes">
         <source>app.emailLayout.unsubscribe</source>
         <target state="translated">Unsubscribe</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.help" approved="no">
+      <trans-unit id="app.emailLayout.help" approved="yes">
         <source>app.emailLayout.help</source>
         <target state="translated">Help</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.copyright.line2" approved="no">
+      <trans-unit id="app.emailLayout.copyright.line2" approved="yes">
         <source>Transport Talent is a registered brand name.</source>
         <target state="translated">Matchico is a registered brand name.</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.contactTT.tile" approved="no">
+      <trans-unit id="app.emailLayout.contactTT.tile" approved="yes">
         <source>Your contact at Transport Talent:</source>
         <target state="translated">Your contact at Matchico:</target>
       </trans-unit>
-      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="no">
+      <trans-unit id="app.emailLayout.defaultCompanyAddress" approved="yes">
         <source>app.emailLayout.defaultCompanyAddress</source>
         <target state="translated">Bernstorffstrasse 120, 22767 Hamburg.</target>
       </trans-unit>

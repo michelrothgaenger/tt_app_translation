@@ -5,27 +5,27 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobExpiredPageTitle" approved="no">
+      <trans-unit id="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
         <target>This job has expired</target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
         <target/>
       </trans-unit>
-      <trans-unit id="app.jobExpiredPageDesc" approved="no">
+      <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
         <target><![CDATA[Sorry for this, but it looks like this job has been already taken offline.<br>Below we've listed some jobs that fit the expired job.<br><br>Maybe you would like to receive our newsletter,<br>so we can inform you whenever something comes up that fits your profile.]]></target>
       </trans-unit>
-      <trans-unit id="app.signUpNow" approved="no">
+      <trans-unit id="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target>Register now - it's free</target>
       </trans-unit>
-      <trans-unit id="app.searchRelatedJobs" approved="no">
+      <trans-unit id="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
         <target>Search related jobs</target>
       </trans-unit>
-      <trans-unit id="app.browseRelatedJobs" approved="no">
+      <trans-unit id="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
         <target>Browse related jobs</target>
       </trans-unit>

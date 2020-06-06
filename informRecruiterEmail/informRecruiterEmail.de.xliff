@@ -5,19 +5,19 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.subject" approved="yes">
         <source>app.informRecruiterEmail.pendingConfirmation.subject</source>
         <target state="translated">Kandidat wurde eingereicht</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="no">
+      <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="yes">
         <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Hej, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; du hast soeben %candidateFirstName% %candidateLastName% für die Position "%position%" eingereicht. Aus datenschutzrechtlichen Gründen haben wir dem Kandidaten eine Email geschickt und um Bestätigung gebeten. &lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Dein Team von Transport Talent</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="no">
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
         <source>app.informRecruiterEmail.applicationConfirmed.subject</source>
         <target state="translated">Der Kandidat hat die Bewerbung auf die Position "%position%" bestätigt.</target>
       </trans-unit>
-      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="no">
+      <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">
         <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Matchico</source>
         <target state="translated">Hej, %recruiterFirstName%, &lt;br&gt;&lt;br&gt; Ihr Kandidat %candidateFirstName% %candidateLastName% hat soeben die Zustimmung zum Vorschlag für die Position "%position%" gegeben.&lt;br&gt;&lt;br&gt;Viele Grüße,&lt;br&gt;&lt;br&gt;Dein Team von Transport Talent</target>
       </trans-unit>

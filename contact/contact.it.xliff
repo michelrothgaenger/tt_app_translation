@@ -5,67 +5,67 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.contact.meta.title" approved="no">
+      <trans-unit id="app.contact.meta.title" approved="yes">
         <source>app.contact.meta.title</source>
         <target>Contact us</target>
       </trans-unit>
-      <trans-unit id="app.contact.h1" approved="no">
+      <trans-unit id="app.contact.h1" approved="yes">
         <source>app.contact.h1</source>
         <target>Contact us</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.title" approved="no">
+      <trans-unit id="app.contact.section.email.title" approved="yes">
         <source>app.contact.section.email.title</source>
         <target>Email us</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.name" approved="no">
+      <trans-unit id="app.contact.section.email.name" approved="yes">
         <source>app.contact.section.email.name</source>
         <target>Name</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.email" approved="no">
+      <trans-unit id="app.contact.section.email.email" approved="yes">
         <source>app.contact.section.email.email</source>
         <target>Email</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.subject" approved="no">
+      <trans-unit id="app.contact.section.email.subject" approved="yes">
         <source>app.contact.section.email.subject</source>
         <target>Subject</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.message" approved="no">
+      <trans-unit id="app.contact.section.email.message" approved="yes">
         <source>app.contact.section.email.message</source>
         <target>Message</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.buttonLabel" approved="no">
+      <trans-unit id="app.contact.section.email.buttonLabel" approved="yes">
         <source>app.contact.section.email.buttonLabel</source>
         <target>Send</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.thanksgiving" approved="no">
+      <trans-unit id="app.contact.section.email.thanksgiving" approved="yes">
         <source>app.contact.section.email.thanksgiving</source>
         <target>Thank you</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.email.messageStatus" approved="no">
+      <trans-unit id="app.contact.section.email.messageStatus" approved="yes">
         <source>app.contact.section.email.messageStatus</source>
         <target>You message has been sent! We will be in touch soon.</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.title" approved="no">
+      <trans-unit id="app.contact.section.offices.title" approved="yes">
         <source>app.contact.section.offices.title</source>
         <target>Our offices</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.phone" approved="no">
+      <trans-unit id="app.contact.section.offices.phone" approved="yes">
         <source>app.contact.section.offices.phone</source>
         <target>Phone</target>
       </trans-unit>
-      <trans-unit id="app.contact.section.offices.directions.title" approved="no">
+      <trans-unit id="app.contact.section.offices.directions.title" approved="yes">
         <source>app.contact.section.offices.directions.title</source>
         <target>Directions</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.meta.title" approved="no">
+      <trans-unit id="app.contact.page.confirm.meta.title" approved="yes">
         <source>app.contact.page.confirm.meta.title</source>
         <target>Confirmation</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.h1" approved="no">
+      <trans-unit id="app.contact.page.confirm.h1" approved="yes">
         <source>app.contact.page.confirm.h1</source>
         <target>Thank you %title% %fullName%</target>
       </trans-unit>
-      <trans-unit id="app.contact.page.confirm.description" approved="no">
+      <trans-unit id="app.contact.page.confirm.description" approved="yes">
         <source>app.contact.page.confirm.description</source>
         <target>Your request has been submitted successfully and will be considered quickly.</target>
       </trans-unit>

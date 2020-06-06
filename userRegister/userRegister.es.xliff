@@ -41,7 +41,7 @@
         <source>registration.check_email</source>
         <target state="translated">Te hemos enviado un correo a %email%. Para activar tu cuenta, deberás hacer clic en el enlace que te enviamos.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="no">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>Thank you for signing up with Matchico!</source>
         <target state="translated">¡Gracias por unirte a Transport Talent!</target>
       </trans-unit>
@@ -133,7 +133,7 @@
         <source>app.userRegister.popup.email.placeholder</source>
         <target state="translated">Tu email</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.emailConfirmation" approved="no">
+      <trans-unit id="app.userRegister.popup.emailConfirmation" approved="yes">
         <source>app.userRegister.popup.emailConfirmation</source>
         <target state="translated">Recibirás un correo de confirmación de tu registro en Transport Talent.</target>
       </trans-unit>
@@ -265,7 +265,7 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Conecta con LinkedIn</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="no">
+      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
         <source>app.userRegister.step5.congrats</source>
         <target state="translated">¡Perfecto! Tu perfil de LinkedIn ya está conectado a Transport Talent.</target>
       </trans-unit>

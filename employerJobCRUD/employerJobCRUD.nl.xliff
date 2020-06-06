@@ -69,7 +69,7 @@
         <source>app.jobDescription</source>
         <target state="translated">Description</target>
       </trans-unit>
-      <trans-unit id="app.save" approved="no">
+      <trans-unit id="app.save" approved="yes">
         <source>app.save</source>
         <target state="translated">Opslaan</target>
       </trans-unit>

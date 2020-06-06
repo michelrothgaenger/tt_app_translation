@@ -5,18 +5,18 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
         <target>Ihr vorgeschlagener Kandidat</target> </trans-unit>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
         <target>%candidateEmail% %jobTitle%</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
         <target>Ihre Bewerbung ist noch offen</target>
       </trans-unit>
-      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="no">
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
         <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
       </trans-unit>

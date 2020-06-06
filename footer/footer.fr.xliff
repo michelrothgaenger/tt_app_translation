@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.profile" approved="no">
+      <trans-unit id="app.profile" approved="yes">
         <source>app.profile</source>
         <target>Profile</target>
       </trans-unit>
-      <trans-unit id="app.signOut" approved="no">
+      <trans-unit id="app.signOut" approved="yes">
         <source>app.signOut</source>
         <target>Sign Out</target>
       </trans-unit>
-      <trans-unit id="app.signIn" approved="no">
+      <trans-unit id="app.signIn" approved="yes">
         <source>app.signIn</source>
         <target>Sign in</target>
       </trans-unit>
@@ -21,7 +21,7 @@
         <source>app.signUp</source>
         <target state="translated">Enregistrer</target>
       </trans-unit>
-      <trans-unit id="app.forEmployers" approved="no">
+      <trans-unit id="app.forEmployers" approved="yes">
         <source>app.forEmployers</source>
         <target>For Employers</target>
       </trans-unit>

@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.application.salutation" approved="no">
+      <trans-unit id="app.application.salutation" approved="yes">
         <source>app.application.salutation</source>
         <target state="translated">Hej %firstname%,</target>
       </trans-unit>
-      <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">Vi har modtaget en ansøgning til dit jobopslag.</target>
       </trans-unit>
-      <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">Vi har vedhæftet CV og en personlig besked fra ansøgeren i denne mail.</target>
       </trans-unit>
@@ -21,11 +21,11 @@
         <source>app.application.appliedMsgLastPart</source>
         <target state="translated">Ansøgeren skrev:</target>
       </trans-unit>
-      <trans-unit id="app.application.replyingMsgFirstPart" approved="no">
+      <trans-unit id="app.application.replyingMsgFirstPart" approved="yes">
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">I kan kontakte ansøgeren ved at svare på denne besked. Har I nogen spørgsmål, sidder vi altid klar til at besvare dem.</target>
       </trans-unit>
-      <trans-unit id="app.application.respect" approved="no">
+      <trans-unit id="app.application.respect" approved="yes">
         <source>app.application.respect</source>
         <target state="translated">Med venlig hilsen,</target>
       </trans-unit>
@@ -37,7 +37,7 @@
         <source>app.application.generalSalutation</source>
         <target state="translated">Kære bruger</target>
       </trans-unit>
-      <trans-unit id="app.application.mail.ats" approved="no">
+      <trans-unit id="app.application.mail.ats" approved="yes">
         <source>app.application.mail.ats</source>
         <target state="translated">ATS</target>
       </trans-unit>

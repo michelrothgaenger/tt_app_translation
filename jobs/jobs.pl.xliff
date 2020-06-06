@@ -5,39 +5,39 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobs" approved="no">
+      <trans-unit id="app.jobs" approved="yes">
         <source>app.jobs</source>
         <target>Jobs</target>
       </trans-unit>
-      <trans-unit id="app.for" approved="no">
+      <trans-unit id="app.for" approved="yes">
         <source>app.for</source>
         <target>for</target>
       </trans-unit>
-      <trans-unit id="app.in" approved="no">
+      <trans-unit id="app.in" approved="yes">
         <source>app.in</source>
         <target>in</target>
       </trans-unit>
-      <trans-unit id="app.search" approved="no">
+      <trans-unit id="app.search" approved="yes">
         <source>app.search</source>
         <target>Search</target>
       </trans-unit>
-      <trans-unit id="app.jobsFilterCompanyPlaceholder" approved="no">
+      <trans-unit id="app.jobsFilterCompanyPlaceholder" approved="yes">
         <source>app.jobsFilterCompanyPlaceholder</source>
         <target>e.g. DHL</target>
       </trans-unit>
-      <trans-unit id="app.egGermany" approved="no">
+      <trans-unit id="app.egGermany" approved="yes">
         <source>app.egGermany</source>
         <target>e.g. Germany</target>
       </trans-unit>
-      <trans-unit id="app.allJobTypes" approved="no">
+      <trans-unit id="app.allJobTypes" approved="yes">
         <source>app.allJobTypes</source>
         <target>All job types</target>
       </trans-unit>
-      <trans-unit id="app.allJobLevels" approved="no">
+      <trans-unit id="app.allJobLevels" approved="yes">
         <source>app.allJobLevels</source>
         <target>All job levels</target>
       </trans-unit>
-      <trans-unit id="app.noJobsFound" approved="no">
+      <trans-unit id="app.noJobsFound" approved="yes">
         <source>app.noJobsFound</source>
         <target>No jobs found</target>
       </trans-unit>

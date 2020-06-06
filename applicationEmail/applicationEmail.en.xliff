@@ -5,15 +5,15 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.application.salutation" approved="no">
+      <trans-unit id="app.application.salutation" approved="yes">
         <source>app.application.salutation</source>
         <target state="translated">Dear %firstName%,</target>
       </trans-unit>
-      <trans-unit id="app.application.appliedMsgFirstPart" approved="no">
+      <trans-unit id="app.application.appliedMsgFirstPart" approved="yes">
         <source>app.application.appliedMsgFirstPart</source>
         <target state="translated">We received an application for your job posting</target>
       </trans-unit>
-      <trans-unit id="app.application.appliedMsgSecondPart" approved="no">
+      <trans-unit id="app.application.appliedMsgSecondPart" approved="yes">
         <source>app.application.appliedMsgSecondPart</source>
         <target state="translated">In the attachment, you will subsequently find the CV of the candidate as well as a personal message which was submitted alongside the application.</target>
       </trans-unit>
@@ -25,15 +25,15 @@
         <source>app.application.replyingMsgFirstPart</source>
         <target state="translated">You can get in touch with the candidate by replying to this message. Please do not hesitate to contact us, should you have any questions.</target>
       </trans-unit>
-      <trans-unit id="app.application.respect" approved="no">
+      <trans-unit id="app.application.respect" approved="yes">
         <source>app.application.respect</source>
         <target state="translated">Best Regards,</target>
       </trans-unit>
-      <trans-unit id="app.application.sender" approved="no">
+      <trans-unit id="app.application.sender" approved="yes">
         <source>app.application.sender</source>
         <target state="translated">Your Transport Talent Team</target>
       </trans-unit>
-      <trans-unit id="app.application.generalSalutation" approved="no">
+      <trans-unit id="app.application.generalSalutation" approved="yes">
         <source>app.application.generalSalutation</source>
         <target state="translated">Dear user,</target>
       </trans-unit>

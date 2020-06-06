@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.register" approved="no">
+      <trans-unit id="app.register" approved="yes">
         <source>app.register</source>
         <target state="translated">Registrieren Sie sich, um alle Karrieremöglichkeiten in Ihrem Fachgebiet zu sehen</target>
       </trans-unit>
@@ -33,7 +33,7 @@
         <source>app.iAgreeToThe</source>
         <target state="translated">Ich akzeptiere die</target>
       </trans-unit>
-      <trans-unit id="app.termsConditionsCheckbox" approved="no">
+      <trans-unit id="app.termsConditionsCheckbox" approved="yes">
         <source>app.termsConditionsCheckbox</source>
         <target state="translated">Allgemeinen Geschäftsbedingungen</target>
       </trans-unit>
@@ -41,11 +41,11 @@
         <source>registration.check_email</source>
         <target state="translated">Was wird als nächstes passieren?&lt;br&gt;&lt;br&gt;1. Eine E-Mail wurde an %email% gesendet. Es enthält einen Aktivierungslink, den Sie anklicken müssen, um Ihre E-Mail zu bestätigen.&lt;br&gt;2 Wir werden Ihr Konto überprüfen und innerhalb eines Arbeitstages freischalten und Sie erhalten eine Bestätigung per E-Mail.&lt;br&gt;Sie sind bereit, Transporttalent.com &lt;br&gt; zu nutzen.</target>
       </trans-unit>
-      <trans-unit id="registration.emailemp.subject" approved="no">
+      <trans-unit id="registration.emailemp.subject" approved="yes">
         <source>Thank you for signing up with Matchico!</source>
         <target state="translated">Vielen Dank für die Anmeldung bei Transport Talent!</target>
       </trans-unit>
-      <trans-unit id="registration.email.subject" approved="no">
+      <trans-unit id="registration.email.subject" approved="yes">
         <source>Welcome to Matchico!</source>
         <target state="translated">Willkommen bei Transport Talent!</target>
       </trans-unit>
@@ -145,7 +145,7 @@
         <source>app.userRegister.popup.registerButton</source>
         <target state="translated">Profil anlegen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.popup.login" approved="no">
+      <trans-unit id="app.userRegister.popup.login" approved="yes">
         <source>app.userRegister.popup.login</source>
         <target state="translated">Sie haben bereits ein Konto bei Transport Talent? Klicken Sie hier, um sich einzuloggen.</target>
       </trans-unit>
@@ -161,7 +161,7 @@
         <source>app.userRegister.popup.loginButton</source>
         <target state="translated">Login</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.greeting" approved="no">
+      <trans-unit id="app.userRegister.step2.greeting" approved="yes">
         <source>app.userRegister.step2.greeting</source>
         <target state="translated">Schön, Sie an Bord zu haben. Wenn Sie einen Job suchen, ist es an der Zeit Ihr Profil zu erstellen, damit wir Sie mit den richtigen Stellenangeboten und Arbeitgebern zusammenbringen können. Es dauert nur ein paar Minuten. Wenn Sie einfach nur anfangen wollen, Jobs an Kollegen und Freunde weiterzuleiten, überspringen Sie einfach das Profil und beginnen Sie sofort.</target>
       </trans-unit>
@@ -181,7 +181,7 @@
         <source>app.userRegister.step2.agreementPart1</source>
         <target state="translated">Mit meiner Registrierung akzeptiere ich die</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart2" approved="no">
+      <trans-unit id="app.userRegister.step2.agreementPart2" approved="yes">
         <source>app.userRegister.step2.agreementPart2</source>
         <target state="translated">Allgemeinen Geschäftsbedingungen</target>
       </trans-unit>
@@ -209,7 +209,7 @@
         <source>app.userRegister.step3.continueProfileFilling</source>
         <target state="translated">Profil ausfüllen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step3.lookAround" approved="no">
+      <trans-unit id="app.userRegister.step3.lookAround" approved="yes">
         <source>app.userRegister.step3.lookAround</source>
         <target state="translated">Überspringen und umsehen</target>
       </trans-unit>
@@ -217,11 +217,11 @@
         <source>app.userRegister.step4.stepSummary</source>
         <target state="translated">Schritt 1/4: Zusammenfassung</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortCV" approved="no">
+      <trans-unit id="app.userRegister.step4.shortCV" approved="yes">
         <source>Want to get headhunted and get the best out of Matchico? Make sure to complete the last part of your profile.</source>
         <target state="translated">Sie möchten von Transport Talent mit passenden Stellen angesprochen werden? Bitte stellen Sie sicher, dass Ihr Profil vollständig und aktuell ist.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummary" approved="no">
+      <trans-unit id="app.userRegister.step4.shortSummary" approved="yes">
         <source>app.userRegister.step4.shortSummary</source>
         <target>Profil bearbeiten</target>
       </trans-unit>
@@ -237,11 +237,11 @@
         <source>app.userRegister.steps.saveProceedButton</source>
         <target state="translated">Speichern und fortfahren &gt;</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="no">
+      <trans-unit id="app.userRegister.step4.shortSummaryText" approved="yes">
         <source>app.userRegister.step4.shortSummaryText</source>
         <target state="translated">Angaben zu Ihrer Berufserfahrung helfen uns, passende Stellen für Sie zu finden.</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step4.specialityLabel" approved="no">
+      <trans-unit id="app.userRegister.step4.specialityLabel" approved="yes">
         <source>app.userRegister.step4.specialityLabel</source>
         <target state="translated">Was sind Ihre Fachgebiete (z. B. Seefracht)?</target>
       </trans-unit>
@@ -261,7 +261,7 @@
         <source>app.userRegister.step5.stepImportDataButton</source>
         <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.congrats" approved="no">
+      <trans-unit id="app.userRegister.step5.congrats" approved="yes">
         <source>app.userRegister.step5.congrats</source>
         <target state="translated">Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
       </trans-unit>
@@ -273,11 +273,11 @@
         <source>app.userRegister.step5.DeleteCV</source>
         <target state="translated">Lebenslauf löschen</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.cvSuccesPart1" approved="no">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart1" approved="yes">
         <source>app.userRegister.step5.cvSuccesPart1</source>
         <target state="translated">Sie haben erfolgreich</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step5.cvSuccesPart2" approved="no">
+      <trans-unit id="app.userRegister.step5.cvSuccesPart2" approved="yes">
         <source>app.userRegister.step5.cvSuccesPart2</source>
         <target state="translated">Ihren Lebenslauf hochgeladen.</target>
       </trans-unit>
@@ -425,7 +425,7 @@
         <source>app.register.profile.email.placeholder</source>
         <target state="translated">email@domain.com</target>
       </trans-unit>
-      <trans-unit id="app.register.profile.dateOfLeave.label" approved="no">
+      <trans-unit id="app.register.profile.dateOfLeave.label" approved="yes">
         <source>app.register.profile.dateOfLeave.label</source>
         <target state="translated">Frühestes Startdatum</target>
       </trans-unit>
@@ -461,15 +461,15 @@
         <source>app.register.profile.CV.uploaded</source>
         <target state="translated">Lebenslauf hochgeladen</target>
       </trans-unit>
-      <trans-unit id="app.register.profile.dateOfLeave.error" approved="no">
+      <trans-unit id="app.register.profile.dateOfLeave.error" approved="yes">
         <source>app.register.profile.dateOfLeave.error</source>
         <target state="translated">Kündigungsfrist</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart3" approved="no">
+      <trans-unit id="app.userRegister.step2.agreementPart3" approved="yes">
         <source>app.userRegister.step2.agreementPart3</source>
         <target state="translated">Allgemeine Geschäftsbedingungen für Recruiter</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart4" approved="no">
+      <trans-unit id="app.userRegister.step2.agreementPart4" approved="yes">
         <source>app.userRegister.step2.agreementPart4</source>
         <target state="translated">und die Datenschutzerklärung</target>
       </trans-unit>
@@ -505,7 +505,7 @@
         <source>app.userRegister.step6.preferedJobCategories</source>
         <target state="translated">Bevorzugte Arbeitsfelder</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step6.preferedLocations" approved="no">
+      <trans-unit id="app.userRegister.step6.preferedLocations" approved="yes">
         <source>app.userRegister.step6.preferedLocations</source>
         <target state="translated">Bevorzugte Städte/Gebiete</target>
       </trans-unit>
@@ -545,7 +545,7 @@
         <source>app.userRegister.step2.agreementPart1.recruiter</source>
         <target state="translated">Mit der Anmeldung stimme ich den</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.step2.agreementPart2.recruiter" approved="no">
+      <trans-unit id="app.userRegister.step2.agreementPart2.recruiter" approved="yes">
         <source>app.userRegister.step2.agreementPart2.recruiter</source>
         <target state="translated">Allgemeinen Geschäftsbedingungen zu</target>
       </trans-unit>
@@ -573,35 +573,35 @@
         <source>app.userRegister.step3.lookAround.recruiter</source>
         <target state="translated">Überspringen &amp; Umsehen</target>
       </trans-unit>
-      <trans-unit id="registration.email.message.part1" approved="no">
+      <trans-unit id="registration.email.message.part1" approved="yes">
         <source>registration.email.message.part1</source>
         <target state="translated">Hej </target>
       </trans-unit>
-      <trans-unit id="registration.email.message.partFirstname" approved="no">
+      <trans-unit id="registration.email.message.partFirstname" approved="yes">
         <source>registration.email.message.partFirstname</source>
         <target state="translated"> %firstname%,</target>
       </trans-unit>
-      <trans-unit id="registration.email.message.part2" approved="no">
+      <trans-unit id="registration.email.message.part2" approved="yes">
         <source>&lt;br&gt; &lt;br&gt; thank you for registering on Matchico — to confirm your registration please push the button below to finish your registration and start browsing jobs.</source>
         <target state="translated">&lt;br&gt; &lt;br&gt;Danke für die Registrierung auf transporttalent.com - zur Bestätigung Ihrer Registrierung klicken Sie bitte auf den untenstehenden Button, um Ihre Registrierung abzuschließen und die Suche nach Jobs zu starten.</target>
       </trans-unit>
-      <trans-unit id="registration.email.message.confirm" approved="no">
+      <trans-unit id="registration.email.message.confirm" approved="yes">
         <source>registration.email.message.confirm</source>
         <target state="translated">Registrierung bestätigen</target>
       </trans-unit>
-      <trans-unit id="registration.email.message.part3" approved="no">
+      <trans-unit id="registration.email.message.part3" approved="yes">
         <source>registration.email.message.part3</source>
         <target state="translated">Sie können uns jederzeit kontaktieren, indem Sie auf diese Mail antworten.&lt;br&gt; &lt;br&gt; &lt;br&gt; Wir freuen uns, Sie an Bord zu haben!&lt;br&gt; &lt;br&gt; &lt;br&gt; Mit freundlichen Grüßen,&lt;br&gt;Michel Rothgaenger</target>
       </trans-unit>
-      <trans-unit id="app.userRegister.joinNow" approved="no">
+      <trans-unit id="app.userRegister.joinNow" approved="yes">
         <source>app.userRegister.joinNow</source>
         <target state="translated">JETZT ANMELDEN</target>
       </trans-unit>
-      <trans-unit id="form.salaryTitle" approved="no">
+      <trans-unit id="form.salaryTitle" approved="yes">
         <source>form.salaryTitle</source>
         <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
       </trans-unit>
-      <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="no">
+      <trans-unit id="app.registration_form_step7.salary.lengthConstraint" approved="yes">
         <source>app.registration_form_step7.salary.lengthConstraint</source>
         <target>Gehalt sollte mindestens vierstellig sein</target>
       </trans-unit>

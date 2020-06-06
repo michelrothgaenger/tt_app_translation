@@ -5,27 +5,27 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.loginPopup.title" approved="no">
+      <trans-unit id="app.loginPopup.title" approved="yes">
         <source>app.loginPopup.title</source>
         <target>Login</target>
       </trans-unit>
-      <trans-unit id="app.loginPopup.description" approved="no">
+      <trans-unit id="app.loginPopup.description" approved="yes">
         <source>app.loginPopup.description</source>
         <target>You need to sign in first to get access to all jobs and services on the site.</target>
       </trans-unit>
-      <trans-unit id="app.loginPopup.employerLoginLink" approved="no">
+      <trans-unit id="app.loginPopup.employerLoginLink" approved="yes">
         <source>app.loginPopup.employerLoginLink</source>
         <target>Are you an employer? Login here.</target>
       </trans-unit>
-      <trans-unit id="app.loginPopup.candidateLoginLink" approved="no">
+      <trans-unit id="app.loginPopup.candidateLoginLink" approved="yes">
         <source>app.loginPopup.candidateLoginLink</source>
         <target>Are you looking for jobs? Login here.</target>
       </trans-unit>
-      <trans-unit id="app.loginPopup.notRegisteredYet" approved="no">
+      <trans-unit id="app.loginPopup.notRegisteredYet" approved="yes">
         <source>app.loginPopup.notRegisteredYet</source>
         <target>Not registered yet? </target>
       </trans-unit>
-      <trans-unit id="app.loginPopup.signUpHer" approved="no">
+      <trans-unit id="app.loginPopup.signUpHer" approved="yes">
         <source>app.loginPopup.signUpHere</source>
         <target>Sign up here.</target>
       </trans-unit>

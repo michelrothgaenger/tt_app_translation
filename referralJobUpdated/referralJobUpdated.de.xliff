@@ -9,7 +9,7 @@
         <source>app.referralJobUpdated.subject</source>
         <target state="translated">Belohnung für %jobAdTitle% aktualisiert</target>
       </trans-unit>
-      <trans-unit id="app.referralJobUpdated" approved="no">
+      <trans-unit id="app.referralJobUpdated" approved="yes">
         <source>app.referralJobUpdated</source>
         <target state="translated">Hej, %firstName%,&lt;br&gt;&lt;br&gt; die Empfehlungsprämie für Ihre Stellenanzeige %jobAdTitle% wurde aktualisiert. Der Werber erhält nun %referralReward%, wenn Sie einen geworbenen Kandidaten für diese Position einstellen. Bitte zögern Sie nicht, uns zu kontaktieren, wenn Sie Fragen zu diesem Prozess haben.5&lt;br6&gt;7&lt;br8&gt; Viele Grüße Grüßen,9&lt;br0&gt;&lt;br&gt;Michel Rothgaenger</target>
       </trans-unit>

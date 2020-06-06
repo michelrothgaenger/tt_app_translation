@@ -5,7 +5,7 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.registeredTitle" approved="no">
+      <trans-unit id="app.registeredTitle" approved="yes">
         <source>Welcome to Transport Talent</source>
         <target state="translated">Tak fordi du oprettede en profil på Transport Talent</target>
       </trans-unit>

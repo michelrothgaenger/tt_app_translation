@@ -5,31 +5,31 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.jobExpiredPageTitle" approved="no">
+      <trans-unit id="app.jobExpiredPageTitle" approved="yes">
         <source>app.jobExpiredPageTitle</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.metaDescriptionExpiredPage" approved="no">
+      <trans-unit id="app.metaDescriptionExpiredPage" approved="yes">
         <source>app.metaDescriptionExpiredPage</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.jobExpiredPageDesc" approved="no">
+      <trans-unit id="app.jobExpiredPageDesc" approved="yes">
         <source>app.jobExpiredPageDesc</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.signUpNow" approved="no">
+      <trans-unit id="app.signUpNow" approved="yes">
         <source>app.signUpNow</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.searchRelatedJobs" approved="no">
+      <trans-unit id="app.searchRelatedJobs" approved="yes">
         <source>app.searchRelatedJobs</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.browseRelatedJobs" approved="no">
+      <trans-unit id="app.browseRelatedJobs" approved="yes">
         <source>app.browseRelatedJobs</source>
         <target state="translated"></target>
       </trans-unit>
-      <trans-unit id="app.linkToJobsTitle" approved="no">
+      <trans-unit id="app.linkToJobsTitle" approved="yes">
         <source>app.linkToJobsTitle</source>
         <target state="translated"></target>
       </trans-unit>

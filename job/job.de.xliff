@@ -5,11 +5,11 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.job.meta.title" approved="no">
+      <trans-unit id="app.job.meta.title" approved="yes">
         <source>app.job.meta.title</source>
         <target state="translated">Stellenanzeige</target>
       </trans-unit>
-      <trans-unit id="app.job.meta.description" approved="no">
+      <trans-unit id="app.job.meta.description" approved="yes">
         <source>app.job.meta.description</source>
         <target state="translated">Sehen Sie sich passende Stellenanzeigen an</target>
       </trans-unit>
@@ -41,11 +41,11 @@
         <source>app.job.section.main.title</source>
         <target state="translated">Stellenbeschreibung</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowTypeTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowTypeTitle" approved="yes">
         <source>app.job.section.main.rowTypeTitle</source>
         <target state="translated">Berufsfeld</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.rowLevelTitle" approved="no">
+      <trans-unit id="app.job.section.main.rowLevelTitle" approved="yes">
         <source>app.job.section.main.rowLevelTitle</source>
         <target state="translated">Erfahrungsstufe</target>
       </trans-unit>
@@ -241,7 +241,7 @@
         <source>app.job.popup.referral.linkToReferrals</source>
         <target state="translated">Alle Empfehlungen anzeigen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.referral.shareTitle" approved="no">
+      <trans-unit id="app.job.popup.referral.shareTitle" approved="yes">
         <source>app.job.popup.referral.shareTitle</source>
         <target state="translated">Hej, schau dir mal die Stellenanzeige "%title%" an.</target>
       </trans-unit>
@@ -257,7 +257,7 @@
         <source>app.job.referral.explanationTitle</source>
         <target state="translated">Ein neuer Job für Ihren Freund und %reward% für Sie</target>
       </trans-unit>
-      <trans-unit id="app.job.referral.explanation" approved="no">
+      <trans-unit id="app.job.referral.explanation" approved="yes">
         <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Matchico Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Matchico Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
         <target state="translated">Unterstützen Sie einen Freund bei der Stellensuche und erhalten Sie dafür eine Provision.&lt;br&gt;Ihr Freund bekommt einen Job, der ihn motiviert.&lt;br&gt; &lt;br&gt; &lt;br&gt; Werden Sie mit Transport Talent Referral selbst zum Headhunter&lt;br&gt; Empfehlen Sie Stellen über soziale und berufliche Netzwerke wie LinkedIn, Facebook und Twitter oder schicken Sie direkt eine E-Mail an einen Kontakt. Machen Sie Ihr persönliches Netzwerk zu Geld und helfen Sie anderen mit ihrer Karriere – Transport Talent Referral macht es möglich.&lt;br&gt; &lt;br&gt; Empfehlen&lt;br&gt; Ein Job, der nicht zu Ihnen passt? Leiten Sie die Anzeige an jemanden mit dem passenden Profil weiter und erhalten Sie eine Belohnung für Ihre Unterstützung. Wichtig ist, dass die Bewerbung über den von Ihnen geteilten Link erfolgt. Nur so können wir die Empfehlung eindeutig zuordnen und nach Vertragsabschluss die Provision auszahlen. &lt;br&gt; &lt;br&gt; Ohne Risiko: Sie müssen keinen Vertrag unterschreiben.&lt;br&gt; &lt;br&gt; Und anonym: Wir geben Ihren Namen nicht an das jeweilige Unternehmen weiter.</target>
       </trans-unit>
@@ -353,7 +353,7 @@
         <source>app.job.popup.referral.directLinkText</source>
         <target state="translated">Oder kopieren Sie diesen Link:</target>
       </trans-unit>
-      <trans-unit id="app.job.twitter.statusText" approved="no">
+      <trans-unit id="app.job.twitter.statusText" approved="yes">
         <source>Wanted: %title%! Find all details at Matchico: %jobUrl%</source>
         <target state="translated">%title% gesucht! Weitere Infos auf Transport Talent: %jobUrl%</target>
       </trans-unit>
@@ -377,7 +377,7 @@
         <source>app.job.apply.defaultMessage</source>
         <target state="translated">Eingereicht von %recruiterFirstName% %recruiterLastName%</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.title" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.title" approved="yes">
         <source>app.job.popup.uploadCandidate.title</source>
         <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
@@ -425,11 +425,11 @@
         <source>app.job.popup.uploadCandidate.noticePeriod.initialOption</source>
         <target state="translated">Kündigungsfrist auswählen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label</source>
         <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.label.uploaded" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.label.uploaded</source>
         <target state="translated">Lebenslauf ändern</target>
       </trans-unit>
@@ -437,7 +437,7 @@
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part1</source>
         <target state="translated">Sie haben hochgeladen</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.cv.fileinfo.part2" approved="yes">
         <source>app.job.popup.uploadCandidate.cv.fileinfo.part2</source>
         <target state="translated">als Lebenslauf.</target>
       </trans-unit>
@@ -453,7 +453,7 @@
         <source>app.job.section.main.rowSalaryRangeTitle</source>
         <target state="translated">Gehaltsvorstellung</target>
       </trans-unit>
-      <trans-unit id="app.job.section.main.uploadCV" approved="no">
+      <trans-unit id="app.job.section.main.uploadCV" approved="yes">
         <source>app.job.section.main.uploadCV</source>
         <target state="translated">Lebenslauf hochladen</target>
       </trans-unit>
@@ -469,7 +469,7 @@
         <source>app.job.apply.uploadCandidate.success</source>
         <target state="translated">Sie haben erfolgreich eine Bewerbung eingereicht</target>
       </trans-unit>
-      <trans-unit id="app.job.uploadCV.success.part1" approved="no">
+      <trans-unit id="app.job.uploadCV.success.part1" approved="yes">
         <source>app.job.uploadCV.success.part1</source>
         <target state="translated">Sie haben erfolgreich die Unterlagen</target>
       </trans-unit>
@@ -477,51 +477,51 @@
         <source>app.job.uploadCV.success.part2</source>
         <target state="translated">übermittelt - sehen Sie in Ihren Posteingang für weitere Informationen.</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.title" approved="yes">
         <source>app.job.recruiterNotApprovedPopup.title</source>
         <target>Hej</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
         <source>your registration request was submitted for approval. Once approved you can use Matchico with all functions.</source>
         <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie Transport Talent mit allen Funktionen nutzen.</target>
       </trans-unit>
-      <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="no">
+      <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
         <source>app.job.recruiterNotApprovedPopup.dashboardLink</source>
         <target>Dashboard</target>
       </trans-unit>
-      <trans-unit id="app.job.loginPopup.title" approved="no">
+      <trans-unit id="app.job.loginPopup.title" approved="yes">
         <source>app.job.loginPopup.title</source>
         <target>Anmelden</target>
       </trans-unit>
-      <trans-unit id="app.job.loginPopup.description" approved="no">
+      <trans-unit id="app.job.loginPopup.description" approved="yes">
         <source>app.job.loginPopup.description</source>
         <target>Sie müssen sich zuerst anmelden, um Zugang zu allen Jobs und Dienstleistungen auf der Website zu erhalten.</target>
       </trans-unit>
-      <trans-unit id="app.job.loginPopup.employerLoginLin" approved="no">
+      <trans-unit id="app.job.loginPopup.employerLoginLin" approved="yes">
         <source>app.job.loginPopup.employerLoginLink</source>
         <target>Sind Sie ein Arbeitgeber? Melden Sie sich hier an.</target>
       </trans-unit>
-      <trans-unit id="app.job.loginPopup.notRegisteredYet" approved="no">
+      <trans-unit id="app.job.loginPopup.notRegisteredYet" approved="yes">
         <source>app.job.loginPopup.notRegisteredYet</source>
         <target>Noch nicht registriert?</target>
       </trans-unit>
-      <trans-unit id="app.job.loginPopup.signUpHer" approved="no">
+      <trans-unit id="app.job.loginPopup.signUpHer" approved="yes">
         <source>app.job.loginPopup.signUpHere</source>
         <target>Registrieren Sie sich hier.</target>
       </trans-unit>
-      <trans-unit id="app.job.replaceCompanyName" approved="no">
+      <trans-unit id="app.job.replaceCompanyName" approved="yes">
         <source>Matchico on behalf of a client</source>
         <target>Transport Talent im Auftrag eines Kunden</target>
       </trans-unit>
-      <trans-unit id="app.job.blinding.title" approved="no">
+      <trans-unit id="app.job.blinding.title" approved="yes">
         <source>app.job.blinding.title</source>
         <target>Blind Job Buchung</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.salary.input.placeholder" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.input.placeholder" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.input.placeholder</source>
         <target state="translated">Geben Sie einen Betrag ein</target>
       </trans-unit>
-      <trans-unit id="app.job.popup.uploadCandidate.salary.input.title" approved="no">
+      <trans-unit id="app.job.popup.uploadCandidate.salary.input.title" approved="yes">
         <source>app.job.popup.uploadCandidate.salary.input.title</source>
         <target state="translated">Mindestens 4 Symbole, nur Zahlen</target>
       </trans-unit>

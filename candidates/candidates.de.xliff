@@ -5,91 +5,91 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      <trans-unit id="app.candidates.searchForm.term.placeholder" approved="no">
+      <trans-unit id="app.candidates.searchForm.term.placeholder" approved="yes">
         <source>app.candidates.searchForm.term.placeholder</source>
         <target>Verwenden Sie boolesche Operatoren AND, OR und NOT, um die besten Ergebnisse zu erzielen</target>
       </trans-unit>
-      <trans-unit id="app.candidates.search.button" approved="no">
+      <trans-unit id="app.candidates.search.button" approved="yes">
         <source>app.candidates.search.button</source>
         <target>Suchen</target>
       </trans-unit>
-      <trans-unit id="app.candidates.searchForm.filterTitle" approved="no">
+      <trans-unit id="app.candidates.searchForm.filterTitle" approved="yes">
         <source>app.candidates.searchForm.filterTitle</source>
         <target state="translated">Filter</target>
       </trans-unit>
-      <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="no">
+      <trans-unit id="app.candidates.searchForm.filterTitleShow" approved="yes">
         <source>app.candidates.searchForm.filterTitleShow</source>
         <target state="translated">Filter verwenden</target>
       </trans-unit>
-      <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="no">
+      <trans-unit id="app.candidates.searchForm.filterTitleHide" approved="yes">
         <source>app.candidates.searchForm.filterTitleHide</source>
         <target state="translated">Filter ausblenden</target>
       </trans-unit>
-      <trans-unit id="app.candidates.searchForm.resetFilter" approved="no">
+      <trans-unit id="app.candidates.searchForm.resetFilter" approved="yes">
         <source>app.candidates.searchForm.resetFilter</source>
         <target state="translated">Filter zurücksetzen</target>
       </trans-unit>
-      <trans-unit id="app.candidates.searchForm.filterAdd" approved="no">
+      <trans-unit id="app.candidates.searchForm.filterAdd" approved="yes">
         <source>app.candidates.searchForm.filterAdd</source>
         <target state="translated">Hinzufügen</target>
       </trans-unit>
-    <trans-unit id="app.candidates.title" approved="no">
+    <trans-unit id="app.candidates.title" approved="yes">
         <source>app.candidates.title</source>
         <target>Kandidatensuche -</target>
       </trans-unit>
-      <trans-unit id="app.candidates.view" approved="no">
+      <trans-unit id="app.candidates.view" approved="yes">
         <source>app.candidates.view</source>
         <target>Ansicht</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="no">
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.title" approved="yes">
         <source>app.candidates.filter.AreaOfExpertise.title</source>
         <target>Fachgebiet</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="no">
+      <trans-unit id="app.candidates.filter.AreaOfExpertise.placeholder" approved="yes">
         <source>app.candidates.filter.AreaOfExpertise.placeholder</source>
         <target>z. B. Steuern</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.location.title" approved="no">
+      <trans-unit id="app.candidates.filter.location.title" approved="yes">
         <source>app.candidates.filter.location.title</source>
         <target>Wohnort</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.location.placeholder" approved="no">
+      <trans-unit id="app.candidates.filter.location.placeholder" approved="yes">
         <source>app.candidates.filter.location.placeholder</source>
         <target>z. B. Land / Standort</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.category.title" approved="no">
+      <trans-unit id="app.candidates.filter.category.title" approved="yes">
         <source>app.candidates.filter.category.title</source>
         <target>Bevorzugte Tätigkeitsfelder</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.category.placeholder" approved="no">
+      <trans-unit id="app.candidates.filter.category.placeholder" approved="yes">
         <source>app.candidates.filter.category.placeholder</source>
         <target>z. B. Seefracht</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.preferredLocation.title" approved="no">
+      <trans-unit id="app.candidates.filter.preferredLocation.title" approved="yes">
         <source>app.candidates.filter.preferredLocation.title</source>
         <target>Bevorzugte Regionen &amp; Länder</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="no">
+      <trans-unit id="app.candidates.filter.preferredLocation.placeholder" approved="yes">
         <source>app.candidates.filter.preferredLocation.placeholder</source>
         <target>z. B. Land / Standort</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.salary.title" approved="no">
+      <trans-unit id="app.candidates.filter.salary.title" approved="yes">
         <source>app.candidates.filter.salary.title</source>
         <target>Gehaltsspanne</target>
       </trans-unit>
-      <trans-unit id="app.candidates.filter.salary.placeholder" approved="no">
+      <trans-unit id="app.candidates.filter.salary.placeholder" approved="yes">
         <source>app.candidates.filter.salary.placeholder</source>
         <target>Gehaltsspanne</target>
       </trans-unit>
-      <trans-unit id="app.noCandidatesFound" approved="no">
+      <trans-unit id="app.noCandidatesFound" approved="yes">
         <source>app.noCandidatesFound</source>
         <target>Keine Kandidaten gefunden</target>
       </trans-unit>
-      <trans-unit id="app.noticePeriod" approved="no">
+      <trans-unit id="app.noticePeriod" approved="yes">
         <source>app.noticePeriod</source>
         <target>Kündigungsfrist</target>
       </trans-unit>
-      <trans-unit id="app.salary" approved="no">
+      <trans-unit id="app.salary" approved="yes">
         <source>app.salary</source>
         <target>Gehalt</target>
       </trans-unit>

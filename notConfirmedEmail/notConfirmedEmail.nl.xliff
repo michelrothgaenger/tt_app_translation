@@ -9,7 +9,7 @@
         <source>app.notConfirmedEmail.subject</source>
         <target state="translated">Your account is still not confirmed</target>
       </trans-unit>
-      <trans-unit id="app.notConfirmedEmail" approved="no">
+      <trans-unit id="app.notConfirmedEmail" approved="yes">
         <source>Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your account using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Matchico Team</source>
         <target state="translated">Dear%firstName%,&lt;br&gt;&lt;br&gt; Please activate your acc using this link &lt;a href="%confirmationUrl%"&gt;%confirmationUrl%&lt;/a&gt;&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Teaam</target>
       </trans-unit>

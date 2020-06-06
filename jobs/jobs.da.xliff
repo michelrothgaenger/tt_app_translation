@@ -134,7 +134,7 @@
         <target>Hej</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="yes">
-        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
+        <source>app.jobs.recruiterNotApprovedPopup.info</source>
         <target state="translated">din profiloprettelse er indsendt til godkendelse. Når vi har godkendt den vil du have fuld adgang til at benytte alle funktioner på Transport Talent platformen.</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="yes">

@@ -10,7 +10,7 @@
         <target state="translated">Ansøgningen skal tjekkes.</target>
       </trans-unit>
       <trans-unit id="app.inactivityApplications.content" approved="yes">
-        <source>Dear %firstName%,&lt;br&gt;&lt;br&gt; Your application needs to be reviewed. &lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <source>app.inactivityApplications.content</source>
         <target state="translated">Kære %firstName% %lastName%,&lt;br&gt;&lt;br&gt; Ansøgning skal tjekkes. &lt;br&gt;&lt;br&gt; Venlig Hilsen,&lt;br&gt;&lt;br&gt;Transport Talent teamet</target>
       </trans-unit>
     </body>

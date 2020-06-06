@@ -10,7 +10,7 @@
         <target state="translated">Candidate was submitted</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.pendingConfirmation.content" approved="yes">
-        <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <source>app.informRecruiterEmail.pendingConfirmation.content</source>
         <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; you just submitted %candidateFirstName% %candidateLastName% for the position "%position%". Due to data privacy reasons we sent an email to the candidate and asked for confirmation.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.subject" approved="yes">
@@ -18,7 +18,7 @@
         <target state="translated">The candidate has confirmed the application for the position "%position%".</target>
       </trans-unit>
       <trans-unit id="app.informRecruiterEmail.applicationConfirmed.content" approved="yes">
-        <source>Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</source>
+        <source>app.informRecruiterEmail.applicationConfirmed.content</source>
         <target state="translated">Dear %recruiterFirstName%, &lt;br&gt;&lt;br&gt; your candidate %candidateFirstName% %candidateLastName% just confirmed to get presented for position "%position%".&lt;br&gt;&lt;br&gt;Kind regards,&lt;br&gt;&lt;br&gt;Your team at Transport Talent</target>
       </trans-unit>
     </body>

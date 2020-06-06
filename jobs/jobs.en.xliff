@@ -134,7 +134,7 @@
         <target>Hi</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.info" approved="yes">
-        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
+        <source>app.jobs.recruiterNotApprovedPopup.info</source>
         <target>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</target>
       </trans-unit>
       <trans-unit id="app.jobs.recruiterNotApprovedPopup.dashboardLink" approved="yes">
@@ -142,7 +142,7 @@
         <target>Dashboard</target>
       </trans-unit>
       <trans-unit id="app.jobs.replaceCompanyName" approved="yes">
-        <source>Transport Talent on behalf of a client</source>
+        <source>app.jobs.replaceCompanyName</source>
         <target>Transport Talent on behalf of a client</target>
       </trans-unit>
       <trans-unit id="app.jobs.blinding.title" approved="yes">

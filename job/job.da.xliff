@@ -490,7 +490,7 @@
         <target>Hej</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
-        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
+        <source>app.job.recruiterNotApprovedPopup.info</source>
         <target>din anmodning om at blive registreret er indsendt til godkendelse. Når den er godkendt kan du bruge alle funktioner på Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
@@ -498,7 +498,7 @@
         <target>Dashboard</target>
       </trans-unit>
       <trans-unit id="app.job.replaceCompanyName" approved="yes">
-        <source>Transport Talent on behalf of a client</source>
+        <source>app.job.replaceCompanyName</source>
         <target>Transport Talent på vegne af kunde</target>
       </trans-unit>
       <trans-unit id="app.job.blinding.title" approved="yes">

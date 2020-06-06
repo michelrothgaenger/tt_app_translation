@@ -14,11 +14,11 @@
         <target>Neuer Personalberater muss genehmigt werden</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="yes">
-        <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
+        <source>app.registeredRecruiter.toRecruiter.content</source>
         <target state="translated">Hej %FirstName%, &lt;br&gt;&lt;br&gt;&lt;br&gt;Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Genehmigung können Sie alle Personalberaterfunktionen auf der Transport Talent Plattform nutzen.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="yes">
-        <source>Your registration to become a recruiter on the platform will have to be confirmed by Transport Talent.</source>
+        <source>app.registeredRecruiter.toRecruiter.subject</source>
         <target state="translated">Ihre Registrierung als Personalvermittler auf der Plattform muss von Transport Talent bestätigt werden.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="yes">

@@ -482,7 +482,7 @@
         <target>Hej</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.info" approved="yes">
-        <source>your registration request was submitted for approval. Once approved you can use Transport Talent with all functions.</source>
+        <source>app.job.recruiterNotApprovedPopup.info</source>
         <target>Ihr Registrierungsantrag wurde zur Genehmigung eingereicht. Nach der Freigabe können Sie Transport Talent mit allen Funktionen nutzen.</target>
       </trans-unit>
       <trans-unit id="app.job.recruiterNotApprovedPopup.dashboardLink" approved="yes">
@@ -510,7 +510,7 @@
         <target>Registrieren Sie sich hier.</target>
       </trans-unit>
       <trans-unit id="app.job.replaceCompanyName" approved="yes">
-        <source>Transport Talent on behalf of a client</source>
+        <source>app.job.replaceCompanyName</source>
         <target>Transport Talent im Auftrag eines Kunden</target>
       </trans-unit>
       <trans-unit id="app.job.blinding.title" approved="yes">

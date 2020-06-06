@@ -14,11 +14,11 @@
         <target state="translated">Ny recruiter skal godkendes</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="yes">
-        <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
+        <source>app.registeredRecruiter.toRecruiter.content</source>
         <target state="translated">Kære bruger, &lt;br&gt;&lt;br&gt;din ansøgning om tilmelding er modtaget til godkendelse. Når du er godkendt vil du være i stand til at bruge alle recruiter funktioner på Transport Talent platformen.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="yes">
-        <source>Your registration to become a recruiter on the platform will have to be confirmed by Transport Talent.</source>
+        <source>app.registeredRecruiter.toRecruiter.subject</source>
         <target state="translated">Din anmodning om at blive godkendt som recruiter på platformen skal bekræftes af Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="yes">
@@ -34,7 +34,7 @@
         <target state="translated">Din anmodning blev bekræftet.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toRecruiter.content" approved="yes">
-        <source>Dear %firstName%, &lt;br&gt;Your registration request was approved by %partnerFirstName% %partnerLastName%. You now have access to use all recruiter functions of the Transport Talent platform. &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <source>app.confirmedRecruiter.toRecruiter.content</source>
         <target state="translated">Kære bruger, din anmodning blev godkendt af% partnerFirstName%% partnerLastName%. Nu kan du bruge alle recruiter funktioner på Transport Talent -platformen.</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toPartner.linkForApproving" approved="yes">

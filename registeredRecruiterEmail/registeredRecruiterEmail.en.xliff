@@ -14,11 +14,11 @@
         <target state="translated">A new recruiter has to be approved</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.content" approved="yes">
-        <source>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</source>
+        <source>app.registeredRecruiter.toRecruiter.content</source>
         <target>Dear %firstName%, &lt;br&gt;&lt;br&gt;your registration request was submitted for approval. Once approved you will be able to use all recruiter functions on the Transport Talent platform.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt; Your Transpsort Talent Team</target>
       </trans-unit>
       <trans-unit id="app.registeredRecruiter.toRecruiter.subject" approved="yes">
-        <source>Your registration to become a recruiter on the platform will have to be confirmed by Transport Talent.</source>
+        <source>app.registeredRecruiter.toRecruiter.subject</source>
         <target state="translated">Your registration to become a recruiter on the platform will have to be confirmed by Transport Talent.</target>
       </trans-unit>
       <trans-unit id="app.confirmedRecruiter.toPartner.subject" approved="yes">

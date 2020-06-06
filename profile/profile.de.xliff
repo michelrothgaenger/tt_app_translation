@@ -346,7 +346,7 @@
         <target state="translated">Hier sehen Sie Ihre ausgewählten Stellen.</target>
       </trans-unit>
       <trans-unit id="app.profile.saved.jobs.description" approved="yes">
-        <source>Manage your job hunt with Transport Talent – add and delete jobs as you see fit. Postings will still be available after deactivation by the employer to allow you to prepare for interviews.</source>
+        <source>app.profile.saved.jobs.description</source>
         <target state="translated">Organisieren Sie Ihre Jobsuche mit Transport Talent: Fügen Sie weitere Jobs hinzu oder löschen Sie vorhandene, um Ihre Auswahl anzupassen. Alle hier gespeicherten Anzeigen sind auch dann noch verfügbar, wenn sie vom Anbieter deaktiviert wurden. So können Sie sich optimal auf Ihre Vorstellungsgespräche vorbereiten.</target>
       </trans-unit>
       <trans-unit id="app.profile.dashboard.saved-companies.tile.description" approved="yes">
@@ -658,7 +658,7 @@
         <target state="translated">Mit LinkedIn verbinden</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.congrats" approved="yes">
-        <source>Congrats! You've successfully connected your LinkedIn account with Transport Talent.</source>
+        <source>app.profile.editor.congrats</source>
         <target state="translated">Herzlichen Glückwunsch! Sie haben Ihr LinkedIn-Konto erfolgreich mit Transport Talent verbunden.</target>
       </trans-unit>
       <trans-unit id="app.profile.editor.DeleteCV" approved="yes">

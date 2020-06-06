@@ -342,7 +342,7 @@
         <target state="translated">Connect your friends to jobs, earn %reward% + bonus %ambassador_bonus% and recognition</target>
       </trans-unit>
       <trans-unit id="app.job.referral.explanation" approved="yes">
-        <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
+        <source>app.job.referral.explanation</source>
         <target state="translated">You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</target>
       </trans-unit>
       <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
@@ -442,7 +442,7 @@
         <target state="translated">Unfollow company</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.statusText" approved="yes">
-        <source>Wanted: %title%! Find all details at Transport Talent: %jobUrl%</source>
+        <source>app.job.twitter.statusText</source>
         <target state="translated">Wanted: %title%! Find all details at Transport Talent: %jobUrl%</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.hashTags" approved="yes">

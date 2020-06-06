@@ -262,7 +262,7 @@
         <target state="translated">Forbind dine venner til jobs, tjen %reward% og anerkendelse</target>
       </trans-unit>
       <trans-unit id="app.job.referral.explanation" approved="yes">
-        <source>You get cash rewards and satisfaction for helping a friend.&lt;br&gt; Your friends win by getting a job they love.&lt;br&gt; &lt;br&gt; &lt;br&gt; With Transport Talent Referral, everyone can be a headhunter&lt;br&gt; Recommend jobs directly to a friend via social and professional networks like LinkedIn, Facebook and Twitter or email jobs directly to a friend or contact. Transport Talent Referral can be a great way to make extra money from your personal network while helping people find their next job.&lt;br&gt; &lt;br&gt; Refer&lt;br&gt; See an opportunity that's not for you? Refer it to the people you know would love it so you can be rewarded for helping out your peers. Just make sure the application is handed in via the link you shared. This way we know who earned the commission. Once your contact signed the contract of employment you will be paid out.&lt;br&gt; &lt;br&gt; No risk for you - no need to sign a contract&lt;br&gt; &lt;br&gt; We protect your data and keep your name private for the companies. Anonymous.</source>
+        <source>app.job.referral.explanation</source>
         <target state="translated">Du får kontante belønninger og tilfredsstillelsen for at hjælpe en ven. &lt;br&gt; dine venner får drømmejobbet. &lt;br&gt; Med Transport Talent Referral, kan alle være headhunterer &lt;br&gt; Anbefal jobs direkte til en ven via sociale netværk som LinkedIn, Facebook og Twitter eller e-mail-job direkte til en ven eller en god kontakt. Transport Talent Referral er en nem måde at tjene lidt ekstra penge på samtidig med at du hjælper folk fra dit netværk med at finde deres næste job. &lt;br&gt; Se &lt;br&gt; Ser du en jobmulighed der ikke lige er noget for dig? Anbefal det til folk i dit netværk der kunne være interesseret, så du kan blive belønnet hvis du søger jobbet og bliver ansat. Du skal blot sørge for at de ansøger via det link du har delt med dem. På den måde ved vi hvem der skal have kommissionen. Når personen fra dit netværk har underskret ansættelsesaftalen vil du blive kontaktet så vi kan overføre pengene til dig &lt;br&gt; Der er ingen risiko for dig - og du behøver ikke at underskrive en kontrakt &lt;br&gt; Vi beskytter naturligivs dine personlige oplysninger og holder dit navn hemmeligt for den ansættende virksomhed.</target>
       </trans-unit>
       <trans-unit id="app.job.section.popup.apply.cvTitle" approved="yes">
@@ -446,7 +446,7 @@
         <target state="translated">Unfollow virksomhed</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.statusText" approved="yes">
-        <source>Wanted: %title%! Find all details at Transport Talent: %jobUrl%</source>
+        <source>app.job.twitter.statusText</source>
         <target state="translated">Ønsket: %title%! Se alle detaljer på Transport Talent: %jobUrl%</target>
       </trans-unit>
       <trans-unit id="app.job.twitter.hashTags" approved="yes">

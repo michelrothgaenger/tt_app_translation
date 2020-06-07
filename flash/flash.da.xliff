@@ -67,26 +67,36 @@
         </trans-unit>
     <trans-unit id="app.flash.applicationHidden" approved="yes">
           <source>app.flash.applicationHidden</source>
-          <target state="translated">Ansøgning er skjult</target> </trans-unit>
+          <target state="translated">Ansøgning er skjult</target> 
+</trans-unit>
     <trans-unit id="app.flash.applicationUndoHidden" approved="yes">
           <source>app.flash.applicationUndoHidden</source>
           <target state="translated">Ansøgning er gemt igen</target>
         </trans-unit>
     <trans-unit id="app.flash.registerAndApply" approved="yes">
           <source>app.flash.registerAndApply</source>
-          <target state="translated">Ansøgning er blevet indsendt!</target> </trans-unit>
+          <target state="translated">Ansøgning er blevet indsendt!</target> 
+</trans-unit>
         <trans-unit id="app.flashMessageJobPostLater" approved="yes">
             <source>app.flashMessageJobPostLater</source>
-            <target state="translated">Din jobannonce vil blive vist fra den %date% at %time%.</target> </trans-unit>
+            <target state="translated">Din jobannonce vil blive vist fra den %date% at %time%.</target> 
+</trans-unit>
         <trans-unit id="app.flash.inactivityJob.deactivate" approved="yes">
             <source>app.flash.inactivityJob.deactivate</source>
-            <target state="translated">Job er deaktiveret</target> </trans-unit>
+            <target state="translated">Job er deaktiveret</target> 
+</trans-unit>
         <trans-unit id="app.flash.inactivityJob.update" approved="yes">
             <source>app.flash.inactivityJob.update</source>
-            <target state="translated">Job er blevet opdateret</target> </trans-unit>
+            <target state="translated">Job er blevet opdateret</target> 
+</trans-unit>
         <trans-unit id="app.flash.linkedin.alreadyInUse" approved="yes">
             <source>app.flash.linkedin.alreadyInUse</source>
-            <target state="translated">Denne LinkedIn konto er allerede blevet brugt af en anden bruger</target> </trans-unit>
+            <target state="translated">Denne LinkedIn konto er allerede blevet brugt af en anden bruger</target> 
+</trans-unit>
+      <trans-unit id="app.flash.cv.upload.error.wrongSize" approved="yes">
+        <source>app.flash.cv.upload.error.wrongSize</source>
+        <target>The file must be not larger than 15 MB.</target>
+      </trans-unit>   
     </body>
   </file>
 </xliff>

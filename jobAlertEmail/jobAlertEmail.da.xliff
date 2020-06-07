@@ -5,6 +5,10 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
+      <trans-unit id="app.jobAlertEmail.jobAlertCreated.secondPart" approved="yes">
+        <source>app.jobAlertEmail.jobAlertCreated.secondPart</source>
+        <target state="translated">&lt;br&gt;If you want to change the settings for your job alert, please go to your &lt;a href="%jobAlertsUrl%"&gt;profile&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;&lt;br&gt;Your Transport Talent Team</target>
+      </trans-unit>
       <trans-unit id="app.jobAlertEmail.jobAlertCreated.firstPart" approved="yes">
         <source>app.jobAlertEmail.jobAlertCreated.firstPart</source>
         <target state="translated">Kære bruger,&lt;br&gt;&lt;br&gt;Din jobagent er nu aktiv med de følgende kriterier:&lt;br&gt;&lt;br&gt;</target>
@@ -84,6 +88,10 @@
       <trans-unit id="app.jobAlertEmail.jobAlertJobs.part2" approved="yes">
         <source>app.jobAlertEmail.jobAlertJobs.part2</source>
         <target>Er du stadig på udkig efter spændende stillinger indenfor transport og logistik? Vi har bemærket at du ikke har brugt Transport Talent i noget tid. Vi har samlet nogle potentielle jobmuligheder til dig nedenfor:</target>
+      </trans-unit>
+      <trans-unit id="app.jobAlertEmail.jobAlertJobs.part3" approved="yes">
+        <source>app.jobAlertEmail.jobAlertJobs.part3</source>
+        <target>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
       </trans-unit>
     </body>
   </file>

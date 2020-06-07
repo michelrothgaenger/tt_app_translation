@@ -9,9 +9,17 @@
         <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.subject</source>
         <target>Din indsendte kandidat</target>
       </trans-unit>
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toRecruiter.content" approved="yes">
+        <source>app.uploadedCandidateNotConfirmedEmail.toRecruiter.content</source>
+        <target>Dear %firstNameHR%,&lt;br&gt;&lt;br&gt;Your candidate submission has been received. Due to data privacy regulations, the candidate will receive a link to confirm their account.&lt;br&gt;Thank you for your continued support.&lt;br&gt;&lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</target>
+      </trans-unit>
       <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.subject" approved="yes">
         <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.subject</source>
         <target>Din ansøgning afventer stadig.</target>
+      </trans-unit>
+      <trans-unit id="app.uploadedCandidateNotConfirmedEmail.toCandidate.content" approved="yes">
+        <source>app.uploadedCandidateNotConfirmedEmail.toCandidate.content</source>
+        <target>%recruiterFirstName% %recruiterLastName% %jobTitle%</target>
       </trans-unit>
     </body>
   </file>

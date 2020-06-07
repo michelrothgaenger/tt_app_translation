@@ -46,7 +46,7 @@
         <target state="translated">Tak fordi du har oprettet en profil på Transport Talent!</target>
       </trans-unit>
       <trans-unit id="registration.email.subject" approved="yes">
-        <source>Welcome to Transport Talent!</source>
+        <source>registration.email.subject</source>
         <target state="translated">Velkommen til Transport Talent!</target>
       </trans-unit>
       <trans-unit id="form.email" approved="yes">
@@ -626,7 +626,7 @@
         <target state="translated">%firstname%,</target>
       </trans-unit>
       <trans-unit id="registration.email.message.part2" approved="yes">
-        <source>&lt;br&gt; &lt;br&gt; thank you for registering on Transport Talent — to confirm your registration please push the button below to finish your registration and start browsing jobs.</source>
+        <source>registration.email.message.part2</source>
         <target state="translated">&lt;br&gt; &lt;br&gt; Tak for din tilmelding til transporttalent.com — for at bekræfte og afslutte din tilmelding skal du trykke på nedenstående knap.</target>
       </trans-unit>
       <trans-unit id="registration.email.message.confirm" approved="yes">
@@ -634,7 +634,7 @@
         <target state="translated">Bekræft tilmelding</target>
       </trans-unit>
       <trans-unit id="registration.email.message.part3" approved="yes">
-        <source>Feel free to contact us any time by replying to this mail.&lt;br&gt; &lt;br&gt;We are happy to have you aboard!&lt;br&gt; &lt;br&gt;Best Regards,&lt;br&gt;Your Transport Talent Team</source>
+        <source>registration.email.message.part3</source>
         <target state="translated">Du kan altid komme i kontakt med os ved at svare på denne email.&lt;br&gt; &lt;br&gt;Vi er glade for at have dig med i netværket!&lt;br&gt; &lt;br&gt;Venlig Hilsen,&lt;br&gt;Transport Talent teamet</target>
       </trans-unit>
       <trans-unit id="app.userRegister.joinNow" approved="yes">
